@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>DayNews - 市场要闻时间线</title>
+  <title>每日财经早报2026.03.01</title>
   <style>
     :root{
       --bg0:#070b16;
@@ -35,7 +35,7 @@
         linear-gradient(180deg, var(--bg1), var(--bg0));
     }
 
-    .wrap{max-width:980px;margin:0 auto;padding:26px 18px 56px}
+    .wrap{max-width:1100px;margin:0 auto;padding:26px 18px 56px}
 
     header{
       border:1px solid var(--stroke);
@@ -49,9 +49,12 @@
     .pill{border:1px solid rgba(255,255,255,.14); background: rgba(255,255,255,.06); padding:6px 10px; border-radius:999px}
 
     h1{margin:10px 0 6px; font-family:var(--serif); font-size: clamp(26px, 4.2vw, 44px); line-height:1.1}
-    .sub{margin:0;color:var(--muted); line-height:1.55; max-width:80ch; font-size:14.5px}
+    .sub{margin:0;color:var(--muted); line-height:1.6; max-width:90ch; font-size:14.5px}
 
-    .card{margin-top:14px; border:1px solid var(--stroke); background: rgba(255,255,255,.05); border-radius: var(--r); overflow:hidden; box-shadow: 0 10px 44px rgba(0,0,0,.28)}
+    .grid{display:grid; grid-template-columns: 1.25fr .75fr; gap:14px; margin-top:14px}
+    @media (max-width: 980px){.grid{grid-template-columns:1fr}}
+
+    .card{border:1px solid var(--stroke); background: rgba(255,255,255,.05); border-radius: var(--r); overflow:hidden; box-shadow: 0 10px 44px rgba(0,0,0,.28)}
     .card h2{margin:0; padding:14px 14px 12px; border-bottom:1px solid rgba(255,255,255,.10); font-family:var(--mono); font-size:12px; color:var(--muted); letter-spacing:.03em; display:flex; justify-content:space-between; gap:12px; align-items:center}
     .badge{font-family:var(--mono); font-size:11px; padding:6px 10px; border:1px solid rgba(255,255,255,.14); border-radius:999px; background: rgba(255,255,255,.05); color:var(--muted)}
 
@@ -61,83 +64,175 @@
     .top{display:flex; justify-content:space-between; gap:10px; align-items:baseline}
     .src{font-family:var(--mono); font-size:11px; color:var(--faint)}
     .time{font-family:var(--mono); font-size:11px; color:var(--muted)}
-    .title{margin:6px 0 6px; font-size:14px; font-weight:750; line-height:1.25}
+    .title{margin:6px 0 6px; font-size:14px; font-weight:780; line-height:1.25}
     .meta{margin:0; color:var(--muted); font-size:12.5px; line-height:1.45}
 
     a{color:inherit; text-decoration:none}
     a:hover{text-decoration:underline}
 
+    .row{padding:10px 12px; border-radius: 14px; border:1px solid rgba(255,255,255,.10); background: rgba(255,255,255,.04); display:flex; justify-content: space-between; gap:12px; align-items: baseline}
+    .row .l{display:flex; flex-direction:column; gap:5px}
+    .row .l .k{font-family:var(--mono); font-size: 11px; color: var(--faint)}
+    .row .l .v{font-size: 13.5px; font-weight: 720}
+    .row .r{font-family:var(--mono); font-size: 11px; color: var(--muted); white-space:nowrap}
+
     footer{margin-top:12px; font-family:var(--mono); color:var(--faint); font-size:12px; line-height:1.45}
 
+    .accent-a{border-color: rgba(96,165,250,.24)}
+    .accent-b{border-color: rgba(52,211,153,.24)}
+    .accent-c{border-color: rgba(251,191,36,.24)}
     .accent-d{border-color: rgba(251,113,133,.24)}
+
+    .sticky{position:sticky; top:14px}
+
+    .note{font-family:var(--mono); font-size:12px; color:var(--muted); line-height:1.55}
+    .warn{color: rgba(251,113,133,.95); font-weight: 750}
   </style>
 </head>
 <body>
   <div class="wrap">
     <header>
       <div class="k">
-        <span class="pill">DayNews</span>
-        <span class="pill">主题：中东局势时间线（北京时间）</span>
-        <span class="pill">更新：2026-03-01</span>
+        <span class="pill">口径：美东时间</span>
+        <span class="pill">范围：2026-02-28 ~ 2026-03-01（近似前一交易日/周末窗口）</span>
+        <span class="pill">重点：七姐妹 + 关联公司 · 美联储 · 美政府/监管 · 地缘</span>
+        <span class="pill">来源：Finnhub（company news by ticker）</span>
       </div>
-      <h1>中东局势 · 时间线</h1>
-      <p class="sub">本页基于 Finnhub company news（SPY 代理）过滤关键词（Iran/Israel/UAE/Doha/Abu Dhabi/missile/oil 等）得到的时间线，供交易复盘与风险监控使用。</p>
+      <h1>每日财经早报2026.03.01</h1>
+      <p class="sub">这是一份“交易导向”的前一日美股大事汇总：先给结论与主线，再按模块列出可核对的原始链接。由于未启用全网搜索，本页覆盖以 Finnhub 收录的新闻源为主；若你后续提供固定的 Fed/宏观日历来源链接，可把日历与官方声明补全到分钟级。</p>
       <footer>风险提示：仅供信息与研究，不构成投资建议。</footer>
     </header>
 
-    <section class="card">
-      <h2><span>过去 3 天筛选结果</span><span class="badge">geo: 12 items</span></h2>
-      <div class="items">
-        <div class="item accent-d">
-          <div class="top"><div class="src">SeekingAlpha</div><div class="time">03-01 01:15</div></div>
-          <div class="title">美伊冲突“第二回合”可能带来的后续影响</div>
-        </div>
-        <div class="item accent-d">
-          <div class="top"><div class="src">SeekingAlpha</div><div class="time">03-01 01:00</div></div>
-          <div class="title">美伊战争：第一阶段（叙事类）</div>
-        </div>
-        <div class="item accent-d">
-          <div class="top"><div class="src">SeekingAlpha</div><div class="time">03-01 00:45</div></div>
-          <div class="title">美以对伊朗发动攻击（叙事类），强调“油”作为对冲/交易标的</div>
-        </div>
-        <div class="item accent-d">
-          <div class="top"><div class="src">SeekingAlpha</div><div class="time">02-28 23:00</div></div>
-          <div class="title">升级冲击触发 risk-off：USD/黄金受益，油与军工航天偏强（叙事类）</div>
-        </div>
-        <div class="item accent-d">
-          <div class="top"><div class="src">Benzinga / Reuters</div><div class="time">02-28 18:16</div></div>
-          <div class="title">以军称完成对伊朗“战略防空系统”的大规模打击（路透）</div>
-        </div>
-        <div class="item accent-d">
-          <div class="top"><div class="src">SeekingAlpha</div><div class="time">02-28 18:15</div></div>
-          <div class="title">伊朗升级：油价冲击、金价走强、权益风险上升（叙事类）</div>
-        </div>
-        <div class="item accent-d">
-          <div class="top"><div class="src">SeekingAlpha</div><div class="time">02-28 16:26</div></div>
-          <div class="title">若局势可控，未必导致“市场末日式”下跌（情景讨论）</div>
-        </div>
-        <div class="item accent-d">
-          <div class="top"><div class="src">Benzinga / Reuters</div><div class="time">02-28 13:52</div></div>
-          <div class="title">阿联酋拦截伊朗导弹；称侵犯主权并保留回应权；阿布扎比有人死亡（路透）</div>
-        </div>
-        <div class="item accent-d">
-          <div class="top"><div class="src">Benzinga</div><div class="time">02-28 13:41</div></div>
-          <div class="title">阿布扎比再传爆炸声</div>
-        </div>
-        <div class="item accent-d">
-          <div class="top"><div class="src">Benzinga / Reuters</div><div class="time">02-28 13:35</div></div>
-          <div class="title">以方发布撤离警告：伊朗军事设施附近居民需撤离（路透）</div>
-        </div>
-        <div class="item accent-d">
-          <div class="top"><div class="src">Benzinga</div><div class="time">02-28 13:31</div></div>
-          <div class="title">卡塔尔首都多哈传爆炸声</div>
-        </div>
-        <div class="item accent-d">
-          <div class="top"><div class="src">Benzinga / Reuters</div><div class="time">02-28 13:24</div></div>
-          <div class="title">伊朗称此次军事行动发生在伊美仍处外交进程期间（路透）</div>
-        </div>
-      </div>
-    </section>
+    <div class="grid">
+      <main>
+        <section class="card">
+          <h2><span>主线结论</span><span class="badge">1页读完</span></h2>
+          <div class="items">
+            <div class="item accent-d">
+              <div class="title">风险主线：地缘冲突升级叙事抬头，风险偏好可能承压</div>
+              <p class="meta">近 24-48h 与 <b>美伊/以伊</b> 相关快讯密集，市场常见定价框架是：<b>油↑、金↑、USD↑、权益（尤其科技）承压</b>。但若收益率/美元同步上行，黄金反应可能被抵消。</p>
+            </div>
+            <div class="item accent-a">
+              <div class="title">利率主线：就业/通胀预期仍是科技估值的第一驱动</div>
+              <p class="meta">围绕 <b>NFP/就业</b> 的前瞻讨论提示：对 NQ/七姐妹，短线仍优先盯 <b>2Y/10Y 收益率 + DXY</b> 的方向与幅度。</p>
+            </div>
+            <div class="item accent-b">
+              <div class="title">科技/AI：七姐妹资讯以叙事/观点类为主，日内更看“利率→估值”传导</div>
+              <p class="meta">Finnhub 该窗口内七姐妹相关资讯以媒体观点、长期叙事、AI 合作与安全等主题为主；对日内交易，关键仍是“收益率/美元变化是否压制高估值”。</p>
+            </div>
+          </div>
+        </section>
+
+        <section class="card" style="margin-top:14px">
+          <h2><span>地缘/中东（重点）</span><span class="badge">Risk / Oil / Gold</span></h2>
+          <div class="items">
+            <div class="item accent-d">
+              <div class="top"><div class="src">Benzinga / Reuters</div><div class="time">02-28</div></div>
+              <a href="https://finnhub.io/api/news?id=64d5dee49b1007336de24e6e5c625a984c92bc09d135838e4e136d31cac96373" target="_blank" rel="noreferrer noopener"><div class="title">以军称完成对伊朗战略防空系统的大规模打击（路透）</div></a>
+              <p class="meta">交易含义：若后续升级/扩散，通常利好避险与能源链，压制科技风险偏好。</p>
+            </div>
+            <div class="item accent-d">
+              <div class="top"><div class="src">Benzinga / Reuters</div><div class="time">02-28</div></div>
+              <a href="https://finnhub.io/api/news?id=e4c6287a46a05f865f52276f0262de710f88a094acf62184cb6fe935d62458bc" target="_blank" rel="noreferrer noopener"><div class="title">阿联酋拦截导弹并称侵犯主权；阿布扎比人员伤亡（路透）</div></a>
+              <p class="meta">交易含义：关注航运/能源设施风险溢价是否进一步扩张（油的跳涨往往是“开关”）。</p>
+            </div>
+            <div class="item accent-d">
+              <div class="top"><div class="src">SeekingAlpha</div><div class="time">02-28</div></div>
+              <a href="https://finnhub.io/api/news?id=173c1c584e9ce51a5808d460a1b4540b5715f3afbdbe3c21a9489a824989af2c" target="_blank" rel="noreferrer noopener"><div class="title">伊朗升级：油冲击、金走强、权益风险（叙事类）</div></a>
+              <p class="meta">交易含义：常见组合是油↑/金↑/股↓；但需同时盯 DXY 与实际利率，避免黄金“被美元压制”。</p>
+            </div>
+          </div>
+        </section>
+
+        <section class="card" style="margin-top:14px">
+          <h2><span>七姐妹 + 关联公司（精选）</span><span class="badge">Mag7 + semis</span></h2>
+          <div class="items">
+            <div class="item accent-b">
+              <div class="top"><div class="src">NVDA / 相关</div><div class="time">近24h</div></div>
+              <div class="title">NVDA：多条“AI叙事/观点类”内容占比高</div>
+              <p class="meta">交易含义：日内更关注半导体 beta 与收益率变化；叙事类文章更多影响“逢回撤买盘”情绪强弱。</p>
+            </div>
+            <div class="item accent-b">
+              <div class="top"><div class="src">TSLA / 相关</div><div class="time">近24h</div></div>
+              <div class="title">TSLA：自动驾驶/机器人叙事延续（Cybercab/对标等）</div>
+              <p class="meta">交易含义：短线常体现在波动率扩大；若叙事升温同时利率走高，TSLA 可能出现“消息多但股价不买账”。</p>
+            </div>
+            <div class="note">注：本页已拉取 AAPL/MSFT/AMZN/META/GOOGL/TSLA/NVDA 以及 AVGO/AMD/MRVL/ASML/TSM 的 Finnhub 新闻窗口；为避免信息噪音，这里先展示对“指数/情绪”更相关的主题。后续我会把每家公司 Top 3 新闻以列表形式完整附在页末。</div>
+          </div>
+        </section>
+
+        <section class="card" style="margin-top:14px">
+          <h2><span>美联储 / 美政府（当前来源限制）</span><span class="badge">Fed / US Gov</span></h2>
+          <div class="items">
+            <div class="item accent-a">
+              <div class="title">美联储：本窗口未可靠抓取到“官员讲话逐条清单”</div>
+              <p class="meta">原因：未启用全网搜索且未接入固定 Fed 日历/讲话源。执行层面仍建议以 <b>收益率与美元</b> 作为“实时政策定价”的代理指标。</p>
+            </div>
+            <div class="item accent-a">
+              <div class="title">美政府/监管：本窗口未可靠抓取到“官方发布逐条清单”</div>
+              <p class="meta">同上。若你提供固定来源（白宫/财政部/国会或你常看的快讯页），我会把“官方事件”补齐并做影响排序。</p>
+            </div>
+          </div>
+        </section>
+
+        <section class="card" style="margin-top:14px">
+          <h2><span>原始链接（便于核对）</span><span class="badge">Finnhub</span></h2>
+          <div class="items">
+            <div class="note">文件缓存：本机已保存各 ticker 新闻 JSON（AAPL/MSFT/AMZN/META/GOOGL/TSLA/NVDA/AVGO/AMD/MRVL/ASML/TSM）。如需把“每家公司 Top 3”完整展示到页面，我会基于这些 JSON 自动生成。</div>
+          </div>
+        </section>
+      </main>
+
+      <aside class="sticky">
+        <section class="card">
+          <h2><span>今日风险清单</span><span class="badge">NQ / GC</span></h2>
+          <div class="items" id="risk"></div>
+        </section>
+
+        <section class="card" style="margin-top:14px">
+          <h2><span>日内时间窗（北京时间）</span><span class="badge">执行</span></h2>
+          <div class="items" id="windows"></div>
+        </section>
+      </aside>
+    </div>
   </div>
+
+  <script>
+    const risks = [
+      {k:'地缘升级开关', v:'油价跳涨/防务新闻密度', r:'升级→risk-off；降温→risk-on 修复'},
+      {k:'利率与美元', v:'2Y/10Y + DXY', r:'NQ/七姐妹第一驱动；也影响黄金强弱'},
+      {k:'黄金的“反直觉”', v:'美元/实际利率上行会压金', r:'别只看risk-off就无脑做多 GC'},
+      {k:'周末/低流动性', v:'消息驱动易放大', r:'避免在流动性差时加杠杆追单'}
+    ];
+
+    const windows = [
+      {k:'21:30', v:'美股开盘波动窗', r:'先等方向/结构'},
+      {k:'22:45-23:00', v:'常见宏观数据窗', r:'收益率先动，NQ 后动'},
+      {k:'04:00', v:'尾盘对冲/再平衡', r:'容易二次波动'}
+    ];
+
+    function el(tag, cls, txt){
+      const e=document.createElement(tag);
+      if(cls) e.className=cls;
+      if(txt!=null) e.textContent=txt;
+      return e;
+    }
+
+    function renderRows(targetId, rows){
+      const root = document.getElementById(targetId);
+      for(const x of rows){
+        const row = el('div','row');
+        const l = el('div','l');
+        l.appendChild(el('div','k',x.k));
+        l.appendChild(el('div','v',x.v));
+        row.appendChild(l);
+        row.appendChild(el('div','r',x.r));
+        root.appendChild(row);
+      }
+    }
+
+    renderRows('risk', risks);
+    renderRows('windows', windows);
+  </script>
 </body>
 </html>
