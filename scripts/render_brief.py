@@ -301,6 +301,9 @@ def main() -> int:
     body{{margin:0;color:var(--text);font-family:var(--sans);background:linear-gradient(180deg,var(--bg1),var(--bg0));}}
     .wrap{{max-width:1100px;margin:0 auto;padding:26px 18px 56px}}
     header{{border:1px solid var(--stroke);background:rgba(255,255,255,.06);border-radius:var(--r);padding:20px 18px;}}
+    .nav{{margin-top:12px}}
+    .back{{display:inline-flex;align-items:center;gap:8px;border:1px solid rgba(255,255,255,.14);background:rgba(255,255,255,.06);padding:8px 12px;border-radius:999px;font-family:var(--mono);font-size:12px;color:var(--muted);text-decoration:none}}
+    .back:hover{{text-decoration:underline}}
     .k{{font-family:var(--mono);font-size:12px;color:var(--muted);display:flex;gap:10px;flex-wrap:wrap}}
     .pill{{border:1px solid rgba(255,255,255,.14);background:rgba(255,255,255,.06);padding:6px 10px;border-radius:999px}}
     h1{{margin:10px 0 6px;font-family:var(--serif);font-size: clamp(26px, 4.2vw, 44px);line-height:1.1}}
@@ -327,6 +330,7 @@ def main() -> int:
         <span class=\"pill\">最后更新：{last_updated}（北京时间）</span>
         <span class=\"pill\">来源：Finnhub（ticker news 缓存）</span>
       </div>
+      <div class=\"nav\"><a class=\"back\" href=\"list.html\">← 返回列表</a></div>
       <h1>每日财经早报{now.strftime('%Y.%m.%d')}</h1>
       <p class=\"sub\">自动生成版本：主线结论 → 七姐妹/半导体 → 美联储/政策 → 地缘/避险 → 特斯拉链。规则：同URL去重，按时间倒序；每个板块最多18条。</p>
     </header>
