@@ -22,14 +22,38 @@ import re
 from pathlib import Path
 from typing import Any
 
-# Optional translation. Prefer OpenClaw-routed translation (more reliable in this setup).
-try:
-    from scripts.translate_via_openclaw import translate_zh
-except Exception:  # pragma: no cover
+# Optional translation. Prefer NVIDIA (free) if NVIDIA_API_KEY is present.
+translate_zh = None  # type: ignore
+
+# If running under launchd, env vars may not be visible in interactive runs.
+# Best-effort: read NVIDIA_API_KEY from the LaunchAgent plist so local renders match scheduler behavior.
+if not os.environ.get("NVIDIA_API_KEY"):
     try:
-        from scripts.translate import translate_zh  # type: ignore
-    except Exception:  # pragma: no cover
+        import plistlib
+
+        p = Path("~/Library/LaunchAgents/ai.openclaw.daynews.update.plist").expanduser()
+        if p.exists():
+            obj = plistlib.loads(p.read_bytes())
+            key = (obj.get("EnvironmentVariables") or {}).get("NVIDIA_API_KEY")
+            if isinstance(key, str) and key and key != "REPLACE_ME":
+                os.environ["NVIDIA_API_KEY"] = key
+    except Exception:
+        pass
+
+if os.environ.get("NVIDIA_API_KEY"):
+    try:
+        from scripts.translate_nvidia import translate_zh  # type: ignore
+    except Exception:
         translate_zh = None  # type: ignore
+
+if translate_zh is None:
+    try:
+        from scripts.translate_via_openclaw import translate_zh  # type: ignore
+    except Exception:  # pragma: no cover
+        try:
+            from scripts.translate import translate_zh  # type: ignore
+        except Exception:  # pragma: no cover
+            translate_zh = None  # type: ignore
 
 REPO_DIR = Path("/Users/lijiaolong/.openclaw/workspace/daynews")
 CACHE_DIR = Path("/Users/lijiaolong/.openclaw/workspace/daily-brief")
