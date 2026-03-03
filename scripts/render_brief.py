@@ -124,11 +124,14 @@ def _render_item(it: dict[str, Any]) -> str:
     if not summ:
         summ = "（摘要缺失：来源未提供）"
 
+    # Allow multi-line summary; render as <br> for readability.
+    summ_html = summ.replace("\n", "<br>")
+
     return (
         '<div class="item">'
         f'<div class="top"><div class="src">{src} · {ticker}</div><div class="time">{tm}</div></div>'
         f'<a href="{url}" target="_blank" rel="noreferrer noopener"><div class="title">{title}</div></a>'
-        f'<p class="meta">{summ}</p>'
+        f'<p class="meta">{summ_html}</p>'
         "</div>"
     )
 
@@ -148,11 +151,61 @@ def main() -> int:
     last_updated = now.strftime("%Y-%m-%d %H:%M:%S")
     hms = now.strftime("%H:%M:%S")
 
-    # Simple headline conclusion
+    def _hot_words(items: list[dict[str, Any]], k: int = 6) -> list[str]:
+        # Cheap keywording for headlines; avoids heavy NLP deps.
+        stop = {
+            "the","a","an","and","or","to","of","in","on","for","with","as","at","from",
+            "by","after","before","into","over","under","will","is","are","was","were","be",
+            "this","that","these","those","it","its","they","their","you","your","we","our",
+            "stock","stocks","market","markets","says","said","report","reports","earnings",
+        }
+        freq: dict[str, int] = {}
+        for it in items:
+            h = str(it.get("headline") or "")
+            for w in re.findall(r"[A-Za-z]{3,}", h):
+                wl = w.lower()
+                if wl in stop:
+                    continue
+                freq[wl] = freq.get(wl, 0) + 1
+        # Prefer repeated words; then alphabetical for determinism.
+        top = sorted(freq.items(), key=lambda kv: (-kv[1], kv[0]))
+        return [w for w, _n in top[:k]]
+
+    def _summary_lines(b: dict[str, list[dict[str, Any]]]) -> list[str]:
+        # Pull a few signals from the freshest items in each bucket.
+        lines: list[str] = []
+
+        risk = b.get("地缘/能源/避险") or []
+        if risk:
+            lines.append(f"地缘/避险：关注 {risk[0].get('headline','').strip()[:64]}…")
+
+        macro = b.get("美联储与政策") or []
+        if macro:
+            lines.append(f"宏观/Fed：关注 {macro[0].get('headline','').strip()[:64]}…")
+
+        tech = b.get("七姐妹与半导体链") or []
+        if tech:
+            # Add a light keyword tag to avoid a generic sentence.
+            kw = _hot_words(tech, k=5)
+            tag = ("关键词: " + ", ".join(kw)) if kw else ""
+            head = str(tech[0].get("headline") or "").strip()[:64]
+            lines.append(f"科技/半导体：{head}…{(' ' + tag) if tag else ''}")
+
+        tsla_chain = b.get("特斯拉链") or []
+        if tsla_chain:
+            lines.append(f"TSLA：关注 {tsla_chain[0].get('headline','').strip()[:64]}…")
+
+        # Keep it tight.
+        return lines[:5]
+
+    lines = _summary_lines(buckets)
+    if not lines:
+        lines = ["今日暂无明显主线（样本较少/来源暂无更新），以下为分板块快讯。"]
+
     buckets["主线结论"] = [
         {
-            "headline": "主线：地缘冲突叙事抬头 + 就业/利率预期仍是科技估值第一驱动",
-            "summary": "本页为自动汇总版本：以七姐妹/半导体链、Fed/政策、地缘风险三条线组织新闻。",
+            "headline": "主线结论（自动生成）",
+            "summary": "\n".join(f"- {ln}" for ln in lines),
             "source": "DayNews",
             "related": "SUMMARY",
             "datetime": int(now.timestamp()),
