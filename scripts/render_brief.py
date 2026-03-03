@@ -6,7 +6,7 @@ This is intentionally deterministic and offline-friendly:
 - Optionally enriches with Tavily search results if TAVILY_API_KEY is set.
 
 Output:
-- docs/每日财经早报2026.03.01.html (currently fixed filename per user request)
+- docs/每日财经早报YYYY.MM.DD.html
 
 Note: This script does NOT try to be a full translation engine.
 It produces Chinese summaries by using available Finnhub summaries and
@@ -215,8 +215,8 @@ def main() -> int:
         <span class=\"pill\">最后更新：{last_updated}（北京时间）</span>
         <span class=\"pill\">来源：Finnhub（ticker news 缓存）</span>
       </div>
-      <h1>每日财经早报2026.03.01</h1>
-      <p class=\"sub\">自动生成版本（结构回归）：主线结论 → 七姐妹/半导体 → 美联储/政策 → 地缘/避险 → 特斯拉链。下一步会把英文摘要翻译成中文并接入 Tavily/X 模块。</p>
+      <h1>每日财经早报{now.strftime('%Y.%m.%d')}</h1>
+      <p class=\"sub\">自动生成版本：主线结论 → 七姐妹/半导体 → 美联储/政策 → 地缘/避险 → 特斯拉链。规则：同URL去重，按时间倒序；每个板块最多18条。</p>
     </header>
 
     {sec('主线结论','Summary',buckets['主线结论'])}
