@@ -150,22 +150,32 @@ def _render_item(it: dict[str, Any], *, translate: bool = False) -> str:
     src = (it.get("source") or "").replace("&", "&amp;")
     ticker = (it.get("related") or "").replace("&", "&amp;")
     tm = _ts_to_bjt(it.get("datetime"))
-    title = (it.get("headline") or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-    raw_summ = (it.get("summary") or "").strip()
-    if translate and translate_zh is not None and raw_summ:
-        try:
-            raw_summ = translate_zh(raw_summ)
-        except Exception:
-            # Translation is best-effort; fall back silently.
-            pass
 
+    raw_title = (it.get("headline") or "").strip()
+    raw_summ = (it.get("summary") or "").strip()
+
+    if translate and translate_zh is not None:
+        if raw_title:
+            try:
+                raw_title = translate_zh(raw_title)
+            except Exception:
+                pass
+        if raw_summ:
+            try:
+                raw_summ = translate_zh(raw_summ)
+            except Exception:
+                # Translation is best-effort; fall back silently.
+                pass
+
+    title = raw_title.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     summ = raw_summ.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     url = (it.get("url") or "#").replace('"', "%22")
 
+    if not title:
+        title = "（标题缺失）"
     if not summ:
         summ = "（摘要缺失：来源未提供）"
 
-    # Allow multi-line summary; render as <br> for readability.
     summ_html = summ.replace("\n", "<br>")
 
     return (
