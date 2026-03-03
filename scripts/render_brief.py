@@ -22,11 +22,14 @@ import re
 from pathlib import Path
 from typing import Any
 
-# Optional translation (OpenAI-compatible). If deps/key missing, we fall back to English.
+# Optional translation. Prefer OpenClaw-routed translation (more reliable in this setup).
 try:
-    from scripts.translate import translate_zh
+    from scripts.translate_via_openclaw import translate_zh
 except Exception:  # pragma: no cover
-    translate_zh = None  # type: ignore
+    try:
+        from scripts.translate import translate_zh  # type: ignore
+    except Exception:  # pragma: no cover
+        translate_zh = None  # type: ignore
 
 REPO_DIR = Path("/Users/lijiaolong/.openclaw/workspace/daynews")
 CACHE_DIR = Path("/Users/lijiaolong/.openclaw/workspace/daily-brief")
