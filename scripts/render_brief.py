@@ -330,7 +330,7 @@ def main() -> int:
         <span class=\"pill\">最后更新：{last_updated}（北京时间）</span>
         <span class=\"pill\">来源：Finnhub（ticker news 缓存）</span>
       </div>
-      <div class=\"nav\"><a class=\"back\" href=\"list.html\">← 返回列表</a></div>
+      <div class=\"nav\"><a class=\"back\" href=\"./\">← 返回首页</a></div>
       <h1>每日财经早报{now.strftime('%Y.%m.%d')}</h1>
       <p class=\"sub\">自动生成版本：主线结论 → 七姐妹/半导体 → 美联储/政策 → 地缘/避险 → 特斯拉链。规则：同URL去重，按时间倒序；每个板块最多18条。</p>
     </header>
