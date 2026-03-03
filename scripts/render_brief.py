@@ -189,11 +189,23 @@ def _render_item(it: dict[str, Any], *, translate: bool = False) -> str:
 
 def main() -> int:
     all_items: list[dict[str, Any]] = []
-    for t in TICKERS:
-        p = CACHE_DIR / f"{t}_et.json"
-        if not p.exists():
-            continue
-        all_items.extend(_load_json(p))
+
+    # Prefer RSS cache when available (more timely, broader coverage).
+    rss_cache = REPO_DIR / ".cache" / "rss_items.json"
+    if rss_cache.exists():
+        try:
+            obj = json.loads(rss_cache.read_text(encoding="utf-8"))
+            all_items.extend(obj.get("items") or [])
+        except Exception:
+            pass
+
+    # Fall back to cached Finnhub ticker news.
+    if not all_items:
+        for t in TICKERS:
+            p = CACHE_DIR / f"{t}_et.json"
+            if not p.exists():
+                continue
+            all_items.extend(_load_json(p))
 
     ded = _dedupe(all_items)
     buckets = _bucket(ded)
