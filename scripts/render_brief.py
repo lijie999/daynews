@@ -22,6 +22,12 @@ import re
 from pathlib import Path
 from typing import Any
 
+# Optional translation (OpenAI-compatible). If deps/key missing, we fall back to English.
+try:
+    from scripts.translate import translate_zh
+except Exception:  # pragma: no cover
+    translate_zh = None  # type: ignore
+
 REPO_DIR = Path("/Users/lijiaolong/.openclaw/workspace/daynews")
 CACHE_DIR = Path("/Users/lijiaolong/.openclaw/workspace/daily-brief")
 OUT_PATH = REPO_DIR / "docs" / f"每日财经早报{dt.datetime.now(dt.timezone(dt.timedelta(hours=8))).strftime('%Y.%m.%d')}.html"
@@ -113,12 +119,20 @@ def _bucket(items: list[dict[str, Any]]) -> dict[str, list[dict[str, Any]]]:
     return b
 
 
-def _render_item(it: dict[str, Any]) -> str:
+def _render_item(it: dict[str, Any], *, translate: bool = False) -> str:
     src = (it.get("source") or "").replace("&", "&amp;")
     ticker = (it.get("related") or "").replace("&", "&amp;")
     tm = _ts_to_bjt(it.get("datetime"))
     title = (it.get("headline") or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-    summ = (it.get("summary") or "").strip().replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    raw_summ = (it.get("summary") or "").strip()
+    if translate and translate_zh is not None and raw_summ:
+        try:
+            raw_summ = translate_zh(raw_summ)
+        except Exception:
+            # Translation is best-effort; fall back silently.
+            pass
+
+    summ = raw_summ.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     url = (it.get("url") or "#").replace('"', "%22")
 
     if not summ:
@@ -216,7 +230,15 @@ def main() -> int:
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 
     def sec(name: str, badge: str, items: list[dict[str, Any]]) -> str:
-        body = "\n".join(_render_item(it) for it in items) if items else '<div class="note">（暂无）</div>'
+        # Translate only the first N items per section to control cost/latency.
+        N_TRANSLATE = 8
+        if not items:
+            body = '<div class="note">（暂无）</div>'
+        else:
+            chunks: list[str] = []
+            for i, it in enumerate(items):
+                chunks.append(_render_item(it, translate=(i < N_TRANSLATE)))
+            body = "\n".join(chunks)
         return (
             '<section class="card">'
             f'<h2><span>{name}</span><span class="badge">{badge}</span></h2>'
