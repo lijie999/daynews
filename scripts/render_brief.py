@@ -58,6 +58,7 @@ if translate_zh is None:
 REPO_DIR = Path("/Users/lijiaolong/.openclaw/workspace/daynews")
 CACHE_DIR = Path("/Users/lijiaolong/.openclaw/workspace/daily-brief")
 OUT_PATH = REPO_DIR / "docs" / f"每日财经早报{dt.datetime.now(dt.timezone(dt.timedelta(hours=8))).strftime('%Y.%m.%d')}.html"
+BRIEFS_PATH = REPO_DIR / "docs" / "briefs.json"
 
 TICKERS = [
     "spy",
@@ -358,6 +359,45 @@ def main() -> int:
 """
 
     OUT_PATH.write_text(page, encoding="utf-8")
+
+    # Write briefs.json for the redesigned homepage/list view.
+    sections_meta = [
+        ("主线结论", "Summary"),
+        ("七姐妹与半导体链", "Mag7 / Semis"),
+        ("美联储与政策", "Fed / Policy"),
+        ("地缘/能源/避险", "Risk / Oil / Gold"),
+        ("特斯拉链", "TSLA chain"),
+        ("其他", "Other"),
+    ]
+
+    def _item_to_brief(it: dict[str, Any]) -> dict[str, Any]:
+        return {
+            "source": it.get("source") or "",
+            "ticker": it.get("related") or "",
+            "time": _ts_to_bjt(it.get("datetime")),
+            "title": (it.get("headline") or "").strip(),
+            "summary": (it.get("summary") or "").strip(),
+            "url": it.get("url") or "#",
+        }
+
+    briefs_obj = {
+        "date": now.strftime("%Y.%m.%d"),
+        "generatedAtBJT": last_updated,
+        "sections": [
+            {
+                "name": name,
+                "badge": badge,
+                "items": [_item_to_brief(x) for x in (buckets.get(name) or [])],
+            }
+            for name, badge in sections_meta
+        ],
+    }
+
+    BRIEFS_PATH.write_text(
+        json.dumps(briefs_obj, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
     return 0
 
 
