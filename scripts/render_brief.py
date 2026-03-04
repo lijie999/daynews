@@ -175,7 +175,7 @@ def _render_item(it: dict[str, Any], *, translate: bool = False) -> str:
     ticker = (it.get("related") or "").replace("&", "&amp;")
     tm = _ts_to_bjt(it.get("datetime"))
 
-    raw_title = (it.get("headline") or "").strip()
+    raw_title = (it.get("headline") or it.get("title") or "").strip()
     raw_summ = (it.get("summary") or "").strip()
 
     if translate and translate_zh is not None:
