@@ -45,6 +45,20 @@ if os.environ.get("NVIDIA_API_KEY"):
         from scripts.translate_nvidia import translate_zh  # type: ignore
     except Exception:
         translate_zh = None  # type: ignore
+else:
+    # Interactive runs may not have env vars; try to read from LaunchAgent like above.
+    try:
+        import plistlib
+
+        p = Path("~/Library/LaunchAgents/ai.openclaw.daynews.update.plist").expanduser()
+        if p.exists():
+            obj = plistlib.loads(p.read_bytes())
+            key = (obj.get("EnvironmentVariables") or {}).get("NVIDIA_API_KEY")
+            if isinstance(key, str) and key and key != "REPLACE_ME":
+                os.environ["NVIDIA_API_KEY"] = key
+                from scripts.translate_nvidia import translate_zh  # type: ignore
+    except Exception:
+        pass
 
 if translate_zh is None:
     try:
@@ -380,7 +394,7 @@ def main() -> int:
     ]
 
     def _item_to_brief(it: dict[str, Any], *, translate: bool = False) -> dict[str, Any]:
-        title = (it.get("headline") or "").strip()
+        title = (it.get("headline") or it.get("title") or "").strip()
         summary = (it.get("summary") or "").strip()
         title_en = title
         summary_en = summary

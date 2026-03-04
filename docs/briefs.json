@@ -1,8 +1,8 @@
 {
   "date": "2026.03.04",
-  "generatedAtBJT": "2026-03-04 20:00:28",
+  "generatedAtBJT": "2026-03-04 20:02:49",
   "translation": {
-    "enabled": false,
+    "enabled": true,
     "provider": "nvidia",
     "policy": "translate_if_english"
   },
@@ -14,10 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-04 20:00:28",
+          "time": "2026-03-04 20:02:49",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 Dow Jones Futures Rise On Iran Outreach Report; Trump Makes This…\n- 宏观/Fed：关注 Best high-yield savings interest rates today, March 4, 2026 (Ear…\n- 科技/半导体：News Corp's Meta deal. Are news organisations no more than LLM '… 关键词: openai, altman, apple, board, china",
-          "url": "#"
+          "summary": "- 地缘/避险：关注 道琼斯期货上涨，伊朗外交报告引发关注；特朗普的这一举动可能会……\n- 宏观/Fed：关注 今日最佳高收益储蓄利率，2026年3月4日（早报）\n- 科技/半导体：News Corp与Meta达成协议。新闻组织是否仅仅是LLM的……",
+          "url": "#",
+          "summary_en": "- 地缘/避险：关注 Dow Jones Futures Rise On Iran Outreach Report; Trump Makes This…\n- 宏观/Fed：关注 Best high-yield savings interest rates today, March 4, 2026 (Ear…\n- 科技/半导体：News Corp's Meta deal. Are news organisations no more than LLM '… 关键词: openai, altman, apple, board, china"
         }
       ]
     },
@@ -29,97 +30,117 @@
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "News Corp's Meta deal. Are news organisations no more than LLM 'input companies'?",
+          "title": "新闻集团与Meta的协议。新闻组织是否仅仅是LLM的输入公司？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/news-corps-meta-deal-news-114505604.html"
+          "url": "https://finance.yahoo.com/news/news-corps-meta-deal-news-114505604.html",
+          "title_en": "News Corp's Meta deal. Are news organisations no more than LLM 'input companies'?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Indie Semiconductor Inc (INDI) Shares Earnings Update and Analyst Revisions",
+          "title": "独立半导体公司（INDI）发布了最新财报和分析师修正",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/indie-semiconductor-inc-indi-shares-103829914.html"
+          "url": "https://finance.yahoo.com/news/indie-semiconductor-inc-indi-shares-103829914.html",
+          "title_en": "Indie Semiconductor Inc (INDI) Shares Earnings Update and Analyst Revisions"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Udemy Inc (UDMY) Brings Google, OpenAI on Board for AI Learning",
+          "title": "Udemy Inc (UDMY)邀请Google和OpenAI加入人工智能学习计划",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/udemy-inc-udmy-brings-google-103812768.html"
+          "url": "https://finance.yahoo.com/news/udemy-inc-udmy-brings-google-103812768.html",
+          "title_en": "Udemy Inc (UDMY) Brings Google, OpenAI on Board for AI Learning"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Grab Holdings Ltd (GRAB) Focuses on Growth, AI, and Operational Progress",
+          "title": "Grab Holdings Ltd（GRAB）聚焦于增长、人工智能和运营进步",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/grab-holdings-ltd-grab-focuses-103804234.html"
+          "url": "https://finance.yahoo.com/news/grab-holdings-ltd-grab-focuses-103804234.html",
+          "title_en": "Grab Holdings Ltd (GRAB) Focuses on Growth, AI, and Operational Progress"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-04 18:58:28",
-          "title": "China's Xiaomi tells CNBC it's planning a yearly smartphone chip release and its own AI assistant for overseas",
-          "summary": "Last year, Xiaomi launched the XRing O1, a system-on-chip (SoC) based on an advanced 3 nanometer manufacturing process.",
-          "url": "https://www.cnbc.com/2026/03/04/xiaomi-plans-yearly-smartphone-chip-release-ai-assistant-for-overseas.html"
+          "title": "中国小米公司向CNBC表示，计划每年发布一次智能手机芯片，并为海外市场开发自己的AI助手。",
+          "summary": "去年，小米推出了XRing O1，这是一颗基于高级3纳米制造工艺的系统芯片（SoC）。",
+          "url": "https://www.cnbc.com/2026/03/04/xiaomi-plans-yearly-smartphone-chip-release-ai-assistant-for-overseas.html",
+          "title_en": "China's Xiaomi tells CNBC it's planning a yearly smartphone chip release and its own AI assistant for overseas",
+          "summary_en": "Last year, Xiaomi launched the XRing O1, a system-on-chip (SoC) based on an advanced 3 nanometer manufacturing process."
         },
         {
           "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-04 12:51:53",
-          "title": "CNBC's China Connection newsletter: New AI players think global from day one",
-          "summary": "Chinese startups rush to launch AI tools for overseas markets.",
-          "url": "https://www.cnbc.com/2026/03/04/cnbc-china-connection-newsletter-ai-startups-global-expansion-nvidia-warning-tripo-isales.html"
+          "title": "CNBC的《中国连接》通讯：新AI玩家从一开始就想全球",
+          "summary": "中国创业公司急速推出人工智能工具进入海外市场。",
+          "url": "https://www.cnbc.com/2026/03/04/cnbc-china-connection-newsletter-ai-startups-global-expansion-nvidia-warning-tripo-isales.html",
+          "title_en": "CNBC's China Connection newsletter: New AI players think global from day one",
+          "summary_en": "Chinese startups rush to launch AI tools for overseas markets."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-04 08:34:42",
-          "title": "CrowdStrike makes its case on AI with an excellent quarter — here's where we stand",
-          "summary": "Founder and CEO George Kurtz made a compelling argument that we agree with, so why can't the rest of the market get behind him?",
-          "url": "https://www.cnbc.com/2026/03/03/crowdstrike-makes-case-on-ai-with-an-excellent-quarter-where-we-stand.html"
+          "title": "CrowdStrike以AI出色季度为据，证明了其优势",
+          "summary": "Cyberark的创始人和CEO乔治·库尔茨(George Kurtz)做了一个说服力的论点，我们同意他的观点，但为什么市场其他人不能支持他？",
+          "url": "https://www.cnbc.com/2026/03/03/crowdstrike-makes-case-on-ai-with-an-excellent-quarter-where-we-stand.html",
+          "title_en": "CrowdStrike makes its case on AI with an excellent quarter — here's where we stand",
+          "summary_en": "Founder and CEO George Kurtz made a compelling argument that we agree with, so why can't the rest of the market get behind him?"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-04 08:03:59",
-          "title": "Sam Altman tells OpenAI staffers that military's 'operational decisions' are up to the government",
-          "summary": "In an all-hands meetings with OpenAI employees on Tuesday, CEO Sam Altman said his company doesn't get to choose how the military uses its technology.",
-          "url": "https://www.cnbc.com/2026/03/03/sam-altman-tells-openai-staff-operational-decisions-up-to-government.html"
+          "title": "Sam Altman 告诉 OpenAI 员工，军方的“运作决策”由政府负责。",
+          "summary": "OpenAI CEO Sam Altman表示，公司不决定军方如何使用其技术。",
+          "url": "https://www.cnbc.com/2026/03/03/sam-altman-tells-openai-staff-operational-decisions-up-to-government.html",
+          "title_en": "Sam Altman tells OpenAI staffers that military's 'operational decisions' are up to the government",
+          "summary_en": "In an all-hands meetings with OpenAI employees on Tuesday, CEO Sam Altman said his company doesn't get to choose how the military uses its technology."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-04 02:49:45",
-          "title": "Apple raises MacBook prices across the board as M5 chips, new displays signal AI-first strategy",
-          "summary": "Apple’s Mac refresh moves the lineup further upmarket, pairing higher prices with faster performance in a push to give customers a reason to upgrade.",
-          "url": "https://www.cnbc.com/2026/03/03/apple-macbook-prices-m5-ai.html"
+          "title": "苹果公司全面提高MacBook价格，M5芯片和新显示屏标志着AI优先战略的开始",
+          "summary": "苹果Mac更新将产品线推向更高端市场，通过更快的性能与更高的价格来让客户有理由升级。",
+          "url": "https://www.cnbc.com/2026/03/03/apple-macbook-prices-m5-ai.html",
+          "title_en": "Apple raises MacBook prices across the board as M5 chips, new displays signal AI-first strategy",
+          "summary_en": "Apple’s Mac refresh moves the lineup further upmarket, pairing higher prices with faster performance in a push to give customers a reason to upgrade."
         },
         {
           "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-03 22:47:09",
-          "title": "Nvidia to invest $4 billion into photonics companies Coherent and Lumentum",
-          "summary": "Coherent and Lumentum will both receive $2 billion each from the chip giant as part of the strategic investment.",
-          "url": "https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html"
+          "title": "NVIDIA计划在光子学公司Coherent和Lumentum投资40亿美元。",
+          "summary": "芯片巨头将向Coherent和Lumentum各投资2亿美元。",
+          "url": "https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html",
+          "title_en": "Nvidia to invest $4 billion into photonics companies Coherent and Lumentum",
+          "summary_en": "Coherent and Lumentum will both receive $2 billion each from the chip giant as part of the strategic investment."
         },
         {
           "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-03 14:06:07",
-          "title": "OpenAI's Altman admits defense deal 'looked opportunistic and sloppy' amid backlash",
-          "summary": "Sam Altman says that OpenAI \"shouldn't have rushed\" its deal with the Defense Department and was making \"some additions.\"",
-          "url": "https://www.cnbc.com/2026/03/03/openai-sam-altman-pentagon-deal-amended-surveillance-limits.html"
+          "title": "OpenAI的阿尔曼（Altman）承认防御协议“看起来是 oportunistic 和 sloppy”在面对回应",
+          "summary": "Sam Altman 表示，OpenAI 应该没有急于与国防部签订协议，并且正在进行一些修改。",
+          "url": "https://www.cnbc.com/2026/03/03/openai-sam-altman-pentagon-deal-amended-surveillance-limits.html",
+          "title_en": "OpenAI's Altman admits defense deal 'looked opportunistic and sloppy' amid backlash",
+          "summary_en": "Sam Altman says that OpenAI \"shouldn't have rushed\" its deal with the Defense Department and was making \"some additions.\""
         },
         {
           "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-03 09:14:30",
-          "title": "Anthropic's Claude sees 'elevated errors' as it tops Apple's free apps after Pentagon clash",
-          "summary": "The app surged to the top free app on Apple's App Store after Anthropic clashed with the Department of Defense over limits for the technology.",
-          "url": "https://www.cnbc.com/2026/03/02/anthropic-claude-ai-outage-apple-pentagon.html"
+          "title": "Anthropic的克劳德（Claude）在与五角大楼（Pentagon）冲突后，出现了“高错误率”（elevated errors），并在苹果免费应用（Apple's free apps）排行榜上取得了第一名。",
+          "summary": "该应用程序在苹果App Store中迅速冲上免费应用程序榜首， Anthropic与国防部发生冲突，争论该技术的限制。",
+          "url": "https://www.cnbc.com/2026/03/02/anthropic-claude-ai-outage-apple-pentagon.html",
+          "title_en": "Anthropic's Claude sees 'elevated errors' as it tops Apple's free apps after Pentagon clash",
+          "summary_en": "The app surged to the top free app on Apple's App Store after Anthropic clashed with the Department of Defense over limits for the technology."
         }
       ]
     },
@@ -131,65 +152,74 @@
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Best high-yield savings interest rates today, March 4, 2026 (Earn up to 4% APY)",
+          "title": "截至2026年3月4日，今日最高收益储蓄利率（最高可达4%APY）",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-march-4-2026-110044175.html"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-march-4-2026-110044175.html",
+          "title_en": "Best high-yield savings interest rates today, March 4, 2026 (Earn up to 4% APY)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "HELOC and home equity loan rates today, March 4, 2026: Calm and clinging to 3-year lows",
+          "title": "HELOC 和家庭抵押贷款利率今日（3月4日）稳定在三年低点",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-march-4-2025-110034549.html"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-march-4-2025-110034549.html",
+          "title_en": "HELOC and home equity loan rates today, March 4, 2026: Calm and clinging to 3-year lows"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Best money market account rates today, March 4, 2026 (secure up to 4.01% APY)",
+          "title": "截至2026年3月4日，最佳现金市场账户利率（最高可达4.01% APY）",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-march-4-2026-110026553.html"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-march-4-2026-110026553.html",
+          "title_en": "Best money market account rates today, March 4, 2026 (secure up to 4.01% APY)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Best CD rates today, March 4, 2026 (Earn up to 4% APY)",
+          "title": "今日最佳定期存款利率（2026年3月4日），最高可达4%年利率",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-march-4-2026-110020911.html"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-march-4-2026-110020911.html",
+          "title_en": "Best CD rates today, March 4, 2026 (Earn up to 4% APY)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Mortgage and refinance interest rates today, March 4, 2026: Rising but still below 6%",
+          "title": "今天（3月4日）房贷和再融资利率上升，但仍低于6%",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-march-4-2026-110011105.html"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-march-4-2026-110011105.html",
+          "title_en": "Mortgage and refinance interest rates today, March 4, 2026: Rising but still below 6%"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "AI may be creating instead of destroying jobs for now, ECB blog argues",
+          "title": "人工智能目前可能会创造而不是毁灭工作岗位，ECB博客认为。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ai-may-creating-instead-destroying-100224164.html"
+          "url": "https://finance.yahoo.com/news/ai-may-creating-instead-destroying-100224164.html",
+          "title_en": "AI may be creating instead of destroying jobs for now, ECB blog argues"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "10 best money market accounts and rates for March 2026: Rates up to 3.9% APY",
+          "title": "2026年3月十大理财账户和利率：利率最高可达3.9%年利率",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-accounts-rates-160154089.html"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-accounts-rates-160154089.html",
+          "title_en": "10 best money market accounts and rates for March 2026: Rates up to 3.9% APY"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-04 00:53:43",
-          "title": "New York Fed's Williams says tariff burden falls 'overwhelmingly' on U.S. businesses and consumers",
-          "summary": "Williams said that not only were the tariffs being felt at home, but they also were keeping the Fed from reaching its 2% inflation goal.",
-          "url": "https://www.cnbc.com/2026/03/03/new-york-feds-williams-says-tariff-burden-falls-overwhelmingly-on-us-businesses-and-consumers.html"
+          "title": "纽约联邦储备银行的威廉姆斯表示，关税负担主要落在美国企业和消费者身上。",
+          "summary": "威廉斯表示，贸易税不仅在国内产生了影响，还阻碍了美联储实现2%通胀目标。",
+          "url": "https://www.cnbc.com/2026/03/03/new-york-feds-williams-says-tariff-burden-falls-overwhelmingly-on-us-businesses-and-consumers.html",
+          "title_en": "New York Fed's Williams says tariff burden falls 'overwhelmingly' on U.S. businesses and consumers",
+          "summary_en": "Williams said that not only were the tariffs being felt at home, but they also were keeping the Fed from reaching its 2% inflation goal."
         }
       ]
     },
@@ -201,145 +231,174 @@
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Dow Jones Futures Rise On Iran Outreach Report; Trump Makes This Pledge",
+          "title": "道琼斯指数期货上涨，伊朗外交报告出炉；特朗普发表承诺",
           "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-pare-gains-trump-iran/?src=A00220&yptr=yahoo"
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-pare-gains-trump-iran/?src=A00220&yptr=yahoo",
+          "title_en": "Dow Jones Futures Rise On Iran Outreach Report; Trump Makes This Pledge"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Stock market today: Dow, S&P 500, Nasdaq futures turn higher as Iran reportedly calls for talks to end conflict",
+          "title": "股市今日：道指、标普500指数和纳斯达克期货价格转为上涨，因为伊朗据报要求进行谈判以结束冲突。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-turn-higher-as-iran-reportedly-calls-for-talks-to-end-conflict-234948154.html"
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-turn-higher-as-iran-reportedly-calls-for-talks-to-end-conflict-234948154.html",
+          "title_en": "Stock market today: Dow, S&P 500, Nasdaq futures turn higher as Iran reportedly calls for talks to end conflict"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Fed's Hammack backs steady interest rates, tells NYT it's too early to gauge Iran war impact",
+          "title": "美联储官员哈马克表示支持稳定的利率，告诉纽约时报还不适合评估伊朗战争对经济的影响。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/feds-hammack-backs-steady-interest-105924605.html"
+          "url": "https://finance.yahoo.com/news/feds-hammack-backs-steady-interest-105924605.html",
+          "title_en": "Fed's Hammack backs steady interest rates, tells NYT it's too early to gauge Iran war impact"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Why surging oil prices 'may bite the hands' of the Fed",
+          "title": "飙升的油价可能会让美联储的政策\"咬到自己手\"",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/why-surging-oil-prices-may-bite-the-hands-of-the-fed-110026136.html"
+          "url": "https://finance.yahoo.com/news/why-surging-oil-prices-may-bite-the-hands-of-the-fed-110026136.html",
+          "title_en": "Why surging oil prices 'may bite the hands' of the Fed"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Uncertainty faces China Inc's projects in Iran after US–Israeli strikes",
+          "title": "中国企业在伊朗项目面临不确定性  美以袭击伊朗后",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/uncertainty-faces-china-incs-projects-101955678.html"
+          "url": "https://finance.yahoo.com/news/uncertainty-faces-china-incs-projects-101955678.html",
+          "title_en": "Uncertainty faces China Inc's projects in Iran after US–Israeli strikes"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Mortgage rates jump back above 6% as Iran strikes stoke fresh inflation fears",
+          "title": "房贷利率再次跃升至6%以上，伊朗袭击再度引发通胀恐惧",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-jump-back-above-6-as-iran-strikes-stoke-fresh-inflation-fears-110002381.html"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-jump-back-above-6-as-iran-strikes-stoke-fresh-inflation-fears-110002381.html",
+          "title_en": "Mortgage rates jump back above 6% as Iran strikes stoke fresh inflation fears"
         },
         {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-03-04 19:41:00",
-          "title": "Oil-production shutdowns loom as some Middle Eastern countries could run out of storage",
-          "summary": "Trump says U.S. Navy will escort tankers through key Hormuz. That couldn’t come soon enough for strained Middle Eastern storage facilities and looming production cuts.",
-          "url": "https://www.marketwatch.com/story/oil-production-shutdowns-loom-as-some-middle-eastern-countries-could-run-out-of-storage-90b82157?mod=mw_rss_topstories"
+          "title": "中东一些国家可能耗尽储存空间，油产量停摆风险加大。",
+          "summary": "特朗普称美国海军将护送油轮通过关键的霍尔木兹海峡。对于紧张的中东储存设施和即将到来的生产减少，这可能是时候了。",
+          "url": "https://www.marketwatch.com/story/oil-production-shutdowns-loom-as-some-middle-eastern-countries-could-run-out-of-storage-90b82157?mod=mw_rss_topstories",
+          "title_en": "Oil-production shutdowns loom as some Middle Eastern countries could run out of storage",
+          "summary_en": "Trump says U.S. Navy will escort tankers through key Hormuz. That couldn’t come soon enough for strained Middle Eastern storage facilities and looming production cuts."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-04 19:12:29",
-          "title": "Goldman's David Solomon surprised by ‘benign’ market reaction to Iran war",
-          "summary": "\"I think it's going to take a couple of weeks for markets to really digest the implications of what's happened,\" Goldman chief David Solomon said.",
-          "url": "https://www.cnbc.com/2026/03/04/goldman-david-solomon-iran-war-market-reaction-stocks.html"
+          "title": "高盛的戴维·索罗门惊讶于伊朗战争对市场的“温和”反应",
+          "summary": "高盛首席执行官大卫·索罗门表示：“我认为市场需要几周时间才能真正消化发生的事情的影响。”",
+          "url": "https://www.cnbc.com/2026/03/04/goldman-david-solomon-iran-war-market-reaction-stocks.html",
+          "title_en": "Goldman's David Solomon surprised by ‘benign’ market reaction to Iran war",
+          "summary_en": "\"I think it's going to take a couple of weeks for markets to really digest the implications of what's happened,\" Goldman chief David Solomon said."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-04 19:00:02",
-          "title": "Democrats tread cautiously around another Trump impeachment after 'illegal' Iran strikes",
+          "title": "民主党人谨慎对待另一项特朗普弹劾案，特别是伊朗“非法”袭击事件",
           "summary": "",
-          "url": "https://www.cnbc.com/2026/03/04/trump-impeachment-iran-strikes-war-democrats.html"
+          "url": "https://www.cnbc.com/2026/03/04/trump-impeachment-iran-strikes-war-democrats.html",
+          "title_en": "Democrats tread cautiously around another Trump impeachment after 'illegal' Iran strikes"
         },
         {
           "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-04 16:57:45",
-          "title": "UAE stocks sell off as markets reopen from two-day closure after Iranian strikes",
-          "summary": "Exchanges in Dubai and Abu Dhabi were closed for two days after Iran launched a wave of strikes on the Gulf nation.",
-          "url": "https://www.cnbc.com/2026/03/04/uae-stock-market-sell-off-closed-iran-missile-drone-strikes-dubai-abu-dhabi.html"
+          "title": "阿联酋股市大幅下跌，市场在两天的停业后重新开放，受伊朗袭击事件影响。",
+          "summary": "迪拜和阿布扎比的交易所在伊朗对该国发起一波袭击后关闭了两天。",
+          "url": "https://www.cnbc.com/2026/03/04/uae-stock-market-sell-off-closed-iran-missile-drone-strikes-dubai-abu-dhabi.html",
+          "title_en": "UAE stocks sell off as markets reopen from two-day closure after Iranian strikes",
+          "summary_en": "Exchanges in Dubai and Abu Dhabi were closed for two days after Iran launched a wave of strikes on the Gulf nation."
         },
         {
           "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-04 15:59:34",
-          "title": "South Korea's Kospi sinks over 12% to clock its worst day as Iran conflict fuels risk-off sentiment",
-          "summary": "The Korea Exchange temporarily halted trading for the Kospi index on Wednesday. A circuit breaker was activated on the Kosdaq as well, which closed 14% lower at 978.44.",
-          "url": "https://www.cnbc.com/2026/03/04/asia-markets-hang-seng-index-kospi-nikkei-225.html"
+          "title": "韩国股市指数（Kospi）暴跌超过12%，创下历史新低。",
+          "summary": "韩国交易所周三暂停了Kospi指数的交易。同时，Kosdaq也触发了熔断机制，收盘下跌14%，收于978.44点。",
+          "url": "https://www.cnbc.com/2026/03/04/asia-markets-hang-seng-index-kospi-nikkei-225.html",
+          "title_en": "South Korea's Kospi sinks over 12% to clock its worst day as Iran conflict fuels risk-off sentiment",
+          "summary_en": "The Korea Exchange temporarily halted trading for the Kospi index on Wednesday. A circuit breaker was activated on the Kosdaq as well, which closed 14% lower at 978.44."
         },
         {
           "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-04 13:32:45",
-          "title": "Middle East conflict poses fresh test to central banks as oil shock fuels inflation",
-          "summary": "Middle East conflict has posed a fresh test to central banks, with fears of an oil shock and renewed inflation risks changing their bid to shore up growth.",
-          "url": "https://www.cnbc.com/2026/03/04/iran-israel-us-war-middle-east-conflict-oil-gas-lng-surge-central-banks-inflation-risk.html"
+          "title": "中东冲突成为央行面临的新挑战，石油价格上涨加剧了通胀",
+          "summary": "中东冲突对中央银行构成了新的挑战，人们担心石油价格上涨和通胀风险的加剧，迫使他们重新评估刺激经济的政策。",
+          "url": "https://www.cnbc.com/2026/03/04/iran-israel-us-war-middle-east-conflict-oil-gas-lng-surge-central-banks-inflation-risk.html",
+          "title_en": "Middle East conflict poses fresh test to central banks as oil shock fuels inflation",
+          "summary_en": "Middle East conflict has posed a fresh test to central banks, with fears of an oil shock and renewed inflation risks changing their bid to shore up growth."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-04 08:48:44",
-          "title": "Nvidia, Amazon temporarily close Dubai offices, Google employees stranded amid U.S.-Iran war",
-          "summary": "Tech companies with Middle East operations have scrambled to respond as fighting rippled across the region after joint U.S.-Israeli strikes in Iran.",
-          "url": "https://www.cnbc.com/2026/03/03/nvidia-amazon-offices-google-dubai-iran-war.html"
+          "title": "英伟达、亚马逊暂时关闭迪拜办公室，谷歌员工因美伊战争滞留",
+          "summary": "中东地区的技术公司因美国和以色列联合袭击伊朗而引发的冲突而纷纷做出回应。",
+          "url": "https://www.cnbc.com/2026/03/03/nvidia-amazon-offices-google-dubai-iran-war.html",
+          "title_en": "Nvidia, Amazon temporarily close Dubai offices, Google employees stranded amid U.S.-Iran war",
+          "summary_en": "Tech companies with Middle East operations have scrambled to respond as fighting rippled across the region after joint U.S.-Israeli strikes in Iran."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-04 07:36:59",
-          "title": "Prediction market 'gambling' needs state regulation, not feds, Mick Mulvaney says after Iran war bets",
-          "summary": "Mick Mulvaney also said prediction markets, by offering contracts on events such as wars, could represent a security risk for the U.S.",
-          "url": "https://www.cnbc.com/2026/03/03/prediction-market-gambling-mick-mulvaney-polymarket-kalshi.html"
+          "title": "美联储下月会议前料加息",
+          "summary": "迈克·穆万尼还表示，预测市场通过提供与事件如战争相关的合同，可能会对美国构成安全风险。",
+          "url": "https://www.cnbc.com/2026/03/03/prediction-market-gambling-mick-mulvaney-polymarket-kalshi.html",
+          "title_en": "Prediction market 'gambling' needs state regulation, not feds, Mick Mulvaney says after Iran war bets",
+          "summary_en": "Mick Mulvaney also said prediction markets, by offering contracts on events such as wars, could represent a security risk for the U.S."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-04 06:39:12",
-          "title": "The lead U.S. cyber agency is stretched thin as Iran hacking threat escalates",
-          "summary": "Last week, CISA's acting director was reassigned to a new division within DHS and the agency is operating under a partial shutdown.",
-          "url": "https://www.cnbc.com/2026/03/03/iran-cisa-cybersecurity-war-threat.html"
+          "title": "美国主要网络安全机构面临严重挑战，伊朗黑客威胁加剧",
+          "summary": "上周，CISA的代理总监被重新分配到DHS的一个新部门，机构正在因部分停职而运作。",
+          "url": "https://www.cnbc.com/2026/03/03/iran-cisa-cybersecurity-war-threat.html",
+          "title_en": "The lead U.S. cyber agency is stretched thin as Iran hacking threat escalates",
+          "summary_en": "Last week, CISA's acting director was reassigned to a new division within DHS and the agency is operating under a partial shutdown."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-04 01:30:31",
-          "title": "Google employees call for military limits on AI amid Iran strikes, Anthropic fallout",
-          "summary": "Employees at Alphabet and OpenAI are pushing for stricter limits on the military's use of AI, as tensions rise following the blacklisting of Anthropic's models.",
-          "url": "https://www.cnbc.com/2026/03/03/anthropic-fallout-iran-war-tech-military-ai.html"
+          "title": "谷歌员工呼吁对AI施加军事限制 伴随伊朗袭击和Anthropic事件",
+          "summary": "Alphabet和OpenAI的员工正在推动限制军方使用AI的更严格的限制，随着Anthropic模型被列入黑名单，紧张局势加剧。",
+          "url": "https://www.cnbc.com/2026/03/03/anthropic-fallout-iran-war-tech-military-ai.html",
+          "title_en": "Google employees call for military limits on AI amid Iran strikes, Anthropic fallout",
+          "summary_en": "Employees at Alphabet and OpenAI are pushing for stricter limits on the military's use of AI, as tensions rise following the blacklisting of Anthropic's models."
         },
         {
           "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-04 01:16:21",
-          "title": "We've been active with trades during the Iran war fallout. Jim Cramer explains our approach",
-          "summary": "Jim Cramer explained the Investing Club's approach to navigating the market response to the Iran war.",
-          "url": "https://www.cnbc.com/2026/03/03/weve-been-active-with-trades-during-the-iran-war-fallout-jim-cramer-explains-our-approach.html"
+          "title": "我们在伊朗战争冲突期间积极进行交易。吉姆·克雷默解释了我们的方法。",
+          "summary": "吉姆·克拉默解释了投资俱乐部在应对伊朗战争市场反应时的投资策略。",
+          "url": "https://www.cnbc.com/2026/03/03/weve-been-active-with-trades-during-the-iran-war-fallout-jim-cramer-explains-our-approach.html",
+          "title_en": "We've been active with trades during the Iran war fallout. Jim Cramer explains our approach",
+          "summary_en": "Jim Cramer explained the Investing Club's approach to navigating the market response to the Iran war."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-04 00:51:37",
-          "title": "Banking, payments services disrupted after Amazon UAE data centers hit in drone strikes",
-          "summary": "U.S. and Israeli strikes on Iran have prompted a wave of retaliatory attacks across the Middle East.",
-          "url": "https://www.cnbc.com/2026/03/03/iran-war-uae-drone-strikes-aws-data-centers.html"
+          "title": "阿联酋亚马逊数据中心遭到无人机袭击，银行和支付服务受影响。",
+          "summary": "美国和以色列对伊朗的袭击引发了中东各地的报复性袭击潮。",
+          "url": "https://www.cnbc.com/2026/03/03/iran-war-uae-drone-strikes-aws-data-centers.html",
+          "title_en": "Banking, payments services disrupted after Amazon UAE data centers hit in drone strikes",
+          "summary_en": "U.S. and Israeli strikes on Iran have prompted a wave of retaliatory attacks across the Middle East."
         }
       ]
     },
@@ -356,145 +415,163 @@
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Aspen Standard Wealth adds $1bn in assets with BlueSky purchase",
+          "title": "Aspen标准财富增至100亿美元资产，BlueSky收购完成",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/aspen-standard-wealth-adds-1bn-115055975.html"
+          "url": "https://finance.yahoo.com/news/aspen-standard-wealth-adds-1bn-115055975.html",
+          "title_en": "Aspen Standard Wealth adds $1bn in assets with BlueSky purchase"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Morning Bid: Seoul-sapping selloff",
+          "title": "首尔陷入恐慌式抛售",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/morning-bid-seoul-sapping-selloff-114534136.html"
+          "url": "https://finance.yahoo.com/news/morning-bid-seoul-sapping-selloff-114534136.html",
+          "title_en": "Morning Bid: Seoul-sapping selloff"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Turkey expects annual minimum $96 million from crypto asset tax",
+          "title": "土耳其预计从加密资产税中获得每年最少96万美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/turkey-expects-annual-minimum-96-113938298.html"
+          "url": "https://finance.yahoo.com/news/turkey-expects-annual-minimum-96-113938298.html",
+          "title_en": "Turkey expects annual minimum $96 million from crypto asset tax"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Ross Stores posts record FY25 sales, projects continued growth in 2026",
+          "title": "Ross Stores发布了历史最高的FY25销售额，预计2026年将继续增长",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ross-stores-posts-record-fy25-114821692.html"
+          "url": "https://finance.yahoo.com/news/ross-stores-posts-record-fy25-114821692.html",
+          "title_en": "Ross Stores posts record FY25 sales, projects continued growth in 2026"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "For some small businesses, a tariff refund isn't worth the pain of pursuing it",
+          "title": "对于一些小型企业来说，索要关税退税并不值得为此而付出努力",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/small-businesses-tariff-refund-isnt-110654715.html"
+          "url": "https://finance.yahoo.com/news/small-businesses-tariff-refund-isnt-110654715.html",
+          "title_en": "For some small businesses, a tariff refund isn't worth the pain of pursuing it"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "JPMorgan appoints Stephanie Davis to lead private wealth alternatives",
+          "title": "摩根大通任命斯蒂芬妮·戴维斯（Stephanie Davis）领导私人财富替代业务。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jpmorgan-appoints-stephanie-davis-lead-114544500.html"
+          "url": "https://finance.yahoo.com/news/jpmorgan-appoints-stephanie-davis-lead-114544500.html",
+          "title_en": "JPMorgan appoints Stephanie Davis to lead private wealth alternatives"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Funding for Africa clean energy financing surges despite fewer project approvals",
+          "title": "非洲清洁能源融资资金大幅增长，尽管项目审批数量减少。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/funding-africa-clean-energy-financing-104226245.html"
+          "url": "https://finance.yahoo.com/news/funding-africa-clean-energy-financing-104226245.html",
+          "title_en": "Funding for Africa clean energy financing surges despite fewer project approvals"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "AtaiBeckley Inc (ATAI)’s Drug Candidate EMP-01 Shows Positive Results in Key Study",
+          "title": "AtaiBeckley Inc（ATAI）的药物候选物EMP-01在关键研究中显示出积极结果。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ataibeckley-inc-atai-drug-candidate-103948259.html"
+          "url": "https://finance.yahoo.com/news/ataibeckley-inc-atai-drug-candidate-103948259.html",
+          "title_en": "AtaiBeckley Inc (ATAI)’s Drug Candidate EMP-01 Shows Positive Results in Key Study"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Beyond Air Inc (XAIR) Expands Focus on Nitric Oxide Therapies",
+          "title": "Beyond Air Inc (XAIR) 扩大了对一氧化氮治疗的重点",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/beyond-air-inc-xair-expands-103940109.html"
+          "url": "https://finance.yahoo.com/news/beyond-air-inc-xair-expands-103940109.html",
+          "title_en": "Beyond Air Inc (XAIR) Expands Focus on Nitric Oxide Therapies"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Neumora Therapeutics Inc (NMRA) Sheds More Light on Phase 1b Study of NMRA-511",
+          "title": "Neumora Therapeutics Inc (NMRA) 公布了NMRA-511阶段1b临床试验的更多信息。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/neumora-therapeutics-inc-nmra-sheds-103927980.html"
+          "url": "https://finance.yahoo.com/news/neumora-therapeutics-inc-nmra-sheds-103927980.html",
+          "title_en": "Neumora Therapeutics Inc (NMRA) Sheds More Light on Phase 1b Study of NMRA-511"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "2 Warren Buffett Dividend Stocks to Buy With $1,000",
+          "title": "2 个沃伦·巴菲特推荐的分红股，用于以 1000 美元购买",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/2-warren-buffett-dividend-stocks-114500148.html"
+          "url": "https://finance.yahoo.com/news/2-warren-buffett-dividend-stocks-114500148.html",
+          "title_en": "2 Warren Buffett Dividend Stocks to Buy With $1,000"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Esperion Therapeutics Inc (ESPR) Strengthens Business Outlook Amid Strategic Agreements",
+          "title": "Esperion Therapeutics Inc (ESPR) 加强了业务展望在战略协议中",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/esperion-therapeutics-inc-espr-strengthens-103917399.html"
+          "url": "https://finance.yahoo.com/news/esperion-therapeutics-inc-espr-strengthens-103917399.html",
+          "title_en": "Esperion Therapeutics Inc (ESPR) Strengthens Business Outlook Amid Strategic Agreements"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Sealsq Corp (LAES) Shifts Strategy Regarding Quobly Acquisition",
+          "title": "Sealsq Corp（LAES）调整Quobly收购战略",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/sealsq-corp-laes-shifts-strategy-103907921.html"
+          "url": "https://finance.yahoo.com/news/sealsq-corp-laes-shifts-strategy-103907921.html",
+          "title_en": "Sealsq Corp (LAES) Shifts Strategy Regarding Quobly Acquisition"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "VinFast Auto Ltd (VFS) Expands Partnerships and Reports Delivery Growth",
+          "title": "VinFast汽车有限公司(VFS)扩大合作并报告交付增长",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/vinfast-auto-ltd-vfs-expands-103819480.html"
+          "url": "https://finance.yahoo.com/news/vinfast-auto-ltd-vfs-expands-103819480.html",
+          "title_en": "VinFast Auto Ltd (VFS) Expands Partnerships and Reports Delivery Growth"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Maronan Metals secures MDL for silver project in Australia",
+          "title": "马罗纳金属在澳大利亚获得银项目的MDL",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/maronan-metals-secures-mdl-silver-114231599.html"
+          "url": "https://finance.yahoo.com/news/maronan-metals-secures-mdl-silver-114231599.html",
+          "title_en": "Maronan Metals secures MDL for silver project in Australia"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "MannKind Corporation (MNKD) Outlines Expansion Plans and Revenue Targets",
+          "title": "曼恩金德公司（MNKD）公布扩张计划和收入目标",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/mannkind-corporation-mnkd-outlines-expansion-103752716.html"
+          "url": "https://finance.yahoo.com/news/mannkind-corporation-mnkd-outlines-expansion-103752716.html",
+          "title_en": "MannKind Corporation (MNKD) Outlines Expansion Plans and Revenue Targets"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "HIVE Digital (HIVE) Pushes Expansion Plans as Analysts Lower Price Targets",
+          "title": "HIVE数字（HIVE）推进扩张计划，分析师降低价格目标",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/hive-digital-hive-pushes-expansion-103741446.html"
+          "url": "https://finance.yahoo.com/news/hive-digital-hive-pushes-expansion-103741446.html",
+          "title_en": "HIVE Digital (HIVE) Pushes Expansion Plans as Analysts Lower Price Targets"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-04 20:00:19",
-          "title": "Widewaters appoints SHG to manage seven-hotel portfolio",
+          "title": "Widewaters任命SHG管理七家酒店资产",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/widewaters-appoints-shg-manage-seven-113917056.html"
+          "url": "https://finance.yahoo.com/news/widewaters-appoints-shg-manage-seven-113917056.html",
+          "title_en": "Widewaters appoints SHG to manage seven-hotel portfolio"
         }
       ]
     }
