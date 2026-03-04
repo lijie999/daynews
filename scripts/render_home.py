@@ -8,7 +8,7 @@ from pathlib import Path
 REPO_DIR = Path("/Users/lijiaolong/.openclaw/workspace/daynews")
 DOCS = REPO_DIR / "docs"
 BRIEFS = DOCS / "briefs.json"
-OUT = DOCS / "home.html"
+OUT = DOCS / "index.html"
 
 
 def _now_bjt() -> dt.datetime:
