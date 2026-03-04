@@ -147,6 +147,15 @@ def _bucket(items: list[dict[str, Any]]) -> dict[str, list[dict[str, Any]]]:
     return b
 
 
+def _looks_english(s: str) -> bool:
+    s = (s or "").strip()
+    if not s:
+        return False
+    # Heuristic: if it contains a meaningful amount of ASCII letters, treat as English.
+    letters = sum(1 for ch in s if ("A" <= ch <= "Z") or ("a" <= ch <= "z"))
+    return letters >= 12
+
+
 def _render_item(it: dict[str, Any], *, translate: bool = False) -> str:
     src = (it.get("source") or "").replace("&", "&amp;")
     ticker = (it.get("related") or "").replace("&", "&amp;")
@@ -156,12 +165,12 @@ def _render_item(it: dict[str, Any], *, translate: bool = False) -> str:
     raw_summ = (it.get("summary") or "").strip()
 
     if translate and translate_zh is not None:
-        if raw_title:
+        if raw_title and _looks_english(raw_title):
             try:
                 raw_title = translate_zh(raw_title)
             except Exception:
                 pass
-        if raw_summ:
+        if raw_summ and _looks_english(raw_summ):
             try:
                 raw_summ = translate_zh(raw_summ)
             except Exception:
@@ -370,28 +379,62 @@ def main() -> int:
         ("其他", "Other"),
     ]
 
-    def _item_to_brief(it: dict[str, Any]) -> dict[str, Any]:
-        return {
+    def _item_to_brief(it: dict[str, Any], *, translate: bool = False) -> dict[str, Any]:
+        title = (it.get("headline") or "").strip()
+        summary = (it.get("summary") or "").strip()
+        title_en = title
+        summary_en = summary
+
+        if translate and translate_zh is not None:
+            if title and _looks_english(title):
+                try:
+                    title = translate_zh(title)
+                except Exception:
+                    title = title
+            if summary and _looks_english(summary):
+                try:
+                    summary = translate_zh(summary)
+                except Exception:
+                    summary = summary
+
+        out = {
             "source": it.get("source") or "",
             "ticker": it.get("related") or "",
             "time": _ts_to_bjt(it.get("datetime")),
-            "title": (it.get("headline") or "").strip(),
-            "summary": (it.get("summary") or "").strip(),
+            "title": title,
+            "summary": summary,
             "url": it.get("url") or "#",
         }
+
+        # Preserve original fields when we changed them.
+        if title != title_en:
+            out["title_en"] = title_en
+        if summary != summary_en:
+            out["summary_en"] = summary_en
+
+        return out
 
     briefs_obj = {
         "date": now.strftime("%Y.%m.%d"),
         "generatedAtBJT": last_updated,
-        "sections": [
+        "translation": {
+            "enabled": bool(translate_zh is not None),
+            "provider": "nvidia" if os.environ.get("NVIDIA_API_KEY") else ("openclaw" if os.environ.get("OPENCLAW_TRANSLATE") else "unknown"),
+            "policy": "translate_if_english",
+        },
+        "sections": [],
+    }
+
+    # Translate every item that looks English (best-effort). This can be slow if many items.
+    for name, badge in sections_meta:
+        items = buckets.get(name) or []
+        briefs_obj["sections"].append(
             {
                 "name": name,
                 "badge": badge,
-                "items": [_item_to_brief(x) for x in (buckets.get(name) or [])],
+                "items": [_item_to_brief(x, translate=True) for x in items],
             }
-            for name, badge in sections_meta
-        ],
-    }
+        )
 
     BRIEFS_PATH.write_text(
         json.dumps(briefs_obj, ensure_ascii=False, indent=2),
