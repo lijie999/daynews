@@ -1,6 +1,6 @@
 {
   "date": "2026.03.06",
-  "generatedAtBJT": "2026-03-06 05:50:25",
+  "generatedAtBJT": "2026-03-06 06:20:46",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-06 05:50:25",
+          "time": "2026-03-06 06:20:46",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注特朗普计划开通霍尔木兹海峡。以下是阻碍这一计划的障碍…\n\n- 宏观/Fed：关注ADP：私营企业在二月份新增63,000个工作岗位，创下最佳月度成绩…\n\n- 科技/半导体：美国考虑出台新规管制AI芯片出口，包括要求投资者披露与OpenAI的关系",
+          "summary": "- 地缘/避险：关注 这家石油股价飙升130%。你是否应该追随Battalion Oil的脚步？\n\n- 宏观/Fed：关注 ADP：私营企业在2月份新增63,000个工作岗位，创下该月最佳成绩…\n\n- 科技/半导体：Nvidia CEO 杰森·黄(Jensen Huang)表示：“市场对软件的预期过低”。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Trump has a plan to open the Strait of Hormuz. Here are the obst…\n- 宏观/Fed：关注 ADP: Private employers added 63,000 jobs in February, the best m…\n- 科技/半导体：US mulls new rules for AI chip exports, including requiring inve… 关键词: broadcom, chip, ceo, more, openai"
+          "summary_en": "- 地缘/避险：关注 This Oil Stock Just Soared 130%. Should You Chase Battalion Oil …\n- 宏观/Fed：关注 ADP: Private employers added 63,000 jobs in February, the best m…\n- 科技/半导体：Nvidia CEO Jensen Huang Says \"The Markets Got It Wrong\" on Softw… 关键词: broadcom, chip, ceo, nvidia, more"
         }
       ]
     },
@@ -27,13 +27,68 @@
       "badge": "Mag7 / Semis",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:20:42",
+          "title": "Nvidia CEO 杰森·黄(Jensen Huang)表示：“市场误判了软件股”。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-says-144100036.html",
+          "title_en": "Nvidia CEO Jensen Huang Says \"The Markets Got It Wrong\" on Software Stocks"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:20:42",
+          "title": "杰克·多斯利的4,000份粉红色解雇通知引发恐慌，他说小团队将“通过AI做得更好”。如何保护自己",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jack-dorsey-4-000-pink-145500355.html",
+          "title_en": "Jack Dorsey’s 4,000 pink slips spark panic as he says small teams will ‘do it better' with AI. How to protect yourself"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:20:42",
+          "title": "数据中心供应商因光纤电缆需求而超额盈利。股价下跌。",
+          "summary": "",
+          "url": "https://www.investors.com/news/technology/data-center-dycom/?src=A00220&yptr=yahoo",
+          "title_en": "Data Center Vendor Beats Earnings On Fiber Optic Cable Demand. Shares Dip."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:20:42",
+          "title": "NVIDIA昨天是否像Micron和SanDisk一样打压了内存股票？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/did-nvidia-crash-memory-stocks-143200867.html",
+          "title_en": "Did NVIDIA Crash Memory Stocks Like Micron and SanDisk Yesterday?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:20:42",
+          "title": "人工智能是否能帮你做税务？了解提示、风险和三种人工智能可以帮助的方式。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/can-ai-do-my-taxes-learn-prompts-risks-and-3-ways-ai-can-help-211639535.html",
+          "title_en": "Can AI do my taxes? Learn prompts, risks, and 3 ways AI can help."
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 05:50:20",
+          "time": "2026-03-06 06:20:42",
           "title": "美国考虑出台新规管制AI芯片出口，包括要求外国公司在美国进行投资",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-mulls-new-rules-for-ai-chip-exports-including-requiring-investments-by-foreign-firms-in-us-4545319",
           "title_en": "US mulls new rules for AI chip exports, including requiring investments by foreign firms in the US"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-06 05:53:00",
+          "title": "马威股价大涨，强劲的AI驱动需求带来业绩超预期",
+          "summary": "马威的股票在周四晚间交易中上涨，受益于乐观的财报和全年财务指引。",
+          "url": "https://www.marketwatch.com/story/marvells-stock-soars-as-robust-ai-driven-demand-drives-an-earnings-beat-51574cc0?mod=mw_rss_topstories",
+          "title_en": "Marvell’s stock soars as robust AI-driven demand drives an earnings beat",
+          "summary_en": "Marvell’s stock was up in after-hours trading on Thursday after an upbeat earnings report and full-year guidance."
         },
         {
           "source": "CNBC-Top",
@@ -84,16 +139,6 @@
           "url": "https://www.cnbc.com/2026/03/05/cloud-stocks-jump-led-by-okta.html",
           "title_en": "Cloud stocks jump, head for best day in nearly a year despite broad market declines",
           "summary_en": "The WisdomTree Cloud Computing Fund (WCLD) gained 4.5% on the session, putting the exchange-traded fund on track for its best day since April 24, 2025."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-05 21:50:45",
-          "title": "埃隆·马斯克称Grook可以帮助您处理税务。专家对使用AI进行税务准备的看法",
-          "summary": "埃隆·马斯克称Groq可以帮助您处理税务。了解在使用税务AI之前需要知道的内容。",
-          "url": "https://www.cnbc.com/2026/03/05/ai-elon-musk-grok-taxes.html",
-          "title_en": "Elon Musk says Grok can help with your taxes. What experts say about using AI for tax prep",
-          "summary_en": "Elon Musk says Grok can help with your taxes. Here's what to know before using AI for your returns."
         },
         {
           "source": "CNBC-Tech",
@@ -154,36 +199,6 @@
           "url": "https://www.cnbc.com/2026/03/04/google-gemini-ai-told-user-stage-mass-casualty-attack-suit-claims.html",
           "title_en": "Google's AI chatbot allegedly told user to stage 'mass casualty attack,' wrongful death suit claims",
           "summary_en": "The father of Jonathan Gavalas accused Google of convincing his son to commit suicide after first encouraging him to execute a \"mass casualty attack.\""
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-05 03:47:34",
-          "title": "苹果宣布推出MacBook Neo，价格最便宜的笔记本电脑",
-          "summary": "苹果新款MacBook Neo为公司带来了最便宜的笔记本电脑，让Mac系列有了一个-budget的入口。",
-          "url": "https://www.cnbc.com/2026/03/04/apple-macbook-neo-budget-laptop.html",
-          "title_en": "Apple announces MacBook Neo, its most affordable laptop ever",
-          "summary_en": "Apple’s new MacBook Neo gives the company its cheapest laptop ever, creating a budget entry into the Mac lineup."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-05 01:00:41",
-          "title": "Sam Altman 告诉 OpenAI 员工，军方的“运作决策”由政府负责。",
-          "summary": "OpenAI CEO Sam Altman表示，公司不决定军方如何使用其技术。",
-          "url": "https://www.cnbc.com/2026/03/03/sam-altman-tells-openai-staff-operational-decisions-up-to-government.html",
-          "title_en": "Sam Altman tells OpenAI staffers that military's 'operational decisions' are up to the government",
-          "summary_en": "In an all-hands meetings with OpenAI employees on Tuesday, CEO Sam Altman said his company doesn't get to choose how the military uses its technology."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-04 20:39:48",
-          "title": "中国小米公司向CNBC表示，计划每年发布一次智能手机芯片，并为海外市场开发自己的AI助手。",
-          "summary": "去年，小米推出了XRing O1，这是一颗基于高级3纳米制造工艺的系统芯片（SoC）。",
-          "url": "https://www.cnbc.com/2026/03/04/xiaomi-plans-yearly-smartphone-chip-release-ai-assistant-for-overseas.html",
-          "title_en": "China's Xiaomi tells CNBC it's planning a yearly smartphone chip release and its own AI assistant for overseas",
-          "summary_en": "Last year, Xiaomi launched the XRing O1, a system-on-chip (SoC) based on an advanced 3 nanometer manufacturing process."
         }
       ]
     },
@@ -194,11 +209,47 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 05:50:20",
+          "time": "2026-03-06 06:20:42",
           "title": "美国私营部门雇主在2月份新增63,000个工作岗位，自7月份以来表现最佳。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/adp-private-employers-added-63000-jobs-in-february-the-best-monthly-showing-since-july-132604002.html",
           "title_en": "ADP: Private employers added 63,000 jobs in February, the best monthly showing since July"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:20:42",
+          "title": "昆提克银行（Quontic Bank）评估（2026）：创新在线银行，竞争性利率和无月费",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/review/quontic-bank-review-162546260.html",
+          "title_en": "Quontic Bank review (2026): Innovative online banking with competitive rates and no monthly fees"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:20:42",
+          "title": "BrioDirect评估（2026）：在线储蓄账户，市场领先的利率和最低费用",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/review/briodirect-review-191031576.html",
+          "title_en": "BrioDirect review (2026): Online savings accounts with market-leading rates and minimal fees"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:20:42",
+          "title": "Axos银行评估（2026）：无月费的奖励活期和高收益储蓄账户",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/review/axos-bank-review-011951629.html",
+          "title_en": "Axos Bank review (2026): Rewards checking and high-yield savings with no monthly fees"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:20:42",
+          "title": "甲骨文 reportedly 正在裁员数千人，伴随数据中心增长",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/oracle-reported-cutting-thousands-of-jobs-amid-data-center-growth-4544981",
+          "title_en": "Oracle reportedly cutting thousands of jobs amid data center growth"
         },
         {
           "source": "CNBC-Top",
@@ -227,6 +278,92 @@
       "badge": "Risk / Oil / Gold",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:20:42",
+          "title": "这家石油股刚刚暴涨130%。你是否应该追随Battalion Oil？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/oil-stock-just-soared-130-141935705.html",
+          "title_en": "This Oil Stock Just Soared 130%. Should You Chase Battalion Oil Here?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:20:42",
+          "title": "股市上涨，油价回落至高点",
+          "summary": "",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-030426/card/stocks-are-rising-as-oil-prices-pull-back-from-highs-I1XCN1N2DcVaXAzSOcLX?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Stocks Are Rising as Oil Prices Pull Back From Highs"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:20:42",
+          "title": "皇家壳牌与委内瑞拉签署石油和天然气勘探协议",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/venezuelan-govt-shell-sign-oil-deals-state-television-says-4544971",
+          "title_en": "Shell signs oil and gas, exploration agreements with Venezuela"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:16:28",
+          "title": "特朗普暗示美国将转向古巴：\"只是时间问题\"",
+          "summary": "",
+          "url": "https://www.cnbc.com/2026/03/05/trump-cuba-iran-regime-change.html",
+          "title_en": "Trump hints U.S. will turn to Cuba after Iran: 'Just a question of time'"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:08:17",
+          "title": "Anthropic被DOD正式确认为供应链风险，即使Claude在伊朗使用。",
+          "summary": "正式声明将要求国防供应商和承包商在与五角大楼的工作中确认他们没有使用 Anthropic 的模型。",
+          "url": "https://www.cnbc.com/2026/03/05/anthropic-pentagon-ai-claude-iran.html",
+          "title_en": "Anthropic officially told by DOD that it's a supply chain risk even as Claude used in Iran",
+          "summary_en": "The formal declaration will require defense vendors and contractors to certify that they don’t use Anthropic’s models in their work with the Pentagon."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:08:13",
+          "title": "美国原油价格突破每桶80美元，伊朗战争升级导致全球燃料供应受阻。",
+          "summary": "石油价格本周已经上涨了约20%，美国与伊朗的战争席卷了中东。",
+          "url": "https://www.cnbc.com/2026/03/05/crude-oil-prices-today-iran-war.html",
+          "title_en": "U.S. crude oil tops $80 per barrel as escalating Iran war disrupts global fuel supplies",
+          "summary_en": "Oil prices have surged about 20% this week as the U.S.-Iran war engulfs the Middle East."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:02:00",
+          "title": "美国在委内瑞拉的“新发现石油”不会弥补伊朗石油冲击的影响",
+          "summary": "一位能源市场投资者称，石油仍然处于“所有供应冲击的母亲”，自1973年石油禁运以来。",
+          "url": "https://www.marketwatch.com/story/why-the-u-s-newfound-oil-in-venezuela-wont-offset-an-iran-oil-shock-ffa4bd95?mod=mw_rss_topstories",
+          "title_en": "Why the U.S.’s ‘newfound oil’ in Venezuela won’t offset an Iran oil shock",
+          "summary_en": "Oil is still “baking in the mother of all supply shocks” since the 1973 oil embargo, says one energy-market investor."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-06 05:58:57",
+          "title": "美国众议院否决了对特朗普伊朗政策的限制决议",
+          "summary": "美国参议院周三否决了类似的战争权力决议，留下了特朗普总统继续在伊朗采取进一步行动的空间。",
+          "url": "https://www.cnbc.com/2026/03/05/house-iran-rejects-war-powers-resolution-trump.html",
+          "title_en": "House rejects war powers resolution to rein in Trump on Iran",
+          "summary_en": "The Senate rejected a similar war powers resolution on Wednesday, leaving President Donald Trump to pursue further action in Iran."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-06 05:51:00",
+          "title": "投资者押注国际股市超过美国股市的结果却被伊朗冲突给打破了",
+          "summary": "国际股市的超额表现正在衰退，因为油价攀升至每桶80美元。",
+          "url": "https://www.marketwatch.com/story/investors-betting-on-international-stocks-trouncing-the-u-s-are-getting-a-rude-awakening-from-the-iran-conflict-beff2b1e?mod=mw_rss_topstories",
+          "title_en": "Investors betting on international stocks trouncing the U.S. are getting a rude awakening from the Iran conflict",
+          "summary_en": "The outperformance of international stocks is faltering as oil prices climb to $80 barrel."
+        },
+        {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-03-06 05:22:00",
@@ -249,26 +386,6 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-06 05:02:45",
-          "title": "Anthropic被DOD正式确认为供应链风险，即使Claude在伊朗使用。",
-          "summary": "正式声明将要求国防供应商和承包商在与五角大楼的工作中确认他们没有使用 Anthropic 的模型。",
-          "url": "https://www.cnbc.com/2026/03/05/anthropic-pentagon-ai-claude-iran.html",
-          "title_en": "Anthropic officially told by DOD that it's a supply chain risk even as Claude used in Iran",
-          "summary_en": "The formal declaration will require defense vendors and contractors to certify that they don’t use Anthropic’s models in their work with the Pentagon."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-06 04:50:00",
-          "title": "美国在委内瑞拉的“新发现石油”不会弥补伊朗石油冲击的影响",
-          "summary": "一位能源市场投资者称，石油仍然处于“所有供应冲击的母亲”，自1973年石油禁运以来。",
-          "url": "https://www.marketwatch.com/story/why-the-u-s-newfound-oil-in-venezuela-wont-offset-an-iran-oil-shock-ffa4bd95?mod=mw_rss_topstories",
-          "title_en": "Why the U.S.’s ‘newfound oil’ in Venezuela won’t offset an Iran oil shock",
-          "summary_en": "Oil is still “baking in the mother of all supply shocks” since the 1973 oil embargo, says one energy-market investor."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
           "time": "2026-03-06 04:49:59",
           "title": "伊朗外长：不寻求停火，警告美军入侵将是“对他们来说的大灾难”。",
           "summary": "伊朗外长阿拉吉奇在接受NBC新闻采访时表示，美国“未能实现其主要目标”，而对伊朗的袭击“取得了一个干净、快速的胜利”。",
@@ -285,26 +402,6 @@
           "url": "https://www.marketwatch.com/story/oil-prices-rise-again-as-conflict-in-middle-east-escalates-df0a71d0?mod=mw_rss_topstories",
           "title_en": "U.S. oil prices top $80 after Iran reportedly attacks tanker in the Persian Gulf",
           "summary_en": "Oil rallied Thursday, with U.S. prices climbing above $80 for the first time in over a year, following a report that Iran attacked a U.S. oil tanker in the Persian Gulf."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-06 03:53:00",
-          "title": "投资者押注国际股市超过美国股市的结果却被伊朗冲突给打破了",
-          "summary": "国际股市的超额表现正在衰退，因为油价攀升至每桶80美元。",
-          "url": "https://www.marketwatch.com/story/investors-betting-on-international-stocks-trouncing-the-u-s-are-getting-a-rude-awakening-from-the-iran-conflict-beff2b1e?mod=mw_rss_topstories",
-          "title_en": "Investors betting on international stocks trouncing the U.S. are getting a rude awakening from the Iran conflict",
-          "summary_en": "The outperformance of international stocks is faltering as oil prices climb to $80 barrel."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-06 03:50:21",
-          "title": "美国原油价格突破每桶80美元，伊朗战争升级导致全球燃料供应受阻。",
-          "summary": "石油价格本周已经上涨了约20%，美国与伊朗的战争席卷了中东。",
-          "url": "https://www.cnbc.com/2026/03/05/crude-oil-prices-today-iran-war.html",
-          "title_en": "U.S. crude oil tops $80 per barrel as escalating Iran war disrupts global fuel supplies",
-          "summary_en": "Oil prices have surged about 20% this week as the U.S.-Iran war engulfs the Middle East."
         },
         {
           "source": "CNBC-Top",
@@ -355,56 +452,6 @@
           "url": "https://www.cnbc.com/2026/03/04/amazon-bahrain-data-centers-targeted-iran-drone-strike.html",
           "title_en": "Amazon's Bahrain data center targeted by Iran for support of U.S. military, state media says",
           "summary_en": "Amazon said the Bahrain facility was damaged due to a nearby drone strike, and two data centers in the UAE were directly hit by drones."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-05 23:49:03",
-          "title": "伊朗战争油价冲击不会阻止特朗普的美联储提名人沃什从减息",
-          "summary": "唐纳德·特朗普总统的Federal Reserve主席人选看待通胀风险的方式与现任主席杰罗姆·鲍威尔大不相同。",
-          "url": "https://www.cnbc.com/2026/03/05/iran-oil-fed-kevin-warsh.html",
-          "title_en": "Why Iran war oil price shock won't stop Trump's Fed pick Warsh from cutting interest rates",
-          "summary_en": "President Donald Trump's choice to lead the Federal Reserve sees inflation risk very differently than Chairman Jerome Powell."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-05 22:17:53",
-          "title": "德国国防企业Renk首席执行官表示，伊朗战争可能会在中东地区带来“需求不断增加”。",
-          "summary": "中东当前冲突可能会对Renk的业务产生益处，首席执行官亚历山大·萨格尔在一次财报电话会议上表示。",
-          "url": "https://www.cnbc.com/2026/03/05/renk-r3nk-stock-war-iran-defense-middle-east.html",
-          "title_en": "German defense firm Renk CEO says Iran war could drive 'increasing demand' in the Middle East",
-          "summary_en": "The current conflict in the Middle East could benefit Renk's business, CEO Alexander Sagel said on an earnings call."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-05 20:49:07",
-          "title": "伊朗战争威胁全球旅行业11.7万亿美元，旅客被卷入冲突中",
-          "summary": "远离落雷、无人机袭击和其他地缘政治热点的游客也不能免受波及效应的影响。",
-          "url": "https://www.cnbc.com/2026/03/05/iran-war-travel-flights-cruise-hotels.html",
-          "title_en": "Iran war threatens $11.7 trillion global travel industry as passengers get caught in crossfire",
-          "summary_en": "Travelers who are far from falling missiles, drone attacks and other geopolitical flashpoints aren't immune to ripple effects."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-05 20:44:36",
-          "title": "美伊冲突对哈瓦那的影响：下一个是古巴吗？",
-          "summary": "美国继续对伊朗发动攻击，并在特朗普下令美国部队推翻委内瑞拉总统后，人们开始猜测下一个目标将是何方神州。",
-          "url": "https://www.cnbc.com/2026/03/05/cuba-crisis-iran-war-trump-rubio-talks-venezuela-oil.html",
-          "title_en": "Is Cuba next? What the fallout from the Iran war means for Havana",
-          "summary_en": "Speculation about what's next for Havana comes as the U.S. continues to attack Iran and shortly after Trump ordered U.S. forces to depose Venezuela's president."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-05 20:30:46",
-          "title": "北约成员国感受到伊朗战争的影响，但北约采取行动的门槛很高",
-          "summary": "北约成员国，资产位于伊朗射程范围内的国家，正感受到中东局势升级所带来的压力。",
-          "url": "https://www.cnbc.com/2026/03/05/article-5-nato-iran-turkey-uk-airbase-middle-east.html",
-          "title_en": "NATO members feel the heat from the Iran war, but the bar for the bloc to act is high",
-          "summary_en": "NATO's members with assets within firing range of Iran, are feeling the heat from the escalating war in the Middle East."
         }
       ]
     },
@@ -420,106 +467,133 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 05:50:20",
-          "title": "Generac Holdings (GNRC) 因其HSB发电机需求下降而受损",
+          "time": "2026-03-06 06:20:42",
+          "title": "Avantus完成亚利桑那州太阳能+储能项目融资",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/generac-holdings-gnrc-hurt-lower-133712957.html",
-          "title_en": "Generac Holdings (GNRC) was Hurt by Lower Demand for Its HSB Generators"
+          "url": "https://finance.yahoo.com/news/avantus-closes-financing-solar-plus-143512467.html",
+          "title_en": "Avantus Closes Financing for Solar-Plus-Storage Project in Arizona"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 05:50:20",
-          "title": "瓦勒罗能源股是否超越S&P 500指数？",
+          "time": "2026-03-06 06:20:42",
+          "title": "莫德纳股价上涨，公司与COVID疫苗专利纠纷达成协议，最高可达225亿美元，消除不确定性",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/valero-energy-stock-outperforming-p-133150359.html",
-          "title_en": "Is Valero Energy Stock Outperforming the S&P 500?"
+          "url": "https://finance.yahoo.com/news/moderna-rises-2-25-billion-132602379.html",
+          "title_en": "Moderna rises as up to $2.25 billion settlement for COVID vaccine patent dispute to remove overhang"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 05:50:20",
-          "title": "B. Riley对Diversified Healthcare Trust价格目标提高至8.50美元，原价6.50美元。",
+          "time": "2026-03-06 06:20:42",
+          "title": "美国和英国在加密协作上出现分歧，消息人士透露。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/diversified-healthcare-trust-price-target-134608284.html",
-          "title_en": "Diversified Healthcare Trust price target raised to $8.50 from $6.50 at B. Riley"
+          "url": "https://finance.yahoo.com/news/us-britain-split-over-crypto-142131534.html",
+          "title_en": "US and Britain split over crypto collaboration, sources say"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 05:50:20",
-          "title": "韦科集团2025年第四季度财报电话会议总结",
+          "time": "2026-03-06 06:20:42",
+          "title": "罗布洛克斯（Roblox）启动，Target升级：华尔街顶级分析师呼吁",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/weyco-group-inc-q4-2025-133000446.html",
-          "title_en": "Weyco Group, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/roblox-initiated-target-upgraded-wall-143909585.html",
+          "title_en": "Roblox initiated, Target upgraded: Wall Street's top analyst calls"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 05:50:20",
-          "title": "格兰蒂埃拉能源公司2025年第四季度财报电话会议摘要",
+          "time": "2026-03-06 06:20:42",
+          "title": "安全避风港（Safe Haven）指的是在市场动荡或经济不稳定时，投资者往往选择的稳定资产，如黄金、美元、政府债券等。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/gran-tierra-energy-inc-q4-133000192.html",
-          "title_en": "Gran Tierra Energy Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/whats-a-safe-haven-and-should-you-invest-in-one-194545990.html",
+          "title_en": "What's a safe haven, and should you invest in one?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 05:50:20",
-          "title": "Evolus, Inc. 2025年第四季度财报电话会议总结",
+          "time": "2026-03-06 06:20:42",
+          "title": "PNC金融服务股是否低于纳斯达克的表现？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/evolus-inc-q4-2025-earnings-133000904.html",
-          "title_en": "Evolus, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/pnc-financial-services-stock-underperforming-141413944.html",
+          "title_en": "Is PNC Financial Services Stock Underperforming the Nasdaq?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 05:50:20",
-          "title": "东部公司第四季度2025年财报电话会议总结",
+          "time": "2026-03-06 06:20:42",
+          "title": "微芯技术股票：MCHP是否优于技术行业？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/eastern-company-q4-2025-earnings-133000372.html",
-          "title_en": "The Eastern Company Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/microchip-technology-stock-mchp-outperforming-135201246.html",
+          "title_en": "Microchip Technology Stock: Is MCHP Outperforming the Technology Sector?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 05:50:20",
-          "title": "BankUnited价格目标由Cantor Fitzgerald提高至56美元至51美元。",
+          "time": "2026-03-06 06:20:42",
+          "title": "康拉德公司批准了印度尼西亚海域的马科气田项目（Mako Gas Project）决策投资（FID）。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/bankunited-price-target-raised-56-134155902.html",
-          "title_en": "BankUnited price target raised to $56 from $51 at Cantor Fitzgerald"
+          "url": "https://finance.yahoo.com/news/conrad-approves-mako-gas-project-143700484.html",
+          "title_en": "Conrad approves Mako Gas Project FID offshore Indonesia"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 05:50:20",
-          "title": "霍利逊技术金融公司2025年第四季度财报电话会议总结",
+          "time": "2026-03-06 06:20:42",
+          "title": "美国国际集团股票是否低于道指表现？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/horizon-technology-finance-corporation-q4-133000007.html",
-          "title_en": "Horizon Technology Finance Corporation Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/american-international-group-stock-underperforming-134951990.html",
+          "title_en": "Is American International Group Stock Underperforming the Dow?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 05:50:20",
-          "title": "奥里恩集团控股公司2025年第四季度财报电话会议总结",
+          "time": "2026-03-06 06:20:42",
+          "title": "奥什科什公司（OSK）成为有吸引力的机会的原因是什么？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/orion-group-holdings-inc-q4-133000361.html",
-          "title_en": "Orion Group Holdings, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/makes-oshkosh-corporation-osk-attractive-134724792.html",
+          "title_en": "What Makes Oshkosh Corporation (OSK) an Attractive Opportunity?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 05:50:20",
-          "title": "梅维尔工程公司2025年第四季度财报电话会议总结",
+          "time": "2026-03-06 06:20:42",
+          "title": "与其他保险股相比，美联生命的股价表现如何？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/mayville-engineering-company-inc-q4-133000999.html",
-          "title_en": "Mayville Engineering Company, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/metlifes-stock-performance-compared-other-134546084.html",
+          "title_en": "How Is MetLife's Stock Performance Compared to Other Insurance Stocks?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 05:50:20",
+          "time": "2026-03-06 06:20:42",
+          "title": "SIG的净亏损主要是由于损失所致，尽管收入保持稳定。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/impairments-drive-net-loss-sig-143758240.html",
+          "title_en": "Impairments drive net loss for SIG despite stable revenue"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:20:42",
+          "title": "佛罗里达男子称自己以为房子已经还清，但后来才发现有一个隐藏的逆向抵押贷款。然后他被起诉了190万美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/florida-retiree-says-thought-home-150000589.html",
+          "title_en": "Florida man says he thought home was paid off before learning of hidden reverse mortgage. Then he was sued for $190K"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:20:42",
+          "title": "特朗普下令为美军支持的海上保险和海军护航为美中东航运提供保障",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/trump-orders-u-backed-insurance-150000570.html",
+          "title_en": "Trump Orders U.S.-Backed Insurance and Navy Escorts for Gulf Shipping"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:20:42",
           "title": "Otovo获得16.6亿美元私募股权投资，以资助EnergyAid收购",
           "summary": "",
           "url": "https://finance.yahoo.com/news/otovo-secures-16-6-million-133801009.html",
@@ -528,56 +602,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 05:50:20",
-          "title": "区域银行存活指南：为什么KRE是当前最好的“恐惧指标”",
+          "time": "2026-03-06 06:20:42",
+          "title": "Generac Holdings (GNRC) 因其HSB发电机需求下降而受损",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/regional-bank-survival-guide-why-133500726.html",
-          "title_en": "The Regional Bank Survival Guide: Why KRE Is the Ultimate \"Fear Gauge\" Right Now"
+          "url": "https://finance.yahoo.com/news/generac-holdings-gnrc-hurt-lower-133712957.html",
+          "title_en": "Generac Holdings (GNRC) was Hurt by Lower Demand for Its HSB Generators"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 05:50:20",
-          "title": "Quantum-Si Incorporated第四季度2025年财报电话会议总结",
+          "time": "2026-03-06 06:20:42",
+          "title": "Live Oak Bancshares (LOB) 有长期增长空间吗？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/quantum-si-incorporated-q4-2025-133000922.html",
-          "title_en": "Quantum-Si incorporated Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/does-live-oak-bancshares-lob-133303905.html",
+          "title_en": "Does Live Oak Bancshares (LOB) Have a Long Runway for Growth?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 05:50:20",
-          "title": "QuickLogic Corporation Q4 2025财报电话会议总结",
+          "time": "2026-03-06 06:20:42",
+          "title": "3月2026年最佳16个新银行账户促销和奖金：可获得最高3,000美元",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/quicklogic-corporation-q4-2025-earnings-133000001.html",
-          "title_en": "QuickLogic Corporation Q4 2025 Earnings Call Summary"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 05:50:20",
-          "title": "克里库特公司2025年第四季度财报电话会议总结",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/cricut-inc-q4-2025-earnings-133000485.html",
-          "title_en": "Cricut, Inc. Q4 2025 Earnings Call Summary"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 05:50:20",
-          "title": "CrowdStrike Holdings, Inc. Q4 2026年财报电话会议总结",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/crowdstrike-holdings-inc-q4-2026-133000582.html",
-          "title_en": "CrowdStrike Holdings, Inc. Q4 2026 Earnings Call Summary"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 05:50:20",
-          "title": "Cyclops获得8千万美元资金，以为支付公司建立稳定币基础设施。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/exclusive-cyclops-raises-8-million-133000032.html",
-          "title_en": "Exclusive: Cyclops raises $8 million to build stablecoin infrastructure for payments companies"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/new-bank-account-bonuses-214704427.html",
+          "title_en": "16 best new bank account promotions and bonuses for March 2026: Earn up to $3,000"
         }
       ]
     }
