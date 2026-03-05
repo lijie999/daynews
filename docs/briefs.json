@@ -1,6 +1,6 @@
 {
   "date": "2026.03.05",
-  "generatedAtBJT": "2026-03-05 20:30:20",
+  "generatedAtBJT": "2026-03-05 20:43:09",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-05 20:30:20",
+          "time": "2026-03-05 20:43:09",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注道琼斯期货下跌，石油价格再次上涨；AI芯片巨头布罗德كم（Broadcom）CEO预计芯片需求将持续增长。\n\n- 宏观/Fed：关注美国人在跳槽后错过了数十亿美元的收入，忘记了他们的退休金。\n\n- 科技/半导体：天然气股点燃突破，推动中东在AI领域的投资。",
+          "summary": "- 地缘/避险：关注道琼斯期货下跌，石油价格再次上涨；AI芯片巨头……\n- 宏观/Fed：关注昆蒂克银行（Quontic Bank）2026年评估：创新在线银行……\n- 科技/半导体：Ciena财报大幅上涨，指导意见强劲，依赖数据中心订单。然而……",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Dow Jones Futures Fall, Oil Prices Rise Again; AI Chip Giant Bro…\n- 宏观/Fed：关注 Americans losing out on billions after switching jobs, forgettin…\n- 科技/半导体：Natural Gas Stock Ignites Breakout, Fuels AI With Middle East In… 关键词: apple, broadcom, chip, billion, ceo"
+          "summary_en": "- 地缘/避险：关注 Dow Jones Futures Fall, Oil Prices Rise Again; AI Chip Giant Bro…\n- 宏观/Fed：关注 Quontic Bank review (2026): Innovative online banking with compe…\n- 科技/半导体：Ciena Earnings Soar, Guidance Strong On Data Center Orders. But … 关键词: broadcom, chip, apple, billion, center"
         }
       ]
     },
@@ -29,7 +29,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
+          "time": "2026-03-05 20:43:05",
+          "title": "CIENA收益大幅飙升，指导意见强劲，数据中心订单强劲。但是股价却在下跌。",
+          "summary": "",
+          "url": "https://www.investors.com/news/technology/ciena-stock-cien-ciena-earnings-news-q12026/?src=A00220&yptr=yahoo",
+          "title_en": "Ciena Earnings Soar, Guidance Strong On Data Center Orders. But The Stock Is Falling."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 20:43:05",
           "title": "天然气股爆发，中东动荡推动AI",
           "summary": "",
           "url": "https://www.investors.com/research/ibd-stock-analysis/natural-gas-cnx-resources-lng/?src=A00220&yptr=yahoo",
@@ -38,11 +47,30 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
-          "title": "苹果股价是否会达到1000美元？",
+          "time": "2026-03-05 20:43:05",
+          "title": "布罗德كم股价大涨。为什么它的业绩比英伟达更受欢迎。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/apple-stock-going-1-000-121400106.html",
-          "title_en": "Is Apple Stock Going to $1,000?"
+          "url": "https://www.barrons.com/articles/broadcom-avgo-earnings-stock-price-0e2efe3e?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Broadcom Stock Pops. Why Its Earnings Got a Better Response Than Nvidia’s."
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 20:43:05",
+          "title": "Meta计划允许在WhatsApp上使用竞争对手的AI",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/meta-to-allow-ai-rivals-on-whatsapp-in-bid-to-stave-off-eu-action-4543779",
+          "title_en": "Meta to allow AI rivals on WhatsApp in bid to stave off EU action"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-05 20:30:01",
+          "title": "家族办公室加大对人工智能投资力度，二月份创业公司募资创下历史新高",
+          "summary": "亿万富翁拉伦·鲍威尔·乔布斯（Laurene Powell Jobs）的投资公司仍在押注高成长的创业公司，尽管人们担心AI泡沫。",
+          "url": "https://www.cnbc.com/2026/03/05/family-offices-ai-investments.html",
+          "title_en": "Family offices double down on AI investments as startup fundraising breaks record in February",
+          "summary_en": "AI bubble fears haven't stopped investment firms of billionaires like Laurene Powell Jobs from betting on high-flying startups"
         },
         {
           "source": "MarketWatch-Top",
@@ -173,16 +201,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
-          "title": "美国人在跳槽后丢失数十亿美元，忘记了401(k)账户。 为何非自愿转移可能会很昂贵",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/americans-losing-billions-switching-jobs-120000403.html",
-          "title_en": "Americans losing out on billions after switching jobs, forgetting about 401(k)s. Why involuntary rollovers can be costly"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
+          "time": "2026-03-05 20:43:05",
           "title": "昆提克银行（Quontic Bank）评估（2026）：创新在线银行，竞争性利率和无月费",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/review/quontic-bank-review-162546260.html",
@@ -191,7 +210,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
+          "time": "2026-03-05 20:43:05",
           "title": "BrioDirect评估（2026）：在线储蓄账户，市场领先的利率和最低费用",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/review/briodirect-review-191031576.html",
@@ -200,7 +219,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
+          "time": "2026-03-05 20:43:05",
           "title": "Axos银行评估（2026）：无月费的奖励活期和高收益储蓄账户",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/review/axos-bank-review-011951629.html",
@@ -225,15 +244,6 @@
           "url": "https://www.cnbc.com/2026/03/04/trump-federal-reserve-kevin-warsh-senate.html",
           "title_en": "Trump officially nominates Kevin Warsh as Fed chair to replace Jerome Powell",
           "summary_en": "Sen. Thom Tillis has said he would block Kevin Warsh's nomination until a federal criminal investigation of Fed Chair Jerome Powell is dropped"
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-04 23:17:46",
-          "title": "私营企业在2月份新增63,000个工作岗位，1月份的数据则被修正为仅11,000个工作岗位。",
-          "summary": "",
-          "url": "https://www.cnbc.com/2026/03/04/private-companies-added-63000-jobs-in-february-january-revised-to-just-11000-additions-adp-says.html",
-          "title_en": "Private companies added 63,000 jobs in February, January revised to just 11,000 additions, ADP says"
         }
       ]
     },
@@ -244,7 +254,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
+          "time": "2026-03-05 20:43:05",
           "title": "道琼斯指数期货下跌，石油价格再次上涨；半导体巨头博通（Broadcom）大幅上涨",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-broadcom-earnings/?src=A00220&yptr=yahoo",
@@ -253,7 +263,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
+          "time": "2026-03-05 20:43:05",
           "title": "伊朗冲突市场动荡的ETF表现",
           "summary": "",
           "url": "https://finance.yahoo.com/news/etfs-highlight-market-turmoil-iran-050300450.html",
@@ -262,16 +272,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
+          "time": "2026-03-05 20:43:05",
           "title": "美国股市反弹，受强劲经济数据和油价停止飙升的影响。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/asian-shares-extend-losses-war-024957101.html",
+          "url": "https://finance.yahoo.com/news/asian-shares-extend-losses-war-024957667.html",
           "title_en": "US stocks rebound after strong economic updates and as oil prices stop spiking"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 20:43:05",
+          "title": "散户对伊朗局势担忧的激增打乱了“拥挤”的分散交易",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/crowded-dispersion-trade-rattled-spiraling-103000066.html",
+          "title_en": "‘Crowded’ Dispersion Trade Rattled by Spiraling Iran Worries"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
+          "time": "2026-03-05 20:43:05",
           "title": "印度石油加速购买俄罗斯原油靠近印度",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/indian-oil-expedites-purchases-of-russian-crude-floating-near-india-93CH-4543636",
@@ -280,7 +299,7 @@
         {
           "source": "CNBC-World",
           "ticker": "RSS",
-          "time": "2026-03-05 20:29:54",
+          "time": "2026-03-05 20:30:46",
           "title": "北约成员国感受到伊朗战争的影响，但北约采取行动的门槛很高",
           "summary": "北约成员国，资产位于伊朗射程范围内的国家，正感受到中东局势升级所带来的压力。",
           "url": "https://www.cnbc.com/2026/03/05/article-5-nato-iran-turkey-uk-airbase-middle-east.html",
@@ -360,6 +379,16 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
+          "time": "2026-03-05 17:07:47",
+          "title": "美国坚称伊朗冲突不会是“永恒战争”，但专家们持有不同意见。",
+          "summary": "特朗普总统和他的官员说这场战争不会持续很久。专家说这场战争可能会持续得比白宫预期的更长时间。",
+          "url": "https://www.cnbc.com/2026/03/05/iran-conflict-duration-middle-east-regional-war-experts.html",
+          "title_en": "The U.S. insists the Iran conflict won't be a 'forever war.' Experts beg to differ",
+          "summary_en": "President Trump and his officials say the war won't be protracted. Experts say it could go on longer than the White House expects."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
           "time": "2026-03-05 07:47:01",
           "title": "克拉默称，石油市场的信号表明伊朗战争不会失控——这对股市来说是有利的。",
           "summary": "CNBC的吉姆·克雷默（Jim Cramer）周三说：“石油市场总是知道一切。”",
@@ -388,16 +417,6 @@
           "summary_en": "The oil market has calmed after President Donald Trump said the U.S. would insure tankers and provide naval escorts if necessary."
         },
         {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-05 03:37:57",
-          "title": "民主党人谨慎对待另一项特朗普弹劾案，特别是伊朗“非法”袭击事件",
-          "summary": "自伊朗袭击事件以来，国会民主党人士称该行动违宪，但另一次弹劾案并未进入严肃讨论。",
-          "url": "https://www.cnbc.com/2026/03/04/trump-impeachment-iran-strikes-war-democrats.html",
-          "title_en": "Democrats tread cautiously around another Trump impeachment after 'illegal' Iran strikes",
-          "summary_en": "Since the attack on Iran, congressional Democrats have called the operation unconstitutional. But another impeachment hasn't seriously entered the conversation."
-        },
-        {
           "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-05 02:08:38",
@@ -406,16 +425,6 @@
           "url": "https://www.cnbc.com/2026/03/03/iran-cisa-cybersecurity-war-threat.html",
           "title_en": "The lead U.S. cyber agency is stretched thin as Iran hacking threat escalates",
           "summary_en": "Last week, CISA's acting director was reassigned to a new division within DHS and the agency is operating under a partial shutdown."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-04 23:14:07",
-          "title": "高盛的戴维·索罗门惊讶于伊朗战争对市场的“温和”反应",
-          "summary": "高盛首席执行官大卫·索罗门表示：“我认为市场需要几周时间才能真正消化发生的事情的影响。”",
-          "url": "https://www.cnbc.com/2026/03/04/goldman-david-solomon-iran-war-market-reaction-stocks.html",
-          "title_en": "Goldman's David Solomon surprised by ‘benign’ market reaction to Iran war",
-          "summary_en": "\"I think it's going to take a couple of weeks for markets to really digest the implications of what's happened,\" Goldman chief David Solomon said."
         }
       ]
     },
@@ -431,88 +440,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
-          "title": "美国重质原油价格创下多年来新高",
+          "time": "2026-03-05 20:43:05",
+          "title": "Aerie为AEO带来线下销售的爆发式增长",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/operation-epic-fury-drives-americas-122206444.html",
-          "title_en": "Operation Epic Fury drives Americas heavy crude to multi-year highs"
+          "url": "https://finance.yahoo.com/news/aerie-offline-drive-record-quarter-123806130.html",
+          "title_en": "Aerie, OFFLINE drive record quarter for AEO’s growth"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
-          "title": "全球市场暂时呼吸一口新鲜空气",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/morning-bid-global-markets-breath-121506309.html",
-          "title_en": "Morning Bid: Global markets take a breath"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
-          "title": "一位女性称，标记8.7万美元的意外存款是她最大的遗憾。以下是如果您错误地花费了错误的钱会发生什么。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/woman-says-flagging-8-7m-121500455.html",
-          "title_en": "Woman says flagging $8.7M accidental deposit is her biggest regret. Here's what happens if you spend money sent in error"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
-          "title": "沃巴什推出货物保证解决方案，帮助防止货物盗窃发生",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/wabash-launches-cargo-assurance-solution-120000829.html",
-          "title_en": "Wabash launches cargo assurance solution to help prevent theft before it occurs"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
-          "title": "查斯姆酒店信托公司以9,200万美元收购了六家希尔顿品牌酒店",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/chatham-lodging-trust-acquires-six-121557279.html",
-          "title_en": "Chatham Lodging Trust acquires six Hilton-branded hotels for $92m"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
-          "title": "黄金价格今日，星期四，3月5日：黄金价格上涨，中东战争持续",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-thursday-march-5-gold-opens-higher-as-middle-east-war-continues-120215392.html",
-          "title_en": "Gold price today, Thursday, March 5: Gold opens higher as Middle East war continues"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
-          "title": "中国制造业活动在近5年来增长速度最快，私营PMI显示",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/chinas-factory-activity-expands-quickest-015522109.html",
-          "title_en": "China's factory activity expands at quickest pace in over 5 years, private PMI shows"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
-          "title": "西方联盟银行评估（2026）：在您的储蓄中赚取10倍于国家平均水平",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/review/western-alliance-bank-review-215654919.html",
-          "title_en": "Western Alliance Bank review (2026): Earn 10x the national average on your savings"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
-          "title": "汽车供应商的末路在哪里？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/big-tech-end-road-automotive-121411411.html",
-          "title_en": "Is Big Tech the end of the road for automotive suppliers?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
+          "time": "2026-03-05 20:43:05",
           "title": "股市今日：道指、标普500指数和纳斯达克期货价格波动，随着华尔街的反弹",
           "summary": "",
           "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-waver-after-wall-streets-bounce-back-235517805.html",
@@ -521,7 +458,70 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
+          "time": "2026-03-05 20:43:05",
+          "title": "年长职工有学生贷款，退休储蓄减少30%。如何偿还债务来保护您的未来",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/older-workers-student-loans-30-123000248.html",
+          "title_en": "Older workers with student loans have 30% less saved for retirement. How to pay off that debt to protect your future"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 20:43:05",
+          "title": "3种持有终身的500美元总市值ETF",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/3-total-stock-market-etfs-123500429.html",
+          "title_en": "3 Total Stock Market ETFs to Buy With $500 and Hold Forever"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 20:43:05",
+          "title": "全球市场暂时呼吸一口新鲜空气",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/morning-bid-global-markets-breath-121506309.html",
+          "title_en": "Morning Bid: Global markets take a breath"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 20:43:05",
+          "title": "一位女性称，标记8.7万美元的意外存款是她最大的遗憾。以下是如果您错误地花费了错误的钱会发生什么。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/woman-says-flagging-8-7m-121500455.html",
+          "title_en": "Woman says flagging $8.7M accidental deposit is her biggest regret. Here's what happens if you spend money sent in error"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 20:43:05",
+          "title": "中国制造业活动在近5年来增长速度最快，私营PMI显示",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/chinas-factory-activity-expands-quickest-015522109.html",
+          "title_en": "China's factory activity expands at quickest pace in over 5 years, private PMI shows"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 20:43:05",
+          "title": "独家：在竞技场中，雄狮——Webull CEO表示，认真的零售交易者是护城河",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/exclusive-bull-arena-webull-ceo-123105104.html",
+          "title_en": "EXCLUSIVE: Bull in the Arena—Webull CEO Says Serious Retail Traders are the Moat"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 20:43:05",
+          "title": "西方联盟银行评估（2026）：在您的储蓄中赚取10倍于国家平均水平",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/review/western-alliance-bank-review-215654919.html",
+          "title_en": "Western Alliance Bank review (2026): Earn 10x the national average on your savings"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 20:43:05",
           "title": "我65岁，拥有140万美元的退休账户。如何让它足够我一生所需？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/im-65-1-4-million-123000203.html",
@@ -530,16 +530,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
-          "title": "SpaceX专注的ETF正试图突破SEC的限制",
+          "time": "2026-03-05 20:43:05",
+          "title": "微星股价预测：MU将在1年内走向哪里？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/why-spacex-focused-etf-pushing-050200743.html",
-          "title_en": "Why This SpaceX-Focused ETF Is Pushing the SEC’s Limits"
+          "url": "https://finance.yahoo.com/news/micron-stock-price-prediction-where-123046378.html",
+          "title_en": "Micron Stock Price Prediction: Where Will MU Be in 1 Year?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
+          "time": "2026-03-05 20:43:05",
           "title": "美国国税局（IRS）宣布，State Street的PRIV（Private Investment Vehicle）产品将获得税收优惠。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/why-state-street-priv-quintupled-050100174.html",
@@ -548,7 +548,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
+          "time": "2026-03-05 20:43:05",
           "title": "华尔街对目标公司的转型计划表示信心",
           "summary": "",
           "url": "https://finance.yahoo.com/news/wall-street-buys-target-turnaround-050100453.html",
@@ -557,16 +557,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
-          "title": "CTA在S&P 500崩溃时获利。以下是CTA的秘密。",
+          "time": "2026-03-05 20:43:05",
+          "title": "SpaceX专注的ETF正试图突破SEC的限制",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/cta-gained-while-p-500-121110232.html",
-          "title_en": "CTA Gained While the S&P 500 Collapsed. Here Is What It Holds"
+          "url": "https://finance.yahoo.com/news/why-spacex-focused-etf-pushing-050200743.html",
+          "title_en": "Why This SpaceX-Focused ETF Is Pushing the SEC’s Limits"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
+          "time": "2026-03-05 20:43:05",
+          "title": "EuroDry (EDRY) 公布了盈利的第四季度，调整利润总额大幅增长",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/eurodry-edry-reports-profitable-q4-152016059.html",
+          "title_en": "EuroDry (EDRY) Reports Profitable Q4 with Surging Adjusted EBITDA"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 20:43:05",
           "title": "vTv Therapeutics (VTVT) 筹建全球合作伙伴关系，用于PDE4抑制剂HPP737",
           "summary": "",
           "url": "https://finance.yahoo.com/news/vtv-therapeutics-vtvt-secures-global-152048655.html",
@@ -575,7 +584,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
+          "time": "2026-03-05 20:43:05",
           "title": "Electromed (ELMD)连续第13个季度实现收入和利润增长",
           "summary": "",
           "url": "https://finance.yahoo.com/news/electromed-elmd-reports-13th-consecutive-152238495.html",
@@ -584,11 +593,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 20:30:16",
-          "title": "Regis Corp (RGS)通过战略整合实现调整后EBITDA增长",
+          "time": "2026-03-05 20:43:05",
+          "title": "Jakks Pacific (JAKK)报告了在关税相关收入下滑的情况下展现战略韧性的情况。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/regis-corp-rgs-achieves-adjusted-152024436.html",
-          "title_en": "Regis Corp (RGS) Achieves Adjusted EBITDA Growth Through Strategic Integration"
+          "url": "https://finance.yahoo.com/news/jakks-pacific-jakk-reports-strategic-151956663.html",
+          "title_en": "Jakks Pacific (JAKK) Reports Strategic Resilience Amid Tariff-Related Revenue Decline"
         }
       ]
     }
