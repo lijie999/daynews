@@ -1,8 +1,8 @@
 {
   "date": "2026.03.05",
-  "generatedAtBJT": "2026-03-05 17:17:43",
+  "generatedAtBJT": "2026-03-05 17:19:21",
   "translation": {
-    "enabled": false,
+    "enabled": true,
     "provider": "nvidia",
     "policy": "translate_if_english"
   },
@@ -14,10 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-05 17:17:43",
+          "time": "2026-03-05 17:19:21",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 What an extended war with Iran could mean for gas prices…\n- 宏观/Fed：关注 Mortgage and refinance interest rates today, March 3, 2026: War …\n- 科技/半导体：Kuehne+Nagel to layoff 2,000 workers amid weak demand, AI push… 关键词: apple, broadcom, chip, buy, macbook\n- TSLA：关注 Tesla’s self-driving effort could be worth more than double its …",
-          "url": "#"
+          "summary": "- 地缘/避险：关注与伊朗长期战争对汽油价格的影响...\n- 宏观/Fed：关注3月3日，战争对房贷和再融资利率的影响...\n- 科技/半导体：Kuehne+Nagel因需求疲弱和AI推动而裁员2,000人...\n- TSLA：关注特斯拉的自动驾驶技术价值可能超过其...",
+          "url": "#",
+          "summary_en": "- 地缘/避险：关注 What an extended war with Iran could mean for gas prices…\n- 宏观/Fed：关注 Mortgage and refinance interest rates today, March 3, 2026: War …\n- 科技/半导体：Kuehne+Nagel to layoff 2,000 workers amid weak demand, AI push… 关键词: apple, broadcom, chip, buy, macbook\n- TSLA：关注 Tesla’s self-driving effort could be worth more than double its …"
         }
       ]
     },
@@ -29,145 +30,176 @@
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "Kuehne+Nagel to layoff 2,000 workers amid weak demand, AI push",
+          "title": "库内纳格尔计划裁员2,000名员工，受需求疲软和人工智能推动影响。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/kuehne-nagel-layoff-2-000-210618768.html"
+          "url": "https://finance.yahoo.com/news/kuehne-nagel-layoff-2-000-210618768.html",
+          "title_en": "Kuehne+Nagel to layoff 2,000 workers amid weak demand, AI push"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "Ouster, The 'Eyes' Of Physical AI, Delivers Q4 Earnings Surprise",
+          "title": "Ouster,物理AI的\"眼睛\",发布了Q4财报的惊喜",
           "summary": "",
-          "url": "https://www.investors.com/news/technology/ouster-stock-rises-upbeat-q4-earnings-report/?src=A00220&yptr=yahoo"
+          "url": "https://www.investors.com/news/technology/ouster-stock-rises-upbeat-q4-earnings-report/?src=A00220&yptr=yahoo",
+          "title_en": "Ouster, The 'Eyes' Of Physical AI, Delivers Q4 Earnings Surprise"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "Most Analysts Are Chasing Memory Stocks, But This 1 Wall Street Expert Thinks You Should Buy Apple Instead",
+          "title": "大多数分析师都在追逐内存股，但这位华尔街专家认为你应该买苹果。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/most-analysts-chasing-memory-stocks-211407668.html"
+          "url": "https://finance.yahoo.com/news/most-analysts-chasing-memory-stocks-211407668.html",
+          "title_en": "Most Analysts Are Chasing Memory Stocks, But This 1 Wall Street Expert Thinks You Should Buy Apple Instead"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "As Coherent Locks Down a Bigger Nvidia Deal, Should You Buy, Sell, or Hold COHR Stock?",
+          "title": "在Nvidia更大交易中锁定了COHR股票，是否应该购买、出售或持有COHR股票？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/coherent-locks-down-bigger-nvidia-212957828.html"
+          "url": "https://finance.yahoo.com/news/coherent-locks-down-bigger-nvidia-212957828.html",
+          "title_en": "As Coherent Locks Down a Bigger Nvidia Deal, Should You Buy, Sell, or Hold COHR Stock?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "Morgan Stanley Says These Could Be 2 of the Best Agentic AI Stocks to Buy Now",
+          "title": "摩根士丹利称这些可能是最好的代理AI股票之一",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/morgan-stanley-says-could-2-215639503.html"
+          "url": "https://finance.yahoo.com/news/morgan-stanley-says-could-2-215639503.html",
+          "title_en": "Morgan Stanley Says These Could Be 2 of the Best Agentic AI Stocks to Buy Now"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 09:54:14",
-          "title": "Broadcom's custom AI chip business stays hot and gives the bulls a much-needed win",
-          "summary": "Shares of Broadcom rose about 5% in extended trading after its earnings report underscored the strength of its custom chip business.",
-          "url": "https://www.cnbc.com/2026/03/04/broadcoms-custom-ai-chip-business-stays-hot-and-gives-the-bulls-a-much-needed-win-.html"
+          "title": "布罗德كم(Broadcom)自定义AI芯片业务火热，给牛市带来了一个需要的胜利",
+          "summary": "布洛德كم公司（Broadcom）在扩展交易时间内股价上涨约5%，其财报强调了其定制芯片业务的强劲表现。",
+          "url": "https://www.cnbc.com/2026/03/04/broadcoms-custom-ai-chip-business-stays-hot-and-gives-the-bulls-a-much-needed-win-.html",
+          "title_en": "Broadcom's custom AI chip business stays hot and gives the bulls a much-needed win",
+          "summary_en": "Shares of Broadcom rose about 5% in extended trading after its earnings report underscored the strength of its custom chip business."
         },
         {
           "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-05 09:45:15",
-          "title": "Broadcom CEO Hock Tan sees AI chip revenue 'significantly' above $100 billion next year",
-          "summary": "Broadcom reported that AI revenue more than doubled in the latest quarter and is projecting continued growth as demand soars.",
-          "url": "https://www.cnbc.com/2026/03/04/broadcom-sees-ai-chip-sales-significantly-over-100-billion-in-2027.html"
+          "title": "布罗德كمCEO霍克·坦预计明年人工智能芯片收入将达到100亿美元以上。",
+          "summary": "布罗德كم公司(Broadcom)表示，最近一季度的AI收入超过了翻倍，并预计需求将持续增长。",
+          "url": "https://www.cnbc.com/2026/03/04/broadcom-sees-ai-chip-sales-significantly-over-100-billion-in-2027.html",
+          "title_en": "Broadcom CEO Hock Tan sees AI chip revenue 'significantly' above $100 billion next year",
+          "summary_en": "Broadcom reported that AI revenue more than doubled in the latest quarter and is projecting continued growth as demand soars."
         },
         {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-03-05 09:19:00",
-          "title": "Broadcom says AI is not disrupting its software business, and its stock climbs",
-          "summary": "The chip maker sees sales growth in its infrastructure software accelerating, showing that it’s focused on and investing in that business.",
-          "url": "https://www.marketwatch.com/story/broadcoms-stock-climbs-after-it-says-ai-is-not-disrupting-its-software-business-09b06f3f?mod=mw_rss_topstories"
+          "title": "布罗德كم称其软件业务不会受AI影响，股价上涨",
+          "summary": "芯片制造商预见其基础设施软件销售增长加速，这表明该公司专注并在该业务上投资。",
+          "url": "https://www.marketwatch.com/story/broadcoms-stock-climbs-after-it-says-ai-is-not-disrupting-its-software-business-09b06f3f?mod=mw_rss_topstories",
+          "title_en": "Broadcom says AI is not disrupting its software business, and its stock climbs",
+          "summary_en": "The chip maker sees sales growth in its infrastructure software accelerating, showing that it’s focused on and investing in that business."
         },
         {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-03-05 09:17:00",
-          "title": "Okta’s stock rises as momentum in AI agents fuels an earnings beat",
-          "summary": "Okta beat earnings expectations for the latest quarter, but guidance for the current quarter was below forecasts.",
-          "url": "https://www.marketwatch.com/story/oktas-stock-rallies-as-momentum-in-ai-agents-fuels-an-earnings-beat-4b3983ec?mod=mw_rss_topstories"
+          "title": "Okta的股价上涨，人工智能代理的动力推动了盈利超出预期",
+          "summary": "Okta在最新季度的财报中击败了市场预期，但对于当前季度的预测低于市场预期。",
+          "url": "https://www.marketwatch.com/story/oktas-stock-rallies-as-momentum-in-ai-agents-fuels-an-earnings-beat-4b3983ec?mod=mw_rss_topstories",
+          "title_en": "Okta’s stock rises as momentum in AI agents fuels an earnings beat",
+          "summary_en": "Okta beat earnings expectations for the latest quarter, but guidance for the current quarter was below forecasts."
         },
         {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-03-05 07:49:00",
-          "title": "Apple’s new $599 MacBook Neo borrows iPhone chip to make play for budget-laptop market share",
-          "summary": "Apple wraps up three days of product launches with its cheapest laptop yet.",
-          "url": "https://www.marketwatch.com/story/apple-expands-into-market-for-budget-laptops-with-599-macbook-neo-20574faf?mod=mw_rss_topstories"
+          "title": "苹果新款599美元MacBook Neo采用iPhone芯片，瞄准廉价笔记本市场份额",
+          "summary": "苹果在三天的产品发布会上结束了，推出了最便宜的笔记本电脑。",
+          "url": "https://www.marketwatch.com/story/apple-expands-into-market-for-budget-laptops-with-599-macbook-neo-20574faf?mod=mw_rss_topstories",
+          "title_en": "Apple’s new $599 MacBook Neo borrows iPhone chip to make play for budget-laptop market share",
+          "summary_en": "Apple wraps up three days of product launches with its cheapest laptop yet."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 06:53:45",
-          "title": "Broadcom beats on earnings and guidance as AI revenue doubles",
-          "summary": "Broadcom's AI revenue jumped 106% as the company continues to be a big beneficiary of the boom in infrastructure spending.",
-          "url": "https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html"
+          "title": "布罗德كم在收益和指南上超预期，AI收入翻倍",
+          "summary": "布罗德كم公司的AI收入跃升106%，该公司继续受基础设施支出大幅增长的利益。",
+          "url": "https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html",
+          "title_en": "Broadcom beats on earnings and guidance as AI revenue doubles",
+          "summary_en": "Broadcom's AI revenue jumped 106% as the company continues to be a big beneficiary of the boom in infrastructure spending."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 05:29:49",
-          "title": "Trump has an AI data center problem ahead of the midterms — with no easy solutions",
-          "summary": "Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills.",
-          "url": "https://www.cnbc.com/2026/03/04/trump-faces-an-ai-data-center-power-dilemma-ahead-of-midterms.html"
+          "title": "特朗普面临着在中期选举前要解决的AI数据中心问题——没有简单的解决方案。",
+          "summary": "美国各地的社区对数据中心的反对声浪在不断增长，人们将这些设施的出现归咎于高的电费账单。",
+          "url": "https://www.cnbc.com/2026/03/04/trump-faces-an-ai-data-center-power-dilemma-ahead-of-midterms.html",
+          "title_en": "Trump has an AI data center problem ahead of the midterms — with no easy solutions",
+          "summary_en": "Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 05:09:04",
-          "title": "Nvidia CEO Huang says $30 billion OpenAI investment 'might be the last'",
-          "summary": "Huang also mentioned that Nvidia's $10 billion investment in OpenAI rival Anthropic would likely be its last.",
-          "url": "https://www.cnbc.com/2026/03/04/nvidia-huang-openai-investment.html"
+          "title": "Nvidia CEO 亨利·梅森·休恩表示，Nvidia对OpenAI的30亿美元投资\"可能是最后一次\"。",
+          "summary": "黄也提到，Nvidia在OpenAI竞争对手Anthropic的10亿美元投资很可能是最后一次。",
+          "url": "https://www.cnbc.com/2026/03/04/nvidia-huang-openai-investment.html",
+          "title_en": "Nvidia CEO Huang says $30 billion OpenAI investment 'might be the last'",
+          "summary_en": "Huang also mentioned that Nvidia's $10 billion investment in OpenAI rival Anthropic would likely be its last."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 04:19:30",
-          "title": "Google's AI chatbot allegedly told user to stage 'mass casualty attack,' wrongful death suit claims",
-          "summary": "The father of Jonathan Gavalas accused Google of convincing his son to commit suicide after first encouraging him to execute a \"mass casualty attack.\"",
-          "url": "https://www.cnbc.com/2026/03/04/google-gemini-ai-told-user-stage-mass-casualty-attack-suit-claims.html"
+          "title": "谷歌的AI聊天机器人被指控曾经告诉用户要策划“大规模伤亡事件”，一项不当死亡诉讼声称。",
+          "summary": "谷歌被指诱导儿子自杀",
+          "url": "https://www.cnbc.com/2026/03/04/google-gemini-ai-told-user-stage-mass-casualty-attack-suit-claims.html",
+          "title_en": "Google's AI chatbot allegedly told user to stage 'mass casualty attack,' wrongful death suit claims",
+          "summary_en": "The father of Jonathan Gavalas accused Google of convincing his son to commit suicide after first encouraging him to execute a \"mass casualty attack.\""
         },
         {
           "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-05 03:50:20",
-          "title": "Apple launches lower cost iPhone 17e and a new iPad Air powered by its M4 chip",
-          "summary": "Apple opens week of product launches with refreshed low-cost iPhone and a faster iPad Air, as it begins what looks to be a broader multi-day hardware push.",
-          "url": "https://www.cnbc.com/2026/03/02/apple-iphone-17e-ipad-air-m4-chip.html"
+          "title": "苹果推出低成本iPhone 17e和一款新iPad Air，后者由其M4芯片驱动。",
+          "summary": "苹果周一开启了产品发布周，推出了更新版的低成本iPhone和更快的iPad Air，似乎是苹果即将推出一系列硬件产品。",
+          "url": "https://www.cnbc.com/2026/03/02/apple-iphone-17e-ipad-air-m4-chip.html",
+          "title_en": "Apple launches lower cost iPhone 17e and a new iPad Air powered by its M4 chip",
+          "summary_en": "Apple opens week of product launches with refreshed low-cost iPhone and a faster iPad Air, as it begins what looks to be a broader multi-day hardware push."
         },
         {
           "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-05 03:48:01",
-          "title": "Apple raises MacBook prices across the board as M5 chips, new displays signal AI-first strategy",
-          "summary": "Apple’s Mac refresh moves the lineup further upmarket, pairing higher prices with faster performance in a push to give customers a reason to upgrade.",
-          "url": "https://www.cnbc.com/2026/03/03/apple-macbook-prices-m5-ai.html"
+          "title": "苹果公司全面提高MacBook价格，M5芯片和新显示屏标志着AI优先战略的开始",
+          "summary": "苹果Mac更新将产品线推向更高端市场，通过更快的性能与更高的价格来让客户有理由升级。",
+          "url": "https://www.cnbc.com/2026/03/03/apple-macbook-prices-m5-ai.html",
+          "title_en": "Apple raises MacBook prices across the board as M5 chips, new displays signal AI-first strategy",
+          "summary_en": "Apple’s Mac refresh moves the lineup further upmarket, pairing higher prices with faster performance in a push to give customers a reason to upgrade."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 03:47:34",
-          "title": "Apple announces MacBook Neo, its most affordable laptop ever",
-          "summary": "Apple’s new MacBook Neo gives the company its cheapest laptop ever, creating a budget entry into the Mac lineup.",
-          "url": "https://www.cnbc.com/2026/03/04/apple-macbook-neo-budget-laptop.html"
+          "title": "苹果宣布推出MacBook Neo，价格最便宜的笔记本电脑",
+          "summary": "苹果新款MacBook Neo为公司带来了最便宜的笔记本电脑，让Mac系列有了一个-budget的入口。",
+          "url": "https://www.cnbc.com/2026/03/04/apple-macbook-neo-budget-laptop.html",
+          "title_en": "Apple announces MacBook Neo, its most affordable laptop ever",
+          "summary_en": "Apple’s new MacBook Neo gives the company its cheapest laptop ever, creating a budget entry into the Mac lineup."
         },
         {
           "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-05 01:00:41",
-          "title": "Sam Altman tells OpenAI staffers that military's 'operational decisions' are up to the government",
-          "summary": "In an all-hands meetings with OpenAI employees on Tuesday, CEO Sam Altman said his company doesn't get to choose how the military uses its technology.",
-          "url": "https://www.cnbc.com/2026/03/03/sam-altman-tells-openai-staff-operational-decisions-up-to-government.html"
+          "title": "Sam Altman 告诉 OpenAI 员工，军方的“运作决策”由政府负责。",
+          "summary": "OpenAI CEO Sam Altman表示，公司不决定军方如何使用其技术。",
+          "url": "https://www.cnbc.com/2026/03/03/sam-altman-tells-openai-staff-operational-decisions-up-to-government.html",
+          "title_en": "Sam Altman tells OpenAI staffers that military's 'operational decisions' are up to the government",
+          "summary_en": "In an all-hands meetings with OpenAI employees on Tuesday, CEO Sam Altman said his company doesn't get to choose how the military uses its technology."
         }
       ]
     },
@@ -179,41 +211,48 @@
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "Mortgage and refinance interest rates today, March 3, 2026: War worries pressure mortgage rates",
+          "title": "战争担忧压力下，今日房贷利率。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-march-3-2026-110005822.html"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-march-3-2026-110005822.html",
+          "title_en": "Mortgage and refinance interest rates today, March 3, 2026: War worries pressure mortgage rates"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "Here’s how much $10,000 in a high-yield savings account could earn you in 1 year",
+          "title": "$10,000在高收益储蓄账户中一年能赚多少钱",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/much-10-000-high-yield-185954262.html"
+          "url": "https://finance.yahoo.com/news/much-10-000-high-yield-185954262.html",
+          "title_en": "Here’s how much $10,000 in a high-yield savings account could earn you in 1 year"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 03:24:49",
-          "title": "Trump sides with crypto firms in trillion-dollar battle with banks over stablecoin yield",
-          "summary": "The dispute centers on whether crypto firms like Coinbase can offer yields on stablecoins, which banks warn will siphon trillions of dollars from the industry.",
-          "url": "https://www.cnbc.com/2026/03/04/trump-crypto-banks-stablecoin-yield.html"
+          "title": "特朗普支持加密货币公司与银行在稳定币收益的千万亿美元战役中站在一起",
+          "summary": "争议的焦点在于，是否.crypto公司如Coinbase可以在稳定币上提供收益率，银行警告称这将会从行业中抽走数万亿美元。",
+          "url": "https://www.cnbc.com/2026/03/04/trump-crypto-banks-stablecoin-yield.html",
+          "title_en": "Trump sides with crypto firms in trillion-dollar battle with banks over stablecoin yield",
+          "summary_en": "The dispute centers on whether crypto firms like Coinbase can offer yields on stablecoins, which banks warn will siphon trillions of dollars from the industry."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 03:16:10",
-          "title": "Trump officially nominates Kevin Warsh as Fed chair to replace Jerome Powell",
-          "summary": "Sen. Thom Tillis has said he would block Kevin Warsh's nomination until a federal criminal investigation of Fed Chair Jerome Powell is dropped",
-          "url": "https://www.cnbc.com/2026/03/04/trump-federal-reserve-kevin-warsh-senate.html"
+          "title": "特朗普正式提名凯文·沃什（Kevin Warsh）接替杰罗姆·鲍威尔（Jerome Powell）出任美联储主席。",
+          "summary": "参议员托姆·蒂利斯（Thom Tillis）表示，他将阻止凯文·沃什（Kevin Warsh）的提名，直到联邦调查局对美联储主席杰罗姆·鲍威尔（Jerome Powell）的联邦刑事调查案件被撤销。",
+          "url": "https://www.cnbc.com/2026/03/04/trump-federal-reserve-kevin-warsh-senate.html",
+          "title_en": "Trump officially nominates Kevin Warsh as Fed chair to replace Jerome Powell",
+          "summary_en": "Sen. Thom Tillis has said he would block Kevin Warsh's nomination until a federal criminal investigation of Fed Chair Jerome Powell is dropped"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-04 23:17:46",
-          "title": "Private companies added 63,000 jobs in February, January revised to just 11,000 additions, ADP says",
+          "title": "私营企业在2月份新增63,000个工作岗位，1月份的数据则被修正为仅11,000个工作岗位。",
           "summary": "",
-          "url": "https://www.cnbc.com/2026/03/04/private-companies-added-63000-jobs-in-february-january-revised-to-just-11000-additions-adp-says.html"
+          "url": "https://www.cnbc.com/2026/03/04/private-companies-added-63000-jobs-in-february-january-revised-to-just-11000-additions-adp-says.html",
+          "title_en": "Private companies added 63,000 jobs in February, January revised to just 11,000 additions, ADP says"
         }
       ]
     },
@@ -225,145 +264,176 @@
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "What an extended war with Iran could mean for gas prices",
+          "title": "一场与伊朗的长期战争可能意味着汽油价格的上涨。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/what-an-extended-war-with-iran-could-mean-for-gas-prices-225053494.html"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/what-an-extended-war-with-iran-could-mean-for-gas-prices-225053494.html",
+          "title_en": "What an extended war with Iran could mean for gas prices"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "Nasdaq leads losses as Iran conflict widens, Trump offers to protect shipping",
+          "title": "纳斯达克指数领跌，伊朗冲突扩大，特朗普提出保护航运",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/nasdaq-futures-plunge-market-takes-122500404.html"
+          "url": "https://finance.yahoo.com/news/nasdaq-futures-plunge-market-takes-122500404.html",
+          "title_en": "Nasdaq leads losses as Iran conflict widens, Trump offers to protect shipping"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "Stock Market Today: Dow Loses 400 Points Amid U.S.-Iran Battle; Palantir Climbs As Nvidia Slips (Live Coverage)",
+          "title": "股市今日：道指下跌400点 美伊冲突背景下",
           "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-conflict/?src=A00220&yptr=yahoo"
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-conflict/?src=A00220&yptr=yahoo",
+          "title_en": "Stock Market Today: Dow Loses 400 Points Amid U.S.-Iran Battle; Palantir Climbs As Nvidia Slips (Live Coverage)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "Iran Crypto Activity Spikes. Miners Tumble On Bitcoin Sale Plans.",
+          "title": "伊朗加密货币活动激增。矿工们因比特币出售计划而大幅下跌。",
           "summary": "",
-          "url": "https://www.investors.com/news/bitcoin-miners-sell-holdings-mara-core-scientific-iran-cryptocurrency-outflows/?src=A00220&yptr=yahoo"
+          "url": "https://www.investors.com/news/bitcoin-miners-sell-holdings-mara-core-scientific-iran-cryptocurrency-outflows/?src=A00220&yptr=yahoo",
+          "title_en": "Iran Crypto Activity Spikes. Miners Tumble On Bitcoin Sale Plans."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "Stocks Settle Lower on Iran War Anxiety",
+          "title": "股市收盘下跌，伊朗战争焦虑加剧",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/stocks-settle-lower-iran-war-213913944.html"
+          "url": "https://finance.yahoo.com/news/stocks-settle-lower-iran-war-213913944.html",
+          "title_en": "Stocks Settle Lower on Iran War Anxiety"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 17:07:47",
-          "title": "The U.S. insists the Iran conflict won't be a 'forever war.' Experts beg to differ",
-          "summary": "President Trump and his officials say the war won't be protracted. Experts say it could go on longer than the White House expects.",
-          "url": "https://www.cnbc.com/2026/03/05/iran-conflict-duration-middle-east-regional-war-experts.html"
+          "title": "美国坚称伊朗冲突不会是“永恒战争”，但专家们持有不同意见。",
+          "summary": "特朗普总统和他的官员说这场战争不会持续很久。专家说这场战争可能会持续得比白宫预期的更长时间。",
+          "url": "https://www.cnbc.com/2026/03/05/iran-conflict-duration-middle-east-regional-war-experts.html",
+          "title_en": "The U.S. insists the Iran conflict won't be a 'forever war.' Experts beg to differ",
+          "summary_en": "President Trump and his officials say the war won't be protracted. Experts say it could go on longer than the White House expects."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 16:33:02",
-          "title": "European markets open lower as Iran war unsettles traders",
-          "summary": "European stocks opened in the red on Thursday as markets followed unsettling geopolitical developments in the Middle East.",
-          "url": "https://www.cnbc.com/2026/03/05/european-markets-stoxx-600-ftse-dax-cac-iran-latest.html"
+          "title": "欧洲市场开盘低迷，伊朗战争的不确定性令交易者心烦。",
+          "summary": "欧洲股市周四开盘低迷，受中东地区的不稳定地缘政治发展影响。",
+          "url": "https://www.cnbc.com/2026/03/05/european-markets-stoxx-600-ftse-dax-cac-iran-latest.html",
+          "title_en": "European markets open lower as Iran war unsettles traders",
+          "summary_en": "European stocks opened in the red on Thursday as markets followed unsettling geopolitical developments in the Middle East."
         },
         {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-03-05 10:04:00",
-          "title": "Prices to charter large oil tankers soar as Strait of Hormuz traffic grinds to a halt",
-          "summary": "Charter rates nearly doubled in recent days and are up fivefold since the start of the year.",
-          "url": "https://www.marketwatch.com/story/prices-to-charter-large-oil-tankers-soar-as-strait-of-hormuz-traffic-grinds-to-a-halt-7e5ffe66?mod=mw_rss_topstories"
+          "title": "石油运输船租赁价格大幅上涨，霍尔木兹海峡交通瘫痪",
+          "summary": "近期租金几乎翻倍，今年以来租金增加了五倍。",
+          "url": "https://www.marketwatch.com/story/prices-to-charter-large-oil-tankers-soar-as-strait-of-hormuz-traffic-grinds-to-a-halt-7e5ffe66?mod=mw_rss_topstories",
+          "title_en": "Prices to charter large oil tankers soar as Strait of Hormuz traffic grinds to a halt",
+          "summary_en": "Charter rates nearly doubled in recent days and are up fivefold since the start of the year."
         },
         {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-03-05 07:30:00",
-          "title": "‘My mother refuses to turn on the heat’: Will America’s war with Iran really push up our utility bills?",
-          "summary": "“She is reading alarmist headlines about Iran in the newspapers.”",
-          "url": "https://www.marketwatch.com/story/my-mother-refuses-to-turn-on-the-heat-will-americas-war-with-iran-really-push-up-our-utility-bills-df746548?mod=mw_rss_topstories"
+          "title": "美国与伊朗的战争是否会使我们的电费上涨？",
+          "summary": "她在报纸上看到关于伊朗的恐怖头条。",
+          "url": "https://www.marketwatch.com/story/my-mother-refuses-to-turn-on-the-heat-will-americas-war-with-iran-really-push-up-our-utility-bills-df746548?mod=mw_rss_topstories",
+          "title_en": "‘My mother refuses to turn on the heat’: Will America’s war with Iran really push up our utility bills?",
+          "summary_en": "“She is reading alarmist headlines about Iran in the newspapers.”"
         },
         {
           "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-05 07:09:58",
-          "title": "Amazon's Bahrain data center targeted by Iran for support of U.S. military, state media says",
-          "summary": "Amazon said the Bahrain facility was damaged due to a nearby drone strike, and two data centers in the UAE were directly hit by drones.",
-          "url": "https://www.cnbc.com/2026/03/04/amazon-bahrain-data-centers-targeted-iran-drone-strike.html"
+          "title": "阿马逊巴林数据中心被伊朗指控支持美国军事，官方媒体称",
+          "summary": "亚马逊表示，巴林的设施受损是由于附近的无人机袭击，阿联酋的两座数据中心直接遭到无人机袭击。",
+          "url": "https://www.cnbc.com/2026/03/04/amazon-bahrain-data-centers-targeted-iran-drone-strike.html",
+          "title_en": "Amazon's Bahrain data center targeted by Iran for support of U.S. military, state media says",
+          "summary_en": "Amazon said the Bahrain facility was damaged due to a nearby drone strike, and two data centers in the UAE were directly hit by drones."
         },
         {
           "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-05 03:57:16",
-          "title": "U.S. crude oil surge eases after Bessent pledges support for tankers during Iran war",
-          "summary": "The oil market has calmed after President Donald Trump said the U.S. would insure tankers and provide naval escorts if necessary.",
-          "url": "https://www.cnbc.com/2026/03/04/crude-oil-prices-today-iran-war.html"
+          "title": "美国原油价格反弹缓和，贝森特承诺在伊朗战争期间支持油轮。",
+          "summary": "美国总统唐纳德·特朗普表示，如果需要，美国将为油轮提供保险和海军护航，油价市场因此趋于平静。",
+          "url": "https://www.cnbc.com/2026/03/04/crude-oil-prices-today-iran-war.html",
+          "title_en": "U.S. crude oil surge eases after Bessent pledges support for tankers during Iran war",
+          "summary_en": "The oil market has calmed after President Donald Trump said the U.S. would insure tankers and provide naval escorts if necessary."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 03:51:33",
-          "title": "2 reasons why the market is rallying Wednesday and defying Iran war fears",
-          "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-          "url": "https://www.cnbc.com/2026/03/04/these-are-2-reasons-why-stocks-are-rallying-wednesday-defying-iran-war-concerns.html"
+          "title": "美股周三反弹的两大原因",
+          "summary": "每个工作日，投资俱乐部都会发布Homestretch；一个适时的下午更新，正好赶上交易最后一小时。",
+          "url": "https://www.cnbc.com/2026/03/04/these-are-2-reasons-why-stocks-are-rallying-wednesday-defying-iran-war-concerns.html",
+          "title_en": "2 reasons why the market is rallying Wednesday and defying Iran war fears",
+          "summary_en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 03:37:57",
-          "title": "Democrats tread cautiously around another Trump impeachment after 'illegal' Iran strikes",
-          "summary": "Since the attack on Iran, congressional Democrats have called the operation unconstitutional. But another impeachment hasn't seriously entered the conversation.",
-          "url": "https://www.cnbc.com/2026/03/04/trump-impeachment-iran-strikes-war-democrats.html"
+          "title": "民主党人谨慎对待另一项特朗普弹劾案，特别是伊朗“非法”袭击事件",
+          "summary": "自伊朗袭击事件以来，国会民主党人士称该行动违宪，但另一次弹劾案并未进入严肃讨论。",
+          "url": "https://www.cnbc.com/2026/03/04/trump-impeachment-iran-strikes-war-democrats.html",
+          "title_en": "Democrats tread cautiously around another Trump impeachment after 'illegal' Iran strikes",
+          "summary_en": "Since the attack on Iran, congressional Democrats have called the operation unconstitutional. But another impeachment hasn't seriously entered the conversation."
         },
         {
           "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-05 02:08:38",
-          "title": "The lead U.S. cyber agency is stretched thin as Iran hacking threat escalates",
-          "summary": "Last week, CISA's acting director was reassigned to a new division within DHS and the agency is operating under a partial shutdown.",
-          "url": "https://www.cnbc.com/2026/03/03/iran-cisa-cybersecurity-war-threat.html"
+          "title": "美国主要网络安全机构面临严重挑战，伊朗黑客威胁加剧",
+          "summary": "上周，CISA的代理总监被重新分配到DHS的一个新部门，机构正在因部分停职而运作。",
+          "url": "https://www.cnbc.com/2026/03/03/iran-cisa-cybersecurity-war-threat.html",
+          "title_en": "The lead U.S. cyber agency is stretched thin as Iran hacking threat escalates",
+          "summary_en": "Last week, CISA's acting director was reassigned to a new division within DHS and the agency is operating under a partial shutdown."
         },
         {
           "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-05 00:24:17",
-          "title": "Iran war and your portfolio: The historical stock market patterns investors should know",
-          "summary": "The stock market had a wild ride on Tuesday, but history suggests that's par for the course and may not be an indication of worse to come.",
-          "url": "https://www.cnbc.com/2026/03/04/iran-war-historical-stock-market-patterns.html"
+          "title": "伊朗战争与你的投资组合：投资者应了解的历史股市模式",
+          "summary": "股市周二经历了疯狂的波动，但历史表明这可能是正常的，并不一定预示着更糟糕的局面。",
+          "url": "https://www.cnbc.com/2026/03/04/iran-war-historical-stock-market-patterns.html",
+          "title_en": "Iran war and your portfolio: The historical stock market patterns investors should know",
+          "summary_en": "The stock market had a wild ride on Tuesday, but history suggests that's par for the course and may not be an indication of worse to come."
         },
         {
           "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-04 23:14:07",
-          "title": "Goldman's David Solomon surprised by ‘benign’ market reaction to Iran war",
-          "summary": "\"I think it's going to take a couple of weeks for markets to really digest the implications of what's happened,\" Goldman chief David Solomon said.",
-          "url": "https://www.cnbc.com/2026/03/04/goldman-david-solomon-iran-war-market-reaction-stocks.html"
+          "title": "高盛的戴维·索罗门惊讶于伊朗战争对市场的“温和”反应",
+          "summary": "高盛首席执行官大卫·索罗门表示：“我认为市场需要几周时间才能真正消化发生的事情的影响。”",
+          "url": "https://www.cnbc.com/2026/03/04/goldman-david-solomon-iran-war-market-reaction-stocks.html",
+          "title_en": "Goldman's David Solomon surprised by ‘benign’ market reaction to Iran war",
+          "summary_en": "\"I think it's going to take a couple of weeks for markets to really digest the implications of what's happened,\" Goldman chief David Solomon said."
         },
         {
           "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-04 21:30:14",
-          "title": "Gulf oil trade, Pentagon's AI usage, Gen Z's analog obsession and more in Morning Squawk",
-          "summary": "Here are five key things investors need to know to start the trading day.",
-          "url": "https://www.cnbc.com/2026/03/04/5-things-to-know-before-the-market-opens.html"
+          "title": "美洲湾石油贸易、五角大楼人工智能使用、Gen Z的模拟迷恋等更多内容在晨间喧哗中",
+          "summary": "今天市场投资者需要了解的五个关键信息。",
+          "url": "https://www.cnbc.com/2026/03/04/5-things-to-know-before-the-market-opens.html",
+          "title_en": "Gulf oil trade, Pentagon's AI usage, Gen Z's analog obsession and more in Morning Squawk",
+          "summary_en": "Here are five key things investors need to know to start the trading day."
         },
         {
           "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-04 21:26:28",
-          "title": "UAE stocks sell off as markets reopen from two-day closure after Iranian strikes",
-          "summary": "Exchanges in Dubai and Abu Dhabi were closed for two days after Iran launched a wave of strikes on the Gulf nation.",
-          "url": "https://www.cnbc.com/2026/03/04/uae-stock-market-sell-off-closed-iran-missile-drone-strikes-dubai-abu-dhabi.html"
+          "title": "阿联酋股市大幅下跌，市场在两天的停业后重新开放，受伊朗袭击事件影响。",
+          "summary": "迪拜和阿布扎比的交易所在伊朗对该国发起一波袭击后关闭了两天。",
+          "url": "https://www.cnbc.com/2026/03/04/uae-stock-market-sell-off-closed-iran-missile-drone-strikes-dubai-abu-dhabi.html",
+          "title_en": "UAE stocks sell off as markets reopen from two-day closure after Iranian strikes",
+          "summary_en": "Exchanges in Dubai and Abu Dhabi were closed for two days after Iran launched a wave of strikes on the Gulf nation."
         }
       ]
     },
@@ -375,9 +445,11 @@
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-03-05 07:50:00",
-          "title": "Tesla’s self-driving effort could be worth more than double its EV division",
-          "summary": "Tesla has made autonomous vehicles a priority, investing heavily in robotaxis and driving-assistance software.",
-          "url": "https://www.marketwatch.com/story/teslas-self-driving-effort-could-be-worth-more-than-double-its-ev-division-b4a4a6f2?mod=mw_rss_topstories"
+          "title": "特斯拉的自动驾驶业务可能价值超过其电动汽车业务的两倍。",
+          "summary": "特斯拉将自动驾驶汽车置于首位，投入大量资金于无人车和驾驶辅助软件。",
+          "url": "https://www.marketwatch.com/story/teslas-self-driving-effort-could-be-worth-more-than-double-its-ev-division-b4a4a6f2?mod=mw_rss_topstories",
+          "title_en": "Tesla’s self-driving effort could be worth more than double its EV division",
+          "summary_en": "Tesla has made autonomous vehicles a priority, investing heavily in robotaxis and driving-assistance software."
         }
       ]
     },
@@ -389,145 +461,163 @@
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "Everything you need to know about the new IRS Schedule 1-A tax breaks",
+          "title": "了解新IRS Schedule 1-A税收减免",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/taxes/article/everything-you-need-to-know-about-the-new-irs-schedule-1-a-tax-breaks-150042330.html"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/everything-you-need-to-know-about-the-new-irs-schedule-1-a-tax-breaks-150042330.html",
+          "title_en": "Everything you need to know about the new IRS Schedule 1-A tax breaks"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "What is a callable CD?",
+          "title": "可 callable CD 是一种可 callable 的定期存款，允许投资者在特定时间内提前赎回存款并获得利息。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/callable-cd-182139565.html"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/callable-cd-182139565.html",
+          "title_en": "What is a callable CD?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "SoFi review (2026): Online banking with (almost) zero fees",
+          "title": "SoFi评测（2026）：在线银行几乎零费用",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/review/sofi-bank-review-220424102.html"
+          "url": "https://finance.yahoo.com/personal-finance/banking/review/sofi-bank-review-220424102.html",
+          "title_en": "SoFi review (2026): Online banking with (almost) zero fees"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "March 2026 housing market forecast: Key factors impacting home buyers and sellers this month",
+          "title": "本月房地产市场预测：影响买家和卖家的关键因素",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/march-2026-housing-market-forecast-140000305.html"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/march-2026-housing-market-forecast-140000305.html",
+          "title_en": "March 2026 housing market forecast: Key factors impacting home buyers and sellers this month"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "How much does it cost to refinance a mortgage?",
+          "title": "重新融资一份抵押贷款的成本通常包括以下几项：",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-much-does-it-cost-to-refinance-a-mortgage-162651390.html"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-much-does-it-cost-to-refinance-a-mortgage-162651390.html",
+          "title_en": "How much does it cost to refinance a mortgage?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "What does travel insurance cover, and do I need it?",
+          "title": "旅行保险通常包括旅行取消、旅行延误、旅行中意外伤害、旅行中疾病治疗、旅行中丢失或盗窃的财产等险种。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/insurance/article/what-does-travel-insurance-cover-183254112.html"
+          "url": "https://finance.yahoo.com/personal-finance/insurance/article/what-does-travel-insurance-cover-183254112.html",
+          "title_en": "What does travel insurance cover, and do I need it?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "Straightship, Dragonfly partner on turnkey U.S.-to-Canada e-commerce service",
+          "title": "Straightship和Dragonfly合作推出一站式美国到加拿大电子商务服务。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/straightship-dragonfly-partner-turnkey-u-210628963.html"
+          "url": "https://finance.yahoo.com/news/straightship-dragonfly-partner-turnkey-u-210628963.html",
+          "title_en": "Straightship, Dragonfly partner on turnkey U.S.-to-Canada e-commerce service"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "How much gold would $1 million buy at different points in history?",
+          "title": "一百万美元在历史上的不同时期购买多少金子？",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/how-much-gold-would-1-million-buy-at-different-points-in-history-140032360.html"
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/how-much-gold-would-1-million-buy-at-different-points-in-history-140032360.html",
+          "title_en": "How much gold would $1 million buy at different points in history?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "Global ESG or International: Which ETF is the Better Buy?",
+          "title": "全球ESG还是国际ETF：哪一个更值得投资？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/global-esg-international-etf-better-210917626.html"
+          "url": "https://finance.yahoo.com/news/global-esg-international-etf-better-210917626.html",
+          "title_en": "Global ESG or International: Which ETF is the Better Buy?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "What is a dependent care FSA?",
+          "title": "依赖照顾FSA（Dependent Care FSA）是指员工可以在税前使用的账户，用于支付照顾家人或其他依赖者（如老年人或残疾人）的费用。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/taxes/article/what-is-a-dependent-care-fsa-192359976.html"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/what-is-a-dependent-care-fsa-192359976.html",
+          "title_en": "What is a dependent care FSA?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "One Of The Best Trades Of 2025 Just Got Crushed",
+          "title": "2025年最好的交易之一刚刚被打压",
           "summary": "",
-          "url": "https://www.investors.com/news/exchange-traded-funds-eem-ewy-ewz-iran-war/?src=A00220&yptr=yahoo"
+          "url": "https://www.investors.com/news/exchange-traded-funds-eem-ewy-ewz-iran-war/?src=A00220&yptr=yahoo",
+          "title_en": "One Of The Best Trades Of 2025 Just Got Crushed"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "Why Harrow, An IBD 50 Stock Up 32% Since January, Just Crashed",
+          "title": "哈罗公司（Harrow）自1月份以来股价上涨32%，但最近股价大幅下跌。",
           "summary": "",
-          "url": "https://www.investors.com/news/technology/biotech-stock-harrow-earnings-q4-2025/?src=A00220&yptr=yahoo"
+          "url": "https://www.investors.com/news/technology/biotech-stock-harrow-earnings-q4-2025/?src=A00220&yptr=yahoo",
+          "title_en": "Why Harrow, An IBD 50 Stock Up 32% Since January, Just Crashed"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "The Excruciating Failure That Could Prompt Theravance, Down 26%, To Sell Itself",
+          "title": "泰拉瓦斯（Theravance）股价下跌26%，可能会促使公司出售自己",
           "summary": "",
-          "url": "https://www.investors.com/news/technology/theravance-biopharma-biotech-stock-phase-3-cypress-msa/?src=A00220&yptr=yahoo"
+          "url": "https://www.investors.com/news/technology/theravance-biopharma-biotech-stock-phase-3-cypress-msa/?src=A00220&yptr=yahoo",
+          "title_en": "The Excruciating Failure That Could Prompt Theravance, Down 26%, To Sell Itself"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "MongoDB Stock Just Entered Oversold Territory. Should You Buy the Dip in MDB?",
+          "title": "MongoDB 股票刚刚进入超卖区域。您是否应该在 MDB 上买入？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/mongodb-stock-just-entered-oversold-211510328.html"
+          "url": "https://finance.yahoo.com/news/mongodb-stock-just-entered-oversold-211510328.html",
+          "title_en": "MongoDB Stock Just Entered Oversold Territory. Should You Buy the Dip in MDB?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "Where’s my tax refund? 4 reasons your refund might be delayed.",
+          "title": "你的退税到账了吗？4个原因可能导致退税延迟",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/taxes/article/wheres-my-tax-refund-4-reasons-your-refund-might-be-delayed-223701586.html"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/wheres-my-tax-refund-4-reasons-your-refund-might-be-delayed-223701586.html",
+          "title_en": "Where’s my tax refund? 4 reasons your refund might be delayed."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "SSR Mining Stock Up 180% as New $5 Million Stake Signals Gold Conviction",
+          "title": "SSR矿业股价上涨180%，新投资5百万美元表明对黄金的信心",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ssr-mining-stock-180-5-211035205.html"
+          "url": "https://finance.yahoo.com/news/ssr-mining-stock-180-5-211035205.html",
+          "title_en": "SSR Mining Stock Up 180% as New $5 Million Stake Signals Gold Conviction"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "Are Roth IRA contributions tax deductible?",
+          "title": "是的，Roth IRA贡献是可抵税的。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/taxes/article/roth-ira-tax-190924867.html"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/roth-ira-tax-190924867.html",
+          "title_en": "Are Roth IRA contributions tax deductible?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
           "time": "2026-03-05 17:17:39",
-          "title": "What would happen if all of the world's gold were sold tomorrow?",
+          "title": "如果世界上所有的黄金都在明天被卖掉，会发生什么？",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/what-would-happen-if-all-of-the-worlds-gold-were-sold-tomorrow-195737847.html"
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/what-would-happen-if-all-of-the-worlds-gold-were-sold-tomorrow-195737847.html",
+          "title_en": "What would happen if all of the world's gold were sold tomorrow?"
         }
       ]
     }
