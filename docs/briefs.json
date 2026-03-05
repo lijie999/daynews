@@ -1,6 +1,6 @@
 {
   "date": "2026.03.06",
-  "generatedAtBJT": "2026-03-06 03:18:46",
+  "generatedAtBJT": "2026-03-06 03:49:04",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-06 03:18:46",
+          "time": "2026-03-06 03:49:04",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：中国企业在伊朗项目受美国和以色列等国家不确定性影响。\n- 宏观/Fed：人工智能可能暂时创造而不是消灭就业岗位，欧洲央行博客。\n- 科技/半导体：Grab Holdings Ltd (GRAB) 重点关注增长、人工智能和运营效率。",
+          "summary": "- 地缘/避险：关注美联储官员表示维持利率稳定，告诉纽约时报当前不应急升利率。\n- 宏观/Fed：关注AI可能暂时创造而不是消灭就业机会，欧洲央行博客讨论。\n- 科技/半导体：独立半导体公司（INDI）发布收益更新和分析， Broadcom CEO Hock Tan 表示半导体需求仍强劲，OpenAI CEO Sam Altman 表示 AI 将继续推动芯片需求。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Uncertainty faces China Inc's projects in Iran after US–Israeli …\n- 宏观/Fed：关注 AI may be creating instead of destroying jobs for now, ECB blog …\n- 科技/半导体：Grab Holdings Ltd (GRAB) Focuses on Growth, AI, and Operational … 关键词: broadcom, openai, ceo, altman, billion"
+          "summary_en": "- 地缘/避险：关注 Fed's Hammack backs steady interest rates, tells NYT it's too ea…\n- 宏观/Fed：关注 AI may be creating instead of destroying jobs for now, ECB blog …\n- 科技/半导体：Indie Semiconductor Inc (INDI) Shares Earnings Update and Analys… 关键词: broadcom, openai, can, ceo, chip"
         }
       ]
     },
@@ -29,7 +29,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
+          "time": "2026-03-06 03:49:00",
+          "title": "独立半导体公司（INDI）发布了最新财报和分析师修正",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/indie-semiconductor-inc-indi-shares-103829914.html",
+          "title_en": "Indie Semiconductor Inc (INDI) Shares Earnings Update and Analyst Revisions"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 03:49:00",
           "title": "Grab Holdings Ltd（GRAB）聚焦于增长、人工智能和运营进步",
           "summary": "",
           "url": "https://finance.yahoo.com/news/grab-holdings-ltd-grab-focuses-103804234.html",
@@ -38,7 +47,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
+          "time": "2026-03-06 03:49:00",
           "title": "Udemy Inc (UDMY)邀请Google和OpenAI加入人工智能学习计划",
           "summary": "",
           "url": "https://finance.yahoo.com/news/udemy-inc-udmy-brings-google-103812768.html",
@@ -47,29 +56,39 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "独立半导体公司（INDI）发布了最新财报和分析师修正",
+          "time": "2026-03-06 03:49:00",
+          "title": "人工智能是否能帮你做税务？了解提示、风险和三种人工智能可以帮助的方式。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/indie-semiconductor-inc-indi-shares-103829914.html",
-          "title_en": "Indie Semiconductor Inc (INDI) Shares Earnings Update and Analyst Revisions"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/can-ai-do-my-taxes-learn-prompts-risks-and-3-ways-ai-can-help-211639535.html",
+          "title_en": "Can AI do my taxes? Learn prompts, risks, and 3 ways AI can help."
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
+          "time": "2026-03-06 03:49:00",
+          "title": "高盛称商业保险公司最具备AI竞争力，提高AIG评级",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-says-commercial-insurers-best-positioned-for-ai-upgrades-aig-4545093",
+          "title_en": "Goldman Sachs says commercial insurers best positioned for AI, upgrades AIG"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 03:49:00",
           "title": "甲骨文计划大规模裁员，据彭博新闻报道，成本上升的数据中心成为主要原因。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/oracle-plans-thousands-of-job-cuts-as-data-center-costs-rise-bloomberg-news-reports-4544997",
           "title_en": "Oracle plans thousands of job cuts as data center costs rise, Bloomberg News reports"
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "美国众议院委员会要求旅行公司回答关于人工智能在定价方面的使用问题。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/us-house-committee-wants-travel-companies-to-answer-questions-on-use-of-ai-for-pricing-4544733",
-          "title_en": "US House committee wants travel companies to answer questions on AI use for pricing"
+          "time": "2026-03-06 03:25:42",
+          "title": "Nvidia 股票下跌，据报道特朗普寻求对人工智能芯片出口加强控制。",
+          "summary": "每个工作日，投资俱乐部都会发布Homestretch；一个适时的下午更新，正好赶上交易最后一小时。",
+          "url": "https://www.cnbc.com/2026/03/05/nvidia-slides-on-report-that-trump-wants-to-make-us-ai-gatekeeper.html",
+          "title_en": "Nvidia shares fall on report that Trump is seeking more control of AI chip exports",
+          "summary_en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading."
         },
         {
           "source": "MarketWatch-Top",
@@ -180,26 +199,6 @@
           "url": "https://www.cnbc.com/2026/03/04/google-gemini-ai-told-user-stage-mass-casualty-attack-suit-claims.html",
           "title_en": "Google's AI chatbot allegedly told user to stage 'mass casualty attack,' wrongful death suit claims",
           "summary_en": "The father of Jonathan Gavalas accused Google of convincing his son to commit suicide after first encouraging him to execute a \"mass casualty attack.\""
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-05 03:47:34",
-          "title": "苹果宣布推出MacBook Neo，价格最便宜的笔记本电脑",
-          "summary": "苹果新款MacBook Neo为公司带来了最便宜的笔记本电脑，让Mac系列有了一个-budget的入口。",
-          "url": "https://www.cnbc.com/2026/03/04/apple-macbook-neo-budget-laptop.html",
-          "title_en": "Apple announces MacBook Neo, its most affordable laptop ever",
-          "summary_en": "Apple’s new MacBook Neo gives the company its cheapest laptop ever, creating a budget entry into the Mac lineup."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-05 01:00:41",
-          "title": "Sam Altman 告诉 OpenAI 员工，军方的“运作决策”由政府负责。",
-          "summary": "OpenAI CEO Sam Altman表示，公司不决定军方如何使用其技术。",
-          "url": "https://www.cnbc.com/2026/03/03/sam-altman-tells-openai-staff-operational-decisions-up-to-government.html",
-          "title_en": "Sam Altman tells OpenAI staffers that military's 'operational decisions' are up to the government",
-          "summary_en": "In an all-hands meetings with OpenAI employees on Tuesday, CEO Sam Altman said his company doesn't get to choose how the military uses its technology."
         }
       ]
     },
@@ -210,7 +209,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
+          "time": "2026-03-06 03:49:00",
           "title": "人工智能目前可能会创造而不是毁灭工作岗位，ECB博客认为。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/ai-may-creating-instead-destroying-100224164.html",
@@ -219,7 +218,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
+          "time": "2026-03-06 03:49:00",
           "title": "昆提克银行（Quontic Bank）评估（2026）：创新在线银行，竞争性利率和无月费",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/review/quontic-bank-review-162546260.html",
@@ -228,7 +227,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
+          "time": "2026-03-06 03:49:00",
           "title": "BrioDirect评估（2026）：在线储蓄账户，市场领先的利率和最低费用",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/review/briodirect-review-191031576.html",
@@ -237,7 +236,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
+          "time": "2026-03-06 03:49:00",
           "title": "Axos银行评估（2026）：无月费的奖励活期和高收益储蓄账户",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/review/axos-bank-review-011951629.html",
@@ -246,11 +245,21 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
+          "time": "2026-03-06 03:49:00",
           "title": "周五将发布就业报告、零售销售数据和工资数据等经济数据。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/jobs-report-retail-sales-and-wage-data-among-economic-releases-due-friday-93CH-4545066",
           "title_en": "Jobs report, retail sales and wage data among economic releases due Friday"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-06 03:48:25",
+          "title": "周五将公布二月份的就业数据。",
+          "summary": "道琼斯(Dow Jones)调查的经济学家预计就业人数增长50,000人，随着1月份的意外高达130,000人。",
+          "url": "https://www.cnbc.com/2026/03/05/february-2026-jobs-report-preview.html",
+          "title_en": "The February jobs numbers are coming out Friday. Here's what to expect",
+          "summary_en": "Economists surveyed by Dow Jones expect payroll growth of 50,000, following January's surprisingly high 130,000."
         },
         {
           "source": "CNBC-Tech",
@@ -271,16 +280,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "中国企业在伊朗项目面临不确定性  美以袭击伊朗后",
+          "time": "2026-03-06 03:49:00",
+          "title": "美联储官员哈马克表示支持稳定的利率，告诉纽约时报还不适合评估伊朗战争对经济的影响。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/uncertainty-faces-china-incs-projects-101955678.html",
-          "title_en": "Uncertainty faces China Inc's projects in Iran after US–Israeli strikes"
+          "url": "https://finance.yahoo.com/news/feds-hammack-backs-steady-interest-105924605.html",
+          "title_en": "Fed's Hammack backs steady interest rates, tells NYT it's too early to gauge Iran war impact"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
+          "time": "2026-03-06 03:49:00",
           "title": "高盛提高了二季度布伦特原油价格预估10美元",
           "summary": "",
           "url": "https://finance.yahoo.com/news/goldman-sachs-hikes-q2-brent-103500577.html",
@@ -289,29 +298,30 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "高盛提高石油价格预测",
+          "time": "2026-03-06 03:49:00",
+          "title": "中国企业在伊朗项目面临不确定性  美以袭击伊朗后",
           "summary": "",
-          "url": "https://www.wsj.com/livecoverage/iran-us-israel-conflict-2026/card/goldman-lifts-oil-price-forecast-uwa61gDNsBf046dWIfj4?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Goldman Lifts Oil-Price Forecast"
+          "url": "https://finance.yahoo.com/news/uncertainty-faces-china-incs-projects-101955678.html",
+          "title_en": "Uncertainty faces China Inc's projects in Iran after US–Israeli strikes"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
+          "time": "2026-03-06 03:49:00",
           "title": "美国民主党人正在起草一项法案，以限制预测市场的运作，特别是在伊朗押注事件之后。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-democrats-working-on-bill-to-rein-in-prediction-markets-after-iran-bets-4545085",
           "title_en": "US Democrats working on bill to rein in prediction markets after Iran bets"
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "华尔街因伊朗冲突升级和人工智能出口限制报告而大幅下滑。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-wall-st-rebounds-past-iran-fears-broadcom-jumps-4542728",
-          "title_en": "Wall Street slumps on escalating Iran conflict, report of AI export curbs"
+          "time": "2026-03-06 03:39:01",
+          "title": "美国原油价格突破每桶80美元，伊朗战争升级导致全球燃料供应受阻。",
+          "summary": "石油价格本周已经上涨了约20%，美国与伊朗的战争席卷了中东。",
+          "url": "https://www.cnbc.com/2026/03/05/crude-oil-prices-today-iran-war.html",
+          "title_en": "U.S. crude oil tops $80 per barrel as escalating Iran war disrupts global fuel supplies",
+          "summary_en": "Oil prices have surged about 20% this week as the U.S.-Iran war engulfs the Middle East."
         },
         {
           "source": "CNBC-Top",
@@ -332,16 +342,6 @@
           "url": "https://www.marketwatch.com/story/trump-has-a-plan-to-open-the-strait-of-hormuz-here-are-the-obstacles-it-faces-eeb196c8?mod=mw_rss_topstories",
           "title_en": "Trump has a plan to open the Strait of Hormuz. Here are the obstacles it faces.",
           "summary_en": "“Too small for the risk”: The plan to have the U.S. government provide an insurance solution for ships trapped in the Persian Gulf may be impractical, analysts said."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-06 03:12:17",
-          "title": "美国原油价格突破每桶80美元，伊朗战争升级导致全球燃料供应受阻。",
-          "summary": "石油价格本周已经上涨了约20%，美国与伊朗的战争席卷了中东。",
-          "url": "https://www.cnbc.com/2026/03/05/crude-oil-prices-today-iran-war.html",
-          "title_en": "U.S. crude oil tops $80 per barrel as escalating Iran war disrupts global fuel supplies",
-          "summary_en": "Oil prices have surged about 20% this week as the U.S.-Iran war engulfs the Middle East."
         },
         {
           "source": "MarketWatch-Top",
@@ -414,7 +414,7 @@
           "summary_en": "Amazon said the Bahrain facility was damaged due to a nearby drone strike, and two data centers in the UAE were directly hit by drones."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-05 23:49:03",
           "title": "伊朗战争油价冲击不会阻止特朗普的美联储提名人沃什从减息",
@@ -442,6 +442,16 @@
           "url": "https://www.cnbc.com/2026/03/05/renk-r3nk-stock-war-iran-defense-middle-east.html",
           "title_en": "German defense firm Renk CEO says Iran war could drive 'increasing demand' in the Middle East",
           "summary_en": "The current conflict in the Middle East could benefit Renk's business, CEO Alexander Sagel said on an earnings call."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-05 20:49:07",
+          "title": "伊朗战争威胁全球旅行业11.7万亿美元，旅客被卷入冲突中",
+          "summary": "远离落雷、无人机袭击和其他地缘政治热点的游客也不能免受波及效应的影响。",
+          "url": "https://www.cnbc.com/2026/03/05/iran-war-travel-flights-cruise-hotels.html",
+          "title_en": "Iran war threatens $11.7 trillion global travel industry as passengers get caught in crossfire",
+          "summary_en": "Travelers who are far from falling missiles, drone attacks and other geopolitical flashpoints aren't immune to ripple effects."
         }
       ]
     },
@@ -457,124 +467,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "股市动荡：如何在当前投资时保持明智和安全",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/stock-market-turbulence-invest-wisely-090500876.html",
-          "title_en": "Stock Market Turbulence: How to Invest Wisely and Safely Right Now"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "Welltower的股票表现如何与其他房地产股票相比？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/welltower-stock-performance-compared-other-090143610.html",
-          "title_en": "How Is Welltower’s Stock Performance Compared to Other Real Estate Stocks?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "戴尔公司（Deere & Company）股票是否超越道琼斯指数（Dow）?",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/deere-company-stock-outperforming-dow-093415414.html",
-          "title_en": "Is Deere & Company Stock Outperforming the Dow?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "海底撈今年二季度利润翻倍，但盈利能力担忧导致股价下跌，创下两年来最大的跌幅。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/sea-doubles-annual-earnings-yet-092021730.html",
-          "title_en": "Sea doubles annual earnings, yet profitability worries drag shares down in worst drop in 2 years"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "Aon 股票是否低于 S&P 500 的表现？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/aon-stock-underperforming-p-500-085744951.html",
-          "title_en": "Is Aon Stock Underperforming the S&P 500?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "VinFast汽车有限公司(VFS)扩大合作并报告交付增长",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/vinfast-auto-ltd-vfs-expands-103819480.html",
-          "title_en": "VinFast Auto Ltd (VFS) Expands Partnerships and Reports Delivery Growth"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "Beyond Air Inc (XAIR) 扩大了对一氧化氮治疗的重点",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/beyond-air-inc-xair-expands-103940109.html",
-          "title_en": "Beyond Air Inc (XAIR) Expands Focus on Nitric Oxide Therapies"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "TDUP被分析师认为是哪些纳斯达克便宜股票中最好的之一？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/thredup-inc-tdup-one-best-103734172.html",
-          "title_en": "Is ThredUp Inc. (TDUP) One of the Best NASDAQ Penny Stocks to Buy According to Analysts?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "HIVE数字（HIVE）推进扩张计划，分析师降低价格目标",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/hive-digital-hive-pushes-expansion-103741446.html",
-          "title_en": "HIVE Digital (HIVE) Pushes Expansion Plans as Analysts Lower Price Targets"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "曼恩金德公司（MNKD）公布扩张计划和收入目标",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/mannkind-corporation-mnkd-outlines-expansion-103752716.html",
-          "title_en": "MannKind Corporation (MNKD) Outlines Expansion Plans and Revenue Targets"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "XRP最新的四个利好是否让其价格达到1500美元？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/4-tailwinds-xrp-buy-1-092000755.html",
-          "title_en": "Do These 4 New Tailwinds Make XRP a Buy With $1,500?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "Sealsq Corp（LAES）调整Quobly收购战略",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/sealsq-corp-laes-shifts-strategy-103907921.html",
-          "title_en": "Sealsq Corp (LAES) Shifts Strategy Regarding Quobly Acquisition"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "Neumora Therapeutics Inc (NMRA) 公布了NMRA-511阶段1b临床试验的更多信息。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/neumora-therapeutics-inc-nmra-sheds-103927980.html",
-          "title_en": "Neumora Therapeutics Inc (NMRA) Sheds More Light on Phase 1b Study of NMRA-511"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
+          "time": "2026-03-06 03:49:00",
           "title": "制药公司Aspen计划今年在撒哈拉以南非洲地区获得Mounjaro的批准。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/drugmaker-aspen-targets-mounjaro-approval-093037968.html",
@@ -583,25 +476,70 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "比尔公司可能进行并购交易",
+          "time": "2026-03-06 03:49:00",
+          "title": "库存股价一年后将如何？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/bill-open-m-deals-ceo-091237650.html",
-          "title_en": "Bill open to M&A deals, CEO says"
+          "url": "https://finance.yahoo.com/news/where-costco-stock-1-094500847.html",
+          "title_en": "Where Will Costco Stock Be in 1 Year?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "Esperion Therapeutics Inc (ESPR) 加强了业务展望在战略协议中",
+          "time": "2026-03-06 03:49:00",
+          "title": "戴尔公司（Deere & Company）股票是否超越道琼斯指数（Dow）?",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/esperion-therapeutics-inc-espr-strengthens-103917399.html",
-          "title_en": "Esperion Therapeutics Inc (ESPR) Strengthens Business Outlook Amid Strategic Agreements"
+          "url": "https://finance.yahoo.com/news/deere-company-stock-outperforming-dow-093415414.html",
+          "title_en": "Is Deere & Company Stock Outperforming the Dow?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
+          "time": "2026-03-06 03:49:00",
+          "title": "分析报告：Dominion Energy Inc",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_2881_AnalystReport_1772735220000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Dominion Energy Inc"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 03:49:00",
+          "title": "3M的股票相对于S&P 500的表现是否不佳？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/3m-stock-underperforming-p-500-105513067.html",
+          "title_en": "Is 3M Stock Underperforming the S&P 500?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 03:49:00",
+          "title": "卡恩家庭第二季度财报电话会议亮点",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/cairn-homes-h2-earnings-call-094349320.html",
+          "title_en": "Cairn Homes H2 Earnings Call Highlights"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 03:49:00",
+          "title": "对于一些小型企业来说，索要关税退税并不值得为此而付出努力",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/small-businesses-tariff-refund-isnt-110654715.html",
+          "title_en": "For some small businesses, a tariff refund isn't worth the pain of pursuing it"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 03:49:00",
+          "title": "分析报告：洛克希德马丁公司（Lockheed Martin Corp.）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3150_AnalystReport_1772735220000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Lockheed Martin Corp."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 03:49:00",
           "title": "非洲清洁能源融资资金大幅增长，尽管项目审批数量减少。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/funding-africa-clean-energy-financing-104226245.html",
@@ -610,11 +548,83 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 03:18:41",
-          "title": "摩托罗拉解决方案股票是否低于纳斯达克指数表现？",
+          "time": "2026-03-06 03:49:00",
+          "title": "Amplitude CFO预测了最佳季度第四季度，17%的增长是市场推广转变的目标，瞄准企业利益",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/motorola-solutions-stock-underperforming-nasdaq-085247198.html",
-          "title_en": "Is Motorola Solutions Stock Underperforming the Nasdaq?"
+          "url": "https://finance.yahoo.com/news/amplitude-cfo-flags-best-ever-094350175.html",
+          "title_en": "Amplitude CFO Flags Best-Ever Q4, 17% Growth as Go-to-Market Shift Targets Enterprise Upside"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 03:49:00",
+          "title": "Neumora Therapeutics Inc (NMRA) 公布了NMRA-511阶段1b临床试验的更多信息。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/neumora-therapeutics-inc-nmra-sheds-103927980.html",
+          "title_en": "Neumora Therapeutics Inc (NMRA) Sheds More Light on Phase 1b Study of NMRA-511"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 03:49:00",
+          "title": "Sealsq Corp（LAES）调整Quobly收购战略",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/sealsq-corp-laes-shifts-strategy-103907921.html",
+          "title_en": "Sealsq Corp (LAES) Shifts Strategy Regarding Quobly Acquisition"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 03:49:00",
+          "title": "Beyond Air Inc (XAIR) 扩大了对一氧化氮治疗的重点",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/beyond-air-inc-xair-expands-103940109.html",
+          "title_en": "Beyond Air Inc (XAIR) Expands Focus on Nitric Oxide Therapies"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 03:49:00",
+          "title": "分析报告：Maplebear Inc.",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_6388_AnalystReport_1772735220000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Maplebear Inc."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 03:49:00",
+          "title": "VinFast汽车有限公司(VFS)扩大合作并报告交付增长",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/vinfast-auto-ltd-vfs-expands-103819480.html",
+          "title_en": "VinFast Auto Ltd (VFS) Expands Partnerships and Reports Delivery Growth"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 03:49:00",
+          "title": "威尔集团H2财报电话会议亮点",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/weir-group-h2-earnings-call-094349101.html",
+          "title_en": "The Weir Group H2 Earnings Call Highlights"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 03:49:00",
+          "title": "曼恩金德公司（MNKD）公布扩张计划和收入目标",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/mannkind-corporation-mnkd-outlines-expansion-103752716.html",
+          "title_en": "MannKind Corporation (MNKD) Outlines Expansion Plans and Revenue Targets"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 03:49:00",
+          "title": "Esperion Therapeutics Inc (ESPR) 加强了业务展望在战略协议中",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/esperion-therapeutics-inc-espr-strengthens-103917399.html",
+          "title_en": "Esperion Therapeutics Inc (ESPR) Strengthens Business Outlook Amid Strategic Agreements"
         }
       ]
     }
