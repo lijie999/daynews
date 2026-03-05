@@ -1,6 +1,6 @@
 {
   "date": "2026.03.06",
-  "generatedAtBJT": "2026-03-06 04:49:46",
+  "generatedAtBJT": "2026-03-06 05:00:24",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-06 04:49:46",
+          "time": "2026-03-06 05:00:24",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：美股期货微升，伊朗与美国谈判结束战争的报告引发关注。\n- 宏观/Fed：通胀是债市面临的最大风险，面临“大压力测试”。\n- 科技/半导体：亚马逊在美国数千用户出现下线，Downdetector显示。\n- TSLA：特斯拉在欧洲销售反弹，股价测试支撑。",
+          "summary": "- 地缘/避险：亚洲市场暴跌，石油价格飙升加剧通胀…\n- 宏观/Fed：Kraken获得Fed核心支付系统接入：WSJ…\n- 科技/半导体：亚马逊在美国数千用户下线，Downdetector显示…关键词：广达，芯片，十亿，CEO，更多\n- TSLA：特斯拉欧洲销量反弹，股价测试支撑…",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Wall St futures inch up after report on Iran-US talks to end war…\n- 宏观/Fed：关注 Inflation biggest risk to debt markets facing 'big stress test',…\n- 科技/半导体：Amazon down for thousands of users in US, Downdetector shows… 关键词: broadcom, chip, billion, ceo, more\n- TSLA：关注 Tesla Reverses Sales Slump In Europe; The Stock Tests Support…"
+          "summary_en": "- 地缘/避险：关注 Asian Markets in Free Fall as Oil Price Surge Stokes Inflation F…\n- 宏观/Fed：关注 Kraken Secures Access to Fed’s Core Payment Systems: WSJ…\n- 科技/半导体：Amazon down for thousands of users in US, Downdetector shows… 关键词: broadcom, chip, billion, ceo, more\n- TSLA：关注 Tesla Reverses Sales Slump In Europe; The Stock Tests Support…"
         }
       ]
     },
@@ -29,7 +29,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
+          "time": "2026-03-06 05:00:19",
           "title": "亚马逊在美国因数千用户受影响而出现问题，Downdetector显示。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/amazon-down-for-thousands-of-users-in-us-downdetector-shows-4545184",
@@ -38,7 +38,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
+          "time": "2026-03-06 05:00:19",
           "title": "布罗德كم因预计的1000亿美元人工智能市场增长而上涨，标志着在由英伟达主导的市场中取得了进展。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/broadcom-rallies-as-it-touts-more-than-100-billion-in-ai-chip-sales-in-2027-4543269",
@@ -203,7 +203,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
+          "time": "2026-03-06 05:00:19",
+          "title": "加密交易平台Kraken获得联邦储备系统核心支付系统的接入权限：华尔街日报",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/kraken-secures-access-fed-core-123430229.html",
+          "title_en": "Kraken Secures Access to Fed’s Core Payment Systems: WSJ"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 05:00:19",
           "title": "通胀是债券市场面临的最大风险，OECD官员称将面临“大压力测试”。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/inflation-biggest-risk-debt-markets-121200454.html",
@@ -212,20 +221,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
+          "time": "2026-03-06 05:00:19",
           "title": "克拉肯的银行业务部门成为首家获得联邦储备银行支付账户的加密货币公司。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/kraken-wins-access-feds-core-120100901.html",
           "title_en": "Kraken's banking arm becomes first crypto firm to secure payments account with Fed"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
-          "title": "加密交易平台Kraken获得联邦储备系统核心支付系统的接入权限：华尔街日报",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/kraken-secures-access-fed-core-123430229.html",
-          "title_en": "Kraken Secures Access to Fed’s Core Payment Systems: WSJ"
         },
         {
           "source": "CNBC-Top",
@@ -256,16 +256,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
-          "title": "华尔街股指轻微上涨，伊朗与美国谈判结束战争的报告",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/wall-st-futures-inch-report-122802849.html",
-          "title_en": "Wall St futures inch up after report on Iran-US talks to end war"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
+          "time": "2026-03-06 05:00:19",
           "title": "亚洲市场暴跌，石油价格飙升加剧通胀恐惧",
           "summary": "",
           "url": "https://finance.yahoo.com/news/asian-markets-free-fall-oil-124600259.html",
@@ -274,7 +265,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
+          "time": "2026-03-06 05:00:19",
           "title": "石油价格稳定，特朗普总统通过霍尔木兹海峡提供油轮保护",
           "summary": "",
           "url": "https://finance.yahoo.com/news/oil-prices-steady-after-president-trump-offers-tankers-protection-through-strait-of-hormuz-124828108.html",
@@ -283,25 +274,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
-          "title": "伊朗袭击赌注引发对预测市场的审视，据报道一名交易员赚取了50万美元",
+          "time": "2026-03-06 05:00:19",
+          "title": "高盛策略师称在伊朗和AI股市下跌时买入",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/iran-strike-bets-spark-scrutiny-120000365.html",
-          "title_en": "Iran strike bets spark scrutiny of prediction markets after trader reportedly pockets $500K"
+          "url": "https://finance.yahoo.com/news/goldman-sachs-strategists-buy-stock-111747859.html",
+          "title_en": "Goldman Strategists Say Buy Any Stocks Dip From Iran and AI"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
+          "time": "2026-03-06 05:00:19",
           "title": "道琼斯期货在特朗普关税上升和伊朗外交报告中波动",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-pare-gains-trump-iran/?src=A00220&yptr=yahoo",
           "title_en": "Dow Jones Futures Waver On Trump Tariff Hike, Iran Outreach Report"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 05:00:19",
+          "title": "伊朗袭击赌注引发对预测市场的审视，据报道一名交易员赚取了50万美元",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/iran-strike-bets-spark-scrutiny-120000365.html",
+          "title_en": "Iran strike bets spark scrutiny of prediction markets after trader reportedly pockets $500K"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
+          "time": "2026-03-06 05:00:19",
+          "title": "石油价格大幅上涨打击航空业，伊朗冲突干扰航班，迫使航空公司重新规划航线。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/airline-shares-rebound-as-trickle-of-middle-east-flights-resume-4542793",
+          "title_en": "Oil spike hits airlines as Iran conflict disrupts flights and forces re-routing"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 05:00:19",
           "title": "中国敦促伊朗确保霍尔木兹海峡通行安全",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/china-pushes-iran-for-safe-passage-through-strait-of-hormuz-4545177",
@@ -310,25 +319,26 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
+          "time": "2026-03-06 05:00:19",
           "title": "华尔街因伊朗冲突升级和人工智能出口限制报告而大幅下滑。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-wall-st-rebounds-past-iran-fears-broadcom-jumps-4542728",
           "title_en": "Wall Street slumps on escalating Iran conflict, report of AI export curbs"
         },
         {
-          "source": "Investing-Markets",
+          "source": "MarketWatch-Top",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
-          "title": "石油价格大幅上涨打击航空业，伊朗冲突干扰航班，迫使航空公司重新规划航线。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/airline-shares-rebound-as-trickle-of-middle-east-flights-resume-4542793",
-          "title_en": "Oil spike hits airlines as Iran conflict disrupts flights and forces re-routing"
+          "time": "2026-03-06 04:50:00",
+          "title": "美国发现的委内瑞拉新油不会弥补伊朗石油冲击",
+          "summary": "一位能源市场投资者称，石油仍然处于“所有供应冲击的母亲”，自1973年石油禁运以来。",
+          "url": "https://www.marketwatch.com/story/why-the-u-s-newfound-oil-in-venezuela-wont-offset-an-iran-oil-shock-ffa4bd95?mod=mw_rss_topstories",
+          "title_en": "Why the U.S. ‘newfound oil’ in Venezuela won’t offset an Iran oil shock",
+          "summary_en": "Oil is still “baking in the mother of all supply shocks” since the 1973 oil embargo, says one energy-market investor."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-06 04:44:25",
+          "time": "2026-03-06 04:49:59",
           "title": "伊朗外长：不寻求停火，警告美军入侵将是“对他们来说的大灾难”。",
           "summary": "伊朗外长阿拉吉奇在接受NBC新闻采访时表示，美国“未能实现其主要目标”，而对伊朗的袭击“取得了一个干净、快速的胜利”。",
           "url": "https://www.cnbc.com/2026/03/05/iran-us-war-invasion-abbas-araghchi.html",
@@ -414,16 +424,6 @@
           "url": "https://www.cnbc.com/2026/03/05/iran-war-market-volatility-retirement.html",
           "title_en": "What the Iran war market turmoil means for those nearing retirement",
           "summary_en": "Market shakiness may not concern long-term investors, but it could be a useful wake-up call for those on the precipice of retirement, experts say."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-06 00:56:19",
-          "title": "欧洲股市收盘下跌，伊朗战争持续影响市场情绪",
-          "summary": "欧洲股市周四收低，市场紧随中东地区的不稳定地缘政治发展。",
-          "url": "https://www.cnbc.com/2026/03/05/european-markets-stoxx-600-ftse-dax-cac-iran-latest.html",
-          "title_en": "European stocks close lower as Iran war continues to dominate sentiment",
-          "summary_en": "European stocks finished lower on Thursday as markets followed unsettling geopolitical developments in the Middle East."
         }
       ]
     },
@@ -434,7 +434,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
+          "time": "2026-03-06 05:00:19",
           "title": "特斯拉在欧洲逆转销售低迷；股价测试支撑",
           "summary": "",
           "url": "https://www.investors.com/news/tesla-europe-sales-elon-musk-byd/?src=A00220&yptr=yahoo",
@@ -449,34 +449,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
-          "title": "1 **专家**称软件股已经触底：现在买入5大股",
+          "time": "2026-03-06 05:00:19",
+          "title": "2026年增长股下跌25%：买入持有",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/1-bold-expert-says-software-123002878.html",
-          "title_en": "1 Bold Expert Says Software Stocks Have Bottomed: 5 Top Names to Buy Now"
+          "url": "https://finance.yahoo.com/news/1-growth-stock-down-25-124000542.html",
+          "title_en": "1 Growth Stock Down 25% in 2026 to Buy and Hold"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
-          "title": "MongoDB (MDB) 的整体正面情绪上升",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/mongodb-mdb-rose-overall-positive-123431689.html",
-          "title_en": "MongoDB (MDB) Rose by Overall Positive Sentiment"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
-          "title": "罗斯百货（ROST）业绩强劲",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/strong-results-lifted-ross-stores-121949458.html",
-          "title_en": "Strong Results Lifted Ross Stores (ROST)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
+          "time": "2026-03-06 05:00:19",
           "title": "Roblox (RBLX) 下跌是由于人们对其增长速度的担忧",
           "summary": "",
           "url": "https://finance.yahoo.com/news/roblox-rblx-fell-due-concerns-123743888.html",
@@ -485,79 +467,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
-          "title": "分析报告：Dominion Energy Inc",
+          "time": "2026-03-06 05:00:19",
+          "title": "MongoDB (MDB) 的整体正面情绪上升",
           "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_2881_AnalystReport_1772735220000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Dominion Energy Inc"
+          "url": "https://finance.yahoo.com/news/mongodb-mdb-rose-overall-positive-123431689.html",
+          "title_en": "MongoDB (MDB) Rose by Overall Positive Sentiment"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
-          "title": "卡尔彭特技术公司（CRS）从其航空航天业务增长中受益",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/carpenter-technology-corporation-crs-gained-121709119.html",
-          "title_en": "Carpenter Technology Corporation (CRS) Gained from Growth in Its Aerospace Segment"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
-          "title": "埃隆·穆斯克表示同意SpaceX的1.75万亿美元IPO估值，公司正在瞄准火星和轨道扩张。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/elon-musk-says-yes-1-123048291.html",
-          "title_en": "Elon Musk Says 'Yes' To $1.75 Trillion SpaceX IPO Valuation As Company Eyes Mars, Orbital Expansion"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
-          "title": "美国短期出租回报率最强的城市并非你想象的那样。投资前需了解以下内容。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/us-cities-strongest-short-term-121500548.html",
-          "title_en": "The US cities with the strongest short-term rental returns aren't where you'd expect. What to know before you invest"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
-          "title": "Teradyne (TER) 上涨，受需求增加的影响。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/teradyne-ter-rose-following-demand-121326658.html",
-          "title_en": "Teradyne (TER) Rose Following Demand Uptick"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
-          "title": "Signatera癌症检测推动了Natera的增长",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/signatera-oncology-test-drives-natera-121023663.html",
-          "title_en": "Signatera Oncology Test Drives Natera’s (NTRA) Growth"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
-          "title": "分析报告：洛克希德马丁公司（Lockheed Martin Corp.）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3150_AnalystReport_1772735220000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Lockheed Martin Corp."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
-          "title": "XRP价格是否会达到3美元？Ripple前CTO8年前的预测再次引发关注， 隐秘路集成规模扩大",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/xrp-price-heading-3-former-123215420.html",
-          "title_en": "Is XRP Price Heading to $3? Former Ripple CTO’s 8-Year-Old Prediction in Focus as Hidden Road Integration Scales"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
+          "time": "2026-03-06 05:00:19",
           "title": "伯纳德·巴鲁克（Bernard Baruch）称之为“赌注”，而沃伦·巴菲特（Warren Buffett）则称之为“赌局”。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/best-thing-50k-revealed-uncle-124700181.html",
@@ -566,25 +485,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
-          "title": "分析报告：Maplebear Inc.",
+          "time": "2026-03-06 05:00:19",
+          "title": "分析报告：Dominion Energy Inc",
           "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_6388_AnalystReport_1772735220000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Maplebear Inc."
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_2881_AnalystReport_1772735220000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Dominion Energy Inc"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
-          "title": "加密货币交易所Kraken获得联邦储备系统的支付系统接入权限，等待Ripple的审批。",
+          "time": "2026-03-06 05:00:19",
+          "title": "\"Target不是万能店\"：首席执行官",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/kraken-gains-access-federal-payment-122551670.html",
-          "title_en": "Kraken Gains Access To The Federal Reserve’s Payment System as Ripple Awaits Approval"
+          "url": "https://finance.yahoo.com/news/target-not-everything-store-ceo-124000394.html",
+          "title_en": "‘Target is not an everything store’: CEO"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
+          "time": "2026-03-06 05:00:19",
+          "title": "1 **专家**称软件股已经触底：现在买入5大股",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/1-bold-expert-says-software-123002878.html",
+          "title_en": "1 Bold Expert Says Software Stocks Have Bottomed: 5 Top Names to Buy Now"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 05:00:19",
           "title": "现代生物技术股是否超越道琼斯指数",
           "summary": "",
           "url": "https://finance.yahoo.com/news/moderna-stock-outperforming-dow-124941825.html",
@@ -593,20 +521,92 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
-          "title": "卡达特（KAI）是什么使其成为高质量、耐用的复合材料制造商？",
+          "time": "2026-03-06 05:00:19",
+          "title": "分析报告：洛克希德马丁公司（Lockheed Martin Corp.）",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/makes-kadant-kai-high-quality-120144108.html",
-          "title_en": "What Makes Kadant (KAI) a High-Quality, Durable Compounder?"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3150_AnalystReport_1772735220000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Lockheed Martin Corp."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 04:49:42",
-          "title": "市场动态：道指、劳斯莱斯、卡特彼勒",
+          "time": "2026-03-06 05:00:19",
+          "title": "机构积累：美国比特币ETF和微软策略驱动$1.2亿美元需求大幅上升",
           "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46343_MarketUpdate_1772734320000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Market Update: D, LMT, CART"
+          "url": "https://finance.yahoo.com/news/institutional-accumulation-us-bitcoin-etfs-123842708.html",
+          "title_en": "Institutional Accumulation: US Bitcoin ETFs and MicroStrategy Drive $1.2B Demand Surge"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 05:00:19",
+          "title": "皇家加勒比郵輪有限公司(RCL)市场情绪受令人失望的指引影响减弱",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/market-sentiments-royal-caribbean-cruises-125349121.html",
+          "title_en": "Market Sentiments for Royal Caribbean Cruises Ltd. (RCL) Weakened by Disappointing Guidance"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 05:00:19",
+          "title": "罗斯百货（ROST）业绩强劲",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/strong-results-lifted-ross-stores-121949458.html",
+          "title_en": "Strong Results Lifted Ross Stores (ROST)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 05:00:19",
+          "title": "CrowdStrike关键指标受\"Falcon Flex\"融资增长的推动",
+          "summary": "",
+          "url": "https://www.investors.com/news/technology/crowdstrike-stock-crwd-crowdstrike-earnings-q42025/?src=A00220&yptr=yahoo",
+          "title_en": "CrowdStrike Key Metric Boosted By 'Falcon Flex' Financing Growth"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 05:00:19",
+          "title": "AXON的Q4业绩受软于预期的预订增长影响",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/softer-anticipated-bookings-growth-weighed-125602575.html",
+          "title_en": "Softer Than Anticipated Bookings Growth Weighed on Axon Enterprise (AXON) in Q4"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 05:00:19",
+          "title": "分析报告：Maplebear Inc.",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_6388_AnalystReport_1772735220000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Maplebear Inc."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 05:00:19",
+          "title": "卡尔彭特技术公司（CRS）从其航空航天业务增长中受益",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/carpenter-technology-corporation-crs-gained-121709119.html",
+          "title_en": "Carpenter Technology Corporation (CRS) Gained from Growth in Its Aerospace Segment"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 05:00:19",
+          "title": "美国短期出租回报率最强的城市并非你想象的那样。投资前需了解以下内容。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/us-cities-strongest-short-term-121500548.html",
+          "title_en": "The US cities with the strongest short-term rental returns aren't where you'd expect. What to know before you invest"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 05:00:19",
+          "title": "维斯特拉(Vistra Corp.)第四季度业绩受损",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/hurt-vistra-corp-vst-q4-125831256.html",
+          "title_en": "Here’s What Hurt Vistra Corp. (VST) in Q4"
         }
       ]
     }
