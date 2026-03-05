@@ -1,6 +1,6 @@
 {
   "date": "2026.03.05",
-  "generatedAtBJT": "2026-03-05 21:43:55",
+  "generatedAtBJT": "2026-03-05 22:14:11",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-05 21:43:55",
+          "time": "2026-03-05 22:14:11",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：伊朗冲突扩大威胁巴西粮食出口和化肥供应。\n- 宏观/Fed：关注Quontic银行2026年评估：创新在线银行带来竞争优势。\n- 科技/半导体：股市今日：道指下跌，等待失业率报告；AI领军企业OpenAI与芯片巨头Broadcom CEO合作。",
+          "summary": "- 地缘/避险：伊朗冲突扩散威胁巴西粮食出口和化肥供应。\n- 宏观/Fed：2026年3月5日：今日抵押贷款和再融资利率。\n- 科技/半导体：股市今日：道指下跌，AI领军企业Broadcom CEO表示芯片需求旺盛，价值超过1万亿美元。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Expanding Iran conflict threatens Brazil grain exports, fertiliz…\n- 宏观/Fed：关注 Quontic Bank review (2026): Innovative online banking with compe…\n- 科技/半导体：Stock Market Today: Dow Falls Ahead Of Jobless Claims; AI Leader… 关键词: broadcom, ceo, chip, openai, ahead"
+          "summary_en": "- 地缘/避险：关注 Expanding Iran conflict threatens Brazil grain exports, fertiliz…\n- 宏观/Fed：关注 Mortgage and refinance interest rates today, March, 5 2026: Abov…\n- 科技/半导体：Stock Market Today: Dow Falls After Jobless Claims; AI Leader Br… 关键词: broadcom, billion, center, ceo, chip"
         }
       ]
     },
@@ -29,16 +29,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "股市今日：道指跌幅在就业数据前；AI 领先者 Broadcom 因业绩大涨",
+          "time": "2026-03-05 22:14:07",
+          "title": "股市今日：道指下跌后失业人数；AI 领导者 Broadcom 因业绩大幅上涨",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-broadcom-stock-avgo/?src=A00220&yptr=yahoo",
-          "title_en": "Stock Market Today: Dow Falls Ahead Of Jobless Claims; AI Leader Broadcom Jumps On Earnings (Live Coverage)"
+          "title_en": "Stock Market Today: Dow Falls After Jobless Claims; AI Leader Broadcom Jumps On Earnings (Live Coverage)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
+          "time": "2026-03-05 22:14:07",
+          "title": "Alphabet (GOOGL) 正在继续其强大人工智能的发展",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/alphabet-googl-continuing-developments-strong-133834868.html",
+          "title_en": "Alphabet (GOOGL) is Continuing Its Developments in Strong AI Launches"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 22:14:07",
           "title": "微软公司（MSFT）具有显著的韧性",
           "summary": "",
           "url": "https://finance.yahoo.com/news/makes-microsoft-corporation-msft-significantly-125301741.html",
@@ -47,7 +56,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
+          "time": "2026-03-05 22:14:07",
           "title": "Okta收益超预期。财年2027年预期保持稳定，推动AI发展。",
           "summary": "",
           "url": "https://www.investors.com/news/technology/okta-stock-okta-earnings-news-q42025/?src=A00220&yptr=yahoo",
@@ -56,7 +65,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
+          "time": "2026-03-05 22:14:07",
           "title": "CIENA收益大幅飙升，指导意见强劲，数据中心订单强劲。但是股价却在下跌。",
           "summary": "",
           "url": "https://www.investors.com/news/technology/ciena-stock-cien-ciena-earnings-news-q12026/?src=A00220&yptr=yahoo",
@@ -65,7 +74,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
+          "time": "2026-03-05 22:14:07",
           "title": "天然气股爆发，中东动荡推动AI",
           "summary": "",
           "url": "https://www.investors.com/research/ibd-stock-analysis/natural-gas-cnx-resources-lng/?src=A00220&yptr=yahoo",
@@ -74,11 +83,30 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "贸易桌的股票大涨20%，CEO内部买家购入，OpenAI谈判",
+          "time": "2026-03-05 22:14:07",
+          "title": "布罗德كم股价大涨，百亿美元AI预测表明在NVIDIA主导的市场中取得了进展。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/the-trade-desk-stock-surges-20-on-ceo-insider-buy-openai-talks-93CH-4544051",
-          "title_en": "The Trade Desk stock surges 20% on CEO insider buy, OpenAI talks"
+          "url": "https://www.investing.com/news/stock-market-news/broadcom-rallies-as-it-touts-more-than-100-billion-in-ai-chip-sales-in-2027-4543269",
+          "title_en": "Broadcom jumps as $100 billion AI forecast signals gains in Nvidia-dominated market"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 22:14:07",
+          "title": "亚马逊推出人工智能辅助平台，用于自动化医疗行政任务。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/amazon-launches-aienabled-platform-to-automate-healthcare-administrative-tasks-4544216",
+          "title_en": "Amazon launches AI-enabled platform to automate healthcare administrative tasks"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-05 21:50:45",
+          "title": "埃隆·马斯克称Grook可以帮助您处理税务。专家对使用AI进行税务准备的看法",
+          "summary": "埃隆·马斯克称Groq可以帮助您处理税务。了解在使用税务AI之前需要知道的内容。",
+          "url": "https://www.cnbc.com/2026/03/05/ai-elon-musk-grok-taxes.html",
+          "title_en": "Elon Musk says Grok can help with your taxes. What experts say about using AI for tax prep",
+          "summary_en": "Elon Musk says Grok can help with your taxes. Here's what to know before using AI for your returns."
         },
         {
           "source": "CNBC-Tech",
@@ -169,36 +197,6 @@
           "url": "https://www.cnbc.com/2026/03/03/apple-macbook-prices-m5-ai.html",
           "title_en": "Apple raises MacBook prices across the board as M5 chips, new displays signal AI-first strategy",
           "summary_en": "Apple’s Mac refresh moves the lineup further upmarket, pairing higher prices with faster performance in a push to give customers a reason to upgrade."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-05 03:47:34",
-          "title": "苹果宣布推出MacBook Neo，价格最便宜的笔记本电脑",
-          "summary": "苹果新款MacBook Neo为公司带来了最便宜的笔记本电脑，让Mac系列有了一个-budget的入口。",
-          "url": "https://www.cnbc.com/2026/03/04/apple-macbook-neo-budget-laptop.html",
-          "title_en": "Apple announces MacBook Neo, its most affordable laptop ever",
-          "summary_en": "Apple’s new MacBook Neo gives the company its cheapest laptop ever, creating a budget entry into the Mac lineup."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-05 01:00:41",
-          "title": "Sam Altman 告诉 OpenAI 员工，军方的“运作决策”由政府负责。",
-          "summary": "OpenAI CEO Sam Altman表示，公司不决定军方如何使用其技术。",
-          "url": "https://www.cnbc.com/2026/03/03/sam-altman-tells-openai-staff-operational-decisions-up-to-government.html",
-          "title_en": "Sam Altman tells OpenAI staffers that military's 'operational decisions' are up to the government",
-          "summary_en": "In an all-hands meetings with OpenAI employees on Tuesday, CEO Sam Altman said his company doesn't get to choose how the military uses its technology."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-04 20:39:48",
-          "title": "中国小米公司向CNBC表示，计划每年发布一次智能手机芯片，并为海外市场开发自己的AI助手。",
-          "summary": "去年，小米推出了XRing O1，这是一颗基于高级3纳米制造工艺的系统芯片（SoC）。",
-          "url": "https://www.cnbc.com/2026/03/04/xiaomi-plans-yearly-smartphone-chip-release-ai-assistant-for-overseas.html",
-          "title_en": "China's Xiaomi tells CNBC it's planning a yearly smartphone chip release and its own AI assistant for overseas",
-          "summary_en": "Last year, Xiaomi launched the XRing O1, a system-on-chip (SoC) based on an advanced 3 nanometer manufacturing process."
         }
       ]
     },
@@ -209,65 +207,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "昆提克银行（Quontic Bank）评估（2026）：创新在线银行，竞争性利率和无月费",
+          "time": "2026-03-05 22:14:07",
+          "title": "今天（3月5日）房贷和再融资利率：高于或低于6%？两者都有。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/review/quontic-bank-review-162546260.html",
-          "title_en": "Quontic Bank review (2026): Innovative online banking with competitive rates and no monthly fees"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-thursday-march-5-2026-110043041.html",
+          "title_en": "Mortgage and refinance interest rates today, March, 5 2026: Above or below 6%? Both. Here's why."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "BrioDirect评估（2026）：在线储蓄账户，市场领先的利率和最低费用",
+          "time": "2026-03-05 22:14:07",
+          "title": "截至2026年3月5日，高收益储蓄利率最高的账户为4%APY。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/review/briodirect-review-191031576.html",
-          "title_en": "BrioDirect review (2026): Online savings accounts with market-leading rates and minimal fees"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-thursday-march-5-2026-110029341.html",
+          "title_en": "Best high-yield savings interest rates today, March 5, 2026 (top account pays 4% APY)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "Axos银行评估（2026）：无月费的奖励活期和高收益储蓄账户",
+          "time": "2026-03-05 22:14:07",
+          "title": "今日最佳定期存款利率（2026年3月5日），最高可锁定4%年利率",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/review/axos-bank-review-011951629.html",
-          "title_en": "Axos Bank review (2026): Rewards checking and high-yield savings with no monthly fees"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "今天（3月4日）房贷和再融资利率上升，但仍低于6%",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-march-4-2026-110011105.html",
-          "title_en": "Mortgage and refinance interest rates today, March 4, 2026: Rising but still below 6%"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "今日最佳定期存款利率（2026年3月4日），最高可达4%年利率",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-march-4-2026-110020911.html",
-          "title_en": "Best CD rates today, March 4, 2026 (Earn up to 4% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "截至2026年3月4日，最佳现金市场账户利率（最高可达4.01% APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-march-4-2026-110026553.html",
-          "title_en": "Best money market account rates today, March 4, 2026 (secure up to 4.01% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "HELOC 和家庭抵押贷款利率今日（3月4日）稳定在三年低点",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-march-4-2025-110034549.html",
-          "title_en": "HELOC and home equity loan rates today, March 4, 2026: Calm and clinging to 3-year lows"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-march-5-2026-lock-in-up-to-4-apy-110029733.html",
+          "title_en": "Best CD rates today, March 5, 2026 (lock in up to 4% APY)"
         }
       ]
     },
@@ -278,7 +240,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
+          "time": "2026-03-05 22:14:07",
           "title": "伊朗冲突扩大威胁巴西粮食出口和肥料供应",
           "summary": "",
           "url": "https://finance.yahoo.com/news/expanding-iran-conflict-threatens-brazil-132848769.html",
@@ -287,7 +249,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
+          "time": "2026-03-05 22:14:07",
           "title": "道琼斯指数期货下跌，石油价格再次上涨；半导体巨头博通（Broadcom）大幅上涨",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-broadcom-earnings/?src=A00220&yptr=yahoo",
@@ -296,43 +258,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
+          "time": "2026-03-05 22:14:07",
           "title": "亚洲炼油利润飙升至4年高点，霍尔木兹海峡的瓶颈导致原油供应紧张。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/asia-refining-margins-soar-4-121737680.html",
           "title_en": "Asia’s Refining Margins Soar to 4-Year High as Hormuz Chokes Crude Supply"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "标普500指数刚刚触及三个月低点，但石油股却大幅上涨。投资者是否应该加入石油股的牛市？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/p-500-just-hit-3-132000032.html",
-          "title_en": "The S&P 500 Just Hit a 3-Month Low, But Oil Stocks Are Surging. Should Investors Join the Crude Oil Rally?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "伊朗金价突破5,000美元，最佳黄金股票和ETF购买时机",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/iran-sending-gold-over-5-131530317.html",
-          "title_en": "With Iran Sending Gold Over $5,000, the Best Gold Stocks and ETFs to Buy Now"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "伊朗冲突扩大威胁巴西粮食出口和肥料供应",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/expanding-iran-conflict-threatens-brazil-grain-exports-fertilizer-supplies-4544089",
-          "title_en": "Expanding Iran conflict threatens Brazil grain exports, fertilizer supplies"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
+          "time": "2026-03-05 22:14:07",
           "title": "美伊冲突蔓延至该地区，更多的油轮遭到攻击。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/more-tankers-come-under-attack-as-usiran-conflict-spreads-in-the-region-4543982",
@@ -341,22 +276,32 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:13",
-          "title": "美参议员梅尔基尔（Merkley）提出禁止政府官员参与预测市场交易的法案，理由是前委内瑞拉总统马杜罗（Maduro）和伊朗官员参与预测市场交易。",
-          "summary": "美国立法者考虑禁止在预测市场上进行内幕交易",
-          "url": "https://www.cnbc.com/2026/03/05/prediction-markets-merkley-ban-iran.html",
-          "title_en": "Merkley proposes prediction market ban for government officials after Maduro, Iran bets",
-          "summary_en": "After a series of dubious bets placed on the ouster of Venezuela's Maduro and Iran strikes, lawmakers are looking to ban insider trading on prediction markets."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-05 21:36:43",
+          "time": "2026-03-05 22:06:57",
           "title": "伊朗的沙赫德无人机：如何“穷人的巡航导弹”塑造了德黑兰的报复",
           "summary": "俄乌战争多年以来，伊朗的沙赫德-136无人机已成为德黑兰对美国最新一轮打击的报复核心。",
           "url": "https://www.cnbc.com/2026/03/05/iran-shahed-136-drone-cost-air-defense-gulf-war-us-israel-gulf-scorpion-strike-centcom.html",
           "title_en": "Iran's Shahed drone: How 'the poor man’s cruise missile’ is shaping Tehran’s retaliation",
           "summary_en": "After years on the front lines of Russia's invasion of Ukraine, the Iranian Shahed-136 drone is at the center of Tehran's retaliation against recent U.S. strikes."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-05 21:59:50",
+          "title": "迪拜努力挽救其作为富人避风港的声誉在美伊战争中",
+          "summary": "自美国与伊朗爆发战争以来，迪拜作为全球精英避风港的地位已经被打破。",
+          "url": "https://www.cnbc.com/2026/03/05/iran-war-dubai-rich.html",
+          "title_en": "Dubai scrambles to save its reputation as a haven for the rich amid U.S.-Iran war",
+          "summary_en": "Since the start of the U.S.-Iran war, Dubai's status as a haven for the global elite has been shattered."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-05 21:54:47",
+          "title": "美参议员梅尔基尔（Merkley）提出禁止政府官员参与预测市场交易的法案，理由是前委内瑞拉总统马杜罗（Maduro）和伊朗官员参与预测市场交易。",
+          "summary": "美国立法者考虑禁止在预测市场上进行内幕交易",
+          "url": "https://www.cnbc.com/2026/03/05/prediction-markets-merkley-ban-iran.html",
+          "title_en": "Merkley proposes prediction market ban for government officials after Maduro, Iran bets",
+          "summary_en": "After a series of dubious bets placed on the ouster of Venezuela's Maduro and Iran strikes, lawmakers are looking to ban insider trading on prediction markets."
         },
         {
           "source": "CNBC-Top",
@@ -447,6 +392,26 @@
           "url": "https://www.cnbc.com/2026/03/04/jim-cramer-oil-is-flashing-a-bullish-signal-for-stocks-amid-iran-war.html",
           "title_en": "Cramer says the oil market is signaling the Iran war won't spiral — and that's bullish for stocks",
           "summary_en": "\"The oil market always seems to know everything,\" CNBC's Jim Cramer said Wednesday."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-05 07:09:58",
+          "title": "阿马逊巴林数据中心被伊朗指控支持美国军事，官方媒体称",
+          "summary": "亚马逊表示，巴林的设施受损是由于附近的无人机袭击，阿联酋的两座数据中心直接遭到无人机袭击。",
+          "url": "https://www.cnbc.com/2026/03/04/amazon-bahrain-data-centers-targeted-iran-drone-strike.html",
+          "title_en": "Amazon's Bahrain data center targeted by Iran for support of U.S. military, state media says",
+          "summary_en": "Amazon said the Bahrain facility was damaged due to a nearby drone strike, and two data centers in the UAE were directly hit by drones."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-05 02:08:38",
+          "title": "美国主要网络安全机构面临严重挑战，伊朗黑客威胁加剧",
+          "summary": "上周，CISA的代理总监被重新分配到DHS的一个新部门，机构正在因部分停职而运作。",
+          "url": "https://www.cnbc.com/2026/03/03/iran-cisa-cybersecurity-war-threat.html",
+          "title_en": "The lead U.S. cyber agency is stretched thin as Iran hacking threat escalates",
+          "summary_en": "Last week, CISA's acting director was reassigned to a new division within DHS and the agency is operating under a partial shutdown."
         }
       ]
     },
@@ -462,25 +427,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "加州5%财富税的赌注引发了资本流失，包括马克·扎克伯格。对投资者的意义",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/california-5-wealth-tax-gamble-133300783.html",
-          "title_en": "California’s 5% wealth tax gamble triggers capital flight, including Mark Zuckerberg. What it means for investors"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "加贝利喜欢洛克希德、RTX、波音——还有你从未听说过的小供应商",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/gabelli-likes-lockheed-rtx-boeing-133254007.html",
-          "title_en": "Gabelli Likes Lockheed, RTX, Boeing — and a Small Supplier You’ve Never Heard Of"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
+          "time": "2026-03-05 22:14:07",
           "title": "股市今日：道指、标普500指数、纳斯达克期货价格下跌，回应华尔街的反弹",
           "summary": "",
           "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-after-wall-streets-bounce-back-235517929.html",
@@ -489,7 +436,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
+          "time": "2026-03-05 22:14:07",
+          "title": "价格动态对Coinbase Global（COIN）第四季度表现产生了影响。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/price-action-weighed-coinbase-global-134525291.html",
+          "title_en": "Price Action Weighed on Coinbase Global’s (COIN) Performance in Q4"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 22:14:07",
+          "title": "伊利诺伊亚 (ILMN) 因预期超出业绩而上涨",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/illumina-ilmn-gaining-stronger-expected-134337882.html",
+          "title_en": "Illumina (ILMN) Gaining from Stronger Than Expected Results"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 22:14:07",
           "title": "小盘股和新兴市场的焦点",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46340_MarketOutlook_1772712319000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -498,43 +463,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "Equal权重S&P 500在2026年悄然领先市场",
+          "time": "2026-03-05 22:14:07",
+          "title": "Meros Investment Management 卖出了 396,804 股 Photronics 股票。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/equal-weight-p-500-quietly-133117336.html",
-          "title_en": "The Equal-Weight S&P 500 is Quietly Crushing the Market in 2026"
+          "url": "https://finance.yahoo.com/news/meros-investment-management-sold-396-135146236.html",
+          "title_en": "Meros Investment Management Sold 396,804 Shares of Photronics Stock"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "财报直播：博通股价大涨，JD.com股价大跌，Okta股价上涨",
+          "time": "2026-03-05 22:14:07",
+          "title": "Precigen (PGEN) 突破性增长，随着Papziemos的早期批准",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/live/earnings-live-broadcom-stock-pops-on-earnings-beat-chinas-jdcom-sinks-okta-rises-130701190.html",
-          "title_en": "Earnings live: Broadcom stock pops on earnings beat, China's JD.com sinks, Okta rises"
+          "url": "https://finance.yahoo.com/news/precigen-pgen-surged-following-early-134054131.html",
+          "title_en": "Precigen (PGEN) Surged Following the Early Approval of Papziemos"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "伯克希尔哈撒韦 (BRK-B) 股票回报率达 11%",
+          "time": "2026-03-05 22:14:07",
+          "title": "为什么BioGen（BIIB）是一个有吸引力的长期持有目标？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/berkshire-hathaway-brk-b-stock-130553462.html",
-          "title_en": "Berkshire Hathaway (BRK-B) Stock Returned 11%"
+          "url": "https://finance.yahoo.com/news/makes-biogen-biib-attractive-long-133653429.html",
+          "title_en": "What Makes Biogen (BIIB) an Attractive Long-Term Holding?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "美国运通公司（AXP）因其钻石卡的需求而受益",
+          "time": "2026-03-05 22:14:07",
+          "title": "费斯维尔（FISV）有望重建投资者的信心吗？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/american-express-company-axp-gained-130342837.html",
-          "title_en": "American Express Company (AXP) Gained from Demand for Its Platinum Card"
+          "url": "https://finance.yahoo.com/news/fiserv-fisv-poised-rebuild-investor-133324619.html",
+          "title_en": "Is Fiserv (FISV) Poised to Rebuild Investor Confidence?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
+          "time": "2026-03-05 22:14:07",
           "title": "分析报告：Progressive Corp.",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3310_AnalystReport_1772712173000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -543,52 +508,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "加密货币交易平台OKX估值达25亿美元，NYSE母公司投资",
+          "time": "2026-03-05 22:14:07",
+          "title": "伯克希尔哈撒韦恢复股票回购",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/crypto-exchange-okx-valuation-hits-130329321.html",
-          "title_en": "Crypto exchange OKX valuation hits $25 billion after NYSE parent invests"
+          "url": "https://finance.yahoo.com/news/berkshire-hathaway-resumes-share-buybacks-131200603.html",
+          "title_en": "Berkshire Hathaway Resumes Share Buybacks"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "Ibstock H2 业绩电话会议亮点",
+          "time": "2026-03-05 22:14:07",
+          "title": "加州5%财富税的赌注引发了资本流失，包括马克·扎克伯格。对投资者的意义",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ibstock-h2-earnings-call-highlights-132713296.html",
-          "title_en": "Ibstock H2 Earnings Call Highlights"
+          "url": "https://finance.yahoo.com/news/california-5-wealth-tax-gamble-133300783.html",
+          "title_en": "California’s 5% wealth tax gamble triggers capital flight, including Mark Zuckerberg. What it means for investors"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "威斯康星能源（WEC Energy）是投资者寻求电力公司暴露的首选",
+          "time": "2026-03-05 22:14:07",
+          "title": "财报直播：博通股价大涨，JD.com股价大跌，Okta股价上涨",
           "summary": "",
-          "url": "https://www.investors.com/research/the-income-investor/wec-energy-stock-utility-income-investor/?src=A00220&yptr=yahoo",
-          "title_en": "WEC Energy Is A Top Pick For Investors Seeking Utility Exposure"
+          "url": "https://finance.yahoo.com/news/live/earnings-live-broadcom-stock-pops-on-earnings-beat-chinas-jdcom-sinks-okta-rises-130701190.html",
+          "title_en": "Earnings live: Broadcom stock pops on earnings beat, China's JD.com sinks, Okta rises"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "布雷顿基金预计Dream Finders Homes (DFH)将有望带来良好的回报。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/bretton-fund-expects-dream-finders-125616033.html",
-          "title_en": "Bretton Fund Expects Dream Finders Homes (DFH) to be Poised to Deliver Good Returns"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "聚易达股价下跌，第四季度财报不及预期。食品配送竞争使利润下滑。",
-          "summary": "",
-          "url": "https://www.investors.com/news/technology/jd-stock-jd-com-q4-2025-earnings/?src=A00220&yptr=yahoo",
-          "title_en": "JD Stock Falls After Q4 Earnings Miss. Food-Delivery Battle Is Sinking Profits."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
+          "time": "2026-03-05 22:14:07",
           "title": "分析报告：Crowdstrike Holdings Inc",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_6164_AnalystReport_1772712173000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -597,29 +544,47 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "布雷顿基金对NVR的看法",
+          "time": "2026-03-05 22:14:07",
+          "title": "迪士尼的牛与熊：娱乐巨头的重大变化对投资者来说到底意味着什么",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/bretton-fund-views-nvr-nvr-125530268.html",
-          "title_en": "Bretton Fund’s Views on NVR (NVR)"
+          "url": "https://finance.yahoo.com/news/disney-bull-vs-bear-big-134505191.html",
+          "title_en": "Disney Bull vs Bear: What Big Changes at the Entertainment Giant Really Mean for Investors"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "康斯泰拉能源股价在二月份上涨17.5%",
+          "time": "2026-03-05 22:14:07",
+          "title": "伯克希尔哈撒韦 (BRK-B) 股票回报率达 11%",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/why-constellation-energy-stock-surged-132500570.html",
-          "title_en": "Why Constellation Energy Stock Surged 17.5% in February"
+          "url": "https://finance.yahoo.com/news/berkshire-hathaway-brk-b-stock-130553462.html",
+          "title_en": "Berkshire Hathaway (BRK-B) Stock Returned 11%"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 21:43:50",
-          "title": "Alphabet (GOOG) 年底翻倍了，这是如何发生的？",
+          "time": "2026-03-05 22:14:07",
+          "title": "美国运通公司（AXP）因其钻石卡的需求而受益",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/alphabet-goog-doubled-end-125441797.html",
-          "title_en": "Alphabet (GOOG) Doubled by the End of the Year. Here’s How"
+          "url": "https://finance.yahoo.com/news/american-express-company-axp-gained-130342837.html",
+          "title_en": "American Express Company (AXP) Gained from Demand for Its Platinum Card"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 22:14:07",
+          "title": "加密货币交易平台OKX估值达25亿美元，NYSE母公司投资",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/crypto-exchange-okx-valuation-hits-130329321.html",
+          "title_en": "Crypto exchange OKX valuation hits $25 billion after NYSE parent invests"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 22:14:07",
+          "title": "威斯康星能源（WEC Energy）是投资者寻求电力公司暴露的首选",
+          "summary": "",
+          "url": "https://www.investors.com/research/the-income-investor/wec-energy-stock-utility-income-investor/?src=A00220&yptr=yahoo",
+          "title_en": "WEC Energy Is A Top Pick For Investors Seeking Utility Exposure"
         }
       ]
     }
