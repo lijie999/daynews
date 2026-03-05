@@ -1,6 +1,6 @@
 {
   "date": "2026.03.05",
-  "generatedAtBJT": "2026-03-05 09:00:36",
+  "generatedAtBJT": "2026-03-05 09:10:35",
   "translation": {
     "enabled": false,
     "provider": "nvidia",
@@ -14,9 +14,9 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-05 09:00:36",
+          "time": "2026-03-05 09:10:35",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 ‘My mother refuses to turn on the heat’: Will America’s war with…\n- 宏观/Fed：关注 Trump sides with crypto firms in trillion-dollar battle with ban…\n- 科技/半导体：AI Stocks Hit Reset. CrowdStrike, Broadcom, Ciena Earnings Repor… 关键词: chip, apple, broadcom, macbook, new\n- TSLA：关注 Tesla’s self-driving effort could be worth more than double its …",
+          "summary": "- 地缘/避险：关注 Air Freight Shockwave: US-Iran War Grounds Flights Across Middle…\n- 宏观/Fed：关注 Further Strength for the Australian Dollar After Higher Inflatio…\n- 科技/半导体：BigBear.ai Holdings, Inc. Q4 2025 Earnings Call Summary… 关键词: chip, apple, broadcom, new, macbook\n- TSLA：关注 Tesla’s self-driving effort could be worth more than double its …",
           "url": "#"
         }
       ]
@@ -28,31 +28,23 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
-          "title": "AI Stocks Hit Reset. CrowdStrike, Broadcom, Ciena Earnings Reports Due",
-          "summary": "",
-          "url": "https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-2026-ai-bubble-ai-disruption-march2/?src=A00220&yptr=yahoo"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
-          "title": "$1.4 Trillion Needed for AI Data Center Electrification by 2030, Chief Investment Officer",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/1-4-trillion-needed-ai-132108238.html"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
+          "time": "2026-03-05 09:10:31",
           "title": "BigBear.ai Holdings, Inc. Q4 2025 Earnings Call Summary",
           "summary": "",
           "url": "https://finance.yahoo.com/news/bigbear-ai-holdings-inc-q4-133000958.html"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 09:10:31",
+          "title": "AI Stocks Hit Reset. CrowdStrike, Broadcom, Ciena Earnings Reports Due",
+          "summary": "",
+          "url": "https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-2026-ai-bubble-ai-disruption-march2/?src=A00220&yptr=yahoo"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
+          "time": "2026-03-05 09:10:31",
           "title": "Broadcom sees over $100 billion in AI chip sales by 2027 on robust custom chip demand",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/broadcom-sees-revenue-above-estimates-as-ai-fuels-custom-chip-demand-4542363"
@@ -60,7 +52,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
+          "time": "2026-03-05 09:10:31",
           "title": "OpenAI held talks with The Trade Desk to sell ads – The Information",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/openai-held-talks-with-the-trade-desk-to-sell-ads--the-information-4542639"
@@ -168,6 +160,14 @@
           "title": "China's Xiaomi tells CNBC it's planning a yearly smartphone chip release and its own AI assistant for overseas",
           "summary": "Last year, Xiaomi launched the XRing O1, a system-on-chip (SoC) based on an advanced 3 nanometer manufacturing process.",
           "url": "https://www.cnbc.com/2026/03/04/xiaomi-plans-yearly-smartphone-chip-release-ai-assistant-for-overseas.html"
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-04 12:51:53",
+          "title": "CNBC's China Connection newsletter: New AI players think global from day one",
+          "summary": "Chinese startups rush to launch AI tools for overseas markets.",
+          "url": "https://www.cnbc.com/2026/03/04/cnbc-china-connection-newsletter-ai-startups-global-expansion-nvidia-warning-tripo-isales.html"
         }
       ]
     },
@@ -175,6 +175,14 @@
       "name": "美联储与政策",
       "badge": "Fed / Policy",
       "items": [
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 09:10:31",
+          "title": "Further Strength for the Australian Dollar After Higher Inflation",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/further-strength-australian-dollar-higher-134255519.html"
+        },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
@@ -205,6 +213,14 @@
       "name": "地缘/能源/避险",
       "badge": "Risk / Oil / Gold",
       "items": [
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 09:10:31",
+          "title": "Air Freight Shockwave: US-Iran War Grounds Flights Across Middle East",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/air-freight-shockwave-us-iran-133646259.html"
+        },
         {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
@@ -340,14 +356,6 @@
           "title": "Banking, payments services disrupted after Amazon UAE data centers hit in drone strikes",
           "summary": "U.S. and Israeli strikes on Iran have prompted a wave of retaliatory attacks across the Middle East.",
           "url": "https://www.cnbc.com/2026/03/03/iran-war-uae-drone-strikes-aws-data-centers.html"
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-03 21:36:25",
-          "title": "Oil prices, Target earnings, the new iPhone and more in Morning Squawk",
-          "summary": "Here are five key things investors need to know to start the trading day.",
-          "url": "https://www.cnbc.com/2026/03/03/5-things-to-know-before-the-market-opens.html"
         }
       ]
     },
@@ -372,103 +380,23 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
-          "title": "Pinterest shares jump 9.5% as Elliott invests $1bn and company launches $3.5bn buyback",
+          "time": "2026-03-05 09:10:31",
+          "title": "Gold has been on a run all year. Here's how to avoid a tax hit.",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/pinterest-shares-jump-9-5-132200687.html"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/gold-has-been-on-a-run-all-year-heres-how-to-avoid-a-tax-hit-133020253.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
-          "title": "If you’re feeling behind financially, money dysmorphia may be distorting how you stack up. How to reset your perspective",
+          "time": "2026-03-05 09:10:31",
+          "title": "Vitesse Energy, Inc. Q4 2025 Earnings Call Summary",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/feeling-behind-financially-money-dysmorphia-131500589.html"
+          "url": "https://finance.yahoo.com/news/vitesse-energy-inc-q4-2025-133000058.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
-          "title": "AutoZone's second-quarter profit falls after inflationary headwinds",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/autozones-second-quarter-profit-falls-132628388.html"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
-          "title": "Soybeans Back to Higher Trade on Tuesday Morning",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/soybeans-back-higher-trade-tuesday-132754857.html"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
-          "title": "Wheat Sneaking Back Higher Early on Tuesday",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/wheat-sneaking-back-higher-early-132754430.html"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
-          "title": "Citizens Financial price target raised to $80 from $73 at Morgan Stanley",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/citizens-financial-price-target-raised-132142354.html"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
-          "title": "Corn Posting Tuesday AM Gains",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/corn-posting-tuesday-am-gains-132754657.html"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
-          "title": "Alabama family-owned carrier files for Chapter 11 bankruptcy",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/alabama-family-owned-carrier-files-130000667.html"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
-          "title": "Natural Gas Stock's Relative Strength Line Flares Up",
-          "summary": "",
-          "url": "https://www.investors.com/research/natural-gas/?src=A00220&yptr=yahoo"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
-          "title": "BRC Inc. Q4 2025 Earnings Call Summary",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/brc-inc-q4-2025-earnings-133000926.html"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
-          "title": "Core Scientific, Inc. Q4 2025 Earnings Call Summary",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/core-scientific-inc-q4-2025-133000869.html"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
-          "title": "Life360, Inc. Q4 2025 Earnings Call Summary",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/life360-inc-q4-2025-earnings-133000488.html"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
+          "time": "2026-03-05 09:10:31",
           "title": "Tidewater Inc. Q4 2025 Earnings Call Summary",
           "summary": "",
           "url": "https://finance.yahoo.com/news/tidewater-inc-q4-2025-earnings-133000402.html"
@@ -476,15 +404,31 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
-          "title": "Is MPLX Stock Going to $100?",
+          "time": "2026-03-05 09:10:31",
+          "title": "Protecting America’s Retirement Savers from Scams and Fraud",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/mplx-stock-going-100-132000025.html"
+          "url": "https://finance.yahoo.com/video/protecting-america-retirement-savers-scams-133745926.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
+          "time": "2026-03-05 09:10:31",
+          "title": "Life360, Inc. Q4 2025 Earnings Call Summary",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/life360-inc-q4-2025-earnings-133000488.html"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 09:10:31",
+          "title": "AST SpaceMobile, Inc. Q4 2025 Earnings Call Summary",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/ast-spacemobile-inc-q4-2025-133000044.html"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 09:10:31",
           "title": "The Progressive Corporation Q4 2025 Earnings Call Summary",
           "summary": "",
           "url": "https://finance.yahoo.com/news/progressive-corporation-q4-2025-earnings-133000971.html"
@@ -492,7 +436,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
+          "time": "2026-03-05 09:10:31",
           "title": "iHeartMedia, Inc. Q4 2025 Earnings Call Summary",
           "summary": "",
           "url": "https://finance.yahoo.com/news/iheartmedia-inc-q4-2025-earnings-133000062.html"
@@ -500,18 +444,82 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
-          "title": "Dave Inc. Q4 2025 Earnings Call Summary",
+          "time": "2026-03-05 09:10:31",
+          "title": "Versant Media Prepares for Growth Despite 2025 Revenue Weakness",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/dave-inc-q4-2025-earnings-133000415.html"
+          "url": "https://www.wsj.com/business/media/versant-media-prepares-for-growth-despite-2025-revenue-weakness-4a64ef81?siteid=yhoof2&yptr=yahoo"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 09:00:33",
-          "title": "CPS Technologies Corporation Q4 2025 Earnings Call Summary",
+          "time": "2026-03-05 09:10:31",
+          "title": "BRC Inc. Q4 2025 Earnings Call Summary",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/cps-technologies-corporation-q4-2025-133000709.html"
+          "url": "https://finance.yahoo.com/news/brc-inc-q4-2025-earnings-133000926.html"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 09:10:31",
+          "title": "Core Scientific, Inc. Q4 2025 Earnings Call Summary",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/core-scientific-inc-q4-2025-133000869.html"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 09:10:31",
+          "title": "Sturm, Ruger & Company, Inc. Q4 2025 Earnings Call Summary",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/sturm-ruger-company-inc-q4-133000327.html"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 09:10:31",
+          "title": "Kayne Anderson BDC, Inc. Q4 2025 Earnings Call Summary",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/kayne-anderson-bdc-inc-q4-133000189.html"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 09:10:31",
+          "title": "Is Vertiv Stock a Buy Right Now?",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/vertiv-stock-buy-now-133500397.html"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 09:10:31",
+          "title": "Asana, Inc. Q4 2026 Earnings Call Summary",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/asana-inc-q4-2026-earnings-133000879.html"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 09:10:31",
+          "title": "Plug Power Inc. Q4 2025 Earnings Call Summary",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/plug-power-inc-q4-2025-133000678.html"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 09:10:31",
+          "title": "Riot Platforms, Inc. Q4 2025 Earnings Call Summary",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/riot-platforms-inc-q4-2025-133000091.html"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 09:10:31",
+          "title": "Alamo Group Inc. Q4 2025 Earnings Call Summary",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/alamo-group-inc-q4-2025-133000885.html"
         }
       ]
     }
