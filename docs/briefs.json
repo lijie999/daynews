@@ -1,8 +1,8 @@
 {
   "date": "2026.03.05",
-  "generatedAtBJT": "2026-03-05 18:39:27",
+  "generatedAtBJT": "2026-03-05 18:42:44",
   "translation": {
-    "enabled": true,
+    "enabled": false,
     "provider": "nvidia",
     "policy": "translate_if_english"
   },
@@ -14,11 +14,10 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-05 18:39:27",
+          "time": "2026-03-05 18:42:44",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 As Oil Surges To $80, China’s Stockpiles Become Strategic Lever\n- 宏观/Fed：关注 今天，2026年3月3日，战争和通胀的影响下，美国的房贷和再融资利率\n- 科技/半导体：AMD与Meta合作推动AI创新\n- TSLA：关注特斯拉的自动驾驶技术可能价值超过其总市值的两倍",
-          "url": "#",
-          "summary_en": "- 地缘/避险：关注 As Oil Surges To $80, China’s Stockpiles Become Strategic Levera…\n- 宏观/Fed：关注 Mortgage and refinance interest rates today, March 3, 2026: War …\n- 科技/半导体：Advanced Micro Devices, Inc. (AMD) Partners With Meta for AI Inf… 关键词: broadcom, apple, business, chip, macbook\n- TSLA：关注 Tesla’s self-driving effort could be worth more than double its …"
+          "summary": "- 地缘/避险：关注 As Oil Surges To $80, China’s Stockpiles Become Strategic Levera…\n- 宏观/Fed：关注 Mortgage and refinance interest rates today, March 3, 2026: War …\n- 科技/半导体：OpenAI is developing alternative to Microsoft's GitHub, The Info… 关键词: broadcom, chip, apple, billion, macbook\n- TSLA：关注 Tesla’s self-driving effort could be worth more than double its …",
+          "url": "#"
         }
       ]
     },
@@ -29,177 +28,138 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "高通（AMD）与Meta合作扩展人工智能基础设施",
+          "time": "2026-03-05 18:42:40",
+          "title": "OpenAI is developing alternative to Microsoft's GitHub, The Information reports",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-222726658.html",
-          "title_en": "Advanced Micro Devices, Inc. (AMD) Partners With Meta for AI Infrastructure Expansion"
+          "url": "https://finance.yahoo.com/news/openai-developing-alternative-microsofts-github-225013412.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "UBS维持对NVIDIA Corporation (NVDA)的买入评级，因为订单量延伸至2027年。",
+          "time": "2026-03-05 18:42:40",
+          "title": "This Billionaire Is Selling Amazon and Microsoft and Buying This Impressive AI Stock Up Over 1,200% Since 2023",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ubs-maintains-buy-rating-nvidia-222722760.html",
-          "title_en": "UBS Maintains Buy Rating on NVIDIA Corporation (NVDA) as Backlog Extends Into 2027"
+          "url": "https://finance.yahoo.com/news/billionaire-selling-amazon-microsoft-buying-224200799.html"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "Evercore ISI确认Amphenol Corporation (APH)维持超买评级，受AI数据中心需求推动",
+          "time": "2026-03-05 18:42:40",
+          "title": "Broadcom rallies as it touts more than $100 billion in AI chip sales in 2027",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/evercore-isi-reaffirms-amphenol-corporation-222734097.html",
-          "title_en": "Evercore ISI Reaffirms Amphenol Corporation (APH) Outperform Rating Amid AI Data Center Demand"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "布罗德كم公司( AVGO )领先人工智能和网络扩张，杰弗里斯再次确认买入",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/broadcom-inc-avgo-leads-ai-222724450.html",
-          "title_en": "Broadcom Inc. (AVGO) Leads AI and Networking Expansion, Jefferies Reaffirms Buy"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "OpenAI正在开发与微软GitHub的替代品，The Information报道",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/openai-developing-alternative-microsofts-github-225013412.html",
-          "title_en": "OpenAI is developing alternative to Microsoft's GitHub, The Information reports"
+          "url": "https://www.investing.com/news/stock-market-news/broadcom-rallies-as-it-touts-more-than-100-billion-in-ai-chip-sales-in-2027-4543269"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 09:54:14",
-          "title": "布罗德كم(Broadcom)自定义AI芯片业务火热，给牛市带来了一个需要的胜利",
-          "summary": "布洛德كم公司（Broadcom）在扩展交易时间内股价上涨约5%，其财报强调了其定制芯片业务的强劲表现。",
-          "url": "https://www.cnbc.com/2026/03/04/broadcoms-custom-ai-chip-business-stays-hot-and-gives-the-bulls-a-much-needed-win-.html",
-          "title_en": "Broadcom's custom AI chip business stays hot and gives the bulls a much-needed win",
-          "summary_en": "Shares of Broadcom rose about 5% in extended trading after its earnings report underscored the strength of its custom chip business."
+          "title": "Broadcom's custom AI chip business stays hot and gives the bulls a much-needed win",
+          "summary": "Shares of Broadcom rose about 5% in extended trading after its earnings report underscored the strength of its custom chip business.",
+          "url": "https://www.cnbc.com/2026/03/04/broadcoms-custom-ai-chip-business-stays-hot-and-gives-the-bulls-a-much-needed-win-.html"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 09:45:15",
-          "title": "布罗德كمCEO霍克·坦预计明年人工智能芯片收入将达到100亿美元以上。",
-          "summary": "布罗德كم公司(Broadcom)表示，最近一季度的AI收入超过了翻倍，并预计需求将持续增长。",
-          "url": "https://www.cnbc.com/2026/03/04/broadcom-sees-ai-chip-sales-significantly-over-100-billion-in-2027.html",
-          "title_en": "Broadcom CEO Hock Tan sees AI chip revenue 'significantly' above $100 billion next year",
-          "summary_en": "Broadcom reported that AI revenue more than doubled in the latest quarter and is projecting continued growth as demand soars."
+          "title": "Broadcom CEO Hock Tan sees AI chip revenue 'significantly' above $100 billion next year",
+          "summary": "Broadcom reported that AI revenue more than doubled in the latest quarter and is projecting continued growth as demand soars.",
+          "url": "https://www.cnbc.com/2026/03/04/broadcom-sees-ai-chip-sales-significantly-over-100-billion-in-2027.html"
         },
         {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-03-05 09:19:00",
-          "title": "布罗德كم称其软件业务不会受AI影响，股价上涨",
-          "summary": "芯片制造商预见其基础设施软件销售增长加速，这表明该公司专注并在该业务上投资。",
-          "url": "https://www.marketwatch.com/story/broadcoms-stock-climbs-after-it-says-ai-is-not-disrupting-its-software-business-09b06f3f?mod=mw_rss_topstories",
-          "title_en": "Broadcom says AI is not disrupting its software business, and its stock climbs",
-          "summary_en": "The chip maker sees sales growth in its infrastructure software accelerating, showing that it’s focused on and investing in that business."
+          "title": "Broadcom says AI is not disrupting its software business, and its stock climbs",
+          "summary": "The chip maker sees sales growth in its infrastructure software accelerating, showing that it’s focused on and investing in that business.",
+          "url": "https://www.marketwatch.com/story/broadcoms-stock-climbs-after-it-says-ai-is-not-disrupting-its-software-business-09b06f3f?mod=mw_rss_topstories"
         },
         {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-03-05 09:17:00",
-          "title": "Okta的股价上涨，人工智能代理的动力推动了盈利超出预期",
-          "summary": "Okta在最新季度的财报中击败了市场预期，但对于当前季度的预测低于市场预期。",
-          "url": "https://www.marketwatch.com/story/oktas-stock-rallies-as-momentum-in-ai-agents-fuels-an-earnings-beat-4b3983ec?mod=mw_rss_topstories",
-          "title_en": "Okta’s stock rises as momentum in AI agents fuels an earnings beat",
-          "summary_en": "Okta beat earnings expectations for the latest quarter, but guidance for the current quarter was below forecasts."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-05 08:15:30",
-          "title": "Anthropic AI被特朗普政府禁令可能对快速增长的公司构成生存风险",
-          "summary": "Anthropic AI在公司中的使用率迅速增长，但随着特朗普政府宣布对该公司发动经济战，生存风险变得真实。",
-          "url": "https://www.cnbc.com/2026/03/04/anthropic-ai-pentagon-defense-business-risk.html",
-          "title_en": "How Anthropic AI ban from Trump administration can escalate to existential business risk for fast-growing company",
-          "summary_en": "Anthropic AI is growing rapidly in usage among companies, but with the Trump administration declaring economic war on the company, existential risk is real."
+          "title": "Okta’s stock rises as momentum in AI agents fuels an earnings beat",
+          "summary": "Okta beat earnings expectations for the latest quarter, but guidance for the current quarter was below forecasts.",
+          "url": "https://www.marketwatch.com/story/oktas-stock-rallies-as-momentum-in-ai-agents-fuels-an-earnings-beat-4b3983ec?mod=mw_rss_topstories"
         },
         {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-03-05 07:49:00",
-          "title": "苹果新款599美元MacBook Neo采用iPhone芯片，瞄准廉价笔记本市场份额",
-          "summary": "苹果在三天的产品发布会上结束了，推出了最便宜的笔记本电脑。",
-          "url": "https://www.marketwatch.com/story/apple-expands-into-market-for-budget-laptops-with-599-macbook-neo-20574faf?mod=mw_rss_topstories",
-          "title_en": "Apple’s new $599 MacBook Neo borrows iPhone chip to make play for budget-laptop market share",
-          "summary_en": "Apple wraps up three days of product launches with its cheapest laptop yet."
+          "title": "Apple’s new $599 MacBook Neo borrows iPhone chip to make play for budget-laptop market share",
+          "summary": "Apple wraps up three days of product launches with its cheapest laptop yet.",
+          "url": "https://www.marketwatch.com/story/apple-expands-into-market-for-budget-laptops-with-599-macbook-neo-20574faf?mod=mw_rss_topstories"
         },
         {
           "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-05 06:53:45",
-          "title": "布罗德كم在收益和指南上超预期，AI收入翻倍",
-          "summary": "布罗德كم公司的AI收入跃升106%，该公司继续受基础设施支出大幅增长的利益。",
-          "url": "https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html",
-          "title_en": "Broadcom beats on earnings and guidance as AI revenue doubles",
-          "summary_en": "Broadcom's AI revenue jumped 106% as the company continues to be a big beneficiary of the boom in infrastructure spending."
+          "title": "Broadcom beats on earnings and guidance as AI revenue doubles",
+          "summary": "Broadcom's AI revenue jumped 106% as the company continues to be a big beneficiary of the boom in infrastructure spending.",
+          "url": "https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 05:29:49",
-          "title": "特朗普面临着在中期选举前要解决的AI数据中心问题——没有简单的解决方案。",
-          "summary": "美国各地的社区对数据中心的反对声浪在不断增长，人们将这些设施的出现归咎于高的电费账单。",
-          "url": "https://www.cnbc.com/2026/03/04/trump-faces-an-ai-data-center-power-dilemma-ahead-of-midterms.html",
-          "title_en": "Trump has an AI data center problem ahead of the midterms — with no easy solutions",
-          "summary_en": "Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills."
+          "title": "Trump has an AI data center problem ahead of the midterms — with no easy solutions",
+          "summary": "Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills.",
+          "url": "https://www.cnbc.com/2026/03/04/trump-faces-an-ai-data-center-power-dilemma-ahead-of-midterms.html"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 05:09:04",
-          "title": "Nvidia CEO 亨利·梅森·休恩表示，Nvidia对OpenAI的30亿美元投资\"可能是最后一次\"。",
-          "summary": "黄也提到，Nvidia在OpenAI竞争对手Anthropic的10亿美元投资很可能是最后一次。",
-          "url": "https://www.cnbc.com/2026/03/04/nvidia-huang-openai-investment.html",
-          "title_en": "Nvidia CEO Huang says $30 billion OpenAI investment 'might be the last'",
-          "summary_en": "Huang also mentioned that Nvidia's $10 billion investment in OpenAI rival Anthropic would likely be its last."
+          "title": "Nvidia CEO Huang says $30 billion OpenAI investment 'might be the last'",
+          "summary": "Huang also mentioned that Nvidia's $10 billion investment in OpenAI rival Anthropic would likely be its last.",
+          "url": "https://www.cnbc.com/2026/03/04/nvidia-huang-openai-investment.html"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 04:19:30",
-          "title": "谷歌的AI聊天机器人被指控曾经告诉用户要策划“大规模伤亡事件”，一项不当死亡诉讼声称。",
-          "summary": "谷歌被指诱导儿子自杀",
-          "url": "https://www.cnbc.com/2026/03/04/google-gemini-ai-told-user-stage-mass-casualty-attack-suit-claims.html",
-          "title_en": "Google's AI chatbot allegedly told user to stage 'mass casualty attack,' wrongful death suit claims",
-          "summary_en": "The father of Jonathan Gavalas accused Google of convincing his son to commit suicide after first encouraging him to execute a \"mass casualty attack.\""
+          "title": "Google's AI chatbot allegedly told user to stage 'mass casualty attack,' wrongful death suit claims",
+          "summary": "The father of Jonathan Gavalas accused Google of convincing his son to commit suicide after first encouraging him to execute a \"mass casualty attack.\"",
+          "url": "https://www.cnbc.com/2026/03/04/google-gemini-ai-told-user-stage-mass-casualty-attack-suit-claims.html"
         },
         {
           "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-05 03:48:01",
-          "title": "苹果公司全面提高MacBook价格，M5芯片和新显示屏标志着AI优先战略的开始",
-          "summary": "苹果Mac更新将产品线推向更高端市场，通过更快的性能与更高的价格来让客户有理由升级。",
-          "url": "https://www.cnbc.com/2026/03/03/apple-macbook-prices-m5-ai.html",
-          "title_en": "Apple raises MacBook prices across the board as M5 chips, new displays signal AI-first strategy",
-          "summary_en": "Apple’s Mac refresh moves the lineup further upmarket, pairing higher prices with faster performance in a push to give customers a reason to upgrade."
+          "title": "Apple raises MacBook prices across the board as M5 chips, new displays signal AI-first strategy",
+          "summary": "Apple’s Mac refresh moves the lineup further upmarket, pairing higher prices with faster performance in a push to give customers a reason to upgrade.",
+          "url": "https://www.cnbc.com/2026/03/03/apple-macbook-prices-m5-ai.html"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 03:47:34",
-          "title": "苹果宣布推出MacBook Neo，价格最便宜的笔记本电脑",
-          "summary": "苹果新款MacBook Neo为公司带来了最便宜的笔记本电脑，让Mac系列有了一个-budget的入口。",
-          "url": "https://www.cnbc.com/2026/03/04/apple-macbook-neo-budget-laptop.html",
-          "title_en": "Apple announces MacBook Neo, its most affordable laptop ever",
-          "summary_en": "Apple’s new MacBook Neo gives the company its cheapest laptop ever, creating a budget entry into the Mac lineup."
+          "title": "Apple announces MacBook Neo, its most affordable laptop ever",
+          "summary": "Apple’s new MacBook Neo gives the company its cheapest laptop ever, creating a budget entry into the Mac lineup.",
+          "url": "https://www.cnbc.com/2026/03/04/apple-macbook-neo-budget-laptop.html"
         },
         {
           "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-05 01:00:41",
-          "title": "Sam Altman 告诉 OpenAI 员工，军方的“运作决策”由政府负责。",
-          "summary": "OpenAI CEO Sam Altman表示，公司不决定军方如何使用其技术。",
-          "url": "https://www.cnbc.com/2026/03/03/sam-altman-tells-openai-staff-operational-decisions-up-to-government.html",
-          "title_en": "Sam Altman tells OpenAI staffers that military's 'operational decisions' are up to the government",
-          "summary_en": "In an all-hands meetings with OpenAI employees on Tuesday, CEO Sam Altman said his company doesn't get to choose how the military uses its technology."
+          "title": "Sam Altman tells OpenAI staffers that military's 'operational decisions' are up to the government",
+          "summary": "In an all-hands meetings with OpenAI employees on Tuesday, CEO Sam Altman said his company doesn't get to choose how the military uses its technology.",
+          "url": "https://www.cnbc.com/2026/03/03/sam-altman-tells-openai-staff-operational-decisions-up-to-government.html"
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-04 20:39:48",
+          "title": "China's Xiaomi tells CNBC it's planning a yearly smartphone chip release and its own AI assistant for overseas",
+          "summary": "Last year, Xiaomi launched the XRing O1, a system-on-chip (SoC) based on an advanced 3 nanometer manufacturing process.",
+          "url": "https://www.cnbc.com/2026/03/04/xiaomi-plans-yearly-smartphone-chip-release-ai-assistant-for-overseas.html"
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-04 12:51:53",
+          "title": "CNBC's China Connection newsletter: New AI players think global from day one",
+          "summary": "Chinese startups rush to launch AI tools for overseas markets.",
+          "url": "https://www.cnbc.com/2026/03/04/cnbc-china-connection-newsletter-ai-startups-global-expansion-nvidia-warning-tripo-isales.html"
         }
       ]
     },
@@ -210,40 +170,58 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "战争担忧压力下，今日房贷利率。",
+          "time": "2026-03-05 18:42:40",
+          "title": "Mortgage and refinance interest rates today, March 3, 2026: War worries pressure mortgage rates",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-march-3-2026-110005822.html",
-          "title_en": "Mortgage and refinance interest rates today, March 3, 2026: War worries pressure mortgage rates"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-march-3-2026-110005822.html"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 18:42:40",
+          "title": "Axos Bank review (2026): Rewards checking and high-yield savings with no monthly fees",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/review/axos-bank-review-011951629.html"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 18:42:40",
+          "title": "BrioDirect review (2026): Online savings accounts with market-leading rates and minimal fees",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/review/briodirect-review-191031576.html"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 18:42:40",
+          "title": "Quontic Bank review (2026): Innovative online banking with competitive rates and no monthly fees",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/review/quontic-bank-review-162546260.html"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 03:24:49",
-          "title": "特朗普支持加密货币公司与银行在稳定币收益的千万亿美元战役中站在一起",
-          "summary": "争议的焦点在于，是否.crypto公司如Coinbase可以在稳定币上提供收益率，银行警告称这将会从行业中抽走数万亿美元。",
-          "url": "https://www.cnbc.com/2026/03/04/trump-crypto-banks-stablecoin-yield.html",
-          "title_en": "Trump sides with crypto firms in trillion-dollar battle with banks over stablecoin yield",
-          "summary_en": "The dispute centers on whether crypto firms like Coinbase can offer yields on stablecoins, which banks warn will siphon trillions of dollars from the industry."
+          "title": "Trump sides with crypto firms in trillion-dollar battle with banks over stablecoin yield",
+          "summary": "The dispute centers on whether crypto firms like Coinbase can offer yields on stablecoins, which banks warn will siphon trillions of dollars from the industry.",
+          "url": "https://www.cnbc.com/2026/03/04/trump-crypto-banks-stablecoin-yield.html"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 03:16:10",
-          "title": "特朗普正式提名凯文·沃什（Kevin Warsh）接替杰罗姆·鲍威尔（Jerome Powell）出任美联储主席。",
-          "summary": "参议员托姆·蒂利斯（Thom Tillis）表示，他将阻止凯文·沃什（Kevin Warsh）的提名，直到联邦调查局对美联储主席杰罗姆·鲍威尔（Jerome Powell）的联邦刑事调查案件被撤销。",
-          "url": "https://www.cnbc.com/2026/03/04/trump-federal-reserve-kevin-warsh-senate.html",
-          "title_en": "Trump officially nominates Kevin Warsh as Fed chair to replace Jerome Powell",
-          "summary_en": "Sen. Thom Tillis has said he would block Kevin Warsh's nomination until a federal criminal investigation of Fed Chair Jerome Powell is dropped"
+          "title": "Trump officially nominates Kevin Warsh as Fed chair to replace Jerome Powell",
+          "summary": "Sen. Thom Tillis has said he would block Kevin Warsh's nomination until a federal criminal investigation of Fed Chair Jerome Powell is dropped",
+          "url": "https://www.cnbc.com/2026/03/04/trump-federal-reserve-kevin-warsh-senate.html"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-04 23:17:46",
-          "title": "私营企业在2月份新增63,000个工作岗位，1月份的数据则被修正为仅11,000个工作岗位。",
+          "title": "Private companies added 63,000 jobs in February, January revised to just 11,000 additions, ADP says",
           "summary": "",
-          "url": "https://www.cnbc.com/2026/03/04/private-companies-added-63000-jobs-in-february-january-revised-to-just-11000-additions-adp-says.html",
-          "title_en": "Private companies added 63,000 jobs in February, January revised to just 11,000 additions, ADP says"
+          "url": "https://www.cnbc.com/2026/03/04/private-companies-added-63000-jobs-in-february-january-revised-to-just-11000-additions-adp-says.html"
         }
       ]
     },
@@ -254,177 +232,146 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "当油价飙升至80美元时，中国的储备成为战略杠杆",
+          "time": "2026-03-05 18:42:40",
+          "title": "As Oil Surges To $80, China’s Stockpiles Become Strategic Leverage",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/oil-surges-80-china-stockpiles-230000425.html",
-          "title_en": "As Oil Surges To $80, China’s Stockpiles Become Strategic Leverage"
+          "url": "https://finance.yahoo.com/news/oil-surges-80-china-stockpiles-230000425.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "伊朗危机干扰运输和生产，全球石油和天然气价格大幅上涨",
+          "time": "2026-03-05 18:42:40",
+          "title": "Iran Conflict Pushes Europe Toward Fresh Energy Crisis",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/global-energy-costs-soar-iran-115408677.html",
-          "title_en": "Global oil and gas prices soar as Iran crisis disrupts shipping, production"
+          "url": "https://www.wsj.com/finance/commodities-futures/iran-conflict-pushes-europe-toward-fresh-energy-crisis-9a8386d2?siteid=yhoof2&yptr=yahoo"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "伊朗冲突推动欧洲向新一轮能源危机",
+          "time": "2026-03-05 18:42:40",
+          "title": "Global oil and gas prices soar as Iran crisis disrupts shipping, production",
           "summary": "",
-          "url": "https://www.wsj.com/finance/commodities-futures/iran-conflict-pushes-europe-toward-fresh-energy-crisis-9a8386d2?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Iran Conflict Pushes Europe Toward Fresh Energy Crisis"
+          "url": "https://finance.yahoo.com/news/global-energy-costs-soar-iran-115408677.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "伊拉克供应损失可能暴露OPEC剩余储备能力的真正限制",
+          "time": "2026-03-05 18:42:40",
+          "title": "Iraqi Supply Loss Could Expose the Real Limits of OPEC Spare Capacity",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/iraqi-supply-loss-could-expose-000000255.html",
-          "title_en": "Iraqi Supply Loss Could Expose the Real Limits of OPEC Spare Capacity"
+          "url": "https://finance.yahoo.com/news/iraqi-supply-loss-could-expose-000000255.html"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 18:42:40",
+          "title": "Iran Conflict Could Turn Canada Into the Market’s Most Reliable Oil Supplier",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/iran-conflict-could-turn-canada-010000187.html"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 18:42:40",
+          "title": "What an extended war with Iran could mean for gas prices",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/what-an-extended-war-with-iran-could-mean-for-gas-prices-225053494.html"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "以色列与伊朗交换袭击，冲突进入第六天",
+          "time": "2026-03-05 18:42:40",
+          "title": "U.S. stock futures just lower; sentiment fragile as Iran conflict rages on",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/iran-conflict-latest-israel-iran-exchange-strikes-as-fighting-enters-sixth-day-4543244",
-          "title_en": "Iran conflict latest: Israel, Iran exchange strikes as fighting enters sixth day"
+          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-wall-st-rebounds-past-iran-fears-broadcom-jumps-4542728"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-05 18:42:40",
+          "title": "Iran conflict latest: Israel, Iran exchange strikes as fighting enters sixth day",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/iran-conflict-latest-israel-iran-exchange-strikes-as-fighting-enters-sixth-day-4543244"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 18:23:54",
-          "title": "伊朗的沙赫德无人机：如何“穷人的巡航导弹”塑造了德黑兰的报复",
-          "summary": "俄乌战争多年以来，伊朗的沙赫德-136无人机已成为德黑兰对美国最新一轮打击的报复核心。",
-          "url": "https://www.cnbc.com/2026/03/05/iran-shahed-136-drone-cost-air-defense-gulf-war-us-israel-gulf-scorpion-strike-centcom.html",
-          "title_en": "Iran's Shahed drone: How the ‘poor man’s cruise missile’ is shaping Tehran’s retaliation",
-          "summary_en": "After years on the front lines of Russia's invasion of Ukraine, the Iranian Shahed-136 drone is at the center of Tehran's retaliation against recent U.S. strikes."
+          "title": "Iran's Shahed drone: How the ‘poor man’s cruise missile’ is shaping Tehran’s retaliation",
+          "summary": "After years on the front lines of Russia's invasion of Ukraine, the Iranian Shahed-136 drone is at the center of Tehran's retaliation against recent U.S. strikes.",
+          "url": "https://www.cnbc.com/2026/03/05/iran-shahed-136-drone-cost-air-defense-gulf-war-us-israel-gulf-scorpion-strike-centcom.html"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 18:19:06",
-          "title": "西班牙否认白宫的说法称两国达成协议，允许西班牙军队与美国军队合作应对伊朗战争。",
-          "summary": "白宫称西班牙将在伊朗冲突中与美国军事合作，但马德里迅速否认了这一说法。",
-          "url": "https://www.cnbc.com/2026/03/05/iran-war-us-spain-trump-sanchez-defense-trade-eu.html",
-          "title_en": "Spain rejects White House claim it agreed to cooperate with U.S. forces amid Iran war",
-          "summary_en": "The White House says Spain will now cooperate with the U.S. militarily over the Iran conflict. Madrid swiftly rejected this claim."
+          "title": "Spain rejects White House claim it agreed to cooperate with U.S. forces amid Iran war",
+          "summary": "The White House says Spain will now cooperate with the U.S. militarily over the Iran conflict. Madrid swiftly rejected this claim.",
+          "url": "https://www.cnbc.com/2026/03/05/iran-war-us-spain-trump-sanchez-defense-trade-eu.html"
         },
         {
           "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-05 18:12:48",
-          "title": "北约成员国感受到伊朗战争的压力，但北约采取行动的门槛很高",
-          "summary": "北约成员国，资产位于伊朗射程范围内的国家，正感受到中东局势升级所带来的压力。",
-          "url": "https://www.cnbc.com/2026/03/05/article-5-nato-iran-turkey-uk-airbase-middle-east.html",
-          "title_en": "NATO members feel the heat from the Iran war, but the bar for the military bloc to act is high",
-          "summary_en": "NATO's members with assets within firing range of Iran, are feeling the heat from the escalating war in the Middle East."
+          "title": "NATO members feel the heat from the Iran war, but the bar for the military bloc to act is high",
+          "summary": "NATO's members with assets within firing range of Iran, are feeling the heat from the escalating war in the Middle East.",
+          "url": "https://www.cnbc.com/2026/03/05/article-5-nato-iran-turkey-uk-airbase-middle-east.html"
         },
         {
           "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-05 18:07:49",
-          "title": "欧洲市场上涨，伊朗战争持续使交易者感到不安。",
-          "summary": "欧洲股市周四上涨，市场紧随中东地区的不稳定地缘政治发展。",
-          "url": "https://www.cnbc.com/2026/03/05/european-markets-stoxx-600-ftse-dax-cac-iran-latest.html",
-          "title_en": "European markets higher as Iran war continues to unsettles traders",
-          "summary_en": "European stocks were higher on Thursday as markets followed unsettling geopolitical developments in the Middle East."
+          "title": "European markets higher as Iran war continues to unsettles traders",
+          "summary": "European stocks were higher on Thursday as markets followed unsettling geopolitical developments in the Middle East.",
+          "url": "https://www.cnbc.com/2026/03/05/european-markets-stoxx-600-ftse-dax-cac-iran-latest.html"
         },
         {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-03-05 10:04:00",
-          "title": "石油运输船租赁价格大幅上涨，霍尔木兹海峡交通瘫痪",
-          "summary": "近期租金几乎翻倍，今年以来租金增加了五倍。",
-          "url": "https://www.marketwatch.com/story/prices-to-charter-large-oil-tankers-soar-as-strait-of-hormuz-traffic-grinds-to-a-halt-7e5ffe66?mod=mw_rss_topstories",
-          "title_en": "Prices to charter large oil tankers soar as Strait of Hormuz traffic grinds to a halt",
-          "summary_en": "Charter rates nearly doubled in recent days and are up fivefold since the start of the year."
+          "title": "Prices to charter large oil tankers soar as Strait of Hormuz traffic grinds to a halt",
+          "summary": "Charter rates nearly doubled in recent days and are up fivefold since the start of the year.",
+          "url": "https://www.marketwatch.com/story/prices-to-charter-large-oil-tankers-soar-as-strait-of-hormuz-traffic-grinds-to-a-halt-7e5ffe66?mod=mw_rss_topstories"
         },
         {
-          "source": "CNBC-World",
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-05 07:47:01",
+          "title": "Cramer says the oil market is signaling the Iran war won't spiral — and that's bullish for stocks",
+          "summary": "\"The oil market always seems to know everything,\" CNBC's Jim Cramer said Wednesday.",
+          "url": "https://www.cnbc.com/2026/03/04/jim-cramer-oil-is-flashing-a-bullish-signal-for-stocks-amid-iran-war.html"
+        },
+        {
+          "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 07:09:58",
-          "title": "阿马逊巴林数据中心被伊朗指控支持美国军事，官方媒体称",
-          "summary": "亚马逊表示，巴林的设施受损是由于附近的无人机袭击，阿联酋的两座数据中心直接遭到无人机袭击。",
-          "url": "https://www.cnbc.com/2026/03/04/amazon-bahrain-data-centers-targeted-iran-drone-strike.html",
-          "title_en": "Amazon's Bahrain data center targeted by Iran for support of U.S. military, state media says",
-          "summary_en": "Amazon said the Bahrain facility was damaged due to a nearby drone strike, and two data centers in the UAE were directly hit by drones."
+          "title": "Amazon's Bahrain data center targeted by Iran for support of U.S. military, state media says",
+          "summary": "Amazon said the Bahrain facility was damaged due to a nearby drone strike, and two data centers in the UAE were directly hit by drones.",
+          "url": "https://www.cnbc.com/2026/03/04/amazon-bahrain-data-centers-targeted-iran-drone-strike.html"
         },
         {
           "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-05 03:57:16",
-          "title": "美国原油价格反弹缓和，贝森特承诺在伊朗战争期间支持油轮。",
-          "summary": "美国总统唐纳德·特朗普表示，如果需要，美国将为油轮提供保险和海军护航，油价市场因此趋于平静。",
-          "url": "https://www.cnbc.com/2026/03/04/crude-oil-prices-today-iran-war.html",
-          "title_en": "U.S. crude oil surge eases after Bessent pledges support for tankers during Iran war",
-          "summary_en": "The oil market has calmed after President Donald Trump said the U.S. would insure tankers and provide naval escorts if necessary."
+          "title": "U.S. crude oil surge eases after Bessent pledges support for tankers during Iran war",
+          "summary": "The oil market has calmed after President Donald Trump said the U.S. would insure tankers and provide naval escorts if necessary.",
+          "url": "https://www.cnbc.com/2026/03/04/crude-oil-prices-today-iran-war.html"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-05 03:37:57",
-          "title": "民主党人谨慎对待另一项特朗普弹劾案，特别是伊朗“非法”袭击事件",
-          "summary": "自伊朗袭击事件以来，国会民主党人士称该行动违宪，但另一次弹劾案并未进入严肃讨论。",
-          "url": "https://www.cnbc.com/2026/03/04/trump-impeachment-iran-strikes-war-democrats.html",
-          "title_en": "Democrats tread cautiously around another Trump impeachment after 'illegal' Iran strikes",
-          "summary_en": "Since the attack on Iran, congressional Democrats have called the operation unconstitutional. But another impeachment hasn't seriously entered the conversation."
+          "title": "Democrats tread cautiously around another Trump impeachment after 'illegal' Iran strikes",
+          "summary": "Since the attack on Iran, congressional Democrats have called the operation unconstitutional. But another impeachment hasn't seriously entered the conversation.",
+          "url": "https://www.cnbc.com/2026/03/04/trump-impeachment-iran-strikes-war-democrats.html"
         },
         {
           "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-05 02:08:38",
-          "title": "美国主要网络安全机构面临严重挑战，伊朗黑客威胁加剧",
-          "summary": "上周，CISA的代理总监被重新分配到DHS的一个新部门，机构正在因部分停职而运作。",
-          "url": "https://www.cnbc.com/2026/03/03/iran-cisa-cybersecurity-war-threat.html",
-          "title_en": "The lead U.S. cyber agency is stretched thin as Iran hacking threat escalates",
-          "summary_en": "Last week, CISA's acting director was reassigned to a new division within DHS and the agency is operating under a partial shutdown."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-04 23:14:07",
-          "title": "高盛的戴维·索罗门惊讶于伊朗战争对市场的“温和”反应",
-          "summary": "高盛首席执行官大卫·索罗门表示：“我认为市场需要几周时间才能真正消化发生的事情的影响。”",
-          "url": "https://www.cnbc.com/2026/03/04/goldman-david-solomon-iran-war-market-reaction-stocks.html",
-          "title_en": "Goldman's David Solomon surprised by ‘benign’ market reaction to Iran war",
-          "summary_en": "\"I think it's going to take a couple of weeks for markets to really digest the implications of what's happened,\" Goldman chief David Solomon said."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-04 21:30:14",
-          "title": "美洲湾石油贸易、五角大楼人工智能使用、Gen Z的模拟迷恋等更多内容在晨间喧哗中",
-          "summary": "今天市场投资者需要了解的五个关键信息。",
-          "url": "https://www.cnbc.com/2026/03/04/5-things-to-know-before-the-market-opens.html",
-          "title_en": "Gulf oil trade, Pentagon's AI usage, Gen Z's analog obsession and more in Morning Squawk",
-          "summary_en": "Here are five key things investors need to know to start the trading day."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-04 21:26:28",
-          "title": "阿联酋股市大幅下跌，市场在两天的停业后重新开放，受伊朗袭击事件影响。",
-          "summary": "迪拜和阿布扎比的交易所在伊朗对该国发起一波袭击后关闭了两天。",
-          "url": "https://www.cnbc.com/2026/03/04/uae-stock-market-sell-off-closed-iran-missile-drone-strikes-dubai-abu-dhabi.html",
-          "title_en": "UAE stocks sell off as markets reopen from two-day closure after Iranian strikes",
-          "summary_en": "Exchanges in Dubai and Abu Dhabi were closed for two days after Iran launched a wave of strikes on the Gulf nation."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-04 13:32:45",
-          "title": "中东冲突成为央行面临的新挑战，石油价格上涨加剧了通胀",
-          "summary": "中东冲突对中央银行构成了新的挑战，人们担心石油价格上涨和通胀风险的加剧，迫使他们重新评估刺激经济的政策。",
-          "url": "https://www.cnbc.com/2026/03/04/iran-israel-us-war-middle-east-conflict-oil-gas-lng-surge-central-banks-inflation-risk.html",
-          "title_en": "Middle East conflict poses fresh test to central banks as oil shock fuels inflation",
-          "summary_en": "Middle East conflict has posed a fresh test to central banks, with fears of an oil shock and renewed inflation risks changing their bid to shore up growth."
+          "title": "The lead U.S. cyber agency is stretched thin as Iran hacking threat escalates",
+          "summary": "Last week, CISA's acting director was reassigned to a new division within DHS and the agency is operating under a partial shutdown.",
+          "url": "https://www.cnbc.com/2026/03/03/iran-cisa-cybersecurity-war-threat.html"
         }
       ]
     },
@@ -436,11 +383,9 @@
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-03-05 07:50:00",
-          "title": "特斯拉的自动驾驶业务可能价值超过其电动汽车业务的两倍。",
-          "summary": "特斯拉将自动驾驶汽车置于首位，投入大量资金于无人车和驾驶辅助软件。",
-          "url": "https://www.marketwatch.com/story/teslas-self-driving-effort-could-be-worth-more-than-double-its-ev-division-b4a4a6f2?mod=mw_rss_topstories",
-          "title_en": "Tesla’s self-driving effort could be worth more than double its EV division",
-          "summary_en": "Tesla has made autonomous vehicles a priority, investing heavily in robotaxis and driving-assistance software."
+          "title": "Tesla’s self-driving effort could be worth more than double its EV division",
+          "summary": "Tesla has made autonomous vehicles a priority, investing heavily in robotaxis and driving-assistance software.",
+          "url": "https://www.marketwatch.com/story/teslas-self-driving-effort-could-be-worth-more-than-double-its-ev-division-b4a4a6f2?mod=mw_rss_topstories"
         }
       ]
     },
@@ -451,164 +396,146 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "《华尔街日报》美元指数上涨0.48%至95.85",
+          "time": "2026-03-05 18:42:40",
+          "title": "What is a callable CD?",
           "summary": "",
-          "url": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-might-be-weighed-by-continuing-geopolitical-risks-d4e8dbed?siteid=yhoof2&yptr=yahoo",
-          "title_en": "The WSJ Dollar Index Rises 0.48% to 95.85"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/callable-cd-182139565.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "西门子技术控股（STX）价格目标上调，HAMR技术驱动成本节约",
+          "time": "2026-03-05 18:42:40",
+          "title": "Strait and Narrow: Heard on the Street Recap",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/seagate-technology-holdings-plc-stx-222737590.html",
-          "title_en": "Seagate Technology Holdings plc (STX) Price Target Raised, HAMR Technology Drives Cost Savings"
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-03-2026/card/strait-and-narrow-heard-on-the-street-recap-KRPCAfrZ6cwANpCzwhmc?siteid=yhoof2&yptr=yahoo"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "Quanta Services, Inc. (PWR) 的电力部门表现强劲，第四季度业绩超出预期。",
+          "time": "2026-03-05 18:42:40",
+          "title": "Coinbase Seeks Support At Key Level After Earnings Surge; Is Coinbase Stock A Buy Now?",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/quanta-services-inc-pwr-beats-222736166.html",
-          "title_en": "Quanta Services, Inc. (PWR) Beats Q4 Expectations on Strong Electric Division"
+          "url": "https://www.investors.com/research/coinbase-coin-stock-march-2026/?src=A00220&yptr=yahoo"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "Cadence Design Systems, Inc. (CDNS) 在 Q4 的收入和 EPS 都超过了市场预期，Stifel再次确认买入。",
+          "time": "2026-03-05 18:42:40",
+          "title": "Capital One review (2026): Online banking with few fees and free credit monitoring tools",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/cadence-design-systems-inc-cdns-222732080.html",
-          "title_en": "Cadence Design Systems, Inc. (CDNS) Beats Q4 Revenue and EPS Expectations, Stifel Reaffirms Buy"
+          "url": "https://finance.yahoo.com/personal-finance/banking/review/capital-one-review-012753794.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "Axon Enterprise, Inc. (AXON) 股价目标上调后强劲预订增长",
+          "time": "2026-03-05 18:42:40",
+          "title": "SoFi review (2026): Online banking with (almost) zero fees",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/axon-enterprise-inc-axon-price-222739803.html",
-          "title_en": "Axon Enterprise, Inc. (AXON) Price Target Raised After Strong Bookings Growth"
+          "url": "https://finance.yahoo.com/personal-finance/banking/review/sofi-bank-review-220424102.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "星巴克计划在纳什维尔开设办公室，搬迁供应链工人。",
+          "time": "2026-03-05 18:42:40",
+          "title": "Why Duolingo Stock Fell 24% in February",
           "summary": "",
-          "url": "https://www.wsj.com/business/hospitality/starbucks-to-open-nashville-office-relocate-supply-chain-workers-56c211d7?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Starbucks to Open Nashville Office, Relocate Supply-Chain Workers"
+          "url": "https://finance.yahoo.com/news/why-duolingo-stock-fell-24-223622312.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "Fortinet, Inc. (FTNT) 预计2026年账单增长13%，超越了EPS和收入预估。",
+          "time": "2026-03-05 18:42:40",
+          "title": "Daily ETF Flows: IQMM Tops the List",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/fortinet-inc-ftnt-forecasts-13-222731127.html",
-          "title_en": "Fortinet, Inc. (FTNT) Forecasts 13% Billings Growth for 2026, Beats EPS and Revenue Estimates"
+          "url": "https://finance.yahoo.com/news/daily-etf-flows-iqmm-tops-230005069.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "费尔艾萨克公司（FICO）宣布1.5亿美元股票回购计划，买入评级再次确认",
+          "time": "2026-03-05 18:42:40",
+          "title": "How much does it cost to refinance a mortgage?",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/fair-isaac-corporation-fico-announces-222741345.html",
-          "title_en": "Fair Isaac Corporation (FICO) Announces $1.5 Billion Share Buyback Program, Buy Rating Reiterated"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-much-does-it-cost-to-refinance-a-mortgage-162651390.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "KLA股份公司（KLAC）将被列为正面催化剂观察对象，随着投资者日的到来。",
+          "time": "2026-03-05 18:42:40",
+          "title": "What does travel insurance cover, and do I need it?",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/kla-corporation-klac-placed-positive-222729354.html",
-          "title_en": "KLA Corporation (KLAC) Placed on Positive Catalyst Watch Ahead of Investor Day"
+          "url": "https://finance.yahoo.com/personal-finance/insurance/article/what-does-travel-insurance-cover-183254112.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "今日股市，3月3日：网飞在摩根士丹利升级后上涨，推动五天连涨",
+          "time": "2026-03-05 18:42:40",
+          "title": "Billionaire Ray Dalio sends harsh warning on Bitcoin",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/stock-market-today-march-3-222807077.html",
-          "title_en": "Stock Market Today, March 3: Netflix Rises After JPMorgan Upgrade Powers Five-Day Rally"
+          "url": "https://finance.yahoo.com/news/billionaire-ray-dalio-sends-harsh-223701526.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "微星科技公司（MU）价格目标提高至，基于DRAM强劲表现和内存市场复苏",
+          "time": "2026-03-05 18:42:40",
+          "title": "What is a dependent care FSA?",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/micron-technology-inc-mu-price-222727852.html",
-          "title_en": "Micron Technology, Inc. (MU) Price Target Raised to on DRAM Strength and Memory Market Recovery"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/what-is-a-dependent-care-fsa-192359976.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "可 callable CD 是一种可 callable 的定期存款，允许投资者在特定时间内提前赎回存款并获得利息。",
+          "time": "2026-03-05 18:42:40",
+          "title": "American Express vs. Capital One: Which online banking giant is better?",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/callable-cd-182139565.html",
-          "title_en": "What is a callable CD?"
+          "url": "https://finance.yahoo.com/personal-finance/banking/comparison/american-express-vs-capital-one-213911934.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "Coinbase寻求在关键水平获得支持，股价大涨后。Coinbase股价是否现在是买入的时机？",
+          "time": "2026-03-05 18:42:40",
+          "title": "Are Roth IRA contributions tax deductible?",
           "summary": "",
-          "url": "https://www.investors.com/research/coinbase-coin-stock-march-2026/?src=A00220&yptr=yahoo",
-          "title_en": "Coinbase Seeks Support At Key Level After Earnings Surge; Is Coinbase Stock A Buy Now?"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/roth-ira-tax-190924867.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "首都银行（Capital One）评估（2026）：在线银行少收费，免费信用监控工具",
+          "time": "2026-03-05 18:42:40",
+          "title": "Is travel insurance worth it? Here’s when to get travel insurance.",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/review/capital-one-review-012753794.html",
-          "title_en": "Capital One review (2026): Online banking with few fees and free credit monitoring tools"
+          "url": "https://finance.yahoo.com/personal-finance/insurance/article/is-travel-insurance-worth-it-212547618.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "伊朗官员称“与美国无谈判”  比特币因数字黄金叙述而挣扎",
+          "time": "2026-03-05 18:42:40",
+          "title": "Where’s my tax refund? 4 reasons your refund might be delayed.",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/iranian-official-says-no-talks-223042043.html",
-          "title_en": "Iranian Official Says 'No Talks With US' As Bitcoin Struggles With Digital Gold Narrative"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/wheres-my-tax-refund-4-reasons-your-refund-might-be-delayed-223701586.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "SoFi评测（2026）：在线银行几乎零费用",
+          "time": "2026-03-05 18:42:40",
+          "title": "Cotton Losses Continue on Tuesday",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/review/sofi-bank-review-220424102.html",
-          "title_en": "SoFi review (2026): Online banking with (almost) zero fees"
+          "url": "https://finance.yahoo.com/news/cotton-losses-continue-tuesday-232401418.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "美国运通与首都一联银行：哪家网上银行巨头更好？",
+          "time": "2026-03-05 18:42:40",
+          "title": "Soybeans Power Higher Late on Tuesday",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/comparison/american-express-vs-capital-one-213911934.html",
-          "title_en": "American Express vs. Capital One: Which online banking giant is better?"
+          "url": "https://finance.yahoo.com/news/soybeans-power-higher-tuesday-232401880.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-05 18:30:21",
-          "title": "重新融资一份抵押贷款的成本通常包括以下几项：",
+          "time": "2026-03-05 18:42:40",
+          "title": "How much does travel insurance cost?",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-much-does-it-cost-to-refinance-a-mortgage-162651390.html",
-          "title_en": "How much does it cost to refinance a mortgage?"
+          "url": "https://finance.yahoo.com/personal-finance/insurance/article/travel-insurance-cost-193737994.html"
         }
       ]
     }
