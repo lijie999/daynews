@@ -1,6 +1,6 @@
 {
   "date": "2026.03.07",
-  "generatedAtBJT": "2026-03-07 04:55:11",
+  "generatedAtBJT": "2026-03-07 05:00:19",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-07 04:55:11",
+          "time": "2026-03-07 05:00:19",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注数十艘亚洲旗帜油轮在霍尔木兹海峡附近被困。\n- 宏观/Fed：关注股市在开盘前滑落，债券收益率上升，通胀担忧加剧。\n- 科技/半导体：分析：人工智能担忧抑制了投资兴趣，私募股权公司权衡了对...",
+          "summary": "- 地缘/避险：数十艘亚洲旗帜油轮在霍尔木兹海峡附近搁浅。\n- 宏观/Fed：股市在开盘前滑落，债券收益率上升，通胀担忧加剧。\n- 科技/半导体：Nvidia停止在中国生产H200芯片。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Dozens of Asia-Flagged Oil Tankers Stranded near Strait of Hormu…\n- 宏观/Fed：关注 Stocks Slip Before the Open as Bond Yields Climb on Inflation Wo…\n- 科技/半导体：Analysis-AI fears temper interest as private equity firms weigh … 关键词: anthropic, data, amazon, available, bloomberg"
+          "summary_en": "- 地缘/避险：关注 Dozens of Asia-Flagged Oil Tankers Stranded near Strait of Hormu…\n- 宏观/Fed：关注 Stocks Slip Before the Open as Bond Yields Climb on Inflation Wo…\n- 科技/半导体：Nvidia pulls the plug on China H200 production as Vera Rubin tak… 关键词: anthropic, data, amazon, available, bloomberg"
         }
       ]
     },
@@ -29,34 +29,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
+          "time": "2026-03-07 05:00:14",
+          "title": "Nvidia停止中国H200生产，Vera Rubin优先",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/nvidia-pulls-plug-china-h200-111505059.html",
+          "title_en": "Nvidia pulls the plug on China H200 production as Vera Rubin takes priority"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 05:00:14",
           "title": "分析-私募股权公司因AI恐惧而减少对数据公司的收购意愿",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/analysis-ai-fears-temper-interest-110631842.html",
+          "url": "https://finance.yahoo.com/news/analysis-ai-fears-temper-interest-110631693.html",
           "title_en": "Analysis-AI fears temper interest as private equity firms weigh data company deals"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
-          "title": "华尔街预见人工智能带来的“创造性破坏”将彻底摧毁整个公司",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/wall-street-sees-ai-creative-110000435.html",
-          "title_en": "Wall Street Sees AI’s ‘Creative Destruction’ Coming For Entire Companies"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
+          "time": "2026-03-07 05:00:14",
           "title": "詹姆斯·克拉默（Jim Cramer）谈到CoreWeave： “我宁愿你买NVIDIA（NVDA）”",
           "summary": "",
           "url": "https://finance.yahoo.com/news/jim-cramer-coreweave-d-rather-114559997.html",
           "title_en": "Jim Cramer on CoreWeave: “I’d Rather Have You Buy NVIDIA”"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 05:00:14",
+          "title": "忽略单个云计算股票：一个单一ETF囊括了整个云计算热潮",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/forget-individual-cloud-stocks-single-111501354.html",
+          "title_en": "Forget Individual Cloud Stocks: A Single ETF Captures the Entire Boom"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
+          "time": "2026-03-07 05:00:14",
           "title": "Cerebras计划与摩根士丹利合作举办2亿美元的IPO。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/ai-chipmaker-cerebras-is-said-to-tap-morgan-stanley-for-2b-ipo--bloomberg-432SI-4547748",
@@ -65,7 +74,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
+          "time": "2026-03-07 05:00:14",
           "title": "甲骨文和OpenAI终止扩建德克萨斯数据中心计划，布隆伯格新闻报道。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/oracle-and-openai-end-plans-to-expand-texas-data-center-site-bloomberg-news-reports-4547741",
@@ -74,7 +83,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
+          "time": "2026-03-07 05:00:14",
           "title": "奥拉克尔股价下跌，据报道公司计划取消德克萨斯州数据中心项目。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/oracle-stock-falls-on-report-of-scrapped-texas-data-center-plans-4547738",
@@ -189,16 +198,6 @@
           "url": "https://www.cnbc.com/2026/03/05/open-ai-altman-anthropic-pentagon-war.html",
           "title_en": "OpenAI's Altman takes jabs at Anthropic, says government should be more powerful than companies",
           "summary_en": "The startup landed a deal with the Department of Defense hours after Anthropic was blacklisted by Defense Secretary Pete Hegseth."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-06 00:56:12",
-          "title": "云计算股价大涨，冲刺近一年来的最佳交易日，尽管市场整体下跌。",
-          "summary": "WISDOM树云计算基金（WCLD）在当天上涨4.5%，使该交易所交易基金有望在4月24日以来实现最佳交易日。",
-          "url": "https://www.cnbc.com/2026/03/05/cloud-stocks-jump-led-by-okta.html",
-          "title_en": "Cloud stocks jump, head for best day in nearly a year despite broad market declines",
-          "summary_en": "The WisdomTree Cloud Computing Fund (WCLD) gained 4.5% on the session, putting the exchange-traded fund on track for its best day since April 24, 2025."
         }
       ]
     },
@@ -209,7 +208,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
+          "time": "2026-03-07 05:00:14",
           "title": "股市开盘前股价下滑，债券收益率上升，受通胀担忧影响，美国经济数据即将公布。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/stocks-slip-open-bond-yields-113218869.html",
@@ -218,7 +217,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
+          "time": "2026-03-07 05:00:14",
           "title": "美国人在跳槽后丢失数十亿美元，忘记了401(k)账户。 为何非自愿转移可能会很昂贵",
           "summary": "",
           "url": "https://finance.yahoo.com/news/americans-losing-billions-switching-jobs-120000403.html",
@@ -227,7 +226,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
+          "time": "2026-03-07 05:00:14",
           "title": "抵押贷款利率略微上涨至6%，但5%贷款仍在进行中：今天的抵押贷款和再融资利率",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-edge-back-up-to-6-but-5-loans-are-still-in-play-mortgage-and-refinance-interest-rates-today-110043872.html",
@@ -236,7 +235,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
+          "time": "2026-03-07 05:00:14",
           "title": "特朗普的利率上限政策意味着信用卡持有者将面临更高的利息支出。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/what-trumps-10-cap-on-interest-rates-would-mean-for-credit-cardholders-161400843.html",
@@ -301,7 +300,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
+          "time": "2026-03-07 05:00:14",
           "title": "数十艘亚洲籍油轮在霍尔木兹海峡附近搁浅",
           "summary": "",
           "url": "https://finance.yahoo.com/news/dozens-asia-flagged-oil-tankers-112947705.html",
@@ -310,7 +309,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
+          "time": "2026-03-07 05:00:14",
           "title": "华尔街周五料创十月以来最差周末，伊朗冲突持续升级",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-extends-selloff-on-oil-spike-4545860",
@@ -490,124 +489,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
-          "title": "想要积累财富？无论你喜欢与否，做这四件事",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/want-build-wealth-4-things-105504037.html",
-          "title_en": "Want To Build Wealth? Do These 4 Things — Whether You Like It or Not"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
-          "title": "Revolut申请美国银行牌照，任命Duransoy为美国CEO",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/revolut-files-us-bank-charter-110439789.html",
-          "title_en": "Revolut files for US bank charter, names Duransoy as US CEO"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
-          "title": "分析报告：国际交易所股份有限公司（ICE）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3074_AnalystReport_1772817571000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Intercontinental Exchange Inc"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
-          "title": "吉姆·克拉默说：“我不能推荐我喜欢的股票——联合太平洋，直到它价格更低”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-cannot-recommend-114555154.html",
-          "title_en": "Jim Cramer Says “I Cannot Recommend a Stock I Really Like, Union Pacific, Until It Goes Lower”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
-          "title": "吉姆·克拉默谈波音： “这是正确的股票，正确的时机”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-boeing-stock-time-114552695.html",
-          "title_en": "Jim Cramer on Boeing: “It’s The Right Stock, Right Time”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
-          "title": "吉姆·克雷默认为Workday新CEO“非常出色”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-considers-workday-ceo-114550365.html",
-          "title_en": "Jim Cramer Considers Workday’s New CEO “Terrific”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
-          "title": "吉姆·克拉默谈到Cloudflare：“它比许多其他竞争对手表现得要好得多”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-cloudflare-holding-much-114553354.html",
-          "title_en": "Jim Cramer on Cloudflare: “It’s Holding Up Much Better Than Many of Its Other Rivals”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
-          "title": "特朗普账户即将上线。它们适合你吗？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/trump-accounts-coming-105600824.html",
-          "title_en": "Trump Accounts Are Coming. Are They Right For You?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
-          "title": "西蒙百货（Simon Property）的股价表现如何与其他房地产股相比？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/simon-propertys-stock-performance-compared-114048065.html",
-          "title_en": "How Is Simon Property's Stock Performance Compared to Other Real Estate Stocks?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
-          "title": "詹姆斯·克雷默称卡里尔全球公司全年预测“完全有理由谨慎”。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-calls-carrier-global-114556106.html",
-          "title_en": "Jim Cramer Calls Carrier Global Corporation’s Full-Year Forecast “Justifiably a Little Cautious”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
-          "title": "吉姆·克雷默建议北欧美洲油轮股东“用房子的钱来玩”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-recommends-nordic-american-114600441.html",
-          "title_en": "Jim Cramer Recommends Nordic American Tankers Shareholder to “Play With the House’s Money”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
-          "title": "霍尼韦尔航空航天业务分离下一步，提供更多细节",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/honeywell-takes-next-step-aerospace-105700604.html",
-          "title_en": "Honeywell takes next step in aerospace spinoff, offers more details"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
-          "title": "詹姆斯·克雷默（Jim Cramer）谈到美国金银公司： “我总是要求人们在抛物线式的走势后进行一些卖出操作”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-americas-gold-silver-114557364.html",
-          "title_en": "Jim Cramer on Americas Gold and Silver Corporation: “I Always Demand That People Do Some Selling After Parabolic Moves”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
+          "time": "2026-03-07 05:00:14",
           "title": "吉姆·克拉默谈第一太阳能：\"我们得等待下一个季度才知道\"",
           "summary": "",
           "url": "https://finance.yahoo.com/news/jim-cramer-first-solar-gotta-114602465.html",
@@ -616,16 +498,106 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
-          "title": "吉姆·克拉默称赞目标公司在季度报告中表现出色，并称赞CEO交接顺利。",
+          "time": "2026-03-07 05:00:14",
+          "title": "分析报告：国际交易所股份有限公司（ICE）",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-praises-target-strong-114548403.html",
-          "title_en": "Jim Cramer Praises Target for a Strong Quarter and a Successful CEO Transition"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3074_AnalystReport_1772817571000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Intercontinental Exchange Inc"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
+          "time": "2026-03-07 05:00:14",
+          "title": "Foot Locker高管跳槽至REI",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/foot-locker-exec-jumps-rei-111300790.html",
+          "title_en": "Foot Locker exec jumps to REI"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 05:00:14",
+          "title": "吉姆·克拉默说：“我不能推荐我喜欢的股票——联合太平洋，直到它价格更低”",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-cannot-recommend-114555154.html",
+          "title_en": "Jim Cramer Says “I Cannot Recommend a Stock I Really Like, Union Pacific, Until It Goes Lower”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 05:00:14",
+          "title": "Revolut申请美国银行牌照，任命Duransoy为美国CEO",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/revolut-files-us-bank-charter-110439789.html",
+          "title_en": "Revolut files for US bank charter, names Duransoy as US CEO"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 05:00:14",
+          "title": "吉姆·克雷默建议北欧美洲油轮股东“用房子的钱来玩”",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jim-cramer-recommends-nordic-american-114600441.html",
+          "title_en": "Jim Cramer Recommends Nordic American Tankers Shareholder to “Play With the House’s Money”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 05:00:14",
+          "title": "吉姆·克拉默谈到Cloudflare：“它比许多其他竞争对手表现得要好得多”",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jim-cramer-cloudflare-holding-much-114553354.html",
+          "title_en": "Jim Cramer on Cloudflare: “It’s Holding Up Much Better Than Many of Its Other Rivals”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 05:00:14",
+          "title": "詹姆斯·克雷默称卡里尔全球公司全年预测“完全有理由谨慎”。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jim-cramer-calls-carrier-global-114556106.html",
+          "title_en": "Jim Cramer Calls Carrier Global Corporation’s Full-Year Forecast “Justifiably a Little Cautious”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 05:00:14",
+          "title": "吉姆·克拉默谈波音： “这是正确的股票，正确的时机”",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jim-cramer-boeing-stock-time-114552695.html",
+          "title_en": "Jim Cramer on Boeing: “It’s The Right Stock, Right Time”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 05:00:14",
+          "title": "西蒙百货（Simon Property）的股价表现如何与其他房地产股相比？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/simon-propertys-stock-performance-compared-114048065.html",
+          "title_en": "How Is Simon Property's Stock Performance Compared to Other Real Estate Stocks?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 05:00:14",
+          "title": "Genflow Biosciences筹集了800万英镑来资助基因治疗项目。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/genflow-biosciences-raises-800-000-111200043.html",
+          "title_en": "Genflow Biosciences raises £800,000 to fund gene therapy programmes"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 05:00:14",
+          "title": "詹姆斯·克雷默（Jim Cramer）谈到美国金银公司： “我总是要求人们在抛物线式的走势后进行一些卖出操作”",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jim-cramer-americas-gold-silver-114557364.html",
+          "title_en": "Jim Cramer on Americas Gold and Silver Corporation: “I Always Demand That People Do Some Selling After Parabolic Moves”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 05:00:14",
           "title": "吉姆·克雷默（Jim Cramer）推荐“更高质量”的股票而非奇特科技。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/jim-cramer-recommends-higher-quality-114547398.html",
@@ -634,20 +606,47 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
-          "title": "埃里克·特朗普称大银行是“最大的伪君子”，他父亲说他不会让他们破坏他的“强大的加密货币议程”。",
+          "time": "2026-03-07 05:00:14",
+          "title": "吉姆·克拉默称赞目标公司在季度报告中表现出色，并称赞CEO交接顺利。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/eric-trump-calls-big-banks-110044320.html",
-          "title_en": "Eric Trump Calls Big Banks 'The Greatest Hypocrites' After His Dad Says He Won't Let Them Undermine His 'Powerful Crypto Agenda'"
+          "url": "https://finance.yahoo.com/news/jim-cramer-praises-target-strong-114548403.html",
+          "title_en": "Jim Cramer Praises Target for a Strong Quarter and a Successful CEO Transition"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 04:55:07",
-          "title": "沃巴什推出货物保证解决方案，帮助防止货物盗窃发生",
+          "time": "2026-03-07 05:00:14",
+          "title": "吉姆·克雷默认为Workday新CEO“非常出色”",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/wabash-launches-cargo-assurance-solution-120000829.html",
-          "title_en": "Wabash launches cargo assurance solution to help prevent theft before it occurs"
+          "url": "https://finance.yahoo.com/news/jim-cramer-considers-workday-ceo-114550365.html",
+          "title_en": "Jim Cramer Considers Workday’s New CEO “Terrific”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 05:00:14",
+          "title": "食品配送战使京东首次近四年亏损",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jd-com-reports-first-loss-111100274.html",
+          "title_en": "Food-Delivery War Pushes JD.com to First Loss in Nearly Four Years"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 05:00:14",
+          "title": "全球市场暂时呼吸一口新鲜空气",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/morning-bid-global-markets-breath-121506309.html",
+          "title_en": "Morning Bid: Global markets take a breath"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 05:00:14",
+          "title": "一位女性称，标记8.7万美元的意外存款是她最大的遗憾。以下是如果您错误地花费了错误的钱会发生什么。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/woman-says-flagging-8-7m-121500455.html",
+          "title_en": "Woman says flagging $8.7M accidental deposit is her biggest regret. Here's what happens if you spend money sent in error"
         }
       ]
     }
