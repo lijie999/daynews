@@ -1,6 +1,6 @@
 {
   "date": "2026.03.06",
-  "generatedAtBJT": "2026-03-06 09:00:22",
+  "generatedAtBJT": "2026-03-06 09:23:06",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-06 09:00:22",
+          "time": "2026-03-06 09:23:06",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注道琼斯期货因特朗普加征关税和伊朗外交努力波动。\n- 宏观/Fed：关注本周五将公布2月份就业数据。\n- 科技/半导体：美国众议院委员会要求旅行公司披露使用人工智能的信息，关键词：广达（Broadcom）、芯片（chip）、CEO、更多（more）、OpenAI。\n- TSLA：关注道琼斯期货周三热点分析师研究报告。",
+          "summary": "- 地缘/避险：关注壳牌与委内瑞拉签署石油和天然气勘探协议…\n- 宏观/Fed：关注私营部门2月份新增63万个就业岗位，超出预期…\n- 科技/半导体：美国众议院委员会要求旅行公司披露使用AI的细节…",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Dow Jones Futures Waver On Trump Tariff Hike, Iran Outreach Repo…\n- 宏观/Fed：关注 The February jobs numbers are coming out Friday. Here's what to …\n- 科技/半导体：US House committee wants travel companies to disclose AI use for… 关键词: broadcom, chip, ceo, more, openai\n- TSLA：关注 Here Are Wednesday’s Top Wall Street Analyst Research Calls: Dow…"
+          "summary_en": "- 地缘/避险：关注 Shell signs oil and gas, exploration agreements with Venezuela…\n- 宏观/Fed：关注 Private sector added 63,000 jobs in February, above expectations…\n- 科技/半导体：US House committee wants travel companies to disclose AI use for… 关键词: broadcom, chip, ceo, more, openai"
         }
       ]
     },
@@ -29,11 +29,30 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
+          "time": "2026-03-06 09:23:01",
           "title": "美国众议院委员会要求旅行公司披露使用人工智能（AI）进行价格设定。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-house-committee-wants-travel-companies-to-answer-questions-on-use-of-ai-for-pricing-4544733",
           "title_en": "US House committee wants travel companies to disclose AI use for pricing"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:19:00",
+          "title": "马威股价大涨，强劲的AI驱动需求带来业绩超预期",
+          "summary": "马威的股票在周四晚间交易中上涨，受益于乐观的财报和全年财务指引。",
+          "url": "https://www.marketwatch.com/story/marvells-stock-soars-as-robust-ai-driven-demand-drives-an-earnings-beat-51574cc0?mod=mw_rss_topstories",
+          "title_en": "Marvell’s stock soars as robust AI-driven demand drives an earnings beat",
+          "summary_en": "Marvell’s stock was up in after-hours trading on Thursday after an upbeat earnings report and full-year guidance."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:14:33",
+          "title": "微软表示，Anthropic 的产品仍可供客户使用，即使被标记为存在安全风险。",
+          "summary": "",
+          "url": "https://www.cnbc.com/2026/03/05/microsoft-says-anthropics-products-can-remain-available-to-customers-after-security-risk-designation.html",
+          "title_en": "Microsoft says Anthropic's products can remain available to customers after security risk designation"
         },
         {
           "source": "MarketWatch-Top",
@@ -182,6 +201,24 @@
       "badge": "Fed / Policy",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:23:01",
+          "title": "私营部门2月份新增63万个工作岗位，超过预期，ADP称。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/private-sector-added-63-000-131823946.html",
+          "title_en": "Private sector added 63,000 jobs in February, above expectations, ADP says"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:23:01",
+          "title": "美国私营部门雇主在2月份新增63,000个工作岗位，自7月份以来表现最佳。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/adp-private-employers-added-63000-jobs-in-february-the-best-monthly-showing-since-july-132604002.html",
+          "title_en": "ADP: Private employers added 63,000 jobs in February, the best monthly showing since July"
+        },
+        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-06 03:49:12",
@@ -208,18 +245,18 @@
       "badge": "Risk / Oil / Gold",
       "items": [
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
-          "title": "道琼斯期货在特朗普关税上升和伊朗外交报告中波动",
+          "time": "2026-03-06 09:23:01",
+          "title": "皇家壳牌与委内瑞拉签署石油和天然气勘探协议",
           "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-pare-gains-trump-iran/?src=A00220&yptr=yahoo",
-          "title_en": "Dow Jones Futures Waver On Trump Tariff Hike, Iran Outreach Report"
+          "url": "https://www.investing.com/news/stock-market-news/venezuelan-govt-shell-sign-oil-deals-state-television-says-4544971",
+          "title_en": "Shell signs oil and gas, exploration agreements with Venezuela"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
+          "time": "2026-03-06 09:23:01",
           "title": "美国股指期货稳定，随着石油价格大幅上涨，华尔街的抛售继续延续。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-extends-selloff-on-oil-spike-4545860",
@@ -228,30 +265,31 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
+          "time": "2026-03-06 09:23:01",
           "title": "石油价格飙升打击航空股价，部分海湾航班谨慎恢复",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/airline-shares-rebound-as-trickle-of-middle-east-flights-resume-4542793",
           "title_en": "Oil spike hits airline shares as some Gulf flights cautiously resume"
         },
         {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
-          "title": "美伊冲突蔓延至该地区，更多的油轮遭到攻击。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/more-tankers-come-under-attack-as-usiran-conflict-spreads-in-the-region-4543982",
-          "title_en": "More tankers come under attack as US-Iran conflict spreads in the region"
-        },
-        {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-06 08:35:59",
+          "time": "2026-03-06 09:19:31",
           "title": "亚洲市场开盘低迷，跟随华尔街的损失，伊朗冲突导致油价大幅上涨",
           "summary": "昨夜，原油价格突破每桶80美元的关口，布伦特期货上涨3.54%，最后交易价格为84.31美元。",
           "url": "https://www.cnbc.com/2026/03/06/asia-markets-live-oil-prices-iran-nikkei-kospi-hang-seng.html",
           "title_en": "Asia markets open lower, tracking Wall Street losses, as Iran conflict sends oil prices soaring",
           "summary_en": "Overnight, oil prices broke through the $80 per barrel mark, with Brent futures up 3.54% and last trading at $84.31."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:08:30",
+          "title": "CNBC日报：石油价格大幅上涨，伊朗战争进入第七天",
+          "summary": "美国原油价格周四一度达到每桶80美元，伊朗战争升级至第七天，持续干扰全球燃料供应。",
+          "url": "https://www.cnbc.com/2026/03/06/cnbc-daily-open-oil-iran-war-us-israel.html",
+          "title_en": "CNBC Daily Open: Oil surges as Iran war enters seventh day",
+          "summary_en": "U.S. crude oil hit as much as $80 per barrel Thursday, as the escalating Iran war enters its seventh day and continues disrupting global fuel supplies."
         },
         {
           "source": "MarketWatch-Top",
@@ -284,7 +322,7 @@
           "summary_en": "The Senate rejected a similar war powers resolution on Wednesday, leaving President Donald Trump to pursue further action in Iran."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-06 06:08:17",
           "title": "Anthropic被DOD正式确认为供应链风险，即使Claude在伊朗使用。",
@@ -388,17 +426,7 @@
     {
       "name": "特斯拉链",
       "badge": "TSLA chain",
-      "items": [
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
-          "title": "本周三华尔街最受关注的分析师研究报告：道氏指数、First Solar、通用汽车、GitLab、Roblox、Ross Stores、Target、特斯拉、Toll Brothers等",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/wednesday-top-wall-street-analyst-125459493.html",
-          "title_en": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Dow, First Solar, GM, GitLab, Roblox, Ross Stores, Target, Tesla, Toll Brothers, and More"
-        }
-      ]
+      "items": []
     },
     {
       "name": "其他",
@@ -407,106 +435,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
-          "title": "皇家加勒比郵輪有限公司(RCL)市场情绪受令人失望的指引影响减弱",
+          "time": "2026-03-06 09:23:01",
+          "title": "高盛首选的科技、媒体和通信股有40%至100%的上涨潜力。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/market-sentiments-royal-caribbean-cruises-125349121.html",
-          "title_en": "Market Sentiments for Royal Caribbean Cruises Ltd. (RCL) Weakened by Disappointing Guidance"
+          "url": "https://finance.yahoo.com/news/goldman-sachs-top-tech-media-131656463.html",
+          "title_en": "Goldman Sachs Top Tech, Media and Telecom Picks Have 40% to 100% Upside Potential"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
-          "title": "CrowdStrike关键指标受\"Falcon Flex\"融资增长的推动",
-          "summary": "",
-          "url": "https://www.investors.com/news/technology/crowdstrike-stock-crwd-crowdstrike-earnings-q42025/?src=A00220&yptr=yahoo",
-          "title_en": "CrowdStrike Key Metric Boosted By 'Falcon Flex' Financing Growth"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
-          "title": "AXON的Q4业绩受软于预期的预订增长影响",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/softer-anticipated-bookings-growth-weighed-125602575.html",
-          "title_en": "Softer Than Anticipated Bookings Growth Weighed on Axon Enterprise (AXON) in Q4"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
-          "title": "维斯特拉(Vistra Corp.)第四季度业绩受损",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/hurt-vistra-corp-vst-q4-125831256.html",
-          "title_en": "Here’s What Hurt Vistra Corp. (VST) in Q4"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
-          "title": "消费者焦点：家庭悲观情绪增加",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/focus-consumers-household-pessimism-increases-130000504.html",
-          "title_en": "Focus on Consumers as Household Pessimism Increases"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
-          "title": "5周后，JPMorgan的短卖重点：他们是对的吗？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jpmorgan-top-short-ideas-5-125540305.html",
-          "title_en": "JPMorgan’s Top Short Ideas, 5 Weeks Later: Were They Right?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
-          "title": "我们早就告诉过你了——这些IBD50股今年领先",
-          "summary": "",
-          "url": "https://www.investors.com/etfs-and-funds/sectors/sp500-we-told-you-so-these-ibd-50-stocks-dominate-this-year/?src=A00220&yptr=yahoo",
-          "title_en": "We Told You So — These IBD 50 Stocks Dominate This Year"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
-          "title": "Veeva系统（VEEV）回落，随着管理层披露竞争损失",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/veeva-systems-veev-retreated-following-130100808.html",
-          "title_en": "Veeva Systems (VEEV) Retreated Following Management’s Competitive Losses Disclosure"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
-          "title": "AutoZone (AZO) 因高生产成本而受损的毛利率",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/autozone-azo-hurt-weak-margins-130832074.html",
-          "title_en": "AutoZone (AZO) Hurt by Weak Margins due to High Production Costs"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
-          "title": "高塔威（Hightower）收购了10亿美元的独立财富管理公司，扩大员工顾问业务。",
-          "summary": "",
-          "url": "https://www.barrons.com/advisor/articles/hightower-acquisition-journey-strategic-wealth-63dd5ea0?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Hightower Buys $5 Billion RIA, Expands Employee Advisor Unit"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
-          "title": "第四季度，联合健康（UNH）因健康支出突然上升而受到了影响。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/unexpected-surge-health-costs-impacted-131156332.html",
-          "title_en": "Unexpected Surge in Health Costs Impacted UnitedHealth (UNH) in Q4"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
+          "time": "2026-03-06 09:23:01",
           "title": "加密货币业务“从未如此强大”。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/coinbase-ceo-the-business-of-crypto-has-never-been-stronger-131831021.html",
@@ -515,16 +453,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
-          "title": "豆类价格周二早盘持续下跌",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/soybeans-easing-lower-early-wednesday-132208802.html",
-          "title_en": "Soybeans Easing Lower to Early on Wednesday"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
+          "time": "2026-03-06 09:23:01",
           "title": "玉米价格周三早盘下跌",
           "summary": "",
           "url": "https://finance.yahoo.com/news/corn-falling-lower-start-wednesday-132208648.html",
@@ -533,16 +462,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
-          "title": "Hightower Signature首次进行外部收购，收购了5亿美元的RIA Journey Strategic。",
+          "time": "2026-03-06 09:23:01",
+          "title": "豆类价格周二早盘持续下跌",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/hightower-signature-makes-first-external-130000223.html",
-          "title_en": "Hightower Signature Makes First External Acquisition With $5B RIA Journey Strategic"
+          "url": "https://finance.yahoo.com/news/soybeans-easing-lower-early-wednesday-132208802.html",
+          "title_en": "Soybeans Easing Lower to Early on Wednesday"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
+          "time": "2026-03-06 09:23:01",
           "title": "API Group Corp. (APG) 的长期EPS增长空间有多大？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/offers-api-group-corp-apg-132633156.html",
@@ -551,7 +480,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
+          "time": "2026-03-06 09:23:01",
           "title": "南方阳光基金管理公司出售了TREX公司（TREX）以寻求更有吸引力的机会。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/southernsun-sold-trex-company-trex-132813928.html",
@@ -560,11 +489,110 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:00:17",
+          "time": "2026-03-06 09:23:01",
           "title": "韦科集团2025年第四季度财报电话会议总结",
           "summary": "",
           "url": "https://finance.yahoo.com/news/weyco-group-inc-q4-2025-133000446.html",
           "title_en": "Weyco Group, Inc. Q4 2025 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:23:01",
+          "title": "格兰蒂埃拉能源公司2025年第四季度财报电话会议摘要",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/gran-tierra-energy-inc-q4-133000192.html",
+          "title_en": "Gran Tierra Energy Inc. Q4 2025 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:23:01",
+          "title": "Evolus, Inc. 2025年第四季度财报电话会议总结",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/evolus-inc-q4-2025-earnings-133000904.html",
+          "title_en": "Evolus, Inc. Q4 2025 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:23:01",
+          "title": "英国春季预测引发零售业关注，英国零售商协会表示。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/uk-spring-forecast-raises-retail-131935534.html",
+          "title_en": "UK Spring Forecast raises retail sector concerns, says BRC"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:23:01",
+          "title": "奥里恩集团控股公司2025年第四季度财报电话会议总结",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/orion-group-holdings-inc-q4-133000361.html",
+          "title_en": "Orion Group Holdings, Inc. Q4 2025 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:23:01",
+          "title": "克里库特公司2025年第四季度财报电话会议总结",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/cricut-inc-q4-2025-earnings-133000485.html",
+          "title_en": "Cricut, Inc. Q4 2025 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:23:01",
+          "title": "梅维尔工程公司2025年第四季度财报电话会议总结",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/mayville-engineering-company-inc-q4-133000999.html",
+          "title_en": "Mayville Engineering Company, Inc. Q4 2025 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:23:01",
+          "title": "东部公司第四季度2025年财报电话会议总结",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/eastern-company-q4-2025-earnings-133000372.html",
+          "title_en": "The Eastern Company Q4 2025 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:23:01",
+          "title": "MANTRA以37%的涨幅启动，随后OM代币换币",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/mantra-launches-37-rally-following-131936858.html",
+          "title_en": "MANTRA Launches With 37% Rally Following OM Token Swap"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:23:01",
+          "title": "霍利逊技术金融公司2025年第四季度财报电话会议总结",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/horizon-technology-finance-corporation-q4-133000007.html",
+          "title_en": "Horizon Technology Finance Corporation Q4 2025 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:23:01",
+          "title": "WEBTOON娱乐公司第四季度2025年财报电话会议总结",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/webtoon-entertainment-inc-common-stock-133000918.html",
+          "title_en": "WEBTOON Entertainment Inc. Common stock Q4 2025 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:23:01",
+          "title": "Cryoport, Inc. 2025年第四季度财报电话会议总结",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/cryoport-inc-q4-2025-earnings-133000354.html",
+          "title_en": "Cryoport, Inc. Q4 2025 Earnings Call Summary"
         }
       ]
     }
