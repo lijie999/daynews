@@ -1,6 +1,6 @@
 {
   "date": "2026.03.06",
-  "generatedAtBJT": "2026-03-06 23:18:52",
+  "generatedAtBJT": "2026-03-06 23:51:12",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-06 23:18:52",
+          "time": "2026-03-06 23:51:12",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 道指暴跌900点，石油价格大幅上涨\n- 宏观/Fed：关注 突发的就业报告可能推动利率下降：房贷和再融资成本将受到影响\n- 科技/半导体：自然气体股爆发，推动人工智能发展，中东局势加剧\n- TSLA：关注 美国机构将与Waymo和其他自驾公司CEO举行安全论坛",
+          "summary": "- 地缘/避险：关注石油价格大幅上涨，这3家能源股有望翻倍...\n\n- 宏观/Fed：关注旧金山联邦储备银行的达利表示，最新的就业报告使利率决策变得更加复杂...\n\n- 科技/半导体：谷歌引人注目，但资金疯狂追捧这家“挑选和放弃”的半导体巨头...",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Stock Market Today: Dow Dives 900 Points On Surging Oil, Shockin…\n- 宏观/Fed：关注 Surprise jobs report may push rates lower: Mortgage and refinanc…\n- 科技/半导体：Natural Gas Stock Ignites Breakout, Fuels AI With Middle East In… 关键词: broadcom, anthropic, growth, more, takes\n- TSLA：关注 US agency to hold self-driving safety forum with CEOs of Waymo, …"
+          "summary_en": "- 地缘/避险：关注 Oil Is Surging and These 3 Energy Stocks Could Double Your Money…\n- 宏观/Fed：关注 San Francisco Fed's Daly says jobs report complicates interest r…\n- 科技/半导体：Google Grabs Attention, But Funds Go Crazy For This 'Pick-And-Sh… 关键词: anthropic, broadcom, more, takes, altman"
         }
       ]
     },
@@ -29,29 +29,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
+          "time": "2026-03-06 23:51:08",
+          "title": "谷歌引起关注，但资金疯狂追捧这家“采石器”AI股",
+          "summary": "",
+          "url": "https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-asml-google-air-fix-jnj-merck/?src=A00220&yptr=yahoo",
+          "title_en": "Google Grabs Attention, But Funds Go Crazy For This 'Pick-And-Shovel' AI Stock"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 23:51:08",
+          "title": "H.C. Wainwright 将 SoundHound AI, Inc. (SOUN) 的目标价格降至 20 美元，并维持买入评级。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/h-c-wainwright-lowered-price-152051343.html",
+          "title_en": "H.C. Wainwright Lowered Its Price Target on SoundHound AI, Inc. (SOUN) to $20 and Maintains a Buy Rating"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 23:51:08",
           "title": "天然气股爆发，中东动荡推动AI",
           "summary": "",
           "url": "https://www.investors.com/research/ibd-stock-analysis/natural-gas-cnx-resources-lng/?src=A00220&yptr=yahoo",
           "title_en": "Natural Gas Stock Ignites Breakout, Fuels AI With Middle East In Turmoil"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "Jensen Quality增长股基金押注Broadcom（AVGO），全球人工智能建设的核心供应商。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jensen-quality-growth-equity-bets-141538189.html",
-          "title_en": "Jensen Quality Growth Equity Bets on Broadcom (AVGO), the Core Supplier in the Global AI Build-Out"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "BMO对Okta进行了升级，理由是其AI身份安全需求增加。",
+          "time": "2026-03-06 23:51:08",
+          "title": "巴克莱表示，人工智能相关的生物科技工具股的抛售过度",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/bmo-upgrades-okta-on-demand-for-ai-identity-security-4547217",
-          "title_en": "BMO upgrades Okta on demand for AI identity security"
+          "url": "https://www.investing.com/news/stock-market-news/barclays-says-ai-related-selloff-in-life-science-tool-stocks-overdone-4547319",
+          "title_en": "Barclays says AI related selloff in life science tool stocks overdone"
         },
         {
           "source": "CNBC-Tech",
@@ -94,7 +103,7 @@
           "summary_en": "Broadcom's AI revenue forecast surpassed many bullish expectations from Wall Street analysts."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-06 03:53:47",
           "title": "OpenAI的阿尔曼批评Anthropic，认为政府应该比公司更有权力。",
@@ -129,42 +138,6 @@
       "name": "美联储与政策",
       "badge": "Fed / Policy",
       "items": [
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "惊喜的就业报告可能会推动利率下降：2026年3月6日的抵押贷款和再融资利率",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-march-6-2026-110054212.html",
-          "title_en": "Surprise jobs report may push rates lower: Mortgage and refinance interest rates today, March 6, 2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "截至2026年3月5日，最佳现金市场账户利率（最高可达4.01%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-thursday-march-5-2026-110001338.html",
-          "title_en": "Best money market account rates today, March 5, 2026 (earn up to 4.01% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "截至2026年3月5日，高收益储蓄利率最高的账户为4%APY。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-thursday-march-5-2026-110029341.html",
-          "title_en": "Best high-yield savings interest rates today, March 5, 2026 (top account pays 4% APY)"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "华尔街开盘低迷，中东局势和弱乏业报告拖累",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/wall-st-opens-lower-as-middle-east-turmoil-weak-jobs-report-weigh-4547192",
-          "title_en": "Wall St opens lower as Middle East turmoil, weak jobs report weigh"
-        },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
@@ -204,29 +177,59 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "股市今日：道指暴跌900点，石油价格大涨，令人震惊的就业报告；Nvidia股价下滑（实时报道）",
+          "time": "2026-03-06 23:51:08",
+          "title": "石油价格大幅上涨，以下三家能源股有望在2027年前翻倍",
           "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-jobs-report/?src=A00220&yptr=yahoo",
-          "title_en": "Stock Market Today: Dow Dives 900 Points On Surging Oil, Shocking Jobs Report; Nvidia Slides (Live Coverage)"
+          "url": "https://finance.yahoo.com/news/oil-surging-3-energy-stocks-153737228.html",
+          "title_en": "Oil Is Surging and These 3 Energy Stocks Could Double Your Money Before 2027"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "石油价格接近90美元 因伊朗控制供应",
+          "time": "2026-03-06 23:51:08",
+          "title": "股市今日：道指暴跌700点，油价大涨，令人震惊的就业报告；Nvidia股价下滑（实时报道）",
           "summary": "",
-          "url": "https://www.investors.com/news/oil-prices-approach-90-as-iran-holds-supply-hostage/?src=A00220&yptr=yahoo",
-          "title_en": "Oil Prices Approach $90 As Iran Holds Supply Hostage"
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-jobs-report/?src=A00220&yptr=yahoo",
+          "title_en": "Stock Market Today: Dow Dives 700 Points On Surging Oil, Shocking Jobs Report; Nvidia Slides (Live Coverage)"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "特朗普称美国只接受德黑兰的“投降”",
+          "time": "2026-03-06 23:51:08",
+          "title": "联合航空因伊朗冲突导致的燃油成本飙升而受损。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/iran-conflict-latest-tehran-tel-aviv-among-targets-amid-ongoing-strikes-4546224",
-          "title_en": "Iran conflict latest: Trump says U.S. will only accept \"surrender\" from Tehran"
+          "url": "https://www.investing.com/news/stock-market-news/united-airlines-warns-fuel-cost-spike-after-iran-strike-to-hit-quarterly-results-cnbc-reports-4547015",
+          "title_en": "United Airlines sees hit to results on fuel cost spike from Iran conflict"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-06 23:29:49",
+          "title": "美伊冲突如何影响消费者财包",
+          "summary": "美国以色列对伊朗的周末袭击让市场出现了大幅波动，房贷利率上升，油价也上涨。",
+          "url": "https://www.cnbc.com/2026/03/06/us-iran-war-gas-mortgage-markets.html",
+          "title_en": "Here's how the U.S.-Iran war is already hitting consumers' pocketbooks",
+          "summary_en": "The U.S.-Israeli strikes on Iran over the weekend gave way to a week with topsy-turvy markets, spiking mortgage rates and higher prices at the pump."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-06 23:26:49",
+          "title": "特朗普称不会与伊朗达成协议结束战争，除非伊朗完全投降",
+          "summary": "全球基准布伦特原油期货价格上涨，突破每桶90美元，随着特朗普要求伊朗结束战争。",
+          "url": "https://www.cnbc.com/2026/03/06/trump-iran-oil-surrender.html",
+          "title_en": "Trump says no deal with Iran to end war without 'unconditional surrender'",
+          "summary_en": "The futures price of the global benchmark Brent crude oil rose, breaking $90 per barrel, after Trump posted his demand to Iran to end the war."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-06 23:24:38",
+          "title": "分析：难民报告让特朗普的伊朗战争计划面临考验",
+          "summary": "经济正在放缓，伊朗战争迅速推高了汽油价格。",
+          "url": "https://www.cnbc.com/2026/03/06/jobs-report-trump-iran-israel-war-economy.html",
+          "title_en": "Analysis: Tough jobs report puts Trump's Iran war plans to the test",
+          "summary_en": "The economy is showing signs of slowing as the Iran war quickly pushes up gas prices."
         },
         {
           "source": "CNBC-Top",
@@ -269,16 +272,6 @@
           "summary_en": "While regional sales will be impacted, the closing of the Strait of Hormuz and rising oil prices will have ripple effects across the global automotive industry."
         },
         {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-06 22:50:57",
-          "title": "特朗普称不会与伊朗达成协议结束战争，除非伊朗完全投降",
-          "summary": "全球基准布伦特原油期货价格上涨，突破每桶90美元，随着特朗普要求伊朗结束战争。",
-          "url": "https://www.cnbc.com/2026/03/06/trump-iran-oil-surrender.html",
-          "title_en": "Trump says no deal with Iran to end war without 'unconditional surrender'",
-          "summary_en": "The futures price of the global benchmark Brent crude oil rose, breaking $90 per barrel after Trump posted his demand to Iran to end the war."
-        },
-        {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-03-06 22:31:00",
@@ -287,36 +280,6 @@
           "url": "https://www.marketwatch.com/story/the-everybody-loses-scenario-why-the-iran-conflict-is-breaking-this-classic-portfolio-strategy-b47c298d?mod=mw_rss_topstories",
           "title_en": "The ‘everybody loses’ scenario: Why the Iran conflict is breaking this classic portfolio strategy",
           "summary_en": "Shifting correlations are a problem for investors. says Morgan Stanley."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-06 22:22:00",
-          "title": "石油价格创23个月新高，卡塔尔能源部长警告油价可能达到150美元",
-          "summary": "石油期货价格周五创下2024年夏季以来新高，伊朗冲突已经持续了七天，目前尚无迹象表明冲突会结束。",
-          "url": "https://www.marketwatch.com/story/oil-at-20-month-high-as-qatar-minister-warns-of-halt-to-energy-shipments-ffd3f8f9?mod=mw_rss_topstories",
-          "title_en": "Oil hits 23-month high as Qatar minister warns prices could reach $150",
-          "summary_en": "Oil futures were trading at their highest levels since the summer of 2024 on Friday as the Iran conflict entered a seventh day, with no sign of it ending anytime soon."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-06 22:17:00",
-          "title": "美银美林（Bank of America）策略师认为投资者应如何交易伊朗冲突",
-          "summary": "市场需要特朗普的民意调查成绩有所改善，一个策略师说。",
-          "url": "https://www.marketwatch.com/story/how-one-bank-of-america-strategist-says-investors-should-trade-the-iran-conflict-546f1f29?mod=mw_rss_topstories",
-          "title_en": "How one Bank of America strategist says investors should trade the Iran conflict",
-          "summary_en": "Markets need an improvement in Trump’s poll ratings, one strategist says."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-06 21:57:57",
-          "title": "美伊冲突如何影响消费者财包",
-          "summary": "美国以色列对伊朗的周末袭击让市场出现了大幅波动，房贷利率上升，油价也上涨。",
-          "url": "https://www.cnbc.com/2026/03/06/us-iran-war-gas-mortgage-markets.html",
-          "title_en": "Here's how the U.S.-Iran war is already hitting consumers' pocketbooks",
-          "summary_en": "The U.S.-Israeli strikes on Iran over the weekend gave way to a week with topsy-turvy markets, spiking mortgage rates and higher prices at the pump."
         },
         {
           "source": "CNBC-Top",
@@ -377,23 +340,23 @@
           "url": "https://www.cnbc.com/2026/03/06/us-india-waiver-russian-oil-iran-war-energy-supply-worries-.html",
           "title_en": "U.S. offers India a 30-day waiver for buying Russian oil as Iran war deepens energy supply worries",
           "summary_en": "U.S. has given India a waiver to buy Russian oil for 30 days as conflict in Middle East impacts global energy supply."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-06 07:28:49",
+          "title": "詹姆斯·克拉默表示市场陷入了僵局——伊朗战争并不是唯一的原因",
+          "summary": "\"没有人愿意接触半导体行业，因为政府即将对其市场进行打击,\"CNBC的吉姆·克拉默(Jim Cramer)说。",
+          "url": "https://www.cnbc.com/2026/03/05/jim-cramer-market-is-stuck-in-limbo-iran-war-isnt-only-cause.html",
+          "title_en": "Jim Cramer says the market is stuck in limbo – and the Iran war isn't the only cause",
+          "summary_en": "\"Nobody wants to touch the semis if their total addressable market is about to get clubbed by the government,\" CNBC's Jim Cramer said."
         }
       ]
     },
     {
       "name": "特斯拉链",
       "badge": "TSLA chain",
-      "items": [
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "美国政府机构将与Waymo、Zoox、Aurora等自动驾驶公司CEO举行安全论坛。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/us-agency-to-hold-selfdriving-safety-forum-with-ceos-of-waymo-zoox-aurora-4547230",
-          "title_en": "US agency to hold self-driving safety forum with CEOs of Waymo, Zoox, Aurora"
-        }
-      ]
+      "items": []
     },
     {
       "name": "其他",
@@ -402,43 +365,151 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "Sasol降级至中性评级自UBS买入评级",
+          "time": "2026-03-06 23:51:08",
+          "title": "Cinnaholic重新部署Square系统于全国连锁店",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/sasol-downgraded-neutral-buy-ubs-151559114.html",
-          "title_en": "Sasol downgraded to Neutral from Buy at UBS"
+          "url": "https://finance.yahoo.com/news/cinnaholic-redeploys-square-systems-across-154100263.html",
+          "title_en": "Cinnaholic redeploys Square systems across franchise network"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "伯克希尔·哈撒韦公司的成功秘诀是沃伦·巴菲特的“秘密酱料”。如何利用他的策略来增长你的财富",
+          "time": "2026-03-06 23:51:08",
+          "title": "沥青铺路股遭遇路障",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/warren-buffett-called-secret-sauce-150000411.html",
-          "title_en": "Warren Buffett called this the ‘secret sauce’ to his company’s success. How to use his strategy to grow your wealth"
+          "url": "https://www.investors.com/stock-lists/sector-leaders/construction-industrial-road-stock-paving-asphalt/?src=A00220&yptr=yahoo",
+          "title_en": "Asphalt Paving Stock Hits A Road Bump"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "影响Six Flags Entertainment Corporation（FUN）的因素",
+          "time": "2026-03-06 23:51:08",
+          "title": "达特普利·西罗纳（XRAY）被Ariel基金列入战略重置目标长期增长",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/impacting-six-flags-entertainment-corporation-145957703.html",
-          "title_en": "Here’s What’s Impacting Six Flags Entertainment Corporation (FUN)"
+          "url": "https://finance.yahoo.com/news/dentsply-sirona-xray-added-ariel-152632994.html",
+          "title_en": "Dentsply Sirona (XRAY) Added by Ariel Fund as Strategic Reset Targets Long-Term Growth"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "WEX正在以深度折扣交易，尽管其拥有强大优势。",
+          "time": "2026-03-06 23:51:08",
+          "title": "Sphere Entertainment Co. (SPHR) 因拉斯维加斯球场的《奥兹玛奇幻之旅》强势需求而大涨",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/wex-wex-trading-deep-discount-145256655.html",
-          "title_en": "WEX (WEX) is Trading at a Deep Discount Despite Its Strengths"
+          "url": "https://finance.yahoo.com/news/sphere-entertainment-co-sphr-rallies-152327541.html",
+          "title_en": "Sphere Entertainment Co. (SPHR) Rallies on Strong Demand for The Wizard of Oz at Las Vegas Sphere"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
+          "time": "2026-03-06 23:51:08",
+          "title": "最便宜的车险给好驾驶者",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/insurance/article/cheapest-car-insurance-good-drivers-195921258.html",
+          "title_en": "Cheapest car insurance for good drivers"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 23:51:08",
+          "title": "Stifel降低了Eos Energy Enterprises, Inc. (EOSE)的股价目标，维持买入评级。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/stifel-lowers-price-target-eos-152057523.html",
+          "title_en": "Stifel Lowers Its Price Target on Eos Energy Enterprises, Inc. (EOSE) to Maintains a Buy Rating"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 23:51:08",
+          "title": "IDEAYA生物科学公司（IDYA）启动了IDE034双向ADC的阶段1试验，首位患者入组。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/ideaya-biosciences-inc-idya-enrolls-152058419.html",
+          "title_en": "IDEAYA Biosciences, Inc. (IDYA) Enrolls First Patient in Phase 1 Trial of IDE034 Bispecific ADC"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 23:51:08",
+          "title": "H.C. Wainwright 将 CG Oncology, Inc. (CGON) 的目标价格提高至 80 美元，并维持买入评级。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/h-c-wainwright-raises-price-152055106.html",
+          "title_en": "H.C. Wainwright Raises its Price Target on CG Oncology, Inc. (CGON) to $80 and Maintains a Buy Rating"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 23:51:08",
+          "title": "库ستانی（COST）财报评分",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/costco-cost-earnings-scorecard-153615078.html",
+          "title_en": "Costco (COST) Earnings Scorecard"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 23:51:08",
+          "title": "Oppenheimer 将Tarsus Pharmaceuticals, Inc. (TARS) 的目标价提高至 $105，并维持出色评级。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/oppenheimer-raises-price-target-tarsus-152054549.html",
+          "title_en": "Oppenheimer Raises Its Price Target on Tarsus Pharmaceuticals, Inc. (TARS) to $105 and Maintains an Outperform Rating"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 23:51:08",
+          "title": "Truist 对 CoreWeave, Inc. (CRWV) 的价格目标提高至 85 美元，并维持持有评级。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/truist-raises-price-target-coreweave-152049736.html",
+          "title_en": "Truist Raises Its Price Target on CoreWeave, Inc. (CRWV) to $85 and Maintains a Hold Rating"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 23:51:08",
+          "title": "Truist将BridgeBio Pharma, Inc. (BBIO)的目标价提高至95美元，并维持买入评级。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/truist-raises-price-target-bridgebio-152052020.html",
+          "title_en": "Truist Raises Its Price Target on BridgeBio Pharma, Inc. (BBIO) to $95 and Maintains a Buy Rating"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 23:51:08",
+          "title": "沃伦·巴菲特向所有投资者推荐的这1项投资，可能会帮助您建造1000万美元的投资组合。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/warren-buffett-recommends-1-investment-153500101.html",
+          "title_en": "Warren Buffett Recommends This 1 Investment to All Investors. Here's How It Could Help Build a Million-Dollar Portfolio."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 23:51:08",
+          "title": "Guggenheim 对 Arcutis Biotherapeutics, Inc. (ARQT) 的价格目标提高至 $35，维持买入评级。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/guggenheim-raises-price-target-arcutis-152048008.html",
+          "title_en": "Guggenheim Raises Its Price Target on Arcutis Biotherapeutics, Inc. (ARQT) to $35 and Maintains a Buy Rating"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 23:51:08",
+          "title": "RBC Capital将Viridian Therapeutics, Inc. (VRDN)的目标价格降至42美元，并维持买入评级。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/rbc-capital-lowers-price-target-152046349.html",
+          "title_en": "RBC Capital Lowers Its Price Target on Viridian Therapeutics, Inc. (VRDN) to $42 and Maintains an Outperform Rating"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 23:51:08",
+          "title": "H.C. Wainwright 将 ImmunityBio, Inc. (IBRX) 的目标价格提高至 15 美元，从 10 美元，维持买入评级。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/h-c-wainwright-raised-price-152044056.html",
+          "title_en": "H.C. Wainwright Raised Its Price Target on ImmunityBio, Inc. (IBRX) to $15 from $10 and Maintains a Buy Rating"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 23:51:08",
           "title": "分析报告：美邦保险（Metlife Inc）",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3186_AnalystReport_1772798928000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -447,119 +518,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "高格公司预计2026年将实现温和增长，领导层交接继续进行。",
+          "time": "2026-03-06 23:51:08",
+          "title": "六旗出售部分乐园给EPR：谁获益？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/kroger-forecasts-modest-2026-growth-151128992.html",
-          "title_en": "Kroger forecasts modest 2026 growth as leadership transition continues"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "Owlet的令人失望的预测对2026意味着什么",
-          "summary": "",
-          "url": "https://www.investors.com/news/technology/owlet-stock-owlet-earnings-q4-2025/?src=A00220&yptr=yahoo",
-          "title_en": "Here's What Owlet's Disappointing Outlook Says For 2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "税款退还延迟影响某些州。你的州是否受影响？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refund-delays-hit-certain-states-is-yours-one-of-them-205225296.html",
-          "title_en": "Tax refund delays hit certain states. Is yours one of them?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "2026年美国最便宜的汽车保险",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/insurance/article/cheap-car-insurance-152307402.html",
-          "title_en": "Cheapest car insurance in the U.S. 2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "沃尔玛和Costco的同业销售增长速度都超过了预期，但Target和Walmart的股价却下跌。",
-          "summary": "",
-          "url": "https://www.investors.com/news/costco-earnings-q2-2026-cost-stock-retail-results-bjs-wholesale-vsco-burl/?src=A00220&yptr=yahoo",
-          "title_en": "Costco Tops Views. These Retailers Retreat On Results; One Surges."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "分析报告：Target Corp",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3440_AnalystReport_1772798928000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Target Corp"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "马威尔（MRVL）做对了很多事情，今天股价上涨16%",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/marvell-mrvl-did-things-send-151021260.html",
-          "title_en": "Marvell (MRVL) Did These Things Right to Send Shares 16% Higher Today"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "Synopsys (SNPS) 股票是否现在是一个好投资？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/synopsys-inc-snps-good-stock-144630082.html",
-          "title_en": "Is Synopsys, Inc. (SNPS) A Good Stock To Buy Now?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "巴西巴anco do Brasil推出Pix支付功能在阿根廷，瞄准扩张",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/banco-brasil-launches-pix-payment-143845308.html",
-          "title_en": "Banco do Brasil launches Pix payment feature in Argentina, eyes expansion"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "白荷煤业（Whitehaven Coal Limited，WHITF）通过进入冶金煤领域增强了其价值生成能力。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/diversification-metallurgical-coal-strengthens-whitehaven-143649782.html",
-          "title_en": "Diversification Into Metallurgical Coal Strengthens Whitehaven Coal Limited (WHITF) Value Generation Capabilities"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "2026年3月6日维克斯高管买卖推荐",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46348_InsiderActivity_1772795850000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily – Vickers Top Insider Picks for 03/06/2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "俄克西安特利石油股价在二月份飙升近17%",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/why-occidental-petroleum-stock-rocketed-150700284.html",
-          "title_en": "Why Occidental Petroleum Stock Rocketed Nearly 17% in February"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 23:18:47",
-          "title": "澳大利亚亚诺矿业(YACAF)实现了历史最高的煤炭生产和强劲的财务状况",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/yancoal-australia-ltd-yacaf-achieves-143648751.html",
-          "title_en": "Yancoal Australia Ltd (YACAF) Achieves Record Coal Production and Strong Financial Position"
+          "url": "https://finance.yahoo.com/news/six-flags-sells-parks-epr-152700948.html",
+          "title_en": "Six Flags Sells Some Parks to EPR: Who Wins?"
         }
       ]
     }
