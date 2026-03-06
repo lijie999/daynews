@@ -1,6 +1,6 @@
 {
   "date": "2026.03.06",
-  "generatedAtBJT": "2026-03-06 16:30:19",
+  "generatedAtBJT": "2026-03-06 17:00:22",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,10 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-06 16:30:19",
+          "time": "2026-03-06 17:00:22",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 Strait of Hormuz Closure Sends European Gas Benchmark Soaring…\n- 宏观/Fed：关注 Home equity rates slide, pushing HELOCs to multi-year lows…\n- 科技/半导体：Jim Cramer Notes “Keysight’s Found a Big Business With AI Data C… 关键词: broadcom, chip, more, anthropic, business",
-          "url": "#"
+          "summary": "- 地缘/避险：美国经济韧性超越伊朗局势，股市收盘高位。\n- 宏观/Fed：新技术迁徙——人工智能岗位如何推动超出市场预期的增长。\n- 科技/半导体：Western Digital和Seagate股价反弹。人工智能视频如何带来半导体需求的增长。",
+          "url": "#",
+          "summary_en": "- 地缘/避险：关注 Stocks Settle Higher as US Economic Resilience Overshadows Iran …\n- 宏观/Fed：关注 The New Tech Migration — How AI Jobs Are Fueling An Out-of-Marke…\n- 科技/半导体：Western Digital, Seagate Stocks Rebound. How AI Video Could Boos… 关键词: broadcom, demand, nvidia, anthropic, can"
         }
       ]
     },
@@ -28,34 +29,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "吉姆·克雷默注意到“凯斯威特在人工智能数据中心找到了大生意”",
+          "time": "2026-03-06 17:00:17",
+          "title": "西部数据、赛门铁斯股票反弹。人工智能视频可能会推动存储需求。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-notes-keysight-found-205151897.html",
-          "title_en": "Jim Cramer Notes “Keysight’s Found a Big Business With AI Data Centers”"
+          "url": "https://www.investors.com/news/technology/western-digital-stock-seagate-stock-rebound-ai-video/?src=A00220&yptr=yahoo",
+          "title_en": "Western Digital, Seagate Stocks Rebound. How AI Video Could Boost Storage Demand."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "谷歌与Epic Games达成协议，同意降低其应用商店的佣金",
+          "time": "2026-03-06 17:00:17",
+          "title": "布罗德كم公司(Broadcom)公布了创纪录的第一季度收入，主要受人工智能(AI)需求的推动，并宣布了10亿美元的股票回购计划。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/google-settles-epic-games-offer-210553497.html",
-          "title_en": "Google settles with Epic Games with offer to lower its app store commissions"
+          "url": "https://finance.yahoo.com/news/broadcom-reports-record-q1-revenue-212900474.html",
+          "title_en": "Broadcom reports record Q1 revenue on AI demand, unveils $10B stock buyback"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "Semtech扩大数据中心产品线",
-          "summary": "",
-          "url": "https://www.investors.com/news/technology/semtech-stock-smtc-hiefo-acquisition/?src=A00220&yptr=yahoo",
-          "title_en": "Semtech Expands Data Center Portfolio With Acquisition"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
+          "time": "2026-03-06 17:00:17",
           "title": "人工智能是否能帮你做税务？了解提示、风险和三种人工智能可以帮助的方式。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/taxes/article/can-ai-do-my-taxes-learn-prompts-risks-and-3-ways-ai-can-help-211639535.html",
@@ -64,11 +56,56 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "西部数据和塞刚股份股价反弹。人工智能视频可能带来存储需求的增长。",
+          "time": "2026-03-06 17:00:17",
+          "title": "Semtech扩大数据中心产品线",
           "summary": "",
-          "url": "https://www.investors.com/news/technology/western-digital-stock-seagate-stock-rebound-ai-video/?src=A00220&yptr=yahoo",
-          "title_en": "Western Digital, Seagate Stocks Rebound. How AI Video Could Boost Storage Demand."
+          "url": "https://www.investors.com/news/technology/semtech-stock-smtc-hiefo-acquisition/?src=A00220&yptr=yahoo",
+          "title_en": "Semtech Expands Data Center Portfolio With Acquisition"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 17:00:17",
+          "title": "英伟达投入40亿美元的激光技术，以推动下一个人工智能超级周期",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/nvidia-pumps-4-billion-laser-213000795.html",
+          "title_en": "Nvidia Pumps $4 Billion Into Laser Tech To Fuel Next AI Supercycle"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 17:00:17",
+          "title": "谷歌与Epic Games达成协议，同意降低其应用商店的佣金",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/google-settles-epic-games-offer-210553497.html",
+          "title_en": "Google settles with Epic Games with offer to lower its app store commissions"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 17:00:17",
+          "title": "Nvidia 股票的挣扎带来了这个机会。如何利用它。",
+          "summary": "",
+          "url": "https://www.barrons.com/articles/nvidia-stock-price-options-trade-21e5a468?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Nvidia Stock’s Struggles Present This Opportunity. How to Play It."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 17:00:17",
+          "title": "博通首季财报超预期，预期下季业绩更强",
+          "summary": "",
+          "url": "https://www.investors.com/news/technology/broadcom-stock-avgo-fiscal-q1-2026-earnings/?src=A00220&yptr=yahoo",
+          "title_en": "Broadcom Tops Fiscal Q1 Targets, Guides Above Views On AI Strength"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 17:00:17",
+          "title": "两只华尔街钟爱但大多数投资者尚未耳闻的人工智能股票",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/2-artificial-intelligence-ai-stocks-212700001.html",
+          "title_en": "2 Artificial Intelligence (AI) Stocks That Wall Street Loves but Most Investors Haven't Heard Of"
         },
         {
           "source": "CNBC-Tech",
@@ -159,46 +196,6 @@
           "url": "https://www.cnbc.com/2026/03/05/cloud-stocks-jump-led-by-okta.html",
           "title_en": "Cloud stocks jump, head for best day in nearly a year despite broad market declines",
           "summary_en": "The WisdomTree Cloud Computing Fund (WCLD) gained 4.5% on the session, putting the exchange-traded fund on track for its best day since April 24, 2025."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-05 21:26:19",
-          "title": "布罗德كم公司财报，人工智能的公关问题，马斯克出庭作证等早间热点。",
-          "summary": "今天市场投资者需要了解的五个关键信息。",
-          "url": "https://www.cnbc.com/2026/03/05/5-things-to-know-before-the-market-opens.html",
-          "title_en": "Broadcom earnings, AI's PR problem, Musk takes the stand and more in Morning Squawk",
-          "summary_en": "Here are five key things investors need to know to start the trading day."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-05 09:54:14",
-          "title": "布罗德كم(Broadcom)自定义AI芯片业务火热，给牛市带来了一个需要的胜利",
-          "summary": "布洛德كم公司（Broadcom）在扩展交易时间内股价上涨约5%，其财报强调了其定制芯片业务的强劲表现。",
-          "url": "https://www.cnbc.com/2026/03/04/broadcoms-custom-ai-chip-business-stays-hot-and-gives-the-bulls-a-much-needed-win-.html",
-          "title_en": "Broadcom's custom AI chip business stays hot and gives the bulls a much-needed win",
-          "summary_en": "Shares of Broadcom rose about 5% in extended trading after its earnings report underscored the strength of its custom chip business."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-05 09:45:15",
-          "title": "布罗德كمCEO霍克·坦预计明年人工智能芯片收入将达到100亿美元以上。",
-          "summary": "布罗德كم公司(Broadcom)表示，最近一季度的AI收入超过了翻倍，并预计需求将持续增长。",
-          "url": "https://www.cnbc.com/2026/03/04/broadcom-sees-ai-chip-sales-significantly-over-100-billion-in-2027.html",
-          "title_en": "Broadcom CEO Hock Tan sees AI chip revenue 'significantly' above $100 billion next year",
-          "summary_en": "Broadcom reported that AI revenue more than doubled in the latest quarter and is projecting continued growth as demand soars."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-05 06:53:45",
-          "title": "布罗德كم在收益和指南上超预期，AI收入翻倍",
-          "summary": "布罗德كم公司的AI收入跃升106%，该公司继续受基础设施支出大幅增长的利益。",
-          "url": "https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html",
-          "title_en": "Broadcom beats on earnings and guidance as AI revenue doubles",
-          "summary_en": "Broadcom's AI revenue jumped 106% as the company continues to be a big beneficiary of the boom in infrastructure spending."
         }
       ]
     },
@@ -209,11 +206,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "家庭资产负债率下滑，推动HELOC贷款利率跌至多年最低点",
+          "time": "2026-03-06 17:00:17",
+          "title": "新技术大迁徙——人工智能岗位助长了超市购物狂潮",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/home-equity-rates-slide-pushing-205416723.html",
-          "title_en": "Home equity rates slide, pushing HELOCs to multi-year lows"
+          "url": "https://finance.yahoo.com/news/tech-migration-ai-jobs-fueling-213102136.html",
+          "title_en": "The New Tech Migration — How AI Jobs Are Fueling An Out-of-Market Buying Frenzy"
         },
         {
           "source": "CNBC-Top",
@@ -244,7 +241,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
+          "time": "2026-03-06 17:00:17",
+          "title": "美国股市收盘上涨，美国经济韧性盖过伊朗冲突",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/stocks-settle-higher-us-economic-213309309.html",
+          "title_en": "Stocks Settle Higher as US Economic Resilience Overshadows Iran Conflict"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 17:00:17",
+          "title": "美联储会议前，美股指数大幅上涨",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/mortgage-rates-rise-iran-news-213000467.html",
+          "title_en": "Mortgage rates rise on Iran news, still near three-year low"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 17:00:17",
+          "title": "股市今日：道指、纳指上涨，受就业、伊朗、关税等因素影响；Nvidia上涨。",
+          "summary": "",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-nvidia-tesla-rebound/?src=A00220&yptr=yahoo",
+          "title_en": "Stock Market Today: Dow, Nasdaq Higher Amid Jobs, Iran, Tariffs; Nvidia Rises (Live Coverage)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 17:00:17",
+          "title": "伊朗战争是否为糖添加了人工甜味剂？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/sugar-artificially-sweetened-war-iran-214208153.html",
+          "title_en": "Has Sugar Been Artificially Sweetened by War in Iran?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 17:00:17",
           "title": "霍尔木兹海峡关闭导致欧洲天然气基准价格大幅上涨",
           "summary": "",
           "url": "https://finance.yahoo.com/news/strait-hormuz-closure-sends-european-210000663.html",
@@ -253,37 +286,39 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "Will Spiking Oil Prices Hurt the Stock Market?",
+          "time": "2026-03-06 17:00:17",
+          "title": "伊朗冲突推动美国借贷成本反弹",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/spiking-oil-prices-hurt-stock-205200419.html"
+          "url": "https://www.wsj.com/finance/investing/iran-conflict-spurs-rebound-in-u-s-borrowing-costs-dae8a3fc?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Iran Conflict Spurs Rebound in U.S. Borrowing Costs"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "美洲重质原油价格创下多年新高，伊朗冲突扰乱了石油市场。",
+          "time": "2026-03-06 17:00:17",
+          "title": "霍尔木兹风险导致能源运输成本大幅上涨：Oil & Gas 360",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/americas-heavy-crude-prices-hit-202920688.html",
-          "title_en": "Americas heavy crude prices hit multi-year highs as Iran conflict disrupts oil markets"
+          "url": "https://finance.yahoo.com/news/hormuz-risk-sends-energy-shipping-223019722.html",
+          "title_en": "Hormuz risk sends energy shipping costs soaring: Oil & Gas 360"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "原油价格受伊朗冲突的支持",
+          "time": "2026-03-06 17:00:17",
+          "title": "飙升的油价可能会让美联储的政策\"咬到自己手\"",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/crude-oil-prices-supported-iran-202131112.html",
-          "title_en": "Crude Oil Prices Supported by Iran Conflict"
+          "url": "https://finance.yahoo.com/news/why-surging-oil-prices-may-bite-the-hands-of-the-fed-110026136.html",
+          "title_en": "Why surging oil prices 'may bite the hands' of the Fed"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-World",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "股市今日：道指、纳指上涨，受就业、伊朗、关税等因素影响；Nvidia上涨。",
-          "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-nvidia-tesla-rebound/?src=A00220&yptr=yahoo",
-          "title_en": "Stock Market Today: Dow, Nasdaq Higher Amid Jobs, Iran, Tariffs; Nvidia Rises (Live Coverage)"
+          "time": "2026-03-06 16:52:32",
+          "title": "欧洲股市开盘高涨，石油价格波动",
+          "summary": "欧洲股市在周五早盘交易中走高。",
+          "url": "https://www.cnbc.com/2026/03/06/europe-stock-markets-stoxx-ftse-iran-oil-price.html",
+          "title_en": "European stocks open higher as oil prices oscillate",
+          "summary_en": "European stocks traded higher in early dealmaking on Friday."
         },
         {
           "source": "CNBC-Top",
@@ -294,16 +329,6 @@
           "url": "https://www.cnbc.com/2026/03/06/asia-markets-live-oil-prices-iran-nikkei-kospi-hang-seng.html",
           "title_en": "Asia markets mostly rise as investors assess Iran conflict impact on energy supplies",
           "summary_en": "Overnight, oil prices broke through the $80 per barrel mark, with Brent futures up 3.54% and last trading at $84.31."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-06 16:10:33",
-          "title": "欧洲股市开盘升高，油价放缓全球情绪良好",
-          "summary": "欧洲股市在周五早盘交易中走高。",
-          "url": "https://www.cnbc.com/2026/03/06/europe-stock-markets-stoxx-ftse-iran-oil-price.html",
-          "title_en": "European stocks open higher as easing oil prices boost global sentiment",
-          "summary_en": "European stocks traded higher in early dealmaking on Friday."
         },
         {
           "source": "CNBC-Top",
@@ -384,36 +409,6 @@
           "url": "https://www.cnbc.com/2026/03/05/anthropic-pentagon-ai-claude-iran.html",
           "title_en": "Anthropic officially told by DOD that it's a supply chain risk even as Claude used in Iran",
           "summary_en": "The formal declaration will require defense vendors and contractors to certify that they don’t use Anthropic’s models in their work with the Pentagon."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-06 06:08:13",
-          "title": "美国原油价格突破每桶80美元，伊朗战争升级导致全球燃料供应受阻。",
-          "summary": "石油价格本周已经上涨了约20%，美国与伊朗的战争席卷了中东。",
-          "url": "https://www.cnbc.com/2026/03/05/crude-oil-prices-today-iran-war.html",
-          "title_en": "U.S. crude oil tops $80 per barrel as escalating Iran war disrupts global fuel supplies",
-          "summary_en": "Oil prices have surged about 20% this week as the U.S.-Iran war engulfs the Middle East."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-06 04:49:59",
-          "title": "伊朗外长：不寻求停火，警告美军入侵将是“对他们来说的大灾难”。",
-          "summary": "伊朗外长阿拉吉奇在接受NBC新闻采访时表示，美国“未能实现其主要目标”，而对伊朗的袭击“取得了一个干净、快速的胜利”。",
-          "url": "https://www.cnbc.com/2026/03/05/iran-us-war-invasion-abbas-araghchi.html",
-          "title_en": "Iran foreign minister: Not seeking ceasefire, warns U.S. invasion would be 'big disaster for them'",
-          "summary_en": "Foreign Minister Abbas Araghchi told NBC News that the U.S. \"has failed to achieve its main goal\" by attacking Iran, \"which was a clean, rapid victory.\""
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-06 00:27:45",
-          "title": "阿马逊巴林数据中心被伊朗指控支持美国军事，官方媒体称",
-          "summary": "亚马逊表示，巴林的设施受损是由于附近的无人机袭击，阿联酋的两座数据中心直接遭到无人机袭击。",
-          "url": "https://www.cnbc.com/2026/03/04/amazon-bahrain-data-centers-targeted-iran-drone-strike.html",
-          "title_en": "Amazon's Bahrain data center targeted by Iran for support of U.S. military, state media says",
-          "summary_en": "Amazon said the Bahrain facility was damaged due to a nearby drone strike, and two data centers in the UAE were directly hit by drones."
         }
       ]
     },
@@ -429,87 +424,79 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "普京威胁切断向欧洲供应天然气",
+          "time": "2026-03-06 17:00:17",
+          "title": "莫德纳股价大涨2.3亿美元专利纠纷和解",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/war-iran-add-160-energy-172202887.html",
-          "title_en": "Putin threatens to cut off gas supplies to Europe"
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-04-2026/card/moderna-s-2-25-billion-patent-settlement-boosts-shares-oBzTCFX0hVXXUMS3bAc8?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Moderna Stock Shoots Up on $2.3 Billion Patent Settlement"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "Target begins roll out of next-day delivery to 20 more cities",
+          "time": "2026-03-06 17:00:17",
+          "title": "一名妇女如何打破依赖快速现金应用的循环： “没有办法不借钱来支付租金”",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/target-begins-roll-next-day-205232600.html"
+          "url": "https://finance.yahoo.com/news/no-way-pay-rent-without-213000060.html",
+          "title_en": "'There was no way to pay rent without another cash advance': How one woman broke the cycle of relying on quick cash apps"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "问答：皇家银行(RBC)的致富管理业务战略",
+          "time": "2026-03-06 17:00:17",
+          "title": "比特币大涨，ETF流入增加，特朗普指责银行延迟披露",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/q-rbc-strategy-double-wealth-205628960.html",
-          "title_en": "Q&A: RBC’s Strategy to Double its Wealth Management Business"
+          "url": "https://www.investors.com/news/bitcoin-price-etf-flows-trump-banks-clarity-act-genius-cathie-wood-ark-coinbase-robinhood-stock/?src=A00220&yptr=yahoo",
+          "title_en": "Bitcoin Jumps With ETF Flows, Trump Blames Banks For Clarity Delay"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "吉姆·克雷默（Jim Cramer）突出德克萨斯太平洋土地（Texas Pacific Land）为2月份表现最佳的标普500指数（S&P 500）股票。",
+          "time": "2026-03-06 17:00:17",
+          "title": "韩国一周的灾难：5540亿美元的财务危机",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-texas-pacific-205053374.html",
-          "title_en": "Jim Cramer Highlights Texas Pacific Land As The Best Performing S&P 500 Stock for February"
+          "url": "https://finance.yahoo.com/news/south-koreas-554-billion-week-212607642.html",
+          "title_en": "South Korea's $554 Billion Week From Hell"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "吉姆·克雷默注意到康宁是他“最兴奋的股票之一”。",
+          "time": "2026-03-06 17:00:17",
+          "title": "Palantir 股票技术评级改善在国防行业的反弹中",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-notes-corning-one-204855727.html",
-          "title_en": "Jim Cramer Notes That Corning Is One of the Stocks He Is “Most Excited About”"
+          "url": "https://www.investors.com/news/technology/palantir-stock-pltr-technical-ratings-defense-stocks/?src=A00220&yptr=yahoo",
+          "title_en": "Palantir Stock Technical Ratings Improve Amid Defense Sector Rally"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "詹姆斯·克拉默表达对Forgent Power的乐观态度",
+          "time": "2026-03-06 17:00:17",
+          "title": "量子计算股票：Rigetti收益符合预期，收入略低",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-shows-bullish-sentiment-150928785.html",
-          "title_en": "Jim Cramer Shows Bullish Sentiment Toward Forgent Power"
+          "url": "https://www.investors.com/news/technology/quantum-computing-stocks-rigetti-stock-rgti-earnings-q42025/?src=A00220&yptr=yahoo",
+          "title_en": "Quantum Computing Stocks: Rigetti Earnings In Line, Revenue Light"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "核心韦夫股价飙升背后驱动力是什么？",
+          "time": "2026-03-06 17:00:17",
+          "title": "在科技行业下滑的情况下，$10,000 到哪里去？看看这三个赢家行业。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/chase-perplexity-driven-rally-coreweave-204958145.html",
-          "title_en": "Should You Chase the Perplexity-Driven Rally in CoreWeave Stock?"
+          "url": "https://finance.yahoo.com/news/where-put-10-000-today-211023756.html",
+          "title_en": "Where Should You Put $10,000 Today? Look at These 3 Sectors That Are Winning While Tech Slumps."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "华尔街对FIGS的热情不减——为什么价格目标预测股价将回落？",
+          "time": "2026-03-06 17:00:17",
+          "title": "信用合作社（Credit Union）是一种非营利性金融机构，提供个人和小企业金融服务。加入信用合作社通常需要满足特定的资格条件，例如：",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/wall-street-loves-figs-why-210000620.html",
-          "title_en": "Wall Street Loves FIGS—Why Do Price Targets Predict Pullback?"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/what-is-a-credit-union-191721010.html",
+          "title_en": "What is a credit union, and how do you join one?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "吉姆·克拉默（Jim Cramer）强调了Ciena的回归到S&P 500",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-ciena-return-204756390.html",
-          "title_en": "Jim Cramer Highlights Ciena’s Return to the S&P 500"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
+          "time": "2026-03-06 17:00:17",
           "title": "莫德纳股价大涨，公司与疫苗相关的950亿美元和解案达成",
           "summary": "",
           "url": "https://www.investors.com/news/technology/moderna-stock-arbutus-biopharma-genevant-sciences-patent-settlement/?src=A00220&yptr=yahoo",
@@ -518,7 +505,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
+          "time": "2026-03-06 17:00:17",
           "title": "Citron研究机构对Sandisk股票下注了反对票。您是否应该这样做？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/citron-research-betting-against-sandisk-210201660.html",
@@ -527,65 +514,74 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "吉姆·克拉默说：“我们要对家用发电机采取行动，Generac的核心业务。”",
+          "time": "2026-03-06 17:00:17",
+          "title": "阿卡马伊加大GPU投资，是否买入、卖出或持有AKAM股票？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-going-pull-204558245.html",
-          "title_en": "Jim Cramer Says “We’re Going to Pull the Trigger on Home Generators, Generac’s Bread and Butter”"
+          "url": "https://finance.yahoo.com/news/akamai-loads-gpus-buy-sell-214543014.html",
+          "title_en": "As Akamai Loads Up on GPUs, Should You Buy, Sell, or Hold AKAM Stock?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "金融系统正在重启。各利益相关者必须适应。",
+          "time": "2026-03-06 17:00:17",
+          "title": "如果您的抵押贷款为 800 万美元，月付金额将取决于您的贷款利率和贷款期限。",
           "summary": "",
-          "url": "https://www.barrons.com/articles/the-financial-system-is-rebooting-stakeholders-must-adapt-ad040010?siteid=yhoof2&yptr=yahoo",
-          "title_en": "The Financial System Is Rebooting. Stakeholders Must Adapt."
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/monthly-payment-on-800k-mortgage-203111262.html",
+          "title_en": "How much is the monthly payment on an $800,000 mortgage?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "吉姆·克拉默（Jim Cramer）强调戴尔技术（Dell Technologies）的成功",
+          "time": "2026-03-06 17:00:17",
+          "title": "房产利息税抵免：值得吗？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-dell-technologies-204201391.html",
-          "title_en": "Jim Cramer Highlights Dell Technologies’ Success"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/mortgage-interest-deduction-180853056.html",
+          "title_en": "Mortgage interest tax deduction for homeowners: Is it worth it?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "吉姆·克拉默称“Qnity已成为我最喜欢的新股之一”",
+          "time": "2026-03-06 17:00:17",
+          "title": "NBKC银行评估（2026）：通过便捷的无费用在线银行，简化您的财务生活。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-qnity-become-204300049.html",
-          "title_en": "Jim Cramer Says “Qnity Has Become One of My Favorite New Stocks”"
+          "url": "https://finance.yahoo.com/personal-finance/banking/review/nbkc-bank-review-214617346.html",
+          "title_en": "NBKC Bank review (2026): Simplify your financial life with convenient, fee-free online banking"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "吉姆·克拉默谈到达维塔： “我还没见过这家公司在这么长时间内表现这么好”",
+          "time": "2026-03-06 17:00:17",
+          "title": "Coinbase与白宫联手反对华尔街",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-davita-haven-t-204003028.html",
-          "title_en": "Jim Cramer on DaVita: “Haven’t Seen That Stock Do That Well In This Long”"
+          "url": "https://finance.yahoo.com/news/coinbase-teams-white-house-against-220640326.html",
+          "title_en": "Coinbase Teams Up With The White House Against Wall Street"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "美国柴油价格突破每加仑4美元，燃油成本因中东冲突升高",
+          "time": "2026-03-06 17:00:17",
+          "title": "特朗普的反对者呼吁立即返还1.7万美元关税支票",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/us-diesel-hits-4-per-203746462.html",
-          "title_en": "US diesel hits $4 per gallon as fuel costs rise amid escalating Middle East conflict"
+          "url": "https://finance.yahoo.com/news/could-americans-1-700-tariff-221700078.html",
+          "title_en": "Could Americans get $1,700 tariff checks soon? Trump foes push for ‘immediate’ return. Do this if you get one"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 16:30:14",
-          "title": "特朗普是否能推翻伦敦的500亿英镑保险巨头？",
+          "time": "2026-03-06 17:00:17",
+          "title": "截至2026年3月，平均个人贷款利率为6.5%至7.5%之间。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/could-trump-topple-london-50bn-205510734.html",
-          "title_en": "Could Trump topple London’s £50bn insurance giant?"
+          "url": "https://finance.yahoo.com/news/average-personal-loan-interest-rate-005856676.html",
+          "title_en": "What is the average personal loan rate for March 2026?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 17:00:17",
+          "title": "个人贷款是否值得考虑？以下是利弊分析。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/pros-cons-personal-loans-233832623.html",
+          "title_en": "Should you get a personal loan? Here are the pros and cons"
         }
       ]
     }
