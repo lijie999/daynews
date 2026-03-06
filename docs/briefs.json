@@ -1,6 +1,6 @@
 {
   "date": "2026.03.06",
-  "generatedAtBJT": "2026-03-06 15:53:02",
+  "generatedAtBJT": "2026-03-06 16:23:40",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-06 15:53:02",
+          "time": "2026-03-06 16:23:40",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：伊朗冲突支持原油价格…\n- 宏观/Fed：家庭抵押贷款利率下滑，HELOC多年来首次降至低点…\n- 科技/半导体：Gartner称2026年人工智能支出将达2.5万亿美元。",
+          "summary": "- 地缘/避险：美洲重油价格创多年新高，伊朗冲突加剧...\n\n- 宏观/Fed：美债收益率再次上涨，美国经济指标超预期...\n\n- 科技/半导体：吉姆·克拉默注意到“Keysight的AI数据业务已经成为一个大市场，...",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Crude Oil Prices Supported by Iran Conflict…\n- 宏观/Fed：关注 Home equity rates slide, pushing HELOCs to multi-year lows…\n- 科技/半导体：Gartner Says AI Spending Will Hit $2.5 Trillion in 2026. Here Ar… 关键词: broadcom, chip, ceo, more, openai"
+          "summary_en": "- 地缘/避险：关注 Americas heavy crude prices hit multi-year highs as Iran conflic…\n- 宏观/Fed：关注 Treasury Yields Rise Again as U.S. Indicators Beat Forecast…\n- 科技/半导体：Jim Cramer Notes “Keysight’s Found a Big Business With AI Data C… 关键词: broadcom, chip, ceo, more, openai"
         }
       ]
     },
@@ -29,16 +29,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
-          "title": "高盛说，2026年人工智能支出将达到2.5万亿美元。以下三家公司最有可能受益。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/gartner-says-ai-spending-hit-194700122.html",
-          "title_en": "Gartner Says AI Spending Will Hit $2.5 Trillion in 2026. Here Are 3 Stocks That Could Benefit Most."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
+          "time": "2026-03-06 16:23:36",
           "title": "吉姆·克雷默注意到“凯斯威特在人工智能数据中心找到了大生意”",
           "summary": "",
           "url": "https://finance.yahoo.com/news/jim-cramer-notes-keysight-found-205151897.html",
@@ -47,7 +38,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
+          "time": "2026-03-06 16:23:36",
           "title": "谷歌与Epic Games达成协议，同意降低其应用商店的佣金",
           "summary": "",
           "url": "https://finance.yahoo.com/news/google-settles-epic-games-offer-210553497.html",
@@ -56,11 +47,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
+          "time": "2026-03-06 16:23:36",
           "title": "Semtech扩大数据中心产品线",
           "summary": "",
           "url": "https://www.investors.com/news/technology/semtech-stock-smtc-hiefo-acquisition/?src=A00220&yptr=yahoo",
           "title_en": "Semtech Expands Data Center Portfolio With Acquisition"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 16:23:36",
+          "title": "人工智能是否能帮你做税务？了解提示、风险和三种人工智能可以帮助的方式。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/can-ai-do-my-taxes-learn-prompts-risks-and-3-ways-ai-can-help-211639535.html",
+          "title_en": "Can AI do my taxes? Learn prompts, risks, and 3 ways AI can help."
         },
         {
           "source": "CNBC-World",
@@ -211,11 +211,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
+          "time": "2026-03-06 16:23:36",
+          "title": "美债收益率再次上涨 美指标超预期",
+          "summary": "",
+          "url": "https://www.wsj.com/finance/jgbs-edge-higher-as-investors-parse-middle-east-conflict-d84fed9e?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Treasury Yields Rise Again as U.S. Indicators Beat Forecast"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 16:23:36",
           "title": "家庭资产负债率下滑，推动HELOC贷款利率跌至多年最低点",
           "summary": "",
           "url": "https://finance.yahoo.com/news/home-equity-rates-slide-pushing-205416723.html",
           "title_en": "Home equity rates slide, pushing HELOCs to multi-year lows"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 16:23:36",
+          "title": "美联储的Beige书认为经济稳定但仍面临挑战",
+          "summary": "",
+          "url": "https://www.wsj.com/economy/central-banking/feds-beige-book-reflects-a-stable-economy-still-facing-challenges-865be0d1?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Fed’s Beige Book Sees a Stable Economy Still Facing Challenges"
         },
         {
           "source": "CNBC-Top",
@@ -246,25 +264,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
-          "title": "原油价格受伊朗冲突的支持",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/crude-oil-prices-supported-iran-202131112.html",
-          "title_en": "Crude Oil Prices Supported by Iran Conflict"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
-          "title": "全球最热门的股市正在遭受重创。伊朗战争为什么是坏消息。",
-          "summary": "",
-          "url": "https://www.barrons.com/articles/south-korea-stock-market-iran-war-oil-11517702?siteid=yhoof2&yptr=yahoo",
-          "title_en": "The World’s Hottest Stock Market Is Getting Crushed. Why the War in Iran Has Been Bad News."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
+          "time": "2026-03-06 16:23:36",
           "title": "美洲重质原油价格创下多年新高，伊朗冲突扰乱了石油市场。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/americas-heavy-crude-prices-hit-202920688.html",
@@ -273,7 +273,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
+          "time": "2026-03-06 16:23:36",
+          "title": "原油价格受伊朗冲突的支持",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/crude-oil-prices-supported-iran-202131112.html",
+          "title_en": "Crude Oil Prices Supported by Iran Conflict"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 16:23:36",
           "title": "霍尔木兹海峡关闭导致欧洲天然气基准价格大幅上涨",
           "summary": "",
           "url": "https://finance.yahoo.com/news/strait-hormuz-closure-sends-european-210000663.html",
@@ -282,22 +291,22 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-06 15:49:46",
-          "title": "亚洲市场微微上涨，伊朗冲突引发的油价担忧使投资者心跳加速",
+          "time": "2026-03-06 16:16:10",
+          "title": "亚洲市场大多数上涨，投资者评估伊朗冲突对能源供应的影响",
           "summary": "昨夜，原油价格突破每桶80美元的关口，布伦特期货上涨3.54%，最后交易价格为84.31美元。",
           "url": "https://www.cnbc.com/2026/03/06/asia-markets-live-oil-prices-iran-nikkei-kospi-hang-seng.html",
-          "title_en": "Asia markets eke out gains as Iran conflict-led oil worries keep investors jittery",
+          "title_en": "Asia markets mostly rise as investors assess Iran conflict impact on energy supplies",
           "summary_en": "Overnight, oil prices broke through the $80 per barrel mark, with Brent futures up 3.54% and last trading at $84.31."
         },
         {
           "source": "CNBC-World",
           "ticker": "RSS",
-          "time": "2026-03-06 15:41:44",
-          "title": "欧洲股市料将开盘高涨，油价放缓将推动全球市场情绪好转。",
-          "summary": "欧洲期货数据指出周五欧洲股市将开盘强劲。",
+          "time": "2026-03-06 16:10:33",
+          "title": "欧洲股市开盘升高，油价放缓全球情绪良好",
+          "summary": "欧洲股市在周五早盘交易中走高。",
           "url": "https://www.cnbc.com/2026/03/06/europe-stock-markets-stoxx-ftse-iran-oil-price.html",
-          "title_en": "European stocks poised to open higher as easing oil prices boost global sentiment",
-          "summary_en": "European futures data pointed to a positive open for regional equities on Friday."
+          "title_en": "European stocks open higher as easing oil prices boost global sentiment",
+          "summary_en": "European stocks traded higher in early dealmaking on Friday."
         },
         {
           "source": "CNBC-Top",
@@ -418,6 +427,16 @@
           "url": "https://www.cnbc.com/2026/03/05/iran-war-us-trump-middle-east-israel-uae-lebanon-pictures.html",
           "title_en": "How the Iran conflict is spreading — in pictures",
           "summary_en": "Images published Thursday showed destruction across Tehran after nearly a week of strikes on Iran's capital."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-05 22:17:53",
+          "title": "德国国防企业Renk首席执行官表示，伊朗战争可能会在中东地区带来“需求不断增加”。",
+          "summary": "中东当前冲突可能会对Renk的业务产生益处，首席执行官亚历山大·萨格尔在一次财报电话会议上表示。",
+          "url": "https://www.cnbc.com/2026/03/05/renk-r3nk-stock-war-iran-defense-middle-east.html",
+          "title_en": "German defense firm Renk CEO says Iran war could drive 'increasing demand' in the Middle East",
+          "summary_en": "The current conflict in the Middle East could benefit Renk's business, CEO Alexander Sagel said on an earnings call."
         }
       ]
     },
@@ -433,151 +452,57 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
-          "title": "健康储蓄账户（HSA）的优点和缺点：\n\n优点：\n\n1. 税收优惠：HSA贡献的金额可以在税前扣除。\n2. 自由支配：HSA持有者可以自由支配自己的资金，用于医疗费用的支付。\n3. 长期储蓄：HSA可以长期储蓄，用于未来的医疗费用的支付。\n4. 投资收益：HSA的余额可以投资于股票、债券等金融产品，产生投资收益。\n\n缺点：\n\n1. 高门槛：开设HSA需要有高级别的医疗保险计划。\n2. 费用限制：HSA的贡献金额和支出限额受到限制。\n3. 税收要求：HSA的利息和投资收益受到税收要求。\n4. 管理复杂：HSA的管理和维护需要专业知识和时间。",
+          "time": "2026-03-06 16:23:36",
+          "title": "现在买入这只增长股简直是明智的决定。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/open-health-savings-account-pros-203058001.html",
-          "title_en": "Health savings account pros and cons"
+          "url": "https://finance.yahoo.com/news/growth-stock-pure-no-brainer-204850231.html",
+          "title_en": "This Growth Stock Is a Pure No-Brainer Buy Right Now"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
-          "title": "美国银行在Costco股价上进行了调整，预计股价将在财报发布前上涨。",
+          "time": "2026-03-06 16:23:36",
+          "title": "吉姆·克雷默注意到康宁是他“最兴奋的股票之一”。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/bank-america-revamps-costco-stock-194700284.html",
-          "title_en": "Bank of America revamps Costco stock price before earnings"
+          "url": "https://finance.yahoo.com/news/jim-cramer-notes-corning-one-204855727.html",
+          "title_en": "Jim Cramer Notes That Corning Is One of the Stocks He Is “Most Excited About”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
-          "title": "ATM取款手续费通常为每笔取款的固定金额或相应的百分比。具体金额因银行或金融机构而异。",
+          "time": "2026-03-06 16:23:36",
+          "title": "Jim Cramer Shows Bullish Sentiment Toward Forgent Power",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/much-atm-fees-193031020.html",
-          "title_en": "How much are ATM fees?"
+          "url": "https://finance.yahoo.com/news/jim-cramer-shows-bullish-sentiment-150928785.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
-          "title": "下跌47%，这就是为什么英睿特会度过SaaS大灾难的原因。",
+          "time": "2026-03-06 16:23:36",
+          "title": "Jim Cramer Highlights Ciena’s Return to the S&P 500",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/down-47-heres-why-intuit-195405624.html",
-          "title_en": "Down 47%, Here's Why Intuit Will Survive the SaaS-Pocalypse."
+          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-ciena-return-204756390.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
-          "title": "AtaiBeckley Inc（ATAI）的药物候选物EMP-01在关键研究中显示出积极结果。",
+          "time": "2026-03-06 16:23:36",
+          "title": "Jim Cramer Says “We’re Going to Pull the Trigger on Home Generators, Generac’s Bread and Butter”",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ataibeckley-inc-atai-drug-candidate-103948259.html",
-          "title_en": "AtaiBeckley Inc (ATAI)’s Drug Candidate EMP-01 Shows Positive Results in Key Study"
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-going-pull-204558245.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
-          "title": "比特币价格突破7.3万美元，投资者寻找避险资产，随着Kraken的新闻，加密货币股价大幅上涨。",
+          "time": "2026-03-06 16:23:36",
+          "title": "Should You Chase the Perplexity-Driven Rally in CoreWeave Stock?",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/bitcoin-tops-73000-as-investors-look-for-a-hedge-crypto-stocks-surge-after-kraken-news-175357273.html",
-          "title_en": "Bitcoin tops $73,000 as investors look for a hedge, crypto stocks surge after Kraken news"
+          "url": "https://finance.yahoo.com/news/chase-perplexity-driven-rally-coreweave-204958145.html"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
-          "title": "国家视觉公司第四季度调整利润和每股收益增加，提供2026年财务预测",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/national-vision-adjusted-income-eps-201743964.html",
-          "title_en": "National Vision Adjusted Income & EPS Rise in Q4, Provides 2026 Outlook"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
-          "title": "天然气价格下跌，中东能源中断期望短暂",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/nat-gas-prices-sink-hopes-201942190.html",
-          "title_en": "Nat-Gas Prices Sink on Hopes Middle Eastern Energy Disruptions Will be Short"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
-          "title": "房产利息税抵免：值得吗？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/taxes/article/mortgage-interest-deduction-180853056.html",
-          "title_en": "Mortgage interest tax deduction for homeowners: Is it worth it?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
-          "title": "如果您的抵押贷款为 800 万美元，月付金额将取决于您的贷款利率和贷款期限。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/monthly-payment-on-800k-mortgage-203111262.html",
-          "title_en": "How much is the monthly payment on an $800,000 mortgage?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
-          "title": "美元受益于股市反弹的影响减弱",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/dollar-undercut-stocks-rebound-203314324.html",
-          "title_en": "Dollar Undercut as Stocks Rebound"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
-          "title": "美国证券交易委员会（SEC）刚刚划定了一条界线：为什么它阻止了高杠杆ETF",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/sec-just-drew-line-sand-203334365.html",
-          "title_en": "The SEC Just Drew a Line in the Sand: Why It's Blocking Highly Leveraged ETFs"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
-          "title": "英特尔今天上涨的原因",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/why-intel-rallied-today-195909470.html",
-          "title_en": "Why Intel Rallied Today"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
-          "title": "美国柴油价格突破每加仑4美元，燃油成本因中东冲突升高",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/us-diesel-hits-4-per-203746462.html",
-          "title_en": "US diesel hits $4 per gallon as fuel costs rise amid escalating Middle East conflict"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
-          "title": "吉姆·克拉默谈到达维塔： “我还没见过这家公司在这么长时间内表现这么好”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-davita-haven-t-204003028.html",
-          "title_en": "Jim Cramer on DaVita: “Haven’t Seen That Stock Do That Well In This Long”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
-          "title": "吉姆·克拉默（Jim Cramer）强调戴尔技术（Dell Technologies）的成功",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-dell-technologies-204201391.html",
-          "title_en": "Jim Cramer Highlights Dell Technologies’ Success"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
+          "time": "2026-03-06 16:23:36",
           "title": "吉姆·克拉默称“Qnity已成为我最喜欢的新股之一”",
           "summary": "",
           "url": "https://finance.yahoo.com/news/jim-cramer-says-qnity-become-204300049.html",
@@ -586,11 +511,97 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 15:52:55",
-          "title": "Hyperliquid的TradFi优势如何提升HYPE价格90%？新历史最高价即将来临？",
+          "time": "2026-03-06 16:23:36",
+          "title": "吉姆·克拉默谈到达维塔： “我还没见过这家公司在这么长时间内表现这么好”",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/hyperliquid-tradfi-edge-could-lift-200000961.html",
-          "title_en": "How Hyperliquid’s TradFi Edge Could Lift HYPE Price 90% — New All-Time High Coming?"
+          "url": "https://finance.yahoo.com/news/jim-cramer-davita-haven-t-204003028.html",
+          "title_en": "Jim Cramer on DaVita: “Haven’t Seen That Stock Do That Well In This Long”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 16:23:36",
+          "title": "吉姆·克雷默（Jim Cramer）突出德克萨斯太平洋土地（Texas Pacific Land）为2月份表现最佳的标普500指数（S&P 500）股票。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-texas-pacific-205053374.html",
+          "title_en": "Jim Cramer Highlights Texas Pacific Land As The Best Performing S&P 500 Stock for February"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 16:23:36",
+          "title": "Major U.S. debt holder invests in sleep fitness company",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/major-u-debt-holder-invests-205014491.html"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 16:23:36",
+          "title": "吉姆·克拉默（Jim Cramer）强调戴尔技术（Dell Technologies）的成功",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-dell-technologies-204201391.html",
+          "title_en": "Jim Cramer Highlights Dell Technologies’ Success"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 16:23:36",
+          "title": "美国柴油价格突破每加仑4美元，燃油成本因中东冲突升高",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/us-diesel-hits-4-per-203746462.html",
+          "title_en": "US diesel hits $4 per gallon as fuel costs rise amid escalating Middle East conflict"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 16:23:36",
+          "title": "Target begins roll out of next-day delivery to 20 more cities",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/target-begins-roll-next-day-205232600.html"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 16:23:36",
+          "title": "Why Orion Group Stock Dropped, Then Popped, Then Dropped Again",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/why-orion-group-stock-dropped-204752028.html"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 16:23:36",
+          "title": "如果您的抵押贷款为 800 万美元，月付金额将取决于您的贷款利率和贷款期限。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/monthly-payment-on-800k-mortgage-203111262.html",
+          "title_en": "How much is the monthly payment on an $800,000 mortgage?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 16:23:36",
+          "title": "美国证券交易委员会（SEC）刚刚划定了一条界线：为什么它阻止了高杠杆ETF",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/sec-just-drew-line-sand-203334365.html",
+          "title_en": "The SEC Just Drew a Line in the Sand: Why It's Blocking Highly Leveraged ETFs"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 16:23:36",
+          "title": "美元受益于股市反弹的影响减弱",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/dollar-undercut-stocks-rebound-203314324.html",
+          "title_en": "Dollar Undercut as Stocks Rebound"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 16:23:36",
+          "title": "Angle to shutter euro stablecoin EURA after 5-year slide from top spot",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/angle-shutter-euro-stablecoin-eura-204733399.html"
         }
       ]
     }
