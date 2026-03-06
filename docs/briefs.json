@@ -1,6 +1,6 @@
 {
   "date": "2026.03.06",
-  "generatedAtBJT": "2026-03-06 20:57:19",
+  "generatedAtBJT": "2026-03-06 21:30:14",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-06 20:57:19",
+          "time": "2026-03-06 21:30:14",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注韩国芯片业因伊朗危机可能干扰原材料供应链。\n- 宏观/Fed：关注人工智能将消灭财富管理职位，这可能是件好事。\n- 科技/半导体：Jefferies 为 CSX 提升目标价，认为铁路基础设施将带来增长。",
+          "summary": "- 地缘/避险：伊朗与伊拉克冲突影响石油和天然气供应，突显了全球经济对冲突的脆弱性。\n- 宏观/Fed：人工智能将取代财富管理职位。这可能是好事，因为它将带来更高效的服务。\n- 科技/半导体：更好的人工智能股票：Nvidia vs. AMD… 关键词：broadcom, anthropic, can, ceo, chip",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 South Korean chip industry worried Iran crisis to disrupt raw ma…\n- 宏观/Fed：关注 AI Will Eliminate Wealth Management Jobs. That May Be a Good Thi…\n- 科技/半导体：CSX Gets Target Boost from Jefferies as Rail Infrastructure Seen… 关键词: broadcom, anthropic, can, ceo, chip"
+          "summary_en": "- 地缘/避险：关注 War with Iran chokes flows of oil and natural gas, highlighting …\n- 宏观/Fed：关注 AI Will Eliminate Wealth Management Jobs. That May Be a Good Thi…\n- 科技/半导体：Better Artificial Intelligence Stock: Nvidia vs. AMD… 关键词: broadcom, anthropic, can, ceo, chip"
         }
       ]
     },
@@ -29,7 +29,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
+          "time": "2026-03-06 21:30:09",
+          "title": "人工智能股票：NVIDIA还是AMD？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/better-artificial-intelligence-stock-nvidia-012500455.html",
+          "title_en": "Better Artificial Intelligence Stock: Nvidia vs. AMD"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 21:30:09",
+          "title": "诺科米斯资本(Nokomis Capital)宣布在苹果酒店投资信托(Apple Hospitality REIT)持股，受益于马里奥特酒店(Marriott)和希尔顿酒店(Hilton Hotels)稳定的需求。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/nokomis-capital-initiates-stake-apple-013904049.html",
+          "title_en": "Nokomis Capital Initiates Stake in Apple Hospitality REIT as Marriott and Hilton Hotels Drive Steady Demand"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 21:30:09",
           "title": "CSX收到Jefferies的目标价上调，铁路基础设施被视为AI抗性。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/csx-gets-target-boost-jefferies-015201864.html",
@@ -38,20 +56,30 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
+          "time": "2026-03-06 21:30:09",
           "title": "人工智能是否能帮你做税务？了解提示、风险和三种人工智能可以帮助的方式。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/taxes/article/can-ai-do-my-taxes-learn-prompts-risks-and-3-ways-ai-can-help-211639535.html",
           "title_en": "Can AI do my taxes? Learn prompts, risks, and 3 ways AI can help."
         },
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "分析师称，AI 股票大幅下跌是对工业软件行业的不公平处罚。",
+          "time": "2026-03-06 21:30:09",
+          "title": "Magnachip Semiconductor Q4业绩电话会议亮点",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/ai-selloff-is-unfairly-penalizing-industrial-software-analyst-says-4546649",
-          "title_en": "AI sell-off is ’unfairly penalizing’ Industrial Software, analyst says"
+          "url": "https://finance.yahoo.com/news/magnachip-semiconductor-q4-earnings-call-014827442.html",
+          "title_en": "Magnachip Semiconductor Q4 Earnings Call Highlights"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-06 21:15:43",
+          "title": "三星首次透露其AI智能眼镜细节给CNBC",
+          "summary": "三星的AI智能眼镜将于2026年推出，这将是该公司进入该产品类别的首次尝试。",
+          "url": "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html",
+          "title_en": "Samsung reveals first details of its AI smart glasses to CNBC",
+          "summary_en": "Samsung's AI smart glasses will be launched in 2026 and will mark the company's first foray into the product category."
         },
         {
           "source": "MarketWatch-Top",
@@ -64,7 +92,7 @@
           "summary_en": "Anthropic is fast catching up to OpenAI as the king if AI, but it’s too soon the say it will take, and then hold, the crown."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-06 09:49:28",
           "title": "微软表示， Anthropic 的产品仍然可供客户使用，尽管 Anthropic 被 Pentagon 列入黑名单。",
@@ -152,11 +180,21 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
+          "time": "2026-03-06 21:30:09",
           "title": "人工智能将消除财富管理工作。或许这是件好事。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/ai-eliminate-wealth-management-jobs-050100648.html",
           "title_en": "AI Will Eliminate Wealth Management Jobs. That May Be a Good Thing"
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-06 21:13:34",
+          "title": "就业报告、Gap的天气问题、新的关税诉讼等在早间晨雀中",
+          "summary": "今天市场投资者需要了解的五个关键信息。",
+          "url": "https://www.cnbc.com/2026/03/06/5-things-to-know-before-the-market-opens.html",
+          "title_en": "Jobs report, Gap's weather problem, a new tariff lawsuit and more in Morning Squawk",
+          "summary_en": "Here are five key things investors need to know to start the trading day."
         },
         {
           "source": "CNBC-Top",
@@ -187,65 +225,39 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "韩国芯片业担忧伊朗危机可能干扰原材料供应，推高芯片价格",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/south-korean-chip-industry-worried-005857523.html",
-          "title_en": "South Korean chip industry worried Iran crisis to disrupt raw material supply, boost chip prices"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "标准银行提高石油价格预测至每桶74美元  因伊朗冲突",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/stanchart-hikes-oil-price-forecast-010000814.html",
-          "title_en": "StanChart Hikes Oil Price Forecast To $74 Per Barrel Amid Iran Conflict"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "股市下跌，石油价格升至2024年夏季以来最高点。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/asian-shares-jump-us-stocks-011228224.html",
-          "title_en": "Stocks drop after oil spikes to its highest price since the summer of 2024"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
+          "time": "2026-03-06 21:30:09",
           "title": "与伊朗开战阻塞了石油和天然气的流动，突出了亚洲能源安全的风险。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/war-iran-chokes-flows-oil-030740631.html",
           "title_en": "War with Iran chokes flows of oil and natural gas, highlighting energy security risks for Asia"
         },
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "伊朗冲突最新：德黑兰、特拉维夫在轰炸中受影响",
+          "time": "2026-03-06 21:30:09",
+          "title": "韩国芯片业担忧伊朗危机可能干扰原材料供应，推高芯片价格",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/iran-conflict-latest-tehran-tel-aviv-among-targets-amid-ongoing-strikes-4546224",
-          "title_en": "Iran conflict latest: Tehran, Tel Aviv among targets amid ongoing strikes"
+          "url": "https://finance.yahoo.com/news/south-korean-chip-industry-worried-042202251.html",
+          "title_en": "South Korean chip industry worried Iran crisis to disrupt raw material supply, boost chip prices"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "美国股指期货下跌，等待就业报告；油价大幅上涨影响市场情绪",
+          "time": "2026-03-06 21:30:09",
+          "title": "道指股价大涨4.5%，因摩根大通的升级评级在油价大幅上涨的背景下。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-extends-selloff-on-oil-spike-4545860",
-          "title_en": "U.S. stock futures fall ahead of payrolls; oil spike hits sentiment"
+          "url": "https://www.investing.com/news/stock-market-news/dow-stock-jumps-45-on-jpmorgan-upgrade-amid-oil-surge-4546715",
+          "title_en": "Dow stock jumps 4.5% on JPMorgan upgrade amid oil surge"
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "加拿大多伦多证券交易所(TSX)期货价格下滑，伊朗冲突降低了市场情绪。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/tsx-futures-slip-as-iran-conflict-dampens-sentiment-4546650",
-          "title_en": "TSX futures slip as Iran conflict dampens sentiment"
+          "time": "2026-03-06 21:01:34",
+          "title": "阿联酋考虑冻结伊朗资产  中东冲突升级",
+          "summary": "阿联酋正在考虑冻结在该国持有的数十亿美元的伊朗资产，这可能会切断德黑兰最关键的经济生命线。",
+          "url": "https://www.cnbc.com/2026/03/06/uae-mulls-freezing-iranian-assets-as-middle-east-conflict-escalates-wsj-.html",
+          "title_en": "UAE mulls freezing Iranian assets as Middle East conflict escalates: WSJ",
+          "summary_en": "The UAE is considering freezing billions of dollars of Iranian assets held in the Gulf state, potentially severing one of Tehran's most critical economic lifelines."
         },
         {
           "source": "CNBC-Top",
@@ -288,26 +300,6 @@
           "summary_en": "Images published Thursday showed destruction across Tehran after nearly a week of strikes on Iran's capital."
         },
         {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-06 18:45:00",
-          "title": "美国与伊朗的战争是否会使我们的电费上涨？",
-          "summary": "她在报纸上看到关于伊朗的恐怖头条。",
-          "url": "https://www.marketwatch.com/story/my-mother-refuses-to-turn-on-the-heat-will-americas-war-with-iran-really-push-up-our-utility-bills-df746548?mod=mw_rss_topstories",
-          "title_en": "‘My mother refuses to turn on the heat’: Will America’s war with Iran really push up our utility bills?",
-          "summary_en": "“She is reading alarmist headlines about Iran in the newspapers.”"
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-06 18:41:00",
-          "title": "石油价格创22个月新高，卡塔尔能源部长警告油价可能达到150美元",
-          "summary": "石油期货价格周五达到自2024年夏季以来最高水平，因为伊朗战争进入第七天，似乎还没有结束迹象。",
-          "url": "https://www.marketwatch.com/story/oil-at-20-month-high-as-qatar-minister-warns-of-halt-to-energy-shipments-ffd3f8f9?mod=mw_rss_topstories",
-          "title_en": "Oil at 22-month high as Qatar minister warns prices could reach $150",
-          "summary_en": "Oil futures traded at their highest levels since the summer of 2024 on Friday as the war against Iran entered a seventh day with no sign of it ending anytime soon."
-        },
-        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-06 18:00:01",
@@ -348,7 +340,7 @@
           "summary_en": "After years on the front lines of Russia's invasion of Ukraine, the Iranian Shahed-136 drone is at the center of Tehran's retaliation against recent U.S. strikes."
         },
         {
-          "source": "CNBC-World",
+          "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-06 13:41:08",
           "title": "美国为印度提供购买俄罗斯石油的30天豁免",
@@ -356,6 +348,56 @@
           "url": "https://www.cnbc.com/2026/03/06/us-india-waiver-russian-oil-iran-war-energy-supply-worries-.html",
           "title_en": "U.S. offers India a 30-day waiver for buying Russian oil as Iran war deepens energy supply worries",
           "summary_en": "U.S. has given India a waiver to buy Russian oil for 30 days as conflict in Middle East impacts global energy supply."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-06 07:28:49",
+          "title": "詹姆斯·克拉默表示市场陷入了僵局——伊朗战争并不是唯一的原因",
+          "summary": "\"没有人愿意接触半导体行业，因为政府即将对其市场进行打击,\"CNBC的吉姆·克拉默(Jim Cramer)说。",
+          "url": "https://www.cnbc.com/2026/03/05/jim-cramer-market-is-stuck-in-limbo-iran-war-isnt-only-cause.html",
+          "title_en": "Jim Cramer says the market is stuck in limbo – and the Iran war isn't the only cause",
+          "summary_en": "\"Nobody wants to touch the semis if their total addressable market is about to get clubbed by the government,\" CNBC's Jim Cramer said."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:08:17",
+          "title": "Anthropic被DOD正式确认为供应链风险，即使Claude在伊朗使用。",
+          "summary": "正式声明将要求国防供应商和承包商在与五角大楼的工作中确认他们没有使用 Anthropic 的模型。",
+          "url": "https://www.cnbc.com/2026/03/05/anthropic-pentagon-ai-claude-iran.html",
+          "title_en": "Anthropic officially told by DOD that it's a supply chain risk even as Claude used in Iran",
+          "summary_en": "The formal declaration will require defense vendors and contractors to certify that they don’t use Anthropic’s models in their work with the Pentagon."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-06 06:08:13",
+          "title": "美国原油价格突破每桶80美元，伊朗战争升级导致全球燃料供应受阻。",
+          "summary": "石油价格本周已经上涨了约20%，美国与伊朗的战争席卷了中东。",
+          "url": "https://www.cnbc.com/2026/03/05/crude-oil-prices-today-iran-war.html",
+          "title_en": "U.S. crude oil tops $80 per barrel as escalating Iran war disrupts global fuel supplies",
+          "summary_en": "Oil prices have surged about 20% this week as the U.S.-Iran war engulfs the Middle East."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-06 04:49:59",
+          "title": "伊朗外长：不寻求停火，警告美军入侵将是“对他们来说的大灾难”。",
+          "summary": "伊朗外长阿拉吉奇在接受NBC新闻采访时表示，美国“未能实现其主要目标”，而对伊朗的袭击“取得了一个干净、快速的胜利”。",
+          "url": "https://www.cnbc.com/2026/03/05/iran-us-war-invasion-abbas-araghchi.html",
+          "title_en": "Iran foreign minister: Not seeking ceasefire, warns U.S. invasion would be 'big disaster for them'",
+          "summary_en": "Foreign Minister Abbas Araghchi told NBC News that the U.S. \"has failed to achieve its main goal\" by attacking Iran, \"which was a clean, rapid victory.\""
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-06 03:18:57",
+          "title": "在伊朗战争震荡市场时，投资者寻求稳定性的地方",
+          "summary": "在伊朗战争和市场不确定性持续存在的情况下，财务顾问建议在不确定时期稳定收益的存款地点。",
+          "url": "https://www.cnbc.com/2026/03/05/iran-war-investors-stability.html",
+          "title_en": "Where investors can look for stability as the Iran war rattles markets",
+          "summary_en": "With an ongoing Iran war and market uncertainty, financial advisors recommend where to keep cash for stable returns in uncertain times."
         }
       ]
     },
@@ -371,124 +413,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "SSR矿业（SSRM）股价攀升15%，公司筹集1.5亿美元，转变业务重点",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/ssr-mining-ssrm-climbs-15-005413436.html",
-          "title_en": "SSR Mining (SSRM) Climbs 15% as Firm Raises $1.5B, Shifts Business Focus"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "股市表现出韧性",
-          "summary": "",
-          "url": "https://www.barrons.com/articles/tariff-refunds-stocks-today-1f446eac?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Review & Preview: Stocks Show Resilience"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "2026年3月最佳逆向抵押公司",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/best-reverse-mortgage-companies-161204700.html",
-          "title_en": "Best reverse mortgage companies of March 2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "2026年3月6日维克斯高级买家和卖家",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46349_TopBottomInsiderActivity_1772795850000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily – Vickers Top Buyers & Sellers for 03/06/2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "Moderna (MRNA) 突破 16% ，阿布图斯-基因万特法律纠纷尘埃落定",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/moderna-mrna-climbs-16-arbutus-010009367.html",
-          "title_en": "Moderna (MRNA) Climbs 16% as Arbutus-Genevant Legal Battle Clears"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "雷德维奥莱特第四季度财报电话会议亮点：",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/red-violet-q4-earnings-call-005742418.html",
-          "title_en": "Red Violet Q4 Earnings Call Highlights"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "加密货币交易平台Galaxy Digital (GLXY) 因加拿大退市和比特币大幅上涨而上涨17.7%",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/galaxy-digital-glxy-climbs-17-010224653.html",
-          "title_en": "Galaxy Digital (GLXY) Climbs 17.7% on Canada Delisting, Bitcoin Surge"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "2026年3月最佳家庭抵押贷款提供商",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/best-home-equity-loan-lenders-223817340.html",
-          "title_en": "Best home equity loan lenders of March 2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "2026年3月6日维克斯高管买卖推荐",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46348_InsiderActivity_1772795850000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily – Vickers Top Insider Picks for 03/06/2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "3月2026年最佳HELOC贷款商",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/best-heloc-lenders-223619700.html",
-          "title_en": "The best HELOC lenders of March 2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "Okta Q4财报电话会议亮点",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/okta-q4-earnings-call-highlights-005742342.html",
-          "title_en": "Okta Q4 Earnings Call Highlights"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "Citi提高Kinetik Holdings（KNTK）目标价，原因是该公司业绩超预期，展望乐观。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/citi-lifts-kinetik-holdings-kntk-011645623.html",
-          "title_en": "Citi Lifts Kinetik Holdings (KNTK) Target Following Earnings Beat and Positive Outlook"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "TELUS与AST SpaceMobile合作扩展加拿大卫星基站覆盖",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/telus-partners-ast-spacemobile-expand-012047213.html",
-          "title_en": "TELUS Partners with AST SpaceMobile to Expand Satellite-Based Cellular Coverage Across Canada"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
+          "time": "2026-03-06 21:30:09",
           "title": "美国房产4租（AMH）在租赁趋势放软的情况下引发了谨慎的分析师看法。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/american-homes-4-rent-amh-012233140.html",
@@ -497,25 +422,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "Piper Sandler降低了Bentley Systems (BSY)目标价，预计2026年服务业将反弹。",
+          "time": "2026-03-06 21:30:09",
+          "title": "3月2026年最佳HELOC贷款商",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/piper-sandler-lowers-bentley-systems-012540186.html",
-          "title_en": "Piper Sandler Lowers Bentley Systems (BSY) Target, Sees Services Rebound in 2026"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/best-heloc-lenders-223619700.html",
+          "title_en": "The best HELOC lenders of March 2026"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
-          "title": "奥米亚伯（OmniAb）第四季度财报电话会议亮点",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/omniab-q4-earnings-call-highlights-005742646.html",
-          "title_en": "OmniAb Q4 Earnings Call Highlights"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
+          "time": "2026-03-06 21:30:09",
           "title": "史蒂文斯公司对 Hormel Foods (HRL) 的看法有所改善",
           "summary": "",
           "url": "https://finance.yahoo.com/news/stephens-turns-slightly-more-positive-012903576.html",
@@ -524,11 +440,137 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 20:57:14",
+          "time": "2026-03-06 21:30:09",
+          "title": "Piper Sandler降低了Bentley Systems (BSY)目标价，预计2026年服务业将反弹。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/piper-sandler-lowers-bentley-systems-012540186.html",
+          "title_en": "Piper Sandler Lowers Bentley Systems (BSY) Target, Sees Services Rebound in 2026"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 21:30:09",
+          "title": "分析报告：Target Corp",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3440_AnalystReport_1772798928000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Target Corp"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 21:30:09",
+          "title": "2026年3月最佳家庭抵押贷款提供商",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/best-home-equity-loan-lenders-223817340.html",
+          "title_en": "Best home equity loan lenders of March 2026"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 21:30:09",
           "title": "RBC资本提高了CubeSmart（CUBE）的目标价，认为自助储存业有恢复潜力。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/rbc-capital-lifts-cubesmart-cube-013006928.html",
           "title_en": "RBC Capital Lifts CubeSmart (CUBE) Target, Sees Self-Storage Recovery Potential"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 21:30:09",
+          "title": "YieldMax的MSTR是噩梦ETF，尽管梦幻般的股息",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/yieldmax-mstr-nightmare-etf-despite-012633555.html",
+          "title_en": "YieldMax’s MSTR Is A Nightmare ETF, Despite Dreamy Dividends"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 21:30:09",
+          "title": "第五第三银行(FITB)收到摩根士丹利的目标价上调，受银行业利好影响",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/fifth-third-bancorp-fitb-gets-013319046.html",
+          "title_en": "Fifth Third Bancorp (FITB) Gets Target Boost from Morgan Stanley amid Banking Tailwinds"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 21:30:09",
+          "title": "摩根士丹利提高了亨廷顿银行 (HBAN) 的目标价，称银行业受益于行业风向",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/morgan-stanley-raises-huntington-bancshares-013534614.html",
+          "title_en": "Morgan Stanley Raises Huntington Bancshares (HBAN) Target, Cites Bank Sector Tailwinds"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 21:30:09",
+          "title": "分析报告：美邦保险（Metlife Inc）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3186_AnalystReport_1772798928000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Metlife Inc"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 21:30:09",
+          "title": "Mosaic (MOS) 被巴克莱下调评级 因地缘政治紧张局势增加成本风险",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/mosaic-mos-downgraded-barclays-geopolitical-014039631.html",
+          "title_en": "Mosaic (MOS) Downgraded by Barclays as Geopolitical Tensions Raise Cost Risks"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 21:30:09",
+          "title": "2026年3月最佳逆向抵押公司",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/best-reverse-mortgage-companies-161204700.html",
+          "title_en": "Best reverse mortgage companies of March 2026"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 21:30:09",
+          "title": "GAP收到Telsey Advisory的新目标，高于之前的目标，原因是公司的品牌复兴努力取得进展。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/gap-gets-higher-target-telsey-014433445.html",
+          "title_en": "GAP Gets Higher Target From Telsey Advisory on Brand Revitalization Efforts"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 21:30:09",
+          "title": "三菱日联下调AES评级后AES公司股价下跌",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/mizuho-downgrades-aes-10-7-014738114.html",
+          "title_en": "Mizuho Downgrades AES After $10.7 Billion Takeover Agreement"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 21:30:09",
+          "title": "2026年3月6日维克斯高管买卖推荐",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46348_InsiderActivity_1772795850000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily – Vickers Top Insider Picks for 03/06/2026"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 21:30:09",
+          "title": "摩根士丹利提高了 Kinder Morgan (KMI) 的目标价；加拿大皇家银行也提高了预测。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/kinder-morgan-kmi-gets-target-014940720.html",
+          "title_en": "Kinder Morgan (KMI) Gets Target Boost from Morgan Stanley; RBC Also Lifts Forecast"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 21:30:09",
+          "title": "沃尔玛在每家店铺推出令人惊讶的变化",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/walmart-rolls-surprising-change-every-013700065.html",
+          "title_en": "Walmart rolls out surprising change at every store"
         }
       ]
     }
