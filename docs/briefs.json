@@ -1,6 +1,6 @@
 {
   "date": "2026.03.06",
-  "generatedAtBJT": "2026-03-06 09:30:53",
+  "generatedAtBJT": "2026-03-06 09:53:40",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-06 09:30:53",
+          "time": "2026-03-06 09:53:40",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 这家石油股暴涨130%。你是否应该追随 Battalion Oil 的脚步？\n\n- 宏观/Fed：关注 ADP：私营企业在二月份新增63,000个工作岗位，创下最佳月份\n\n- 科技/半导体：美国众议院委员会要求旅行公司披露使用AI的信息。关键词：Broadcom、芯片、CEO、更多、OpenAI",
+          "summary": "- 地缘/避险：关注 这家石油股价飙升130%。你是否应该追随Battalion Oil的脚步？\n\n- 宏观/Fed：关注 加密货币公司Kraken获得了美联储的主账户，成为加密货币行业的首例。\n\n- 科技/半导体：杰克·多西的4,000份解雇通知引发恐慌，他表示小团队将负责 Broadcom 的更多项目。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 This Oil Stock Just Soared 130%. Should You Chase Battalion Oil …\n- 宏观/Fed：关注 ADP: Private employers added 63,000 jobs in February, the best m…\n- 科技/半导体：US House committee wants travel companies to disclose AI use for… 关键词: broadcom, chip, ceo, more, openai"
+          "summary_en": "- 地缘/避险：关注 This Oil Stock Just Soared 130%. Should You Chase Battalion Oil …\n- 宏观/Fed：关注 Kraken receives Fed master account, in a first for crypto…\n- 科技/半导体：Jack Dorsey’s 4,000 pink slips spark panic as he says small team… 关键词: broadcom, cramer, jim, more, about"
         }
       ]
     },
@@ -27,23 +27,86 @@
       "badge": "Mag7 / Semis",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:53:35",
+          "title": "杰克·多斯利的4,000份粉红色解雇通知引发恐慌，他说小团队将“通过AI做得更好”。如何保护自己",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jack-dorsey-4-000-pink-145500355.html",
+          "title_en": "Jack Dorsey’s 4,000 pink slips spark panic as he says small teams will ‘do it better' with AI. How to protect yourself"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:53:35",
+          "title": "数据中心供应商因光纤电缆需求而超额盈利。股价下跌。",
+          "summary": "",
+          "url": "https://www.investors.com/news/technology/data-center-dycom/?src=A00220&yptr=yahoo",
+          "title_en": "Data Center Vendor Beats Earnings On Fiber Optic Cable Demand. Shares Dip."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:53:35",
+          "title": "詹姆斯·克拉默（Jim Cramer）谈到加特纳（Gartner）：在人工智能平台遍布的世界里，华尔街认为他们的专业知识价值会降低。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jim-cramer-gartner-world-where-150809885.html",
+          "title_en": "Jim Cramer on Gartner: “In a World Where AI Platforms Are Ubiquitous, Wall Street Figures Their Specific Expertise Is Less Valuable”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:53:35",
+          "title": "吉姆·克拉默谈到CoStar Group：“我非常担忧的另一个AI受害者”",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jim-cramer-costar-group-another-150808023.html",
+          "title_en": "Jim Cramer on CoStar Group: “Another Victim of AI That I Am Very Concerned About”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:53:35",
+          "title": "CoreWeave获得新一轮AI云计算合同，股价跳涨5.7%",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/coreweave-lands-perplexity-ai-cloud-135930966.html",
+          "title_en": "CoreWeave Lands Perplexity in New AI Cloud Deal, Stock Jumps 5.7% Pre-Market"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:53:35",
+          "title": "吉姆·克拉默称他对微软“非常担忧”",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-very-worried-150919456.html",
+          "title_en": "Jim Cramer Says He Is “Very Worried About Microsoft”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:53:35",
+          "title": "谷歌股票：如何找到并拥有美国最大的机会",
+          "summary": "",
+          "url": "https://www.investors.com/how-to-invest/google-googl-alphabet-stock-americas-greatest-opportunities/?src=A00220&yptr=yahoo",
+          "title_en": "Google Stock: How To Find & Own America's Greatest Opportunities"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
+          "time": "2026-03-06 09:53:35",
           "title": "美国众议院委员会要求旅行公司披露使用人工智能（AI）进行价格设定。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-house-committee-wants-travel-companies-to-answer-questions-on-use-of-ai-for-pricing-4544733",
           "title_en": "US House committee wants travel companies to disclose AI use for pricing"
         },
         {
-          "source": "CNBC-Tech",
+          "source": "CNBC-World",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:29",
-          "title": "微软表示，Anthropic的产品可以在供应链风险标签后仍然可供客户使用。",
-          "summary": "去年，微软（Microsoft）作为美国政府的主要技术供应商，将Anthropic模型整合到了其产品中。",
+          "time": "2026-03-06 09:49:28",
+          "title": "微软表示， Anthropic 的产品仍然可供客户使用，尽管 Anthropic 被 Pentagon 列入黑名单。",
+          "summary": "微软成为第一家大型公司，宣布将继续在其产品中使用Anthropic模型。",
           "url": "https://www.cnbc.com/2026/03/05/microsoft-says-anthropics-products-can-remain-available-to-customers-after-security-risk-designation.html",
-          "title_en": "Microsoft says Anthropic's products can remain available to customers after supply chain risk designation",
-          "summary_en": "Last year Microsoft, a major technology provider for the U.S. government, incorporated Anthropic models into its products."
+          "title_en": "Microsoft says Anthropic’s products remain available to customers after Pentagon blacklist",
+          "summary_en": "Microsoft is the first major company to say it will keep using Anthropic models in its products."
         },
         {
           "source": "CNBC-Top",
@@ -116,7 +179,7 @@
           "summary_en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading."
         },
         {
-          "source": "CNBC-World",
+          "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-06 00:56:12",
           "title": "云计算股价大涨，冲刺近一年来的最佳交易日，尽管市场整体下跌。",
@@ -134,66 +197,6 @@
           "url": "https://www.cnbc.com/2026/03/05/5-things-to-know-before-the-market-opens.html",
           "title_en": "Broadcom earnings, AI's PR problem, Musk takes the stand and more in Morning Squawk",
           "summary_en": "Here are five key things investors need to know to start the trading day."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-05 09:54:14",
-          "title": "布罗德كم(Broadcom)自定义AI芯片业务火热，给牛市带来了一个需要的胜利",
-          "summary": "布洛德كم公司（Broadcom）在扩展交易时间内股价上涨约5%，其财报强调了其定制芯片业务的强劲表现。",
-          "url": "https://www.cnbc.com/2026/03/04/broadcoms-custom-ai-chip-business-stays-hot-and-gives-the-bulls-a-much-needed-win-.html",
-          "title_en": "Broadcom's custom AI chip business stays hot and gives the bulls a much-needed win",
-          "summary_en": "Shares of Broadcom rose about 5% in extended trading after its earnings report underscored the strength of its custom chip business."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-05 09:45:15",
-          "title": "布罗德كمCEO霍克·坦预计明年人工智能芯片收入将达到100亿美元以上。",
-          "summary": "布罗德كم公司(Broadcom)表示，最近一季度的AI收入超过了翻倍，并预计需求将持续增长。",
-          "url": "https://www.cnbc.com/2026/03/04/broadcom-sees-ai-chip-sales-significantly-over-100-billion-in-2027.html",
-          "title_en": "Broadcom CEO Hock Tan sees AI chip revenue 'significantly' above $100 billion next year",
-          "summary_en": "Broadcom reported that AI revenue more than doubled in the latest quarter and is projecting continued growth as demand soars."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-05 06:53:45",
-          "title": "布罗德كم在收益和指南上超预期，AI收入翻倍",
-          "summary": "布罗德كم公司的AI收入跃升106%，该公司继续受基础设施支出大幅增长的利益。",
-          "url": "https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html",
-          "title_en": "Broadcom beats on earnings and guidance as AI revenue doubles",
-          "summary_en": "Broadcom's AI revenue jumped 106% as the company continues to be a big beneficiary of the boom in infrastructure spending."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-05 05:09:04",
-          "title": "Nvidia CEO 亨利·梅森·休恩表示，Nvidia对OpenAI的30亿美元投资\"可能是最后一次\"。",
-          "summary": "黄也提到，Nvidia在OpenAI竞争对手Anthropic的10亿美元投资很可能是最后一次。",
-          "url": "https://www.cnbc.com/2026/03/04/nvidia-huang-openai-investment.html",
-          "title_en": "Nvidia CEO Huang says $30 billion OpenAI investment 'might be the last'",
-          "summary_en": "Huang also mentioned that Nvidia's $10 billion investment in OpenAI rival Anthropic would likely be its last."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-05 04:19:30",
-          "title": "谷歌的AI聊天机器人被指控曾经告诉用户要策划“大规模伤亡事件”，一项不当死亡诉讼声称。",
-          "summary": "谷歌被指诱导儿子自杀",
-          "url": "https://www.cnbc.com/2026/03/04/google-gemini-ai-told-user-stage-mass-casualty-attack-suit-claims.html",
-          "title_en": "Google's AI chatbot allegedly told user to stage 'mass casualty attack,' wrongful death suit claims",
-          "summary_en": "The father of Jonathan Gavalas accused Google of convincing his son to commit suicide after first encouraging him to execute a \"mass casualty attack.\""
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-05 03:47:34",
-          "title": "苹果宣布推出MacBook Neo，价格最便宜的笔记本电脑",
-          "summary": "苹果新款MacBook Neo为公司带来了最便宜的笔记本电脑，让Mac系列有了一个-budget的入口。",
-          "url": "https://www.cnbc.com/2026/03/04/apple-macbook-neo-budget-laptop.html",
-          "title_en": "Apple announces MacBook Neo, its most affordable laptop ever",
-          "summary_en": "Apple’s new MacBook Neo gives the company its cheapest laptop ever, creating a budget entry into the Mac lineup."
         }
       ]
     },
@@ -204,11 +207,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
-          "title": "美国私营部门雇主在2月份新增63,000个工作岗位，自7月份以来表现最佳。",
+          "time": "2026-03-06 09:53:35",
+          "title": "加密交易平台Kraken获得了美联储的主账户，这是加密领域的首例。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/adp-private-employers-added-63000-jobs-in-february-the-best-monthly-showing-since-july-132604002.html",
-          "title_en": "ADP: Private employers added 63,000 jobs in February, the best monthly showing since July"
+          "url": "https://finance.yahoo.com/news/kraken-receives-fed-master-account-135358612.html",
+          "title_en": "Kraken receives Fed master account, in a first for crypto"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:53:35",
+          "title": "Cherry Hill Mortgage：15.2%的股息收益率符合增长潜力——季度报告更新",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/cherry-hill-mortgage-15-2-151038919.html",
+          "title_en": "Cherry Hill Mortgage: 15.2% Dividend Yield Meets Growth Potential – Quarterly Update Report"
         },
         {
           "source": "CNBC-Top",
@@ -239,16 +251,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
+          "time": "2026-03-06 09:53:35",
           "title": "这家石油股刚刚暴涨130%。你是否应该追随Battalion Oil？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/oil-stock-just-soared-130-141935705.html",
           "title_en": "This Oil Stock Just Soared 130%. Should You Chase Battalion Oil Here?"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-06 09:53:35",
+          "title": "股市得益于伊朗战争结束的希望",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/stocks-supported-hopes-swift-end-150803553.html",
+          "title_en": "Stocks Supported by Hopes for a Swift End to Iran War"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
+          "time": "2026-03-06 09:53:35",
           "title": "皇家壳牌与委内瑞拉签署石油和天然气勘探协议",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/venezuelan-govt-shell-sign-oil-deals-state-television-says-4544971",
@@ -257,7 +278,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
+          "time": "2026-03-06 09:53:35",
           "title": "美国股指期货稳定，随着石油价格大幅上涨，华尔街的抛售继续延续。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-extends-selloff-on-oil-spike-4545860",
@@ -266,7 +287,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
+          "time": "2026-03-06 09:53:35",
           "title": "石油价格飙升打击航空股价，部分海湾航班谨慎恢复",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/airline-shares-rebound-as-trickle-of-middle-east-flights-resume-4542793",
@@ -353,16 +374,6 @@
           "summary_en": "Foreign Minister Abbas Araghchi told NBC News that the U.S. \"has failed to achieve its main goal\" by attacking Iran, \"which was a clean, rapid victory.\""
         },
         {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-06 01:00:00",
-          "title": "即将退休的投资者应关注伊朗战争和市场动荡对他们投资组合的潜在影响。",
-          "summary": "市场波动可能不会让长期投资者感到担忧，但对于即将退休的人来说，它可能是一个值得关注的警示信号。",
-          "url": "https://www.cnbc.com/2026/03/05/iran-war-market-volatility-retirement.html",
-          "title_en": "What the Iran war market turmoil means for those nearing retirement",
-          "summary_en": "Market shakiness may not concern long-term investors, but it could be a useful wake-up call for those on the precipice of retirement, experts say."
-        },
-        {
           "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-06 00:56:19",
@@ -405,12 +416,12 @@
         {
           "source": "CNBC-World",
           "ticker": "RSS",
-          "time": "2026-03-05 22:17:53",
-          "title": "德国国防企业Renk首席执行官表示，伊朗战争可能会在中东地区带来“需求不断增加”。",
-          "summary": "中东当前冲突可能会对Renk的业务产生益处，首席执行官亚历山大·萨格尔在一次财报电话会议上表示。",
-          "url": "https://www.cnbc.com/2026/03/05/renk-r3nk-stock-war-iran-defense-middle-east.html",
-          "title_en": "German defense firm Renk CEO says Iran war could drive 'increasing demand' in the Middle East",
-          "summary_en": "The current conflict in the Middle East could benefit Renk's business, CEO Alexander Sagel said on an earnings call."
+          "time": "2026-03-05 22:34:39",
+          "title": "伊朗冲突如何蔓延——图片",
+          "summary": "周四发布的图片显示，伊朗首都德黑兰近一个星期遭到袭击后遭到严重破坏。",
+          "url": "https://www.cnbc.com/2026/03/05/iran-war-us-trump-middle-east-israel-uae-lebanon-pictures.html",
+          "title_en": "How the Iran conflict is spreading — in pictures",
+          "summary_en": "Images published Thursday showed destruction across Tehran after nearly a week of strikes on Iran's capital."
         }
       ]
     },
@@ -426,164 +437,164 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
-          "title": "API Group Corp. (APG) 的长期EPS增长空间有多大？",
+          "time": "2026-03-06 09:53:35",
+          "title": "德国建筑公司德国建筑公司（DPR）在硅谷开设了新总部，并建立了一个技术先进的预制实验室。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/offers-api-group-corp-apg-132633156.html",
-          "title_en": "What Offers Api Group Corp. (APG) a Long Runway for Double-Digit EPS Growth?"
+          "url": "https://finance.yahoo.com/news/dpr-opens-silicon-valley-hq-135100282.html",
+          "title_en": "DPR opens new Silicon Valley HQ, establishes tech-forward prefab lab"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
-          "title": "南方阳光基金管理公司出售了TREX公司（TREX）以寻求更有吸引力的机会。",
+          "time": "2026-03-06 09:53:35",
+          "title": "微芯技术股票：MCHP是否优于技术行业？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/southernsun-sold-trex-company-trex-132813928.html",
-          "title_en": "SouthernSun Sold TREX Company (TREX) for More Attractive Opportunities"
+          "url": "https://finance.yahoo.com/news/microchip-technology-stock-mchp-outperforming-135201246.html",
+          "title_en": "Microchip Technology Stock: Is MCHP Outperforming the Technology Sector?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
-          "title": "费雷罗(Ferrero)撤销集团首席执行官职位，进行管理调整",
+          "time": "2026-03-06 09:53:35",
+          "title": "PNC金融服务股是否低于纳斯达克的表现？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ferrero-removes-group-ceo-role-132814849.html",
-          "title_en": "Ferrero removes group CEO role in management rejig"
+          "url": "https://finance.yahoo.com/news/pnc-financial-services-stock-underperforming-141413944.html",
+          "title_en": "Is PNC Financial Services Stock Underperforming the Nasdaq?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
-          "title": "格兰蒂埃拉能源公司2025年第四季度财报电话会议摘要",
+          "time": "2026-03-06 09:53:35",
+          "title": "安全避风港（Safe Haven）指的是在市场动荡或经济不稳定时，投资者往往选择的稳定资产，如黄金、美元、政府债券等。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/gran-tierra-energy-inc-q4-133000192.html",
-          "title_en": "Gran Tierra Energy Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/whats-a-safe-haven-and-should-you-invest-in-one-194545990.html",
+          "title_en": "What's a safe haven, and should you invest in one?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
-          "title": "Evolus, Inc. 2025年第四季度财报电话会议总结",
+          "time": "2026-03-06 09:53:35",
+          "title": "CrowdStrike保持稳定，周三未受影响，而GitLab则因财报大跌9%",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/evolus-inc-q4-2025-earnings-133000904.html",
-          "title_en": "Evolus, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/crowdstrike-holds-steady-wednesday-while-135355919.html",
+          "title_en": "CrowdStrike Holds Steady on Wednesday While GitLab Plunges 9% After Earnings"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
-          "title": "韦科集团2025年第四季度财报电话会议总结",
+          "time": "2026-03-06 09:53:35",
+          "title": "美国和英国在加密协作上出现分歧，消息人士透露。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/weyco-group-inc-q4-2025-133000446.html",
-          "title_en": "Weyco Group, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/us-britain-split-over-crypto-142131608.html",
+          "title_en": "US and Britain split over crypto collaboration, sources say"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
-          "title": "霍利逊技术金融公司2025年第四季度财报电话会议总结",
+          "time": "2026-03-06 09:53:35",
+          "title": "莫德纳股价上涨，公司与COVID疫苗专利纠纷达成协议，最高可达225亿美元，消除不确定性",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/horizon-technology-finance-corporation-q4-133000007.html",
-          "title_en": "Horizon Technology Finance Corporation Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/moderna-rises-2-25-billion-132602379.html",
+          "title_en": "Moderna rises as up to $2.25 billion settlement for COVID vaccine patent dispute to remove overhang"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
-          "title": "Cyclops获得8千万美元资金，以为支付公司建立稳定币基础设施。",
+          "time": "2026-03-06 09:53:35",
+          "title": "Avantus完成亚利桑那州太阳能+储能项目融资",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/exclusive-cyclops-raises-8-million-133000032.html",
-          "title_en": "Exclusive: Cyclops raises $8 million to build stablecoin infrastructure for payments companies"
+          "url": "https://finance.yahoo.com/news/avantus-closes-financing-solar-plus-143512467.html",
+          "title_en": "Avantus Closes Financing for Solar-Plus-Storage Project in Arizona"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
-          "title": "奥里恩集团控股公司2025年第四季度财报电话会议总结",
+          "time": "2026-03-06 09:53:35",
+          "title": "特朗普下令为美军支持的海上保险和海军护航为美中东航运提供保障",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/orion-group-holdings-inc-q4-133000361.html",
-          "title_en": "Orion Group Holdings, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/trump-orders-u-backed-insurance-150000570.html",
+          "title_en": "Trump Orders U.S.-Backed Insurance and Navy Escorts for Gulf Shipping"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
-          "title": "东部公司第四季度2025年财报电话会议总结",
+          "time": "2026-03-06 09:53:35",
+          "title": "佛罗里达男子称自己以为房子已经还清，但后来才发现有一个隐藏的逆向抵押贷款。然后他被起诉了190万美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/eastern-company-q4-2025-earnings-133000372.html",
-          "title_en": "The Eastern Company Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/florida-retiree-says-thought-home-150000589.html",
+          "title_en": "Florida man says he thought home was paid off before learning of hidden reverse mortgage. Then he was sued for $190K"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
-          "title": "Accel Entertainment, Inc. 2025年第四季度财报电话会议总结",
+          "time": "2026-03-06 09:53:35",
+          "title": "摩根、CAPREIT和Core Spaces购置公寓",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/accel-entertainment-inc-q4-2025-133000546.html",
-          "title_en": "Accel Entertainment, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/morgan-capreit-core-spaces-apartment-135400821.html",
+          "title_en": "Morgan, CAPREIT, Core Spaces make apartment buys"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
-          "title": "梅维尔工程公司2025年第四季度财报电话会议总结",
+          "time": "2026-03-06 09:53:35",
+          "title": "吉姆·克拉默谈到霍梅特：这东西绝不放弃",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/mayville-engineering-company-inc-q4-133000999.html",
-          "title_en": "Mayville Engineering Company, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/jim-cramer-howmet-thing-no-150805380.html",
+          "title_en": "Jim Cramer on Howmet: “This Thing Has No Quit In It”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
-          "title": "海斯勒-亚力材料处理公司第四季度2025年财报电话会议总结",
+          "time": "2026-03-06 09:53:35",
+          "title": "吉姆·克雷默谈到EPAM：“EPAM的情况在公司2月中旬发布财报后变得更糟”",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/hyster-yale-materials-handling-inc-133000521.html",
-          "title_en": "Hyster-Yale Materials Handling, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/jim-cramer-epam-things-got-150806951.html",
+          "title_en": "Jim Cramer on EPAM: “Things Got Worse for EPAM Specifically When the Company Reported Mid-February”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
-          "title": "克里库特公司2025年第四季度财报电话会议总结",
+          "time": "2026-03-06 09:53:35",
+          "title": "吉姆·克拉默对Workday的看法：“老朋友，但不是了”。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/cricut-inc-q4-2025-earnings-133000485.html",
-          "title_en": "Cricut, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/jim-cramer-workday-old-favorite-150811962.html",
+          "title_en": "Jim Cramer on Workday: “An Old Favorite, But Not Anymore”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
-          "title": "巴思&体验工厂2026年第四季度财报电话会议总结",
+          "time": "2026-03-06 09:53:35",
+          "title": "吉姆克拉默解释了为什么Ares Management、KKR和阿波罗“步调一致”",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/bath-body-works-inc-q4-133000263.html",
-          "title_en": "Bath & Body Works, Inc. Q4 2026 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/jim-cramer-explains-why-ares-150812825.html",
+          "title_en": "Jim Cramer Explains Why Ares Management, KKR and Apollo “Traded in Lockstep”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
-          "title": "CrowdStrike Holdings, Inc. Q4 2026年财报电话会议总结",
+          "time": "2026-03-06 09:53:35",
+          "title": "吉姆·克拉默在福克斯公司（Fox Corporation）上说：“我觉得这也太便宜了，太便宜了”",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/crowdstrike-holdings-inc-q4-2026-133000582.html",
-          "title_en": "CrowdStrike Holdings, Inc. Q4 2026 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/jim-cramer-fox-corporation-think-150815115.html",
+          "title_en": "Jim Cramer on Fox Corporation: “I Think That’s Pretty Cheap, Too Cheap”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
-          "title": "Quantum-Si Incorporated第四季度2025年财报电话会议总结",
+          "time": "2026-03-06 09:53:35",
+          "title": "吉姆·克拉默谈到罗宾汉：他们拥有未来",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/quantum-si-incorporated-q4-2025-133000922.html",
-          "title_en": "Quantum-Si incorporated Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/jim-cramer-robinhood-own-future-150814145.html",
+          "title_en": "Jim Cramer on Robinhood: “They Own the Future”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-06 09:30:49",
-          "title": "WEBTOON娱乐公司第四季度2025年财报电话会议总结",
+          "time": "2026-03-06 09:53:35",
+          "title": "Abercrombie & Fitch保持了第四季度的销售动力，预见未来更大的增长",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/webtoon-entertainment-inc-common-stock-133000918.html",
-          "title_en": "WEBTOON Entertainment Inc. Common stock Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/abercrombie-fitch-sustains-sales-momentum-135749759.html",
+          "title_en": "Abercrombie & Fitch Sustains Sales Momentum in Q4, Sees More Gains Ahead"
         }
       ]
     }
