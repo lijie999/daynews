@@ -1,6 +1,6 @@
 {
   "date": "2026.03.07",
-  "generatedAtBJT": "2026-03-07 05:25:28",
+  "generatedAtBJT": "2026-03-07 05:55:46",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-07 05:25:28",
+          "time": "2026-03-07 05:55:46",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注伊朗战争对汽油价格的影响\n- 宏观/Fed：关注Bit Digital的以太坊财务增长和持续的挖矿\n- 科技/半导体： Alphabet (GOOGL) 在强大人工智能领域继续发展",
+          "summary": "- 地缘/避险：伊朗驱动的石油波动可能会破坏比特币价格的牛市，บล…",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 ‘Prices could surge past $100’: What the Iran war means for gas …\n- 宏观/Fed：关注 Bit Digital reports growth in Ethereum treasury, ongoing staking…\n- 科技/半导体：Alphabet (GOOGL) is Continuing Its Developments in Strong AI Lau… 关键词: anthropic, amazon, more, available, bloomberg"
+          "summary_en": "- 地缘/避险：关注 Iran-Driven Oil Volatility Could Derail Bitcoin Price Rally, Blo…\n- 宏观/Fed：关注 Why you shouldn’t blame AI for the weak jobs data…\n- 科技/半导体：Baron Global Opportunity Fund’s Biggest Addition: Amazon.com (AM… 关键词: anthropic, amazon, ceo, microsoft, more"
         }
       ]
     },
@@ -29,7 +29,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
+          "time": "2026-03-07 05:55:42",
+          "title": "巴伦全球机会基金的最大增持：亚马逊（AMZN）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/baron-global-opportunity-fund-biggest-140626014.html",
+          "title_en": "Baron Global Opportunity Fund’s Biggest Addition: Amazon.com (AMZN)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 05:55:42",
           "title": "Alphabet (GOOGL) 正在继续其强大人工智能的发展",
           "summary": "",
           "url": "https://finance.yahoo.com/news/alphabet-googl-continuing-developments-strong-133834868.html",
@@ -38,29 +47,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "巴伦全球机会基金的最大增持：亚马逊（AMZN）",
+          "time": "2026-03-07 05:55:42",
+          "title": "微软公司（MSFT）具有显著的韧性",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/baron-global-opportunity-fund-biggest-140626014.html",
-          "title_en": "Baron Global Opportunity Fund’s Biggest Addition: Amazon.com (AMZN)"
+          "url": "https://finance.yahoo.com/news/makes-microsoft-corporation-msft-significantly-125301741.html",
+          "title_en": "Here’s what Makes Microsoft Corporation (MSFT) Significantly Resilient"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "Cerebras计划与摩根士丹利合作举办2亿美元的IPO。",
+          "time": "2026-03-07 05:55:42",
+          "title": "Nvidia为CEO黄仁勋制定了2027年奖金计划，总额达400万美元",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/ai-chipmaker-cerebras-is-said-to-tap-morgan-stanley-for-2b-ipo--bloomberg-432SI-4547748",
-          "title_en": "AI Chipmaker Cerebras Is Said To Tap Morgan Stanley For $2b IPO - Bloomberg"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "甲骨文和OpenAI终止扩建德克萨斯数据中心计划，布隆伯格新闻报道。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/oracle-and-openai-end-plans-to-expand-texas-data-center-site-bloomberg-news-reports-4547741",
-          "title_en": "Oracle and OpenAI end plans to expand Texas data center site, Bloomberg News reports"
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-sets-4-million-cash-bonus-for-ceo-huang-under-2027-compensation-plan-4547912",
+          "title_en": "Nvidia sets $4 million cash bonus for CEO Huang under 2027 compensation plan"
         },
         {
           "source": "CNBC-Top",
@@ -91,16 +91,6 @@
           "url": "https://www.cnbc.com/2026/03/06/google-says-anthropic-remains-available-outside-of-defense-projects.html",
           "title_en": "Google joins Microsoft in telling users Anthropic is still available outside defense projects",
           "summary_en": "Cloud vendors are letting customers know that Anthropic's popular AI tools can still be accessed after the Department of Defense blacklisted the company."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-07 03:40:00",
-          "title": "即将公布的S&P 500指数调整，可能会将这些AI股加入其中。",
-          "summary": "Lumentum和Coherent的市值超过400亿美元，远高于S&P 500的门槛。",
-          "url": "https://www.marketwatch.com/story/s-p-500-changes-are-due-out-soon-these-ai-stocks-could-join-the-index-ded9e245?mod=mw_rss_topstories",
-          "title_en": "S&P 500 changes are due out soon. These AI stocks could join the index.",
-          "summary_en": "Lumentum and Coherent have market caps of more than $40 billion, well above the threshold for S&P 500 inclusion."
         },
         {
           "source": "CNBC-Top",
@@ -199,15 +189,6 @@
       "badge": "Fed / Policy",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "比特数字报告了以太坊财务增长，二月份持续的质押活动",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/bit-digital-reports-growth-ethereum-135500656.html",
-          "title_en": "Bit Digital reports growth in Ethereum treasury, ongoing staking activity in February"
-        },
-        {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-03-07 03:52:00",
@@ -266,7 +247,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
+          "time": "2026-03-07 05:55:42",
+          "title": "伊朗驱动的油价波动可能会打乱比特币价格的上涨，布隆伯格的迈克·麦格隆表示，警告进一步下跌。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/iran-driven-oil-volatility-could-142715946.html",
+          "title_en": "Iran-Driven Oil Volatility Could Derail Bitcoin Price Rally, Bloomberg’s Mike McGlone Says, Warns of Further Downturn"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 05:55:42",
           "title": "伊朗战争意味着汽油价格将会上涨：如何现在就降低汽车成本",
           "summary": "",
           "url": "https://finance.yahoo.com/news/prices-could-surge-past-100-140000115.html",
@@ -275,16 +265,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "委内瑞拉石油货物在一个恰当的时机大幅上升",
+          "time": "2026-03-07 05:55:42",
+          "title": "BioHarvest Sciences Inc.任命前以色列卫生部长Hezi Levy加入董事会",
           "summary": "",
-          "url": "https://www.wsj.com/business/energy-oil/venezuelan-oil-cargoes-are-surging-at-an-opportune-time-76ab7c11?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Venezuelan Oil Cargoes Are Surging at an Opportune Time"
+          "url": "https://finance.yahoo.com/news/bioharvest-appoints-former-israeli-health-142100650.html",
+          "title_en": "BioHarvest appoints former Israeli health chief Hezi Levy to board"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
+          "time": "2026-03-07 05:55:42",
+          "title": "Kalshi因伊朗领导人被推翻的预测市场被起诉",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/kalshi-sued-over-ouster-of-iran-leader-prediction-market-4547604",
+          "title_en": "Kalshi sued over ouster of Iran leader prediction market"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 05:55:42",
           "title": "华尔街周五收盘下跌，标普500指数跌幅达2.5%，这是自10月以来最差的一周。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-extends-selloff-on-oil-spike-4545860",
@@ -293,20 +292,21 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
+          "time": "2026-03-07 05:55:42",
           "title": "新兴市场股权基金下滑 伊朗冲突引发抛售",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/emerging-market-equity-funds-slide-as-iran-conflict-sparks-selloff-4547584",
           "title_en": "Emerging market equity funds slide as Iran conflict sparks selloff"
         },
         {
-          "source": "Investing-Markets",
+          "source": "MarketWatch-Top",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "加拿大股市TSX下跌，受美国劳动力数据不佳和油价恐惧影响。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/tsx-futures-slip-as-iran-conflict-dampens-sentiment-4546650",
-          "title_en": "TSX lower after dour US labor data and oil prices fears"
+          "time": "2026-03-07 05:53:00",
+          "title": "石油价格大幅上涨引发美国国债市场自“解放日”混乱以来最糟糕的一周",
+          "summary": "全球政府债券受到冲突延续至周末的石油价格大幅上涨的重创",
+          "url": "https://www.marketwatch.com/story/oil-surge-sparks-treasury-markets-worst-weekly-rout-since-liberation-day-chaos-e4e34ad0?mod=mw_rss_topstories",
+          "title_en": "Oil surge sparks Treasury market’s worst weekly rout since ‘liberation day’ chaos",
+          "summary_en": "Government bonds globally were hit hard by surging oil prices as the Iran conflict extends into the weekend"
         },
         {
           "source": "MarketWatch-Top",
@@ -357,16 +357,6 @@
           "url": "https://www.marketwatch.com/story/stagflation-150-oil-not-all-401-k-s-are-losing-money-09c302cb?mod=mw_rss_topstories",
           "title_en": "Stagflation? $150 oil? Not all 401(k)s are losing money.",
           "summary_en": "The problem with crises like this is that stocks and bonds can both fail."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-07 03:40:00",
-          "title": "仅有8艘船每天通过霍尔木兹海峡——比平常少了94%",
-          "summary": "伊朗冲突持续，通过关键海峡的油轮和货船数量大幅下降。",
-          "url": "https://www.marketwatch.com/story/only-about-8-ships-a-day-are-passing-through-the-strait-of-hormuz-94-fewer-than-usual-806837f9?mod=mw_rss_topstories",
-          "title_en": "Only about 8 ships a day are passing through the Strait of Hormuz — 94% fewer than usual",
-          "summary_en": "With the conflict in Iran raging, the number of oil tankers and cargo ships making their way through the strategic waterway has plummeted."
         },
         {
           "source": "CNBC-Top",
@@ -427,16 +417,6 @@
           "url": "https://www.cnbc.com/2026/03/06/iran-war-shipping-maersk-middle-east-strait-of-hormuz-gulf.html",
           "title_en": "Maersk, a bellwether for global trade, suspends two key shipping services due to Iran war",
           "summary_en": "The update comes as the Iran war enters its seventh day and the escalating regional conflict continues to disrupt global supply chains."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-06 23:15:27",
-          "title": "伊朗和委内瑞拉的动作如何改变了特朗普-习近平的贸易谈判",
-          "summary": "伊朗战争和美国对委内瑞拉的袭击表明特朗普政府更加愿意放弃外交手段，采取军事行动。",
-          "url": "https://www.cnbc.com/2026/03/06/trump-iran-war-china-trade-tariffs.html",
-          "title_en": "How Iran and Venezuela strikes transform the Trump-Xi trade talks",
-          "summary_en": "The Iran war and the U.S. attack in Venezuela show a Trump administration more willing to eschew diplomacy and take military action."
         }
       ]
     },
@@ -452,115 +432,97 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "《教父》中的明星阿尔·帕西诺（Al Pacino）曾经因为生活水平膨胀损失了5亿美元。如何建立并保留财富。",
+          "time": "2026-03-07 05:55:42",
+          "title": "保时捷股份大涨，零售巨富迈克·阿什利购入股份",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/had-nothing-godfather-star-al-135700521.html",
-          "title_en": "‘I had nothing’: The Godfather star Al Pacino once blew $50M via lifestyle creep. How to build (and keep) your wealth."
+          "url": "https://www.wsj.com/business/puma-shares-jump-as-retail-billionaire-mike-ashley-buys-stake-a0339713?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Puma Shares Jump as Retail Billionaire Mike Ashley Buys Stake"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "特朗普周二的哪些话语平息了股市的波动？",
+          "time": "2026-03-07 05:55:42",
+          "title": "贝克希思（Berkshire）重新启动股票回购，新CEO购买1500万美元股票",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/did-trump-tuesday-soothed-stock-135700192.html",
-          "title_en": "What Did Trump Say on Tuesday that Soothed the Stock Market?"
+          "url": "https://www.investors.com/news/berkshire-hathaway-warren-buffett-greg-abel-stock-repurchase/?src=A00220&yptr=yahoo",
+          "title_en": "New CEO Buys $15 Million In Stock, Berkshire Restarts Buybacks"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "2026年下跌24%，是否应该在甲骨文股票下跌时买入？",
+          "time": "2026-03-07 05:55:42",
+          "title": "伯克希尔·哈撒韦首位股东信中，CEO格雷格·阿贝尔的信件标志着该公司的重大转变",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/down-24-2026-buy-dip-140002829.html",
-          "title_en": "Down 24% in 2026, Should You Buy the Dip in Oracle Stock?"
+          "url": "https://finance.yahoo.com/news/ceo-greg-abel-first-shareholder-142348709.html",
+          "title_en": "CEO Greg Abel’s First Shareholder Letter Signals a Major Shift at Berkshire Hathaway"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "美洲在线交易平台MercadoLibre (MELI) 受近期利润压力和长期竞争担忧影响",
+          "time": "2026-03-07 05:55:42",
+          "title": "Shopify (SHOP) 的 Q4 业绩强劲",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/mercadolibre-meli-hurt-near-term-135942351.html",
-          "title_en": "MercadoLibre (MELI) Hurt by Near-term Margin Pressure and Long-Term Competition Concerns"
+          "url": "https://finance.yahoo.com/news/strong-results-lifted-shopify-shop-141531424.html",
+          "title_en": "Strong Results Lifted Shopify (SHOP) in Q4"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "分析报告：国际交易所股份有限公司（ICE）",
+          "time": "2026-03-07 05:55:42",
+          "title": "新蒙特矿业的股价表现如何与其他黄金矿业公司的股价相比？",
           "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3074_AnalystReport_1772817571000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Intercontinental Exchange Inc"
+          "url": "https://finance.yahoo.com/news/newmonts-stock-performance-compared-other-141212640.html",
+          "title_en": "How Is Newmont's Stock Performance Compared to Other Gold Miners’ Stocks?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "Netskope (NTSK) 超越了所有指标的预期",
+          "time": "2026-03-07 05:55:42",
+          "title": "在考虑持有Coupang（CPNG）之前，需要了解该公司的当前状况和未来前景。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/netskope-ntsk-exceeds-consensus-expectations-135353989.html",
-          "title_en": "Netskope (NTSK) Exceeds Consensus Expectations Across All Metrics"
+          "url": "https://finance.yahoo.com/news/hold-coupang-cpng-141306577.html",
+          "title_en": "Should You Hold Coupang (CPNG)?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "六旗将出售其7个游乐园",
+          "time": "2026-03-07 05:55:42",
+          "title": "巴伦全球机会基金增持了CrowdStrike Holdings (CRWD)",
           "summary": "",
-          "url": "https://www.wsj.com/business/deals/six-flags-to-sell-7-of-its-amusement-parks-fab65a68?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Six Flags to Sell 7 of Its Amusement Parks"
+          "url": "https://finance.yahoo.com/news/baron-global-opportunity-fund-increased-140929894.html",
+          "title_en": "Baron Global Opportunity Fund Increased Its Holding in CrowdStrike Holdings (CRWD)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "价格动态对Coinbase Global（COIN）第四季度表现产生了影响。",
+          "time": "2026-03-07 05:55:42",
+          "title": "SanDisk 股票过去六个月上涨了858%，还有多少空间让它继续上涨？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/price-action-weighed-coinbase-global-134525291.html",
-          "title_en": "Price Action Weighed on Coinbase Global’s (COIN) Performance in Q4"
+          "url": "https://finance.yahoo.com/news/over-858-past-6-months-143002582.html",
+          "title_en": "Up Over 858% in the Past 6 Months, Is There Any Room Left for Sandisk Stock to Run?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "伊利诺伊亚 (ILMN) 因预期超出业绩而上涨",
+          "time": "2026-03-07 05:55:42",
+          "title": "美国最多人处于财务困境的城市揭露。看看是不是你的城市——并了解如何摆脱债务。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/illumina-ilmn-gaining-stronger-expected-134337882.html",
-          "title_en": "Illumina (ILMN) Gaining from Stronger Than Expected Results"
+          "url": "https://finance.yahoo.com/news/us-city-most-people-financial-143000021.html",
+          "title_en": "US city with the most people in financial distress revealed. Find out if it's yours — and how you can dig out of debt"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "戴森公司（DexCom）股价是否低于纳斯达克指数（Nasdaq）?",
+          "time": "2026-03-07 05:55:42",
+          "title": "高管层正在考虑将关税退税投资回供应链和研发。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/dexcom-stock-underperforming-nasdaq-134100172.html",
-          "title_en": "Is DexCom Stock Underperforming the Nasdaq?"
+          "url": "https://finance.yahoo.com/news/c-suites-favor-tapping-tariff-141843650.html",
+          "title_en": "C-suites eye reinvesting tariff refunds into supply chains, R&D"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "Precigen (PGEN) 突破性增长，随着Papziemos的早期批准",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/precigen-pgen-surged-following-early-134054131.html",
-          "title_en": "Precigen (PGEN) Surged Following the Early Approval of Papziemos"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "SCHO与SMB：哪只ETF更适合你？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/schos-short-term-treasuries-vs-140241046.html",
-          "title_en": "SCHO's Short-Term Treasuries vs. SMB's Municipal Bonds: Which ETF Is a Better Fit for You?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
+          "time": "2026-03-07 05:55:42",
           "title": "ONEOK 股票是否低于S&P 500的表现？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/oneok-stock-underperforming-p-500-140613767.html",
@@ -569,47 +531,65 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "为什么BioGen（BIIB）是一个有吸引力的长期持有目标？",
+          "time": "2026-03-07 05:55:42",
+          "title": "2026年下跌24%，是否应该在甲骨文股票下跌时买入？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/makes-biogen-biib-attractive-long-133653429.html",
-          "title_en": "What Makes Biogen (BIIB) an Attractive Long-Term Holding?"
+          "url": "https://finance.yahoo.com/news/down-24-2026-buy-dip-140002829.html",
+          "title_en": "Down 24% in 2026, Should You Buy the Dip in Oracle Stock?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "费斯维尔（FISV）有望重建投资者的信心吗？",
+          "time": "2026-03-07 05:55:42",
+          "title": "OKB Token 突破38%，因NYSE的OKX投资而升值至250亿美元估值",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/fiserv-fisv-poised-rebuild-investor-133324619.html",
-          "title_en": "Is Fiserv (FISV) Poised to Rebuild Investor Confidence?"
+          "url": "https://finance.yahoo.com/news/okb-token-surges-38-nyse-142032381.html",
+          "title_en": "OKB Token Surges 38% on NYSE’s OKX Investment at $25B Valuation"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "加州5%财富税的赌注引发了资本流失，包括马克·扎克伯格。对投资者的意义",
+          "time": "2026-03-07 05:55:42",
+          "title": "美洲在线交易平台MercadoLibre (MELI) 受近期利润压力和长期竞争担忧影响",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/california-5-wealth-tax-gamble-133300783.html",
-          "title_en": "California’s 5% wealth tax gamble triggers capital flight, including Mark Zuckerberg. What it means for investors"
+          "url": "https://finance.yahoo.com/news/mercadolibre-meli-hurt-near-term-135942351.html",
+          "title_en": "MercadoLibre (MELI) Hurt by Near-term Margin Pressure and Long-Term Competition Concerns"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "豆类价格周四开始上涨",
+          "time": "2026-03-07 05:55:42",
+          "title": "德尔罗特公司的股票相对于纳斯达克指数表现不佳吗？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/soybeans-firming-start-thursday-133050914.html",
-          "title_en": "Soybeans Firming to Start Thursday"
+          "url": "https://finance.yahoo.com/news/d-r-horton-stock-underperforming-143148481.html",
+          "title_en": "Is D.R. Horton Stock Underperforming the Nasdaq?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 05:25:24",
-          "title": "玉米价格略微上涨，周四上午交易开始。",
+          "time": "2026-03-07 05:55:42",
+          "title": "《教父》中的明星阿尔·帕西诺（Al Pacino）曾经因为生活水平膨胀损失了5亿美元。如何建立并保留财富。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/corn-slightly-higher-start-thursday-133050620.html",
-          "title_en": "Corn Slightly Higher to Start Thursday AM Trade"
+          "url": "https://finance.yahoo.com/news/had-nothing-godfather-star-al-135700521.html",
+          "title_en": "‘I had nothing’: The Godfather star Al Pacino once blew $50M via lifestyle creep. How to build (and keep) your wealth."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 05:55:42",
+          "title": "Netskope (NTSK) 超越了所有指标的预期",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/netskope-ntsk-exceeds-consensus-expectations-135353989.html",
+          "title_en": "Netskope (NTSK) Exceeds Consensus Expectations Across All Metrics"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 05:55:42",
+          "title": "价格动态对Coinbase Global（COIN）第四季度表现产生了影响。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/price-action-weighed-coinbase-global-134525291.html",
+          "title_en": "Price Action Weighed on Coinbase Global’s (COIN) Performance in Q4"
         }
       ]
     }
