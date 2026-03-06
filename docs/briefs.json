@@ -1,6 +1,6 @@
 {
   "date": "2026.03.07",
-  "generatedAtBJT": "2026-03-07 06:00:28",
+  "generatedAtBJT": "2026-03-07 06:26:02",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-07 06:00:28",
+          "time": "2026-03-07 06:26:02",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注伊朗战争对汽油价格的影响：‘价格可能突破100美元’\n\n- 宏观/Fed：关注Kraken破解美联储\n\n- 科技/半导体：Meta降级，MongoDB升级：华尔街顶级分析师的最新评级",
+          "summary": "- 地缘/避险：关注油价和债券收益率上升压制股市。\n- 宏观/Fed：关注摩根士丹利在所有业务线裁员。\n- 科技/半导体：MasTec (MTZ) 被抛售，原因是与人工智能基础设施需求相关的第四季度反弹。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 ‘Prices could surge past $100’: What the Iran war means for gas …\n- 宏观/Fed：关注 Morning Minute: Kraken Cracks the Fed…\n- 科技/半导体：Meta downgraded, MongoDB upgraded: Wall Street's top analyst cal… 关键词: anthropic, amazon, ceo, more, still"
+          "summary_en": "- 地缘/避险：关注 Stocks Pressured by Rising Oil Prices and Bond Yields…\n- 宏观/Fed：关注 Morgan Stanley Cuts Jobs Across All of Its Business Lines…\n- 科技/半导体：MasTec (MTZ) Sold After Q4 Rally Linked to AI Infrastructure Dem… 关键词: anthropic, ceo, nvidia, should, amazon"
         }
       ]
     },
@@ -29,34 +29,70 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "摩根士丹利的首席分析师称，Meta (META) 下调至中性评级，MongoDB (MDB) 升级至买入评级。",
+          "time": "2026-03-07 06:25:58",
+          "title": "MasTec (MTZ) 卖出后，第四季度的反弹与人工智能基础设施需求有关",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/meta-downgraded-mongodb-upgraded-wall-143614569.html",
-          "title_en": "Meta downgraded, MongoDB upgraded: Wall Street's top analyst calls"
+          "url": "https://finance.yahoo.com/news/mastec-mtz-sold-q4-rally-151110605.html",
+          "title_en": "MasTec (MTZ) Sold After Q4 Rally Linked to AI Infrastructure Demand"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "巴伦全球机会基金的最大增持：亚马逊（AMZN）",
+          "time": "2026-03-07 06:25:58",
+          "title": "Lumentum Holdings (LITE) 因AI驱动增长热情而上涨",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/baron-global-opportunity-fund-biggest-140626014.html",
-          "title_en": "Baron Global Opportunity Fund’s Biggest Addition: Amazon.com (AMZN)"
+          "url": "https://finance.yahoo.com/news/lumentum-holdings-inc-lite-rallies-151101936.html",
+          "title_en": "Lumentum Holdings (LITE) Rallies on AI-Driven Growth Enthusiasm"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "我2025年的首选半导体股上涨49%。2026年它还值得买吗？",
+          "time": "2026-03-07 06:25:58",
+          "title": "Nebius获得大型AI工厂许可，是否应该购买NBIS股票？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/top-semiconductor-pick-rose-49-143500438.html",
-          "title_en": "My Top Semiconductor Pick Rose 49% in 2025. Is It Still a Buy in 2026?"
+          "url": "https://finance.yahoo.com/news/nebius-gets-green-light-massive-150331860.html",
+          "title_en": "As Nebius Gets the Green Light for a Massive AI Factory, Should You Buy NBIS Stock?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 06:25:58",
+          "title": "ArcBest Corporation (ARCB) 因AI驱动的运营效率而受益",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/arcbest-corporation-arcb-seen-benefiting-150231792.html",
+          "title_en": "ArcBest Corporation (ARCB) Seen Benefiting from AI-Driven Operational Efficiency"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 06:25:58",
+          "title": "Okta收益超预期。财年2027年预期保持稳定，推动AI发展。",
+          "summary": "",
+          "url": "https://www.investors.com/news/technology/okta-stock-okta-earnings-news-q42025/?src=A00220&yptr=yahoo",
+          "title_en": "Okta Earnings Top Estimates. Fiscal 2027 Outlook In Line Amid AI Push."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 06:25:58",
+          "title": "Meta Platforms 正式与 Nvidia 和 AMD 进行了大规模交易。那么，你应该买哪只股票？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/meta-platforms-just-made-massive-150500150.html",
+          "title_en": "Meta Platforms Just Made Massive Deals With Both Nvidia and AMD. Which Stock Should You Buy?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 06:25:58",
+          "title": "使用 Nvidia 股票（NVDA）进行破碎翅膀蝴蝶策略，目标利润在 $165 和 $175 之间。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/target-profits-between-165-175-152402961.html",
+          "title_en": "Target Profits Between $165 and $175 with a Broken Wing Butterfly on Nvidia Stock"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
+          "time": "2026-03-07 06:25:58",
           "title": "Nvidia为CEO黄仁勋制定了2027年奖金计划，总额达400万美元",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/nvidia-sets-4-million-cash-bonus-for-ceo-huang-under-2027-compensation-plan-4547912",
@@ -133,7 +169,7 @@
           "summary_en": "Samsung's AI smart glasses will be launched in 2026 and will mark the company's first foray into the product category."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-06 09:25:12",
           "title": "亚马逊称，长达数小时的停机是由\"软件代码部署\"触发的。",
@@ -161,26 +197,6 @@
           "url": "https://www.cnbc.com/2026/03/05/open-ai-altman-anthropic-pentagon-war.html",
           "title_en": "OpenAI's Altman takes jabs at Anthropic, says government should be more powerful than companies",
           "summary_en": "The startup landed a deal with the Department of Defense hours after Anthropic was blacklisted by Defense Secretary Pete Hegseth."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-06 00:56:12",
-          "title": "云计算股价大涨，冲刺近一年来的最佳交易日，尽管市场整体下跌。",
-          "summary": "WISDOM树云计算基金（WCLD）在当天上涨4.5%，使该交易所交易基金有望在4月24日以来实现最佳交易日。",
-          "url": "https://www.cnbc.com/2026/03/05/cloud-stocks-jump-led-by-okta.html",
-          "title_en": "Cloud stocks jump, head for best day in nearly a year despite broad market declines",
-          "summary_en": "The WisdomTree Cloud Computing Fund (WCLD) gained 4.5% on the session, putting the exchange-traded fund on track for its best day since April 24, 2025."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-05 21:26:19",
-          "title": "布罗德كم公司财报，人工智能的公关问题，马斯克出庭作证等早间热点。",
-          "summary": "今天市场投资者需要了解的五个关键信息。",
-          "url": "https://www.cnbc.com/2026/03/05/5-things-to-know-before-the-market-opens.html",
-          "title_en": "Broadcom earnings, AI's PR problem, Musk takes the stand and more in Morning Squawk",
-          "summary_en": "Here are five key things investors need to know to start the trading day."
         }
       ]
     },
@@ -191,30 +207,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "早会晨讯：海怪打破了美联储",
+          "time": "2026-03-07 06:25:58",
+          "title": "摩根士丹利在所有业务线裁员",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/morning-minute-kraken-cracks-fed-142838331.html",
-          "title_en": "Morning Minute: Kraken Cracks the Fed"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "抵押贷款利率略微上涨至6%，但5%贷款仍在进行中：今天的抵押贷款和再融资利率",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-edge-back-up-to-6-but-5-loans-are-still-in-play-mortgage-and-refinance-interest-rates-today-110043872.html",
-          "title_en": "Mortgage rates edge back up to 6%, but 5% loans are still in play: Mortgage and refinance interest rates today"
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-07 03:52:00",
-          "title": "为什么不应该怪罪 AI 弱的就业数据",
-          "summary": "经济学家和华尔街分析师表示，2月份劳动力市场的疲弱与人工智能对就业的影响几乎没有重叠。",
-          "url": "https://www.marketwatch.com/story/why-you-shouldnt-blame-ai-for-the-weak-jobs-data-e83c202d?mod=mw_rss_topstories",
-          "title_en": "Why you shouldn’t blame AI for the weak jobs data",
-          "summary_en": "Economists and Wall Street analysts say there is very little overlap between February’s labor-market weakness and AI’s impact on jobs."
+          "url": "https://finance.yahoo.com/news/morgan-stanley-cuts-jobs-across-150612051.html",
+          "title_en": "Morgan Stanley Cuts Jobs Across All of Its Business Lines"
         },
         {
           "source": "CNBC-Top",
@@ -265,38 +262,58 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "伊朗战争意味着汽油价格将会上涨：如何现在就降低汽车成本",
+          "time": "2026-03-07 06:25:58",
+          "title": "股市受到油价和债券收益率上升的压力",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/prices-could-surge-past-100-140000115.html",
-          "title_en": "‘Prices could surge past $100’: What the Iran war means for gas prices — and how to lower your car costs now"
+          "url": "https://finance.yahoo.com/news/stocks-pressured-rising-oil-prices-151756383.html",
+          "title_en": "Stocks Pressured by Rising Oil Prices and Bond Yields"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "伊朗驱动的油价波动可能会打乱比特币价格的上涨，布隆伯格的迈克·麦格隆表示，警告进一步下跌。",
+          "time": "2026-03-07 06:25:58",
+          "title": "日本石油炼厂要求政府释放战略储备油。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/iran-driven-oil-volatility-could-142715946.html",
-          "title_en": "Iran-Driven Oil Volatility Could Derail Bitcoin Price Rally, Bloomberg’s Mike McGlone Says, Warns of Further Downturn"
+          "url": "https://finance.yahoo.com/news/japanese-refiners-urge-government-release-153000265.html",
+          "title_en": "Japanese Refiners Urge Government to Release Strategic Oil Reserves"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
+          "time": "2026-03-07 06:25:58",
+          "title": "特朗普会见国防企业家，吹嘘美国对伊朗的生产力提升",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/white-house-to-press-defense-firms-to-boost-production-as-us-strikes-on-iran-draw-down-stockpiles-4546357",
+          "title_en": "Trump meets defense executives, touts production boost as US strikes Iran"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 06:25:58",
           "title": "Kalshi因伊朗领导人被推翻的预测市场被起诉",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/kalshi-sued-over-ouster-of-iran-leader-prediction-market-4547604",
           "title_en": "Kalshi sued over ouster of Iran leader prediction market"
         },
         {
-          "source": "Investing-Markets",
+          "source": "MarketWatch-Top",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "华尔街周五收盘下跌，标普500指数跌幅达2.5%，这是自10月以来最差的一周。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-extends-selloff-on-oil-spike-4545860",
-          "title_en": "Wall Street posts worst week since October as Iran conflict rages on"
+          "time": "2026-03-07 06:16:00",
+          "title": "自美国和以色列对伊朗发动袭击后，以下S&P 500股票下跌最多",
+          "summary": "周五令人失望的就业报告帮助进一步推动股市下跌，游轮运营商受到严重打击",
+          "url": "https://www.marketwatch.com/story/these-stocks-in-the-s-p-500-have-dropped-the-most-since-the-u-s-and-israel-attacked-iran-ee7d67da?mod=mw_rss_topstories",
+          "title_en": "These stocks in the S&P 500 have dropped the most since the U.S. and Israel attacked Iran",
+          "summary_en": "A disappointing Friday employment report helped send stocks down further, with cruise operators hammered"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-07 06:04:00",
+          "title": "伊朗冲突加剧，国防科技股热炙。",
+          "summary": "在伊朗冲突导致美国股市大幅下挫的一周里，与网络安全和人工智能相关的科技股表现出更强的韧性，远远超过投资者通常认为的安全避风港。",
+          "url": "https://www.marketwatch.com/story/defense-tech-stocks-are-the-hot-trade-as-iran-conflict-widens-c8a5951c?mod=mw_rss_topstories",
+          "title_en": "Defense-tech stocks are the hot trade as Iran conflict widens",
+          "summary_en": "In a week when conflict in Iran sent the U.S. equity market into a tailspin, technology stocks tied to cybersecurity and artificial intelligence have proved more resilient than sectors investors have typically treated as safe havens."
         },
         {
           "source": "MarketWatch-Top",
@@ -347,16 +364,6 @@
           "url": "https://www.cnbc.com/2026/03/06/iran-us-war-oil-prices-brent-wti-barrel-futures.html",
           "title_en": "Oil surges 35% this week for biggest gain in futures trading history dating back to 1983",
           "summary_en": "The oil market is worried that Gulf countries will have to shut production if tankers are unable to pass through the Strait of Hormuz."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-07 04:06:00",
-          "title": "通胀加息？$150的石油价格？并不是所有401(k)账户都在亏损。",
-          "summary": "金融危机时期的问题是，股票和债券都可能失败。",
-          "url": "https://www.marketwatch.com/story/stagflation-150-oil-not-all-401-k-s-are-losing-money-09c302cb?mod=mw_rss_topstories",
-          "title_en": "Stagflation? $150 oil? Not all 401(k)s are losing money.",
-          "summary_en": "The problem with crises like this is that stocks and bonds can both fail."
         },
         {
           "source": "CNBC-Top",
@@ -427,16 +434,6 @@
           "url": "https://www.cnbc.com/2026/03/06/trump-iran-war-china-trade-tariffs.html",
           "title_en": "How Iran and Venezuela strikes transform the Trump-Xi trade talks",
           "summary_en": "The Iran war and the U.S. attack in Venezuela show a Trump administration more willing to eschew diplomacy and take military action."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-06 21:01:34",
-          "title": "阿联酋考虑冻结伊朗资产  中东冲突升级",
-          "summary": "阿联酋正在考虑冻结在该国持有的数十亿美元的伊朗资产，这可能会切断德黑兰最关键的经济生命线。",
-          "url": "https://www.cnbc.com/2026/03/06/uae-mulls-freezing-iranian-assets-as-middle-east-conflict-escalates-wsj-.html",
-          "title_en": "UAE mulls freezing Iranian assets as Middle East conflict escalates: WSJ",
-          "summary_en": "The UAE is considering freezing billions of dollars of Iranian assets held in the Gulf state, potentially severing one of Tehran's most critical economic lifelines."
         }
       ]
     },
@@ -452,164 +449,164 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "魔七阵亡了。十年中最火热的交易如何迅速消失。",
+          "time": "2026-03-07 06:25:58",
+          "title": "KPMG选择Gary Wingrove为下一任全球CEO",
           "summary": "",
-          "url": "https://www.barrons.com/articles/mag-7-stocks-dead-nvidia-facebook-amazon-google-03726dbb?siteid=yhoof2&yptr=yahoo",
-          "title_en": "The Mag 7 Are Dead. How the Hottest Trade of the Decade Fizzled Out."
+          "url": "https://finance.yahoo.com/news/kpmg-selects-gary-wingrove-next-150941561.html",
+          "title_en": "KPMG selects Gary Wingrove as next global CEO – report"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "德尔罗特公司的股票相对于纳斯达克指数表现不佳吗？",
+          "time": "2026-03-07 06:25:58",
+          "title": "约翰逊控制股是否超越道琼斯指数。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/d-r-horton-stock-underperforming-143148481.html",
-          "title_en": "Is D.R. Horton Stock Underperforming the Nasdaq?"
+          "url": "https://finance.yahoo.com/news/johnson-controls-stock-outperforming-dow-151156957.html",
+          "title_en": "Is Johnson Controls Stock Outperforming the Dow?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "贝克希思（Berkshire）重新启动股票回购，新CEO购买1500万美元股票",
+          "time": "2026-03-07 06:25:58",
+          "title": "阿里巴巴等中国股价下跌，中国降低了经济增长目标",
           "summary": "",
-          "url": "https://www.investors.com/news/berkshire-hathaway-warren-buffett-greg-abel-stock-repurchase/?src=A00220&yptr=yahoo",
-          "title_en": "New CEO Buys $15 Million In Stock, Berkshire Restarts Buybacks"
+          "url": "https://www.barrons.com/articles/alibaba-stock-price-china-growth-traget-6d86cda3?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Alibaba, Other Chinese Stocks Fall After China Lowers the Growth Bar"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "SanDisk 股票过去六个月上涨了858%，还有多少空间让它继续上涨？",
+          "time": "2026-03-07 06:25:58",
+          "title": "Coinbase 股票刚刚突破其50日移动平均线，受到特朗普的支持。您现在应该买入COIN吗？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/over-858-past-6-months-143002582.html",
-          "title_en": "Up Over 858% in the Past 6 Months, Is There Any Room Left for Sandisk Stock to Run?"
+          "url": "https://finance.yahoo.com/news/coinbase-stock-just-broke-above-150300649.html",
+          "title_en": "Coinbase Stock Just Broke Above Its 50-Day Moving Average on Trump Support. Should You Buy COIN Here?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "美国最多人处于财务困境的城市揭露。看看是不是你的城市——并了解如何摆脱债务。",
+          "time": "2026-03-07 06:25:58",
+          "title": "Fidelis Insurance控股有限公司（FIHL）宣布与CVC Falcon签署了收购其持有的Fidelis Insurance控股有限公司普通股的有约协议，总金额为16.335亿美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/us-city-most-people-financial-143000021.html",
-          "title_en": "US city with the most people in financial distress revealed. Find out if it's yours — and how you can dig out of debt"
+          "url": "https://finance.yahoo.com/news/fidelis-insurance-holdings-limited-fihl-145555014.html",
+          "title_en": "Fidelis Insurance Holdings Limited (FIHL) Announces a Definitive Agreement to Repurchase all Common Shares Held by CVC Falcon for $163.35M"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "GE Vernova (GE) 股票是否超越了 S&P 500?",
+          "time": "2026-03-07 06:25:58",
+          "title": "Zillow 股票上涨，公司推出25亿美元回购计划。财务长称，这表明公司对自身信心持续。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ge-vernova-stock-outperforming-p-143813627.html",
-          "title_en": "Is GE Vernova Stock Outperforming the S&P 500?"
+          "url": "https://www.barrons.com/articles/zillow-share-buyback-stock-is-rising-99a4f58c?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Zillow Stock Rises After $1.25 Billion Buyback Plan. It Shows ‘Continued Confidence,’ CFO Says."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "伯克希尔·哈撒韦首位股东信中，CEO格雷格·阿贝尔的信件标志着该公司的重大转变",
+          "time": "2026-03-07 06:25:58",
+          "title": "KBR, Inc. (KBR) 公布 Q4 调整 EPS 99 美分，低于市场预期 95 美分。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ceo-greg-abel-first-shareholder-142348709.html",
-          "title_en": "CEO Greg Abel’s First Shareholder Letter Signals a Major Shift at Berkshire Hathaway"
+          "url": "https://finance.yahoo.com/news/kbr-inc-kbr-reports-q4-145557717.html",
+          "title_en": "KBR, Inc. (KBR) Reports Q4 Adjusted EPS of 99c Versus Consensus of 95c"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "Shopify (SHOP) 的 Q4 业绩强劲",
+          "time": "2026-03-07 06:25:58",
+          "title": "摩根士丹利将普利美卡（PRI）价格目标降至285美元，并维持中性评级",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/strong-results-lifted-shopify-shop-141531424.html",
-          "title_en": "Strong Results Lifted Shopify (SHOP) in Q4"
+          "url": "https://finance.yahoo.com/news/morgan-stanley-lowers-price-target-145558323.html",
+          "title_en": "Morgan Stanley Lowers its Price Target on Primerica, Inc. (PRI) to $285 and Maintains an Equal Weight Rating"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "在考虑持有Coupang（CPNG）之前，需要了解该公司的当前状况和未来前景。",
+          "time": "2026-03-07 06:25:58",
+          "title": "Wells Fargo 将 Universal Health Services, Inc. (UHS) 的目标价格下调至212美元，并维持中性评级。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/hold-coupang-cpng-141306577.html",
-          "title_en": "Should You Hold Coupang (CPNG)?"
+          "url": "https://finance.yahoo.com/news/wells-fargo-lowers-price-target-145602609.html",
+          "title_en": "Wells Fargo Lowers its Price Target on Universal Health Services, Inc. (UHS) to $212 and Maintains an Equal Weight Rating"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "电池创新加速，Holyvolt以73亿美元收购Wildcat",
+          "time": "2026-03-07 06:25:58",
+          "title": "Keefe Bruyette 对 The Hanover Insurance Group, Inc. (THG) 的价格目标提高至208美元，并维持出perform评级",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/battery-innovation-accelerates-holyvolt-buys-144044862.html",
-          "title_en": "Battery Innovation Accelerates as Holyvolt Buys Wildcat in $73M Deal"
+          "url": "https://finance.yahoo.com/news/keefe-bruyette-raises-price-target-145600719.html",
+          "title_en": "Keefe Bruyette Raises Its Price Target on The Hanover Insurance Group, Inc. (THG) to $208 and Maintains an Outperform Rating"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "新蒙特矿业的股价表现如何与其他黄金矿业公司的股价相比？",
+          "time": "2026-03-07 06:25:58",
+          "title": "伯克希尔的格雷格·阿贝尔购买了股票，重新启动了股票回购计划。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/newmonts-stock-performance-compared-other-141212640.html",
-          "title_en": "How Is Newmont's Stock Performance Compared to Other Gold Miners’ Stocks?"
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-05-2026/card/greg-abel-buys-berkshire-hathaway-stock-as-company-starts-buybacks-B722aCFMq0IMIR8oFRBp?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Berkshire’s Greg Abel Buys Stock, Restarts Share Buybacks"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "巴伦全球机会基金增持了CrowdStrike Holdings (CRWD)",
+          "time": "2026-03-07 06:25:58",
+          "title": "德意志银行提高了巴斯克银行的目标价格至21.24欧元，并维持买入评级",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/baron-global-opportunity-fund-increased-140929894.html",
-          "title_en": "Baron Global Opportunity Fund Increased Its Holding in CrowdStrike Holdings (CRWD)"
+          "url": "https://finance.yahoo.com/news/deutsche-raises-price-target-banco-145552174.html",
+          "title_en": "Deutsche Raises its Price Target on Banco Bilbao Vizcaya Argentaria, S.A. (BBVA) to EUR 21.24 and Maintains a Buy Rating"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "加州租房市场的Jason Amoroso为什么这么有信心？",
+          "time": "2026-03-07 06:25:58",
+          "title": "Jefferies将ICON Public Limited Company (ICLR)的评级从持有升级至买入。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/why-jason-amoroso-believes-california-142836040.html",
-          "title_en": "Why Jason Amoroso believes in the California rental market"
+          "url": "https://finance.yahoo.com/news/jefferies-upgrades-icon-public-limited-145607246.html",
+          "title_en": "Jefferies Upgrades ICON Public Limited Company (ICLR) to Buy from Hold"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "ONEOK 股票是否低于S&P 500的表现？",
+          "time": "2026-03-07 06:25:58",
+          "title": "摩根士丹利提高了美国再保险集团（RGA）的目标价至223美元，并维持等权评级。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/oneok-stock-underperforming-p-500-140613767.html",
-          "title_en": "Is ONEOK Stock Underperforming the S&P 500?"
+          "url": "https://finance.yahoo.com/news/morgan-stanley-raises-price-target-145605453.html",
+          "title_en": "Morgan Stanley Raises Its Price Target on Reinsurance Group of America, Incorporated (RGA) to $223 and Maintains an Equal Weight Rating"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "2026年下跌24%，是否应该在甲骨文股票下跌时买入？",
+          "time": "2026-03-07 06:25:58",
+          "title": "UBS 将Abercrombie & Fitch Co. (ANF) 的目标价格降至149美元，并维持买入评级",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/down-24-2026-buy-dip-140002829.html",
-          "title_en": "Down 24% in 2026, Should You Buy the Dip in Oracle Stock?"
+          "url": "https://finance.yahoo.com/news/ubs-lowers-price-target-abercrombie-145551825.html",
+          "title_en": "UBS Lowers its Price Target on Abercrombie & Fitch Co. (ANF) to $149 and Maintains a Buy Rating"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "美洲在线交易平台MercadoLibre (MELI) 受近期利润压力和长期竞争担忧影响",
+          "time": "2026-03-07 06:25:58",
+          "title": "BJ的全品类零售公司(BJ)财报电话会议记录",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/mercadolibre-meli-hurt-near-term-135942351.html",
-          "title_en": "MercadoLibre (MELI) Hurt by Near-term Margin Pressure and Long-Term Competition Concerns"
+          "url": "https://finance.yahoo.com/news/bjs-wholesale-bj-earnings-call-150636668.html",
+          "title_en": "BJ's Wholesale (BJ) Earnings Call Transcript"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "《教父》中的明星阿尔·帕西诺（Al Pacino）曾经因为生活水平膨胀损失了5亿美元。如何建立并保留财富。",
+          "time": "2026-03-07 06:25:58",
+          "title": "三菱日联降低了Expedia Group, Inc. (EXPE)的股价目标至245美元，并维持中性评级",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/had-nothing-godfather-star-al-135700521.html",
-          "title_en": "‘I had nothing’: The Godfather star Al Pacino once blew $50M via lifestyle creep. How to build (and keep) your wealth."
+          "url": "https://finance.yahoo.com/news/mizuho-lowers-price-target-expedia-145603978.html",
+          "title_en": "Mizuho Lowers its Price Target on Expedia Group, Inc. (EXPE) to $245 and Maintains a Neutral Rating"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 06:00:24",
-          "title": "Netskope (NTSK) 超越了所有指标的预期",
+          "time": "2026-03-07 06:25:58",
+          "title": "Bread Financial Holdings, Inc. (BFH) 宣布其董事会批准增加其现有股票回购授权额 $6000万",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/netskope-ntsk-exceeds-consensus-expectations-135353989.html",
-          "title_en": "Netskope (NTSK) Exceeds Consensus Expectations Across All Metrics"
+          "url": "https://finance.yahoo.com/news/bread-financial-holdings-inc-bfh-145554159.html",
+          "title_en": "Bread Financial Holdings, Inc. (BFH) Announces Board Approval of a $600 Million Increase to its Existing Share Repurchase Authorization"
         }
       ]
     }
