@@ -1,6 +1,6 @@
 {
   "date": "2026.03.07",
-  "generatedAtBJT": "2026-03-07 13:35:03",
+  "generatedAtBJT": "2026-03-07 14:05:16",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-07 13:35:03",
+          "time": "2026-03-07 14:05:16",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注中国在伊朗和拉丁美洲的能源扩张：石油天然气36…\n- 宏观/Fed：关注美联储理事Miranda表示，2月份的就业损失进一步支持…\n- 科技/半导体：Marvell Q4财季AI销售增长，股价上涨。",
+          "summary": "- 地缘/避险：关注美国国债可能对石油期货市场提出措施，影响能源市场。\n\n- 宏观/Fed：关注特朗普对利率设10%上限的做法对汽车贷款市场的影响。\n\n- 科技/半导体：Nvidia今日微涨，投资者关注其CEO的演讲。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 China’s energy expansion in Iran and Latin America: Oil & Gas 36…\n- 宏观/Fed：关注 Fed Governor Miran says job losses in February add to the case f…\n- 科技/半导体：Marvell Gets AI Sales Boost In Fiscal Q4. Stock Rises.… 关键词: anthropic, buy, ceo, microsoft, amazon"
+          "summary_en": "- 地缘/避险：关注 US Treasury could unveil measures on oil futures market as energ…\n- 宏观/Fed：关注 What Trump’s 10% cap on interest rates would mean for credit car…\n- 科技/半导体：Stock Market Today, Mar. 5: Nvidia Edges Higher as Investors Wei… 关键词: anthropic, ceo, nvidia, amazon, available"
         }
       ]
     },
@@ -29,43 +29,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
+          "time": "2026-03-07 14:05:12",
+          "title": "今日股市，3月5日：Nvidia微微上涨，投资者权衡人工智能数据中心支出预期",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/stock-market-today-mar-5-231141057.html",
+          "title_en": "Stock Market Today, Mar. 5: Nvidia Edges Higher as Investors Weigh AI Data Center Spending Outlook"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
+          "title": "传奇交易家猛烈抨击Nvidia GPU亿美元交易为AI推动",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/legendary-trader-slams-billion-dollar-230934767.html",
+          "title_en": "Legendary trader slams billion dollar Nvidia GPU deal for AI push"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
           "title": "马威尔在财年第四季度的AI销售额大幅增长。股价上涨。",
           "summary": "",
           "url": "https://www.investors.com/news/technology/mrvl-stock-marvell-technology-fiscal-q4-2026-earnings/?src=A00220&yptr=yahoo",
           "title_en": "Marvell Gets AI Sales Boost In Fiscal Q4. Stock Rises."
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "微软股价下跌15%，是否该在此时买入？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/down-15-2026-buy-dip-214247085.html",
-          "title_en": "Down 15% in 2026, Should You Buy the Dip in Microsoft Stock?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "Wedbush的首选强买AI股：在“混乱”中“没有丢失的交易”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/1-strong-buy-ai-stock-213536844.html",
-          "title_en": "1 ‘Strong Buy’ AI Stock That Wedbush Loves Now: ‘No Lost Deals’ Amid ‘Disruption’"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "7只股票被分析师视为具有出色的收益增长潜力；AI玩家测试买点",
-          "summary": "",
-          "url": "https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/?src=A00220&yptr=yahoo",
-          "title_en": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; AI Play Tests Buy Point"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
+          "time": "2026-03-07 14:05:12",
           "title": "美国制定了新的严格的AI指南，FT报道称与Anthropic发生冲突。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-draws-up-strict-new-ai-guidelines-amid-anthropic-clash-ft-reports-4548246",
@@ -74,7 +65,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
+          "time": "2026-03-07 14:05:12",
           "title": "Nvidia为CEO黄仁勋在2027财年计划设定了400万美元的现金奖金目标。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/nvidia-sets-4-million-cash-bonus-for-ceo-huang-under-2027-compensation-plan-4547912",
@@ -197,6 +188,60 @@
       "badge": "Fed / Policy",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
+          "title": "特朗普的利率上限政策意味着信用卡持有者将面临更高的利息支出。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/what-trumps-10-cap-on-interest-rates-would-mean-for-credit-cardholders-161400843.html",
+          "title_en": "What Trump’s 10% cap on interest rates would mean for credit cardholders"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
+          "title": "抵押贷款利率略微上涨至6%，但5%贷款仍在进行中：今天的抵押贷款和再融资利率",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-edge-back-up-to-6-but-5-loans-are-still-in-play-mortgage-and-refinance-interest-rates-today-110043872.html",
+          "title_en": "Mortgage rates edge back up to 6%, but 5% loans are still in play: Mortgage and refinance interest rates today"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
+          "title": "截至2026年3月6日，最佳现金市场账户利率（最高4.01%年利率）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-friday-march-6-2026-110011557.html",
+          "title_en": "Best money market account rates today, March 6, 2026 (up to 4.01% APY return)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
+          "title": "2026年3月6日，HELOC和房屋抵押贷款利率：大多保持不变",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-friday-march-6-2026-110022701.html",
+          "title_en": "HELOC and home equity loan rates today, March 6, 2026: Mostly unchanged"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
+          "title": "截至2026年3月6日，高收益储蓄利率（最高4%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-march-6-2026-110023075.html",
+          "title_en": "Best high-yield savings interest rates today, March 6, 2026 (up to 4% APY return)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
+          "title": "截至2026年3月6日，最佳定期存款利率（最高4%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-march-6-2026-110033555.html",
+          "title_en": "Best CD rates today, March 6, 2026 (up to 4% APY return)"
+        },
+        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-07 02:14:50",
@@ -235,16 +280,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "中国在伊朗和拉丁美洲的能源扩张：油气360",
+          "time": "2026-03-07 14:05:12",
+          "title": "美国财政部可能会公布措施以应对油价上涨的期货市场",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/china-energy-expansion-iran-latin-223017150.html",
-          "title_en": "China’s energy expansion in Iran and Latin America: Oil & Gas 360"
+          "url": "https://finance.yahoo.com/news/us-treasury-could-unveil-measures-230301220.html",
+          "title_en": "US Treasury could unveil measures on oil futures market as energy prices rise"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
+          "time": "2026-03-07 14:05:12",
           "title": "周四玉米价格大涨，伴随原油价格上涨",
           "summary": "",
           "url": "https://finance.yahoo.com/news/corn-rally-thursday-crude-oil-224034088.html",
@@ -253,7 +298,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
+          "time": "2026-03-07 14:05:12",
           "title": "防务股：伊朗扩大对美国海军攻击的报复，石油价格大幅上涨",
           "summary": "",
           "url": "https://www.investors.com/news/defense-stocks-iran-drones-missiles-lockheed-martin-elbit-systems-cathie-wood-ark-stocks/?src=A00220&yptr=yahoo",
@@ -262,16 +307,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "美国财政部可能会公布措施以应对油价上涨的期货市场",
+          "time": "2026-03-07 14:05:12",
+          "title": "中国在伊朗和拉丁美洲的能源扩张：油气360",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/us-treasury-could-unveil-measures-230301220.html",
-          "title_en": "US Treasury could unveil measures on oil futures market as energy prices rise"
+          "url": "https://finance.yahoo.com/news/china-energy-expansion-iran-latin-223017150.html",
+          "title_en": "China’s energy expansion in Iran and Latin America: Oil & Gas 360"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
+          "time": "2026-03-07 14:05:12",
           "title": "特朗普会见国防企业家，吹嘘美国对伊朗的生产力提升",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/white-house-to-press-defense-firms-to-boost-production-as-us-strikes-on-iran-draw-down-stockpiles-4546357",
@@ -421,133 +466,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "Amprius Technologies, Inc. (AMPX)是否是一个好股票购买？",
+          "time": "2026-03-07 14:05:12",
+          "title": "Solas Capital大幅增持Kyndryl，购买407万股。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/amprius-technologies-inc-ampx-good-202926364.html",
-          "title_en": "Is Amprius Technologies, Inc. (AMPX) A Good Stock To Buy?"
+          "url": "https://finance.yahoo.com/news/solas-capital-loads-kyndryl-407-231017096.html",
+          "title_en": "Solas Capital Loads Up On Kyndryl With 407,000 Shares Bought"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "市场简报：市场热点",
-          "summary": "",
-          "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-b4db4f41?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Financial Services Roundup: Market Talk"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "为什么电信公司如AT&T和Verizon能击败科技巨头",
-          "summary": "",
-          "url": "https://www.investors.com/news/att-stock-verizon-stock-trouncing-tech-giants-google-meta/?src=A00220&yptr=yahoo",
-          "title_en": "Why Telecoms Like AT&T And Verizon Are Trouncing Tech Giants"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "白银价格波动：2026年投资指南",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-volatility-what-to-know-and-how-to-invest-in-2026-152825707.html",
-          "title_en": "Silver price volatility: What to know and how to invest in 2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "基本材料周报：市场评论",
-          "summary": "",
-          "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-420c751b?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Basic Materials Roundup: Market Talk"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "为女性建立财务独立的基础通过财务教育",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/building-financial-independence-women-financial-220723289.html",
-          "title_en": "Building financial independence for women through financial literacy"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "a.k.a. Brands第四季度销售额和EBITDA增长，发布2026年指导",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/k-brands-q4-sales-ebitda-221022770.html",
-          "title_en": "a.k.a. Brands Q4 Sales & EBITDA Rise, Gives 2026 Guidance"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "纳斯达克100指数生态系统：全球投资者选择的驱动力",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/nasdaq-100-ndx-ecosystem-evolution-225102485.html",
-          "title_en": "The Nasdaq-100® (NDX®) Ecosystem: The Evolution to Power Investor Choice Worldwide"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "股市正在被现实问题搅乱。现在该怎么办？",
-          "summary": "",
-          "url": "https://www.barrons.com/articles/stock-market-ruined-real-world-worries-fb41aef5?siteid=yhoof2&yptr=yahoo",
-          "title_en": "The Stock Market Is Getting Wrecked by Real World Worries. What to Do Now."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "以下是7种最好的方式来发送钱：\n\n1. PayPal：快速、方便、安全。\n2. TransferWise：低汇率、快捷。\n3. Xoom：快速、便捷、低费率。\n4. Venmo：方便、安全、低费率。\n5. Cash App：快速、方便、低费率。\n6. Zelle：快速、方便、无费率。\n7. Bank Transfer：安全、可靠、无费率。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/7-best-ways-send-money-143358674.html",
-          "title_en": "7 best ways to send money"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "SoundHound（SOUN）目前是最短股票之一。您是否应该押注SOUN的收紧？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/soundhound-one-most-short-stocks-215646626.html",
-          "title_en": "SoundHound Is One of the Most Short Stocks Right Now. Should You Bet on a SOUN Squeeze?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "维多利亚的秘密销售恢复，但股价下跌，受高开支的担忧影响。",
-          "summary": "",
-          "url": "https://www.wsj.com/business/retail/victorias-secret-sales-rise-ceo-says-strategy-is-paying-off-5b17445a?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Victoria’s Secret Sales Recover, but Shares Fall on Concerns Over Expenses"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "耐克(NKE)股票现在是否是一个好买入机会？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/nike-inc-nke-stock-good-214044866.html",
-          "title_en": "Is NIKE, Inc. (NKE) Stock A Good Buy Right Now?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "Monday.com Ltd. (MNDY) 是一个好股票吗？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/monday-com-ltd-mndy-good-213942965.html",
-          "title_en": "Is monday.com Ltd. (MNDY) A Good Stock To Buy Now?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
+          "time": "2026-03-07 14:05:12",
           "title": "SOXL再次领跑，吸收了约2.5亿美元的资金。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/daily-etf-flows-soxl-top-230005909.html",
@@ -556,7 +484,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
+          "time": "2026-03-07 14:05:12",
           "title": "欧洲首次出现天然气短缺迹象出现在摩尔多瓦地区",
           "summary": "",
           "url": "https://finance.yahoo.com/news/first-sign-gas-crunch-europe-230000902.html",
@@ -565,20 +493,137 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "汽车与运输行业总结：市场话题\n\n* 道琼斯汽车指数(DJIA Auto)上涨1.4%。\n* 道琼斯运输指数(DJIA Transportation)上涨1.3%。\n* 道琼斯工业指数(DJIA)上涨1.2%。\n* S&P 500汽车指数(SPX Auto)上涨1.5%。\n* S&P 500运输指数(SPX Transportation)上涨1.4%。\n* 道琼斯指数(DJIA)上涨1.3%。\n* S&P 500指数(SPX 500)上涨1.4%。\n* 纳斯达克指数(NASDAQ)上涨1.6%。\n* 美元指数(DXY)下跌0.2%。\n* 黄金价格(Gold)上涨0.5%。\n* 美元兑日元汇率(USD/JPY)下跌0.3%。\n* 美元兑英镑汇率(USD/GBP)下跌0.2%。\n* 美元兑欧元汇率(USD/EUR)下跌0.2%。\n* 美元兑瑞士法郎汇率(USD/CHF)下跌0.2%。\n* 美元",
+          "time": "2026-03-07 14:05:12",
+          "title": "纳斯达克100指数生态系统：全球投资者选择的驱动力",
           "summary": "",
-          "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-8ffe8553?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Auto & Transport Roundup: Market Talk"
+          "url": "https://finance.yahoo.com/news/nasdaq-100-ndx-ecosystem-evolution-225102485.html",
+          "title_en": "The Nasdaq-100® (NDX®) Ecosystem: The Evolution to Power Investor Choice Worldwide"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 13:34:59",
-          "title": "FLNC是否是现在买入的好股票？",
+          "time": "2026-03-07 14:05:12",
+          "title": "Bowman (BWMN) 2025年第四季度财报电话会议记录",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/fluence-energy-inc-flnc-good-213835113.html",
-          "title_en": "Is Fluence Energy, Inc. (FLNC) A Good Stock To Buy Now?"
+          "url": "https://finance.yahoo.com/news/bowman-bwmn-q4-2025-earnings-230951088.html",
+          "title_en": "Bowman (BWMN) Q4 2025 Earnings Call Transcript"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
+          "title": "一张收款人支票（cashier's check）是一种由银行或金融机构签发的支票，用于支付特定金额。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/cashier-check-does-042222994.html",
+          "title_en": "What is a cashier’s check? Definitions, uses, how to buy one, cost and alternatives"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
+          "title": "白银价格波动：2026年投资指南",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-volatility-what-to-know-and-how-to-invest-in-2026-152825707.html",
+          "title_en": "Silver price volatility: What to know and how to invest in 2026"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
+          "title": "a.k.a. Brands第四季度销售额和EBITDA增长，发布2026年指导",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/k-brands-q4-sales-ebitda-221022770.html",
+          "title_en": "a.k.a. Brands Q4 Sales & EBITDA Rise, Gives 2026 Guidance"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
+          "title": "为女性建立财务独立的基础通过财务教育",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/building-financial-independence-women-financial-220723289.html",
+          "title_en": "Building financial independence for women through financial literacy"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
+          "title": "Amprius Technologies, Inc. (AMPX)是否是一个好股票购买？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/amprius-technologies-inc-ampx-good-202926364.html",
+          "title_en": "Is Amprius Technologies, Inc. (AMPX) A Good Stock To Buy?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
+          "title": "以下是7种最好的方式来发送钱：\n\n1. PayPal：快速、方便、安全。\n2. TransferWise：低汇率、快捷。\n3. Xoom：快速、便捷、低费率。\n4. Venmo：方便、安全、低费率。\n5. Cash App：快速、方便、低费率。\n6. Zelle：快速、方便、无费率。\n7. Bank Transfer：安全、可靠、无费率。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/7-best-ways-send-money-143358674.html",
+          "title_en": "7 best ways to send money"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
+          "title": "为什么电信公司如AT&T和Verizon能击败科技巨头",
+          "summary": "",
+          "url": "https://www.investors.com/news/att-stock-verizon-stock-trouncing-tech-giants-google-meta/?src=A00220&yptr=yahoo",
+          "title_en": "Why Telecoms Like AT&T And Verizon Are Trouncing Tech Giants"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
+          "title": "SoundHound（SOUN）目前是最短股票之一。您是否应该押注SOUN的收紧？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/soundhound-one-most-short-stocks-215646626.html",
+          "title_en": "SoundHound Is One of the Most Short Stocks Right Now. Should You Bet on a SOUN Squeeze?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
+          "title": "Traeger (COOK) Q4 2025年财报电话会议记录",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/traeger-cook-q4-2025-earnings-230747989.html",
+          "title_en": "Traeger (COOK) Q4 2025 Earnings Call Transcript"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
+          "title": "是的，有免费的宠物保险。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/insurance/article/free-pet-insurance-213146123.html",
+          "title_en": "Free pet insurance: Is there such a thing?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
+          "title": "想以传统方式提交税务申报？以下是如何提交纸质申报的步骤。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/want-to-file-taxes-the-old-fashioned-way-heres-how-to-file-a-paper-return-211646230.html",
+          "title_en": "Want to file taxes the old-fashioned way? Here's how to file a paper return."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
+          "title": "中东动荡加剧，市场波动升高，如何保护您的钱？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/how-to-protect-your-money-as-mideast-turmoil-fuels-market-volatility-151109902.html",
+          "title_en": "How to protect your money as Mideast turmoil fuels market volatility"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 14:05:12",
+          "title": "2026年最佳汽车保险公司处理索赔",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/insurance/article/best-insurers-for-filing-a-car-insurance-claim-205650115.html",
+          "title_en": "Best insurers for filing a car insurance claim 2026"
         }
       ]
     }
