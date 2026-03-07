@@ -1,6 +1,6 @@
 {
   "date": "2026.03.07",
-  "generatedAtBJT": "2026-03-07 17:37:31",
+  "generatedAtBJT": "2026-03-07 18:07:40",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-07 17:37:31",
+          "time": "2026-03-07 18:07:40",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注中国市场、伊朗战争和动荡，优于亚洲同行。\n- 宏观/Fed：关注美联储总督Miran表示，2月份失业率增加，进一步支持…\n- 科技/半导体：Shoals Technologies Group, Inc. (SHLS) 与ON.energy合作…\n- TSLA：关注Beam Global (BEEM) 推进无线充电和自动驾驶电动汽车技术。",
+          "summary": "- 地缘/避险：关注油价和债券收益率再次上涨。\n- 宏观/Fed：关注Oracle大幅裁员以支付人工智能基础设施费用。\n- 科技/半导体：AT&T Inc (T)展示了5G/云RAN技术的工作原型。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Chinese Markets Weather Iran War Turmoil Better Than Asian Peers…\n- 宏观/Fed：关注 Fed Governor Miran says job losses in February add to the case f…\n- 科技/半导体：Shoals Technologies Group, Inc. (SHLS) Partners with ON.energy f… 关键词: anthropic, amazon, available, center, ceo\n- TSLA：关注 Beam Global (BEEM) Advances Off-Grid EV Charging and Autonomous …"
+          "summary_en": "- 地缘/避险：关注 Heard on the Street Thursday Recap: Oil, Bond Yields Jump Again…\n- 宏观/Fed：关注 Oracle is cutting thousands of jobs to pay for the AI infrastruc…\n- 科技/半导体：AT&T Inc (T) Demonstrates Working Prototype of 5G/Cloud RAN Feat… 关键词: anthropic, amazon, available, ceo, customers"
         }
       ]
     },
@@ -29,34 +29,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "Shoals Technologies Group, Inc. (SHLS) 与 ON.energy 合作，基于历史最高的订单量，推进 AI 数据中心机会",
+          "time": "2026-03-07 18:07:36",
+          "title": "AT&T Inc (T) 展示了 5G/云 RAN 功能的工作原型。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/shoals-technologies-group-inc-shls-065038332.html",
-          "title_en": "Shoals Technologies Group, Inc. (SHLS) Partners with ON.energy for AI Data Center Opportunities Backed by Record Backlog"
+          "url": "https://finance.yahoo.com/news/t-inc-t-demonstrates-working-084556142.html",
+          "title_en": "AT&T Inc (T) Demonstrates Working Prototype of 5G/Cloud RAN Feature"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
+          "time": "2026-03-07 18:07:36",
           "title": "2月份，印度IT股价外流达到7个月高点，受AI冲击波影响",
           "summary": "",
           "url": "https://finance.yahoo.com/news/foreign-outflows-indian-stocks-7-065502507.html",
           "title_en": "Foreign outflows from Indian IT stocks at 7-month high in February on AI shockwaves"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "Bandwidth在Morgan Stanley会议上突出展示了语音AI的风向标、Maestro“赢家”和债务削减。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/bandwidth-highlights-voice-ai-tailwind-060811316.html",
-          "title_en": "Bandwidth Highlights Voice AI Tailwind, Maestro “Winaways” and Debt Cut at Morgan Stanley Conference"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
+          "time": "2026-03-07 18:07:36",
           "title": "美国制定了新的严格的AI指南，FT报道称与Anthropic发生冲突。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-draws-up-strict-new-ai-guidelines-amid-anthropic-clash-ft-reports-4548246",
@@ -65,7 +56,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
+          "time": "2026-03-07 18:07:36",
           "title": "Nvidia为CEO黄仁勋在2027财年计划设定了400万美元的现金奖金目标。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/nvidia-sets-4-million-cash-bonus-for-ceo-huang-under-2027-compensation-plan-4547912",
@@ -168,6 +159,15 @@
       "badge": "Fed / Policy",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 18:07:36",
+          "title": "甲骨文公司大幅裁员数千人以支付其押注的AI基础设施狂潮",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/oracle-cutting-thousands-jobs-pay-083500330.html",
+          "title_en": "Oracle is cutting thousands of jobs to pay for the AI infrastructure boom it bet everything on"
+        },
+        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-07 02:14:50",
@@ -206,38 +206,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "中国市场在伊朗战争的动荡中表现更好，优于亚洲同行。",
+          "time": "2026-03-07 18:07:36",
+          "title": "油价和债券收益率再次上涨",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/chinese-markets-weather-iran-war-063708794.html",
-          "title_en": "Chinese Markets Weather Iran War Turmoil Better Than Asian Peers"
+          "url": "https://www.wsj.com/livecoverage/jobs-report-unemployment-stock-market-03-06-2026/card/heard-on-the-street-thursday-recap-oil-bond-yields-jump-again-8Mi32LEVCRzaMiAgDvaf?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Heard on the Street Thursday Recap: Oil, Bond Yields Jump Again"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "石油价格已攀升21%",
+          "time": "2026-03-07 18:07:36",
+          "title": "德国航空公司发布符合预期的财报，但警告伊朗冲突对其业绩的影响",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/oil-set-16-weekly-gain-064550470.html",
-          "title_en": "Oil Prices Have Climbed 21% This Week"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "亚洲难以找到燃油，因为中东出口大幅下降，消息人士称。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/asia-struggles-fuel-oil-middle-055447240.html",
-          "title_en": "Asia struggles to find fuel oil as Middle East exports plummet, sources say"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "石油价格攀升至2023年以来最高点，股市则因美国就业市场疲弱的数据而下滑。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/asia-shares-mixed-following-wall-054143125.html",
-          "title_en": "Oil surges to its highest price since 2023, and stocks drop after a weak update on the US job market"
+          "url": "https://www.wsj.com/business/earnings/deutsche-lufthansa-posts-in-line-earnings-on-lower-costs-increased-passengers-399b0a8a?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Deutsche Lufthansa Posts In-Line Earnings But Warns Of Iran Conflict Impact"
         },
         {
           "source": "CNBC-Top",
@@ -378,23 +360,33 @@
           "url": "https://www.cnbc.com/2026/03/06/iran-war-automakers-toyota-hyundai-china.html",
           "title_en": "Toyota, Hyundai and Chinese automakers expected to be most impacted by Iran war",
           "summary_en": "While regional sales will be impacted, the closing of the Strait of Hormuz and rising oil prices will have ripple effects across the global automotive industry."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-07 01:01:36",
+          "title": "美伊冲突如何影响消费者财包",
+          "summary": "美国以色列对伊朗的周末袭击让市场出现了大幅波动，房贷利率上升，油价也上涨。",
+          "url": "https://www.cnbc.com/2026/03/06/us-iran-war-gas-mortgage-markets.html",
+          "title_en": "Here's how the U.S.-Iran war is already hitting consumers' pocketbooks",
+          "summary_en": "The U.S.-Israeli strikes on Iran over the weekend gave way to a week with topsy-turvy markets, spiking mortgage rates and higher prices at the pump."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-07 00:12:54",
+          "title": "分析：难民报告让特朗普的伊朗战争计划面临考验",
+          "summary": "经济正在放缓，伊朗战争迅速推高了汽油价格。",
+          "url": "https://www.cnbc.com/2026/03/06/jobs-report-trump-iran-israel-war-economy.html",
+          "title_en": "Analysis: Tough jobs report puts Trump's Iran war plans to the test",
+          "summary_en": "The economy is showing signs of slowing as the Iran war quickly pushes up gas prices."
         }
       ]
     },
     {
       "name": "特斯拉链",
       "badge": "TSLA chain",
-      "items": [
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "Beam Global (BEEM) 推进无线电充电和自动驾驶汽车技术",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/beam-global-beem-advances-off-065041108.html",
-          "title_en": "Beam Global (BEEM) Advances Off-Grid EV Charging and Autonomous Vehicle Technology"
-        }
-      ]
+      "items": []
     },
     {
       "name": "其他",
@@ -403,164 +395,164 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "Tigo Energy, Inc. (TYGO) 公布强劲收入增长并获得新资金",
+          "time": "2026-03-07 18:07:36",
+          "title": "Infinity自然资源（INR）完成了价值12亿美元的俄亥俄州尤蒂卡页岩岩层收购",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/tigo-energy-inc-tygo-reports-065045841.html",
-          "title_en": "Tigo Energy, Inc. (TYGO) Reports Strong Revenue Growth and Secures New Capital"
+          "url": "https://finance.yahoo.com/news/infinity-natural-resources-inr-finalizes-083646996.html",
+          "title_en": "Infinity Natural Resources (INR) Finalizes Transformational $1.2B Ohio Utica Shale Acquisition"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "想卖掉XRP之前，先考虑这两个数字",
+          "time": "2026-03-07 18:07:36",
+          "title": "三大数字：孙科加大便利店布局",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/thinking-selling-xrp-consider-2-062000987.html",
-          "title_en": "Thinking of Selling XRP? Consider These 2 Numbers First"
+          "url": "https://finance.yahoo.com/news/3-big-numbers-sunoco-steps-083735936.html",
+          "title_en": "3 Big Numbers: Sunoco steps up its c-store focus"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "加拿大太阳能公司（CSIQ）加强清洁能源战略，实现储能里程碑",
+          "time": "2026-03-07 18:07:36",
+          "title": "Atlas Energy Solutions (AESI) 公布 2025财年收入 110亿美元，调整 EBITDA 22.17亿美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/canadian-solar-inc-csiq-boosts-065046120.html",
-          "title_en": "Canadian Solar Inc. (CSIQ) Boosts Clean Energy Strategy with Storage Milestones"
+          "url": "https://finance.yahoo.com/news/atlas-energy-solutions-aesi-reports-083639796.html",
+          "title_en": "Atlas Energy Solutions (AESI) Reports $1.1B FY2025 Revenue and $221.7M Adjusted EBITDA"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "FTC太阳能公司（FTCI）与南非签署多年太阳能跟踪器供应协议",
+          "time": "2026-03-07 18:07:36",
+          "title": "Flowco Holdings (FLOC) 公布 2025财年收入 759.7 亿美元和第四季度调整 EBITDA 8.35 亿美元",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ftc-solar-inc-ftci-inks-065040236.html",
-          "title_en": "FTC Solar, Inc. (FTCI) Inks Multi-Year Solar Tracker Supply Agreement in South Africa"
+          "url": "https://finance.yahoo.com/news/flowco-holdings-floc-reports-759-083631598.html",
+          "title_en": "Flowco Holdings (FLOC) Reports $759.7M FY2025 Revenue and $83.5M Q4 Adjusted EBITDA"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "第一太阳能(First Solar, Inc.)(FSLR)2026年财务指南令华尔街投资机构失望，导致下调评级",
+          "time": "2026-03-07 18:07:36",
+          "title": "利申能源（LSE）2025财年实现48.3亿美元收入 在市场转型中",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/first-solar-inc-fslr-2026-065050395.html",
-          "title_en": "First Solar, Inc. (FSLR) 2026 Guidance Disappoints Wall Street Firms, Triggers Downgrades"
+          "url": "https://finance.yahoo.com/news/leishen-energy-lse-reports-48-083615919.html",
+          "title_en": "Leishen Energy (LSE) Reports $48.3M FY2025 Revenue Amid Market Transition"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "Sunrun Inc.(RUN)报告了强劲的收入增长，但面临2026年的谨慎预期。",
+          "time": "2026-03-07 18:07:36",
+          "title": "Excelerate Energy (EE) 公布了449亿美元的2025财年调整EBITDA和99.9%可靠性评级。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/sunrun-inc-run-reports-strong-065043415.html",
-          "title_en": "Sunrun Inc. (RUN) Reports Strong Revenue Growth but Faces Cautious 2026 Outlook"
+          "url": "https://finance.yahoo.com/news/excelerate-energy-ee-reports-449m-083611786.html",
+          "title_en": "Excelerate Energy (EE) Reports $449M FY2025 Adjusted EBITDA and 99.9% Reliability Rating"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "Ambiq Micro Q4 业绩电话会议亮点",
+          "time": "2026-03-07 18:07:36",
+          "title": "BKV公司是否是最值得关注的新兴能源股之一？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ambiq-micro-q4-earnings-call-060804229.html",
-          "title_en": "Ambiq Micro Q4 Earnings Call Highlights"
+          "url": "https://finance.yahoo.com/news/bkv-corporation-bkv-one-best-083625662.html",
+          "title_en": "Is BKV Corporation (BKV) One of the Best Up and Coming Energy Stocks to Buy?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "Enphase Energy (ENPH) 是目前最好的太阳能股票之一吗？",
+          "time": "2026-03-07 18:07:36",
+          "title": "venture Global (VG) 公布 2025财年收入13.8亿美元，合并调整利润前利润6.3亿美元",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/enphase-energy-inc-enph-one-065051136.html",
-          "title_en": "Is Enphase Energy, Inc. (ENPH) One of the Best Solar Stocks to Buy Now?"
+          "url": "https://finance.yahoo.com/news/venture-global-vg-reports-13-083552536.html",
+          "title_en": "Venture Global (VG) Reports $13.8B FY2025 Revenue and $6.3B Consolidated Adjusted EBITDA"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "Array Technologies, Inc. (ARRY) 扩大太阳能跟踪器业务，订单量创历史新高",
+          "time": "2026-03-07 18:07:36",
+          "title": "DT Midstream (DTM) 公布了 2025 年财年调整 EBITDA 11.38 亿美元和同比增长 17%",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/array-technologies-inc-arry-expands-065048505.html",
-          "title_en": "Array Technologies, Inc. (ARRY) Expands Solar Tracker Business with Record Order Book"
+          "url": "https://finance.yahoo.com/news/dt-midstream-dtm-reports-1-083543429.html",
+          "title_en": "DT Midstream (DTM) Reports $1.138B FY2025 Adjusted EBITDA and 17% YoY Growth"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "路德斯汉莎2025年营业利润超预期，但2026年前景不明朗，受中东紧张局势影响。",
+          "time": "2026-03-07 18:07:36",
+          "title": "Kodiak Gas Services (KGS) 公布了第四季度调整 EBITDA 18.45亿美元，2025年财年运营现金流 59.97亿美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/lufthansa-reports-2025-operating-profit-060404046.html",
-          "title_en": "Lufthansa reports 2025 operating profit beat, 2026 outlook murky due to Middle East tension"
+          "url": "https://finance.yahoo.com/news/kodiak-gas-services-kgs-reports-083559641.html",
+          "title_en": "Kodiak Gas Services (KGS) Reports $184.5M Q4 Adjusted EBITDA, $599.7M FY2025 Operating Cash Flow"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "Amprius Technologies Q4财报电话会议亮点",
+          "time": "2026-03-07 18:07:36",
+          "title": "舒适德路戈（ComfortDelGro）的多元化业务可以抵御中东冲突，CEO表示。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/amprius-technologies-q4-earnings-call-060805742.html",
-          "title_en": "Amprius Technologies Q4 Earnings Call Highlights"
+          "url": "https://www.wsj.com/business/comfortdelgros-diversified-business-can-withstand-middle-east-conflict-ceo-says-7a05f6b0?siteid=yhoof2&yptr=yahoo",
+          "title_en": "ComfortDelGro’s Diversified Business Can Withstand Middle East Conflict, CEO Says"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "如何在最小化税收的情况下将720万美元转移到罗思退休账户",
+          "time": "2026-03-07 18:07:36",
+          "title": "LandBridge (LB) 公布了2025财年收入199.1亿美元和调整前利润177.2亿美元",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/want-roll-over-720k-roth-123000007.html",
-          "title_en": "How Can I Roll Over $720k to a Roth IRA While Minimizing Taxes?"
+          "url": "https://finance.yahoo.com/news/landbridge-lb-reports-199-1m-083547206.html",
+          "title_en": "LandBridge (LB) Reports $199.1M FY2025 Revenue and $177.2M Adjusted EBITDA"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "联邦房地产（FRT）价格目标由 Ladenburg 提高至 $125 美元，随着零售REIT的重新评估。",
+          "time": "2026-03-07 18:07:36",
+          "title": "西安人寿集团（CI）宣布CEO交接，以下是关键信息。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/federal-realty-frt-price-target-055159835.html",
-          "title_en": "Federal Realty (FRT) Price Target Raised to $125 at Ladenburg amid Retail REIT Re-Rating"
+          "url": "https://finance.yahoo.com/news/cigna-group-ci-announces-ceo-084358975.html",
+          "title_en": "The Cigna Group (CI) Announces CEO Transitions, Here’s What You Need to Know"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "UBS降低哈雷戴维森(HOG)股价目标；摩根士丹利认为消费环境不平衡",
+          "time": "2026-03-07 18:07:36",
+          "title": "进步保险公司（PGR）是长期投资的最佳价值股之一",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ubs-cuts-harley-davidson-hog-054434190.html",
-          "title_en": "UBS Cuts Harley-Davidson (HOG) Price Target; Morgan Stanley Sees Uneven Consumer Environment"
+          "url": "https://finance.yahoo.com/news/progressive-corporation-pgr-among-best-084417637.html",
+          "title_en": "Progressive Corporation (PGR) Among the Best Value Stocks to Buy for Long Term"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "ACRES商业地产Q4财报电话会议亮点",
+          "time": "2026-03-07 18:07:36",
+          "title": "CIBC和BMO Capital对Toronto-Dominion（TD）提高了目标价。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/acres-commercial-realty-q4-earnings-060758950.html",
-          "title_en": "ACRES Commercial Realty Q4 Earnings Call Highlights"
+          "url": "https://finance.yahoo.com/news/cibc-bmo-capital-raises-pt-084435555.html",
+          "title_en": "CIBC and BMO Capital Raises PT on The Toronto-Dominion (TD)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "401(k)账户余额大幅上涨，但提取金额创下历史新高",
+          "time": "2026-03-07 18:07:36",
+          "title": "TotalEnergies (TTE) 将德国 11 个项目 50% 股权出售给 Allianz Global Investors",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/401-k-balances-way-withdrawals-050100629.html",
-          "title_en": "401(k) Balances Are Way Up. But Withdrawals Have Reached Record Levels"
+          "url": "https://finance.yahoo.com/news/totalenergies-tte-sells-50-stake-084535961.html",
+          "title_en": "TotalEnergies (TTE) Sells 50% Stake For 11 Projects in Germany to Allianz Global Investors"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "黑石的小额贷款减值损失引发私人信贷警报",
+          "time": "2026-03-07 18:07:36",
+          "title": "Ceconomy将提名财务长Remko Rijnders接替即将离职的CEO",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/blackrock-writedown-small-loan-fuels-050100069.html",
-          "title_en": "BlackRock’s Writedown of Small Loan Fuels Private Credit Alarm"
+          "url": "https://finance.yahoo.com/news/ceconomy-supervisory-board-meet-march-084555401.html",
+          "title_en": "Ceconomy to propose CFO Remko Rijnders to replace outgoing CEO"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 17:37:27",
-          "title": "社保局的惊人退休规划错误",
+          "time": "2026-03-07 18:07:36",
+          "title": "美银美林提高了皇家壳牌公司股价预测。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/surprising-retirement-planning-mistake-starts-050300744.html",
-          "title_en": "The Surprising Retirement Planning Mistake that Starts at the SSA"
+          "url": "https://finance.yahoo.com/news/citi-raises-pt-shell-plc-084615608.html",
+          "title_en": "Citi Raises PT on Shell PLC (SHEL)"
         }
       ]
     }
