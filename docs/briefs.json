@@ -1,6 +1,6 @@
 {
   "date": "2026.03.08",
-  "generatedAtBJT": "2026-03-08 00:26:33",
+  "generatedAtBJT": "2026-03-08 01:16:17",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,10 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-08 00:26:33",
+          "time": "2026-03-08 01:16:17",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 The US is the world’s biggest oil producer — so why are gas pric…\n- 宏观/Fed：关注 HELOC and home equity loan rates Saturday, March 7, 2026: Absorb…\n- 科技/半导体：China warns of global chip shortages as Nexperia dispute escalat… 关键词: anthropic, about, again, any, available",
-          "url": "#"
+          "summary": "- 地缘/避险：美国是世界上最大的石油生产国——那么，为什么汽油价格仍然高涨？\n\n- 宏观/Fed：关注HELOC和家庭抵押贷款利率。2026年3月7日：吸收FOMC会议的关键信息。\n\n- 科技/半导体：NVIDIA今年已经下跌了近5%。现在是买入的好时机吗？中国市场的影响又一次被提及。\n\n- TSLA：关注Bank of America再次对特斯拉持乐观态度。是否这是买入的理由？",
+          "url": "#",
+          "summary_en": "- 地缘/避险：关注 The US is the world’s biggest oil producer — so why are gas pric…\n- 宏观/Fed：关注 HELOC and home equity loan rates Saturday, March 7, 2026: Absorb…\n- 科技/半导体：Nvidia Stock Has Fallen Almost 5% This Year. Is Now a Good Time … 关键词: anthropic, again, available, buy, china\n- TSLA：关注 Bank of America Is Bullish on Tesla Again. Is That a Reason to B…"
         }
       ]
     },
@@ -28,7 +29,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
+          "title": "英伟达股价今年已经下跌了近5%。现在是时候买入了吗？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/nvidia-stock-fallen-almost-5-170700578.html",
+          "title_en": "Nvidia Stock Has Fallen Almost 5% This Year. Is Now a Good Time to Buy?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 01:16:13",
           "title": "中国警告称全球芯片短缺将加剧，Nexperia争端再次升级",
           "summary": "",
           "url": "https://finance.yahoo.com/news/china-warns-global-chip-shortages-151426635.html",
@@ -37,33 +47,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
-          "title": "The AI problem nobody is talking about",
+          "time": "2026-03-08 01:16:13",
+          "title": "贸易桌与AppLovin：哪个AI驱动的广告科技股更值得投资？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ai-problem-nobody-talking-160700773.html"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
-          "title": "Tempus AI, Inc. (TEM)宣布与默克达成战略协议，推动人工智能驱动的精准医学",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/tempus-ai-inc-tem-announces-121121827.html",
-          "title_en": "Tempus AI, Inc. (TEM) Announces Strategic Deal with Merck to Fast-Track AI-Driven Precision Medicine"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
-          "title": "忽略预测市场：1款比任何预测市场更聪明的AI股",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/forget-polymarket-1-ai-stock-153500371.html",
-          "title_en": "Forget Polymarket: 1 AI Stock That's a Smarter Bet Than Any Prediction Market"
+          "url": "https://finance.yahoo.com/news/trade-desk-vs-applovin-ai-165600858.html",
+          "title_en": "The Trade Desk vs. AppLovin: Which AI-Powered Adtech Stock Is the Better Buy?"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
           "title": "中国警告称全球芯片短缺将加剧，Nexperia争端再次升级",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/china-warns-of-global-chip-shortages-as-nexperia-dispute-escalates-again-4548515",
@@ -72,7 +65,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
           "title": "美国拟出台人工智能规则，要求任何合法用途的模型都必须使用民用模型。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-drafts-ai-rules-requiring-civilian-models-for-any-lawful-use-93CH-4548502",
@@ -81,7 +74,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
           "title": "美国制定了新的严格的AI指南，FT报道称与Anthropic发生冲突。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-draws-up-strict-new-ai-guidelines-amid-anthropic-clash-ft-reports-4548246",
@@ -166,7 +159,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
           "title": "本周六，3月7日，2026年：应对美联储加息暂停",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-march-7-2026-110039970.html",
@@ -175,7 +168,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
           "title": "截至2026年3月7日，最佳现金市场账户利率（最高利率账户可提供4.01%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-march-7-2026-110033942.html",
@@ -184,7 +177,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
           "title": "截至2026年3月7日，当前高收益储蓄利率（最高可达4%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-saturday-march-7-2026-110018604.html",
@@ -193,7 +186,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
           "title": "今日最佳存款利率（最高4%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-march-7-2026-110012225.html",
@@ -202,7 +195,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
           "title": "今日（3月7日）房贷和再融资利率：利率上升，债券收益率大幅上涨。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-march-7-2026-110008005.html",
@@ -211,11 +204,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
           "title": "中东冲突使利率预期蒙上阴影，房贷利率何时下降仍存疑。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-march-6-2026-190610359.html",
           "title_en": "When will mortgage rates go down? Mideast conflict clouds the outlook."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 01:16:13",
+          "title": "惊喜的就业报告可能会推动利率下降：2026年3月6日的抵押贷款和再融资利率",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-march-6-2026-110054212.html",
+          "title_en": "Surprise jobs report may push rates lower: Mortgage and refinance interest rates today, March 6, 2026"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 01:16:13",
+          "title": "截至2026年3月6日，最佳定期存款利率（最高4%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-march-6-2026-110033555.html",
+          "title_en": "Best CD rates today, March 6, 2026 (up to 4% APY return)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 01:16:13",
+          "title": "截至2026年3月6日，高收益储蓄利率（最高4%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-march-6-2026-110023075.html",
+          "title_en": "Best high-yield savings interest rates today, March 6, 2026 (up to 4% APY return)"
         },
         {
           "source": "CNBC-Top",
@@ -246,7 +266,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
           "title": "美国是世界上最大的石油生产国——那么，为什么美国的汽油价格在上涨？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/the-us-is-the-worlds-biggest-oil-producer--so-why-are-gas-prices-rising-here-123211515.html",
@@ -255,7 +275,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
           "title": "本周股市：卖出规则、观察名单、通胀数据和伊朗",
           "summary": "",
           "url": "https://www.investors.com/research/investing-action-plan/stock-market-iran-war-adobe-oracle-defense-stocks-investors/?src=A00220&yptr=yahoo",
@@ -264,7 +284,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
           "title": "股市关注伊朗战争新闻。石油下一个动作可能很大。",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-iran-war-news-crude-oil-prices-trump/?src=A00220&yptr=yahoo",
@@ -273,7 +293,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
           "title": "通用动力领衔5只股票近期买点料在伊朗战争卖出潮中脱颖而出",
           "summary": "",
           "url": "https://www.investors.com/news/general-dynamics-stocks-to-watch-buy-point-hca-healthcare-att-t-tjx-equinix-data-centers-dividends/?src=A00220&yptr=yahoo",
@@ -282,29 +302,30 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
           "title": "一场与伊朗的长期战争可能意味着汽油价格的上涨。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/what-an-extended-war-with-iran-could-mean-for-gas-prices-225053494.html",
           "title_en": "What an extended war with Iran could mean for gas prices"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
-          "title": "如果油价达到100美元，沃尔玛是唯一能在收缩中茁壮成长的零售商。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/forget-amazon-oil-hits-100-152914006.html",
-          "title_en": "Forget Amazon, If Oil Hits $100, Walmart Is the Only Retailer Built to Thrive the Squeeze"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
           "title": "特朗普星期六发帖说：“今天伊朗会受到很大的打击！”",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/trump-on-saturday-posts-today-iran-will-be-hit-very-hard-93CH-4548503",
           "title_en": "Trump on Saturday posts \"Today Iran will be hit very hard!’"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-08 01:15:04",
+          "title": "伊朗战争可能会使2026年选举中的可负担性成为更大的问题。",
+          "summary": "中期选举期间关于可负担性问题的宣传可能会被伊朗战争和相关不确定性所打破。",
+          "url": "https://www.cnbc.com/2026/03/07/iran-war-affordability-midterm.html",
+          "title_en": "Iran war could make affordability bigger issue in 2026 elections",
+          "summary_en": "Midterm election messaging on affordability could be undercut by the Iran war and related uncertainty."
         },
         {
           "source": "CNBC-Top",
@@ -379,26 +400,6 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-07 21:00:01",
-          "title": "伊朗战争威胁到“可承受性”中期目标",
-          "summary": "中期选举期间关于可负担性问题的宣传可能会被伊朗战争和相关不确定性所打破。",
-          "url": "https://www.cnbc.com/2026/03/07/iran-war-affordability-midterm.html",
-          "title_en": "Iran war threatens to scramble the 'affordability' midterm",
-          "summary_en": "Midterm election messaging on affordability could be undercut by the Iran war and related uncertainty."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-07 21:00:00",
-          "title": "特朗普提议为在霍尔木兹海峡被困的油轮提供20亿美元的再保险。以下是为什么这可能不足以解决问题的原因。",
-          "summary": "波斯湾供应中断“速度比预期更快”，存储选项减少，迫使生产停机可能在下周开始，摩根大通分析师表示。",
-          "url": "https://www.marketwatch.com/story/trump-is-offering-20-billion-in-reinsurance-for-oil-tankers-stuck-in-the-strait-of-hormuz-heres-why-it-might-not-be-enough-3e9090a4?mod=mw_rss_topstories",
-          "title_en": "Trump is offering $20 billion in reinsurance for oil tankers stuck in the Strait of Hormuz. Here’s why it might not be enough.",
-          "summary_en": "Supply disruptions in the Persian Gulf “are accelerating faster than expected” as storage options dwindle and force production shut-ins as early as next week, J.P. Morgan analysts said."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
           "time": "2026-03-07 08:07:18",
           "title": "Palantir周涨幅达15%，伊朗战争带来利好，安塞普（Anthropic）担忧被淡化。",
           "summary": "帕拉丁的股票自8月以来表现最佳，并超越了所有大型科技股，美国对伊朗发动袭击后。",
@@ -415,13 +416,43 @@
           "url": "https://www.cnbc.com/2026/03/05/anthropic-pentagon-ai-claude-iran.html",
           "title_en": "Anthropic officially told by DOD that it's a supply chain risk even as Claude used in Iran",
           "summary_en": "The formal declaration will require defense vendors and contractors to certify that they don’t use Anthropic’s models in their work with the Pentagon."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-07 04:23:08",
+          "title": "石油价格周涨幅达35%，创历史新高，自1983年以来最大涨幅。",
+          "summary": "石油市场担心，如果通过霍尔木兹海峡的油轮无法通行，海湾国家将不得不关闭产量。",
+          "url": "https://www.cnbc.com/2026/03/06/iran-us-war-oil-prices-brent-wti-barrel-futures.html",
+          "title_en": "Oil surges 35% this week for biggest gain in futures trading history dating back to 1983",
+          "summary_en": "The oil market is worried that Gulf countries will have to shut production if tankers are unable to pass through the Strait of Hormuz."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-07 01:48:36",
+          "title": "丰田、现代和中国汽车制造商料将是伊朗战争最受影响的企业。",
+          "summary": "虽然地区销售将受到影响，但霍尔木兹海峡关闭和油价上涨将对全球汽车行业产生连锁反应。",
+          "url": "https://www.cnbc.com/2026/03/06/iran-war-automakers-toyota-hyundai-china.html",
+          "title_en": "Toyota, Hyundai and Chinese automakers expected to be most impacted by Iran war",
+          "summary_en": "While regional sales will be impacted, the closing of the Strait of Hormuz and rising oil prices will have ripple effects across the global automotive industry."
         }
       ]
     },
     {
       "name": "特斯拉链",
       "badge": "TSLA chain",
-      "items": []
+      "items": [
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 01:16:13",
+          "title": "美国银行再次对特斯拉乐观。这种乐观是否是买入TSLA股票的理由？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/bank-america-bullish-tesla-again-140002231.html",
+          "title_en": "Bank of America Is Bullish on Tesla Again. Is That a Reason to Buy TSLA Stock?"
+        }
+      ]
     },
     {
       "name": "其他",
@@ -430,15 +461,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
-          "title": "TQQQ Holders Face a Risk That Has Nothing to Do With the Nasdaq Falling",
+          "time": "2026-03-08 01:16:13",
+          "title": "养老金储户在2025年市场波动中保持冷静——并且许多人成为百万富翁",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/tqqq-holders-face-risk-nothing-160748846.html"
+          "url": "https://finance.yahoo.com/news/retirement-savers-shook-off-2025-volatility--and-many-became-millionaires-100028784.html",
+          "title_en": "Retirement savers shook off 2025 volatility — and many became millionaires"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
           "title": "养老储蓄计划可以用来支付首付款，但你应该这样做吗？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/retirement-savings-plans-used-fund-154457406.html",
@@ -447,7 +479,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
           "title": "购买Medicare优势计划后后悔？你还有几周的时间来纠正。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/buyers-remorse-with-your-medicare-advantage-plan-you-have-a-few-weeks-left-to-fix-it-153745416.html",
@@ -456,7 +488,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
+          "title": "瑞典电动汽车制造商Polestar的股价周内下跌29%。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/drove-polestar-stock-down-29-170000994.html",
+          "title_en": "What Drove Polestar Stock Down 29% This Week?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 01:16:13",
           "title": "越来越多的美国人提前取出401(k)退休账户",
           "summary": "",
           "url": "https://finance.yahoo.com/news/why-more-americans-are-taking-401k-withdrawals-143050614.html",
@@ -465,7 +506,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
           "title": "马克思表示不要让战争“影响你的情绪”来投资。如何在动荡时期坚持下去",
           "summary": "",
           "url": "https://finance.yahoo.com/news/howard-marks-says-don-t-133000984.html",
@@ -474,7 +515,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
+          "time": "2026-03-08 01:16:13",
           "title": "23岁继承了450万美元，停留在那里不知道下一步该怎么做。戴夫拉姆西说，什么能带来“最大的提升”。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/23-old-inherited-450k-parked-131300791.html",
@@ -483,105 +524,101 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
-          "title": "Suze Orman Says Parents Have A 'Golden Opportunity' To Launch Kids to $1M Tax-Free – 'I Think That's a Mighty Compelling Conversation Starter'",
+          "time": "2026-03-08 01:16:13",
+          "title": "这家辉煌增长股跌幅达60%。你应该大力买入它。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/suze-orman-says-parents-golden-160115919.html"
+          "url": "https://finance.yahoo.com/news/glorious-growth-stock-down-60-165000093.html",
+          "title_en": "This Glorious Growth Stock Is Down 60%. Here's Why You Should Buy It Hand Over Fist."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
-          "title": "高收入夫妇的固定成本占收入的惊人92%。拉米特·塞蒂（Ramit Sethi）解释了他们的阻碍。",
+          "time": "2026-03-08 01:16:13",
+          "title": "福特股价周内大跌",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/fixed-costs-gobble-staggering-92-124500653.html",
-          "title_en": "Fixed costs gobble up a staggering 92% of high-earning couple's income. Ramit Sethi explains what's blocking their path"
+          "url": "https://finance.yahoo.com/news/why-ford-stock-sank-week-164935011.html",
+          "title_en": "Why Ford Stock Sank This Week"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
-          "title": "MTG警告社会保障即将面临危机，呼吁美国停止“资助外国战争”来拯救该计划。",
+          "time": "2026-03-08 01:16:13",
+          "title": "专家认为，房市是否会再次崩溃？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/mtg-flags-imminent-social-security-123500938.html",
-          "title_en": "MTG flags imminent Social Security crisis — urges US to stop ‘funding foreign wars’ to save the program. Secure your inc"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-the-housing-market-crash-again-170038789.html",
+          "title_en": "Is the housing market going to crash again? Here's what experts think."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
-          "title": "Chamath Palihapitiya Says Elon Musk's 'X Money' Could Turn Social Profiles Into 'Crucial Financial Asset'",
+          "time": "2026-03-08 01:16:13",
+          "title": "2025年儿童税额：了解您需要知道的所有内容",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/chamath-palihapitiya-says-elon-musks-160114409.html"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/child-tax-credit-everything-you-need-to-know-for-the-2025-tax-year-170205343.html",
+          "title_en": "Child tax credit: Everything you need to know for the 2025 tax year"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
-          "title": "我们刚刚得知我爸爸有了一份保险-policy，12年后。与保险公司的窗口期是否已经关闭？",
+          "time": "2026-03-08 01:16:13",
+          "title": "奥拉克尔的巨型5000亿美元星门项目遇到困难吗？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/just-learned-dad-had-life-123000219.html",
-          "title_en": "We just learned my dad had a life insurance policy, 12 years later. Has the window closed with the insurer?"
+          "url": "https://finance.yahoo.com/news/oracle-massive-500-billion-stargate-164657348.html",
+          "title_en": "Is Oracle’s Massive $500 Billion Stargate Project in Trouble?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
-          "title": "一位德克萨斯州的女性继承了200万美元，想知道是否应该用来还清房贷或投资。拉姆西秀建议她“买时间”。",
+          "time": "2026-03-08 01:16:13",
+          "title": "房主可享受的8项税务扣除",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/tx-woman-inheriting-200k-wonders-123000405.html",
-          "title_en": "TX woman is inheriting $200K and wonders whether to pay off her house or invest. The Ramsey Show says ‘buy time’ instead"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/8-tax-deductions-for-homeowners-under-the-one-big-beautiful-bill-161418034.html",
+          "title_en": "8 tax deductions for homeowners under the One Big Beautiful Bill"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
-          "title": "Teradyne, Inc. (TER)被分析师评为中性买入。",
+          "time": "2026-03-08 01:16:13",
+          "title": "死亡和税收：是的，你欠的就是你死的那一年",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/teradyne-inc-ter-moderate-buy-121112673.html",
-          "title_en": "Teradyne, Inc. (TER) a Moderate Buy, Say Analysts"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/death-and-taxes-yes-you-owe-the-year-you-die-170041377.html",
+          "title_en": "Death and taxes: Yes, you owe the year you die"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
-          "title": "Robert Kiyosaki’s Best and Worst Advice",
+          "time": "2026-03-08 01:16:13",
+          "title": "为老年人提供最便宜的汽车保险",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/robert-kiyosaki-best-worst-advice-160006592.html"
+          "url": "https://finance.yahoo.com/personal-finance/insurance/article/car-insurance-for-seniors-182444135.html",
+          "title_en": "Cheapest car insurance for seniors"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
-          "title": "华尔街对Robinhood Markets, Inc. (HOOD)持强买态度",
+          "time": "2026-03-08 01:16:13",
+          "title": "2026年社会保障价格通胀调整（COLA）已经开始对退休者造成损害",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/wall-street-bullish-robinhood-markets-121103472.html",
-          "title_en": "Wall Street Bullish on Robinhood Markets, Inc. (HOOD) with Strong Buy"
+          "url": "https://finance.yahoo.com/news/2026-social-security-cola-already-163757814.html",
+          "title_en": "The 2026 Social Security COLA Is Already Failing Retirees"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
-          "title": "你需要了解的AMD（AMD）投资前几点",
+          "time": "2026-03-08 01:16:13",
+          "title": "最便宜的车险给好驾驶者",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/know-investing-advanced-micro-devices-121051665.html",
-          "title_en": "Here Is What You Need To Know Before Investing In Advanced Micro Devices, Inc. (AMD)"
+          "url": "https://finance.yahoo.com/personal-finance/insurance/article/cheapest-car-insurance-good-drivers-195921258.html",
+          "title_en": "Cheapest car insurance for good drivers"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
-          "title": "Hims & Hers Surprise Rescue: Stock Explodes 40% on GLP-1 Truce",
+          "time": "2026-03-08 01:16:13",
+          "title": "税款退还延迟影响某些州。你的州是否受影响？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/hims-hers-surprise-rescue-stock-155648435.html"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-08 00:26:28",
-          "title": "Wayfair's Co-Founder Sells Company Shares Worth $2.1 Million. Is the Stock a Buy or Sell?",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/wayfairs-co-founder-sells-company-155532609.html"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refund-delays-hit-certain-states-is-yours-one-of-them-205225296.html",
+          "title_en": "Tax refund delays hit certain states. Is yours one of them?"
         }
       ]
     }
