@@ -1,6 +1,6 @@
 {
   "date": "2026.03.07",
-  "generatedAtBJT": "2026-03-07 21:54:52",
+  "generatedAtBJT": "2026-03-07 22:00:19",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-07 21:54:52",
+          "time": "2026-03-07 22:00:19",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注股市关注伊朗战争新闻。石油的下一步动作可能是大幅波动。\n\n- 宏观/Fed：关注今日最佳定期存款利率（最高4%年利率）\n\n- 科技/半导体：了解20%投资人工智能ETF的投资组合\n\n- TSLA：关注美国银行恢复对特斯拉（TSLA）的覆盖，提高评级",
+          "summary": "- 地缘/避险：关注股市聚焦伊朗战争新闻。石油下一个动作可能是大幅波动。\n- 宏观/Fed：关注美联储总督Miranda表示，2月份的失业率增加了对美联储加息的理由。\n- 科技/半导体：IREN的6亿美元股票发行：这是AMC娱乐2.0的重演吗？关键词：人本主义，亚马逊，已可用，客户，交易\n- TSLA：关注美银美林重新评估特斯拉（TSLA），提高评级。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Stock Market Focus On Iran War News. Oil's Next Move Could Be Bi…\n- 宏观/Fed：关注 Best CD rates today, March 6, 2026 (up to 4% APY return)…\n- 科技/半导体：Meet the Artificial Intelligence (AI) ETF With 20% of Its Portfo… 关键词: anthropic, amazon, available, customers, deal\n- TSLA：关注 Bank of America Resumes Coverage on Tesla, Inc. (TSLA), Upgrades…"
+          "summary_en": "- 地缘/避险：关注 Stock Market Focus On Iran War News. Oil's Next Move Could Be Bi…\n- 宏观/Fed：关注 Fed Governor Miran says job losses in February add to the case f…\n- 科技/半导体：IREN’s $6 Billion Stock Offering: Is This AMC Entertainment 2.0 … 关键词: anthropic, amazon, available, customers, deal\n- TSLA：关注 Bank of America Resumes Coverage on Tesla, Inc. (TSLA), Upgrades…"
         }
       ]
     },
@@ -29,7 +29,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
+          "title": "IREN的6亿美元股票发行：这是AI时代的AMC娱乐2.0吗？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/iren-6-billion-stock-offering-134912537.html",
+          "title_en": "IREN’s $6 Billion Stock Offering: Is This AMC Entertainment 2.0 for the AI Era?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 22:00:15",
           "title": "与其20%投资于Alphabet、Nvidia、Micron和Amazon的人工智能指数基金相遇",
           "summary": "",
           "url": "https://finance.yahoo.com/news/meet-artificial-intelligence-ai-etf-134200771.html",
@@ -38,7 +47,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "Tempus AI, Inc. (TEM)宣布与默克达成战略协议，推动人工智能驱动的精准医学",
           "summary": "",
           "url": "https://finance.yahoo.com/news/tempus-ai-inc-tem-announces-121121827.html",
@@ -47,16 +56,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
-          "title": "Meta 正在尝试自行设计和制造自己的 AI 芯片。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/meta-wants-build-own-ai-133107887.html",
-          "title_en": "Meta Wants To Build Its Own AI Chips - Here's Why"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "美国股票基金在AI担忧中勉强获得二月份的收益",
           "summary": "",
           "url": "https://www.investors.com/etfs-and-funds/personal-finance/stock-market-funds-eke-out-february-gain-despite-ai-worries/?src=A00220&yptr=yahoo",
@@ -65,16 +65,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
-          "title": "贾米·迪蒙警告称：我的焦虑很高：AI资产膨胀的风险。如何保护您的投资组合免受超级周期崩溃的影响。",
+          "time": "2026-03-07 22:00:15",
+          "title": "越来越多的人信赖人工智能为退休储蓄提供建议，但它有时会错误。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/anxiety-high-jamie-dimon-warns-114700799.html",
-          "title_en": "‘My anxiety is high’: Jamie Dimon warns of inflated AI assets. How to protect your portfolio from a supercycle collapse"
+          "url": "https://finance.yahoo.com/news/more-people-trusting-ai-retirement-121500056.html",
+          "title_en": "More people are trusting AI for retirement savings advice, but it's wrong 35% of the time. Here’s what to need to know"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 22:00:15",
+          "title": "Meta 正在尝试自行设计和制造自己的 AI 芯片。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/meta-wants-build-own-ai-133107887.html",
+          "title_en": "Meta Wants To Build Its Own AI Chips - Here's Why"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "美国拟出台人工智能规则，要求任何合法用途的模型都必须使用民用模型。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-drafts-ai-rules-requiring-civilian-models-for-any-lawful-use-93CH-4548502",
@@ -83,7 +92,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "美国制定了新的严格的AI指南，FT报道称与Anthropic发生冲突。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-draws-up-strict-new-ai-guidelines-amid-anthropic-clash-ft-reports-4548246",
@@ -98,16 +107,6 @@
           "url": "https://www.cnbc.com/2026/03/06/amazon-aws-anthropic-claude-pentagon-blacklist.html",
           "title_en": "Amazon says Anthropic’s Claude still OK for AWS customers to use outside defense work",
           "summary_en": "Amazon joined Microsoft and Google in continue to offer Anthropic's Claude AI technology to customers after the Pentagon deemed it a \"supply chain risk.\""
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-07 07:01:00",
-          "title": "四家公司，包括人工智能和数据中心玩家，加入了标普500指数。",
-          "summary": "Vertiv、Lumentum、Coherent 和 EchoStar 加入了 S&P 500。",
-          "url": "https://www.marketwatch.com/story/s-p-500-changes-are-due-out-soon-these-ai-stocks-could-join-the-index-ded9e245?mod=mw_rss_topstories",
-          "title_en": "Four companies, including AI and data-center plays, are joining the S&P 500 index",
-          "summary_en": "Vertiv, Lumentum, Coherent and EchoStar are the newest entrants to the S&P 500."
         },
         {
           "source": "CNBC-Top",
@@ -176,24 +175,6 @@
       "badge": "Fed / Policy",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
-          "title": "截至2026年3月6日，最佳定期存款利率（最高4%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-march-6-2026-110033555.html",
-          "title_en": "Best CD rates today, March 6, 2026 (up to 4% APY return)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
-          "title": "截至2026年3月6日，高收益储蓄利率（最高4%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-march-6-2026-110023075.html",
-          "title_en": "Best high-yield savings interest rates today, March 6, 2026 (up to 4% APY return)"
-        },
-        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-07 02:14:50",
@@ -232,7 +213,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "股市关注伊朗战争新闻。石油下一个动作可能很大。",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-iran-war-news-crude-oil-prices-trump/?src=A00220&yptr=yahoo",
@@ -241,7 +222,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "通用动力领衔5只股票近期买点料在伊朗战争卖出潮中脱颖而出",
           "summary": "",
           "url": "https://www.investors.com/news/general-dynamics-stocks-to-watch-buy-point-hca-healthcare-att-t-tjx-equinix-data-centers-dividends/?src=A00220&yptr=yahoo",
@@ -250,7 +231,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "美国是世界上最大的石油生产国——那么，为什么美国的汽油价格在上涨？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/the-us-is-the-worlds-biggest-oil-producer--so-why-are-gas-prices-rising-here-123211515.html",
@@ -259,7 +240,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "特朗普星期六发帖说：“今天伊朗会受到很大的打击！”",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/trump-on-saturday-posts-today-iran-will-be-hit-very-hard-93CH-4548503",
@@ -414,7 +395,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "美国银行恢复对特斯拉的覆盖，升级为买入",
           "summary": "",
           "url": "https://finance.yahoo.com/news/bank-america-resumes-coverage-tesla-120907487.html",
@@ -429,7 +410,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "马克思表示不要让战争“影响你的情绪”来投资。如何在动荡时期坚持下去",
           "summary": "",
           "url": "https://finance.yahoo.com/news/howard-marks-says-don-t-133000984.html",
@@ -438,7 +419,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "23岁继承了450万美元，停留在那里不知道下一步该怎么做。戴夫拉姆西说，什么能带来“最大的提升”。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/23-old-inherited-450k-parked-131300791.html",
@@ -447,16 +428,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
-          "title": "Jefferies Financial表示，西方联盟(Western Alliance)诉讼案可能会对其股价产生短期影响，但长期来看，公司的业务和盈利能力不会受到影响。",
+          "time": "2026-03-07 22:00:15",
+          "title": "如果10年前你在可口可乐或百事可乐投资了1000美元，今天你将拥有多少？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jefferies-financial-comments-western-alliance-133753942.html",
-          "title_en": "Jefferies Financial comments on Western Alliance lawsuit"
+          "url": "https://finance.yahoo.com/news/had-invested-1-000-coca-134537912.html",
+          "title_en": "Had You Invested $1,000 in Coca-Cola or PepsiCo 10 Years Ago, Here’s What You’d Have Today"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "高收入夫妇的固定成本占收入的惊人92%。拉米特·塞蒂（Ramit Sethi）解释了他们的阻碍。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/fixed-costs-gobble-staggering-92-124500653.html",
@@ -465,7 +446,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "MTG警告社会保障即将面临危机，呼吁美国停止“资助外国战争”来拯救该计划。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/mtg-flags-imminent-social-security-123500938.html",
@@ -474,25 +455,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
-          "title": "我们刚刚得知我爸爸有了一份保险-policy，12年后。与保险公司的窗口期是否已经关闭？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/just-learned-dad-had-life-123000219.html",
-          "title_en": "We just learned my dad had a life insurance policy, 12 years later. Has the window closed with the insurer?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
-          "title": "美商马威价格目标上调至135美元，原价目标为130美元。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/marvell-price-target-raised-135-133619482.html",
-          "title_en": "Marvell price target raised to $135 from $130 at B. Riley"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "一位德克萨斯州的女性继承了200万美元，想知道是否应该用来还清房贷或投资。拉姆西秀建议她“买时间”。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/tx-woman-inheriting-200k-wonders-123000405.html",
@@ -501,7 +464,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
+          "title": "我们刚刚得知我爸爸有了一份保险-policy，12年后。与保险公司的窗口期是否已经关闭？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/just-learned-dad-had-life-123000219.html",
+          "title_en": "We just learned my dad had a life insurance policy, 12 years later. Has the window closed with the insurer?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 22:00:15",
           "title": "Teradyne, Inc. (TER)被分析师评为中性买入。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/teradyne-inc-ter-moderate-buy-121112673.html",
@@ -510,7 +482,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "华尔街对Robinhood Markets, Inc. (HOOD)持强买态度",
           "summary": "",
           "url": "https://finance.yahoo.com/news/wall-street-bullish-robinhood-markets-121103472.html",
@@ -519,16 +491,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
-          "title": "一只增长股跌幅60%，华尔街认为这是买入的绝佳时机",
+          "time": "2026-03-07 22:00:15",
+          "title": "Jefferies Financial表示，西方联盟(Western Alliance)诉讼案可能会对其股价产生短期影响，但长期来看，公司的业务和盈利能力不会受到影响。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/1-growth-stock-down-60-133500430.html",
-          "title_en": "1 Growth Stock Down 60% You'll Wish You'd Bought on the Dip, According to Wall Street"
+          "url": "https://finance.yahoo.com/news/jefferies-financial-comments-western-alliance-133753942.html",
+          "title_en": "Jefferies Financial comments on Western Alliance lawsuit"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "你需要了解的AMD（AMD）投资前几点",
           "summary": "",
           "url": "https://finance.yahoo.com/news/know-investing-advanced-micro-devices-121051665.html",
@@ -537,7 +509,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "CRISPR Therapeutics AG (CRSP)被标记为中性买入，华尔街方面如此评估。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/crispr-therapeutics-ag-crsp-moderate-121029432.html",
@@ -546,7 +518,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "中东危机推动Palantir Technologies Inc. (PLTR)的反弹",
           "summary": "",
           "url": "https://finance.yahoo.com/news/middle-east-crisis-drives-palantir-121002046.html",
@@ -555,7 +527,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "科因宝（COIN）是否在ARK投资2026年重点股票名单中？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/coinbase-global-inc-coin-among-120954631.html",
@@ -564,16 +536,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
-          "title": "卡尔斯麦德在会议上公布个性化脊柱平台，目标2025年收入70-75.5亿美元",
+          "time": "2026-03-07 22:00:15",
+          "title": "美商马威价格目标上调至135美元，原价目标为130美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/carlsmed-unveils-personalized-spine-platform-133200337.html",
-          "title_en": "Carlsmed Unveils Personalized Spine Platform, Targets $70M-$75.5M 2025 Revenue at Conference"
+          "url": "https://finance.yahoo.com/news/marvell-price-target-raised-135-133619482.html",
+          "title_en": "Marvell price target raised to $135 from $130 at B. Riley"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "分析师预见罗库公司(Roku, Inc. ROKU)将上涨32%",
           "summary": "",
           "url": "https://finance.yahoo.com/news/analysts-see-32-upside-roku-120945751.html",
@@ -582,11 +554,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:54:47",
+          "time": "2026-03-07 22:00:15",
           "title": "Shopify Inc. (SHOP) 被认为是强买股，根据华尔街的看法。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/shopify-inc-shop-strong-buy-120936735.html",
           "title_en": "Shopify Inc. (SHOP) a Strong Buy, Per Wall Street"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 22:00:15",
+          "title": "雷·达略表示，美国面临着“债务死亡螺旋”——但你可以通过以下3种资产来保护你的投资组合。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/ray-dalio-says-america-facing-120500455.html",
+          "title_en": "Ray Dalio says America is facing a ‘debt death spiral’ — but you can protect your portfolio with these 3 assets"
         }
       ]
     }
