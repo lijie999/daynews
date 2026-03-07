@@ -1,6 +1,6 @@
 {
   "date": "2026.03.07",
-  "generatedAtBJT": "2026-03-07 16:37:05",
+  "generatedAtBJT": "2026-03-07 17:07:11",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-07 16:37:05",
+          "time": "2026-03-07 17:07:11",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注汽油以外，柴油对经济的反应更为激进。\n- 宏观/Fed：关注CPI Card Group Q4财报电话会议亮点…\n- 科技/半导体：Oracle面对AI资金紧张，计划裁员数千人…\n- TSLA：关注Beam Global (BEEM)推进无线充电和自动驾驶技术。",
+          "summary": "- 地缘/避险：关注亚洲寻找燃油困难，中东出口大幅下降，...\n- 宏观/Fed：关注美联储理事Miranda表示，2月份的失业人数增加了对美联储加息的理由，...\n- 科技/半导体：软银计划借贷40亿美元来投资OpenAI，...\n- TSLA：关注Beam Global (BEEM)推进无线充电和自动驾驶电动汽车技术，...",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 It's not just gasoline. Diesel reacting 'more aggressively' to o…\n- 宏观/Fed：关注 CPI Card Group Q4 Earnings Call Highlights…\n- 科技/半导体：Oracle Plans Thousands of Job Cuts in Face of AI Cash Crunch… 关键词: anthropic, ceo, amazon, available, cash\n- TSLA：关注 Beam Global (BEEM) Advances Off-Grid EV Charging and Autonomous …"
+          "summary_en": "- 地缘/避险：关注 Asia struggles to find fuel oil as Middle East exports plummet, …\n- 宏观/Fed：关注 Fed Governor Miran says job losses in February add to the case f…\n- 科技/半导体：SoftBank eyes up to $40 billion loan to fund OpenAI investment, … 关键词: anthropic, amazon, available, center, ceo\n- TSLA：关注 Beam Global (BEEM) Advances Off-Grid EV Charging and Autonomous …"
         }
       ]
     },
@@ -29,16 +29,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "甲骨文计划因人工智能资金紧张而裁员数千人",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/oracle-plans-thousands-job-cuts-180243222.html",
-          "title_en": "Oracle Plans Thousands of Job Cuts in Face of AI Cash Crunch"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
+          "time": "2026-03-07 17:07:07",
           "title": "软银计划借贷至多40亿美元来融资OpenAI投资，布隆伯格新闻报道。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/softbank-seeks-40-billion-loan-042731791.html",
@@ -47,7 +38,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
+          "time": "2026-03-07 17:07:07",
           "title": "Shoals Technologies Group, Inc. (SHLS) 与 ON.energy 合作，基于历史最高的订单量，推进 AI 数据中心机会",
           "summary": "",
           "url": "https://finance.yahoo.com/news/shoals-technologies-group-inc-shls-065038332.html",
@@ -56,7 +47,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
+          "time": "2026-03-07 17:07:07",
+          "title": "Bandwidth在Morgan Stanley会议上突出展示了语音AI的风向标、Maestro“赢家”和债务削减。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/bandwidth-highlights-voice-ai-tailwind-060811316.html",
+          "title_en": "Bandwidth Highlights Voice AI Tailwind, Maestro “Winaways” and Debt Cut at Morgan Stanley Conference"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 17:07:07",
           "title": "2月份，印度IT股价外流达到7个月高点，受AI冲击波影响",
           "summary": "",
           "url": "https://finance.yahoo.com/news/foreign-outflows-indian-stocks-7-065502507.html",
@@ -65,7 +65,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
+          "time": "2026-03-07 17:07:07",
           "title": "美国制定了新的严格的AI指南，FT报道称与Anthropic发生冲突。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-draws-up-strict-new-ai-guidelines-amid-anthropic-clash-ft-reports-4548246",
@@ -74,7 +74,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
+          "time": "2026-03-07 17:07:07",
           "title": "Nvidia为CEO黄仁勋在2027财年计划设定了400万美元的现金奖金目标。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/nvidia-sets-4-million-cash-bonus-for-ceo-huang-under-2027-compensation-plan-4547912",
@@ -169,16 +169,6 @@
           "url": "https://www.cnbc.com/2026/03/05/amazon-online-store-suffers-outage-for-some-users.html",
           "title_en": "Amazon says hours-long outage was triggered by 'software code deployment'",
           "summary_en": "Amazon users reported trouble accessing checkout and account information, as well as viewing product detail pages."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-06 05:00:26",
-          "title": "布罗德كم股价大涨，CEO陈丹强有力地论证了人工智能增长的持久性",
-          "summary": "布罗德كم公司的AI收入预测超出了华尔街分析师的许多乐观预期。",
-          "url": "https://www.cnbc.com/2026/03/05/broadcom-stock-rally-ai-chip-growth.html",
-          "title_en": "Broadcom stock rallies as CEO Tan makes strong case for why AI growth will last",
-          "summary_en": "Broadcom's AI revenue forecast surpassed many bullish expectations from Wall Street analysts."
         }
       ]
     },
@@ -186,15 +176,6 @@
       "name": "美联储与政策",
       "badge": "Fed / Policy",
       "items": [
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "CPI Card Group Q4财报电话会议亮点：",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/cpi-card-group-q4-earnings-040559874.html",
-          "title_en": "CPI Card Group Q4 Earnings Call Highlights"
-        },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
@@ -234,16 +215,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "汽油价格上涨还不是主要问题，柴油价格则因伊朗战争而“更为激进”地反应油价跳涨。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/its-not-just-gasoline-diesel-reacting-more-aggressively-to-oil-price-jump-amid-iran-war-180810064.html",
-          "title_en": "It's not just gasoline. Diesel reacting 'more aggressively' to oil price jump amid Iran war."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
+          "time": "2026-03-07 17:07:07",
           "title": "亚洲难以找到燃油，因为中东出口大幅下降，消息人士称。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/asia-struggles-fuel-oil-middle-055447240.html",
@@ -252,20 +224,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "石油价格已攀升21%",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/oil-set-16-weekly-gain-064550470.html",
-          "title_en": "Oil Prices Have Climbed 21% This Week"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
+          "time": "2026-03-07 17:07:07",
           "title": "石油价格攀升至2023年以来最高点，股市则因美国就业市场疲弱的数据而下滑。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/asia-shares-mixed-following-wall-054143125.html",
           "title_en": "Oil surges to its highest price since 2023, and stocks drop after a weak update on the US job market"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 17:07:07",
+          "title": "美国批准印度暂时豁免进口俄罗斯石油",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/us-grants-temporary-waiver-india-055043829.html",
+          "title_en": "US Grants Temporary Waiver for India to Import Russian Oil"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 17:07:07",
+          "title": "石油价格已攀升21%",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/oil-set-16-weekly-gain-064550470.html",
+          "title_en": "Oil Prices Have Climbed 21% This Week"
         },
         {
           "source": "CNBC-Top",
@@ -416,7 +397,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
+          "time": "2026-03-07 17:07:07",
           "title": "Beam Global (BEEM) 推进无线电充电和自动驾驶汽车技术",
           "summary": "",
           "url": "https://finance.yahoo.com/news/beam-global-beem-advances-off-065041108.html",
@@ -431,133 +412,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "中东动荡加剧，市场波动升高，如何保护您的钱？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/how-to-protect-your-money-as-mideast-turmoil-fuels-market-volatility-151109902.html",
-          "title_en": "How to protect your money as Mideast turmoil fuels market volatility"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "退休后如何管理退休账户？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/ask-advisor-retirement-accounts-retire-160430428.html",
-          "title_en": "Ask an Advisor: What Are My Options for Managing My Retirement Account After I Retire?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "401(k)账户余额大幅上涨，但提取金额创下历史新高",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/401-k-balances-way-withdrawals-050100629.html",
-          "title_en": "401(k) Balances Are Way Up. But Withdrawals Have Reached Record Levels"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "Netflix 股票上月涨幅达15.3%",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/netflix-stock-gained-15-3-035214743.html",
-          "title_en": "How Netflix Stock Gained 15.3% Last Month"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "黑石的小额贷款减值损失引发私人信贷警报",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/blackrock-writedown-small-loan-fuels-050100069.html",
-          "title_en": "BlackRock’s Writedown of Small Loan Fuels Private Credit Alarm"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "XYPN的迈克尔·基茨斯谈退休和翻转心理开关",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/xypn-michael-kitces-talks-retirement-050200498.html",
-          "title_en": "XYPN’s Michael Kitces Talks Retirement and Flipping the Psychological Switch"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "社保局的惊人退休规划错误",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/surprising-retirement-planning-mistake-starts-050300744.html",
-          "title_en": "The Surprising Retirement Planning Mistake that Starts at the SSA"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "Compass Point将Innovative Industrial Properties（IIPR）调整至中性评级。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/compass-point-moves-innovative-industrial-024956151.html",
-          "title_en": "Compass Point Moves Innovative Industrial Properties (IIPR) to Neutral"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "我仍然不买CrowdStrike股票的原因",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/why-im-still-not-buying-035100571.html",
-          "title_en": "Why I'm Still Not Buying CrowdStrike Stock"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "巴克莱更新自助储存REIT模型，提高国家储存附属公司（NSA）的目标价",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/barclays-updates-self-storage-reit-024657407.html",
-          "title_en": "Barclays Updates Self-Storage REIT Models, Raises National Storage Affiliates (NSA) Target"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "Stifel 将 Global Partners (GLP) 目标价提高至 46 美元，持有评级保持不变。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/stifel-increases-global-partners-glp-024431132.html",
-          "title_en": "Stifel Increases Global Partners (GLP) Target to $46 with Hold Rating Intact"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "德意志银行、富国银行降低了坎贝尔(CPB)股价目标因前景恶化",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/deutsche-bank-wells-fargo-cut-024027658.html",
-          "title_en": "Deutsche Bank, Wells Fargo Cut Campbell’s (CPB) Price Targets as Outlook Weakens"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "DA 大卫森下调了Best Buy (BBY) 的股价目标评级",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/da-davidson-reduces-best-buy-023838245.html",
-          "title_en": "DA Davidson Reduces Best Buy (BBY) Price Target Following Earnings Review"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "帕克-俄亥俄第四季度财报电话会议亮点： \n\n帕克-俄亥俄第四季度收入为2.35亿美元，同比增长17%。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/park-ohio-q4-earnings-call-040559041.html",
-          "title_en": "Park-Ohio Q4 Earnings Call Highlights"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
+          "time": "2026-03-07 17:07:07",
           "title": "路德斯汉莎2025年营业利润超预期，但2026年前景不明朗，受中东紧张局势影响。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/lufthansa-reports-2025-operating-profit-060404046.html",
@@ -566,29 +421,155 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "摩根士丹利降低普利盛金融（PRU）股价目标后更新保险估算",
+          "time": "2026-03-07 17:07:07",
+          "title": "Amprius Technologies Q4财报电话会议亮点",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/morgan-stanley-reduces-prudential-financial-023655726.html",
-          "title_en": "Morgan Stanley Reduces Prudential Financial (PRU) Price Target after Updating Insurance Estimates"
+          "url": "https://finance.yahoo.com/news/amprius-technologies-q4-earnings-call-060805742.html",
+          "title_en": "Amprius Technologies Q4 Earnings Call Highlights"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "威瑞森（VZ）正在审视NFL合作伙伴关系和其他赞助协议以削减成本。",
+          "time": "2026-03-07 17:07:07",
+          "title": "联邦房地产（FRT）价格目标由 Ladenburg 提高至 $125 美元，随着零售REIT的重新评估。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/verizon-vz-reviewing-nfl-partnership-023445431.html",
-          "title_en": "Verizon (VZ) Reviewing NFL Partnership and Other Sponsorship Deals to Cut Costs"
+          "url": "https://finance.yahoo.com/news/federal-realty-frt-price-target-055159835.html",
+          "title_en": "Federal Realty (FRT) Price Target Raised to $125 at Ladenburg amid Retail REIT Re-Rating"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 16:37:01",
-          "title": "Pattern Energy Q4业绩电话会议亮点",
+          "time": "2026-03-07 17:07:07",
+          "title": "UBS降低哈雷戴维森(HOG)股价目标；摩根士丹利认为消费环境不平衡",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/pattern-group-q4-earnings-call-040600861.html",
-          "title_en": "Pattern Group Q4 Earnings Call Highlights"
+          "url": "https://finance.yahoo.com/news/ubs-cuts-harley-davidson-hog-054434190.html",
+          "title_en": "UBS Cuts Harley-Davidson (HOG) Price Target; Morgan Stanley Sees Uneven Consumer Environment"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 17:07:07",
+          "title": "退休后如何管理退休账户？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/ask-advisor-retirement-accounts-retire-160430428.html",
+          "title_en": "Ask an Advisor: What Are My Options for Managing My Retirement Account After I Retire?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 17:07:07",
+          "title": "401(k)账户余额大幅上涨，但提取金额创下历史新高",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/401-k-balances-way-withdrawals-050100629.html",
+          "title_en": "401(k) Balances Are Way Up. But Withdrawals Have Reached Record Levels"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 17:07:07",
+          "title": "社保局的惊人退休规划错误",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/surprising-retirement-planning-mistake-starts-050300744.html",
+          "title_en": "The Surprising Retirement Planning Mistake that Starts at the SSA"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 17:07:07",
+          "title": "黑石的小额贷款减值损失引发私人信贷警报",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/blackrock-writedown-small-loan-fuels-050100069.html",
+          "title_en": "BlackRock’s Writedown of Small Loan Fuels Private Credit Alarm"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 17:07:07",
+          "title": "Ambiq Micro Q4 业绩电话会议亮点",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/ambiq-micro-q4-earnings-call-060804229.html",
+          "title_en": "Ambiq Micro Q4 Earnings Call Highlights"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 17:07:07",
+          "title": "XYPN的迈克尔·基茨斯谈退休和翻转心理开关",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/xypn-michael-kitces-talks-retirement-050200498.html",
+          "title_en": "XYPN’s Michael Kitces Talks Retirement and Flipping the Psychological Switch"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 17:07:07",
+          "title": "Beam Global (BEEM) 在巴尔干地区多个国家的智能城市基础设施销售额超1百万美元",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/beam-global-beem-secures-1m-073438458.html",
+          "title_en": "Beam Global (BEEM) Secures $1M+ in Balkan Smart City Infrastructure Sales Across Multiple Countries"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 17:07:07",
+          "title": "a.k.a. Brands Q4 业绩电话会议亮点",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/k-brands-q4-earnings-call-060800191.html",
+          "title_en": "a.k.a. Brands Q4 Earnings Call Highlights"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 17:07:07",
+          "title": "Nuvve Holding (NVVE) 与 Capture Energy AB 签署 500 万美元欧洲能源储存协议。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/nuvve-holding-nvve-signs-5m-073449217.html",
+          "title_en": "Nuvve Holding (NVVE) Signs $5M European Energy Storage Agreement with Capture Energy AB"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 17:07:07",
+          "title": "Sunrun Inc.(RUN)报告了强劲的收入增长，但面临2026年的谨慎预期。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/sunrun-inc-run-reports-strong-065043415.html",
+          "title_en": "Sunrun Inc. (RUN) Reports Strong Revenue Growth but Faces Cautious 2026 Outlook"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 17:07:07",
+          "title": "Array Technologies, Inc. (ARRY) 扩大太阳能跟踪器业务，订单量创历史新高",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/array-technologies-inc-arry-expands-065048505.html",
+          "title_en": "Array Technologies, Inc. (ARRY) Expands Solar Tracker Business with Record Order Book"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 17:07:07",
+          "title": "阿里巴巴控股的汽车电商Autohome Q4财报亮点：",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/autohome-q4-earnings-call-highlights-060809418.html",
+          "title_en": "Autohome Q4 Earnings Call Highlights"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 17:07:07",
+          "title": "第一太阳能(First Solar, Inc.)(FSLR)2026年财务指南令华尔街投资机构失望，导致下调评级",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/first-solar-inc-fslr-2026-065050395.html",
+          "title_en": "First Solar, Inc. (FSLR) 2026 Guidance Disappoints Wall Street Firms, Triggers Downgrades"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 17:07:07",
+          "title": "加拿大太阳能公司（CSIQ）加强清洁能源战略，实现储能里程碑",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/canadian-solar-inc-csiq-boosts-065046120.html",
+          "title_en": "Canadian Solar Inc. (CSIQ) Boosts Clean Energy Strategy with Storage Milestones"
         }
       ]
     }
