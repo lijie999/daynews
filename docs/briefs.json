@@ -1,6 +1,6 @@
 {
   "date": "2026.03.07",
-  "generatedAtBJT": "2026-03-07 21:24:32",
+  "generatedAtBJT": "2026-03-07 21:30:36",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-07 21:24:32",
+          "time": "2026-03-07 21:30:36",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注股市对伊朗战争新闻的关注。石油的下一步动作可能是……\n- 宏观/Fed：关注2026年3月6日HELOC和家庭抵押贷款利率：大多数……\n- 科技/半导体：Tempus AI, Inc. (TEM) 宣布与默克达成战略协议，以加速……\n- TSLA：关注Bank of America重新开启对特斯拉（TSLA）的覆盖，并……",
+          "summary": "- 地缘/避险：关注股市关注伊朗战争新闻。石油的下一步可能是暴涨。\n\n- 宏观/Fed：关注今日最佳定期存款利率（最高4%年利率）\n\n- 科技/半导体：Tempus AI, Inc. (TEM)宣布与默克达成战略合作，用于快速开发人工智能\n\n- TSLA：关注美国银行恢复对特斯拉的覆盖，提高评级",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Stock Market Focus On Iran War News. Oil's Next Move Could Be Bi…\n- 宏观/Fed：关注 HELOC and home equity loan rates today, March 6, 2026: Mostly un…\n- 科技/半导体：Tempus AI, Inc. (TEM) Announces Strategic Deal with Merck to Fas… 关键词: anthropic, amazon, available, customers, deal\n- TSLA：关注 Bank of America Resumes Coverage on Tesla, Inc. (TSLA), Upgrades…"
+          "summary_en": "- 地缘/避险：关注 Stock Market Focus On Iran War News. Oil's Next Move Could Be Bi…\n- 宏观/Fed：关注 Best CD rates today, March 6, 2026 (up to 4% APY return)…\n- 科技/半导体：Tempus AI, Inc. (TEM) Announces Strategic Deal with Merck to Fas… 关键词: anthropic, available, customers, deal, defense\n- TSLA：关注 Bank of America Resumes Coverage on Tesla, Inc. (TSLA), Upgrades…"
         }
       ]
     },
@@ -29,7 +29,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
           "title": "Tempus AI, Inc. (TEM)宣布与默克达成战略协议，推动人工智能驱动的精准医学",
           "summary": "",
           "url": "https://finance.yahoo.com/news/tempus-ai-inc-tem-announces-121121827.html",
@@ -38,7 +38,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
           "title": "贾米·迪蒙警告称：我的焦虑很高：AI资产膨胀的风险。如何保护您的投资组合免受超级周期崩溃的影响。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/anxiety-high-jamie-dimon-warns-114700799.html",
@@ -47,7 +47,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
           "title": "美国拟出台人工智能规则，要求任何合法用途的模型都必须使用民用模型。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-drafts-ai-rules-requiring-civilian-models-for-any-lawful-use-93CH-4548502",
@@ -56,7 +56,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
           "title": "美国制定了新的严格的AI指南，FT报道称与Anthropic发生冲突。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-draws-up-strict-new-ai-guidelines-amid-anthropic-clash-ft-reports-4548246",
@@ -141,16 +141,6 @@
           "url": "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html",
           "title_en": "Samsung reveals first details of its AI smart glasses to CNBC",
           "summary_en": "Samsung's AI smart glasses will be launched in 2026 and will mark the company's first foray into the product category."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-06 09:25:12",
-          "title": "亚马逊称，长达数小时的停机是由\"软件代码部署\"触发的。",
-          "summary": "亚马逊用户报告，无法访问结账和账户信息页面，以及查看产品详细信息页面。",
-          "url": "https://www.cnbc.com/2026/03/05/amazon-online-store-suffers-outage-for-some-users.html",
-          "title_en": "Amazon says hours-long outage was triggered by 'software code deployment'",
-          "summary_en": "Amazon users reported trouble accessing checkout and account information, as well as viewing product detail pages."
         }
       ]
     },
@@ -161,7 +151,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
+          "title": "截至2026年3月6日，最佳定期存款利率（最高4%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-march-6-2026-110033555.html",
+          "title_en": "Best CD rates today, March 6, 2026 (up to 4% APY return)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 21:30:27",
           "title": "2026年3月6日，HELOC和房屋抵押贷款利率：大多保持不变",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-friday-march-6-2026-110022701.html",
@@ -170,11 +169,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
-          "title": "截至2026年3月6日，最佳定期存款利率（最高4%APY）",
+          "time": "2026-03-07 21:30:27",
+          "title": "截至2026年3月6日，高收益储蓄利率（最高4%APY）",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-march-6-2026-110033555.html",
-          "title_en": "Best CD rates today, March 6, 2026 (up to 4% APY return)"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-march-6-2026-110023075.html",
+          "title_en": "Best high-yield savings interest rates today, March 6, 2026 (up to 4% APY return)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 21:30:27",
+          "title": "截至2026年3月6日，最佳现金市场账户利率（最高4.01%年利率）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-friday-march-6-2026-110011557.html",
+          "title_en": "Best money market account rates today, March 6, 2026 (up to 4.01% APY return)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 21:30:27",
+          "title": "本周六，3月7日，2026年：应对美联储加息暂停",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-march-7-2026-110039970.html",
+          "title_en": "HELOC and home equity loan rates Saturday, March 7, 2026: Absorbing a Fed rate pause"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 21:30:27",
+          "title": "截至2026年3月7日，最佳现金市场账户利率（最高利率账户可提供4.01%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-march-7-2026-110033942.html",
+          "title_en": "Best money market account rates today, March 7, 2026 (best account provides 4.01% APY)"
         },
         {
           "source": "CNBC-Top",
@@ -215,7 +241,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
           "title": "股市关注伊朗战争新闻。石油下一个动作可能很大。",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-iran-war-news-crude-oil-prices-trump/?src=A00220&yptr=yahoo",
@@ -224,7 +250,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
           "title": "通用动力领衔5只股票近期买点料在伊朗战争卖出潮中脱颖而出",
           "summary": "",
           "url": "https://www.investors.com/news/general-dynamics-stocks-to-watch-buy-point-hca-healthcare-att-t-tjx-equinix-data-centers-dividends/?src=A00220&yptr=yahoo",
@@ -233,32 +259,23 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
           "title": "美国是世界上最大的石油生产国——那么，为什么美国的汽油价格在上涨？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/the-us-is-the-worlds-biggest-oil-producer--so-why-are-gas-prices-rising-here-123211515.html",
           "title_en": "The US is the world’s biggest oil producer — so why are gas prices rising here?"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
-          "title": "美股指期指数小幅下滑，债券收益率上升，原油价格大幅上涨，美国关键就业报告将成为关注点。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/p-futures-slip-bond-yields-111917114.html",
-          "title_en": "S&P Futures Slip as Bond Yields Climb After Jump in Oil, Key U.S. Jobs Report in Focus"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
           "title": "特朗普星期六发帖说：“今天伊朗会受到很大的打击！”",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/trump-on-saturday-posts-today-iran-will-be-hit-very-hard-93CH-4548503",
           "title_en": "Trump on Saturday posts \"Today Iran will be hit very hard!’"
         },
         {
-          "source": "CNBC-World",
+          "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-07 21:05:42",
           "title": "伊朗互联网封锁延续至第二周：NetBlocks",
@@ -266,6 +283,16 @@
           "url": "https://www.cnbc.com/2026/03/07/irans-internet-blackout-extends-into-second-week-netblocks.html",
           "title_en": "Iran's internet blackout extends into second week: NetBlocks",
           "summary_en": "Iran's government cut internet connectivity shortly after start of U.S.-Israeli attacks on Feb. 28."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-07 21:00:01",
+          "title": "伊朗战争威胁到“可承受性”中期目标",
+          "summary": "中期选举期间关于可负担性问题的宣传可能会被伊朗战争和相关不确定性所打破。",
+          "url": "https://www.cnbc.com/2026/03/07/iran-war-affordability-midterm.html",
+          "title_en": "Iran war threatens to scramble the 'affordability' midterm",
+          "summary_en": "Midterm election messaging on affordability could be undercut by the Iran war and related uncertainty."
         },
         {
           "source": "MarketWatch-Top",
@@ -288,7 +315,7 @@
           "summary_en": "Weak jobs report, higher gas prices move central bank to the sidelines."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-07 19:56:05",
           "title": "伊朗称其在伊朗总统发誓不攻击邻国后不久袭击了阿联酋空军基地。",
@@ -350,16 +377,6 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-07 01:52:33",
-          "title": "美国与伊朗的战争暴露了市场集中风险。然而，这种风险并非体现在标普500指数（S&P 500）中的股票中。",
-          "summary": "美国与伊朗的战争导致油价大幅上涨，导致新兴市场的波动，并显示出EM基金在亚洲经济的高度集中。",
-          "url": "https://www.cnbc.com/2026/03/06/iran-war-oil-energy-emerging-markets-stocks-south-korea.html",
-          "title_en": "U.S.-Iran war exposes big market concentration risk. It isn't in S&P 500 stocks",
-          "summary_en": "Oil prices soar in the U.S.-Iran war, leading to volatility in emerging markets, and showing how concentrated EM funds are in Asian economies."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
           "time": "2026-03-07 01:48:36",
           "title": "丰田、现代和中国汽车制造商料将是伊朗战争最受影响的企业。",
           "summary": "虽然地区销售将受到影响，但霍尔木兹海峡关闭和油价上涨将对全球汽车行业产生连锁反应。",
@@ -386,6 +403,16 @@
           "url": "https://www.cnbc.com/2026/03/06/jobs-report-trump-iran-israel-war-economy.html",
           "title_en": "Analysis: Tough jobs report puts Trump's Iran war plans to the test",
           "summary_en": "The economy is showing signs of slowing as the Iran war quickly pushes up gas prices."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-06 23:17:59",
+          "title": "丹麦运输巨头马斯克因伊朗战争暂停两项关键运输服务",
+          "summary": "伊朗战争进入第七天，地区冲突加剧继续干扰全球供应链。",
+          "url": "https://www.cnbc.com/2026/03/06/iran-war-shipping-maersk-middle-east-strait-of-hormuz-gulf.html",
+          "title_en": "Maersk, a bellwether for global trade, suspends two key shipping services due to Iran war",
+          "summary_en": "The update comes as the Iran war enters its seventh day and the escalating regional conflict continues to disrupt global supply chains."
         }
       ]
     },
@@ -396,7 +423,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
           "title": "美国银行恢复对特斯拉的覆盖，升级为买入",
           "summary": "",
           "url": "https://finance.yahoo.com/news/bank-america-resumes-coverage-tesla-120907487.html",
@@ -411,16 +438,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
-          "title": "Allarity关闭20万美元融资用于stenoparib的推进",
+          "time": "2026-03-07 21:30:27",
+          "title": "ServiceTitan提供了诱人的财务收益机会，Truist表示。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/allarity-closes-20m-financing-stenoparib-131941530.html",
-          "title_en": "Allarity closes $20M financing for stenoparib advancement"
+          "url": "https://finance.yahoo.com/news/servicetitan-offers-attractive-monetization-opportunities-132550774.html",
+          "title_en": "ServiceTitan offers attractive monetization opportunities, says Truist"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
           "title": "23岁继承了450万美元，停留在那里不知道下一步该怎么做。戴夫拉姆西说，什么能带来“最大的提升”。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/23-old-inherited-450k-parked-131300791.html",
@@ -429,7 +456,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
           "title": "高收入夫妇的固定成本占收入的惊人92%。拉米特·塞蒂（Ramit Sethi）解释了他们的阻碍。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/fixed-costs-gobble-staggering-92-124500653.html",
@@ -438,16 +465,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
-          "title": "VisionWave宣布C.M. Composite与制造集团签署了MOU。",
+          "time": "2026-03-07 21:30:27",
+          "title": "ALX Oncology启动UBS买入评级",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/visionwave-announces-c-m-composite-131822991.html",
-          "title_en": "VisionWave announces C.M. Composite entered into MOU with manufacturing group"
+          "url": "https://finance.yahoo.com/news/alx-oncology-initiated-buy-ubs-132531690.html",
+          "title_en": "ALX Oncology initiated with a Buy at UBS"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
           "title": "MTG警告社会保障即将面临危机，呼吁美国停止“资助外国战争”来拯救该计划。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/mtg-flags-imminent-social-security-123500938.html",
@@ -456,16 +483,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
-          "title": "我们刚刚得知我爸爸有了一份保险-policy，12年后。与保险公司的窗口期是否已经关闭？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/just-learned-dad-had-life-123000219.html",
-          "title_en": "We just learned my dad had a life insurance policy, 12 years later. Has the window closed with the insurer?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
           "title": "一位德克萨斯州的女性继承了200万美元，想知道是否应该用来还清房贷或投资。拉姆西秀建议她“买时间”。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/tx-woman-inheriting-200k-wonders-123000405.html",
@@ -474,16 +492,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
-          "title": "AudioEye 价格目标降至15美元，原价目标为25美元，来自Needham。",
+          "time": "2026-03-07 21:30:27",
+          "title": "我们刚刚得知我爸爸有了一份保险-policy，12年后。与保险公司的窗口期是否已经关闭？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/audioeye-price-target-lowered-15-131743607.html",
-          "title_en": "AudioEye price target lowered to $15 from $25 at Needham"
+          "url": "https://finance.yahoo.com/news/just-learned-dad-had-life-123000219.html",
+          "title_en": "We just learned my dad had a life insurance policy, 12 years later. Has the window closed with the insurer?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
+          "title": "阿尔伯马勒将继续控制成本，渥太华信托表示。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/albemarle-discipline-costs-continue-says-132126043.html",
+          "title_en": "Albemarle discipline on costs to continue, says Truist"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-07 21:30:27",
           "title": "Teradyne, Inc. (TER)被分析师评为中性买入。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/teradyne-inc-ter-moderate-buy-121112673.html",
@@ -492,7 +519,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
           "title": "华尔街对Robinhood Markets, Inc. (HOOD)持强买态度",
           "summary": "",
           "url": "https://finance.yahoo.com/news/wall-street-bullish-robinhood-markets-121103472.html",
@@ -501,7 +528,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
           "title": "你需要了解的AMD（AMD）投资前几点",
           "summary": "",
           "url": "https://finance.yahoo.com/news/know-investing-advanced-micro-devices-121051665.html",
@@ -510,16 +537,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
-          "title": "BofA将Hutchmed的目标价降至21美元。",
+          "time": "2026-03-07 21:30:27",
+          "title": "AAR Corp. 的价格目标提高至128美元，从107美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/hutchmed-price-target-lowered-21-131628968.html",
-          "title_en": "Hutchmed price target lowered to $21 from $22 at BofA"
+          "url": "https://finance.yahoo.com/news/aar-corp-price-target-raised-132108675.html",
+          "title_en": "AAR Corp. price target raised to $128 from $107 at Truist"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
           "title": "CRISPR Therapeutics AG (CRSP)被标记为中性买入，华尔街方面如此评估。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/crispr-therapeutics-ag-crsp-moderate-121029432.html",
@@ -528,7 +555,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
           "title": "中东危机推动Palantir Technologies Inc. (PLTR)的反弹",
           "summary": "",
           "url": "https://finance.yahoo.com/news/middle-east-crisis-drives-palantir-121002046.html",
@@ -537,7 +564,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
           "title": "科因宝（COIN）是否在ARK投资2026年重点股票名单中？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/coinbase-global-inc-coin-among-120954631.html",
@@ -546,7 +573,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
           "title": "分析师预见罗库公司(Roku, Inc. ROKU)将上涨32%",
           "summary": "",
           "url": "https://finance.yahoo.com/news/analysts-see-32-upside-roku-120945751.html",
@@ -555,16 +582,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
-          "title": "Alpha Modus与Brookshire解决了专利侵权诉讼。",
+          "time": "2026-03-07 21:30:27",
+          "title": "Allarity关闭20万美元融资用于stenoparib的推进",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/alpha-modus-resolves-patent-infringement-131607005.html",
-          "title_en": "Alpha Modus resolves patent infringement litigation against Brookshire"
+          "url": "https://finance.yahoo.com/news/allarity-closes-20m-financing-stenoparib-131941530.html",
+          "title_en": "Allarity closes $20M financing for stenoparib advancement"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-07 21:24:27",
+          "time": "2026-03-07 21:30:27",
           "title": "Shopify Inc. (SHOP) 被认为是强买股，根据华尔街的看法。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/shopify-inc-shop-strong-buy-120936735.html",
