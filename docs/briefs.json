@@ -1,6 +1,6 @@
 {
   "date": "2026.03.08",
-  "generatedAtBJT": "2026-03-08 09:00:20",
+  "generatedAtBJT": "2026-03-08 09:30:05",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-08 09:00:20",
+          "time": "2026-03-08 09:30:05",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注中东冲击的油价衍生品交易者认为...\n\n- 宏观/Fed：关注美联储的Hammack表示利率可能在一段时间内保持不变...\n\n- 科技/半导体：OpenAI机器人首席负责人辞职，原因是与美国国防部达成的协议...",
+          "summary": "- 地缘/避险：关注空运货物运输商忙于应对伊朗战争的影响...\n- 宏观/Fed：关注美联储的Hammack表示利率可能在一段时间内保持不变...\n- 科技/半导体：Tigress Financial认为Nvidia股票有望攀升至360美元。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Analysis-Oil derivatives signal traders see Middle East shock as…\n- 宏观/Fed：关注 Fed's Hammack says interest rates likely on hold for some time…\n- 科技/半导体：OpenAI Robotics head resigns after deal with Pentagon… 关键词: anthropic, available, customers, defense, microsoft"
+          "summary_en": "- 地缘/避险：关注 Air cargo shippers scramble to mitigate Iran war impacts…\n- 宏观/Fed：关注 Fed's Hammack says interest rates likely on hold for some time…\n- 科技/半导体：Tigress Financial Thinks Nvidia Stock Can Climb to $360. Should … 关键词: anthropic, chip, available, ceo, china"
         }
       ]
     },
@@ -27,9 +27,63 @@
       "badge": "Mag7 / Semis",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 09:30:00",
+          "title": "Tiger Financial认为Nvidia股票可以攀升到360美元。现在是否应该买入？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/tigress-financial-thinks-nvidia-stock-190544858.html",
+          "title_en": "Tigress Financial Thinks Nvidia Stock Can Climb to $360. Should You Buy the Dip Now?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 09:30:00",
+          "title": "利润直播：马威股价大涨，数据中心表现强劲，Gap和Costco评估关税变化",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/live/earnings-live-marvell-stock-surges-on-data-center-strength-gap-and-costco-assess-tariff-changes-133121491.html",
+          "title_en": "Earnings live: Marvell stock surges on data center strength, Gap and Costco assess tariff changes"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 09:30:00",
+          "title": "英特尔面临立法者审查：涉及中国相关芯片工具的测试",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/intel-intc-faces-lawmaker-scrutiny-194338066.html",
+          "title_en": "Intel (INTC) Faces Lawmaker Scrutiny Over Testing of China-Linked Chip Tools"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 09:30:00",
+          "title": "美光(MU)首发256GB SOCAMM2样品用于AI基础设施",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/micron-mu-ships-industry-first-194348895.html",
+          "title_en": "Micron (MU) Ships Industry-First 256GB SOCAMM2 Samples for AI Infrastructure"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 09:30:00",
+          "title": "阿里巴巴（BABA）组建人工智能工作小组，随着Qwen首席架构师离职",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/alibaba-baba-forms-ai-task-194421189.html",
+          "title_en": "Alibaba (BABA) Forms AI Task Force Following Resignation of Qwen Lead Architect"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 09:30:00",
+          "title": "布罗德كم（AVGO）CEO预测2027年AI芯片销售额超1000亿美元",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/broadcom-avgo-ceo-forecasts-100b-194447516.html",
+          "title_en": "Broadcom (AVGO) CEO Forecasts $100B+ in AI Chip Sales by 2027"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
+          "time": "2026-03-08 09:30:00",
           "title": "OpenAI机器人部门负责人辞职后与五角大楼达成协议",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/openai-robotics-head-resigns-after-deal-with-pentagon-4548539",
@@ -38,7 +92,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
+          "time": "2026-03-08 09:30:00",
           "title": "中国警告称全球芯片短缺将加剧，Nexperia争端再次升级",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/china-warns-of-global-chip-shortages-as-nexperia-dispute-escalates-again-4548515",
@@ -47,7 +101,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
+          "time": "2026-03-08 09:30:00",
           "title": "美国拟出台人工智能规则，要求任何合法用途的模型都必须使用民用模型。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-drafts-ai-rules-requiring-civilian-models-for-any-lawful-use-93CH-4548502",
@@ -112,16 +166,6 @@
           "url": "https://www.cnbc.com/2026/03/05/microsoft-says-anthropics-products-can-remain-available-to-customers-after-security-risk-designation.html",
           "title_en": "Microsoft says Anthropic’s products remain available to customers after Pentagon blacklist",
           "summary_en": "Microsoft is the first major company to say it will keep using Anthropic models in its products."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-06 21:15:43",
-          "title": "三星首次透露其AI智能眼镜细节给CNBC",
-          "summary": "三星的AI智能眼镜将于2026年推出，这将是该公司进入该产品类别的首次尝试。",
-          "url": "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html",
-          "title_en": "Samsung reveals first details of its AI smart glasses to CNBC",
-          "summary_en": "Samsung's AI smart glasses will be launched in 2026 and will mark the company's first foray into the product category."
         }
       ]
     },
@@ -132,11 +176,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
+          "time": "2026-03-08 09:30:00",
           "title": "美联储的哈马克表示，利率可能在一段时间内保持不变。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/feds-hammack-says-interest-rates-183541449.html",
           "title_en": "Fed's Hammack says interest rates likely on hold for some time"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 09:30:00",
+          "title": "三家股息王者公司的股息率超过4%，有着巨大的上涨空间。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/3-dividend-king-stocks-yield-190431265.html",
+          "title_en": "3 Dividend King Stocks That Yield Over 4% and Have Big Upside"
         },
         {
           "source": "CNBC-Top",
@@ -157,16 +210,6 @@
           "url": "https://www.cnbc.com/2026/03/06/san-francisco-feds-daly-says-jobs-report-complicates-interest-rate-call.html",
           "title_en": "San Francisco Fed's Daly says jobs report complicates interest rate call",
           "summary_en": "Daly told CNBC on Friday that the weak February jobs report adds to a difficult policymaking environment."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-06 21:13:34",
-          "title": "就业报告、Gap的天气问题、新的关税诉讼等在早间晨雀中",
-          "summary": "今天市场投资者需要了解的五个关键信息。",
-          "url": "https://www.cnbc.com/2026/03/06/5-things-to-know-before-the-market-opens.html",
-          "title_en": "Jobs report, Gap's weather problem, a new tariff lawsuit and more in Morning Squawk",
-          "summary_en": "Here are five key things investors need to know to start the trading day."
         }
       ]
     },
@@ -177,61 +220,70 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "分析-油品衍生品交易者认为中东冲击为短期",
+          "time": "2026-03-08 09:30:00",
+          "title": "空运货物运输商们忙于应对伊朗战争的影响",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/analysis-oil-derivatives-signal-traders-181111860.html",
-          "title_en": "Analysis-Oil derivatives signal traders see Middle East shock as short-lived"
+          "url": "https://finance.yahoo.com/news/air-cargo-shippers-scramble-mitigate-191038806.html",
+          "title_en": "Air cargo shippers scramble to mitigate Iran war impacts"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "伊朗战争引发汽油价格大幅上涨——看看驾驶者在哪里支付最多和最少",
+          "time": "2026-03-08 09:30:00",
+          "title": "美国以色列对伊朗的战争加剧，Cathie Wood的防务股选择",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/iran-war-triggers-gas-price-184750580.html",
-          "title_en": "Iran War Triggers Gas Price Surge—Here’s Where Drivers Are Paying the Most and Least"
+          "url": "https://finance.yahoo.com/news/1-defense-stock-cathie-wood-190943031.html",
+          "title_en": "1 Defense Stock Cathie Wood Is Buying Now as the U.S.-Israel War on Iran Heats Up"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "美国钻井公司增加油井数量，随着WTI价格大幅上涨14%",
+          "time": "2026-03-08 09:30:00",
+          "title": "伊朗战争是否会像2025年那样推动Netflix股价大涨？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/us-drillers-add-oil-rigs-180900809.html",
-          "title_en": "US Drillers Add Oil Rigs as WTI Jumps 14%"
+          "url": "https://finance.yahoo.com/news/iran-war-trigger-2025-rally-191725424.html",
+          "title_en": "Will the Iran War Trigger a 2025-Like Rally in Netflix Stock?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "伊朗冲突可能会“使世界经济崩溃”，中东最大的能源出口国之一警告。",
+          "time": "2026-03-08 09:30:00",
+          "title": "糖价格大幅上涨，原油价格飙升",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/iran-conflict-could-bring-down-184841049.html",
-          "title_en": "Iran conflict could ‘bring down the economies of the world,’ warns one of the Middle East’s biggest energy exporters"
+          "url": "https://finance.yahoo.com/news/sugar-prices-jump-crude-oil-192435591.html",
+          "title_en": "Sugar Prices Jump as Crude Oil Surges"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "股市下跌，石油价格飙升，伊朗冲突的影响：周报",
+          "time": "2026-03-08 09:30:00",
+          "title": "稀土股：REalloys火爆，伊朗战争加剧需求",
           "summary": "",
-          "url": "https://www.investors.com/news/stock-market-falls-oil-prices-skyrocket-iran-conflict/?src=A00220&yptr=yahoo",
-          "title_en": "Stock Market Falls As Oil Prices Skyrocket On Iran Conflict: Weekly Review"
+          "url": "https://www.investors.com/research/industry-snapshot/rare-earth-stocks-realloys-mp-usar-iran-heavy-rare-earth-prices/?src=A00220&yptr=yahoo",
+          "title_en": "Rare Earth Stocks: REalloys Lights Up As Iran War Stokes Demand"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "一场与伊朗的长期战争可能意味着汽油价格的上涨。",
+          "time": "2026-03-08 09:30:00",
+          "title": "劳斯柴尔德下调美国航空（AAL）至中性评级，原因是油价上涨。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/what-an-extended-war-with-iran-could-mean-for-gas-prices-225053494.html",
-          "title_en": "What an extended war with Iran could mean for gas prices"
+          "url": "https://finance.yahoo.com/news/rothschild-downgrades-american-airlines-aal-193815335.html",
+          "title_en": "Rothschild Downgrades American Airlines (AAL) to Neutral, Due To Higher Oil Prices"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 09:30:00",
+          "title": "黄金跌落，因为美元强势和战争驱动的油价上涨给价格造成压力。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/gold-slips-dollar-strength-war-194213466.html",
+          "title_en": "Gold Slips as Dollar Strength and War-Driven Oil Surge Pressure Prices"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
+          "time": "2026-03-08 09:30:00",
           "title": "特朗普星期六发帖说：“今天伊朗会受到很大的打击！”",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/trump-on-saturday-posts-today-iran-will-be-hit-very-hard-93CH-4548503",
@@ -336,16 +388,6 @@
           "url": "https://www.cnbc.com/2026/03/05/anthropic-pentagon-ai-claude-iran.html",
           "title_en": "Anthropic officially told by DOD that it's a supply chain risk even as Claude used in Iran",
           "summary_en": "The formal declaration will require defense vendors and contractors to certify that they don’t use Anthropic’s models in their work with the Pentagon."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-07 01:48:36",
-          "title": "丰田、现代和中国汽车制造商料将是伊朗战争最受影响的企业。",
-          "summary": "虽然地区销售将受到影响，但霍尔木兹海峡关闭和油价上涨将对全球汽车行业产生连锁反应。",
-          "url": "https://www.cnbc.com/2026/03/06/iran-war-automakers-toyota-hyundai-china.html",
-          "title_en": "Toyota, Hyundai and Chinese automakers expected to be most impacted by Iran war",
-          "summary_en": "While regional sales will be impacted, the closing of the Strait of Hormuz and rising oil prices will have ripple effects across the global automotive industry."
         }
       ]
     },
@@ -361,25 +403,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "医疗费用上涨正在推动信用卡债务增长：你能做什么",
+          "time": "2026-03-08 09:30:00",
+          "title": "公司财务官因在加密货币副业中损失了35亿美元的公司资金而入狱",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/rising-health-costs-fueling-credit-184247403.html",
-          "title_en": "Rising Health Costs Are Fueling Credit Card Debt: What You Can Do"
+          "url": "https://finance.yahoo.com/news/cfo-gets-prison-time-losing-190051916.html",
+          "title_en": "CFO Gets Prison Time After Losing $35 Million of Company Money in Crypto Side Hustle"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "德尔维乔利家族遗产纠纷即将达成10亿美元的交易",
+          "time": "2026-03-08 09:30:00",
+          "title": "Gap Inc. 首席执行官表示，富裕消费者正在涌向该品牌，尽管股价因第四季度业绩不佳而下跌。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/del-vecchio-inheritance-war-heading-183819637.html",
-          "title_en": "The Del Vecchio Inheritance War Is Heading Toward a Billion-Dollar Deal"
+          "url": "https://finance.yahoo.com/news/gap-ceo-wealthy-shoppers-flock-to-brand-as-stock-dips-on-mixed-q4-results-190255824.html",
+          "title_en": "Gap CEO: Wealthy shoppers flock to brand as stock dips on mixed Q4 results"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
+          "time": "2026-03-08 09:30:00",
+          "title": "美国运通股价下滑加剧，股价跌至300美元。该时机是否适合买入？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/american-express-stocks-slide-worsens-190100311.html",
+          "title_en": "American Express Stock's Slide Worsens as Shares Hit $300. Time to Buy?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 09:30:00",
           "title": "一只价格低于 25 美元的成长股，预计未来 122% 的增长空间",
           "summary": "",
           "url": "https://finance.yahoo.com/news/1-growth-stock-under-25-185342957.html",
@@ -388,137 +439,128 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "市场异常的期权交易活动表明聪明的钱对里奥铁矿石股票是乐观的，尽管格伦科尔交易失败",
+          "time": "2026-03-08 09:30:00",
+          "title": "伍德沃德（Woodward）股票值得关注，因为航空业仍然是热门行业。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/unusual-options-activity-suggests-smart-183002865.html",
-          "title_en": "Unusual Options Activity Suggests the Smart Money Is Bullish About Rio Tinto Stock Despite Glencore Deal Collapse"
+          "url": "https://www.investors.com/stock-lists/ibd-big-cap-20/woodward-stock-wwd-aerospace-hot-group-markets-investing/?src=A00220&yptr=yahoo",
+          "title_en": "Woodward Stock Is One Worth Watching As Aerospace Remains A Hot Group"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "为什么要像明天就要结束一样买入MercadoLibre股票",
+          "time": "2026-03-08 09:30:00",
+          "title": "不要再学习编程了：你仍然应该避免NOW、TEAM和CRM",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/5-reasons-buy-mercadolibre-stock-184100865.html",
-          "title_en": "5 Reasons to Buy MercadoLibre Stock Like There's No Tomorrow"
+          "url": "https://finance.yahoo.com/news/second-thought-don-t-learn-190503348.html",
+          "title_en": "On Second Thought, Don’t ‘Learn to Code:’ Why You Should Still Avoid NOW, TEAM, and CRM"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "麦类价格持续上涨至周五",
+          "time": "2026-03-08 09:30:00",
+          "title": "美国将为美墨湾海域的海损赔偿提供保险，最高不超过20亿美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/wheat-rally-continues-friday-182928937.html",
-          "title_en": "Wheat Rally Continues on Friday"
+          "url": "https://finance.yahoo.com/news/us-reinsure-maritime-losses-gulf-193608960.html",
+          "title_en": "US to reinsure maritime losses in Gulf up to about $20 billion, agency says"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "棉花价格周五反弹",
+          "time": "2026-03-08 09:30:00",
+          "title": "LKQ Corporation (LKQ) 股票获得出色表现评级。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/cotton-posting-friday-gains-182928202.html",
-          "title_en": "Cotton Posting Friday Gains"
+          "url": "https://finance.yahoo.com/news/lkq-outperform-rating-lkq-corporation-193846747.html",
+          "title_en": "LKQ Has Outperform Rating on LKQ Corporation (LKQ)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "玉米价格周五继续上涨",
+          "time": "2026-03-08 09:30:00",
+          "title": "Wells Fargo对Urban Outfitters持中性态度。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/corn-rally-pushes-higher-friday-182927996.html",
-          "title_en": "Corn Rally Pushes Higher on Friday"
+          "url": "https://finance.yahoo.com/news/wells-fargo-neutral-urban-outfitters-193854024.html",
+          "title_en": "Wells Fargo Neutral on Urban Outfitters (URBN)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "专家认为，房市是否会再次崩溃？",
+          "time": "2026-03-08 09:30:00",
+          "title": "纳斯达克指数在周五表现更好，高于道指和标普500。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-the-housing-market-crash-again-170038789.html",
-          "title_en": "Is the housing market going to crash again? Here's what experts think."
+          "url": "https://finance.yahoo.com/news/why-nasdaq-holding-better-dow-185831127.html",
+          "title_en": "Why the Nasdaq Is Holding Up Better Than the Dow and S&P 500 On Friday"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "本周最差表现：银行和券商的糟糕一天",
+          "time": "2026-03-08 09:30:00",
+          "title": "Oppenheimer 将 CarGurus (CARG) 目标价格下调至 38 美元",
           "summary": "",
-          "url": "https://www.barrons.com/advisor/articles/weeks-best-banks-and-brokerage-firms-very-bad-day-a82a0b6e?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Week’s Best: Banks’ and Brokerage Firms’ Very Bad Day"
+          "url": "https://finance.yahoo.com/news/oppenheimer-trims-target-price-cargurus-193956471.html",
+          "title_en": "Oppenheimer Trims Target Price on CarGurus (CARG) to $38"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "Vertiv 股票的乐观策略预计将在短期内实现48%的回报。",
+          "time": "2026-03-08 09:30:00",
+          "title": "摩根大通提高了Palomar (PLMR) 的目标价格至160美元。",
           "summary": "",
-          "url": "https://www.investors.com/research/options/vertiv-stock-vrt-ai-infrastructure-options-trade-bull-put-spread-investing-markets/?src=A00220&yptr=yahoo",
-          "title_en": "Bullish Strategy On Vertiv Stock Targets Quick 48% Return"
+          "url": "https://finance.yahoo.com/news/jp-morgan-raises-target-price-193947949.html",
+          "title_en": "JP Morgan Raises Target Price on Palomar (PLMR) to $160"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "摩根士丹利现在喜欢这家飞行汽车股。它是否是买入的机会？",
+          "time": "2026-03-08 09:30:00",
+          "title": "派伯桑德勒对Skyward Specialty Insurance（SKWD）保持超重评级。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/morgan-stanley-loves-1-flying-181522330.html",
-          "title_en": "Morgan Stanley Loves This 1 Flying Car Stock Now. Is It a Buy?"
+          "url": "https://finance.yahoo.com/news/piper-sandler-overweight-skyward-specialty-194036587.html",
+          "title_en": "Piper Sandler Overweight on Skyward Specialty Insurance (SKWD)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "Enel Chile (ENIC) 与 Senapred 合作改善应急响应处理",
+          "time": "2026-03-08 09:30:00",
+          "title": "Nutex健康Q4财报电话会议亮点",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/enel-chile-enic-partners-senapred-170122170.html",
-          "title_en": "Enel Chile (ENIC) Partners With Senapred to Improve Emergency Response Handling"
+          "url": "https://finance.yahoo.com/news/nutex-health-q4-earnings-call-190844642.html",
+          "title_en": "Nutex Health Q4 Earnings Call Highlights"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "道指领跌市场，劳动力数据惊呆华尔街",
+          "time": "2026-03-08 09:30:00",
+          "title": "高盛提高Paramount Skydance（PSKY）的目标价格至14美元，随着华纳兄弟收购宣布",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/nasdaq-lead-us-stocks-lower-130000970.html",
-          "title_en": "Dow leads market drop after labor data shocks Wall Street"
+          "url": "https://finance.yahoo.com/news/guggenheim-raises-target-price-paramount-194016641.html",
+          "title_en": "Guggenheim Raises Target Price on Paramount Skydance (PSKY) to $14, After Warner Brothers Acquisition Announcement"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "Core Laboratories (CLB) 获益于连续性收入增长和Solintec收购",
+          "time": "2026-03-08 09:30:00",
+          "title": "ACI世界（ACIW）发布Q4财报",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/core-laboratories-inc-clb-gains-165159115.html",
-          "title_en": "Core Laboratories (CLB) Gains on Sequential Revenue Growth and Solintec Acquisition"
+          "url": "https://finance.yahoo.com/news/aci-worldwide-aciw-releases-q4-194103156.html",
+          "title_en": "ACI Worldwide (ACIW) Releases Q4 Earnings"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "Ultrapar Participações (UGP) 公布了2025年第四季度财报，以下是您需要了解的内容。",
+          "time": "2026-03-08 09:30:00",
+          "title": "Keefe Bruyette降低了Newmark Group (NMRK)的目标价格，随着Q4财报公布。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ultrapar-participa-es-ugp-reports-170128997.html",
-          "title_en": "Ultrapar Participações (UGP) Reports Q4 2025 Earnings, Here’s What You Need to Know"
+          "url": "https://finance.yahoo.com/news/keefe-bruyette-cuts-target-price-194008364.html",
+          "title_en": "Keefe Bruyette Cuts Target Price on Newmark Group (NMRK), Following Q4 Earnings"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "Cosan (CSAN) 的合资企业Raizen正在讨论投资7650万美元。",
+          "time": "2026-03-08 09:30:00",
+          "title": "Benchark 将Trip.com (TCOM) 的目标价调整至 72 美元",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/cosan-csan-jv-raizen-discussing-170136508.html",
-          "title_en": "Cosan (CSAN)’s JV, Raizen Discussing $765 Million Injection"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-08 09:00:17",
-          "title": "Bank of America (BoFA)降低了Recursion Pharmaceuticals (RXRX)的目标价，仍然维持买入评级。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/bofa-lowers-pt-recursion-pharmaceuticals-170151495.html",
-          "title_en": "BoFA Lowers PT on Recursion Pharmaceuticals (RXRX), Keeps a Hold Rating"
+          "url": "https://finance.yahoo.com/news/benchark-trimmed-target-price-trip-194054386.html",
+          "title_en": "Benchark Trimmed Target Price on Trip.com (TCOM) to $72"
         }
       ]
     }
