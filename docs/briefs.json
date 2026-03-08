@@ -1,6 +1,6 @@
 {
   "date": "2026.03.08",
-  "generatedAtBJT": "2026-03-08 14:00:14",
+  "generatedAtBJT": "2026-03-08 14:02:31",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-08 14:00:14",
+          "time": "2026-03-08 14:02:31",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 S&P 500 中的这些股票自美国…",
+          "summary": "- 地缘/避险：委内瑞拉天然气潜力或将掩盖其著名的石油储备。\n- 宏观/Fed：关注通胀担忧和弱美元就业市场，美股回落。\n- 科技/半导体：Oracle和OpenAI据报已取消扩展人工智能数据中心计划。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 These stocks in the S&P 500 have dropped the most since the U.S.…\n- 宏观/Fed：关注 Stocks Retreat on Inflation Concerns and a Weak US Job Market…\n- 科技/半导体：Nvidia sets $4 million target cash bonus for CEO Huang under fis… 关键词: anthropic, ceo, defense, openai, outside"
+          "summary_en": "- 地缘/避险：关注 Venezuela's Gas Potential Could Overshadow Its Famous Oil Reserv…\n- 宏观/Fed：关注 Stocks Retreat on Inflation Concerns and a Weak US Job Market…\n- 科技/半导体：Oracle, OpenAI Reportedly Scrap Plan To Expand AI Data Center… 关键词: amazon, anthropic, ceo, defense, openai"
         }
       ]
     },
@@ -29,7 +29,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
+          "title": "甲骨文和OpenAI据称已取消扩建人工智能数据中心的计划。",
+          "summary": "",
+          "url": "https://www.investors.com/news/technology/oracle-stock-openai-abilene-crusoe-report/?src=A00220&yptr=yahoo",
+          "title_en": "Oracle, OpenAI Reportedly Scrap Plan To Expand AI Data Center"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 14:02:27",
           "title": "Nvidia为CEO黄仁勋在2027财年计划设定了400万美元的现金奖金目标。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/nvidia-sets-4-million-cash-212604965.html",
@@ -38,16 +47,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
-          "title": "甲骨文和OpenAI据称已取消扩建人工智能数据中心的计划。",
+          "time": "2026-03-08 14:02:27",
+          "title": "亚马逊的2000亿美元问题：亚马逊终于准备开始派息了吗？",
           "summary": "",
-          "url": "https://www.investors.com/news/technology/oracle-stock-openai-abilene-crusoe-report/?src=A00220&yptr=yahoo",
-          "title_en": "Oracle, OpenAI Reportedly Scrap Plan To Expand AI Data Center"
+          "url": "https://finance.yahoo.com/news/200-billion-amazon-finally-ready-000002011.html",
+          "title_en": "The $200 Billion Question: Is Amazon Finally Ready to Pay a Dividend?"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
           "title": "OpenAI机器人部门负责人辞职后与五角大楼达成协议",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/openai-robotics-head-resigns-after-deal-with-pentagon-4548539",
@@ -56,7 +65,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
           "title": "中国警告称全球芯片短缺将加剧，Nexperia争端再次升级",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/china-warns-of-global-chip-shortages-as-nexperia-dispute-escalates-again-4548515",
@@ -65,7 +74,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
           "title": "美国拟出台人工智能规则，要求任何合法用途的模型都必须使用民用模型。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-drafts-ai-rules-requiring-civilian-models-for-any-lawful-use-93CH-4548502",
@@ -130,7 +139,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
           "title": "股市因通胀担忧和弱美元就业市场而回落",
           "summary": "",
           "url": "https://finance.yahoo.com/news/stocks-retreat-inflation-concerns-weak-214207335.html",
@@ -139,7 +148,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
           "title": "中东冲突使利率预期蒙上阴影，房贷利率何时下降仍存疑。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-march-6-2026-190610359.html",
@@ -148,7 +157,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
           "title": "今日（3月7日）房贷和再融资利率：利率上升，债券收益率大幅上涨。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-march-7-2026-110008005.html",
@@ -157,7 +166,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
           "title": "今日最佳存款利率（最高4%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-march-7-2026-110012225.html",
@@ -166,7 +175,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
           "title": "截至2026年3月7日，当前高收益储蓄利率（最高可达4%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-saturday-march-7-2026-110018604.html",
@@ -175,7 +184,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
           "title": "截至2026年3月7日，最佳现金市场账户利率（最高利率账户可提供4.01%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-march-7-2026-110033942.html",
@@ -184,7 +193,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
           "title": "本周六，3月7日，2026年：应对美联储加息暂停",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-march-7-2026-110039970.html",
@@ -209,16 +218,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
-          "title": "自美国和以色列对伊朗发动袭击后，以下S&P 500股票下跌最多",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/stocks-p-500-dropped-most-221600237.html",
-          "title_en": "These stocks in the S&P 500 have dropped the most since the U.S. and Israel attacked Iran"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
           "title": "委内瑞拉天然气潜力可能超过其著名的石油储备",
           "summary": "",
           "url": "https://finance.yahoo.com/news/venezuelas-gas-potential-could-overshadow-220000181.html",
@@ -227,7 +227,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
           "title": "在美伊冲突期间，原油价格大幅上涨。沃伦·巴菲特曾警告说，政府在“印钞票”和“创造承诺”方面“非常出色”，但无法“印制黄金”或“创造石油”。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/crude-oil-prices-spike-amid-213117039.html",
@@ -236,7 +236,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
           "title": "股市今日：道指下跌450点，原油价格大幅上涨；Palantir上涨，Nvidia下跌（实时报道）",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-jobs-report/?src=A00220&yptr=yahoo",
@@ -245,7 +245,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
           "title": "在油价冲击的不确定性下，美联储的哈马克表示，中央银行必须降低通胀",
           "summary": "",
           "url": "https://finance.yahoo.com/news/amid-oil-shock-uncertainty-feds-233035412.html",
@@ -254,7 +254,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
+          "title": "美国原油价格周内大涨，自1985年以来最大周涨幅，伊朗战争干扰霍尔木兹海峡。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/us-oil-prices-notch-biggest-weekly-surge-since-at-least-1985-as-iran-war-disrupts-strait-of-hormuz-190633977.html",
+          "title_en": "US oil prices notch biggest weekly surge since at least 1985 as Iran war disrupts Strait of Hormuz"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 14:02:27",
+          "title": "Kalshi因拒绝支付预测市场奖金遭起诉",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/kalshi-sued-over-refusing-pay-220815217.html",
+          "title_en": "Kalshi Sued Over Refusing to Pay Out Prediction Market After Iran Leader's Death"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 14:02:27",
           "title": "一场与伊朗的长期战争可能意味着汽油价格的上涨。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/what-an-extended-war-with-iran-could-mean-for-gas-prices-225053494.html",
@@ -263,7 +281,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
           "title": "特朗普星期六发帖说：“今天伊朗会受到很大的打击！”",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/trump-on-saturday-posts-today-iran-will-be-hit-very-hard-93CH-4548503",
@@ -383,34 +401,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
-          "title": "萨克斯五等级大街因破产而缩小至原来的半数店面。",
-          "summary": "",
-          "url": "https://www.wsj.com/business/retail/saks-global-plans-to-close-15-more-stores-in-bankruptcy-b0f8e632?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Saks Fifth Avenue Is Shrinking to Half the Number of Stores in Bankruptcy"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
-          "title": "AT&T被评为IBD日股，近期收盘价接近买点，股价在财报公布后大幅上涨。",
-          "summary": "",
-          "url": "https://www.investors.com/research/ibd-stock-of-the-day/att-stock-t-convergence-strategy-investments-dividends/?src=A00220&yptr=yahoo",
-          "title_en": "AT&T, IBD Stock Of The Day, Near Buy Point After Surging On Earnings"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
-          "title": "俄罗斯指数1000的变化使我们对横向市场的看法发生了变化",
-          "summary": "",
-          "url": "https://www.investors.com/research/swing-trading/russell-1000-shifted-views-on-sideways-market/?src=A00220&yptr=yahoo",
-          "title_en": "How The Russell 1000 Shifted Our Views On A Sideways Market"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
           "title": "豆类周末开盘迎来反弹",
           "summary": "",
           "url": "https://finance.yahoo.com/news/soybeans-heads-weekend-rally-220834884.html",
@@ -419,7 +410,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
           "title": "玉米价格周末上涨",
           "summary": "",
           "url": "https://finance.yahoo.com/news/corn-rallies-weekend-220834829.html",
@@ -428,16 +419,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
-          "title": "棉花周五大涨",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/cotton-rallies-friday-220835947.html",
-          "title_en": "Cotton Rallies on Friday"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
           "title": "小麦价格在周五收盘时大幅上涨。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/wheat-rallies-friday-close-220834455.html",
@@ -446,43 +428,52 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
-          "title": "《华尔街日报》美元指数本周上涨1.08%，达95.71",
+          "time": "2026-03-08 14:02:27",
+          "title": "棉花周五大涨",
           "summary": "",
-          "url": "https://www.wsj.com/finance/currencies/most-asian-currencies-strengthen-on-likely-technical-recovery-6b348d30?siteid=yhoof2&yptr=yahoo",
-          "title_en": "The WSJ Dollar Index Rises 1.08% This Week to 95.71"
+          "url": "https://finance.yahoo.com/news/cotton-rallies-friday-220835947.html",
+          "title_en": "Cotton Rallies on Friday"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
-          "title": "前美国贸易首席官莱特泽辞去特朗普媒体董事会职位",
+          "time": "2026-03-08 14:02:27",
+          "title": "自由港麦克莫兰的反弹已经结束——但牛市案例并未结束",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/former-us-trade-chief-lighthizer-224028270.html",
-          "title_en": "Former US trade chief Lighthizer resigns from Trump Media board"
+          "url": "https://finance.yahoo.com/news/freeport-mcmorans-rally-over-bull-220900009.html",
+          "title_en": "Freeport-McMoRan's Rally Is Over—But the Bull Case Isn't"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
-          "title": "比纳斯和赵氏获胜，法庭驳回了64起案件的索赔",
+          "time": "2026-03-08 14:02:27",
+          "title": "俄罗斯指数1000的变化使我们对横向市场的看法发生了变化",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/binance-zhao-win-dismissal-lawsuit-230021800.html",
-          "title_en": "Binance, Zhao win dismissal of lawsuit by victims of 64 attacks"
+          "url": "https://www.investors.com/research/swing-trading/russell-1000-shifted-views-on-sideways-market/?src=A00220&yptr=yahoo",
+          "title_en": "How The Russell 1000 Shifted Our Views On A Sideways Market"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
-          "title": "通胀加息风险：街头传闻回顾",
+          "time": "2026-03-08 14:02:27",
+          "title": "AT&T被评为IBD日股，近期收盘价接近买点，股价在财报公布后大幅上涨。",
           "summary": "",
-          "url": "https://www.wsj.com/livecoverage/jobs-report-unemployment-stock-market-03-06-2026/card/stagflation-risk-heard-on-the-street-recap-EJsLACJuAfFthczpsfRQ?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Stagflation Risk: Heard on the Street Recap"
+          "url": "https://www.investors.com/research/ibd-stock-of-the-day/att-stock-t-convergence-strategy-investments-dividends/?src=A00220&yptr=yahoo",
+          "title_en": "AT&T, IBD Stock Of The Day, Near Buy Point After Surging On Earnings"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
+          "title": "汽车与运输行业总结：市场话题\n\n* 道琼斯汽车指数(DJIA Auto)上涨1.4%。\n* 道琼斯运输指数(DJIA Transportation)上涨1.3%。\n* 道琼斯工业指数(DJIA)上涨1.2%。\n* S&P 500汽车指数(SPX Auto)上涨1.5%。\n* S&P 500运输指数(SPX Transportation)上涨1.4%。\n* 道琼斯指数(DJIA)上涨1.3%。\n* S&P 500指数(SPX 500)上涨1.4%。\n* 纳斯达克指数(NASDAQ)上涨1.6%。\n* 美元指数(DXY)下跌0.2%。\n* 黄金价格(Gold)上涨0.5%。\n* 美元兑日元汇率(USD/JPY)下跌0.3%。\n* 美元兑英镑汇率(USD/GBP)下跌0.2%。\n* 美元兑欧元汇率(USD/EUR)下跌0.2%。\n* 美元兑瑞士法郎汇率(USD/CHF)下跌0.2%。\n* 美元",
+          "summary": "",
+          "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-ce46836d?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Auto & Transport Roundup: Market Talk"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 14:02:27",
           "title": "央行呼吁储存足够一周的生活必需品，包括食物和药物，以应对战争的“最坏情况”。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/major-central-bank-urges-keep-213500520.html",
@@ -491,16 +482,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
-          "title": "外部公司开始为Blue Owl Private Credit Fund股份推出深度折扣。",
+          "time": "2026-03-08 14:02:27",
+          "title": "Kettle Hill押注Braze，投资747万股",
           "summary": "",
-          "url": "https://www.barrons.com/articles/outside-firms-start-offer-shares-blue-owl-private-credit-fund-a412d9be?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Outside Firms Start Their Deep Discount Offer for Shares in Blue Owl Private Credit Fund"
+          "url": "https://finance.yahoo.com/news/kettle-hill-bets-braze-747-221049103.html",
+          "title_en": "Kettle Hill Bets on Braze With 747,000-Share Initiation"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
+          "title": "比纳斯和赵氏获胜，法庭驳回了64起案件的索赔",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/binance-zhao-win-dismissal-lawsuit-230021800.html",
+          "title_en": "Binance, Zhao win dismissal of lawsuit by victims of 64 attacks"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 14:02:27",
+          "title": "前美国贸易首席官莱特泽辞去特朗普媒体董事会职位",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/former-us-trade-chief-lighthizer-224028270.html",
+          "title_en": "Former US trade chief Lighthizer resigns from Trump Media board"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 14:02:27",
           "title": "沃尔玛和Costco的同业销售增长速度都超过了预期，但Target和Walmart的股价却下跌。",
           "summary": "",
           "url": "https://www.investors.com/news/costco-earnings-q2-2026-cost-stock-retail-results-bjs-wholesale-vsco-burl/?src=A00220&yptr=yahoo",
@@ -509,25 +518,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
-          "title": "专家认为，房市是否会再次崩溃？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-the-housing-market-crash-again-170038789.html",
-          "title_en": "Is the housing market going to crash again? Here's what experts think."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
-          "title": "2025年儿童税额：了解您需要知道的所有内容",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/taxes/article/child-tax-credit-everything-you-need-to-know-for-the-2025-tax-year-170205343.html",
-          "title_en": "Child tax credit: Everything you need to know for the 2025 tax year"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
+          "time": "2026-03-08 14:02:27",
           "title": "基本材料周报：市场评论",
           "summary": "",
           "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-df299430?siteid=yhoof2&yptr=yahoo",
@@ -536,11 +527,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-08 14:00:10",
-          "title": "房主可享受的8项税务扣除",
+          "time": "2026-03-08 14:02:27",
+          "title": "全球最大的问题是能源消耗人均下降",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/taxes/article/8-tax-deductions-for-homeowners-under-the-one-big-beautiful-bill-161418034.html",
-          "title_en": "8 tax deductions for homeowners under the One Big Beautiful Bill"
+          "url": "https://finance.yahoo.com/news/falling-energy-per-capita-worlds-000000372.html",
+          "title_en": "Falling Energy Per Capita Is the World's Biggest Problem"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 14:02:27",
+          "title": "专家认为，房市是否会再次崩溃？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-the-housing-market-crash-again-170038789.html",
+          "title_en": "Is the housing market going to crash again? Here's what experts think."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 14:02:27",
+          "title": "2025年儿童税额：了解您需要知道的所有内容",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/child-tax-credit-everything-you-need-to-know-for-the-2025-tax-year-170205343.html",
+          "title_en": "Child tax credit: Everything you need to know for the 2025 tax year"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-08 14:02:27",
+          "title": "纠正与扩展",
+          "summary": "",
+          "url": "https://www.wsj.com/articles/corrections-amplifications-d683b4d7?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Corrections & Amplifications"
         }
       ]
     }
