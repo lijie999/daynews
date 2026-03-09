@@ -1,6 +1,6 @@
 {
   "date": "2026.03.09",
-  "generatedAtBJT": "2026-03-09 20:16:53",
+  "generatedAtBJT": "2026-03-09 20:30:12",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-09 20:16:53",
+          "time": "2026-03-09 20:30:12",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 道指、标普500指数和纳斯达克期货价格大幅下跌，受石油价格大幅上涨影响。\n- 宏观/Fed：关注 科罗拉多州房屋保险费大幅上涨，受狂风天气影响。\n- 科技/半导体：苹果公司有能力收购标普500指数中的任何一家公司。",
+          "summary": "- 地缘/避险：关注 道指、标普500指数、纳斯达克指数期货暴跌，油价大涨。\n- 宏观/Fed：关注 科罗拉多州房屋保险费飙升，受狂风天气影响。\n- 科技/半导体：Oracle即将公布财报，AI争论背后值得关注的数据。\n- TSLA：关注 ABB与Nvidia合作改进工厂机器人训练。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq futures tumble as oil p…\n- 宏观/Fed：关注 Colorado home insurance rates are spiking due to wild weather. H…\n- 科技/半导体：Apple Could Have Purchased Any of 488 S&P 500 Companies -- Inste… 关键词: billion, aggressive, any, apple, backs"
+          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq futures tumble as oil p…\n- 宏观/Fed：关注 Colorado home insurance rates are spiking due to wild weather. H…\n- 科技/半导体：Oracle Earnings On Deck Amid AI Debate. Here's What To Watch.… 关键词: center, data, amid, billion, oracle\n- TSLA：关注 ABB teams up with Nvidia to improve factory robot training…"
         }
       ]
     },
@@ -29,16 +29,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
+          "time": "2026-03-09 20:30:08",
+          "title": "甲骨文财报即将公布，AI争论背景下值得关注的要点。",
+          "summary": "",
+          "url": "https://www.investors.com/news/technology/oracle-stock-earnings-preview-q3-2026-ai/?src=A00220&yptr=yahoo",
+          "title_en": "Oracle Earnings On Deck Amid AI Debate. Here's What To Watch."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 20:30:08",
           "title": "苹果(Apple)有可能收购任何一家S&P 500公司中的488家——但它选择了一个激进的$8410亿美元投资。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/apple-could-purchased-488-p-115600782.html",
           "title_en": "Apple Could Have Purchased Any of 488 S&P 500 Companies -- Instead, It's Made an Aggressive $841 Billion Investment"
         },
         {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 20:30:08",
+          "title": "摩根大通对光网络股持积极态度，受AI数据中心需求提振。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/bofa-positive-on-optical-networking-stocks-amid-ai-data-center-demand-93CH-4549535",
+          "title_en": "BofA positive on optical networking stocks amid AI data center demand"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 20:30:08",
+          "title": "甲骨文否认阿比利尼数据中心存在问题",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/oracle-denies-reports-of-abilene-data-center-troubles-4549531",
+          "title_en": "Oracle denies reports of Abilene data center troubles"
+        },
+        {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-09 17:16:30",
+          "time": "2026-03-09 20:25:11",
           "title": "英伟达支持AI数据中心初创公司Nscale，后者估值达14.6亿美元",
           "summary": "NScale已成为人工智能基础设施建设中的关键玩家。",
           "url": "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html",
@@ -54,7 +81,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
+          "time": "2026-03-09 20:30:08",
           "title": "科罗拉多州房屋保险费率因野火天气而飙升，如何在风暴中保护您的保险费",
           "summary": "",
           "url": "https://finance.yahoo.com/news/colorado-home-insurance-rates-spiking-120000104.html",
@@ -63,20 +90,21 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
+          "time": "2026-03-09 20:30:08",
           "title": "欧罗巴海运有限公司（ESEA）利用集装箱船租赁费率上涨",
           "summary": "",
           "url": "https://finance.yahoo.com/news/euroseas-ltd-esea-capitalizing-higher-110953688.html",
           "title_en": "Euroseas Ltd. (ESEA) Capitalizing on Higher Containership Charter Rates"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "MarketWatch-Top",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
-          "title": "今天，HELOC和家庭抵押贷款利率：你有一个低利率？现在考虑一下。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-march-9-2026-100048612.html",
-          "title_en": "HELOC and home equity loan rates Monday, March 9, 2026: Got a low rate? Now consider this."
+          "time": "2026-03-09 20:08:00",
+          "title": "美国国债收益率上升，投资者担心停滞性通胀",
+          "summary": "油价持续徘徊在100美元以上的水平。",
+          "url": "https://www.marketwatch.com/story/treasury-yields-climb-as-investors-fear-stagflation-75212d5d?mod=mw_rss_topstories",
+          "title_en": "Treasury yields climb as investors fear stagflation",
+          "summary_en": "The rise in yields comes as oil prices hover above the $100 mark."
         },
         {
           "source": "CNBC-Top",
@@ -107,7 +135,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
+          "time": "2026-03-09 20:30:08",
           "title": "股市今日：道指、标普500指数和纳斯达克期货价格大幅下跌，油价突破每桶100美元大关",
           "summary": "",
           "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-tumble-as-oil-prices-surge-to-over-100-a-barrel-224103747.html",
@@ -116,7 +144,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
+          "time": "2026-03-09 20:30:08",
           "title": "石油价格因伊朗战争而达到2022年以来最高点，超过每桶119美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/us-oil-prices-jump-supply-223911453.html",
@@ -125,7 +153,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
+          "time": "2026-03-09 20:30:08",
           "title": "伊朗局势升级，可能导致下个月汽油价格达到4美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/gas-prices-could-hit-4-in-the-next-month-as-war-in-iran-escalates-114410608.html",
@@ -134,11 +162,69 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
+          "time": "2026-03-09 20:30:08",
           "title": "今日黄金价格，星期一，3月9日：黄金价格开盘低迷，随油价大幅上涨",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-march-9-gold-opens-lower-after-oil-prices-spike-105854531.html",
           "title_en": "Gold price today, Monday, March 9: Gold opens lower after oil prices spike"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 20:30:08",
+          "title": "多伦多证券交易所(TSX)期货价格下跌，随着伊朗冲突升级，原油价格突破每桶100美元大关。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/tsx-futures-drop-as-oil-prices-surge-above-100bbl-amid-escalating-iran-conflict-4549562",
+          "title_en": "TSX futures drop as oil prices surge above $100/bbl amid escalating Iran conflict"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 20:30:08",
+          "title": "摩根士丹利对长期油价预测持乐观态度，认为北美油服公司表现良好",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/bofa-positive-on-lt-oil-outlook-views-n-american-ofs-names-positively-93CH-4549556",
+          "title_en": "BofA positive on LT oil outlook, views N. American OFS names positively"
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-09 20:28:07",
+          "title": "欧洲市场因中东局势紧张而下滑，油价大幅上涨",
+          "summary": "欧洲股市在新一周的交易开始时大幅下跌，投资者密切关注中东局势和油价大幅上涨。",
+          "url": "https://www.cnbc.com/2026/03/09/european-markets-stoxx-600-ftse-cac-dax-iran-latest.html",
+          "title_en": "European markets slide on Middle East turmoil as oil price surges",
+          "summary_en": "European stocks started the new trading week sharply lower as traders tracked developments in the Middle East and a surge in oil prices."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-09 20:25:29",
+          "title": "国会民主党人要求俄罗斯石油销售到印度的逆转，随着能源价格飙升",
+          "summary": "俄罗斯据称正在帮助伊朗针对中东的美国部队，目前也可能从新油气销售中获得丰厚利益。",
+          "url": "https://www.cnbc.com/2026/03/09/bessent-russian-oil-sales-india.html",
+          "title_en": "Congressional Democrats demand reversal of Russian oil sales into India as energy prices soar",
+          "summary_en": "Russia is reportedly helping Iran target U.S. forces in the Middle East, and could now benefit from a windfall of new oil and gas sales."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-09 20:17:00",
+          "title": "航空股大跌，油价飙升可能成为旅行者触发点",
+          "summary": "航空股料将继续近期的暴跌，受中东冲突升级和原油价格超过100美元/桶的影响，担心旅行需求将下降。",
+          "url": "https://www.marketwatch.com/story/airline-stocks-dive-as-oil-price-spike-could-trigger-a-tipping-point-for-travelers-2be814ea?mod=mw_rss_topstories",
+          "title_en": "Airline stocks dive as oil-price spike could trigger a tipping point for travelers",
+          "summary_en": "Airline stocks were set to continue their recent sharp selloff amid fears that travel demand will drop as the escalating Middle East conflict sends crude oil prices above $100 a barrel."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-09 20:14:54",
+          "title": "石油价格突破100美元，FDA领导人更迭，健康风尚热潮等在晨间早报中。",
+          "summary": "今天市场投资者需要了解的五个关键信息。",
+          "url": "https://www.cnbc.com/2026/03/09/5-things-to-know-before-the-market-opens.html",
+          "title_en": "Oil prices top $100, FDA leadership change, the wellness boom and more in Morning Squawk",
+          "summary_en": "Here are five key things investors need to know to start the trading day."
         },
         {
           "source": "CNBC-Top",
@@ -151,14 +237,14 @@
           "summary_en": "U.S. Treasury yields climbed higher on Monday as oil prices soared past $100 a barrel and increased inflation fears among investors."
         },
         {
-          "source": "CNBC-Top",
+          "source": "MarketWatch-Top",
           "ticker": "RSS",
-          "time": "2026-03-09 20:01:38",
-          "title": "国会民主党人要求俄罗斯石油销售到印度的逆转，随着能源价格飙升",
-          "summary": "俄罗斯据称正在帮助伊朗针对中东的美国部队，目前也可能从新油气销售中获得丰厚利益。",
-          "url": "https://www.cnbc.com/2026/03/09/bessent-russian-oil-sales-india.html",
-          "title_en": "Congressional Democrats demand reversal of Russian oil sales into India as energy prices soar",
-          "summary_en": "Russia is reportedly helping Iran target U.S. forces in the Middle East, and could now benefit from a windfall of new oil and gas sales."
+          "time": "2026-03-09 20:01:00",
+          "title": "这张令人惊讶的S&P 500图表暗示着泡沫正在破裂——而这并不是因为伊朗。",
+          "summary": "伊朗和石油可能已经打破了股市——但裂缝早已存在。",
+          "url": "https://www.marketwatch.com/story/this-uncanny-s-p-500-chart-suggests-a-bubble-is-bursting-and-not-just-because-of-iran-77d45514?mod=mw_rss_topstories",
+          "title_en": "This ‘uncanny’ S&P 500 chart suggests a bubble is bursting — and not just because of Iran",
+          "summary_en": "Iran and oil may have broken the stock market — but the cracks were already visible."
         },
         {
           "source": "CNBC-Top",
@@ -169,6 +255,36 @@
           "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
           "title_en": "Oil surges above $100 as Gulf states cut back production; WTI nearly touched $120 a barrel at high",
           "summary_en": "Gulf Arab oil producers are cutting production as they run out of storage space because they can't export through the Strait of Hormuz"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:32:00",
+          "title": "G7紧急召开会议，考虑部署史无前例的石油储备价格大幅上涨",
+          "summary": "据报道，财政部长们正在考虑释放300亿至400亿桶石油。",
+          "url": "https://www.marketwatch.com/story/g-7-scrambles-emergency-meeting-and-could-deploy-unprecedented-oil-reserves-as-prices-soar-report-1a5aa206?mod=mw_rss_topstories",
+          "title_en": "G-7 scrambles emergency meeting and could deploy unprecedented oil reserves as prices soar",
+          "summary_en": "The finance ministers are reportedly considering making 300 million to 400 million barrels available."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:30:00",
+          "title": "油价飙升基本上消除了市场“熔化”的任何机会，据一位华尔街老兵称。",
+          "summary": "高通胀和经济衰退的双重威胁可能导致股市进入熊市",
+          "url": "https://www.marketwatch.com/story/spiking-oil-prices-basically-end-any-chance-of-a-market-melt-up-says-this-wall-street-veteran-e250d4b5?mod=mw_rss_topstories",
+          "title_en": "Spiking oil prices basically end any chance of a market ‘melt-up,’ says this Wall Street veteran",
+          "summary_en": "The prospect of stagflation means stocks may fall into a bear market"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:27:00",
+          "title": "黄金价格暴跌，投资者因伊朗冲突而持续避险，转而寻求美元避险",
+          "summary": "黄金价格正在下跌，投资者在伊朗冲突恶化的背景下，转而寻求美元的庇护。",
+          "url": "https://www.marketwatch.com/story/gold-prices-tumble-as-investors-rattled-by-the-iran-conflict-continue-to-shelter-in-the-dollar-a6a5284d?mod=mw_rss_topstories",
+          "title_en": "Gold prices tumble as investors, rattled by the Iran conflict, continue to shelter in the dollar",
+          "summary_en": "Gold prices are falling as investors, facing the backdrop of a worsening Iran conflict, take shelter in the dollar."
         },
         {
           "source": "CNBC-World",
@@ -189,103 +305,23 @@
           "url": "https://www.cnbc.com/2026/03/09/oil-prices-iran-war-middle-east-us-israel-strait-of-hormuz.html",
           "title_en": "‘Sky is the limit’: Analysts warn oil prices could surge further",
           "summary_en": "Energy analysts warned that there was no limit for oil prices as they rose in response to the war in the Middle East."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-09 18:41:46",
-          "title": "伊朗战略性石油岛屿因中东冲突升级而走红",
-          "summary": "卡尔吉斯岛是伊朗石油业的核心地带，占伊朗原油出口的约90%。",
-          "url": "https://www.cnbc.com/2026/03/09/iran-war-us-israel-conflict-oil-prices-kharg-island.html",
-          "title_en": "Iran's strategic oil island thrust into the spotlight as Middle East conflict escalates",
-          "summary_en": "Kharg Island serves as the centerpiece for Iran's oil industry, accounting for roughly 90% of the country’s crude exports."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-09 18:14:17",
-          "title": "美国要求员工离开沙特阿拉伯，伊朗拒绝立即停火",
-          "summary": "美国要求非紧急政府人员离开沙特阿拉伯，因为伊朗战争的扩大使全球市场动荡。",
-          "url": "https://www.cnbc.com/2026/03/09/iran-war-updates-oil-brent-wti-crude-110-gulf-gcc-uae-iraq-saudi-arabia-kurds.html",
-          "title_en": "U.S. orders staff to leave Saudi Arabia as war spreads; Iran rules out immediate ceasefire",
-          "summary_en": "The U.S. ordered non-emergency government staff to leave Saudi Arabia as the widening Iran war rattled global markets."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-09 16:57:09",
-          "title": "中国可以比其他国家更容易应对油价突破100美元的原因有多个。首先，中国的石油进口依赖度较低，仅占其石油消费量的25%。其次，中国有庞大的石油储备，足以支撑数月的进口。",
-          "summary": "最新的中东紧张局势揭示了世界三大石油消费国采取了不同的能源战略，产生了全球影响。",
-          "url": "https://www.cnbc.com/2026/03/09/china-oil-shock-iran-war-hormuz-energy-transition.html",
-          "title_en": "Why China can withstand oil's surge past $100 more easily than other countries",
-          "summary_en": "The latest Middle East tensions sheds light on how the world's three largest oil consumers have taken different approaches to energy, with global consequences."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-09 16:43:41",
-          "title": "欧洲市场因中东局势而下跌超过2%，油价大幅上涨",
-          "summary": "欧洲股市在新一周的交易开始时大幅下跌，投资者密切关注中东局势和油价大幅上涨。",
-          "url": "https://www.cnbc.com/2026/03/09/european-markets-stoxx-600-ftse-cac-dax-iran-latest.html",
-          "title_en": "European markets fall over 2% on Middle East turmoil as oil price surges",
-          "summary_en": "European stocks started the new trading week sharply lower as traders tracked developments in the Middle East and a surge in oil prices."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-09 15:41:45",
-          "title": "亚洲市场价格略有下滑，据报道沙特将释放石油缓解了油价上涨的压力。",
-          "summary": "市场在交易会话的后期减少损失，因为据报道，沙特阿拉伯原油的释放缓解了油价。",
-          "url": "https://www.cnbc.com/2026/03/09/nikkei-225-hang-seng-index-kospi-crude-wti-brent-oil-futures-iran-war-gulf-hormuz.html",
-          "title_en": "Asia markets moderate losses after reported Saudi oil release slightly ease prices",
-          "summary_en": "Markets cut losses later in the session as a reported release of Saudi Arabian crude on the market eased oil prices."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-09 15:36:48",
-          "title": "CNBC日报：油价首次突破100美元关口，自2022年以来首次达到此水平。",
-          "summary": "美国总统唐纳德·特朗普在Truth Social上说，“短期石油价格”是“一个非常小的代价”。",
-          "url": "https://www.cnbc.com/2026/03/09/cnbc-daily-open-oil-storms-past-100-for-first-time-since-2022.html",
-          "title_en": "CNBC Daily Open: Oil storms past $100 for first time since 2022",
-          "summary_en": "Shortly after the surge, U.S. President Donald Trump said on Truth Social that \"short term oil prices\" are \"a very small price to pay.\""
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-09 14:12:10",
-          "title": "全球周报：七国集团在伊朗问题上举行会议",
-          "summary": "G7财政部长和央行总督即将举行关键会议，随着伊朗冲突的外交紧张局势升级。",
-          "url": "https://www.cnbc.com/2026/03/08/global-week-ahead-diplomacy-in-ruins-as-g7-meets-on-iran.html",
-          "title_en": "Global week ahead: Diplomacy in ruins as G7 meets on Iran",
-          "summary_en": "G7 finance ministers and central bank governors are set to convene for a key meeting as diplomatic tensions escalate over the Iran conflict."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-09 07:03:08",
-          "title": "伊朗宣布阿亚托拉·卡梅尼的儿子莫哈巴（Mojtaba）为新最高领袖：媒体报道",
-          "summary": "巴林和阿拉伯联合酋长国报告更多的民用目标遭到袭击事件，美以袭击伊朗持续进行。",
-          "url": "https://www.cnbc.com/2026/03/08/iranian-projectiles-continue-to-strike-gulf-countries-infrastructure.html",
-          "title_en": "Iran names Ayatollah Khamenei's son, Mojtaba, as new supreme leader: Media reports",
-          "summary_en": "Bahrain and the United Arab Emirates report more strikes on civilian targets as U.S.-Israeli attacks on Iran continue."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-09 03:27:51",
-          "title": "战争干扰可能将油价推高至每桶150至200美元。以下是针对股市投资者的建议。",
-          "summary": "詹姆斯·克雷默在周日为投资俱乐部会员撰写的专栏中，解释了投资者如何应对石油价格持续上涨的局面。",
-          "url": "https://www.cnbc.com/2026/03/08/jim-cramers-advice-for-investors-during-us-iran-war-oil-surge.html",
-          "title_en": "War disruptions may send oil to $150 to $200 a barrel. Here's my advice for stock investors",
-          "summary_en": "In his Sunday column for Investing Club subscribers, Jim Cramer explains how investors should navigate a continued surge in oil prices."
         }
       ]
     },
     {
       "name": "特斯拉链",
       "badge": "TSLA chain",
-      "items": []
+      "items": [
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 20:30:08",
+          "title": "ABB与Nvidia合作改进工厂机器人训练",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/abb-teams-up-with-nvidia-to-improve-factory-robot-training-4549554",
+          "title_en": "ABB teams up with Nvidia to improve factory robot training"
+        }
+      ]
     },
     {
       "name": "其他",
@@ -294,25 +330,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
-          "title": "Schellman获得Goldman Sachs Alternatives的投资",
+          "time": "2026-03-09 20:30:08",
+          "title": "巴西反垄断监管机构CADE批准了IG4对Braskem的控股权收购",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/schellman-secures-investment-goldman-sachs-120110919.html",
-          "title_en": "Schellman secures investment from Goldman Sachs Alternatives"
+          "url": "https://finance.yahoo.com/news/cade-approves-ig4-acquisition-controlling-121358390.html",
+          "title_en": "CADE approves IG4’s acquisition of controlling stake in Braskem"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
-          "title": "O-I玻璃（OI）公布2025年调整每股收益1.60美元，实现3000万美元的“适合胜利”（Fit to Win）效益。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/o-glass-oi-reports-1-114813084.html",
-          "title_en": "O-I Glass (OI) Reports $1.60 Adjusted EPS, $300M in ‘Fit to Win’ Benefits for 2025"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
+          "time": "2026-03-09 20:30:08",
           "title": "2026年3月9日维克斯高管推荐股票",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46358_InsiderActivity_1773052593000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -321,7 +348,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
+          "time": "2026-03-09 20:30:08",
+          "title": "Schellman获得Goldman Sachs Alternatives的投资",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/schellman-secures-investment-goldman-sachs-120110919.html",
+          "title_en": "Schellman secures investment from Goldman Sachs Alternatives"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 20:30:08",
+          "title": "O-I玻璃（OI）公布2025年调整每股收益1.60美元，实现3000万美元的“适合胜利”（Fit to Win）效益。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/o-glass-oi-reports-1-114813084.html",
+          "title_en": "O-I Glass (OI) Reports $1.60 Adjusted EPS, $300M in ‘Fit to Win’ Benefits for 2025"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 20:30:08",
           "title": "KKR & Co. (KKR) 公布 1290 亿美元募资，第四季度费用相关收益 9720 万美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/kkr-co-kkr-reports-129b-114802305.html",
@@ -330,16 +375,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
-          "title": "体育投注还是加密货币：哪个更值得你辛苦赚来的钱？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/sports-betting-crypto-bigger-gamble-120100694.html",
-          "title_en": "Sports Betting or Crypto: Which Is the Bigger Gamble for Your Hard-Earned Cash?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
+          "time": "2026-03-09 20:30:08",
           "title": "美国航空公司(AAL)宣布1亿美元扩建计划，针对迈阿密国际机场。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/american-airlines-aal-unveils-1b-114754696.html",
@@ -348,7 +384,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
+          "time": "2026-03-09 20:30:08",
           "title": "信息服务集团（III）公布第四季度营收61.2亿美元，调整EBITDA增长24%",
           "summary": "",
           "url": "https://finance.yahoo.com/news/information-services-group-iii-reports-114745095.html",
@@ -357,7 +393,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
+          "time": "2026-03-09 20:30:08",
+          "title": "体育投注还是加密货币：哪个更值得你辛苦赚来的钱？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/sports-betting-crypto-bigger-gamble-120100694.html",
+          "title_en": "Sports Betting or Crypto: Which Is the Bigger Gamble for Your Hard-Earned Cash?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 20:30:08",
           "title": "Quanex Building Products (NX) 公布2026第一季度销售409.1亿美元，调整后EBITDA27.4亿美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/quanex-building-products-nx-reports-114734248.html",
@@ -366,7 +411,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
+          "time": "2026-03-09 20:30:08",
           "title": "Blue Owl Capital (OWL) 超过 3000亿美元资产管理规模，第四季度2025年EPS为0.24美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/blue-owl-capital-owl-surpasses-114726242.html",
@@ -375,16 +420,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
-          "title": "VEON子公司将收购TPL保险的控股权。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/veon-subsidiary-acquire-controlling-stake-115757664.html",
-          "title_en": "VEON subsidiary to acquire controlling stake in TPL Insurance"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
+          "time": "2026-03-09 20:30:08",
           "title": "Peloton Interactive (PTON) 公布了 81 亿美元的调整 EBITDA，净债务减少 52%",
           "summary": "",
           "url": "https://finance.yahoo.com/news/peloton-interactive-pton-reports-81m-114717436.html",
@@ -393,7 +429,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
+          "time": "2026-03-09 20:30:08",
           "title": "吉布拉尔达公司（ROCK）第四季度净销售额增长17%，库存订单增加102%",
           "summary": "",
           "url": "https://finance.yahoo.com/news/gibraltar-industries-rock-reports-17-114708221.html",
@@ -402,7 +438,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
+          "time": "2026-03-09 20:30:08",
+          "title": "苏茜·奥曼分享三条建议，帮助你节省数千美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/3-tips-suze-orman-help-120017747.html",
+          "title_en": "3 Tips From Suze Orman To Help You Save Thousands"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 20:30:08",
           "title": "Shutterstock (SSTK) 公布 2025 年收入 98.99 亿美元，数据业务增长 16%",
           "summary": "",
           "url": "https://finance.yahoo.com/news/shutterstock-sstk-reports-989-9m-114655765.html",
@@ -411,7 +456,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
+          "time": "2026-03-09 20:30:08",
           "title": "维斯特拉(VST)在德克萨斯州扩大虚拟发电厂业务，合作伙伴为恩派斯能源(ENPH)",
           "summary": "",
           "url": "https://finance.yahoo.com/news/vistra-vst-expands-virtual-power-114645195.html",
@@ -420,7 +465,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
+          "time": "2026-03-09 20:30:08",
           "title": "Alight (ALIT)整合VB Scout Tech以增强索赔监控",
           "summary": "",
           "url": "https://finance.yahoo.com/news/alight-alit-integrates-vb-scout-114635120.html",
@@ -429,7 +474,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
+          "time": "2026-03-09 20:30:08",
           "title": "Cooper-Standard Holdings (CPS) 公布 2025 年销售额 274 亿美元，调整 EBITDA 209.7 亿美元",
           "summary": "",
           "url": "https://finance.yahoo.com/news/cooper-standard-holdings-cps-reports-114627941.html",
@@ -438,20 +483,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
-          "title": "Genasys (GNSS) 获得了 2.0 万美元的订单，为新加坡海军无人水面舰艇通信系统提供支持。",
+          "time": "2026-03-09 20:30:08",
+          "title": "VEON子公司将收购TPL保险的控股权。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/genasys-gnss-secures-2-0m-114616003.html",
-          "title_en": "Genasys (GNSS) Secures $2.0M Order for Singapore Navy USV Communication Systems"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 20:16:48",
-          "title": "Gorilla Technology Group (GRRR) 2025年实现101.4亿美元收入",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/gorilla-technology-group-grrr-hits-114609617.html",
-          "title_en": "Gorilla Technology Group (GRRR) Hits $101.4M Revenue in 2025"
+          "url": "https://finance.yahoo.com/news/veon-subsidiary-acquire-controlling-stake-115757664.html",
+          "title_en": "VEON subsidiary to acquire controlling stake in TPL Insurance"
         }
       ]
     }
