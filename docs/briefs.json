@@ -1,6 +1,6 @@
 {
   "date": "2026.03.09",
-  "generatedAtBJT": "2026-03-09 19:16:17",
+  "generatedAtBJT": "2026-03-09 19:30:14",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-09 19:16:17",
+          "time": "2026-03-09 19:30:14",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 道指、标普500指数和纳斯达克指数期货价格大幅下跌，受油价上涨影响。\n- 宏观/Fed：关注 HELOC 和房屋抵押贷款利率，2026年3月9日：我有一个问题，关于周一的HELOC和房屋抵押贷款利率。\n- 科技/半导体：NVIDIA支持AI数据中心初创公司Nscale，Nscale的估值已达到146亿美元。",
+          "summary": "- 地缘/避险：关注 道指、标普500和纳斯达克期货大跌，油价上涨\n\n- 宏观/Fed：关注 欧洲海运公司 (ESEA) 利用集装箱租赁业务大幅增长\n\n- 科技/半导体：摩根士丹利警告人工智能威胁软件行业，Anthropic 年收入翻倍至 10 亿美元",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq futures tumble as oil p…\n- 宏观/Fed：关注 HELOC and home equity loan rates Monday, March 9, 2026: Got a lo…\n- 科技/半导体：Nvidia backs AI data center startup Nscale as it hits $14.6 bill… 关键词: backs, billion, center, data, hits"
+          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq futures tumble as oil p…\n- 宏观/Fed：关注 Euroseas Ltd. (ESEA) Capitalizing on Higher Containership Charte…\n- 科技/半导体：BofA warns AI threatens software sector as Anthropic ARR doubles… 关键词: anthropic, arr, backs, billion, bln"
         }
       ]
     },
@@ -26,6 +26,15 @@
       "name": "七姐妹与半导体链",
       "badge": "Mag7 / Semis",
       "items": [
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:30:10",
+          "title": "摩根大通警告称，人工智能威胁到软件行业，AnthropicARR翻倍至190亿美元。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/bofa-warns-ai-threatens-software-sector-as-anthropic-arr-doubles-to-19-bln-4549330",
+          "title_en": "BofA warns AI threatens software sector as Anthropic ARR doubles to $19 bln"
+        },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
@@ -45,7 +54,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
+          "title": "欧罗巴海运有限公司（ESEA）利用集装箱船租赁费率上涨",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/euroseas-ltd-esea-capitalizing-higher-110953688.html",
+          "title_en": "Euroseas Ltd. (ESEA) Capitalizing on Higher Containership Charter Rates"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:30:10",
           "title": "今天，HELOC和家庭抵押贷款利率：你有一个低利率？现在考虑一下。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-march-9-2026-100048612.html",
@@ -54,7 +72,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "截至2026年3月9日，最佳现金市场账户利率（最高可达4.01% APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-march-9-2026-100045909.html",
@@ -63,7 +81,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "截至2026年3月9日，今日高收益储蓄利率（最高可达4%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-monday-march-9-2026-100036902.html",
@@ -72,7 +90,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "今日房贷和再融资利率，2026年3月9日：随着债券市场的焦虑而上升",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-march-9-2026-100010426.html",
@@ -81,7 +99,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "今日最佳定期存款利率（2026年3月9日），最高可锁定4%年利率",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-march-9-2026-100002996.html",
@@ -90,7 +108,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "华尔街股指期货下滑，中东冲突加剧了通胀担忧",
           "summary": "",
           "url": "https://finance.yahoo.com/news/wall-st-futures-slide-middle-104911608.html",
@@ -99,25 +117,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "截至2026年3月8日，最佳现金市场账户利率（最高利率账户提供4.01%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-march-8-2026-100011715.html",
-          "title_en": "Best money market account rates today, March 8, 2026 (best account provides 4.01% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "今日最佳定期存款利率（2026年3月8日），最高可锁定4%年利率",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-march-8-2026-100011504.html",
-          "title_en": "Best CD rates today, March 8, 2026 (lock in up to 4% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "今日（3月8日）房贷和再融资利率约为6%（5.98%）。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-march-8-2026-100058158.html",
@@ -126,7 +126,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "截至2026年3月8日，最高回报高息储蓄利率（最高可达4%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-sunday-march-8-2026-100050829.html",
@@ -135,7 +135,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "本周日，3月8日，2026年：季节性需求增长",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-march-8-2026-100004604.html",
@@ -144,43 +144,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
+          "title": "截至2026年3月8日，最佳现金市场账户利率（最高利率账户提供4.01%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-march-8-2026-100011715.html",
+          "title_en": "Best money market account rates today, March 8, 2026 (best account provides 4.01% APY)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:30:10",
+          "title": "今日最佳定期存款利率（2026年3月8日），最高可锁定4%年利率",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-march-8-2026-100011504.html",
+          "title_en": "Best CD rates today, March 8, 2026 (lock in up to 4% APY)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:30:10",
           "title": "本周六，3月7日，2026年：应对美联储加息暂停",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-march-7-2026-110039970.html",
           "title_en": "HELOC and home equity loan rates Saturday, March 7, 2026: Absorbing a Fed rate pause"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "截至2026年3月7日，最佳现金市场账户利率（最高利率账户可提供4.01%APY）",
+          "time": "2026-03-09 19:30:10",
+          "title": "华尔街股指期货下滑，中东冲突加剧了通胀担忧",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-march-7-2026-110033942.html",
-          "title_en": "Best money market account rates today, March 7, 2026 (best account provides 4.01% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "截至2026年3月7日，当前高收益储蓄利率（最高可达4%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-saturday-march-7-2026-110018604.html",
-          "title_en": "Best high-yield savings interest rates today, March 7, 2026 (Earn up to 4% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "今日最佳存款利率（最高4%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-march-7-2026-110012225.html",
-          "title_en": "Best CD rates today, March 7, 2026 (best account provides 4% APY)"
+          "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-slump-as-iran-war-drags-on-oil-near-120-stokes-inflation-worries-4548817",
+          "title_en": "Wall St futures slide as Middle East conflict stokes inflation worries"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "加拿大股指期货下跌，中东局势加剧，通胀担忧升高。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/tsx-futures-slip-as-middle-east-turmoil-intensifies-inflation-concerns-4549239",
@@ -215,7 +215,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "股市今日：道指、标普500指数和纳斯达克期货价格大幅下跌，油价突破每桶100美元大关",
           "summary": "",
           "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-tumble-as-oil-prices-surge-to-over-100-a-barrel-224103747.html",
@@ -224,7 +224,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "今日黄金价格，星期一，3月9日：黄金价格开盘低迷，随油价大幅上涨",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-march-9-gold-opens-lower-after-oil-prices-spike-105854531.html",
@@ -233,7 +233,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "预测市场正在预测，到3月底，原油价格将达到多少？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/price-crude-oil-reach-end-110013494.html",
@@ -242,7 +242,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "欧洲到亚洲，债券市场暴跌，油价突破115美元",
           "summary": "",
           "url": "https://finance.yahoo.com/news/europe-asia-bond-markets-plunge-094956552.html",
@@ -251,7 +251,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "中东战争导致石油价格飙升，超过119美元/桶，创2022年以来新高。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/us-oil-prices-jump-supply-223911453.html",
@@ -260,7 +260,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "美元升值 因为持续的伊朗战争破坏了市场的乐观",
           "summary": "",
           "url": "https://finance.yahoo.com/news/dollar-rises-haven-bid-oil-062202820.html",
@@ -269,7 +269,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "雅登尼将美国市场崩溃的概率提高至35%  因为伊朗战争",
           "summary": "",
           "url": "https://finance.yahoo.com/news/yardeni-raises-odds-us-market-072554339.html",
@@ -278,52 +278,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "比特币在与股市分离的背景下上涨，伊朗战争推动石油价格上涨",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/bitcoin-beats-risk-assets-oil-063534090.html",
-          "title_en": "Bitcoin Rises in Break With Stocks as Iran War Drives Oil Higher"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "Solaris Energy Infrastructure, Inc. (SEI) 是否是具有最高上涨潜力的最佳石油股之一？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/solaris-energy-infrastructure-inc-sei-080235603.html",
-          "title_en": "Is Solaris Energy Infrastructure, Inc. (SEI) One of the Best Oil Stocks With Highest Upside Potential?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "伊朗冲突迫使中央银行进行政策急转弯",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/iran-conflict-forces-central-banks-060811096.html",
-          "title_en": "Iran conflict forces central banks into sharp policy rethink"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "$100 油价已成为股市现实——而这还不是唯一的担忧",
-          "summary": "",
-          "url": "https://www.barrons.com/articles/oil-prices-100-stock-market-ea798481?siteid=yhoof2&yptr=yahoo",
-          "title_en": "$100 Oil Is a Stock Market Reality—and It’s Not the Only Concern"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "一场与伊朗的长期战争可能意味着汽油价格的上涨。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/what-an-extended-war-with-iran-could-mean-for-gas-prices-225053494.html",
           "title_en": "What an extended war with Iran could mean for gas prices"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:30:10",
+          "title": "比特币在与股市分离的背景下上涨，伊朗战争推动石油价格上涨",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/bitcoin-beats-risk-assets-oil-063534090.html",
+          "title_en": "Bitcoin Rises in Break With Stocks as Iran War Drives Oil Higher"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "股市下滑，油价飙升威胁通胀冲击",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/oil-soars-shares-slide-in-asia-as-middle-east-conflict-rages-4548645",
@@ -332,20 +305,31 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "七国集团将讨论释放战略石油储备",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/iran-conflict-latest-g7-to-discuss-strategic-oil-reserve-release-reports-say-4549283",
           "title_en": "Iran conflict latest: G7 to discuss strategic oil reserve release, reports say"
         },
         {
-          "source": "Investing-Markets",
+          "source": "MarketWatch-Top",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "摩根士丹利降低了对阿联酋和埃及的看法，升高了对沙特阿拉伯的看法，基于能源利好。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-cuts-uae-and-egypt-view-upgrades-saudi-arabia-on-energy-upside-4549202",
-          "title_en": "Morgan Stanley cuts UAE and Egypt view, upgrades Saudi Arabia on energy upside"
+          "time": "2026-03-09 19:27:00",
+          "title": "黄金价格暴跌，投资者因伊朗冲突而持续避险，转而寻求美元避险",
+          "summary": "黄金价格正在下跌，投资者在伊朗冲突恶化的背景下，转而寻求美元的庇护。",
+          "url": "https://www.marketwatch.com/story/gold-prices-tumble-as-investors-rattled-by-the-iran-conflict-continue-to-shelter-in-the-dollar-a6a5284d?mod=mw_rss_topstories",
+          "title_en": "Gold prices tumble as investors, rattled by the Iran conflict, continue to shelter in the dollar",
+          "summary_en": "Gold prices are falling as investors, facing the backdrop of a worsening Iran conflict, take shelter in the dollar."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:21:43",
+          "title": "美国国债收益率上升，投资者关注伊朗战争和油价大幅上涨",
+          "summary": "美国国债收益率周一上涨，油价突破每桶100美元，投资者对通胀的担忧加剧。",
+          "url": "https://www.cnbc.com/2026/03/09/us-treasury-yields-investors-monitor-iran-war-and-soaring-oil-price.html",
+          "title_en": "Treasury yields climb higher as investors monitor Iran war and soaring oil price",
+          "summary_en": "U.S. Treasury yields climbed higher on Monday as oil prices soared past $100 a barrel and increased inflation fears among investors."
         },
         {
           "source": "CNBC-World",
@@ -368,14 +352,34 @@
           "summary_en": "Kharg Island serves as the centerpiece for Iran's oil industry, accounting for roughly 90% of the country’s crude exports."
         },
         {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-09 18:33:00",
+          "title": "G7紧急召开会议，可能部署史无前例的石油储备：报告",
+          "summary": "据报道，财政部长们正在考虑释放300亿至400亿桶石油。",
+          "url": "https://www.marketwatch.com/story/g-7-scrambles-emergency-meeting-and-could-deploy-unprecedented-oil-reserves-as-prices-soar-report-1a5aa206?mod=mw_rss_topstories",
+          "title_en": "G7 scrambles emergency meeting and could deploy unprecedented oil reserves as prices soar: report",
+          "summary_en": "The finance ministers are reportedly considering making 300 million to 400 million barrels available."
+        },
+        {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-09 18:36:35",
-          "title": "美国国债收益率上升，投资者关注伊朗战争和油价大幅上涨",
-          "summary": "美国国债收益率周一上涨，油价突破每桶100美元，投资者对通胀的担忧加剧。",
-          "url": "https://www.cnbc.com/2026/03/09/us-treasury-yields-investors-monitor-iran-war-and-soaring-oil-price.html",
-          "title_en": "Treasury yields climb higher as investors monitor Iran war and soaring oil price",
-          "summary_en": "U.S. Treasury yields climbed higher on Monday as oil prices soared past $100 a barrel and increased inflation fears among investors."
+          "time": "2026-03-09 18:31:14",
+          "title": "石油价格大幅上涨，突破100美元；美洲原油价格接近120美元/桶。",
+          "summary": "阿拉伯海湾石油生产国正在减少产量，因为他们已经没有存储空间了，因为无法通过霍尔木兹海峡出口石油。",
+          "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
+          "title_en": "Oil surges above $100 as Gulf states cut back production; WTI nearly touched $120 a barrel at high",
+          "summary_en": "Gulf Arab oil producers are cutting production as they run out of storage space because they can't export through the Strait of Hormuz"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-09 18:31:00",
+          "title": "油价飙升基本上消除了市场“熔化”的任何机会，据一位华尔街老兵称。",
+          "summary": "高通胀和经济衰退的双重威胁可能导致股市进入熊市",
+          "url": "https://www.marketwatch.com/story/spiking-oil-prices-basically-end-any-chance-of-a-market-melt-up-says-this-wall-street-veteran-e250d4b5?mod=mw_rss_topstories",
+          "title_en": "Spiking oil prices basically end any chance of a market ‘melt-up,’ says this Wall Street veteran",
+          "summary_en": "The prospect of stagflation means stocks may fall into a bear market"
         }
       ]
     },
@@ -391,16 +395,115 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "美国顶级银行考虑起诉联邦监管机构因对加密货币银行规则的规定",
+          "time": "2026-03-09 19:30:10",
+          "title": "60岁美国退休者持有100万美元，到71岁时很容易变成0。波动的市场可能会破坏储蓄——尝试这个简单的解决方案",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/top-us-banks-weigh-suing-110047300.html",
-          "title_en": "Top US banks weigh suing federal regulator over crypto banking rules"
+          "url": "https://finance.yahoo.com/news/us-retirees-1m-60-easily-111500904.html",
+          "title_en": "US retirees with $1M at 60 can easily have $0 by 71. A volatile market can shatter savings — try this simple solution"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
+          "title": "马松公司（MATX）是目前最好的海运股票之一吗？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/matson-inc-matx-one-best-111001686.html",
+          "title_en": "Is Matson, Inc. (MATX) One of the Best Marine Shipping Stocks to Buy Right Now?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:30:10",
+          "title": "Hafnia Limited (HAFN) 公布强劲业绩并维持股东回报",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/hafnia-limited-hafn-reports-strong-110959258.html",
+          "title_en": "Hafnia Limited (HAFN) Reports Strong Earnings and Maintains Shareholder Returns"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:30:10",
+          "title": "SFL Corporation Ltd. (SFL) 公布稳定业绩和强大收入订单",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/sfl-corporation-ltd-sfl-reports-110958110.html",
+          "title_en": "SFL Corporation Ltd. (SFL) Reports Stable Results and Strong Revenue Backlog"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:30:10",
+          "title": "Genco Shipping & Trading Limited (GNK) 在干散货市场活动中表现出色",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/genco-shipping-trading-limited-gnk-110956090.html",
+          "title_en": "Genco Shipping & Trading Limited (GNK) Delivers Strong Performance Amid Dry Bulk Market Activity"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:30:10",
+          "title": "Ardmore Shipping Corporation（ASC）受益于强劲的货运市场环境",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/ardmore-shipping-corporation-asc-benefits-110954808.html",
+          "title_en": "Ardmore Shipping Corporation (ASC) Benefits from Strong Freight Market Conditions"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:30:10",
+          "title": "北方美洲油轮有限公司（NAT）凭借强劲的船舶需求回归盈利",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/nordic-american-tankers-limited-nat-110951308.html",
+          "title_en": "Nordic American Tankers Limited (NAT) Bounces to Profitability on Strong Ship Demand"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:30:10",
+          "title": "Star Bulk Carriers Corp. (SBLK) 将重点关注资本配置战略以释放股东价值。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/star-bulk-carriers-corp-sblk-110950701.html",
+          "title_en": "Star Bulk Carriers Corp. (SBLK) Focused on Capital Allocation Strategy to Unlock Shareholder Value"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:30:10",
+          "title": "BW LPG Limited (BWLP) 提供了强劲的收入和利润增长，产品服务业务部门表现出色",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/bw-lpg-limited-bwlp-delivers-110948007.html",
+          "title_en": "BW LPG Limited (BWLP) Delivers Robust Revenue and Earnings Growth as Product Services Segment Impresses"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:30:10",
+          "title": "Frontline plc (FRO) 价格目标上升，受强劲的 tanker 市场表现影响",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/frontline-plc-fro-sees-price-110947340.html",
+          "title_en": "Frontline plc (FRO) Sees Price Target Increase Following Strong Tanker Market Performance"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:30:10",
+          "title": "斯科普里船舶公司（STNG）：战略性油轮销售和稳健的现金流凸显增长潜力",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/scorpio-tankers-inc-stng-strategic-110945145.html",
+          "title_en": "Scorpio Tankers Inc. (STNG): Strategic Tanker Sales and Solid Cash Flow Highlight Growth Potential"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:30:10",
+          "title": "现在买伯克希尔哈撒韦股票有两大理由",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/2-reasons-buy-berkshire-hathaway-110500845.html",
+          "title_en": "2 Reasons to Buy Berkshire Hathaway Stock Now"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:30:10",
           "title": "如何让退休生活更美好？调整退休生活可能很难，如何最大化你的钱和时间来享受黄金年华",
           "summary": "",
           "url": "https://finance.yahoo.com/news/am-now-adjusting-retirement-tough-110000738.html",
@@ -409,16 +512,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "比特币要取代黄金成为投资标的，需要发生以下几件事情：",
+          "time": "2026-03-09 19:30:10",
+          "title": "美国顶级银行考虑起诉联邦监管机构因对加密货币银行规则的规定",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/heres-happen-bitcoin-flip-gold-105000983.html",
-          "title_en": "Here's What Would Need to Happen for Bitcoin to Flip Gold Someday"
+          "url": "https://finance.yahoo.com/news/top-us-banks-weigh-suing-110047300.html",
+          "title_en": "Top US banks weigh suing federal regulator over crypto banking rules"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "Aletheia 将 Micron Technology, Inc. (MU) 的目标价提高至 650 美元，从 315 美元 – 这是为什么",
           "summary": "",
           "url": "https://finance.yahoo.com/news/aletheia-lifts-pt-micron-technology-085051254.html",
@@ -427,7 +530,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
           "title": "法拉利（Formula 1）和Salesforce, Inc. (CRM) 宣布加深合作",
           "summary": "",
           "url": "https://finance.yahoo.com/news/formula-1-salesforce-inc-crm-084831853.html",
@@ -436,119 +539,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
+          "time": "2026-03-09 19:30:10",
+          "title": "比特币要取代黄金成为投资标的，需要发生以下几件事情：",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/heres-happen-bitcoin-flip-gold-105000983.html",
+          "title_en": "Here's What Would Need to Happen for Bitcoin to Flip Gold Someday"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 19:30:10",
           "title": "阿比维公司（ABBV）宣布SKYRIZI皮下注射治疗克罗恩病的阶段3AFFIRM研究结果为阳性",
           "summary": "",
           "url": "https://finance.yahoo.com/news/abbvie-inc-abbv-announces-positive-084634735.html",
           "title_en": "AbbVie Inc. (ABBV) Announces Positive Topline Results from Phase 3 AFFIRM Study Evaluating SKYRIZI Subcutaneous Induction in Patients with Crohn’s Disease"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "巴克莱降低了Blackstone Inc.(BX)的目标价至126美元，从164美元。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/barclays-cuts-pt-blackstone-inc-084445815.html",
-          "title_en": "Barclays Cuts PT on Blackstone Inc. (BX) to $126 From $164 – Here’s Why"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "QUALCOMM, Inc. (QCOM) 和 T-Mobile 扩大战略合作，促进从 5G 高级到 6G 的行业进步",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/qualcomm-inc-qcom-t-mobile-084137728.html",
-          "title_en": "QUALCOMM, Inc. (QCOM) and T-Mobile Expand Strategic Collaboration to Expedite the Industry’s Evolution from 5G Advanced to 6G"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "Citi将新蒙特矿业(NEM)目标价提高至150美元，原价118美元。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/citi-lifts-pt-newmont-corporation-083537002.html",
-          "title_en": "Citi Lifts PT on Newmont Corporation (NEM) to $150 from $118 – Here’s Why"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "摩根士丹利将Novo Nordisk A/S (NVO)的评级从卖出级提升至中性级 – 这是为什么",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/morgan-stanley-upgrades-novo-nordisk-083221266.html",
-          "title_en": "Morgan Stanley Upgrades Novo Nordisk A/S (NVO) to Equal Weight From Underweight – Here’s Why"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "摩根士丹利提高了皇家荷兰壳牌公司（SHEL）的目标价至3600英镑，之前为3400英镑。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jpmorgan-lifts-pt-shell-plc-082908422.html",
-          "title_en": "JPMorgan Lifts PT on Shell plc (SHEL) to 3,600 GBp From 3,400 GBp – Here’s Why"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "里奥铁矿业集团（RIO）和西澳政府宣布合作扩建达米尔海水淡化厂",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/rio-tinto-group-rio-wa-082533060.html",
-          "title_en": "Rio Tinto Group (RIO) and WA Government Announce Partnership to Expand Dampier Seawater Desalination Plant"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "皇家加拿大银行（RY）股价是否应买入？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/royal-bank-canada-ry-buy-082248181.html",
-          "title_en": "Is Royal Bank of Canada (RY) a Buy Post Earnings?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "渣打银行提高了渥太华皇家银行(TD)的目标价至每股142加元，原价132加元。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/scotiabank-lifts-pt-toronto-dominion-081952805.html",
-          "title_en": "Scotiabank Lifts PT on The Toronto-Dominion Bank (TD) to C$142 From C$132"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "是否总能源（TTE）是当前最有价值的低估股？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/totalenergies-se-tte-best-undervalued-081533896.html",
-          "title_en": "Is TotalEnergies SE (TTE) the Best Undervalued Stock to Invest in Right Now?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "巴尔科能源公司(Bapco Energies)因炼油厂遭袭宣布强制停运",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/bapco-energies-declares-force-majeure-081126421.html",
-          "title_en": "Bapco Energies Declares Force Majeure After Refinery Attack"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "Expand Energy Corporation (EXE) 宣布战略合作伙伴关系以加强数据驱动的运营",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/expand-energy-corporation-exe-announces-080506715.html",
-          "title_en": "Expand Energy Corporation (EXE) Announces Strategic Partnerships to Bolster Data-Driven Operational"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:16:14",
-          "title": "查斯重启其“抵押贷款利率促销”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/chase-mortgage-rate-sale-purchases-and-refinances-expired-140015586.html",
-          "title_en": "Chase reboots its 'mortgage rate sale' on purchases and refinances [EXPIRED]"
         }
       ]
     }
