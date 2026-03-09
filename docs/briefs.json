@@ -1,6 +1,6 @@
 {
   "date": "2026.03.09",
-  "generatedAtBJT": "2026-03-09 20:47:19",
+  "generatedAtBJT": "2026-03-09 21:00:22",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-09 20:47:19",
+          "time": "2026-03-09 21:00:22",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：伊朗冲突暴露了美国的弱点...\n- 宏观/Fed：科罗拉多州房屋保险费飙升，原因是极端天气...\n- 科技/半导体：在AI辩论中，甲骨文即将公布财报。以下是值得关注的点...",
+          "summary": "- 地缘/避险：关注 道指、标普500、纳斯达克期货大跌，油价飙升。\n- 宏观/Fed：关注 野外天气导致科罗拉多州房屋保险费大幅上涨。\n- 科技/半导体：Oracle将提供人工智能交易的快照，作为主要财报亮点。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Iran conflict exposes America’s Achilles’ heel…\n- 宏观/Fed：关注 Colorado home insurance rates are spiking due to wild weather. H…\n- 科技/半导体：Oracle Earnings On Deck Amid AI Debate. Here's What To Watch.… 关键词: nvidia, advice, all, amid, applied"
+          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq futures tumble as oil p…\n- 宏观/Fed：关注 Colorado home insurance rates are spiking due to wild weather. H…\n- 科技/半导体：Earnings live: Oracle to offer snapshot of AI trade as main earn… 关键词: oracle, amid, apple, backs, billion"
         }
       ]
     },
@@ -29,29 +29,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
+          "time": "2026-03-09 21:00:18",
+          "title": "本周主要财报事件：甲骨文将提供人工智能交易的快照",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/live/earnings-live-oracle-to-offer-snapshot-of-ai-trade-as-main-earnings-event-this-week-124653737.html",
+          "title_en": "Earnings live: Oracle to offer snapshot of AI trade as main earnings event this week"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 21:00:18",
           "title": "甲骨文财报即将公布，AI争论背景下值得关注的要点。",
           "summary": "",
           "url": "https://www.investors.com/news/technology/oracle-stock-earnings-preview-q3-2026-ai/?src=A00220&yptr=yahoo",
           "title_en": "Oracle Earnings On Deck Amid AI Debate. Here's What To Watch."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
-          "title": "Nvidia出售了所有的Applied Digital股份。您是否应该效仿？",
+          "time": "2026-03-09 21:00:18",
+          "title": "Jefferies认为人工智能不太可能打乱商业财产和责任保险经纪人",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/nvidia-sold-applied-digital-stock-122700245.html",
-          "title_en": "Nvidia Sold All of Its Applied Digital Stock. Should You Follow Suit?"
+          "url": "https://www.investing.com/news/stock-market-news/jefferies-says-ai-unlikely-to-disrupt-commercial-pc-brokers-93CH-4549666",
+          "title_en": "Jefferies says AI unlikely to disrupt commercial P&C brokers"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
-          "title": "埃隆·穆斯克称人工智能将终结退休储蓄 — 专家称这些建议存在风险",
+          "time": "2026-03-09 21:00:18",
+          "title": "Citi削减了苹果公司二季度26年的预期估计，原因是内存价格上涨。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/elon-musk-claims-ai-end-121805621.html",
-          "title_en": "Elon Musk Claims AI Will End Retirement Saving — Expert Says That Advice Is Risky"
+          "url": "https://www.investing.com/news/stock-market-news/apple-2h26-estimates-cut-at-citi-on-memory-price-hikes-4549635",
+          "title_en": "Apple 2H26 estimates cut at Citi on memory price hikes"
         },
         {
           "source": "CNBC-Top",
@@ -72,20 +81,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
+          "time": "2026-03-09 21:00:18",
           "title": "科罗拉多州房屋保险费率因野火天气而飙升，如何在风暴中保护您的保险费",
           "summary": "",
           "url": "https://finance.yahoo.com/news/colorado-home-insurance-rates-spiking-120000104.html",
           "title_en": "Colorado home insurance rates are spiking due to wild weather. How to shelter your premiums in the storm"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
-          "title": "欧罗巴海运有限公司（ESEA）利用集装箱船租赁费率上涨",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/euroseas-ltd-esea-capitalizing-higher-110953688.html",
-          "title_en": "Euroseas Ltd. (ESEA) Capitalizing on Higher Containership Charter Rates"
         },
         {
           "source": "MarketWatch-Top",
@@ -126,25 +126,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
-          "title": "伊朗冲突暴露了美国的弱点",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/iran-conflict-exposes-america-achilles-122107024.html",
-          "title_en": "Iran conflict exposes America’s Achilles’ heel"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
-          "title": "股市今日：道指暴跌500点 美伊新闻引发油价大涨（实时报道）",
-          "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-news-oil-prices-nvidia-stock/?src=A00220&yptr=yahoo",
-          "title_en": "Stock Market Today: Dow Dives 500 Points On U.S.-Iran News As Oil Surges (Live Coverage)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
+          "time": "2026-03-09 21:00:18",
           "title": "股市今日：道指、标普500指数和纳斯达克期货价格大幅下跌，油价突破每桶100美元大关",
           "summary": "",
           "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-tumble-as-oil-prices-surge-to-over-100-a-barrel-224103747.html",
@@ -153,7 +135,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
+          "time": "2026-03-09 21:00:18",
+          "title": "伊朗冲突打击石油输出和出口，价格大幅上涨",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/oil-output-exports-knocked-iran-123847850.html",
+          "title_en": "Oil output, exports knocked by Iran conflict as prices surge"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 21:00:18",
+          "title": "伊朗冲突暴露了美国的弱点",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/iran-conflict-exposes-america-achilles-122107024.html",
+          "title_en": "Iran conflict exposes America’s Achilles’ heel"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 21:00:18",
+          "title": "股市今日：道指暴跌500点 美伊新闻引发油价大涨（实时报道）",
+          "summary": "",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-news-oil-prices-nvidia-stock/?src=A00220&yptr=yahoo",
+          "title_en": "Stock Market Today: Dow Dives 500 Points On U.S.-Iran News As Oil Surges (Live Coverage)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 21:00:18",
           "title": "石油价格因伊朗战争而达到2022年以来最高点，超过每桶119美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/us-oil-prices-jump-supply-223911453.html",
@@ -162,7 +171,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
+          "time": "2026-03-09 21:00:18",
+          "title": "道琼斯指数料将进一步下跌，中东战争使油价突破103美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/dow-jones-set-fall-further-123900493.html",
+          "title_en": "Dow Jones set to fall further as Middle East war sends oil above $103"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 21:00:18",
+          "title": "英伟达股价下跌，伊朗战争威胁芯片供应链",
+          "summary": "",
+          "url": "https://www.barrons.com/articles/nvidia-stock-price-chips-amd-broadcom-iran-7dab5d09?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Nvidia Stock Falls as the Chip Supply Chain Is Threatened by War in Iran"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 21:00:18",
           "title": "伊朗局势升级，可能导致下个月汽油价格达到4美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/gas-prices-could-hit-4-in-the-next-month-as-war-in-iran-escalates-114410608.html",
@@ -267,36 +294,6 @@
           "url": "https://www.marketwatch.com/story/gold-prices-tumble-as-investors-rattled-by-the-iran-conflict-continue-to-shelter-in-the-dollar-a6a5284d?mod=mw_rss_topstories",
           "title_en": "Gold prices tumble as investors, rattled by the Iran conflict, continue to shelter in the dollar",
           "summary_en": "Gold prices are falling as investors, facing the backdrop of a worsening Iran conflict, take shelter in the dollar."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-09 19:17:08",
-          "title": "石油价格大幅上涨促使韩国首次在30年内实施燃油价格上限",
-          "summary": "李在明表示将“迅速”推出燃油价格上限，并表示首尔将探索多元化能源进口来源的方法",
-          "url": "https://www.cnbc.com/2026/03/09/south-korea-fuel-price-cap-oil-price-surging.html",
-          "title_en": "Oil shock prompts South Korea to impose fuel price cap for the first time in 30 years",
-          "summary_en": "Lee Jae Myung would \"swiftly introduce\" a fuel price cap, adding that Seoul will explore ways to diversify its energy import sources"
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-09 18:54:52",
-          "title": "分析师警告：石油价格可能进一步上涨",
-          "summary": "能源分析师警告称，随着中东战争的爆发，石油价格没有上限。",
-          "url": "https://www.cnbc.com/2026/03/09/oil-prices-iran-war-middle-east-us-israel-strait-of-hormuz.html",
-          "title_en": "‘Sky is the limit’: Analysts warn oil prices could surge further",
-          "summary_en": "Energy analysts warned that there was no limit for oil prices as they rose in response to the war in the Middle East."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-09 18:41:46",
-          "title": "伊朗战略性石油岛屿因中东冲突升级而走红",
-          "summary": "卡尔吉斯岛是伊朗石油业的核心地带，占伊朗原油出口的约90%。",
-          "url": "https://www.cnbc.com/2026/03/09/iran-war-us-israel-conflict-oil-prices-kharg-island.html",
-          "title_en": "Iran's strategic oil island thrust into the spotlight as Middle East conflict escalates",
-          "summary_en": "Kharg Island serves as the centerpiece for Iran's oil industry, accounting for roughly 90% of the country’s crude exports."
         }
       ]
     },
@@ -312,34 +309,79 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
-          "title": "洛克希德马丁全力加速武器生产——承诺在特朗普会面后产量翻倍",
+          "time": "2026-03-09 21:00:18",
+          "title": "沃尔玛的Flipkart将总部转移到印度，以备上市",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/lockheed-martin-goes-full-throttle-123104877.html",
-          "title_en": "Lockheed Martin Goes Full Throttle On Weapons Production— Commits To 4X Output After Trump Meeting"
+          "url": "https://finance.yahoo.com/news/walmarts-flipkart-shifts-india-prepares-124839538.html",
+          "title_en": "Walmart's Flipkart shifts base to India as it prepares for IPO"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
-          "title": "2026年3月9日维克斯高管推荐股票",
+          "time": "2026-03-09 21:00:18",
+          "title": "Cellebrite DI Ltd. (CLBT) 的竞争壁垒来自于其在数字forensics和调查领域的领先地位。",
           "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46358_InsiderActivity_1773052593000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily – Vickers Top Insider Picks for 03/09/2026"
+          "url": "https://finance.yahoo.com/news/gives-cellebrite-di-ltd-clbt-125156107.html",
+          "title_en": "What Gives Cellebrite DI Ltd. (CLBT) a Competitive Moat?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
-          "title": "Lisata Therapeutics将被Kuva Labs收购。",
+          "time": "2026-03-09 21:00:18",
+          "title": "PAR Technology Corporation（PAR）成为一线餐厅连锁店持久的投资者首选的原因",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/lisata-therapeutics-acquired-kuva-labs-122900963.html",
-          "title_en": "Lisata Therapeutics to be acquired by Kuva Labs"
+          "url": "https://finance.yahoo.com/news/makes-par-technology-corporation-par-124658023.html",
+          "title_en": "What Makes PAR Technology Corporation (PAR) a Persistent Mandate Winner from Tier-1 Restaurant Chains"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
+          "time": "2026-03-09 21:00:18",
+          "title": "周股市盘点：\n\n1. 美元指数（DXY）上涨0.1%至96.89。\n2. 道琼斯指数（DJIA）下跌0.3%至33,677.74。\n3. 标准普尔500指数（S&P 500）下跌0.4%至3,956.04。\n4. 纳斯达克指数（COMP）下跌0.5%至12,398.58。\n5. 美元兑欧元汇率（EUR/USD）下跌0.2%至1.065。\n6. 美元兑日元汇率（USD/JPY）上涨0.2%至133.85。\n7. 美元兑英镑汇率（GBP/USD）下跌0.3%至1.325。\n8. 美元兑加元汇率（USD/CAD）上涨0.2%至1.335。\n9. 美元兑瑞士法郎汇率（USD/CHF）上涨0.1%至0.927。\n10. 美元兑瑞典克朗汇率（USD/SEK）上涨0.2%至10.55。\n11. 美元兑新西兰元汇率（USD/N",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46366_StockPicks_1773057548000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Weekly Stock List"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 21:00:18",
+          "title": "当恐惧爆发时，这5家低调的被忽视的公司仍在持续发挥作用",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/fear-spikes-5-quiet-overlooked-124545637.html",
+          "title_en": "When Fear Spikes, These 5 Quiet, Overlooked Stocks Keep Delivering"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 21:00:18",
+          "title": "Jensen Quality增长股权基金因估值过高而卖出Amphenol（APH）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jensen-quality-growth-equity-divested-124132400.html",
+          "title_en": "Jensen Quality Growth Equity Divested Amphenol (APH) Due to Elevated Valuation"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 21:00:18",
+          "title": "专题报道：主权债券投资的多样化选择",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46363_MarketOutlook_1773055422000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily Spotlight: A Range of Options Among Sovereign Debt"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 21:00:18",
+          "title": "Rice Hall James投资公司收购Stride Inc.股份。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/rice-hall-james-buys-stride-124417811.html",
+          "title_en": "Rice Hall James Buys Stride Stock"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 21:00:18",
           "title": "O-I玻璃（OI）公布2025年调整每股收益1.60美元，实现3000万美元的“适合胜利”（Fit to Win）效益。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/o-glass-oi-reports-1-114813084.html",
@@ -348,7 +390,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
+          "time": "2026-03-09 21:00:18",
+          "title": "分析报告：Autozone Inc.",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_2753_AnalystReport_1773055368000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Autozone Inc."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 21:00:18",
           "title": "KKR & Co. (KKR) 公布 1290 亿美元募资，第四季度费用相关收益 9720 万美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/kkr-co-kkr-reports-129b-114802305.html",
@@ -357,16 +408,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
-          "title": "Domestic Metals在美国Smart Creek项目扩大探矿工作",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/domestic-metals-expands-exploration-efforts-122727098.html",
-          "title_en": "Domestic Metals expands exploration efforts at Smart Creek Project in US"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
+          "time": "2026-03-09 21:00:18",
           "title": "美国航空公司(AAL)宣布1亿美元扩建计划，针对迈阿密国际机场。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/american-airlines-aal-unveils-1b-114754696.html",
@@ -375,7 +417,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
+          "time": "2026-03-09 21:00:18",
           "title": "信息服务集团（III）公布第四季度营收61.2亿美元，调整EBITDA增长24%",
           "summary": "",
           "url": "https://finance.yahoo.com/news/information-services-group-iii-reports-114745095.html",
@@ -384,7 +426,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
+          "time": "2026-03-09 21:00:18",
           "title": "Quanex Building Products (NX) 公布2026第一季度销售409.1亿美元，调整后EBITDA27.4亿美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/quanex-building-products-nx-reports-114734248.html",
@@ -393,7 +435,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
+          "time": "2026-03-09 21:00:18",
+          "title": "2026年3月9日维克斯高买家和高卖家",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46359_TopBottomInsiderActivity_1773053493000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily – Vickers Top Buyers & Sellers for 03/09/2026"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 21:00:18",
+          "title": "贸易桌 CEO 认为开放互联网刚刚变得更强大",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/why-trade-desk-ceo-thinks-123500170.html",
+          "title_en": "Why The Trade Desk CEO Thinks the Open Internet Just Got Stronger"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-09 21:00:18",
           "title": "Blue Owl Capital (OWL) 超过 3000亿美元资产管理规模，第四季度2025年EPS为0.24美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/blue-owl-capital-owl-surpasses-114726242.html",
@@ -402,74 +462,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
+          "time": "2026-03-09 21:00:18",
           "title": "Peloton Interactive (PTON) 公布了 81 亿美元的调整 EBITDA，净债务减少 52%",
           "summary": "",
           "url": "https://finance.yahoo.com/news/peloton-interactive-pton-reports-81m-114717436.html",
           "title_en": "Peloton Interactive (PTON) Reports $81M Adjusted EBITDA, 52% Net Debt Reduction"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
-          "title": "吉布拉尔达公司（ROCK）第四季度净销售额增长17%，库存订单增加102%",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/gibraltar-industries-rock-reports-17-114708221.html",
-          "title_en": "Gibraltar Industries (ROCK) Reports 17% Q4 Net Sales Growth, 102% Backlog Increase"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
-          "title": "Shutterstock (SSTK) 公布 2025 年收入 98.99 亿美元，数据业务增长 16%",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/shutterstock-sstk-reports-989-9m-114655765.html",
-          "title_en": "Shutterstock (SSTK) Reports $989.9M Revenue in 2025 Fueled by 16% Data Segment Growth"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
-          "title": "维斯特拉(VST)在德克萨斯州扩大虚拟发电厂业务，合作伙伴为恩派斯能源(ENPH)",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/vistra-vst-expands-virtual-power-114645195.html",
-          "title_en": "Vistra (VST) Expands Virtual Power Plant in Texas With Enphase Energy (ENPH)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
-          "title": "三井 Mitsui 与Kaynes合作在印度建造新OSAT设施",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/mitsui-partners-kaynes-osat-facility-122247655.html",
-          "title_en": "Mitsui partners with Kaynes for new OSAT facility in India"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
-          "title": "Alight (ALIT)整合VB Scout Tech以增强索赔监控",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/alight-alit-integrates-vb-scout-114635120.html",
-          "title_en": "Alight (ALIT) Integrates VB Scout Tech to Enhance Claims Monitoring"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
-          "title": "Cooper-Standard Holdings (CPS) 公布 2025 年销售额 274 亿美元，调整 EBITDA 209.7 亿美元",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/cooper-standard-holdings-cps-reports-114627941.html",
-          "title_en": "Cooper-Standard Holdings (CPS) Reports $2.74B Sales and $209.7M Adjusted EBITDA for 2025"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-09 20:47:14",
-          "title": "Genasys (GNSS) 获得了 2.0 万美元的订单，为新加坡海军无人水面舰艇通信系统提供支持。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/genasys-gnss-secures-2-0m-114616003.html",
-          "title_en": "Genasys (GNSS) Secures $2.0M Order for Singapore Navy USV Communication Systems"
         }
       ]
     }
