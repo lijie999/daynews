@@ -1,6 +1,6 @@
 {
   "date": "2026.03.10",
-  "generatedAtBJT": "2026-03-10 03:30:19",
+  "generatedAtBJT": "2026-03-10 03:52:49",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-10 03:30:19",
+          "time": "2026-03-10 03:52:49",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 土耳其 Halkbank 和解美国对其因违反伊朗制裁的刑事案件。\n- 宏观/Fed：关注 本周市场关注的重点：通胀、住房市场等数据。\n- 科技/半导体：NVIDIA (NVDA) 的计算能力提供支持给 Amazon (AMZN) 等公司。\n- TSLA：关注 Amazon (AMZN) 如何进一步加剧了与 Tesla (TSLA) 的无人驾驶出租车竞争。",
+          "summary": "- 地缘/避险：伊朗战争加剧了股市波动，但这…\n- 宏观/Fed：10年期国债收益率基本不变，交易员权衡通胀…\n- 科技/半导体：Netflix收购了贝恩阿法克的AI电影制作初创公司InterPositive…\n- TSLA：亚马逊如何在机器人出租车竞争中超越特斯拉",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Turkey’s Halkbank settles US criminal case over Iran sanctions v…\n- 宏观/Fed：关注 What to Expect in Markets This Week: Data on Inflation, Housing,…\n- 科技/半导体：Compute Capacity Offering Support to Amazon (AMZN)… 关键词: startup, anthropic, microsoft, nvidia, adds\n- TSLA：关注 Here’s how Amazon just stepped up its robotaxi competition with …"
+          "summary_en": "- 地缘/避险：关注 The Iran War Is Heightening Stock Market Volatility -- but This …\n- 宏观/Fed：关注 10-year Treasury yield is little changed as traders weigh inflat…\n- 科技/半导体：Netflix Buys Ben Affleck's AI Filmmaking Startup InterPositive… 关键词: startup, anthropic, nvidia, microsoft, adds\n- TSLA：关注 Here’s how Amazon just stepped up its robotaxi competition with …"
         }
       ]
     },
@@ -29,7 +29,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
+          "time": "2026-03-10 03:52:45",
+          "title": "Netflix收购了本·阿弗莱克(Ben Affleck)旗下的人工智能电影制作公司InterPositive",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/netflix-buys-ben-afflecks-ai-104509792.html",
+          "title_en": "Netflix Buys Ben Affleck's AI Filmmaking Startup InterPositive"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 03:52:45",
+          "title": "如果NVIDIA的股价能够在2030年翻倍，意味着其股价将达到目前的两倍。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/nvidia-stock-double-2030-103900047.html",
+          "title_en": "Can Nvidia Stock Double by 2030?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 03:52:45",
           "title": "为亚马逊（AMZN）计算容量提供支持",
           "summary": "",
           "url": "https://finance.yahoo.com/news/compute-capacity-offering-support-amazon-101928989.html",
@@ -38,16 +56,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
-          "title": "C.H. Robinson全球表示在Morgan Stanley会议上推广“Lean AI”，并称其实现了40%的生产力增益。",
+          "time": "2026-03-10 03:52:45",
+          "title": "C.H. 罗宾逊环球称其“精简AI”成果，货运需求在Raymond James会议上保持低迷。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/c-h-robinson-worldwide-touts-101543759.html",
-          "title_en": "C.H. Robinson Worldwide Touts “Lean AI” at Morgan Stanley Conference, Citing 40% Productivity Gain"
+          "url": "https://finance.yahoo.com/news/c-h-robinson-worldwide-touts-110218352.html",
+          "title_en": "C.H. Robinson Worldwide Touts “Lean AI” Gains as Freight Demand Stays Muted at Raymond James Conference"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
+          "time": "2026-03-10 03:52:45",
           "title": "Anthropic对特朗普政府对AI初创公司的全面禁令提起法律诉讼事实简介",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/factboxanthropics-legal-claims-against-trumps-blanket-government-ban-on-ai-startup-4550382",
@@ -56,11 +74,21 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
+          "time": "2026-03-10 03:52:45",
           "title": "苹果推迟智能家居显示器的发布，因为Siri升级滞后。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/apple-delays-smart-home-display-launch-as-siri-upgrade-lags--bloomberg-93CH-4550361",
           "title_en": "Apple delays smart home display launch as Siri upgrade lags - Bloomberg"
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-10 03:49:05",
+          "title": "Anthropic被美国国防部选为人工智能合作伙伴，如今却被禁用，专家们开始担忧。",
+          "summary": "Anthropic与Amazon Web Services和Palantir的合作帮助其在DOD取得了进展。",
+          "url": "https://www.cnbc.com/2026/03/09/anthropic-was-the-pentagons-choice-for-ai-now-its-banned-and-experts-are-worried.html",
+          "title_en": "Anthropic was the Pentagon's choice for AI. Now it's banned and experts are worried",
+          "summary_en": "Anthropic's partnerships with Amazon Web Services and Palantir helped it make inroads into the DOD."
         },
         {
           "source": "CNBC-Top",
@@ -119,15 +147,6 @@
       "badge": "Fed / Policy",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
-          "title": "本周市场预期：通胀、房价和消费者信心数据公布；甲骨文（Oracle）、Adobe等公司发布财报。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/expect-markets-week-data-inflation-101500042.html",
-          "title_en": "What to Expect in Markets This Week: Data on Inflation, Housing, and Consumer Sentiment; Earnings From Oracle, Adobe"
-        },
-        {
           "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-10 03:11:24",
@@ -154,9 +173,27 @@
       "badge": "Risk / Oil / Gold",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 03:52:45",
+          "title": "伊朗战争正在加剧股市波动，但这7.8万亿美元的数字对华尔街来说是一个更大的担忧。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/iran-war-heightening-stock-market-105600857.html",
+          "title_en": "The Iran War Is Heightening Stock Market Volatility -- but This $7.8 Trillion Figure Is an Objectively Bigger Worry for Wall Street"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
+          "time": "2026-03-10 03:52:45",
+          "title": "特朗普称伊朗战争即将结束",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/trump-suggests-iran-war-nearing-end-4550410",
+          "title_en": "Trump suggests Iran war nearing end"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 03:52:45",
           "title": "土耳其 Halkbank 与美国有关伊朗制裁违规案达成和解",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/turkeys-halkbank-us-justice-department-in-deferred-prosecution-agreement-judge-says-4549969",
@@ -165,7 +202,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
+          "time": "2026-03-10 03:52:45",
           "title": "航空公司因伊朗战争不确定性暂停飞机订单 - 布隆伯格",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/airlines-pause-aircraft-orders-amid-iran-war-uncertainty--bloomberg-93CH-4550372",
@@ -174,7 +211,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
+          "time": "2026-03-10 03:52:45",
           "title": "股市大幅下跌，伊朗战争的阴影笼罩着市场，但纳斯达克指数 bucked 这个趋势，波动大幅。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-slide-as-oil-extends-surge-amid-middle-east-war-4548659",
@@ -183,12 +220,32 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 03:20:13",
-          "title": "美国原油收盘略微上涨，价格接近每桶95美元，早些时候曾一度飙升至每桶119美元。",
+          "time": "2026-03-10 03:50:41",
+          "title": "石油价格下跌，接近$120后，特朗普表示美国考虑控制霍尔木兹海峡",
           "summary": "阿拉伯海湾石油生产国正在减少产量，因为他们已经没有存储空间了，因为无法通过霍尔木兹海峡出口石油。",
           "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
-          "title_en": "U.S. oil closes slightly higher near $95 per barrel after spiking as high as $119 earlier in session",
+          "title_en": "Oil prices decline after nearly hitting $120 as Trump says U.S. considering taking over Strait of Hormuz",
           "summary_en": "Gulf Arab oil producers are cutting production as they run out of storage space because they can't export through the Strait of Hormuz"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-10 03:49:00",
+          "title": "石油价格从近120美元一桶的高点回落，传言七国集团将紧急释放原油储备。",
+          "summary": "石油价格周一上涨，但最终收盘价低于周一高点，接近每桶120美元，原因是七国集团的官员讨论了可能的紧急释放原油储备。",
+          "url": "https://www.marketwatch.com/story/oil-shatters-100-ceiling-hitting-levels-not-seen-since-2022-as-iran-conflict-escalates-47add83b?mod=mw_rss_topstories",
+          "title_en": "Oil prices pull back from highs near $120 a barrel on talk of G-7 emergency release of crude reserves",
+          "summary_en": "Oil prices climbed on Monday, but finished below Monday’s highs near $120 a barrel following talk by the Group of Seven nations of a potential emergency release of crude reserves."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-10 03:47:33",
+          "title": "特朗普对CBS表示，伊朗战争“非常完善”。",
+          "summary": "美国股市指数因美国总统唐纳德·特朗普表示伊朗战争可能比预期早结束而上涨。",
+          "url": "https://www.cnbc.com/2026/03/09/trump-iran-war-end.html",
+          "title_en": "Trump tells CBS that Iran 'war is very complete'",
+          "summary_en": "U.S. stock market indices rose on the heels of reported comments by President Donald Trump that the war against Iran could be over sooner than first expected."
         },
         {
           "source": "MarketWatch-Top",
@@ -261,16 +318,6 @@
           "summary_en": "Higher prices will push inflation upward in 2025, limiting the Federal Reserve’s ability to cushion the soft U.S. labor market, said former Pimco CEO Mohamed El-Erian."
         },
         {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-10 01:13:00",
-          "title": "石油价格从2022年以来最高水平回落，讨论中关于G7紧急释放原油储备",
-          "summary": "原油价格周一大幅上涨，原因是伊朗冲突迹象未减，部分主要石油生产国被迫减产。",
-          "url": "https://www.marketwatch.com/story/oil-shatters-100-ceiling-hitting-levels-not-seen-since-2022-as-iran-conflict-escalates-47add83b?mod=mw_rss_topstories",
-          "title_en": "Oil prices pull back from highest levels since 2022 on talk of G-7 emergency release of crude reserves",
-          "summary_en": "Crude prices were surging on Monday amid signs that the Iran conflict wasn’t de-escalating, and as some major oil producers were reportedly forced to cut production."
-        },
-        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-10 00:48:07",
@@ -299,36 +346,6 @@
           "url": "https://www.cnbc.com/2026/03/09/prediction-markets-wagers-bets-iran-war-kalshi-polymarket.html",
           "title_en": "Prediction markets face questions on Iran war bets, from regime change to nuclear detonation",
           "summary_en": "Prediction markets are facing backlash over bets related to war, with Polymarket recently archiving some predictions on nuclear detonation."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-09 23:46:21",
-          "title": "分析师警告：石油价格可能进一步上涨",
-          "summary": "能源分析师警告称，中东战争可能导致石油价格继续上涨。",
-          "url": "https://www.cnbc.com/2026/03/09/oil-prices-iran-war-middle-east-us-israel-strait-of-hormuz.html",
-          "title_en": "‘Sky is the limit’: Analysts warn oil prices could surge further",
-          "summary_en": "Energy analysts warned that oil prices could continue to rise in response to the war in the Middle East."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-09 23:35:02",
-          "title": "美国伊朗战争是历史上最大的一次石油供应干扰",
-          "summary": "全球石油市场将需要通过石油价格大幅上涨来平衡需求，Rapidan Energy表示。",
-          "url": "https://www.cnbc.com/2026/03/09/the-us-iran-war-is-the-biggest-oil-supply-disruption-in-history.html",
-          "title_en": "The U.S.-Iran war is the biggest oil supply disruption in history",
-          "summary_en": "The global oil market will need to balance by destroying demand through sharply rising oil prices, according to Rapidan Energy."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-09 23:14:17",
-          "title": "国会民主党人要求俄罗斯石油销售到印度的逆转，随着能源价格飙升",
-          "summary": "俄罗斯据报正在帮助伊朗针对中东的美军，并可能从新油气销售中受益。",
-          "url": "https://www.cnbc.com/2026/03/09/bessent-russian-oil-sales-india.html",
-          "title_en": "Congressional Democrats demand reversal of Russian oil sales into India as energy prices soar",
-          "summary_en": "Russia is reportedly helping Iran target U.S. forces in the Middle East and could now benefit from a windfall of new oil and gas sales."
         }
       ]
     },
@@ -365,97 +382,61 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
-          "title": "Group 1汽车（GPI）展现出严格的成本控制",
+          "time": "2026-03-10 03:52:45",
+          "title": "为了每月获得10万美元的退休金，需要多少退休基金？看看55岁、62岁或65岁退休所需的金额。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/group-1-automotive-gpi-exhibits-101912228.html",
-          "title_en": "Group 1 Automotive (GPI) Exhibits Disciplined Cost Controls"
+          "url": "https://finance.yahoo.com/news/big-nest-egg-10k-month-105000124.html",
+          "title_en": "How big of a nest egg do you need for $10K a month in retirement? Here’s what it takes to retire at 55, 62 or 65"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
-          "title": "摩根士丹利维持了对Coupang（CPNG）的超重评级。",
+          "time": "2026-03-10 03:52:45",
+          "title": "4% 的雇主提供新型紧急储蓄计划给员工。如何在有或无公司计划的情况下储蓄应急资金。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/morgan-stanley-maintains-overweight-rating-101920660.html",
-          "title_en": "Morgan Stanley Maintains Overweight Rating on Coupang (CPNG)"
+          "url": "https://finance.yahoo.com/news/4-employers-offer-emergency-savings-110000048.html",
+          "title_en": "4% of employers offer new emergency savings plans for workers. How to save for emergencies with or without your company"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
-          "title": "利西亚汽车 (LAD) 将美国收购收入推至 22.5 亿美元",
+          "time": "2026-03-10 03:52:45",
+          "title": "如果你曾经使用过Venmo或Zelle发送过钱，注意：付款应用程序诈骗正在上升——如何保护你的钱",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/lithia-motors-lad-pushes-u-101835446.html",
-          "title_en": "Lithia Motors (LAD) Pushes U.S. Acquired Revenue to $225 Million"
+          "url": "https://finance.yahoo.com/news/ever-sent-money-venmo-zelle-110000811.html",
+          "title_en": "Ever sent money on Venmo or Zelle? Payment app scams are rising — here’s how to protect your money"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
-          "title": "全球E在线（GLBE）是最好的零售股之一吗？",
+          "time": "2026-03-10 03:52:45",
+          "title": "ARMOUR RESIDENTIAL REIT (ARR) 的下一步将如何？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/global-e-online-glbe-one-101857359.html",
-          "title_en": "Is Global-E Online (GLBE) One of The Best Retail Stocks"
+          "url": "https://finance.yahoo.com/news/next-armour-residential-reit-arr-102604376.html",
+          "title_en": "What Next For Armour Residential REIT (ARR) After Impressive Earnings?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
-          "title": "威廉姆斯·索恩预计Wayfair将继续扩大利润率。",
+          "time": "2026-03-10 03:52:45",
+          "title": "特朗普的税负比大多数W-2工作者低是因为他利用了税法中的漏洞。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/wayfair-w-positioned-expand-margins-101827389.html",
-          "title_en": "Wayfair (W) Positioned to Expand Margins"
+          "url": "https://finance.yahoo.com/news/why-donald-trump-paid-far-104904209.html",
+          "title_en": "Why Donald Trump Has Paid Far Less in Taxes Than Most W-2 Workers"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
-          "title": "Needham再次确认对Carvana（CVNA）的买入评级。",
+          "time": "2026-03-10 03:52:45",
+          "title": "伯恩斯坦维持Reddit(RDDT)股票持有评级",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/needham-reaffirms-buy-rating-carvana-101821272.html",
-          "title_en": "Needham Reaffirms Buy Rating on Carvana (CVNA)"
+          "url": "https://finance.yahoo.com/news/bernstein-maintains-hold-rating-reddit-102523068.html",
+          "title_en": "Bernstein Maintains Hold Rating On Reddit (RDDT) Stock"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
-          "title": "比特币将会跌至0美元吗？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/bitcoin-going-0-102400104.html",
-          "title_en": "Is Bitcoin Going to $0?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
-          "title": "关于Broadcom（AVGO）的2027年1万个芯片目标你需要知道的",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/know-braodcom-avgo-1-million-102408672.html",
-          "title_en": "Here’s What You Need To Know About Braodcom’s (AVGO) 1 Million Chips Target By 2027"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
-          "title": "分析师如何反应于Palantir (PLTR) 股票在二月份的下跌",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/analysts-reacted-palantir-pltr-stock-102434157.html",
-          "title_en": "Here’s How Analysts Reacted To Palantir (PLTR) Stock’s Dip In February"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
-          "title": "分析报告：Thor Industries, Inc.",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3443_AnalystReport_1773077555000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Thor Industries, Inc."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
+          "time": "2026-03-10 03:52:45",
           "title": "Bank of America Securities对TG Therapeutics (TGTX)下调评级后市悲观",
           "summary": "",
           "url": "https://finance.yahoo.com/news/bank-america-securities-bearish-tg-102541979.html",
@@ -464,25 +445,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
-          "title": "UBS降低了AMD价格目标的原因",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/why-ubs-lowered-advanced-micro-102419125.html",
-          "title_en": "Here’s Why UBS Lowered Advanced Micro Devices (AMD) Price Target"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
-          "title": "UBS 将 Nu Holdings (NU) 的价格目标降至 17.2 美元",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/ubs-lowers-nu-holdings-nu-102426332.html",
-          "title_en": "UBS Lowers Nu Holdings (NU) Price Target To $17.2"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
+          "time": "2026-03-10 03:52:45",
           "title": "Stifel持續對Gildan Activewear (GIL)股票保持樂觀態度。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/stifel-stays-bullish-gildan-activewear-102531544.html",
@@ -491,7 +454,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
+          "time": "2026-03-10 03:52:45",
+          "title": "分析师降低SM Energy（SM）股价目标，但仍保持乐观",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/analysts-lower-sm-energy-sm-102514860.html",
+          "title_en": "Analysts lower SM Energy (SM) Price Target But Remain Bullish"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 03:52:45",
+          "title": "分析报告：Thor Industries, Inc.",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3443_AnalystReport_1773077555000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Thor Industries, Inc."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 03:52:45",
           "title": "Bank of America Securities对Franco Nevada持乐观态度。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/bank-america-securities-bullish-franco-102458014.html",
@@ -500,7 +481,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
+          "time": "2026-03-10 03:52:45",
+          "title": "TD Cowen 维持 Celestica (CLS) 股票持有评级和 $330 的价格目标。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/td-cowen-maintains-hold-rating-102506241.html",
+          "title_en": "TD Cowen Maintains Hold Rating and $330 Price Target On Celestica (CLS) Stock"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 03:52:45",
+          "title": "Bank of America Securities再次表示对Wheaton Precious Metals（WPM）的乐观态度。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/bank-america-securities-reiterates-bullish-102451427.html",
+          "title_en": "Bank of America Securities Reiterates Bullish Stance On Wheaton Precious Metals (WPM)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 03:52:45",
+          "title": "UBS 将 Nu Holdings (NU) 的价格目标降至 17.2 美元",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/ubs-lowers-nu-holdings-nu-102426332.html",
+          "title_en": "UBS Lowers Nu Holdings (NU) Price Target To $17.2"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 03:52:45",
           "title": "市场更新：RY、THO、TOL、DASH",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46370_MarketUpdate_1773077555000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -509,7 +517,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
+          "time": "2026-03-10 03:52:45",
           "title": "分析师对Argenx SE (ARGX) 股票持有不同看法",
           "summary": "",
           "url": "https://finance.yahoo.com/news/analysts-express-mixed-opinion-argenx-102442123.html",
@@ -518,11 +526,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 03:30:14",
-          "title": "伯恩斯坦维持Reddit(RDDT)股票持有评级",
+          "time": "2026-03-10 03:52:45",
+          "title": "分析师如何反应于Palantir (PLTR) 股票在二月份的下跌",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/bernstein-maintains-hold-rating-reddit-102523068.html",
-          "title_en": "Bernstein Maintains Hold Rating On Reddit (RDDT) Stock"
+          "url": "https://finance.yahoo.com/news/analysts-reacted-palantir-pltr-stock-102434157.html",
+          "title_en": "Here’s How Analysts Reacted To Palantir (PLTR) Stock’s Dip In February"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 03:52:45",
+          "title": "关于Broadcom（AVGO）的2027年1万个芯片目标你需要知道的",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/know-braodcom-avgo-1-million-102408672.html",
+          "title_en": "Here’s What You Need To Know About Braodcom’s (AVGO) 1 Million Chips Target By 2027"
         }
       ]
     }
