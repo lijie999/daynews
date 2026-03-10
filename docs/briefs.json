@@ -1,6 +1,6 @@
 {
   "date": "2026.03.11",
-  "generatedAtBJT": "2026-03-11 01:30:19",
+  "generatedAtBJT": "2026-03-11 01:35:22",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-11 01:30:19",
+          "time": "2026-03-11 01:35:22",
           "title": "主线结论（自动生成）",
           "summary": "- 地缘/避险：关注道指、标普500、纳斯达克上涨，石油价格下滑。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq climb, oil slides as Wa…\n- 科技/半导体：Amazon stock: Wolfe sees AWS growth underappreciated… 关键词: nvidia, amazon, agent, anthropic, billion\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
+          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq climb, oil slides as Wa…\n- 科技/半导体：Amazon stock: Wolfe sees AWS growth underappreciated… 关键词: nvidia, amazon, agent, agents, anthropic\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
         }
       ]
     },
@@ -29,7 +29,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
+          "time": "2026-03-11 01:35:17",
           "title": "沃尔夫认为亚马逊的AWS增长被低估了。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/amazon-stock-wolfe-sees-aws-growth-underappreciated-4552743",
@@ -38,11 +38,21 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
+          "time": "2026-03-11 01:35:17",
           "title": "亚马逊推出医疗保健人工智能助手",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/amazon-launches-healthcare-ai-assistant-on-its-website-app-4552717",
           "title_en": "Amazon launches healthcare AI assistant on its website, app"
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-11 01:29:29",
+          "title": "Meta收购了社交网络平台Moltbook，用于人工智能代理",
+          "summary": "Moltbook是为OpenClaw代理人打造的，OpenClaw创始人Peter Steinberger被OpenAI雇用。",
+          "url": "https://www.cnbc.com/2026/03/10/meta-social-networks-ai-agents-moltbook-acquisition.html",
+          "title_en": "Meta gets into social networks for AI agents with acquisition of viral Moltbook platform",
+          "summary_en": "Moltbook was built for OpenClaw agents, and OpenClaw's founder, Peter Steinberger, was hired by OpenAI."
         },
         {
           "source": "CNBC-Top",
@@ -208,7 +218,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
+          "time": "2026-03-11 01:35:17",
           "title": "股市今日：道指、标普500指数、纳斯达克指数上涨，石油价格下滑，华尔街对伊朗战争信号的反应仍在持续。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-oil-slides-as-wall-street-weighs-iran-war-signals-133916180.html",
@@ -217,7 +227,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
+          "time": "2026-03-11 01:35:17",
           "title": "伊朗罢工最为严重的一天，尽管市场预期战争即将结束",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/iran-says-oil-blockade-will-continue-until-attacks-end-trump-threatens-to-hit-harder-4551008",
@@ -226,7 +236,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
+          "time": "2026-03-11 01:35:17",
           "title": "欧洲股市反弹，石油价格下滑，特朗普称伊朗冲突结束将近期到来",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/european-stocks-jump-oil-slips-as-trump-end-to-iran-conflict-coming-very-soon-4551257",
@@ -407,7 +417,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
+          "time": "2026-03-11 01:35:17",
           "title": "投资公司Sagefield Capital持有CSG Systems价值2.08亿美元的股份。该股是否值得买入？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/hedge-fund-sagefield-capital-initiated-172303101.html",
@@ -416,7 +426,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
+          "time": "2026-03-11 01:35:17",
           "title": "美国电力公司(AEP)收到Evercore ISI和Argus的股价目标上调",
           "summary": "",
           "url": "https://finance.yahoo.com/news/american-electric-power-aep-gets-172224901.html",
@@ -425,7 +435,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
+          "time": "2026-03-11 01:35:17",
           "title": "Baird升级Union Pacific（UNP）并提高目标价，认为铁路交易有望带来利好。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/baird-upgrades-union-pacific-unp-172124200.html",
@@ -434,7 +444,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
+          "time": "2026-03-11 01:35:17",
           "title": "UBS 对布istol-Myers Squibb (BMY) 的价格目标进行了上调，随着米利克西安数据的到来",
           "summary": "",
           "url": "https://finance.yahoo.com/news/ubs-boosts-bristol-myers-squibb-171939712.html",
@@ -443,7 +453,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
+          "time": "2026-03-11 01:35:17",
           "title": "史克威克（SYK）扩大数字化医疗推动力，推出新智能医院平台。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/stryker-syk-expands-digital-healthcare-171419954.html",
@@ -452,52 +462,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
-          "title": "2026年3月10日维克斯高管推荐股票",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46380_InsiderActivity_1773142736000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily – Vickers Top Insider Picks for 03/10/2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
-          "title": "黑石（BLK）价格目标被Evercore ISI降低，原因是对2月份流动性进行了早期评估。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/blackrock-blk-price-target-reduced-171219695.html",
-          "title_en": "BlackRock (BLK) Price Target Reduced by Evercore ISI Following Early Review of February Flows"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
-          "title": "RBC Capital Markets提高了Broadcom（AVGO）的股价目标，指出FY27的评论是积极的。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/rbc-capital-markets-lifts-broadcom-171021318.html",
-          "title_en": "RBC Capital Markets Lifts Broadcom (AVGO) Price Target, Points to Bullish FY27 Commentary"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
-          "title": "CME Group (CME) 得到Erste Group的买入评级；Argus Research转为持有评级。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/cme-group-cme-gets-buy-170806246.html",
-          "title_en": "CME Group (CME) Gets Buy Rating From Erste Group; Argus Research Moves to Hold"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
-          "title": "股市今日：道指、纳指表现强劲；微星因合作伙伴新闻大幅上涨（实时直播）",
-          "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-oil-prices-tsmc/?src=A00220&yptr=yahoo",
-          "title_en": "Stock Market Today: Dow, Nasdaq Show Strength; Micron Jumps On Partnership News (Live Coverage)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
+          "time": "2026-03-11 01:35:17",
           "title": "2026年3月10日维克斯高买家和高卖家",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46381_TopBottomInsiderActivity_1773142736000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -506,7 +471,52 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
+          "time": "2026-03-11 01:35:17",
+          "title": "黑石（BLK）价格目标被Evercore ISI降低，原因是对2月份流动性进行了早期评估。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/blackrock-blk-price-target-reduced-171219695.html",
+          "title_en": "BlackRock (BLK) Price Target Reduced by Evercore ISI Following Early Review of February Flows"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 01:35:17",
+          "title": "RBC Capital Markets提高了Broadcom（AVGO）的股价目标，指出FY27的评论是积极的。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/rbc-capital-markets-lifts-broadcom-171021318.html",
+          "title_en": "RBC Capital Markets Lifts Broadcom (AVGO) Price Target, Points to Bullish FY27 Commentary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 01:35:17",
+          "title": "CME Group (CME) 得到Erste Group的买入评级；Argus Research转为持有评级。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/cme-group-cme-gets-buy-170806246.html",
+          "title_en": "CME Group (CME) Gets Buy Rating From Erste Group; Argus Research Moves to Hold"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 01:35:17",
+          "title": "股市今日：道指、纳指表现强劲；微星因合作伙伴新闻大幅上涨（实时直播）",
+          "summary": "",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-oil-prices-tsmc/?src=A00220&yptr=yahoo",
+          "title_en": "Stock Market Today: Dow, Nasdaq Show Strength; Micron Jumps On Partnership News (Live Coverage)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 01:35:17",
+          "title": "2026年3月10日维克斯高管推荐股票",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46380_InsiderActivity_1773142736000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily – Vickers Top Insider Picks for 03/10/2026"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 01:35:17",
           "title": "Hecla Mining 股票今日上涨",
           "summary": "",
           "url": "https://finance.yahoo.com/news/heres-why-shares-hecla-mining-172204506.html",
@@ -515,7 +525,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
+          "time": "2026-03-11 01:35:17",
           "title": "比特币在70,000美元以上徘徊，特朗普表示可能很快结束战争。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/bitcoin-hovers-above-70000-as-trump-signals-war-may-end-soon-170601158.html",
@@ -524,7 +534,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
+          "time": "2026-03-11 01:35:17",
           "title": "Intercontinental Exchange (ICE) 被德意志银行升级；该公司投资了价值250亿美元的OKX",
           "summary": "",
           "url": "https://finance.yahoo.com/news/intercontinental-exchange-ice-upgraded-deutsche-170444854.html",
@@ -533,7 +543,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
+          "time": "2026-03-11 01:35:17",
           "title": "利润直播：科尔斯(Kohl's)股价上涨，依维柯(Nio)股价大涨，随后甲骨文(Oracle)将公布财报。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/live/earnings-live-kohls-stock-rises-on-earnings-beat-nio-pops-with-oracle-earnings-on-deck-120028243.html",
@@ -542,7 +552,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
+          "time": "2026-03-11 01:35:17",
           "title": "赌场名称创下历史新高，股价暴涨53%",
           "summary": "",
           "url": "https://www.investors.com/research/casino-rush-street-interactive-rsi-stock/?src=A00220&yptr=yahoo",
@@ -551,7 +561,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
+          "time": "2026-03-11 01:35:17",
           "title": "分析报告：Avalonbay Communities Inc.",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_2749_AnalystReport_1773140936000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -560,7 +570,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 01:30:15",
+          "time": "2026-03-11 01:35:17",
           "title": "高收益的万得指数基金适合每个投资者的投资组合",
           "summary": "",
           "url": "https://finance.yahoo.com/news/high-yielding-vanguard-etf-belongs-172000569.html",
