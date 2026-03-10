@@ -1,6 +1,6 @@
 {
   "date": "2026.03.10",
-  "generatedAtBJT": "2026-03-10 11:56:45",
+  "generatedAtBJT": "2026-03-10 12:00:35",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-10 11:56:45",
+          "time": "2026-03-10 12:00:35",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注詹姆斯·克雷默称石油大跌是新牛市的绿灯。\n- 宏观/美联储：关注中国消费者通胀率达到三年新高，生产者价格下降。\n- 科技/半导体：关键蓝筹股适应轮动市场的策略…关键词：苹果，目前，新公司，增加代理人。\n- TSLA：关注Mobileye (MBLY)与Elektrobit合作开发自动驾驶汽车技术。",
+          "summary": "- 地缘/避险：伊朗称石油封锁将持续直到袭击结束，特朗普称将采取行动。\n\n- 宏观/Fed：中国消费者通胀率达三年高点，生产者通胀率持续下降。\n\n- 科技/半导体：苹果在印度生产iPhone的比例已达25%，随着中国供应链调整。\n\n- TSLA：亚马逊的自驾出租车公司Zoox扩大了在Phoenix和Dallas的测试范围。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Jim Cramer Says Oil Sell-Off Is Green Light For New Bull Market …\n- 宏观/Fed：关注 China consumer inflation hits three-year high as producer deflat…\n- 科技/半导体：3 Blue-Chip Stocks Built for a Rotating Market… 关键词: apple, now, startup, adds, agents\n- TSLA：关注 Mobileye (MBLY) Partners With Elektrobit in Autonomous Vehicle S…"
+          "summary_en": "- 地缘/避险：关注 Iran says oil blockade will continue until attacks end, Trump th…\n- 宏观/Fed：关注 China consumer inflation hits three-year high as producer deflat…\n- 科技/半导体：Apple now makes 25% of iPhones in India amid China shift, Bloomb… 关键词: apple, now, startup, adds, agents\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
         }
       ]
     },
@@ -27,18 +27,9 @@
       "badge": "Mag7 / Semis",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "三只蓝筹股适应轮动市场",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/3-blue-chip-stocks-built-163500286.html",
-          "title_en": "3 Blue-Chip Stocks Built for a Rotating Market"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
+          "time": "2026-03-10 12:00:26",
           "title": "苹果在印度生产的iPhone比例已达25%，而中国的生产也在减少，彭博社报道。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/apple-now-makes-25-of-iphones-in-india-amid-china-shift-bloomberg-reports-4551007",
@@ -47,31 +38,11 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
+          "time": "2026-03-10 12:00:26",
           "title": "德国出版商拒绝苹果的修订应用跟踪规则，呼吁反垄断罚款",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/german-publishers-reject-apples-revised-app-tracking-rules-urge-antitrust-fine-4550910",
           "title_en": "German publishers reject Apple’s revised app tracking rules, urge antitrust fine"
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-10 10:58:00",
-          "title": "甲骨文面临着高涨的业绩期望，投资者寻找人工智能的回报",
-          "summary": "甲骨文的股票因其人工智能投入是否能带来必要回报而受到压力。",
-          "url": "https://www.marketwatch.com/story/oracle-faces-a-high-bar-for-earnings-as-investors-look-for-an-ai-payoff-8ecd279e?mod=mw_rss_topstories",
-          "title_en": "Oracle faces a high bar for earnings as investors look for an AI payoff",
-          "summary_en": "Oracle’s stock has been pressured over concerns about whether its AI spending will yield the necessary returns."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-10 08:18:00",
-          "title": "惠普股价上涨，收益受益于两个大趋势的AI",
-          "summary": "该公司提高了网络收入的预期，并披露了企业AI服务器订单大幅增加。",
-          "url": "https://www.marketwatch.com/story/hpes-stock-rises-as-earnings-benefit-from-two-big-ai-trends-a3df2732?mod=mw_rss_topstories",
-          "title_en": "HPE’s stock rises as earnings benefit from two big AI trends",
-          "summary_en": "The company lifted its outlook for networking revenue and disclosed a big bump in orders for enterprise AI servers."
         },
         {
           "source": "CNBC-Top",
@@ -136,18 +107,9 @@
       "badge": "Risk / Oil / Gold",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "詹姆斯·克拉默称石油大跌是新牛市的绿灯，尽管埃克森美孚和科诺科菲尔斯的股价下滑。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-oil-sell-163052496.html",
-          "title_en": "Jim Cramer Says Oil Sell-Off Is Green Light For New Bull Market Even As Exxon Mobil, ConocoPhillips Shares Slide"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
+          "time": "2026-03-10 12:00:26",
           "title": "伊朗称石油封锁将持续直到袭击停止，特朗普威胁要加大力度打击。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/iran-says-oil-blockade-will-continue-until-attacks-end-trump-threatens-to-hit-harder-4551008",
@@ -156,7 +118,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
+          "time": "2026-03-10 12:00:26",
           "title": "亚洲股市反弹，油价回落，特朗普称伊朗战争可能即将结束",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-oil-retreats-trump-says-iran-war-could-end-soon-4550997",
@@ -165,7 +127,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
+          "time": "2026-03-10 12:00:26",
           "title": "美国股指期货下跌，受华尔街上涨的影响，华尔街上涨是因为人们认为伊朗战争可能很快结束。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-dip-after-wall-st-gains-on-hopes-iran-war-could-end-soon-4550935",
@@ -180,16 +142,6 @@
           "url": "https://www.cnbc.com/2026/03/10/crude-oil-prices-today-iran-war.html",
           "title_en": "Oil plunges 10% as Trump warns to hit Iran 'twenty times harder' if it blockades Strait of Hormuz",
           "summary_en": "Oil prices plunged after Trump warned that Tehran would be hit \"twenty times harder\" if it attempted to halt oil flows through the Strait of Hormuz."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-10 10:45:00",
-          "title": "特朗普宣布对伊朗实施制裁缓解措施，称伊朗战争将在“很快”结束。",
-          "summary": "美国总统唐纳德·特朗普表示，为了缓解原油价格，美国将豁免某些国家的石油相关制裁，他估计与伊朗的战争将很快结束。",
-          "url": "https://www.marketwatch.com/story/trump-announces-sanctions-relief-to-ease-oil-prices-says-iran-war-to-end-very-soon-ab0ee595?mod=mw_rss_topstories",
-          "title_en": "Trump announces sanctions relief to ease oil prices, says Iran war to end ‘very soon’",
-          "summary_en": "President Donald Trump said the U.S. is waiving oil-related sanctions on certain countries in an effort to ease crude prices, as he estimated the war with Iran would end “very soon.”"
         },
         {
           "source": "CNBC-Top",
@@ -212,16 +164,6 @@
           "summary_en": "U.S. stock market indexes rose earlier in the day after an initial report that President Donald Trump said he believed the Iran war was largely finished."
         },
         {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-10 05:45:00",
-          "title": "春季旅游旺季已经变得混乱不堪，正与伊朗冲突的影响相撞。",
-          "summary": "美国人原本以为春假能带来一段放松的时光，但可能会有一个不太愉快的惊喜。",
-          "url": "https://www.marketwatch.com/story/an-already-chaotic-spring-travel-season-is-colliding-with-effects-of-iran-conflict-5201b5b4?mod=mw_rss_topstories",
-          "title_en": "An already chaotic spring travel season is colliding with effects of Iran conflict",
-          "summary_en": "Americans who thought spring break would offer rest and relaxation after a tough winter may be in for a rude awakening."
-        },
-        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-10 05:40:36",
@@ -230,16 +172,6 @@
           "url": "https://www.cnbc.com/2026/03/09/iran-war-us-service-deaths-army-sgt-benjamin-pennington.html",
           "title_en": "Seventh U.S. service member killed in Iran war identified as Sgt. Benjamin Pennington",
           "summary_en": "Pennington, 26, from Glendale, Kentucky, was wounded on March 1 during an Iranian strike at Prince Sultan Air Base in Saudi Arabia. He died on Sunday."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-10 05:06:00",
-          "title": "美国国债收益率停止攀升，据报道特朗普表示伊朗战争可能很快结束",
-          "summary": "2年期国债收益率周一上涨，受通胀担忧和石油价格大幅上涨的影响。",
-          "url": "https://www.marketwatch.com/story/treasury-yields-climb-as-investors-fear-stagflation-75212d5d?mod=mw_rss_topstories",
-          "title_en": "Treasury yields halt climb after Trump reportedly signals Iran war may end soon",
-          "summary_en": "The yield on the 2-year Treasury note had been rising Monday on inflation fears after oil prices surged."
         },
         {
           "source": "CNBC-Top",
@@ -310,6 +242,46 @@
           "url": "https://www.cnbc.com/2026/03/09/european-markets-stoxx-600-ftse-cac-dax-iran-latest.html",
           "title_en": "European markets close lower as oil price surges amid Middle East turmoil",
           "summary_en": "European stocks started the new trading week sharply lower as traders tracked developments in the Middle East and a surge in oil prices."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-09 23:51:42",
+          "title": "预测市场面临伊朗战争赌注的质疑，包括政权更迭到核爆炸。",
+          "summary": "预测市场因与战争相关的赌注而面临反弹，Polymarket最近将一些核爆炸预测存档。",
+          "url": "https://www.cnbc.com/2026/03/09/prediction-markets-wagers-bets-iran-war-kalshi-polymarket.html",
+          "title_en": "Prediction markets face questions on Iran war bets, from regime change to nuclear detonation",
+          "summary_en": "Prediction markets are facing backlash over bets related to war, with Polymarket recently archiving some predictions on nuclear detonation."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-09 23:46:21",
+          "title": "分析师警告：石油价格可能进一步上涨",
+          "summary": "能源分析师警告称，中东战争可能导致石油价格继续上涨。",
+          "url": "https://www.cnbc.com/2026/03/09/oil-prices-iran-war-middle-east-us-israel-strait-of-hormuz.html",
+          "title_en": "‘Sky is the limit’: Analysts warn oil prices could surge further",
+          "summary_en": "Energy analysts warned that oil prices could continue to rise in response to the war in the Middle East."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-09 23:35:02",
+          "title": "美国伊朗战争是历史上最大的一次石油供应干扰",
+          "summary": "全球石油市场将需要通过石油价格大幅上涨来平衡需求，Rapidan Energy表示。",
+          "url": "https://www.cnbc.com/2026/03/09/the-us-iran-war-is-the-biggest-oil-supply-disruption-in-history.html",
+          "title_en": "The U.S.-Iran war is the biggest oil supply disruption in history",
+          "summary_en": "The global oil market will need to balance by destroying demand through sharply rising oil prices, according to Rapidan Energy."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-09 23:14:17",
+          "title": "国会民主党人要求俄罗斯石油销售到印度的逆转，随着能源价格飙升",
+          "summary": "俄罗斯据报正在帮助伊朗针对中东的美军，并可能从新油气销售中受益。",
+          "url": "https://www.cnbc.com/2026/03/09/bessent-russian-oil-sales-india.html",
+          "title_en": "Congressional Democrats demand reversal of Russian oil sales into India as energy prices soar",
+          "summary_en": "Russia is reportedly helping Iran target U.S. forces in the Middle East and could now benefit from a windfall of new oil and gas sales."
         }
       ]
     },
@@ -317,15 +289,6 @@
       "name": "特斯拉链",
       "badge": "TSLA chain",
       "items": [
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "Mobileye (MBLY) 与 Elektrobit 合作开发自动驾驶汽车解决方案。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/mobileye-mbly-partners-elektrobit-autonomous-162345351.html",
-          "title_en": "Mobileye (MBLY) Partners With Elektrobit in Autonomous Vehicle Solutions"
-        },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
@@ -343,166 +306,179 @@
       "badge": "Other",
       "items": [
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "康卡斯特联合CEO在摩根士丹利TMT会议上强调了Peacock体育的爆发式增长和宽带价格的简化",
+          "time": "2026-03-10 12:00:26",
+          "title": "航空公司开始因燃油价格上涨而提高票价，股价稳定",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/comcast-co-ceo-highlights-peacock-163210414.html",
-          "title_en": "Comcast Co-CEO Highlights Peacock Sports Surge, Simpler Broadband Pricing at Morgan Stanley TMT Conference"
+          "url": "https://www.investing.com/news/stock-market-news/airlines-begin-to-hike-fares-due-to-higher-fuel-prices-shares-stabilise-4550995",
+          "title_en": "Airlines begin to hike fares due to higher fuel prices, shares stabilise"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "吉姆·克拉默谈 Gap：\"看起来像一个真正的转型故事\"",
+          "time": "2026-03-10 12:00:26",
+          "title": "高盛向对冲基金推介策略，押注公司贷款将下跌",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-gap-looks-real-163434529.html",
-          "title_en": "Jim Cramer on The Gap: “It Looks Like a Real Turnaround Story”"
+          "url": "https://www.investing.com/news/stock-market-news/goldman-pitches-hedge-funds-on-strategies-to-bet-against-corporate-loans-ft-93CH-4550992",
+          "title_en": "Goldman pitches hedge funds on strategies to bet against corporate loans- FT"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "吉姆·克拉默（Jim Cramer）谈到Advanced Energy Industries：“等到它达到280到290的价格后再行动。”",
+          "time": "2026-03-10 12:00:26",
+          "title": "Anthropic高管表示，五角大楼的黑名单可能会损害公司的声誉，导致销售额损失数十亿美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-advanced-energy-industries-163426251.html",
-          "title_en": "Jim Cramer on Advanced Energy Industries: “I Want You to Wait Till It’s in the 280s, 290s, and Then Pull the Trigger”"
+          "url": "https://www.investing.com/news/stock-market-news/anthropic-executivessay-pentagon-blacklisting-could-hit-billions-in-sales-harm-reputation-4550981",
+          "title_en": "Anthropic executives say Pentagon blacklisting could hit billions in sales, harm reputation"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "吉姆·克拉默（Jim Cramer）关于Enovix的评论：“请远离它”。",
+          "time": "2026-03-10 12:00:26",
+          "title": "澳大利亚人寻求VPN，发现色情网站被屏蔽，随着网络年龄限制的实施",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-enovix-please-stay-163433596.html",
-          "title_en": "Jim Cramer on Enovix: “Please Stay Away From It”"
+          "url": "https://www.investing.com/news/stock-market-news/vpns-up-porn-websites-down-as-australia-brings-in-new-online-agerestrictions-4548676",
+          "title_en": "Australians reach for VPNs, find porn sites blocked as online age restrictions take effect"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "吉姆·克拉默谈赫库利斯资本：\"我希望你远离这些\"",
+          "time": "2026-03-10 12:00:26",
+          "title": "Telix药物因肿瘤治疗的阶段3试验结果为正而上涨",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-hercules-capital-want-163429989.html",
-          "title_en": "Jim Cramer on Hercules Capital: “I Want You to Stay Away From These”"
+          "url": "https://www.investing.com/news/stock-market-news/telix-pharma-jumps-on-positive-phase-3-prostate-cancer-trial-results-4550958",
+          "title_en": "Telix Pharma jumps on positive Phase 3 prostate cancer trial results"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "吉姆·克拉默称“IMAX是真实的”。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-imax-real-163431094.html",
-          "title_en": "Jim Cramer Says “IMAX Is Real”"
+          "time": "2026-03-10 11:57:35",
+          "title": "中国出口在前两个月大幅超出预期，贸易顺差创下历史新高",
+          "summary": "中国通常将一月和二月的贸易数据合并，以平滑因农历新年假期时间变化而产生的扭曲。",
+          "url": "https://www.cnbc.com/2026/03/10/china-trade-balance-surplus-record-exports-tariffs-imports.html",
+          "title_en": "China exports sharply beat expectations in the first two months as trade surplus surges to highest on record",
+          "summary_en": "China typically combines January and February trade data to smooth distortions from the shifting Lunar New Year holiday."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "吉姆·克拉默谈到真实零部件公司：我认为你必须等待一下。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-genuine-parts-company-163428877.html",
-          "title_en": "Jim Cramer on Genuine Parts Company: “I Think You Have to Wait on That One”"
+          "time": "2026-03-10 08:30:53",
+          "title": "埃隆·马斯克的xAI计划在密西西比州建造一座发电厂。监管者计划在选举日召开关键会议。",
+          "summary": "美国民权组织NAACP指责密西西比州监管机构匆忙批准xAI计划在南奥文的巨型甲烷燃烧发电厂。",
+          "url": "https://www.cnbc.com/2026/03/09/mississippi-regulators-to-hold-xai-permit-meeting-on-election-day.html",
+          "title_en": "Elon Musk's xAI wants to build a power plant in Mississippi. Regulators plan a key meeting on Election Day",
+          "summary_en": "The NAACP has accused Mississippi regulators of rushing a meeting to approve xAI plans for a massive, methane-burning power plant in Southaven."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "Upstart (UPST) 将从最新产品发布中受益",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/upstart-upst-benefit-latest-product-162425505.html",
-          "title_en": "Upstart (UPST) to Benefit From The Latest Product Launch"
+          "time": "2026-03-10 07:40:44",
+          "title": "美国两党高层会面讨论许可改革",
+          "summary": "加快联邦许可审批流程是能源和科技行业的首要任务。",
+          "url": "https://www.cnbc.com/2026/03/09/top-permitting-reform-senators-meeting-as-talks-thaw-api-chief.html",
+          "title_en": "Top permitting-reform Republican, Democratic senators meeting as talks thaw: API chief",
+          "summary_en": "Speeding up the federal permitting process is a top priority for the energy and tech industries."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "Monday.com (MNDY) 的魅力在哪里",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/makes-monday-com-mndy-attractive-162353850.html",
-          "title_en": "What Makes Monday.Com (MNDY) so Attractive"
+          "time": "2026-03-10 07:14:54",
+          "title": "百万美元收入者已经停止为2026年社会保障缴费",
+          "summary": "社会保障缴费上限在2026年为184,500美元。一些高收入人士已经停止为今年的计划支付。",
+          "url": "https://www.cnbc.com/2026/03/09/million-dollar-earners-social-security-2026.html",
+          "title_en": "Million-dollar earners have already stopped paying into Social Security for 2026",
+          "summary_en": "The Social Security payroll tax is capped at $184,500 in 2026. Some high earners have already stopped paying into the program for the year."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "7家顶级股息股票每年向股东支付1140亿美元",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/7-elite-dividend-stocks-pay-162600755.html",
-          "title_en": "These 7 Elite Dividend Stocks Pay $114 Billion Annually, Combined, to Their Shareholders"
+          "time": "2026-03-10 05:14:36",
+          "title": "美国联邦调查局(FBI)获得了2020年亚利桑那州马里科帕县选举结果审计的记录，共和党人表示",
+          "summary": "唐纳德·特朗普总统称赞了FBI获得的记录。他一直声称自己在2020年大选中被欺骗，错失胜利。",
+          "url": "https://www.cnbc.com/2026/03/09/trump-arizona-election-grand-jury-maricopa-fbi.html",
+          "title_en": "FBI obtains records of Arizona Senate audit of 2020 Maricopa County election results, Republican says",
+          "summary_en": "President Donald Trump touted the fact that the records had been obtained by the FBI. He long has claimed he was cheated out of victory in the 2020 election."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "吉姆·克拉默说：“我只看商店就能判断零售行业的赢家，塔佩斯里是一家赢家。”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-tell-winner-163424124.html",
-          "title_en": "Jim Cramer Says “I Can Tell a Winner in Retail Just By Witnessing the Stores, Tapestry’s a Winner”"
+          "time": "2026-03-10 04:52:49",
+          "title": "蓝色天空CEO杰伊格拉伯（Jay Graber）将暂时离职，前WordPress母公司首席执行官托尼施耐德（Toni Schneider）被任命为临时CEO。",
+          "summary": "蓝色天空（Bluesky）是由Jack Dorsey于2019年在Twitter上创建的，随后在Elon Musk收购Twitter后作为X的替代品而走红。",
+          "url": "https://www.cnbc.com/2026/03/09/bluesky-ceo-jay-graber-toni-schneider.html",
+          "title_en": "Bluesky CEO Jay Graber stepping back, former WordPress parent chief Toni Schneider named interim boss",
+          "summary_en": "Bluesky was born out of Twitter by Jack Dorsey in 2019 and rose to popularity as an alternative to X after Elon Musk's acquisition."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Tech",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "Oppenheimer再次维持Blue Owl（OWL）的超额收益评级。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/oppenheimer-reaffirms-outperform-rating-blue-162442588.html",
-          "title_en": "Oppenheimer Reaffirms Outperform Rating on Blue Owl (OWL)"
+          "time": "2026-03-10 04:52:19",
+          "title": "甲骨文正在用明天的债务建造昨天的数据中心。",
+          "summary": "OpenAI协议纠纷暴露了在芯片周期比水泥凝固还快的市场中，成为最具杠杆作用的玩家的根本危险。",
+          "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
+          "title_en": "Oracle is building yesterday’s data centers with tomorrow’s debt",
+          "summary_en": "The OpenAI deal fallout exposes the fundamental danger of being the most leveraged player in a market where the chip cycle moves faster than the concrete dries."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "Wix.com (WIX) Q4订单增长15%",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/wix-com-wix-registers-15-162410421.html",
-          "title_en": "Wix.com (WIX) Registers 15% Growth in Q4 Bookings"
+          "time": "2026-03-10 04:18:08",
+          "title": "周一股市的领跑者是熟悉的名字。市场正在发出什么信号？",
+          "summary": "每个工作日，投资俱乐部都会发布Homestretch；一个适时的下午更新，正好赶上交易最后一小时。",
+          "url": "https://www.cnbc.com/2026/03/09/familiar-winners-dot-mondays-stock-leaderboard-heres-what-the-market-is-signaling.html",
+          "title_en": "Familiar winners dot Monday's stock leaderboard. Here's what the market is signaling",
+          "summary_en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "KKR因何被华尔街分析师高度评级？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/why-kkr-co-kkr-highly-162452737.html",
-          "title_en": "Here is Why KKR & Co (KKR) is Highly Rated by Wall Street Analysts"
+          "time": "2026-03-10 03:05:37",
+          "title": "Live Nation母公司Ticketmaster与美国司法部就反垄断问题达成和解",
+          "summary": "Live Nation旗下公司Ticketmaster与美国司法部就反垄断问题达成和解。",
+          "url": "https://www.cnbc.com/2026/03/09/ticketmaster-parent-live-nation-doj-antitrust-settlement.html",
+          "title_en": "Ticketmaster parent Live Nation reaches settlement with Department of Justice over antitrust concerns",
+          "summary_en": "Live Nation, which owns Ticketmaster, reached a settlement with the Department of Justice over antitrust concerns."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "这款创新的道琼斯（Vanguard）指数基金开启了投资者的新途径",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/groundbreaking-vanguard-etf-opened-doors-162400015.html",
-          "title_en": "This Groundbreaking Vanguard ETF Opened New Doors for Investors"
+          "time": "2026-03-10 02:40:58",
+          "title": "Anthropic因 Pentagon 黑名单起诉特朗普政府",
+          "summary": "诉讼称Anthropic遭受了不可弥补的损害，可能损失数十亿美元。",
+          "url": "https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html",
+          "title_en": "Anthropic sues Trump administration over Pentagon blacklist",
+          "summary_en": "The lawsuit says Anthropic is being harmed \"irreparably\" and could lose hundreds of millions of dollars."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "Benchmark再次确认Shift4 Payments (FOUR)的买入评级。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/benchmark-reaffirms-buy-rating-shift4-162504297.html",
-          "title_en": "Benchmark Reaffirms Buy Rating on Shift4 Payments (FOUR)"
+          "time": "2026-03-10 01:56:58",
+          "title": "K型经济给女性带来了压力，低薪和高成本减少了她们的支出",
+          "summary": "女性面临着较低的工资和日常用品价格上涨带来的压力，导致K型经济进一步扩大，女性的消费支出减少。",
+          "url": "https://www.cnbc.com/2026/03/09/k-shaped-economy-women.html",
+          "title_en": "K-shaped economy puts pressure on women, as lower pay and higher costs reduce spending",
+          "summary_en": "Women are under pressure from lower pay and reduced affordability on everyday items, which is widening the K-shaped economy and seeing women spending less."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "吉姆·克拉默谈到ServiceTitan：“这是一个非常好的公司”。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-servicetitan-very-good-163423061.html",
-          "title_en": "Jim Cramer on ServiceTitan: “This Is a Very Good Company”"
+          "time": "2026-03-09 23:09:37",
+          "title": "Hims & Hers 股票大幅上涨，原因是Novo Nordisk放弃了针对Hims & Hers合成减重药的专利侵权案。",
+          "summary": "诺沃公司(Novo)放弃了对Hims & Hers的专利侵权诉讼，双方达成协议，Hims将销售诺沃的品牌药物。",
+          "url": "https://www.cnbc.com/2026/03/09/novo-nordisk-ends-legal-proceedings-hims-hers-compounded-weight-loss-drugs.html",
+          "title_en": "Hims & Hers shares surge after Novo Nordisk drops patent infringement case over compounded weight loss drugs",
+          "summary_en": "Novo dropped its patent-infringement case against telehealth provider Hims & Hers after the companies agreed that Hims would sell Novo's branded medicines."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Tech",
           "ticker": "RSS",
-          "time": "2026-03-10 11:56:40",
-          "title": "吉姆·克拉默（Jim Cramer）对Robinhood的评论：“问题是，你现在是否会买入？答案是有力地是的。”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-robinhood-buy-now-163420151.html",
-          "title_en": "Jim Cramer on Robinhood: “The Question Is, Would You Buy It Now? And the Answer Is a Resounding Yes”"
+          "time": "2026-03-09 22:12:21",
+          "title": "在线年龄验证工具在美国广泛应用以确保儿童安全，但成年人却被监视",
+          "summary": "新一代的身份验证法规和工具是为了在社交媒体和互联网上保护儿童安全，但隐私专家说成年人也在被瞄准。",
+          "url": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
+          "title_en": "Online age-verification tools spread across U.S. for child safety, but adults are being surveilled",
+          "summary_en": "New age-verification laws and tools are designed for child safety on social media and the internet, but adults are in the crosshairs, say privacy experts."
         }
       ]
     }
