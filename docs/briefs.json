@@ -1,6 +1,6 @@
 {
   "date": "2026.03.10",
-  "generatedAtBJT": "2026-03-10 08:55:40",
+  "generatedAtBJT": "2026-03-10 09:25:53",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-10 08:55:40",
+          "time": "2026-03-10 09:25:53",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：特朗普对美国通胀飙升毫无忧虑。\n- 宏观/Fed：中国消费者通胀率达三年新高，生产者价格下降。\n- 科技/半导体：德国出版商拒绝苹果的新版应用程序跟踪规则，呼吁欧盟采取行动。NVIDIA、startup、adds、agent、agents。\n- TSLA：亚马逊的Zoox扩大了机器人出租车测试范围至Phoenix和Dallas。",
+          "summary": "- 地缘/避险：关注石油至玉米价格波动，伊朗战争市场紧张度升高。\n- 宏观/Fed：关注中国消费者通胀率达三年高点，生产者价格下降。\n- 科技/半导体：Chime Financial CEO 表示公司实现 25% 的增长，推出新高级服务和 AI 代理等功能。\n- TSLA：关注亚马逊的 Zoox 在 Phoenix 和 Dallas 进行了无人驾驶出租车测试。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 ‘If they rise, they rise’: Trump has zero concern for spiking US…\n- 宏观/Fed：关注 China consumer inflation hits three-year high as producer deflat…\n- 科技/半导体：German publishers reject Apple’s revised app tracking rules, urg… 关键词: nvidia, startup, adds, agent, agents\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
+          "summary_en": "- 地缘/避险：关注 Option Frenzy From Oil to Corn Highlights Iran War Market Stress…\n- 宏观/Fed：关注 China consumer inflation hits three-year high as producer deflat…\n- 科技/半导体：Chime Financial CEO Touts 25% Growth, New Premium Tier and AI Pu… 关键词: nvidia, startup, tier, adds, agent\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
         }
       ]
     },
@@ -27,9 +27,18 @@
       "badge": "Mag7 / Semis",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 09:25:49",
+          "title": "奇梅财富CEO在摩根士丹利TMT会议上称赞25%的增长，新高级会员等级和人工智能推进",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/chime-financial-ceo-touts-25-135554513.html",
+          "title_en": "Chime Financial CEO Touts 25% Growth, New Premium Tier and AI Push at Morgan Stanley TMT Conference"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
+          "time": "2026-03-10 09:25:49",
           "title": "德国出版商拒绝苹果的修订应用跟踪规则，呼吁反垄断罚款",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/german-publishers-reject-apples-revised-app-tracking-rules-urge-antitrust-fine-4550910",
@@ -38,7 +47,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
+          "time": "2026-03-10 09:25:49",
           "title": "Nvidia计划推出开源AI代理平台",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/nvidia-planning-to-launch-open-source-ai-agent-platform-wired-4550889",
@@ -109,34 +118,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
-          "title": "特朗普称美国天然气价格上涨不在他关注之列——称伊朗行动“更为重要”",
+          "time": "2026-03-10 09:25:49",
+          "title": "石油至玉米的选项狂热凸显伊朗战争市场紧张",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/rise-rise-trump-zero-concern-131500240.html",
-          "title_en": "‘If they rise, they rise’: Trump has zero concern for spiking US gas prices — says Iran operation ‘far more important’"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
-          "title": "分析师称，在美伊伊朗战争期间，以下三家公司股价有望上涨",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/analysts-top-3-stocks-buy-130002675.html",
-          "title_en": "Analysts Say These Are the Top 3 Stocks to Buy Amid the U.S.-Israel War on Iran"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
-          "title": "如果石油价格已经达到峰值，短空出长期Chevron期权是否有意义？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/oil-peak-does-shorting-chevron-130002396.html",
-          "title_en": "If Oil Is at a Peak, Does Shorting Chevron Puts and Calls Make Sense?"
+          "url": "https://finance.yahoo.com/news/option-frenzy-oil-corn-highlights-140000647.html",
+          "title_en": "Option Frenzy From Oil to Corn Highlights Iran War Market Stress"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
+          "time": "2026-03-10 09:25:49",
           "title": "美国股指期货下跌，受华尔街上涨的影响，华尔街上涨是因为人们认为伊朗战争可能很快结束。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-dip-after-wall-st-gains-on-hopes-iran-war-could-end-soon-4550935",
@@ -145,7 +136,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
+          "time": "2026-03-10 09:25:49",
           "title": "华尔街收盘上涨，伊朗冲突解决希望抵消了通胀恐惧",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-slump-as-iran-war-drags-on-oil-near-120-stokes-inflation-worries-4548817",
@@ -154,7 +145,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
+          "time": "2026-03-10 09:25:49",
           "title": "股市反弹，石油价格回落，特朗普暗示伊朗战争结束",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/oil-soars-shares-slide-in-asia-as-middle-east-conflict-rages-4548645",
@@ -163,11 +154,11 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 08:46:22",
-          "title": "韩国股市指数（Kospi）领衔亚洲市场反弹，特朗普的评论推动油价下跌。",
+          "time": "2026-03-10 09:19:46",
+          "title": "亚洲市场反弹，石油价格大幅下跌，随着特朗普表示伊朗战争可能很快结束",
           "summary": "亚太市场从周一的暴跌中恢复，油价下跌和华尔街反弹带来希望。",
           "url": "https://www.cnbc.com/2026/03/10/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html",
-          "title_en": "South Korea's Kospi leads regional rebound as Trump comments drive oil lower",
+          "title_en": "Asia markets rebound as oil plunges after Trump signals Iran war might end soon",
           "summary_en": "Asia-Pacific markets rebounded from Monday's rout after oil prices fell and Wall Street bounced back."
         },
         {
@@ -279,6 +270,26 @@
           "url": "https://www.cnbc.com/2026/03/09/prediction-markets-wagers-bets-iran-war-kalshi-polymarket.html",
           "title_en": "Prediction markets face questions on Iran war bets, from regime change to nuclear detonation",
           "summary_en": "Prediction markets are facing backlash over bets related to war, with Polymarket recently archiving some predictions on nuclear detonation."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-09 23:46:21",
+          "title": "分析师警告：石油价格可能进一步上涨",
+          "summary": "能源分析师警告称，中东战争可能导致石油价格继续上涨。",
+          "url": "https://www.cnbc.com/2026/03/09/oil-prices-iran-war-middle-east-us-israel-strait-of-hormuz.html",
+          "title_en": "‘Sky is the limit’: Analysts warn oil prices could surge further",
+          "summary_en": "Energy analysts warned that oil prices could continue to rise in response to the war in the Middle East."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-09 23:35:02",
+          "title": "美国伊朗战争是历史上最大的一次石油供应干扰",
+          "summary": "全球石油市场将需要通过石油价格大幅上涨来平衡需求，Rapidan Energy表示。",
+          "url": "https://www.cnbc.com/2026/03/09/the-us-iran-war-is-the-biggest-oil-supply-disruption-in-history.html",
+          "title_en": "The U.S.-Iran war is the biggest oil supply disruption in history",
+          "summary_en": "The global oil market will need to balance by destroying demand through sharply rising oil prices, according to Rapidan Energy."
         }
       ]
     },
@@ -305,43 +316,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
-          "title": "荷兰兄弟计划在现有市场中将门店数量翻倍以上。  这个增长故事远不止于此。",
+          "time": "2026-03-10 09:25:49",
+          "title": "超越JEPI：2026年2款静悄悄超越摩根士丹利杰宝的下一代收入ETF",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/dutch-bros-plans-more-triple-132500285.html",
-          "title_en": "Dutch Bros Plans to More Than Triple Its Store Count in Existing Markets. The Growth Story Goes Much Further Than That."
+          "url": "https://finance.yahoo.com/news/beyond-jepi-2-next-gen-133120886.html",
+          "title_en": "Beyond JEPI: 2 Next-Gen Income ETFs That Are Quietly Outperforming JPMorgan’s Crown Jewel in 2026"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
-          "title": "不要告诉任何人你退休后有1000万美元（除了你的配偶）。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/don-t-tell-single-soul-130000554.html",
-          "title_en": "Don’t tell a single soul when you retire with $1 million (other than your spouse). Here’s why"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
-          "title": "在 63 岁后出售房屋可能是一个严重的 Medicare 错误。它可能会让你多交数千美元的保费。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/selling-home-63-punishing-medicare-140000397.html",
-          "title_en": "Selling your home after 63 can be a punishing Medicare mistake. Why it could cost you thousands in added premiums"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
-          "title": "2 个不可阻挡的股息股票现在就买入，价格不到1000美元",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/2-unstoppable-dividend-stocks-buy-132700965.html",
-          "title_en": "2 Unstoppable Dividend Stocks to Buy Right Now for Less Than $1,000"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
+          "time": "2026-03-10 09:25:49",
           "title": "当你看到一只蟑螂时，很可能还有更多：黑石被迫停止赎回，2万亿美元的私人贷款泡沫开始出现裂缝",
           "summary": "",
           "url": "https://finance.yahoo.com/news/see-one-cockroach-probably-more-140002105.html",
@@ -350,16 +334,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
-          "title": "迪亚吉奥（Diageo plc）公布2026财年第一季度财务报告",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/diageo-plc-deo-reports-fiscal-152209292.html",
-          "title_en": "Diageo plc (DEO) Reports Fiscal 2026 First-Half Results"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
+          "time": "2026-03-10 09:25:49",
           "title": "Constellation Brands, Inc. (STZ) 任命 Nicholas Fink 为新任 CEO",
           "summary": "",
           "url": "https://finance.yahoo.com/news/constellation-brands-inc-stz-names-152214216.html",
@@ -368,25 +343,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
-          "title": "华尔街对马威可能失去客户的担忧过于夸大",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/wall-street-worry-marvell-losing-131646271.html",
-          "title_en": "Wall Street’s Worry About Marvell Losing Customers Was Overblown"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
-          "title": "布朗-福曼公司（BF-B）和帕布斯特啤酒公司签署协议，合作在美国生产调味啤酒饮料。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/brown-forman-corporation-bf-b-152211843.html",
-          "title_en": "Brown-Forman Corporation (BF-B) and Pabst Brewing Company Sign a Deal to Produce Flavored Malt Beverages in the U.S."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
+          "time": "2026-03-10 09:25:49",
           "title": "巴克莱维持了Ambev S.A. (ABEV)的等权评级。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/barclays-retains-equal-weight-rating-152217026.html",
@@ -395,16 +352,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
-          "title": "安海斯威斯-英贝夫股份公司（BUD）第四季度利润和收入超出预期",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/anheuser-busch-inbev-sa-nv-152213041.html",
-          "title_en": "Anheuser-Busch InBev SA/NV (BUD) Exceeds Fourth-quarter Profit and Revenue Projections"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
+          "time": "2026-03-10 09:25:49",
           "title": "莫森科尔斯饮料公司（TAP）预计2026年利润将大幅下滑。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/molson-coors-beverage-company-tap-152216335.html",
@@ -413,16 +361,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
-          "title": "学生贷款值得吗？",
+          "time": "2026-03-10 09:25:49",
+          "title": "失业后将401(k)转移到个退休账户（IRA）是一个需要慎重考虑的决定。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/student-loans-worth-131600557.html",
-          "title_en": "Are Student Loans Worth It?"
+          "url": "https://finance.yahoo.com/news/rolling-401-k-ira-job-133100726.html",
+          "title_en": "Rolling Your 401(k) Into an IRA After Job Loss Is a Decision You Should Consider Carefully"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
+          "time": "2026-03-10 09:25:49",
+          "title": "安海斯威斯-英贝夫股份公司（BUD）第四季度利润和收入超出预期",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/anheuser-busch-inbev-sa-nv-152213041.html",
+          "title_en": "Anheuser-Busch InBev SA/NV (BUD) Exceeds Fourth-quarter Profit and Revenue Projections"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 09:25:49",
+          "title": "迪亚吉奥（Diageo plc）公布2026财年第一季度财务报告",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/diageo-plc-deo-reports-fiscal-152209292.html",
+          "title_en": "Diageo plc (DEO) Reports Fiscal 2026 First-Half Results"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 09:25:49",
+          "title": "布朗-福曼公司（BF-B）和帕布斯特啤酒公司签署协议，合作在美国生产调味啤酒饮料。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/brown-forman-corporation-bf-b-152211843.html",
+          "title_en": "Brown-Forman Corporation (BF-B) and Pabst Brewing Company Sign a Deal to Produce Flavored Malt Beverages in the U.S."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 09:25:49",
           "title": "MGP成分公司（MGPI）公布2025年第四季度和全年财务报告。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/mgp-ingredients-inc-mgpi-posts-152221538.html",
@@ -431,16 +406,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
-          "title": "波士顿啤酒公司（SAM）是买入的最佳啤酒股票之一吗？",
+          "time": "2026-03-10 09:25:49",
+          "title": "2 个不可阻挡的股息股票现在就买入，价格不到1000美元",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/boston-beer-company-inc-sam-152219973.html",
-          "title_en": "Is The Boston Beer Company, Inc. (SAM) Among the Best Alcohol Stocks to Buy?"
+          "url": "https://finance.yahoo.com/news/2-unstoppable-dividend-stocks-buy-132700965.html",
+          "title_en": "2 Unstoppable Dividend Stocks to Buy Right Now for Less Than $1,000"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
+          "time": "2026-03-10 09:25:49",
           "title": "威拉米特谷葡萄酒厂（WVVI）宣布调整分销和销售策略",
           "summary": "",
           "url": "https://finance.yahoo.com/news/willamette-valley-vineyards-inc-wvvi-152222232.html",
@@ -449,7 +424,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
+          "time": "2026-03-10 09:25:49",
+          "title": "波士顿啤酒公司（SAM）是买入的最佳啤酒股票之一吗？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/boston-beer-company-inc-sam-152219973.html",
+          "title_en": "Is The Boston Beer Company, Inc. (SAM) Among the Best Alcohol Stocks to Buy?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 09:25:49",
           "title": "创新饮料集团有限公司（IBG）宣布关于其拟与BlockFuel Energy进行合并事项的最新进展",
           "summary": "",
           "url": "https://finance.yahoo.com/news/innovation-beverage-group-limited-ibg-152224695.html",
@@ -458,11 +442,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 08:55:36",
-          "title": "失业后将401(k)转移到个退休账户（IRA）是一个需要慎重考虑的决定。",
+          "time": "2026-03-10 09:25:49",
+          "title": "Tilray Brands, Inc. (TLRY) 收购了 BrewDog。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/rolling-401-k-ira-job-133100726.html",
-          "title_en": "Rolling Your 401(k) Into an IRA After Job Loss Is a Decision You Should Consider Carefully"
+          "url": "https://finance.yahoo.com/news/tilray-brands-inc-tlry-acquires-152639624.html",
+          "title_en": "Tilray Brands, Inc. (TLRY) Acquires BrewDog"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 09:25:49",
+          "title": "医疗债务应对策略",
+          "summary": "",
+          "url": "https://finance.yahoo.com/video/medical-debt-134755756.html",
+          "title_en": "What to Do About Medical Debt"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 09:25:49",
+          "title": "BMO提高Alliant Energy Corporation (LNT)目标价至78美元，维持超买评级。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/bmo-raises-alliant-energy-corporation-153142523.html",
+          "title_en": "BMO Raises Alliant Energy Corporation (LNT) Target to $78, Maintains Outperform"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 09:25:49",
+          "title": "Keybanc 将 WEC 能源集团 (WEC) 股价目标提高 $9",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/keybanc-lifts-wec-energy-group-153441838.html",
+          "title_en": "Keybanc Lifts WEC Energy Group (WEC) Price Target by $9"
         }
       ]
     }
