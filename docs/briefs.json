@@ -1,6 +1,6 @@
 {
   "date": "2026.03.10",
-  "generatedAtBJT": "2026-03-10 12:00:35",
+  "generatedAtBJT": "2026-03-10 12:27:06",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-10 12:00:35",
+          "time": "2026-03-10 12:27:06",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：伊朗称石油封锁将持续直到袭击结束，特朗普称将采取行动。\n\n- 宏观/Fed：中国消费者通胀率达三年高点，生产者通胀率持续下降。\n\n- 科技/半导体：苹果在印度生产iPhone的比例已达25%，随着中国供应链调整。\n\n- TSLA：亚马逊的自驾出租车公司Zoox扩大了在Phoenix和Dallas的测试范围。",
+          "summary": "- 地缘/避险：关注伊朗战争、CPI等本周要关注的关键事件。\n- 宏观/美联储：关注中国消费者通胀率达到三年新高，生产者价格下降。\n- 科技/半导体：Bank of America重新调整了对亚马逊的股价预测。\n- TSLA：亚马逊的Zoox扩大了机器人出租车测试范围至凤凰城和达拉斯。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Iran says oil blockade will continue until attacks end, Trump th…\n- 宏观/Fed：关注 China consumer inflation hits three-year high as producer deflat…\n- 科技/半导体：Apple now makes 25% of iPhones in India amid China shift, Bloomb… 关键词: apple, now, startup, adds, agents\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
+          "summary_en": "- 地缘/避险：关注 Iran War, CPI and Other Key Thing to Watch this Week…\n- 宏观/Fed：关注 China consumer inflation hits three-year high as producer deflat…\n- 科技/半导体：Bank of America resets Amazon stock forecast… 关键词: now, startup, adds, agents, amazon\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
         }
       ]
     },
@@ -27,22 +27,42 @@
       "badge": "Mag7 / Semis",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 12:27:01",
+          "title": "美国银行重新评估亚马逊股票预测",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/bank-america-resets-amazon-stock-164700315.html",
+          "title_en": "Bank of America resets Amazon stock forecast"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 12:00:26",
+          "time": "2026-03-10 12:27:01",
           "title": "苹果在印度生产的iPhone比例已达25%，而中国的生产也在减少，彭博社报道。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/apple-now-makes-25-of-iphones-in-india-amid-china-shift-bloomberg-reports-4551007",
           "title_en": "Apple now makes 25% of iPhones in India amid China shift, Bloomberg reports"
         },
         {
-          "source": "Investing-Markets",
+          "source": "MarketWatch-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 12:00:26",
-          "title": "德国出版商拒绝苹果的修订应用跟踪规则，呼吁反垄断罚款",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/german-publishers-reject-apples-revised-app-tracking-rules-urge-antitrust-fine-4550910",
-          "title_en": "German publishers reject Apple’s revised app tracking rules, urge antitrust fine"
+          "time": "2026-03-10 10:58:00",
+          "title": "甲骨文面临着高涨的业绩期望，投资者寻找人工智能的回报",
+          "summary": "甲骨文的股票因其人工智能投入是否能带来必要回报而受到压力。",
+          "url": "https://www.marketwatch.com/story/oracle-faces-a-high-bar-for-earnings-as-investors-look-for-an-ai-payoff-8ecd279e?mod=mw_rss_topstories",
+          "title_en": "Oracle faces a high bar for earnings as investors look for an AI payoff",
+          "summary_en": "Oracle’s stock has been pressured over concerns about whether its AI spending will yield the necessary returns."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-10 08:18:00",
+          "title": "惠普股价上涨，收益受益于两个大趋势的AI",
+          "summary": "该公司提高了网络收入的预期，并披露了企业AI服务器订单大幅增加。",
+          "url": "https://www.marketwatch.com/story/hpes-stock-rises-as-earnings-benefit-from-two-big-ai-trends-a3df2732?mod=mw_rss_topstories",
+          "title_en": "HPE’s stock rises as earnings benefit from two big AI trends",
+          "summary_en": "The company lifted its outlook for networking revenue and disclosed a big bump in orders for enterprise AI servers."
         },
         {
           "source": "CNBC-Top",
@@ -107,9 +127,27 @@
       "badge": "Risk / Oil / Gold",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 12:27:01",
+          "title": "本周要关注的重点包括伊朗战争、CPI和其他重要事件。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/iran-war-cpi-other-key-170002144.html",
+          "title_en": "Iran War, CPI and Other Key Thing to Watch this Week"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 12:27:01",
+          "title": "全球市场面临着历史上最大规模的石油产量受阻的噩梦场景，顶级能源专家发出警告。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/nightmare-scenario-looms-global-markets-170513366.html",
+          "title_en": "‘Nightmare scenario’ looms as global markets head for the biggest oil output disruption in history, top energy guru warns"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 12:00:26",
+          "time": "2026-03-10 12:27:01",
           "title": "伊朗称石油封锁将持续直到袭击停止，特朗普威胁要加大力度打击。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/iran-says-oil-blockade-will-continue-until-attacks-end-trump-threatens-to-hit-harder-4551008",
@@ -118,7 +156,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 12:00:26",
+          "time": "2026-03-10 12:27:01",
           "title": "亚洲股市反弹，油价回落，特朗普称伊朗战争可能即将结束",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-oil-retreats-trump-says-iran-war-could-end-soon-4550997",
@@ -127,7 +165,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 12:00:26",
+          "time": "2026-03-10 12:27:01",
           "title": "美国股指期货下跌，受华尔街上涨的影响，华尔街上涨是因为人们认为伊朗战争可能很快结束。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-dip-after-wall-st-gains-on-hopes-iran-war-could-end-soon-4550935",
@@ -136,12 +174,22 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 11:09:05",
-          "title": "石油价格暴跌10%，特朗普警告称，如果伊朗封锁霍尔木兹海峡，美国将对伊朗进行“二十倍”的打击。",
+          "time": "2026-03-10 12:17:55",
+          "title": "石油价格继续下滑，投资者正在评估特朗普关于伊朗战争和霍尔木兹海峡的评论。",
           "summary": "石油价格暴跌，随着特朗普警告称，如果伊朗试图阻止霍尔木兹海峡石油流通，伊朗将遭受“二十倍的打击”。",
           "url": "https://www.cnbc.com/2026/03/10/crude-oil-prices-today-iran-war.html",
-          "title_en": "Oil plunges 10% as Trump warns to hit Iran 'twenty times harder' if it blockades Strait of Hormuz",
+          "title_en": "Oil extends slide as investors assess Trump comments on Iran war, Strait of Hormuz",
           "summary_en": "Oil prices plunged after Trump warned that Tehran would be hit \"twenty times harder\" if it attempted to halt oil flows through the Strait of Hormuz."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-10 10:45:00",
+          "title": "特朗普宣布对伊朗实施制裁缓解措施，称伊朗战争将在“很快”结束。",
+          "summary": "美国总统唐纳德·特朗普表示，为了缓解原油价格，美国将豁免某些国家的石油相关制裁，他估计与伊朗的战争将很快结束。",
+          "url": "https://www.marketwatch.com/story/trump-announces-sanctions-relief-to-ease-oil-prices-says-iran-war-to-end-very-soon-ab0ee595?mod=mw_rss_topstories",
+          "title_en": "Trump announces sanctions relief to ease oil prices, says Iran war to end ‘very soon’",
+          "summary_en": "President Donald Trump said the U.S. is waiving oil-related sanctions on certain countries in an effort to ease crude prices, as he estimated the war with Iran would end “very soon.”"
         },
         {
           "source": "CNBC-Top",
@@ -164,6 +212,16 @@
           "summary_en": "U.S. stock market indexes rose earlier in the day after an initial report that President Donald Trump said he believed the Iran war was largely finished."
         },
         {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-10 05:45:00",
+          "title": "春季旅游旺季已经变得混乱不堪，正与伊朗冲突的影响相撞。",
+          "summary": "美国人原本以为春假能带来一段放松的时光，但可能会有一个不太愉快的惊喜。",
+          "url": "https://www.marketwatch.com/story/an-already-chaotic-spring-travel-season-is-colliding-with-effects-of-iran-conflict-5201b5b4?mod=mw_rss_topstories",
+          "title_en": "An already chaotic spring travel season is colliding with effects of Iran conflict",
+          "summary_en": "Americans who thought spring break would offer rest and relaxation after a tough winter may be in for a rude awakening."
+        },
+        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-10 05:40:36",
@@ -172,6 +230,16 @@
           "url": "https://www.cnbc.com/2026/03/09/iran-war-us-service-deaths-army-sgt-benjamin-pennington.html",
           "title_en": "Seventh U.S. service member killed in Iran war identified as Sgt. Benjamin Pennington",
           "summary_en": "Pennington, 26, from Glendale, Kentucky, was wounded on March 1 during an Iranian strike at Prince Sultan Air Base in Saudi Arabia. He died on Sunday."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-10 05:06:00",
+          "title": "美国国债收益率停止攀升，据报道特朗普表示伊朗战争可能很快结束",
+          "summary": "2年期国债收益率周一上涨，受通胀担忧和石油价格大幅上涨的影响。",
+          "url": "https://www.marketwatch.com/story/treasury-yields-climb-as-investors-fear-stagflation-75212d5d?mod=mw_rss_topstories",
+          "title_en": "Treasury yields halt climb after Trump reportedly signals Iran war may end soon",
+          "summary_en": "The yield on the 2-year Treasury note had been rising Monday on inflation fears after oil prices surged."
         },
         {
           "source": "CNBC-Top",
@@ -232,56 +300,6 @@
           "url": "https://www.cnbc.com/2026/03/09/iran-war-oil-tankers-strait-of-hormuz.html",
           "title_en": "Oil tankers transiting Strait of Hormuz 'must be very careful,' Iran Foreign Ministry warns",
           "summary_en": "The price of crude oil has sharply spiked as the Strait of Hormuz has been effectively closed as the United States and Israel wage war on Iran."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-10 00:43:45",
-          "title": "欧洲市场收盘下跌，油价大幅上涨受中东局势影响",
-          "summary": "欧洲股市在新一周的交易开始时大幅下跌，投资者密切关注中东局势和油价大幅上涨。",
-          "url": "https://www.cnbc.com/2026/03/09/european-markets-stoxx-600-ftse-cac-dax-iran-latest.html",
-          "title_en": "European markets close lower as oil price surges amid Middle East turmoil",
-          "summary_en": "European stocks started the new trading week sharply lower as traders tracked developments in the Middle East and a surge in oil prices."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-09 23:51:42",
-          "title": "预测市场面临伊朗战争赌注的质疑，包括政权更迭到核爆炸。",
-          "summary": "预测市场因与战争相关的赌注而面临反弹，Polymarket最近将一些核爆炸预测存档。",
-          "url": "https://www.cnbc.com/2026/03/09/prediction-markets-wagers-bets-iran-war-kalshi-polymarket.html",
-          "title_en": "Prediction markets face questions on Iran war bets, from regime change to nuclear detonation",
-          "summary_en": "Prediction markets are facing backlash over bets related to war, with Polymarket recently archiving some predictions on nuclear detonation."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-09 23:46:21",
-          "title": "分析师警告：石油价格可能进一步上涨",
-          "summary": "能源分析师警告称，中东战争可能导致石油价格继续上涨。",
-          "url": "https://www.cnbc.com/2026/03/09/oil-prices-iran-war-middle-east-us-israel-strait-of-hormuz.html",
-          "title_en": "‘Sky is the limit’: Analysts warn oil prices could surge further",
-          "summary_en": "Energy analysts warned that oil prices could continue to rise in response to the war in the Middle East."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-09 23:35:02",
-          "title": "美国伊朗战争是历史上最大的一次石油供应干扰",
-          "summary": "全球石油市场将需要通过石油价格大幅上涨来平衡需求，Rapidan Energy表示。",
-          "url": "https://www.cnbc.com/2026/03/09/the-us-iran-war-is-the-biggest-oil-supply-disruption-in-history.html",
-          "title_en": "The U.S.-Iran war is the biggest oil supply disruption in history",
-          "summary_en": "The global oil market will need to balance by destroying demand through sharply rising oil prices, according to Rapidan Energy."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-09 23:14:17",
-          "title": "国会民主党人要求俄罗斯石油销售到印度的逆转，随着能源价格飙升",
-          "summary": "俄罗斯据报正在帮助伊朗针对中东的美军，并可能从新油气销售中受益。",
-          "url": "https://www.cnbc.com/2026/03/09/bessent-russian-oil-sales-india.html",
-          "title_en": "Congressional Democrats demand reversal of Russian oil sales into India as energy prices soar",
-          "summary_en": "Russia is reportedly helping Iran target U.S. forces in the Middle East and could now benefit from a windfall of new oil and gas sales."
         }
       ]
     },
@@ -306,179 +324,166 @@
       "badge": "Other",
       "items": [
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 12:00:26",
-          "title": "航空公司开始因燃油价格上涨而提高票价，股价稳定",
+          "time": "2026-03-10 12:27:01",
+          "title": "AtaiBeckley (ATAI) 公布了2025年财报，并宣布了BPL-003的2026年第二季度第三阶段试验启动。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/airlines-begin-to-hike-fares-due-to-higher-fuel-prices-shares-stabilise-4550995",
-          "title_en": "Airlines begin to hike fares due to higher fuel prices, shares stabilise"
+          "url": "https://finance.yahoo.com/news/ataibeckley-atai-reports-2025-results-165704351.html",
+          "title_en": "AtaiBeckley (ATAI) Reports 2025 Results and Q2 2026 Phase 3 Launch for BPL-003"
         },
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 12:00:26",
-          "title": "高盛向对冲基金推介策略，押注公司贷款将下跌",
+          "time": "2026-03-10 12:27:01",
+          "title": "Vtex (VTEX) 公布了 79.6% 的历史最高毛利率和 66.7 万美元的订阅收入",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/goldman-pitches-hedge-funds-on-strategies-to-bet-against-corporate-loans-ft-93CH-4550992",
-          "title_en": "Goldman pitches hedge funds on strategies to bet against corporate loans- FT"
+          "url": "https://finance.yahoo.com/news/vtex-vtex-reports-record-79-165818992.html",
+          "title_en": "Vtex (VTEX) Reports Record 79.6% Gross Margin and $66.7M Subscription Revenue"
         },
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 12:00:26",
-          "title": "Anthropic高管表示，五角大楼的黑名单可能会损害公司的声誉，导致销售额损失数十亿美元。",
+          "time": "2026-03-10 12:27:01",
+          "title": "Prime Medicine (PRME) 集中于肝脏业务，拥有 191.4 亿美元的现金流动空间。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/anthropic-executivessay-pentagon-blacklisting-could-hit-billions-in-sales-harm-reputation-4550981",
-          "title_en": "Anthropic executives say Pentagon blacklisting could hit billions in sales, harm reputation"
+          "url": "https://finance.yahoo.com/news/prime-medicine-prme-focuses-liver-165749000.html",
+          "title_en": "Prime Medicine (PRME) Focuses on Liver Franchise With $191.4M Cash Runway"
         },
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 12:00:26",
-          "title": "澳大利亚人寻求VPN，发现色情网站被屏蔽，随着网络年龄限制的实施",
+          "time": "2026-03-10 12:27:01",
+          "title": "Frontier Group Holdings (ULCC) 2025年第四季度EPS高于预期，达到0.23美元，收入达到9970万美元。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/vpns-up-porn-websites-down-as-australia-brings-in-new-online-agerestrictions-4548676",
-          "title_en": "Australians reach for VPNs, find porn sites blocked as online age restrictions take effect"
+          "url": "https://finance.yahoo.com/news/frontier-group-holdings-ulcc-beats-165726470.html",
+          "title_en": "Frontier Group Holdings (ULCC) Beats Q4 2025 EPS with $0.23 on $997M Revenue"
         },
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 12:00:26",
-          "title": "Telix药物因肿瘤治疗的阶段3试验结果为正而上涨",
+          "time": "2026-03-10 12:27:01",
+          "title": "ECARX (ECX)实现了历史最高的4季度收入305亿美元，并转为GAAP盈利",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/telix-pharma-jumps-on-positive-phase-3-prostate-cancer-trial-results-4550958",
-          "title_en": "Telix Pharma jumps on positive Phase 3 prostate cancer trial results"
+          "url": "https://finance.yahoo.com/news/ecarx-ecx-hits-record-305m-165806975.html",
+          "title_en": "ECARX (ECX) Hits Record $305M Q4 Revenue and Swings to GAAP Profit"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 11:57:35",
-          "title": "中国出口在前两个月大幅超出预期，贸易顺差创下历史新高",
-          "summary": "中国通常将一月和二月的贸易数据合并，以平滑因农历新年假期时间变化而产生的扭曲。",
-          "url": "https://www.cnbc.com/2026/03/10/china-trade-balance-surplus-record-exports-tariffs-imports.html",
-          "title_en": "China exports sharply beat expectations in the first two months as trade surplus surges to highest on record",
-          "summary_en": "China typically combines January and February trade data to smooth distortions from the shifting Lunar New Year holiday."
+          "time": "2026-03-10 12:27:01",
+          "title": "风险化（RSKD）首次实现GAAP盈利，第四季度营收创下99.3万美元的历史新高。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/riskified-rskd-achieves-first-gaap-165759657.html",
+          "title_en": "Riskified (RSKD) Achieves First GAAP Profit in Q4 With Record $99.3M Revenue"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 08:30:53",
-          "title": "埃隆·马斯克的xAI计划在密西西比州建造一座发电厂。监管者计划在选举日召开关键会议。",
-          "summary": "美国民权组织NAACP指责密西西比州监管机构匆忙批准xAI计划在南奥文的巨型甲烷燃烧发电厂。",
-          "url": "https://www.cnbc.com/2026/03/09/mississippi-regulators-to-hold-xai-permit-meeting-on-election-day.html",
-          "title_en": "Elon Musk's xAI wants to build a power plant in Mississippi. Regulators plan a key meeting on Election Day",
-          "summary_en": "The NAACP has accused Mississippi regulators of rushing a meeting to approve xAI plans for a massive, methane-burning power plant in Southaven."
+          "time": "2026-03-10 12:27:01",
+          "title": "Cricut (CRCT)实现了2025年第四季度每股收益为0.04美元，年度总收入708.8亿美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/cricut-crct-meets-q4-2025-165720372.html",
+          "title_en": "Cricut (CRCT) Meets Q4 2025 EPS at $0.04 with $708.8M Full-Year Revenue"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 07:40:44",
-          "title": "美国两党高层会面讨论许可改革",
-          "summary": "加快联邦许可审批流程是能源和科技行业的首要任务。",
-          "url": "https://www.cnbc.com/2026/03/09/top-permitting-reform-senators-meeting-as-talks-thaw-api-chief.html",
-          "title_en": "Top permitting-reform Republican, Democratic senators meeting as talks thaw: API chief",
-          "summary_en": "Speeding up the federal permitting process is a top priority for the energy and tech industries."
+          "time": "2026-03-10 12:27:01",
+          "title": "Olaplex (OLPX) Q4 2025收入增长4%至10.51亿美元，EPS预期未达成",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/olaplex-olpx-q4-2025-revenue-165713330.html",
+          "title_en": "Olaplex (OLPX) Q4 2025 Revenue Grows 4% to $105.1M Despite EPS Miss"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 07:14:54",
-          "title": "百万美元收入者已经停止为2026年社会保障缴费",
-          "summary": "社会保障缴费上限在2026年为184,500美元。一些高收入人士已经停止为今年的计划支付。",
-          "url": "https://www.cnbc.com/2026/03/09/million-dollar-earners-social-security-2026.html",
-          "title_en": "Million-dollar earners have already stopped paying into Social Security for 2026",
-          "summary_en": "The Social Security payroll tax is capped at $184,500 in 2026. Some high earners have already stopped paying into the program for the year."
+          "time": "2026-03-10 12:27:01",
+          "title": "Rumble (RUM) 在 2025 年第四季度的财报中，达到了 52 万月活跃用户和每日 100 万短视频观看量。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/rumble-rum-hits-52m-maus-165908426.html",
+          "title_en": "Rumble (RUM) Hits 52M MAUs and 1M Daily Shorts Views in Q4 2025 Results"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 05:14:36",
-          "title": "美国联邦调查局(FBI)获得了2020年亚利桑那州马里科帕县选举结果审计的记录，共和党人表示",
-          "summary": "唐纳德·特朗普总统称赞了FBI获得的记录。他一直声称自己在2020年大选中被欺骗，错失胜利。",
-          "url": "https://www.cnbc.com/2026/03/09/trump-arizona-election-grand-jury-maricopa-fbi.html",
-          "title_en": "FBI obtains records of Arizona Senate audit of 2020 Maricopa County election results, Republican says",
-          "summary_en": "President Donald Trump touted the fact that the records had been obtained by the FBI. He long has claimed he was cheated out of victory in the 2020 election."
+          "time": "2026-03-10 12:27:01",
+          "title": "CME集团宣布交易量创历史新高，全球不确定性加剧，零售业务在会议上增长",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/cme-group-touts-record-futures-170311326.html",
+          "title_en": "CME Group Touts Record Futures Volume as Global Uncertainty Fuels Trading, Retail Growth at Conference"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 04:52:49",
-          "title": "蓝色天空CEO杰伊格拉伯（Jay Graber）将暂时离职，前WordPress母公司首席执行官托尼施耐德（Toni Schneider）被任命为临时CEO。",
-          "summary": "蓝色天空（Bluesky）是由Jack Dorsey于2019年在Twitter上创建的，随后在Elon Musk收购Twitter后作为X的替代品而走红。",
-          "url": "https://www.cnbc.com/2026/03/09/bluesky-ceo-jay-graber-toni-schneider.html",
-          "title_en": "Bluesky CEO Jay Graber stepping back, former WordPress parent chief Toni Schneider named interim boss",
-          "summary_en": "Bluesky was born out of Twitter by Jack Dorsey in 2019 and rose to popularity as an alternative to X after Elon Musk's acquisition."
+          "time": "2026-03-10 12:27:01",
+          "title": "Citi维持对普罗克特与甘布尔公司（PG）的买入评级，目标价181美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/citi-maintainins-buy-procter-gamble-165027953.html",
+          "title_en": "Citi Maintainins Buy on The Procter & Gamble Company (PG), With $181 Target"
         },
         {
-          "source": "CNBC-Tech",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 04:52:19",
-          "title": "甲骨文正在用明天的债务建造昨天的数据中心。",
-          "summary": "OpenAI协议纠纷暴露了在芯片周期比水泥凝固还快的市场中，成为最具杠杆作用的玩家的根本危险。",
-          "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
-          "title_en": "Oracle is building yesterday’s data centers with tomorrow’s debt",
-          "summary_en": "The OpenAI deal fallout exposes the fundamental danger of being the most leveraged player in a market where the chip cycle moves faster than the concrete dries."
+          "time": "2026-03-10 12:27:01",
+          "title": "可口可乐公司（KO）连续64年提高年度股利并任命新高级副总裁",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/coca-cola-company-ko-raises-165029807.html",
+          "title_en": "The Coca-Cola Company (KO) Raises Annual Dividend for 64th Consecutive Year and Appoints New VP"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 04:18:08",
-          "title": "周一股市的领跑者是熟悉的名字。市场正在发出什么信号？",
-          "summary": "每个工作日，投资俱乐部都会发布Homestretch；一个适时的下午更新，正好赶上交易最后一小时。",
-          "url": "https://www.cnbc.com/2026/03/09/familiar-winners-dot-mondays-stock-leaderboard-heres-what-the-market-is-signaling.html",
-          "title_en": "Familiar winners dot Monday's stock leaderboard. Here's what the market is signaling",
-          "summary_en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading."
+          "time": "2026-03-10 12:27:01",
+          "title": "约翰逊和约翰逊（JNJ）公布了阶段1b癌症试验的积极数据",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/johnson-johnson-jnj-reports-positive-165025643.html",
+          "title_en": "Johnson and Johnson (JNJ) Reports Positive Phase 1b Cancer Data"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 03:05:37",
-          "title": "Live Nation母公司Ticketmaster与美国司法部就反垄断问题达成和解",
-          "summary": "Live Nation旗下公司Ticketmaster与美国司法部就反垄断问题达成和解。",
-          "url": "https://www.cnbc.com/2026/03/09/ticketmaster-parent-live-nation-doj-antitrust-settlement.html",
-          "title_en": "Ticketmaster parent Live Nation reaches settlement with Department of Justice over antitrust concerns",
-          "summary_en": "Live Nation, which owns Ticketmaster, reached a settlement with the Department of Justice over antitrust concerns."
+          "time": "2026-03-10 12:27:01",
+          "title": "阿根公司（AMGN）完成ABP 206奥匹莫维尔生物类似药物候选品的阶段3试验",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/amgen-inc-amgn-completes-phase-165030702.html",
+          "title_en": "Amgen Inc. (AMGN) Completes Phase 3 Trial for ABP 206 Opdivo Biosimilar Candidate"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 02:40:58",
-          "title": "Anthropic因 Pentagon 黑名单起诉特朗普政府",
-          "summary": "诉讼称Anthropic遭受了不可弥补的损害，可能损失数十亿美元。",
-          "url": "https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html",
-          "title_en": "Anthropic sues Trump administration over Pentagon blacklist",
-          "summary_en": "The lawsuit says Anthropic is being harmed \"irreparably\" and could lose hundreds of millions of dollars."
+          "time": "2026-03-10 12:27:01",
+          "title": "2026年你的退税可能会减少的3个原因（以及如何应对）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/3-reasons-tax-refund-could-165508224.html",
+          "title_en": "3 Reasons Your Tax Refund Could Be Smaller in 2026 (and What To Do About It)"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 01:56:58",
-          "title": "K型经济给女性带来了压力，低薪和高成本减少了她们的支出",
-          "summary": "女性面临着较低的工资和日常用品价格上涨带来的压力，导致K型经济进一步扩大，女性的消费支出减少。",
-          "url": "https://www.cnbc.com/2026/03/09/k-shaped-economy-women.html",
-          "title_en": "K-shaped economy puts pressure on women, as lower pay and higher costs reduce spending",
-          "summary_en": "Women are under pressure from lower pay and reduced affordability on everyday items, which is widening the K-shaped economy and seeing women spending less."
+          "time": "2026-03-10 12:27:01",
+          "title": "沃尔顿家族信托出售沃尔玛(WMT)股票价值2200万美元",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/walton-family-trust-sells-walmart-165024302.html",
+          "title_en": "Walton Family Trust Sells Walmart Inc. (WMT) Shares Valued at $220 Million"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 23:09:37",
-          "title": "Hims & Hers 股票大幅上涨，原因是Novo Nordisk放弃了针对Hims & Hers合成减重药的专利侵权案。",
-          "summary": "诺沃公司(Novo)放弃了对Hims & Hers的专利侵权诉讼，双方达成协议，Hims将销售诺沃的品牌药物。",
-          "url": "https://www.cnbc.com/2026/03/09/novo-nordisk-ends-legal-proceedings-hims-hers-compounded-weight-loss-drugs.html",
-          "title_en": "Hims & Hers shares surge after Novo Nordisk drops patent infringement case over compounded weight loss drugs",
-          "summary_en": "Novo dropped its patent-infringement case against telehealth provider Hims & Hers after the companies agreed that Hims would sell Novo's branded medicines."
+          "time": "2026-03-10 12:27:01",
+          "title": "Citi维持Costco Wholesale Corporation（COST）中性评级，目标价为1000美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/citi-maintains-neutral-rating-costco-165022588.html",
+          "title_en": "Citi Maintains Neutral Rating on Costco Wholesale Corporation (COST) with $1000 Target"
         },
         {
-          "source": "CNBC-Tech",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-09 22:12:21",
-          "title": "在线年龄验证工具在美国广泛应用以确保儿童安全，但成年人却被监视",
-          "summary": "新一代的身份验证法规和工具是为了在社交媒体和互联网上保护儿童安全，但隐私专家说成年人也在被瞄准。",
-          "url": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
-          "title_en": "Online age-verification tools spread across U.S. for child safety, but adults are being surveilled",
-          "summary_en": "New age-verification laws and tools are designed for child safety on social media and the internet, but adults are in the crosshairs, say privacy experts."
+          "time": "2026-03-10 12:27:01",
+          "title": "吉姆·克拉默谈到坎贝尔公司： “管理者不喜欢购买即将下滑的公司股票”",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jim-cramer-campbell-company-money-163510625.html",
+          "title_en": "Jim Cramer on Campbell’s Company: “Money Managers Don’t Like to Buy the Stocks of Companies That Are Going to Have Down Years”"
         }
       ]
     }
