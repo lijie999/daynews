@@ -1,6 +1,6 @@
 {
   "date": "2026.03.11",
-  "generatedAtBJT": "2026-03-11 02:35:54",
+  "generatedAtBJT": "2026-03-11 03:06:04",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-11 02:35:54",
+          "time": "2026-03-11 03:06:04",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注日经指数和韩国股市暴跌，油价大涨因美伊战争恐惧；比特币...\n\n- 宏观/Fed：关注今日最佳定期存款利率，2026年3月9日（最高可达4%年利率）\n\n- 科技/半导体：首次在13个季度，亿万富翁查斯·科尔曼的纽瓦克资本持有NVIDIA（NVDA）...\n\n- TSLA：关注亚马逊的Zoox扩大了机器人出租车测试到凤凰城和达拉斯...",
+          "summary": "- 地缘/避险：欧洲到亚洲，债券市场暴跌，油价突破11美元…\n\n- 宏观/Fed：关注 2026年3月9日最佳理财账户利率（最高可达...）\n\n- 科技/半导体：Meta将向广告商收取费用，以弥补欧洲的数字税...\n\n- TSLA：关注亚马逊的Zoox扩大了机器人出租车测试到Phoenix和Dallas...",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Nikkei, Kospi Plunge as Oil Surges on U.S.-Iran War Fears; Bitco…\n- 宏观/Fed：关注 Best CD rates today, March 9, 2026 (Lock in up to 4% APY)…\n- 科技/半导体：For the First Time in 13 Quarters, Billionaire Chase Coleman's N… 关键词: meta, microsoft, nvidia, agent, agents\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
+          "summary_en": "- 地缘/避险：关注 From Europe to Asia, bond markets plunge as oil vaults above $11…\n- 宏观/Fed：关注 Best money market account rates today, March 9, 2026 (Earn up to…\n- 科技/半导体：Meta to charge advertisers a fee to offset Europe’s digital taxe… 关键词: amazon, billion, google, meta, nvidia\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
         }
       ]
     },
@@ -27,22 +27,43 @@
       "badge": "Mag7 / Semis",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "亿万富翁查斯·科尔曼首次在13个季度中将首要持股从Meta Platforms或微软转移到了一个“极为壮丽”的股票上。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/first-time-13-quarters-billionaire-092600458.html",
-          "title_en": "For the First Time in 13 Quarters, Billionaire Chase Coleman's No. 1 Holding Isn't Meta Platforms or Microsoft -- but It Is a \"Magnificent\" Stock"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
+          "time": "2026-03-11 03:06:00",
           "title": "Meta将向广告商收取费用，以弥补欧洲的数字税",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/meta-to-charge-advertisers-a-fee-to-offset-europes-digital-taxes-4552823",
           "title_en": "Meta to charge advertisers a fee to offset Europe’s digital taxes"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-11 03:04:27",
+          "title": "Nvidia对Mira Murati的Thinking Machines实验室进行了\"重大投资\"。",
+          "summary": "作为合作的一部分，Thinking Machines Lab还同意部署至少一千兆瓦的Nvidia Vera Rubin系统。",
+          "url": "https://www.cnbc.com/2026/03/10/nvidia-mira-murati-thinking-machines-lab-ai.html",
+          "title_en": "Nvidia makes 'significant investment' in Mira Murati's Thinking Machines Lab",
+          "summary_en": "As part of the partnership, Thinking Machines Lab has also agreed to deploy at least one gigawatt of Nvidia's Vera Rubin systems."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-11 03:01:00",
+          "title": "亚马逊加入了Meta、谷歌等巨型公司，发行高达420亿美元的巨额债券。",
+          "summary": "亚马逊正准备进行历史上规模最大的公司债券发行，以资助其人工智能扩张计划。",
+          "url": "https://www.marketwatch.com/story/amazon-joins-meta-google-in-jumbo-bond-club-with-up-to-42-billion-issuance-8a640bf1?mod=mw_rss_topstories",
+          "title_en": "Amazon joins Meta, Google in jumbo bond club with up to $42 billion issuance",
+          "summary_en": "Amazon is preparing one of the largest corporate bond offerings in history to fund its AI buildout"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-11 02:45:38",
+          "title": "我们对微软的评级进行了调整——并解读波音最新的延迟",
+          "summary": "每个工作日，投资俱乐部都会发布Homestretch；一个适时的下午更新，正好赶上交易最后一小时。",
+          "url": "https://www.cnbc.com/2026/03/10/were-changing-our-rating-on-microsoft-and-making-sense-of-boeings-latest-delay.html",
+          "title_en": "We're changing our rating on Microsoft — and making sense of Boeing's latest delay",
+          "summary_en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading."
         },
         {
           "source": "CNBC-Top",
@@ -77,42 +98,12 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-11 01:49:26",
-          "title": "我们对微软的评级进行了调整——并解读波音最新的延迟",
-          "summary": "每个工作日，投资俱乐部都会发布Homestretch；一个适时的下午更新，正好赶上交易最后一小时。",
-          "url": "https://www.cnbc.com/2026/03/10/were-changing-our-rating-on-microsoft-and-making-sense-of-boeings-latest-delay.html",
-          "title_en": "We're changing our rating on Microsoft — and making sense of Boeing's latest delay",
-          "summary_en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
           "time": "2026-03-11 01:08:06",
           "title": "谷歌加深了与美国国防部的AI合作关系，随后Anthropic对特朗普政府提起诉讼。",
           "summary": "谷歌正在推出一个功能，允许民间和军方人员在国防部企业AI门户上为未分类工作创建定制AI代理。",
           "url": "https://www.cnbc.com/2026/03/10/google-deepens-pentagon-ai-push-after-anthropic-sues-trump-admin.html",
           "title_en": "Google deepens Pentagon AI push after Anthropic sues Trump administration",
           "summary_en": "Google is rolling out a feature that lets civilian and military personnel build custom AI agents for unclassified work on the Pentagon's enterprise AI portal."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-11 00:52:00",
-          "title": "元宇宙公司Meta正计划收购Molt,一款以人工智能为核心的社交网络。",
-          "summary": "Meta的最新收购是一款平台，AI代理在上面发布帖子、评论和互动。",
-          "url": "https://www.marketwatch.com/story/why-meta-is-buying-moltbook-a-viral-ai-social-network-6fd7dddb?mod=mw_rss_topstories",
-          "title_en": "Why Meta is buying Moltbook, a viral AI social network",
-          "summary_en": "Meta’s latest acquisition is a platform where AI agents post, comment and interact on their own."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-10 23:36:04",
-          "title": "Nvidia对Mira Murati的Thinking Machines实验室进行了\"重大投资\"。",
-          "summary": "作为合作的一部分，Thinking Machines Lab还同意部署至少一千兆瓦的Nvidia Vera Rubin系统。",
-          "url": "https://www.cnbc.com/2026/03/10/nvidia-mira-murati-thinking-machines-lab-ai.html",
-          "title_en": "Nvidia makes 'significant investment' in Mira Murati's Thinking Machines Lab",
-          "summary_en": "As part of the partnership, Thinking Machines Lab has also agreed to deploy at least one gigawatt of Nvidia's Vera Rubin systems."
         },
         {
           "source": "CNBC-World",
@@ -125,7 +116,7 @@
           "summary_en": "The announcement comes on the back of a bumper start to the week for European AI companies."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-10 21:36:12",
           "title": "凯文·曼迪亚在2022年将其网络安全公司卖给了谷歌。他有着一笔新鲜的190亿美元用于新项目",
@@ -203,25 +194,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "今日最佳定期存款利率（2026年3月9日），最高可锁定4%年利率",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-march-9-2026-100002996.html",
-          "title_en": "Best CD rates today, March 9, 2026 (Lock in up to 4% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "截至2026年3月9日，今日高收益储蓄利率（最高可达4%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-monday-march-9-2026-100036902.html",
-          "title_en": "Best high-yield savings interest rates today, March 9, 2026 (Earn up to 4% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
+          "time": "2026-03-11 03:06:00",
           "title": "截至2026年3月9日，最佳现金市场账户利率（最高可达4.01% APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-march-9-2026-100045909.html",
@@ -230,11 +203,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
+          "time": "2026-03-11 03:06:00",
           "title": "今天，HELOC和家庭抵押贷款利率：你有一个低利率？现在考虑一下。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-march-9-2026-100048612.html",
           "title_en": "HELOC and home equity loan rates Monday, March 9, 2026: Got a low rate? Now consider this."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 03:06:00",
+          "title": "今日最佳定期存款利率（2026年3月9日），最高可锁定4%年利率",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-march-9-2026-100002996.html",
+          "title_en": "Best CD rates today, March 9, 2026 (Lock in up to 4% APY)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 03:06:00",
+          "title": "截至2026年3月9日，今日高收益储蓄利率（最高可达4%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-monday-march-9-2026-100036902.html",
+          "title_en": "Best high-yield savings interest rates today, March 9, 2026 (Earn up to 4% APY)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 03:06:00",
+          "title": "欧罗巴海运有限公司（ESEA）利用集装箱船租赁费率上涨",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/euroseas-ltd-esea-capitalizing-higher-110953688.html",
+          "title_en": "Euroseas Ltd. (ESEA) Capitalizing on Higher Containership Charter Rates"
         }
       ]
     },
@@ -245,16 +245,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "日经指数、韩国股市指数暴跌，原油价格大幅上涨，美伊战争恐惧情绪蔓延；比特币价格保持稳定。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/nikkei-kospi-plunge-oil-surges-091932141.html",
-          "title_en": "Nikkei, Kospi Plunge as Oil Surges on U.S.-Iran War Fears; Bitcoin Holds Steady"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
+          "time": "2026-03-11 03:06:00",
           "title": "欧洲到亚洲，债券市场暴跌，油价突破115美元",
           "summary": "",
           "url": "https://finance.yahoo.com/news/europe-asia-bond-markets-plunge-094956552.html",
@@ -263,76 +254,77 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "比特币跌至7天低点，石油价格大涨引发宏观风险回避转变",
+          "time": "2026-03-11 03:06:00",
+          "title": "股市预计将开盘低迷，中东冲突油价飙升至100美元",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/bitcoin-drops-7-day-low-092605443.html",
-          "title_en": "Bitcoin Drops to 7-Day Low as Oil Surge Sparks Macro Risk-Off Move"
+          "url": "https://finance.yahoo.com/news/stocks-set-open-lower-oil-103533966.html",
+          "title_en": "Stocks Set to Open Lower as Oil Prices Surge Above $100 on Middle East Conflict"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "Solaris Energy Infrastructure, Inc. (SEI) 是否是具有最高上涨潜力的最佳石油股之一？",
+          "time": "2026-03-11 03:06:00",
+          "title": "市场大幅下挫，油价突破100美元高点，伊朗战争升级",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/solaris-energy-infrastructure-inc-sei-080235603.html",
-          "title_en": "Is Solaris Energy Infrastructure, Inc. (SEI) One of the Best Oil Stocks With Highest Upside Potential?"
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-030926/card/markets-tumble-oil-prices-surge-past-100-as-iran-war-escalates-lyfpF6Kj5IyIOToDb2H7?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Markets Tumble, Oil Prices Surge Past $100 as Iran War Escalates"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "伊朗冲突迫使中央银行进行政策急转弯",
+          "time": "2026-03-11 03:06:00",
+          "title": "一场与伊朗的长期战争可能意味着汽油价格的上涨。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/iran-conflict-forces-central-banks-060811096.html",
-          "title_en": "Iran conflict forces central banks into sharp policy rethink"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/what-an-extended-war-with-iran-could-mean-for-gas-prices-225053494.html",
+          "title_en": "What an extended war with Iran could mean for gas prices"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "美国计划部署20亿美元的海上再保险设施以应对伊朗冲突",
+          "time": "2026-03-11 03:06:00",
+          "title": "本周3月9日，房贷利率最好的贷款机构：油价上涨推高房贷利率",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/us-deploy-20bn-maritime-reinsurance-091947916.html",
-          "title_en": "US to deploy $20bn maritime reinsurance facility amid Iran conflict"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-march-9-2026-170834555.html",
+          "title_en": "Mortgage lenders with the best rates this week, March 9, 2026: Rising oil prices push mortgage rates back up"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
+          "time": "2026-03-11 03:06:00",
           "title": "华尔街受增长股和油价下跌的推动而上涨",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-climb-oil-declines-as-trump-says-iran-war-to-end-soon-4551561",
           "title_en": "Wall Street boosted by gains in growth stocks and slide in oil prices"
         },
         {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "周三将公布CPI数据、石油库存等经济数据",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/cpi-data-oil-inventories-among-economic-data-due-wednesday-93CH-4552773",
-          "title_en": "CPI data, oil inventories among economic data due Wednesday"
-        },
-        {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-11 02:29:11",
-          "title": "石油价格下跌，美国能源部长称美国海军护送油轮的帖子被删除后在X上发布",
+          "time": "2026-03-11 03:03:14",
+          "title": "石油价格仍然下跌，尽管能源部长错误地声称美国海军护送了一艘油轮通过霍尔木兹海峡。",
           "summary": "国际能源局将于周二举行特别会议，讨论可能的紧急储备释放。",
           "url": "https://www.cnbc.com/2026/03/10/crude-oil-prices-today-iran-war.html",
-          "title_en": "Oil prices fall after Energy secretary claims U.S. Navy escort of tanker in since-deleted post on X",
+          "title_en": "Oil retreats even after Energy Secretary wrongly claims Navy escorted tanker through Strait of Hormuz",
           "summary_en": "The International Energy Agency will hold an extraodrinary meeting on Tuesday to discuss a possible release of emergency stockpiles."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-11 02:20:08",
+          "time": "2026-03-11 02:45:01",
           "title": "民主党人反驳特朗普的说法：伊朗战争即将结束",
           "summary": "唐纳德·特朗普总统周一表示，战争可能即将结束，这让市场大幅上涨，油价则大幅下跌。",
           "url": "https://www.cnbc.com/2026/03/10/iran-war-israel-ending-trump-democrats.html",
           "title_en": "'Forever war': Democrats rebut Trump's assertion that Iran war nearing end",
           "summary_en": "President Donald Trump on Monday suggested the war may be nearing an end, sending markets soaring and oil plummeting."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-11 02:37:48",
+          "title": "在伊朗战争期间，CrowdStrike 是一种值得购买的股票，以下三点原因解释了这一点：",
+          "summary": "在市场波动期间，我们一直在敦促投资者要选择性。",
+          "url": "https://www.cnbc.com/2026/03/10/here-are-3-reasons-why-crowdstrike-is-the-kind-of-stock-to-buy-during-the-iran-war.html",
+          "title_en": "Here are 3 reasons why CrowdStrike is the kind of stock to buy during the Iran war",
+          "summary_en": "We've been urging investors to be selective during this period of market volatility."
         },
         {
           "source": "MarketWatch-Top",
@@ -353,6 +345,16 @@
           "url": "https://www.cnbc.com/2026/03/10/us-treasury-yields-trump-warns-iran-hormuz-flows.html",
           "title_en": "10-year Treasury yield is little changed as oil tumbles after Trump warns Iran over Hormuz flows",
           "summary_en": "The 10-year Treasury yield was flat as oil prices tumbled after Trump warned that Iran would be hit harder if it tried to halt Strait of Hormuz shipments."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-11 02:14:55",
+          "title": "以色列总统赫尔佐格称，伊朗战争的“成本”是中东和平的代价。",
+          "summary": "以色列总统伊扎克·赫尔佐格表示，针对伊朗的战争使得伊朗人民能够“起来反抗”其压迫性的统治政权。",
+          "url": "https://www.cnbc.com/2026/03/10/iran-war-israel-herzog-yale-ceo.html",
+          "title_en": "Iran war: Israel's president Herzog calls 'cost' for business the price for Middle East peace",
+          "summary_en": "Israeli President Isaac Herzog said the war against Iran is enabling people there \"to rise up\" against its repressive ruling regime."
         },
         {
           "source": "MarketWatch-Top",
@@ -439,164 +441,164 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "预测市场ETF将是长期投资者的巨大失望",
+          "time": "2026-03-11 03:06:00",
+          "title": "欧洲天然气价格再次大幅上涨",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/prediction-prediction-market-etfs-huge-092000302.html",
-          "title_en": "My Prediction: Prediction Market ETFs Will Be a Huge Disappointment for Long-Term Investors"
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-09-2026/card/european-natural-gas-prices-soar-again-HmUdCZWYxRxUaurkUUHS?siteid=yhoof2&yptr=yahoo",
+          "title_en": "European Natural Gas Prices Soar Again"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "Aletheia 将 Micron Technology, Inc. (MU) 的目标价提高至 650 美元，从 315 美元 – 这是为什么",
+          "time": "2026-03-11 03:06:00",
+          "title": "费德克(FedEx)股票是否超越道琼斯指数(Dow)",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/aletheia-lifts-pt-micron-technology-085051254.html",
-          "title_en": "Aletheia Lifts PT on Micron Technology, Inc. (MU) to $650 From $315 – Here’s Why"
+          "url": "https://finance.yahoo.com/news/fedex-corporation-stock-outperforming-dow-101005053.html",
+          "title_en": "Is FedEx Corporation Stock Outperforming the Dow?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "法拉利（Formula 1）和Salesforce, Inc. (CRM) 宣布加深合作",
+          "time": "2026-03-11 03:06:00",
+          "title": "LG新能（LGES）在加拿大举行新电池工厂开业仪式。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/formula-1-salesforce-inc-crm-084831853.html",
-          "title_en": "Formula 1 and Salesforce, Inc. (CRM) Announce Deepened Partnership"
+          "url": "https://finance.yahoo.com/news/lges-holds-grand-opening-battery-095643797.html",
+          "title_en": "LGES holds grand opening for new battery plant in Canada"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "阿比维公司（ABBV）宣布SKYRIZI皮下注射治疗克罗恩病的阶段3AFFIRM研究结果为阳性",
+          "time": "2026-03-11 03:06:00",
+          "title": "ETF.com宣布2026年ETF奖得主",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/abbvie-inc-abbv-announces-positive-084634735.html",
-          "title_en": "AbbVie Inc. (ABBV) Announces Positive Topline Results from Phase 3 AFFIRM Study Evaluating SKYRIZI Subcutaneous Induction in Patients with Crohn’s Disease"
+          "url": "https://finance.yahoo.com/news/etf-com-announces-winners-2026-105419067.html",
+          "title_en": "ETF.com Announces Winners of the 2026 ETF Awards"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "巴克莱降低了Blackstone Inc.(BX)的目标价至126美元，从164美元。",
+          "time": "2026-03-11 03:06:00",
+          "title": "分析报告：MongoDB Inc",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/barclays-cuts-pt-blackstone-inc-084445815.html",
-          "title_en": "Barclays Cuts PT on Blackstone Inc. (BX) to $126 From $164 – Here’s Why"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_5848_AnalystReport_1773164309000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: MongoDB Inc"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "2026年3月10日维克斯高买家和高卖家",
+          "time": "2026-03-11 03:06:00",
+          "title": "如何让退休生活更美好？调整退休生活可能很难，如何最大化你的钱和时间来享受黄金年华",
           "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46381_TopBottomInsiderActivity_1773142736000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily – Vickers Top Buyers & Sellers for 03/10/2026"
+          "url": "https://finance.yahoo.com/news/am-now-adjusting-retirement-tough-110000738.html",
+          "title_en": "‘Who am I now?’ Adjusting to retirement can be tough — how to maximize your money and time to enjoy your golden years"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "QUALCOMM, Inc. (QCOM) 和 T-Mobile 扩大战略合作，促进从 5G 高级到 6G 的行业进步",
+          "time": "2026-03-11 03:06:00",
+          "title": "销售代表中，富人越来越富有。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/qualcomm-inc-qcom-t-mobile-084137728.html",
-          "title_en": "QUALCOMM, Inc. (QCOM) and T-Mobile Expand Strategic Collaboration to Expedite the Industry’s Evolution from 5G Advanced to 6G"
+          "url": "https://finance.yahoo.com/news/among-sales-account-executives-rich-100000168.html",
+          "title_en": "Among sales account executives, the rich get richer"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "ETF.com 2026年奖项：请打开信封...",
+          "time": "2026-03-11 03:06:00",
+          "title": "咨询师建议：非高收入者应该为退休储蓄多少钱？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/etf-com-2026-awards-envelope-084011483.html",
-          "title_en": "ETF.com 2026 Awards: The Envelope Please ..."
+          "url": "https://finance.yahoo.com/news/ask-advisor-much-non-high-110000082.html",
+          "title_en": "Ask an Advisor: How Much Should Non-High-Earners Aim to Save for Retirement?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "Citi将新蒙特矿业(NEM)目标价提高至150美元，原价118美元。",
+          "time": "2026-03-11 03:06:00",
+          "title": "10只看跌期权设置刚刚触发（3月9日筛查）",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/citi-lifts-pt-newmont-corporation-083537002.html",
-          "title_en": "Citi Lifts PT on Newmont Corporation (NEM) to $150 from $118 – Here’s Why"
+          "url": "https://finance.yahoo.com/news/10-bearish-option-setups-just-110002678.html",
+          "title_en": "10 Bearish Option Setups That Just Triggered (March 9 Screener)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "摩根士丹利将Novo Nordisk A/S (NVO)的评级从卖出级提升至中性级 – 这是为什么",
+          "time": "2026-03-11 03:06:00",
+          "title": "斯科普里船舶公司（STNG）：战略性油轮销售和稳健的现金流凸显增长潜力",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/morgan-stanley-upgrades-novo-nordisk-083221266.html",
-          "title_en": "Morgan Stanley Upgrades Novo Nordisk A/S (NVO) to Equal Weight From Underweight – Here’s Why"
+          "url": "https://finance.yahoo.com/news/scorpio-tankers-inc-stng-strategic-110945145.html",
+          "title_en": "Scorpio Tankers Inc. (STNG): Strategic Tanker Sales and Solid Cash Flow Highlight Growth Potential"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "2026年3月10日维克斯高管推荐股票",
+          "time": "2026-03-11 03:06:00",
+          "title": "市场更新：LNG、ETSY、MDB、OTIS",
           "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46380_InsiderActivity_1773142736000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily – Vickers Top Insider Picks for 03/10/2026"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46383_MarketUpdate_1773164309000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Market Update: LNG, ETSY, MDB, OTIS"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "摩根士丹利提高了皇家荷兰壳牌公司（SHEL）的目标价至3600英镑，之前为3400英镑。",
+          "time": "2026-03-11 03:06:00",
+          "title": "BW LPG Limited (BWLP) 提供了强劲的收入和利润增长，产品服务业务部门表现出色",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jpmorgan-lifts-pt-shell-plc-082908422.html",
-          "title_en": "JPMorgan Lifts PT on Shell plc (SHEL) to 3,600 GBp From 3,400 GBp – Here’s Why"
+          "url": "https://finance.yahoo.com/news/bw-lpg-limited-bwlp-delivers-110948007.html",
+          "title_en": "BW LPG Limited (BWLP) Delivers Robust Revenue and Earnings Growth as Product Services Segment Impresses"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "里奥铁矿业集团（RIO）和西澳政府宣布合作扩建达米尔海水淡化厂",
+          "time": "2026-03-11 03:06:00",
+          "title": "Block CFO 表示利润每名员工的增长",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/rio-tinto-group-rio-wa-082533060.html",
-          "title_en": "Rio Tinto Group (RIO) and WA Government Announce Partnership to Expand Dampier Seawater Desalination Plant"
+          "url": "https://finance.yahoo.com/news/block-cfo-interview-highlights-surge-100000351.html",
+          "title_en": "Block CFO interview highlights surge in profit per employee: Trial Balance"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "皇家加拿大银行（RY）股价是否应买入？",
+          "time": "2026-03-11 03:06:00",
+          "title": "Frontline plc (FRO) 价格目标上升，受强劲的 tanker 市场表现影响",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/royal-bank-canada-ry-buy-082248181.html",
-          "title_en": "Is Royal Bank of Canada (RY) a Buy Post Earnings?"
+          "url": "https://finance.yahoo.com/news/frontline-plc-fro-sees-price-110947340.html",
+          "title_en": "Frontline plc (FRO) Sees Price Target Increase Following Strong Tanker Market Performance"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "分析报告：Avalonbay Communities Inc.",
+          "time": "2026-03-11 03:06:00",
+          "title": "Ardmore Shipping Corporation（ASC）受益于强劲的货运市场环境",
           "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_2749_AnalystReport_1773140936000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Avalonbay Communities Inc."
+          "url": "https://finance.yahoo.com/news/ardmore-shipping-corporation-asc-benefits-110954808.html",
+          "title_en": "Ardmore Shipping Corporation (ASC) Benefits from Strong Freight Market Conditions"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "渣打银行提高了渥太华皇家银行(TD)的目标价至每股142加元，原价132加元。",
+          "time": "2026-03-11 03:06:00",
+          "title": "北方美洲油轮有限公司（NAT）凭借强劲的船舶需求回归盈利",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/scotiabank-lifts-pt-toronto-dominion-081952805.html",
-          "title_en": "Scotiabank Lifts PT on The Toronto-Dominion Bank (TD) to C$142 From C$132"
+          "url": "https://finance.yahoo.com/news/nordic-american-tankers-limited-nat-110951308.html",
+          "title_en": "Nordic American Tankers Limited (NAT) Bounces to Profitability on Strong Ship Demand"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "是否总能源（TTE）是当前最有价值的低估股？",
+          "time": "2026-03-11 03:06:00",
+          "title": "分析报告：Etsy Inc（ETSY）",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/totalenergies-se-tte-best-undervalued-081533896.html",
-          "title_en": "Is TotalEnergies SE (TTE) the Best Undervalued Stock to Invest in Right Now?"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_5166_AnalystReport_1773164309000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Etsy Inc"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 02:35:50",
-          "title": "巴尔科能源公司(Bapco Energies)因炼油厂遭袭宣布强制停运",
+          "time": "2026-03-11 03:06:00",
+          "title": "Star Bulk Carriers Corp. (SBLK) 将重点关注资本配置战略以释放股东价值。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/bapco-energies-declares-force-majeure-081126421.html",
-          "title_en": "Bapco Energies Declares Force Majeure After Refinery Attack"
+          "url": "https://finance.yahoo.com/news/star-bulk-carriers-corp-sblk-110950701.html",
+          "title_en": "Star Bulk Carriers Corp. (SBLK) Focused on Capital Allocation Strategy to Unlock Shareholder Value"
         }
       ]
     }
