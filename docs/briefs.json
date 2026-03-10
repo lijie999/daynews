@@ -1,6 +1,6 @@
 {
   "date": "2026.03.10",
-  "generatedAtBJT": "2026-03-10 18:00:20",
+  "generatedAtBJT": "2026-03-10 18:30:06",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-10 18:00:20",
+          "time": "2026-03-10 18:30:06",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 美股市场：道指、标普500指数、纳斯达克期货价格上涨，油价下滑…\n- 宏观/Fed：关注 今日最佳定期存款利率，2026年3月9日（最高可达4%年利率）…\n- 科技/半导体：摩根士丹利称Open AI新闻对沃尔玛有利… 关键词：nvidia、他、open、startup、街头\n- TSLA：关注 亚马逊的Zoox扩大了机器人出租车测试到Phoenix和Dallas…",
+          "summary": "- 地缘/避险：关注 美股市场今日：道指、标普500指数和纳斯达克期货上涨，石油价格下滑。\n- 宏观/Fed：关注 分析：中国寄希望于推动社会范围内的AI发展来增加就业…\n- 科技/半导体：芯片代工厂台积电表示其2月销售额增长22%… 关键词：网络安全、NVIDIA、开放、销售额、创业公司\n- TSLA：关注 亚马逊的Zoox扩大了在Phoenix和Dallas的无人驾驶出租车测试…",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq futures rise, oil slide…\n- 宏观/Fed：关注 Best CD rates today, March 9, 2026 (Lock in up to 4% APY)…\n- 科技/半导体：BofA Calls Open AI News a Positive for Walmart Inc. (WMT)… 关键词: nvidia, his, open, startup, street\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
+          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq futures rise, oil slide…\n- 宏观/Fed：关注 Analysis-China pins hopes on society-wide AI push to add jobs, r…\n- 科技/半导体：Chip Foundry TSMC Says Its Sales Rose 22% In February… 关键词: cybersecurity, nvidia, open, sales, startup\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
         }
       ]
     },
@@ -29,7 +29,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
+          "time": "2026-03-10 18:30:03",
+          "title": "晶圆代工厂台积电(TSMC)表示，2月份其销售额增长22%。",
+          "summary": "",
+          "url": "https://www.investors.com/news/technology/tsm-stock-tsmc-taiwan-semiconductor-february-2026-sales/?src=A00220&yptr=yahoo",
+          "title_en": "Chip Foundry TSMC Says Its Sales Rose 22% In February"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 18:30:03",
           "title": "摩根大通称Open AI新闻为沃尔玛（WMT）利好",
           "summary": "",
           "url": "https://finance.yahoo.com/news/bofa-calls-open-ai-news-094201100.html",
@@ -38,29 +47,30 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
+          "time": "2026-03-10 18:30:03",
           "title": "甲骨文即将公布Q3财报，华尔街关注人工智能支出",
           "summary": "",
           "url": "https://finance.yahoo.com/news/oracle-to-report-q3-earnings-as-wall-street-questions-ai-spending-203555557.html",
           "title_en": "Oracle to report Q3 earnings as Wall Street questions AI spending"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
-          "title": "亿万富翁菲利普·拉丰（Philippe Laffont）抛售了其基金在NVIDIA支持的CoreWeave的股份，并将其在华尔街最热门的股票拆股股的持仓比例大幅增加了76%。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/billionaire-philippe-laffont-dumped-funds-092600944.html",
-          "title_en": "Billionaire Philippe Laffont Dumped His Fund's Stake in Nvidia-Backed CoreWeave and Boosted His Position in Wall Street's Hottest Stock-Split Stock by 76%"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
+          "time": "2026-03-10 18:30:03",
           "title": "德国出版商拒绝苹果的修订应用跟踪规则，呼吁反垄断罚款",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/german-publishers-reject-apples-revised-app-tracking-rules-urge-antitrust-fine-4550910",
           "title_en": "German publishers reject Apple’s revised app tracking rules, urge antitrust fine"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-10 18:00:01",
+          "title": "凯文·曼迪亚在2022年将其网络安全公司卖给了谷歌。他有着一笔新鲜的190亿美元用于新项目",
+          "summary": "麦迪安特(Mandiant)创始人凯文·曼迪亚(Kevin Mandia)在将其前公司卖给谷歌(Google)后仍然专注于网络安全，但现在他转向了人工智能(AI)。",
+          "url": "https://www.cnbc.com/2026/03/10/kevin-mandia-raised-190-million-armadin-after-prior-sale-to-google.html",
+          "title_en": "Kevin Mandia sold his cybersecurity company to Google in 2022. He has a fresh $190 million for a new venture",
+          "summary_en": "Mandiant founder Kevin Mandia is staying in cybersecurity after selling his prior company to Google, but now he's focused on AI."
         },
         {
           "source": "CNBC-Top",
@@ -121,38 +131,65 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
+          "time": "2026-03-10 18:30:03",
+          "title": "中国寄希望于推动社会全面推广人工智能，创造更多就业机会，振兴经济。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/analysis-china-pins-hopes-society-101553891.html",
+          "title_en": "Analysis-China pins hopes on society-wide AI push to add jobs, rejuvenate economy"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 18:30:03",
+          "title": "截至2026年3月10日，最佳现金市场账户利率（最高可达4.01%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-tuesday-march-10-2026-100057215.html",
+          "title_en": "Best money market account rates today, March 10, 2026 (Earn up to 4.01% APY)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 18:30:03",
+          "title": "今日（3月10日）房贷和再融资利率：小幅波动",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-march-10-2026-100031024.html",
+          "title_en": "Mortgage and refinance interest rates today, March 10, 2026: Minor moves"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 18:30:03",
+          "title": "截至2026年3月10日，最高收益储蓄利率（最高可达4%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-tuesday-march-10-2026-100027758.html",
+          "title_en": "Best high-yield savings interest rates today, March 10, 2026 (Earn up to 4% APY)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 18:30:03",
+          "title": "今天（3月10日），HELOC和家庭抵押贷款利率保持稳定，购物贷款机构的时机成熟。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-march-10-2026-100002601.html",
+          "title_en": "HELOC and home equity loan rates today, March 10, 2026: Steady rates make it a good time to shop lenders"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 18:30:03",
+          "title": "截至2026年3月10日，今日最佳定期存款利率最高可达4.1%",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-march-10-2026-lock-in-up-to-4-apy-today-100000451.html",
+          "title_en": "Best CD rates today, March 10, 2026: Lock in up to 4.1% APY today"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 18:30:03",
           "title": "今日最佳定期存款利率（2026年3月9日），最高可锁定4%年利率",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-march-9-2026-100002996.html",
           "title_en": "Best CD rates today, March 9, 2026 (Lock in up to 4% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
-          "title": "截至2026年3月9日，最佳现金市场账户利率（最高可达4.01% APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-march-9-2026-100045909.html",
-          "title_en": "Best money market account rates today, March 9, 2026 (Earn up to 4.01% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
-          "title": "截至2026年3月9日，今日高收益储蓄利率（最高可达4%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-monday-march-9-2026-100036902.html",
-          "title_en": "Best high-yield savings interest rates today, March 9, 2026 (Earn up to 4% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
-          "title": "今天，HELOC和家庭抵押贷款利率：你有一个低利率？现在考虑一下。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-march-9-2026-100048612.html",
-          "title_en": "HELOC and home equity loan rates Monday, March 9, 2026: Got a low rate? Now consider this."
         }
       ]
     },
@@ -163,65 +200,48 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
-          "title": "股市今日：道指、标普500指数、纳斯达克期货价格上涨，石油价格下滑，华尔街股市波动一天后。",
+          "time": "2026-03-10 18:30:03",
+          "title": "股市今日：道指、标普500指数、纳斯达克期货上涨，石油价格下滑，伊朗战争紧张情绪缓解。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-oil-slides-after-volatile-day-on-wall-street-224255037.html",
-          "title_en": "Stock market today: Dow, S&P 500, Nasdaq futures rise, oil slides after volatile day on Wall Street"
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-oil-slides-as-iran-war-jitters-ease-224255466.html",
+          "title_en": "Stock market today: Dow, S&P 500, Nasdaq futures rise, oil slides as Iran war jitters ease"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
+          "time": "2026-03-10 18:30:03",
           "title": "沙特阿拉伯石油公司利润下降12%至1047亿美元，油价拖累",
           "summary": "",
           "url": "https://finance.yahoo.com/news/saudi-aramco-profits-fall-12-080000468.html",
           "title_en": "Saudi Aramco Profits Fall 12% to $104.7 Billion as Oil Prices Weigh"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
-          "title": "美国股市早期大幅下跌，但随后油价从接近120美元反弹至90美元以下，股市也随之上涨。",
+          "time": "2026-03-10 18:30:03",
+          "title": "市场预计特朗普将尽快结束伊朗战争，尽管双方都发出威胁。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/japans-nikkei-225-share-index-005405320.html",
-          "title_en": "US stocks erase a big early loss and rise after oil prices whip from nearly $120 back below $90"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
-          "title": "比特币跳升至71,000美元以上，伊朗战争担忧缓解",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/bitcoin-steadies-around-70-000-061452473.html",
-          "title_en": "Bitcoin Jumps Above $71,000 as Iran War Worries Ease"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
-          "title": "今日黄金价格，星期一，3月9日：黄金价格开盘低迷，随油价大幅上涨",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-march-9-gold-opens-lower-after-oil-prices-spike-105854531.html",
-          "title_en": "Gold price today, Monday, March 9: Gold opens lower after oil prices spike"
+          "url": "https://www.investing.com/news/stock-market-news/iran-says-oil-blockade-will-continue-until-attacks-end-trump-threatens-to-hit-harder-4551008",
+          "title_en": "Markets bet that Trump will end Iran war soon, despite threats from both sides"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
+          "time": "2026-03-10 18:30:03",
           "title": "伊朗冲突最新：石油价格回落，特朗普称战争预计将很快结束",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/iran-conflict-latest-oil-retreats-as-trump-says-war-expected-to-conclude-soon-4551440",
           "title_en": "Iran conflict latest: Oil retreats as Trump says war expected to conclude soon"
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-World",
           "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
-          "title": "伊朗称石油封锁将持续直到袭击结束，特朗普威胁加重打击",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/iran-says-oil-blockade-will-continue-until-attacks-end-trump-threatens-to-hit-harder-4551008",
-          "title_en": "Iran says oil blockade will continue until attacks end, Trump threatens heavier strikes"
+          "time": "2026-03-10 18:17:02",
+          "title": "欧洲股市大涨2%，油价下滑带来积极情绪",
+          "summary": "欧洲股市周二反弹，投资者继续关注中东局势。",
+          "url": "https://www.cnbc.com/2026/03/10/european-markets-stoxx-600-ftse-dax-cac-iran-war-latest-news.html",
+          "title_en": "European stocks jump 2% as sliding oil prices buoy sentiment",
+          "summary_en": "European equities rebounded on Tuesday as traders continue to watch developments in the Middle East."
         },
         {
           "source": "CNBC-Top",
@@ -234,16 +254,6 @@
           "summary_en": "Iran has defended its strikes against its Gulf countries but its neighbors say attacks have damaged trust for a long time."
         },
         {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-10 17:49:04",
-          "title": "欧洲股市大涨2%，油价下滑带来积极情绪",
-          "summary": "欧洲股市周二反弹，投资者继续关注中东局势。",
-          "url": "https://www.cnbc.com/2026/03/10/european-markets-stoxx-600-ftse-dax-cac-iran-war-latest-news.html",
-          "title_en": "European stocks jump 2% as sliding oil prices buoy sentiment",
-          "summary_en": "European equities rebounded on Tuesday as traders continue to watch developments in the Middle East."
-        },
-        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-10 17:34:14",
@@ -254,7 +264,7 @@
           "summary_en": "India is trying to preserve its long-standing neutral foreign policy as escalating tensions around Iran threaten its oil supply and expose New Delhi to pressure from both Washington and Beijing."
         },
         {
-          "source": "CNBC-World",
+          "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-10 17:17:20",
           "title": "伊朗战争打乱了能源供应，俄罗斯正在成为真正的赢家",
@@ -332,6 +342,36 @@
           "url": "https://www.cnbc.com/2026/03/09/iran-war-oil-tankers-strait-of-hormuz.html",
           "title_en": "Oil tankers transiting Strait of Hormuz 'must be very careful,' Iran Foreign Ministry warns",
           "summary_en": "The price of crude oil has sharply spiked as the Strait of Hormuz has been effectively closed as the United States and Israel wage war on Iran."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-10 08:17:17",
+          "title": "特朗普称伊朗战争将很快结束，预测油价将下降",
+          "summary": "美国股市指数在白天一度上涨，据初步报告，美国总统唐纳德·特朗普表示他认为伊朗战争已经基本结束。",
+          "url": "https://www.cnbc.com/2026/03/09/trump-iran-war-end.html",
+          "title_en": "Trump says Iran war will end 'very soon,' predicts lower oil prices",
+          "summary_en": "U.S. stock market indexes rose earlier in the day after an initial report that President Donald Trump said he believed the Iran war was largely finished."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-10 08:03:19",
+          "title": "民主党人威胁更多伊朗战权投票，要求赫格塞特、鲁比奥出庭作证",
+          "summary": "民主党人威胁要干扰参议院的正常程序，除非佩特·赫格塞斯和马科·卢比奥公开作证。",
+          "url": "https://www.cnbc.com/2026/03/09/iran-war-powers-votes-congress.html",
+          "title_en": "Democrats threaten more Iran war powers votes, call for Hegseth, Rubio to testify",
+          "summary_en": "Democrats are vowing to interrupt normal order in the Senate unless Pete Hegseth and Marco Rubio testify publicly."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-10 06:33:07",
+          "title": "海运公司和保险公司不愿意冒险通过霍尔木兹海峡的另一个大原因是",
+          "summary": "一场环境灾难在一个拥有闪亮高楼、奢华海滨度假村和蓬勃发展商业中心的地区构成了巨大的风险。",
+          "url": "https://www.cnbc.com/2026/03/09/one-big-reason-ships-and-insurers-are-unwilling-to-risk-strait-of-hormuz.html",
+          "title_en": "There's another big reason why shipping companies and insurers aren't willing to risk the Strait of Hormuz",
+          "summary_en": "An environmental catastrophe poses a massive risk in a region that has glittering high-rise buildings, posh beachfront resorts and booming commercial centers."
         }
       ]
     },
@@ -340,7 +380,7 @@
       "badge": "TSLA chain",
       "items": [
         {
-          "source": "CNBC-World",
+          "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-10 01:14:20",
           "title": "亚马逊的Zoox扩大了机器人出租车测试范围，涵盖了凤凰城和达拉斯。",
@@ -358,16 +398,61 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
-          "title": "如果我只能持有一个ETF的下20年，那么我会选择这个。",
+          "time": "2026-03-10 18:30:03",
+          "title": "Epiroc签署协议，收购南非Eventspec",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/could-only-own-one-etf-095000946.html",
-          "title_en": "If I Could Only Own One ETF for the Next 20 Years, It Would Be This One"
+          "url": "https://finance.yahoo.com/news/epiroc-signs-agreement-acquire-eventspec-102225497.html",
+          "title_en": "Epiroc signs agreement to acquire Eventspec in South Africa"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
+          "time": "2026-03-10 18:30:03",
+          "title": "为什么Strategy Inc（MSTR）是10年内会让你致富的最佳股票",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/why-strategy-inc-mstr-one-100226275.html",
+          "title_en": "Why Strategy Inc (MSTR) is One of the Best Stocks That Will Make You Rich in 10 Years"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 18:30:03",
+          "title": "Mineros将收购哥伦比亚金矿勘探项目",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/mineros-acquire-colombian-gold-exploration-101742223.html",
+          "title_en": "Mineros to acquire Colombian gold exploration project"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 18:30:03",
+          "title": "L Catterton合并了巴西的Bel Cosméticos和Mundo do Cabeleireiro。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/l-catterton-combines-bel-cosm-101434338.html",
+          "title_en": "L Catterton combines Bel Cosméticos and Mundo do Cabeleireiro in Brazil"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 18:30:03",
+          "title": "美银加VISA（V）入其“美国一号”名单",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/bofa-adds-visa-inc-v-095429356.html",
+          "title_en": "BofA Adds Visa Inc. (V) to Its “US 1 List”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 18:30:03",
+          "title": "摩根士丹利恢复对Mastercard Incorporated（MA）的覆盖，并维持买入评级。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/bofa-reinstates-coverage-mastercard-incorporated-095139822.html",
+          "title_en": "BofA Reinstates Coverage of Mastercard Incorporated (MA) With a Buy Rating"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 18:30:03",
           "title": "埃利·利利公司（LLY）宣布推出其雇主连接平台。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/eli-lilly-company-lly-announces-094557293.html",
@@ -376,7 +461,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
+          "time": "2026-03-10 18:30:03",
+          "title": "格雷特南铜业、苏丹能源、法伦药物、阿斯特德智能、贝尔维尤医疗",
+          "summary": "",
+          "url": "https://finance.yahoo.com/video/great-southern-copper-sunda-energy-101400627.html",
+          "title_en": "Great Southern Copper, Sunda Energy, Faron Pharmaceuticals, Astrid Intelligence, Bellevue Healthcare"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 18:30:03",
           "title": "泰默·费雪科学公司（TMO）宣布在南弗利蒙开设了冷电子显微镜药物发现中心。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/thermo-fisher-scientific-inc-tmo-093823896.html",
@@ -385,7 +479,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
+          "time": "2026-03-10 18:30:03",
           "title": "英睿思医疗（ISRG）宣布完成其对达芬奇和伊恩分销业务的收购",
           "summary": "",
           "url": "https://finance.yahoo.com/news/intuitive-surgical-inc-isrg-announces-093600725.html",
@@ -394,16 +488,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
-          "title": "Pan American Silver 公布了拉科罗达矿场的突破",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/pan-american-silver-reports-breakthrough-094602561.html",
-          "title_en": "Pan American Silver Reports Breakthrough at La Colorada Mine"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
+          "time": "2026-03-10 18:30:03",
           "title": "Truist 将 Costco Wholesale Corporation (COST) 的目标价提高至 977 美元，从 926 美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/truist-lifts-pt-costco-wholesale-084332991.html",
@@ -412,7 +497,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
+          "time": "2026-03-10 18:30:03",
+          "title": "韩国现代 모비스公司在匈牙利建成新车架模块工厂",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/hyundai-mobis-completes-chassis-modules-101140961.html",
+          "title_en": "Hyundai Mobis completes new chassis modules plant in Hungary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 18:30:03",
           "title": "摩根大通提高了Union Pacific Corporation（UNP）的目标价至297美元，原价266美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/bofa-lifts-pt-union-pacific-084120687.html",
@@ -421,16 +515,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
-          "title": "Physiomics 股票下跌27%后，公司进行了打折的股票发行",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/physiomics-shares-fall-27-discounted-093005684.html",
-          "title_en": "Physiomics shares fall 27% after discounted share placing"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
+          "time": "2026-03-10 18:30:03",
           "title": "约翰逊·约翰逊（JNJ）宣布TECVAYLI®加上DARZALEX FASPRO®获得了FDA的批准。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/johnson-johnson-jnj-announces-fda-083854638.html",
@@ -439,7 +524,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
+          "time": "2026-03-10 18:30:03",
           "title": "Tigress Financial 将麦当劳公司（MCD）的目标价提高至385美元，原价360美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/tigress-financial-lifts-pt-mcdonald-083640336.html",
@@ -448,7 +533,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
+          "time": "2026-03-10 18:30:03",
           "title": "为什么《普罗克特与甘布尔公司》（PG）是最能长期增长的股票之一",
           "summary": "",
           "url": "https://finance.yahoo.com/news/why-procter-gamble-company-pg-083027003.html",
@@ -457,65 +542,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
+          "time": "2026-03-10 18:30:03",
+          "title": "Reliance零售收购了美容品牌Pahadi Local",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/reliance-retail-acquires-beauty-brand-101027984.html",
+          "title_en": "Reliance Retail acquires beauty brand Pahadi Local"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 18:30:03",
           "title": "美银美林提高了TJX公司的目标价至175美元，原价为168美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/bofa-lifts-pt-tjx-companies-082642867.html",
           "title_en": "BofA Lifts PT on The TJX Companies, Inc. (TJX) to $175 From $168 – Here’s Why"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
-          "title": "洛克顿任命奥恩的戴利维为中国CEO",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/lockton-appoints-aon-livy-dai-093006113.html",
-          "title_en": "Lockton appoints Aon’s Livy Dai as China CEO"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
-          "title": "RBC Capital 维持对Fastly, Inc. (FSLY)的行业表现评级。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/rbc-capital-keeps-sector-perform-081638103.html",
-          "title_en": "RBC Capital Keeps a Sector Perform Rating on Fastly, Inc. (FSLY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
-          "title": "Applied Optoelectronics, Inc. (AAOI) 公布 2025 年第四季度和全年财报",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/applied-optoelectronics-inc-aaoi-posts-081324909.html",
-          "title_en": "Applied Optoelectronics, Inc. (AAOI) Posts Fourth Quarter and Full Year 2025 Results"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
-          "title": "AXT, Inc. (AXTI) 公布了2025年第四季度和年度财务报告",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/axt-inc-axti-reports-fourth-075116474.html",
-          "title_en": "AXT, Inc. (AXTI) Reports Fourth Quarter and Fiscal Year 2025 Financial Results"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
-          "title": "巴克莱维持对Acadia Healthcare Company, Inc. (ACHC)的等权重评级。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/barclays-retains-equal-weight-rating-074512602.html",
-          "title_en": "Barclays Retains an Equal Weight Rating on Acadia Healthcare Company, Inc. (ACHC)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 18:00:17",
-          "title": "罗森布拉特对Lumentum Holdings Inc. (LITE)持乐观态度。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/rosenblatt-bullish-lumentum-holdings-inc-074310194.html",
-          "title_en": "Rosenblatt is Bullish on Lumentum Holdings Inc. (LITE)"
         }
       ]
     }
