@@ -1,6 +1,6 @@
 {
   "date": "2026.03.11",
-  "generatedAtBJT": "2026-03-11 05:37:29",
+  "generatedAtBJT": "2026-03-11 06:00:16",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-11 05:37:29",
+          "time": "2026-03-11 06:00:16",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 伊朗战争持续，汽油价格或再次突破5美元...\n- 宏观/Fed：关注 频发极端天气导致科罗拉多州房屋保险费大幅上涨...\n- 科技/半导体：微软和Anthropic合作推出Claude Cowork...\n- TSLA：关注 特斯拉和谷歌联合推出解决电动汽车成本上涨的方案...",
+          "summary": "- 地缘/避险：关注 WTI 原油期货 — 地缘政治动荡与季节性需求相遇…\n- 宏观/Fed：关注 Tillis 维持对 Fed 选举人 Kevin Warsh 的阻挠，原因是对 Powell 的担忧…\n- 科技/半导体：Meta 成为“Magnificent 7”中的最佳股票 — 这是为什么…\n- TSLA：关注 Amazon 的 Zoox 在 Phoenix 和 Dallas 扩大了无人驾驶出租车测试…",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Why Gas Prices Could Top $5 Again if the Iran War Drags On…\n- 宏观/Fed：关注 Colorado home insurance rates are spiking due to wild weather. H…\n- 科技/半导体：Microsoft and Anthropic team up to bring Claude Cowork to Micros… 关键词: anthropic, microsoft, oracle, agent, pentagon\n- TSLA：关注 Tesla and Google team up to push their own fix for rising electr…"
+          "summary_en": "- 地缘/避险：关注 WTI Crude Oil May Futures — Geopolitical Turmoil Meets Seasonal …\n- 宏观/Fed：关注 Tillis maintains blockade on Fed pick Kevin Warsh over Powell pr…\n- 科技/半导体：Meta Just Became the Best Stock in the Magnificent 7 — Here’s th… 关键词: microsoft, oracle, anthropic, agent, amazon\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
         }
       ]
     },
@@ -29,39 +29,68 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
+          "time": "2026-03-11 06:00:12",
+          "title": "Meta成为“Magnificent 7”中表现最佳的股票 — 这些数据证明了这一点",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/meta-just-became-best-stock-133455169.html",
+          "title_en": "Meta Just Became the Best Stock in the Magnificent 7 — Here’s the Data That Proves It"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 06:00:12",
           "title": "微软与Anthropic合作推出Claude Cowork于微软365",
           "summary": "",
           "url": "https://finance.yahoo.com/news/microsoft-and-anthropic-team-up-to-bring-claude-cowork-to-microsoft-365-130001836.html",
           "title_en": "Microsoft and Anthropic team up to bring Claude Cowork to Microsoft 365"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "中国科技中心推广OpenClaw AI代理，尽管存在安全警告",
+          "time": "2026-03-11 06:00:12",
+          "title": "应用材料与Micron和SK Hynix合作开发AI内存芯片",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/chinas-shenzhen-backs-openclaw-ai-122205155.html",
-          "title_en": "Chinese tech hubs promote OpenClaw AI agent despite security warnings"
+          "url": "https://www.investing.com/news/stock-market-news/applied-materials-and-sk-hynix-partner-for-nextgen-ai-memory-development-4552992",
+          "title_en": "Applied Materials forges partnerships with Micron and SK Hynix for AI memory chips"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
+          "time": "2026-03-11 06:00:12",
           "title": "甲骨文预测人工智能泡沫将持续至至少2027年，股价上涨8%",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/oracle-beats-quarterly-revenue-estimates-shares-rise-4552963",
           "title_en": "Oracle sees AI boom through at least 2027, sending shares up 8%"
         },
         {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-11 05:54:00",
+          "title": "甲骨文的股价上涨，人工智能需求推动了15年来首次实现的盈利里程碑",
+          "summary": "奥拉克尔首次在十多年来，宣布其收入和利润都增长了至少20%。",
+          "url": "https://www.marketwatch.com/story/oracles-stock-rises-as-ai-demand-spurs-an-earnings-milestone-not-seen-in-15-years-c45c437f?mod=mw_rss_topstories",
+          "title_en": "Oracle’s stock rises as AI demand spurs an earnings milestone not seen in 15 years",
+          "summary_en": "For the first time in over a decade and a half, Oracle says it grew both revenue and earnings by at least 20%."
+        },
+        {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-11 05:33:33",
-          "title": "甲骨文股价大涨10%，因业绩超预期和云计算收入增长44%而上涨。",
+          "time": "2026-03-11 05:51:15",
+          "title": "甲骨文股价大涨9%，业绩超预期，云计算收入增长44%",
           "summary": "甲骨文公司在二月季度期间将其收入订单总额提高了300亿美元。",
           "url": "https://www.cnbc.com/2026/03/10/oracle-orcl-q3-earnings-report-2026.html",
-          "title_en": "Oracle stock jumps 10% on earnings beat and increased guidance as cloud revenue climbs 44%",
+          "title_en": "Oracle stock jumps 9% on earnings beat and increased guidance as cloud revenue climbs 44%",
           "summary_en": "Oracle boosted its revenue backlog total by $30 billion during the February quarter."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-11 05:47:16",
+          "title": "微软支持 Anthropic 在 Pentagon 黑名单之争中，要求暂时性禁令",
+          "summary": "微软支持 Anthropic 并呼吁对国防部供应链风险指标提出暂时禁令。",
+          "url": "https://www.cnbc.com/2026/03/10/microsoft-says-court-should-temporarily-block-pentagon-ban-anthropic.html",
+          "title_en": "Microsoft backs Anthropic in Pentagon blacklist battle, urges temporary restraining order",
+          "summary_en": "Microsoft threw its support behind Anthropic and advocated for a temporary restraining order to the Pentagon's supply chain risk designation."
         },
         {
           "source": "CNBC-Top",
@@ -72,26 +101,6 @@
           "url": "https://www.cnbc.com/2026/03/10/ford-pro-ai.html",
           "title_en": "Ford launches new AI to grow multibillion-dollar Pro commercial business",
           "summary_en": "Ford CEO Jim Farley last month said diversifying Pro's revenue — specifically in software — is a crucial growth area for the company."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-11 05:19:37",
-          "title": "微软称法院应暂时阻止国防部对Anthropic的黑名单",
-          "summary": "微软支持 Anthropic 并呼吁对国防部供应链风险指标提出暂时禁令。",
-          "url": "https://www.cnbc.com/2026/03/10/microsoft-says-court-should-temporarily-block-pentagon-ban-anthropic.html",
-          "title_en": "Microsoft says court should temporarily block Pentagon's blacklist of Anthropic",
-          "summary_en": "Microsoft threw its support behind Anthropic and advocated for a temporary restraining order to the Pentagon's supply chain risk designation."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-11 05:04:00",
-          "title": "甲骨文的股价上涨，人工智能需求推动了15年来首次实现的盈利里程碑",
-          "summary": "奥拉克尔首次在十多年来，宣布其收入和利润都增长了至少20%。",
-          "url": "https://www.marketwatch.com/story/oracles-stock-rises-as-ai-demand-spurs-an-earnings-milestone-not-seen-in-15-years-c45c437f?mod=mw_rss_topstories",
-          "title_en": "Oracle’s stock rises as AI demand spurs an earnings milestone not seen in 15 years",
-          "summary_en": "For the first time in over a decade and a half, Oracle says it grew both revenue and earnings by at least 20%."
         },
         {
           "source": "CNBC-Top",
@@ -192,16 +201,6 @@
           "url": "https://www.cnbc.com/2026/03/10/nvidia-open-source-ai-agent-platform-nemoclaw-wired-agentic-tools-openclaw-clawdbot-moltbot.html",
           "title_en": "Nvidia plans open-source AI agent platform ‘NemoClaw’ for enterprises: Wired",
           "summary_en": "Nvidia is planning to lean into the agentic AI craze and launch an open-source platform for AI agents called 'NemoClaw,' according to a report."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-10 06:01:05",
-          "title": "Anthropic被美国国防部选为人工智能合作伙伴，如今却被禁用，专家们开始担忧。",
-          "summary": "Anthropic与亚马逊和帕拉提尔的合作帮助其在DOD取得了进展，但其被列入黑名单引起了许多行业专家的关注。",
-          "url": "https://www.cnbc.com/2026/03/09/anthropic-was-the-pentagons-choice-for-ai-now-its-banned-and-experts-are-worried.html",
-          "title_en": "Anthropic was the Pentagon's choice for AI. Now it's banned and experts are worried",
-          "summary_en": "Anthropic's partnerships with Amazon and Palantir helped it make inroads into the DOD, and its blacklisting is concerning to many industry experts."
         }
       ]
     },
@@ -210,23 +209,14 @@
       "badge": "Fed / Policy",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "科罗拉多州房屋保险费率因野火天气而飙升，如何在风暴中保护您的保险费",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/colorado-home-insurance-rates-spiking-120000104.html",
-          "title_en": "Colorado home insurance rates are spiking due to wild weather. How to shelter your premiums in the storm"
-        },
-        {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-11 05:32:12",
+          "time": "2026-03-11 05:42:30",
           "title": "蒂利斯继续对联邦储备委员会提名人凯文·沃什的任命进行阻挠，理由是对鲍威尔的调查",
-          "summary": "特朗普总统将凯文·沃什（Kevin Warsh）任命为下一任联邦储备委员会主席。尚不清楚参议院是否会迅速确认他来取代杰罗姆·鲍威尔（Jerome Powell）。",
+          "summary": "北卡罗来纳州参议员托姆·蒂利斯（Thom Tillis）会见了联邦储备委员会主席候选人凯文·沃什（Kevin Warsh），后者是唐纳德·特朗普总统要取代现任主席杰罗姆·鲍威尔（Jerome Powell）的候选人。",
           "url": "https://www.cnbc.com/2026/03/10/fed-kevin-warsh-thom-tillis-trump.html",
           "title_en": "Tillis maintains blockade on Fed pick Kevin Warsh over Powell probe",
-          "summary_en": "President Trump tapped Kevin Warsh as the next chairman of the Federal Reserve. It's unclear if the Senate will confirm him soon to replace Jerome Powell."
+          "summary_en": "Sen. Thom Tillis met with Federal Reserve chairman nominee Kevin Warsh, who President Donald Trump wants to replace Chair Jerome Powell."
         },
         {
           "source": "CNBC-Top",
@@ -247,16 +237,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "如果伊朗战争持续，汽油价格可能再次突破5美元。",
-          "summary": "",
-          "url": "https://www.barrons.com/articles/gas-prices-crude-oil-iran-war-914666c7?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Why Gas Prices Could Top $5 Again if the Iran War Drags On"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
+          "time": "2026-03-11 06:00:12",
           "title": "WTI原油期货可能受地缘政治动荡和季节性需求的影响",
           "summary": "",
           "url": "https://finance.yahoo.com/news/wti-crude-oil-may-futures-130002288.html",
@@ -265,34 +246,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "伊朗冲突暴露了美国的弱点",
+          "time": "2026-03-11 06:00:12",
+          "title": "石油价格大幅上涨，向所有人发出强烈信号",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/iran-conflict-exposes-america-achilles-122107024.html",
-          "title_en": "Iran conflict exposes America’s Achilles’ heel"
+          "url": "https://finance.yahoo.com/news/oil-spike-sends-powerful-message-133300165.html",
+          "title_en": "Oil spike sends powerful message for everyone"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "一场与伊朗的长期战争可能意味着汽油价格的上涨。",
+          "time": "2026-03-11 06:00:12",
+          "title": "油价飙升基本上消除了市场“熔化”的任何机会，据一位华尔街老兵称。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/what-an-extended-war-with-iran-could-mean-for-gas-prices-225053494.html",
-          "title_en": "What an extended war with Iran could mean for gas prices"
+          "url": "https://finance.yahoo.com/news/spiking-oil-prices-basically-end-133200094.html",
+          "title_en": "Spiking oil prices basically end any chance of a market ‘melt-up,’ says this Wall Street veteran"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "本周3月9日，房贷利率最好的贷款机构：油价上涨推高房贷利率",
+          "time": "2026-03-11 06:00:12",
+          "title": "股市下跌，原油价格飙升至每桶100美元",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-march-9-2026-170834555.html",
-          "title_en": "Mortgage lenders with the best rates this week, March 9, 2026: Rising oil prices push mortgage rates back up"
+          "url": "https://finance.yahoo.com/news/stocks-fall-oil-prices-spike-140324434.html",
+          "title_en": "Stocks Fall as Oil Prices Spike up to $100 Per Barrel"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
+          "time": "2026-03-11 06:00:12",
           "title": "波音公司签下2890万美元的以色列合同，用于采购5000枚智能炸弹。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/boeing-signs-289-million-israel-contract-for-5000-smart-bombs-bloomberg-news-reports-4553098",
@@ -359,26 +340,6 @@
           "summary_en": "Cruise stocks were among the S&P 500’s biggest decliners since the Middle East conflict, and it’s not just about rising fuel prices"
         },
         {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-11 04:22:00",
-          "title": "石油期货跌超11%，能源部长考虑释放紧急原油储备。",
-          "summary": "石油期货于周二收盘大幅下跌，延续了前一交易日的跌势，世界领导人正在考虑释放紧急原油储备，伊朗冲突已经延续了11天。",
-          "url": "https://www.marketwatch.com/story/oil-futures-slide-8-as-energy-ministers-set-to-meet-on-emergency-reserves-035da30c?mod=mw_rss_topstories",
-          "title_en": "Oil futures lose more than 11%, as energy ministers consider release of emergency crude reserves",
-          "summary_en": "Oil futures settled sharply lower on Tuesday, extending losses from the overnight session, as world leaders considered releasing emergency crude supplies with the Iran conflict stretching into an 11th day."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-11 04:21:00",
-          "title": "10年期国债收益率下跌，低于关键水平，随着石油价格下跌，通胀恐惧减轻。",
-          "summary": "国债收益率周二上涨，但仍低于周一当油价大幅上涨引发通胀担忧时的水平。",
-          "url": "https://www.marketwatch.com/story/european-bonds-join-treasury-rally-as-lower-oil-prices-ease-inflation-fears-c317b735?mod=mw_rss_topstories",
-          "title_en": "10-year Treasury yield trades below key level after a drop in oil prices eases inflation fears",
-          "summary_en": "Treasury yields were edging up Tuesday, but traded below levels seen Monday when inflation fears tied to oil’s surge were rising."
-        },
-        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-11 04:20:44",
@@ -417,6 +378,36 @@
           "url": "https://www.cnbc.com/2026/03/10/iran-war-israel-ending-trump-democrats.html",
           "title_en": "'Forever war': Democrats rebut Trump's assertion that Iran war nearing end",
           "summary_en": "President Donald Trump on Monday suggested the war may be nearing an end, sending markets soaring and oil plummeting."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-11 01:09:31",
+          "title": "俄罗斯告诉特朗普，战争期间没有与伊朗共享情报，威特科夫说。",
+          "summary": "美国官员称，俄罗斯已向伊朗提供了可能帮助伊朗部队攻击中东美军资产的信息。",
+          "url": "https://www.cnbc.com/2026/03/10/iran-war-trump-russia-intelligence-witkoff.html",
+          "title_en": "Russia told Trump it has not shared intelligence with Iran during war, Witkoff says",
+          "summary_en": "U.S. officials have said Russia has given Iran information that could help its forces strike U.S. military assets in the Middle East, MS Now has reported."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-11 00:52:20",
+          "title": "欧洲股市大涨2%，油价下滑带来积极情绪",
+          "summary": "欧洲股市在周二反弹，投资者继续关注中东局势。",
+          "url": "https://www.cnbc.com/2026/03/10/european-markets-stoxx-600-ftse-dax-cac-iran-war-latest-news.html",
+          "title_en": "European stocks jump 2% as sliding oil prices buoy sentiment",
+          "summary_en": "European equities rebounded on Tuesday as traders continued to watch developments in the Middle East."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-10 23:33:42",
+          "title": "伊朗战争：赫格塞特说星期二将是我们最激烈的袭击日。",
+          "summary": "美国前总统唐纳德·特朗普周一预测，针对伊朗的战争将很快结束，并警告伊朗不要停止石油输出。",
+          "url": "https://www.cnbc.com/2026/03/10/iran-war-trump-hegseth-oil.html",
+          "title_en": "Iran war: Hegseth says Tuesday 'will be our most intense day of strikes'",
+          "summary_en": "President Donald Trump on Monday had predicted that the war against Iran would be over \"very soon,\" and warned that country against withholding oil afterward."
         }
       ]
     },
@@ -424,16 +415,6 @@
       "name": "特斯拉链",
       "badge": "TSLA chain",
       "items": [
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-11 03:07:00",
-          "title": "特斯拉和谷歌联合推出解决电费高涨的解决方案",
-          "summary": "大型科技巨头加入了一项联盟，旨在与美国立法者和监管者合作，利用更多的电网并降低成本。",
-          "url": "https://www.marketwatch.com/story/tesla-and-google-team-up-to-push-their-own-fix-for-rising-electricity-bills-3fca75bc?mod=mw_rss_topstories",
-          "title_en": "Tesla and Google team up to push their own fix for rising electricity bills",
-          "summary_en": "The Big Tech giants joined a coalition that aims to work with U.S. lawmakers and regulators to utilize more of the electric grid and lower costs."
-        },
         {
           "source": "CNBC-Tech",
           "ticker": "RSS",
@@ -453,43 +434,61 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "选择酒店国际（CHH）是否是一个盈利投资？",
+          "time": "2026-03-11 06:00:12",
+          "title": "为什么FirstService Corporation (FSV) 是一项投资机会？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/choice-hotels-international-chh-lucrative-125706863.html",
-          "title_en": "Is Choice Hotels International (CHH) a Lucrative Investment?"
+          "url": "https://finance.yahoo.com/news/makes-firstservice-corporation-fsv-investment-132835568.html",
+          "title_en": "What Makes FirstService Corporation (FSV) an Investment Bet?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "沃斯资本对其最大持仓的看法：Flywire (FLYW)",
+          "time": "2026-03-11 06:00:12",
+          "title": "LEN的长期收益潜力提高的因素",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/voss-capital-views-largest-position-125417495.html",
-          "title_en": "Voss Capital’s Views on Its Largest Position: Flywire (FLYW)"
+          "url": "https://finance.yahoo.com/news/improves-lennar-corporation-len-long-133026842.html",
+          "title_en": "Here’s What Improves Lennar Corporation’s (LEN) Long-Term Earnings Potential"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "苏茜·奥曼对仍然在退休期间继续支付最低还款额的信用卡债务的人有一个词：停止。",
+          "time": "2026-03-11 06:00:12",
+          "title": "特朗普在与派拉蒙的竞价战达到高潮时购买了Netflix和华纳兄弟债券。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/suze-orman-one-word-anyone-130802820.html",
-          "title_en": "Suze Orman Has One Word for Anyone Still Paying Minimum Payments on Credit Card Debt in Retirement"
+          "url": "https://finance.yahoo.com/news/trump-bought-netflix-warner-bros-132120706.html",
+          "title_en": "Trump bought Netflix and Warner Bros bonds at height of bidding war with Paramount"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "Cellebrite DI Ltd. (CLBT) 的竞争壁垒来自于其在数字forensics和调查领域的领先地位。",
+          "time": "2026-03-11 06:00:12",
+          "title": "布鲁克菲尔德公司（BN）宣布在第四季度收购奥克树资本",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/gives-cellebrite-di-ltd-clbt-125156107.html",
-          "title_en": "What Gives Cellebrite DI Ltd. (CLBT) a Competitive Moat?"
+          "url": "https://finance.yahoo.com/news/brookfield-corp-bn-announced-acquisition-132530201.html",
+          "title_en": "Brookfield Corp. (BN) Has Announced the Acquisition of Oaktree Capital in Q4"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
+          "time": "2026-03-11 06:00:12",
+          "title": "Hims & Hers 股票大幅上涨，诺华诺尔斯克（Novo Nordisk）协议结束了法律纠纷。",
+          "summary": "",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-09-2026/card/hims-hers-stock-surges-on-novo-deal-lasrlg1KR7kekxJwFVJG?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Hims & Hers Stock Surges as Novo Nordisk Deal Ends Legal Dispute"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 06:00:12",
+          "title": "雷亚诺亚（Rayonier）合并的影响",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/merger-affects-rayonier-ryn-132016636.html",
+          "title_en": "Here’s How the Merger Affects Rayonier (RYN)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 06:00:12",
           "title": "沙特阿拉伯石油公司在两座油田减产",
           "summary": "",
           "url": "https://finance.yahoo.com/news/exclusive-saudi-aramco-reducing-output-131447362.html",
@@ -498,119 +497,101 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "沃尔玛的Flipkart将总部转移到印度，以备上市",
+          "time": "2026-03-11 06:00:12",
+          "title": "第三大道房地产价值基金关于Fidelity National Financial (FNF) 的更新",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/walmarts-flipkart-shifts-india-prepares-124839840.html",
-          "title_en": "Walmart's Flipkart shifts base to India as it prepares for IPO"
+          "url": "https://finance.yahoo.com/news/third-avenue-real-estate-value-134554351.html",
+          "title_en": "Third Avenue Real Estate Value Fund’s Updates on Fidelity National Financial (FNF)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "PAR Technology Corporation（PAR）成为一线餐厅连锁店持久的投资者首选的原因",
+          "time": "2026-03-11 06:00:12",
+          "title": "巴基斯坦议会通过《虚拟资产法》2026年，结束了对加密货币的禁令，转而开始监管。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/makes-par-technology-corporation-par-124658023.html",
-          "title_en": "What Makes PAR Technology Corporation (PAR) a Persistent Mandate Winner from Tier-1 Restaurant Chains"
+          "url": "https://finance.yahoo.com/news/pakistan-moves-crypto-ban-regulation-133215277.html",
+          "title_en": "Pakistan Moves From Crypto Ban to Regulation as Parliament Passes Virtual Assets Act 2026"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "分析报告：Etsy Inc（ETSY）",
+          "time": "2026-03-11 06:00:12",
+          "title": "选择酒店国际（CHH）是否是一个盈利投资？",
           "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_5166_AnalystReport_1773164309000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Etsy Inc"
+          "url": "https://finance.yahoo.com/news/choice-hotels-international-chh-lucrative-125706863.html",
+          "title_en": "Is Choice Hotels International (CHH) a Lucrative Investment?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "这个工业股可能是隐藏的珍宝（以下是原因）",
+          "time": "2026-03-11 06:00:12",
+          "title": "德克萨斯州运营商塞尔纳运输公司（Serna's Trucking）申请了第11章破产保护。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/industrial-stock-could-hidden-gem-130500286.html",
-          "title_en": "This Industrial Stock Could Be a Hidden Gem (and Here's Why)"
+          "url": "https://finance.yahoo.com/news/texas-carrier-serna-trucking-files-134739274.html",
+          "title_en": "Texas carrier Serna’s Trucking files for Chapter 11 bankruptcy"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "Jensen Quality增长股权基金因估值过高而卖出Amphenol（APH）",
+          "time": "2026-03-11 06:00:12",
+          "title": "普罗洛吉斯（PLD）投资管理平台扩张",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jensen-quality-growth-equity-divested-124132400.html",
-          "title_en": "Jensen Quality Growth Equity Divested Amphenol (APH) Due to Elevated Valuation"
+          "url": "https://finance.yahoo.com/news/expands-prologis-pld-investment-management-134755503.html",
+          "title_en": "Here’s What Expands Prologis’ (PLD) Investment Management Platform"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "棉花价格周五继续上涨",
+          "time": "2026-03-11 06:00:12",
+          "title": "Netflix (NFLX) 的上市恢复，星巴克 (SBUX) 被下调：华尔街顶级分析师的呼吁",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/cotton-pushing-higher-friday-123725256.html",
-          "title_en": "Cotton Pushing Higher on Friday"
+          "url": "https://finance.yahoo.com/news/netflix-resumed-starbucks-downgraded-wall-133343741.html",
+          "title_en": "Netflix resumed, Starbucks downgraded: Wall Street's top analyst calls"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "麦类价格大涨将延续至周一",
+          "time": "2026-03-11 06:00:12",
+          "title": "即使在大幅上涨之后，分析师仍认为你应该购买SanDisk股票。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/wheat-rally-pushing-monday-morning-123724370.html",
-          "title_en": "Wheat Rally Pushing to Monday Morning"
+          "url": "https://finance.yahoo.com/news/even-monster-rally-analysts-still-134815775.html",
+          "title_en": "Even After a Monster Rally, Analysts Still Think You Should Buy Sandisk Stock"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "豆类持續上涨，周一早盘双位数涨幅",
+          "time": "2026-03-11 06:00:12",
+          "title": "沃斯资本对其最大持仓的看法：Flywire (FLYW)",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/soybeans-holding-double-digit-gains-123724332.html",
-          "title_en": "Soybeans Holding Double Digit Gains Early on Monday"
+          "url": "https://finance.yahoo.com/news/voss-capital-views-largest-position-125417495.html",
+          "title_en": "Voss Capital’s Views on Its Largest Position: Flywire (FLYW)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "市场更新：LNG、ETSY、MDB、OTIS",
+          "time": "2026-03-11 06:00:12",
+          "title": "五个州的税款退税延迟了。你的州是否也受到了影响？",
           "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46383_MarketUpdate_1773164309000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Market Update: LNG, ETSY, MDB, OTIS"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refund-delays-hit-5-states-is-yours-one-of-them-205225811.html",
+          "title_en": "Tax refund delays hit 5 states. Is yours one of them?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "欧洲三大股市抗周期波动的股票",
+          "time": "2026-03-11 06:00:12",
+          "title": "Cellebrite DI Ltd. (CLBT) 的竞争壁垒来自于其在数字forensics和调查领域的领先地位。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/3-european-stocks-riding-market-130700197.html",
-          "title_en": "3 European Stocks for Riding Out Market Volatility"
+          "url": "https://finance.yahoo.com/news/gives-cellebrite-di-ltd-clbt-125156107.html",
+          "title_en": "What Gives Cellebrite DI Ltd. (CLBT) a Competitive Moat?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "玉米价格周末继续上涨，周一早盘继续上涨。",
+          "time": "2026-03-11 06:00:12",
+          "title": "“蟑螂”组合：为什么这个5只ETF策略是退休人士在2026年衰退中的最佳防御",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/corn-extending-gains-monday-morning-123724905.html",
-          "title_en": "Corn Extending Gains to Monday Morning"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "特朗普家族成员持股的Aureus将与无人机制造商Powerus合并",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/trump-brothers-backed-aureus-merge-123728284.html",
-          "title_en": "Trump sons-backed Aureus to merge with drone maker Powerus"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 05:37:25",
-          "title": "雷亚诺亚（Rayonier）合并的影响",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/merger-affects-rayonier-ryn-132016636.html",
-          "title_en": "Here’s How the Merger Affects Rayonier (RYN)"
+          "url": "https://finance.yahoo.com/news/cockroach-portfolio-why-5-etf-133338859.html",
+          "title_en": "The “Cockroach” Portfolio: Why This 5-ETF Strategy Is Every Retiree’s Best Defense Against a 2026 Recession"
         }
       ]
     }
