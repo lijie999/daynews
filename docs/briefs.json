@@ -1,6 +1,6 @@
 {
   "date": "2026.03.11",
-  "generatedAtBJT": "2026-03-11 06:07:39",
+  "generatedAtBJT": "2026-03-11 06:38:00",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-11 06:07:39",
+          "time": "2026-03-11 06:38:00",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：油价飙升至每桶100美元，股市大幅下挫…\n- 宏观/Fed：关注以太坊价格突破2000美元，Tom Lee的BitMine累计投入9亿美元…\n- 科技/半导体：Applied Materials与Micron和SK Hynix达成合作伙伴关系…",
+          "summary": "- 地缘/避险：关注 Palantir 股价上涨17%一个月，伊朗紧张局势点燃防御股热潮…\n- 宏观/Fed：关注 Advance Auto Parts (AAP) 因通胀动态和消费者信心下降受损…\n- 科技/半导体：YCG 对 Meta Platforms (META) 的更新… 关键词：anthropic，meta，microsoft，oracle，pentagon\n- TSLA：关注 Amazon 的 Zoox 将机器人出租车测试扩展到 Phoenix 和 Dallas…",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Stocks Fall as Oil Prices Spike up to $100 Per Barrel…\n- 宏观/Fed：关注 Ethereum Rises to $2,000 as Tom Lee's BitMine Tops Up $9 Billion…\n- 科技/半导体：Applied Materials forges partnerships with Micron and SK Hynix f… 关键词: oracle, anthropic, pentagon, agent, agents\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
+          "summary_en": "- 地缘/避险：关注 Palantir Stock Up 17% in 1 Month as Iran Tensions Ignite Defense…\n- 宏观/Fed：关注 Advance Auto Parts (AAP) is Hurt by Inflation Dynamics and Consu…\n- 科技/半导体：YCG’s Updates on Meta Platforms (META)… 关键词: anthropic, meta, microsoft, oracle, pentagon\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
         }
       ]
     },
@@ -27,22 +27,31 @@
       "badge": "Mag7 / Semis",
       "items": [
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "应用材料与Micron和SK Hynix合作开发AI内存芯片",
+          "time": "2026-03-11 06:37:55",
+          "title": "YCG关于Meta Platforms（META）的更新",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/applied-materials-and-sk-hynix-partner-for-nextgen-ai-memory-development-4552992",
-          "title_en": "Applied Materials forges partnerships with Micron and SK Hynix for AI memory chips"
+          "url": "https://finance.yahoo.com/news/ycg-updates-meta-platforms-meta-145654406.html",
+          "title_en": "YCG’s Updates on Meta Platforms (META)"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "甲骨文预测人工智能泡沫将持续至至少2027年，股价上涨8%",
+          "time": "2026-03-11 06:37:55",
+          "title": "微软支持Anthropic在美国国防部（DOD）的供应链风险（supply-chain risk）指令案中递交了友方诉讼（amicus brief）",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/oracle-beats-quarterly-revenue-estimates-shares-rise-4552963",
-          "title_en": "Oracle sees AI boom through at least 2027, sending shares up 8%"
+          "url": "https://www.investing.com/news/stock-market-news/microsoft-files-amicus-brief-in-support-of-anthropics-lawsuit-with-us-dod-4553251",
+          "title_en": "Microsoft backs Anthropic in amicus brief to halt US DOD’s ’supply-chain risk’ designation"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 06:37:55",
+          "title": "应用材料与Micron和SK Hynix合作开发AI内存芯片",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/applied-materials-and-sk-hynix-partner-for-nextgen-ai-memory-development-4552992",
+          "title_en": "Applied Materials forges partnerships with Micron and SK Hynix for AI memory chips"
         },
         {
           "source": "CNBC-Top",
@@ -193,16 +202,6 @@
           "url": "https://www.cnbc.com/2026/03/09/anthropic-was-the-pentagons-choice-for-ai-now-its-banned-and-experts-are-worried.html",
           "title_en": "Anthropic was the Pentagon's choice for AI. Now it's banned and experts are worried",
           "summary_en": "Anthropic's partnerships with Amazon and Palantir helped it make inroads into the DOD, and its blacklisting is concerning to many industry experts."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-10 05:22:45",
-          "title": "OpenAI将收购安全性初创公司Promptfoo以更好地保护AI代理",
-          "summary": "Promptfoo团队将加入Sam Altman领导的OpenAI，技术将整合到AI代理平台Frontier中。",
-          "url": "https://www.cnbc.com/2026/03/09/open-ai-cybersecurity-promptfoo-ai-agents.html",
-          "title_en": "OpenAI to buy cybersecurity startup Promptfoo to better safeguard AI agents",
-          "summary_en": "Promptfoo's team will join Sam Altman-led OpenAI, and its technology will be integrated into the Frontier platform for AI agents."
         }
       ]
     },
@@ -213,16 +212,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "以太坊价格上涨至2,000美元，Tom Lee的BitMine补充了9亿美元的ETH储备。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/ethereum-rises-2-000-tom-135631681.html",
-          "title_en": "Ethereum Rises to $2,000 as Tom Lee's BitMine Tops Up $9 Billion ETH Treasury"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
+          "time": "2026-03-11 06:37:55",
           "title": "Advance Auto Parts (AAP) 因通胀动态和消费者行为受损",
           "summary": "",
           "url": "https://finance.yahoo.com/news/advance-auto-parts-aap-hurt-141842693.html",
@@ -257,34 +247,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "股市下跌，原油价格飙升至每桶100美元",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/stocks-fall-oil-prices-spike-140324434.html",
-          "title_en": "Stocks Fall as Oil Prices Spike up to $100 Per Barrel"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "石油价格上涨，道指下跌因伊朗战争恐惧",
-          "summary": "",
-          "url": "https://www.wsj.com/livecoverage/iran-war-us-israel-trump-2026/card/oil-prices-rise-dow-drops-amid-fears-over-iran-war-xdWvb4xH0PJjIQAPdNLA?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Oil Prices Rise, Dow Drops Amid Fears Over Iran War"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "伊朗战争爆发以来受损最严重的两只股票再度下跌。为什么仍有希望。",
-          "summary": "",
-          "url": "https://www.barrons.com/articles/carnival-norwegian-united-airlines-travel-stocks-iran-ff002355?siteid=yhoof2&yptr=yahoo",
-          "title_en": "The 2 Worst-Hit Stocks Since the Iran War Started Drop Again. Why There’s Hope."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
+          "time": "2026-03-11 06:37:55",
           "title": "帕拉尼特股价上涨17%一个月，伊朗紧张局势点燃了防御AI的繁荣",
           "summary": "",
           "url": "https://finance.yahoo.com/news/palantir-stock-17-1-month-143002006.html",
@@ -293,16 +256,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "油价上涨是否会迫使比特币价格下跌？以下四个原因表明BTC可能面临危险",
+          "time": "2026-03-11 06:37:55",
+          "title": "本周前瞻：石油价格大幅上涨和中东局势紧张将影响市场",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/rising-oil-prices-force-bitcoin-135003872.html",
-          "title_en": "Will Rising Oil Prices Force Bitcoin Price Lower? Here's 4 Reasons BTC Could Be In Danger"
+          "url": "https://finance.yahoo.com/news/week-ahead-oil-surge-middle-142700813.html",
+          "title_en": "Week Ahead: Oil surge and Middle East tensions set the market tone"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
+          "time": "2026-03-11 06:37:55",
+          "title": "股市下跌，原油价格飙升至每桶100美元",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/stocks-fall-oil-prices-spike-140324434.html",
+          "title_en": "Stocks Fall as Oil Prices Spike up to $100 Per Barrel"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 06:37:55",
+          "title": "当美元和能源价格因伊朗战争持续升高时，立即进行这个交易",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/dollar-energy-prices-spike-continued-144832877.html",
+          "title_en": "As the Dollar and Energy Prices Spike on Continued Iran War, Make This 1 Trade Now"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 06:37:55",
           "title": "一场与伊朗的长期战争可能意味着汽油价格的上涨。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/what-an-extended-war-with-iran-could-mean-for-gas-prices-225053494.html",
@@ -311,20 +292,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
+          "time": "2026-03-11 06:37:55",
           "title": "本周3月9日，房贷利率最好的贷款机构：油价上涨推高房贷利率",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-march-9-2026-170834555.html",
           "title_en": "Mortgage lenders with the best rates this week, March 9, 2026: Rising oil prices push mortgage rates back up"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "波音公司签下2890万美元的以色列合同，用于采购5000枚智能炸弹。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/boeing-signs-289-million-israel-contract-for-5000-smart-bombs-bloomberg-news-reports-4553098",
-          "title_en": "Boeing signs $289 million Israel contract for 5,000 smart bombs, source says"
         },
         {
           "source": "MarketWatch-Top",
@@ -425,6 +397,26 @@
           "url": "https://www.cnbc.com/2026/03/10/iea-g7-oil-iran-war-strait-hormuz.html",
           "title_en": "IEA countries to meet later Tuesday on release of oil reserves, but no decision made yet",
           "summary_en": "The IEA's members are advanced economies in North America, Europe and Northeast Asia. They collectively hold about 1.2 billion barrels of oil in reserve."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-10 22:34:07",
+          "title": "伊朗为对邻国的袭击辩护 — 但他们说信任已经破裂",
+          "summary": "伊朗对其针对邻国的袭击进行了辩护，但邻国表示，这些袭击已经损害了长期的信任。",
+          "url": "https://www.cnbc.com/2026/03/10/iran-strikes-gulf-neighbors-us-assets-oil-infrastructure.html",
+          "title_en": "Iran defends strikes on Gulf neighbors — but they say trust is broken",
+          "summary_en": "Iran has defended its strikes against its Gulf countries but its neighbors say attacks have damaged trust for a long time."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-10 22:22:39",
+          "title": "印度餐厅因伊朗战争导致的LPG供应紧张而面临威胁",
+          "summary": "印度餐厅面临关闭，因为政府限制了LPG的供应，作为烹饪燃料，行业代表向CNBC透露。",
+          "url": "https://www.cnbc.com/2026/03/10/-iran-war-lpg-disruption-india-restaurants.html",
+          "title_en": "India's restaurants are under threat from the LPG supply crunch caused by the Iran war",
+          "summary_en": "Restaurants in India are facing closure as the government restricts the supply of LPG as cooking fuel, industry representatives tell CNBC."
         }
       ]
     },
@@ -451,133 +443,79 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "奢侈品的复苏？ 为什么一家领先的银行认为该行业即将反弹",
+          "time": "2026-03-11 06:37:55",
+          "title": "财务顾问的幸福指数正在上升，Kitces研究显示。更高的工资有所帮助。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/luxury-comeback-why-one-leading-135600894.html",
-          "title_en": "Luxury’s comeback? Why one leading bank thinks the sector is about to rebound"
+          "url": "https://www.barrons.com/advisor/articles/financial-advisor-well-being-kitces-research-69b57451?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Financial Advisor Well-Being Is on the Rise, Kitces Research Shows. Higher Pay Helps."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "库尔德·莫根(Kinder Morgan)股票是否优于道瓊指數(Dow)?",
+          "time": "2026-03-11 06:37:55",
+          "title": "iMGP小型公司基金对AppFolio（APPF）的看法",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/kinder-morgan-stock-outperforming-dow-135737122.html",
-          "title_en": "Is Kinder Morgan Stock Outperforming the Dow?"
+          "url": "https://finance.yahoo.com/news/imgp-small-company-fund-views-142111558.html",
+          "title_en": "iMGP Small Company Fund’s Views on AppFolio (APPF)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "五个州的税款退税延迟了。你的州是否也受到了影响？",
+          "time": "2026-03-11 06:37:55",
+          "title": "Paychex 股票：PAYX是否低于技术行业表现？",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refund-delays-hit-5-states-is-yours-one-of-them-205225811.html",
-          "title_en": "Tax refund delays hit 5 states. Is yours one of them?"
+          "url": "https://finance.yahoo.com/news/paychex-stock-payx-underperforming-technology-141959853.html",
+          "title_en": "Paychex Stock: Is PAYX Underperforming the Technology Sector?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "Monster能源饮料股：MNST是否低于消费类日用品行业的表现？",
+          "time": "2026-03-11 06:37:55",
+          "title": "Live Nation与美国司法部达成和解，放弃控告。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/monster-beverage-stock-mnst-underperforming-140015771.html",
-          "title_en": "Monster Beverage Stock: Is MNST Underperforming the Consumer Staples Sector?"
+          "url": "https://finance.yahoo.com/news/live-nation-settles-us-antitrust-114457235.html",
+          "title_en": "Live Nation reaches settlement with DOJ in antitrust case"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "即使在大幅上涨之后，分析师仍认为你应该购买SanDisk股票。",
+          "time": "2026-03-11 06:37:55",
+          "title": "RBC Bearings (RBC) 突破，业绩超出预期",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/even-monster-rally-analysts-still-134815775.html",
-          "title_en": "Even After a Monster Rally, Analysts Still Think You Should Buy Sandisk Stock"
+          "url": "https://finance.yahoo.com/news/rbc-bearings-rbc-surged-results-141628395.html",
+          "title_en": "RBC Bearings (RBC) Surged as Results Exceeded Expectations"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "加密新闻：孙宇晨10万美元的和解和75万美元的转折点，SEC的压力神秘地似乎放松了",
+          "time": "2026-03-11 06:37:55",
+          "title": "普利德森金融的股票表现如何与其他保险股相比？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/crypto-news-justin-sun-10m-135439009.html",
-          "title_en": "Crypto News: Justin Sun’s $10M Settlement and $75M Twist, SEC Pressure Mysteriously Appears to Ease"
+          "url": "https://finance.yahoo.com/news/prudential-financials-stock-performance-compared-141451959.html",
+          "title_en": "How Is Prudential Financial's Stock Performance Compared to Other Insurance Stocks?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "普罗洛吉斯（PLD）投资管理平台扩张",
+          "time": "2026-03-11 06:37:55",
+          "title": "伯克希尔哈撒韦正在回购股票。为什么投资者现在要关注这个信号。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/expands-prologis-pld-investment-management-134755503.html",
-          "title_en": "Here’s What Expands Prologis’ (PLD) Investment Management Platform"
+          "url": "https://finance.yahoo.com/news/berkshire-hathaway-buying-back-stock-143347950.html",
+          "title_en": "Berkshire Hathaway Is Buying Back Stock. Why That’s a Key Signal for Investors to Watch Now."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "普罗洛吉斯股价：PLD是否优于房地产行业？",
+          "time": "2026-03-11 06:37:55",
+          "title": "上周三只股票创下新高",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/prologis-stock-pld-outperforming-real-140156302.html",
-          "title_en": "Prologis Stock: Is PLD Outperforming the Real Estate Sector?"
+          "url": "https://finance.yahoo.com/news/3-surprising-stocks-hit-fresh-142700748.html",
+          "title_en": "3 Surprising Stocks That Hit Fresh Highs Last Week"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "德克萨斯州运营商塞尔纳运输公司（Serna's Trucking）申请了第11章破产保护。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/texas-carrier-serna-trucking-files-134739274.html",
-          "title_en": "Texas carrier Serna’s Trucking files for Chapter 11 bankruptcy"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "是否说人寿保险公司的股票低于S&P 500指数的表现？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/humana-stock-underperforming-p-500-140227601.html",
-          "title_en": "Is Humana Stock Underperforming the S&P 500?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "第三大道房地产价值基金关于Fidelity National Financial (FNF) 的更新",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/third-avenue-real-estate-value-134554351.html",
-          "title_en": "Third Avenue Real Estate Value Fund’s Updates on Fidelity National Financial (FNF)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "SanDisk的股票表现与其他科技股相比如何？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/sandisks-stock-performance-compared-other-140628956.html",
-          "title_en": "How Is Sandisk's Stock Performance Compared to Other Technology Stocks?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "涅斯莱公司调整奖金结构",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/nestl-overhauls-bonus-structure-140840364.html",
-          "title_en": "Nestlé Overhauls Bonus Structure"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "卡夫海因茨股价是否低于纳斯达克指数",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/kraft-heinz-stock-underperforming-nasdaq-140940804.html",
-          "title_en": "Is Kraft Heinz Stock Underperforming the Nasdaq?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
+          "time": "2026-03-11 06:37:55",
           "title": "Alphabet 股票是否优于 S&P 500?",
           "summary": "",
           "url": "https://finance.yahoo.com/news/alphabet-stock-outperforming-p-500-141054792.html",
@@ -586,7 +524,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
+          "time": "2026-03-11 06:37:55",
           "title": "Netflix（NFLX）联合创始人雷德·哈斯汀斯（Reed Hastings）突然卖出价值 4,000 万美元的 Netflix 股票。您是否也应该抛售 NFLX 股票？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/co-founder-reed-hastings-just-141055590.html",
@@ -595,20 +533,74 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "LEN的长期收益潜力提高的因素",
+          "time": "2026-03-11 06:37:55",
+          "title": "卡夫海因茨股价是否低于纳斯达克指数",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/improves-lennar-corporation-len-long-133026842.html",
-          "title_en": "Here’s What Improves Lennar Corporation’s (LEN) Long-Term Earnings Potential"
+          "url": "https://finance.yahoo.com/news/kraft-heinz-stock-underperforming-nasdaq-140940804.html",
+          "title_en": "Is Kraft Heinz Stock Underperforming the Nasdaq?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 06:07:35",
-          "title": "SFL签署了价值1.7亿加元的加拿大钻井合同，用于赫克力斯rig。",
+          "time": "2026-03-11 06:37:55",
+          "title": "涅斯莱公司调整奖金结构",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/sfl-signs-170m-canadian-drilling-135258839.html",
-          "title_en": "SFL signs $170m Canadian drilling contract for Hercules rig"
+          "url": "https://finance.yahoo.com/news/nestl-overhauls-bonus-structure-140840364.html",
+          "title_en": "Nestlé Overhauls Bonus Structure"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 06:37:55",
+          "title": "星巴克被下调评级，而Brinker和Wingstop则获得了积极的分析师评估。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/starbucks-gets-downgraded-while-brinker-142553351.html",
+          "title_en": "Starbucks Gets Downgraded While Brinker and Wingstop Earn Bullish Analyst Calls"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 06:37:55",
+          "title": "SanDisk的股票表现与其他科技股相比如何？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/sandisks-stock-performance-compared-other-140628956.html",
+          "title_en": "How Is Sandisk's Stock Performance Compared to Other Technology Stocks?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 06:37:55",
+          "title": "是否说人寿保险公司的股票低于S&P 500指数的表现？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/humana-stock-underperforming-p-500-140227601.html",
+          "title_en": "Is Humana Stock Underperforming the S&P 500?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 06:37:55",
+          "title": "普罗洛吉斯股价：PLD是否优于房地产行业？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/prologis-stock-pld-outperforming-real-140156302.html",
+          "title_en": "Prologis Stock: Is PLD Outperforming the Real Estate Sector?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 06:37:55",
+          "title": "纳斯达克与克拉肯合作，将股票带上链",
+          "summary": "",
+          "url": "https://finance.yahoo.com/video/nasdaq-teams-kraken-bring-stocks-142748161.html",
+          "title_en": "Nasdaq teams with Kraken to bring stocks on-chain"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 06:37:55",
+          "title": "Monster能源饮料股：MNST是否低于消费类日用品行业的表现？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/monster-beverage-stock-mnst-underperforming-140015771.html",
+          "title_en": "Monster Beverage Stock: Is MNST Underperforming the Consumer Staples Sector?"
         }
       ]
     }
