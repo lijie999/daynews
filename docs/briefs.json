@@ -1,6 +1,6 @@
 {
   "date": "2026.03.11",
-  "generatedAtBJT": "2026-03-11 04:30:23",
+  "generatedAtBJT": "2026-03-11 04:36:56",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-11 04:30:23",
+          "time": "2026-03-11 04:36:56",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：伊朗局势升级，可能导致下个月汽油价格达到4美元。\n- 宏观/Fed：科罗拉多州因极端天气而导致房屋保险费大幅上涨。\n- 科技/半导体：凯西伍德通过这只股票推动了美国与中国之间的AI竞争。\n- TSLA：特斯拉和谷歌联合推出解决电动汽车成本上涨问题的解决方案。",
+          "summary": "- 地缘/避险：伊朗局势升级，预计下个月汽油价格将达到4美元。\n- 宏观/Fed：科罗拉多州房屋保险费飙升，受狂风天气影响。\n- 科技/半导体：苹果有能力收购500强公司中的任何一家——包括亚马逊、谷歌、甲骨文等。\n- TSLA：特斯拉和谷歌联合推出解决电动汽车成本高企问题的方案。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Gas prices could hit $4 in the next month as war in Iran escalat…\n- 宏观/Fed：关注 Colorado home insurance rates are spiking due to wild weather. H…\n- 科技/半导体：Cathie Wood Is Fueling the U.S.-China AI Race with This 1 Stock … 关键词: amazon, billion, google, agent, agents\n- TSLA：关注 Tesla and Google team up to push their own fix for rising electr…"
+          "summary_en": "- 地缘/避险：关注 Gas prices could hit $4 in the next month as war in Iran escalat…\n- 宏观/Fed：关注 Colorado home insurance rates are spiking due to wild weather. H…\n- 科技/半导体：Apple Could Have Purchased Any of 488 S&P 500 Companies -- Inste… 关键词: amazon, billion, google, oracle, agent\n- TSLA：关注 Tesla and Google team up to push their own fix for rising electr…"
         }
       ]
     },
@@ -29,25 +29,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
-          "title": "凯西伍德正通过这1只股票助力美国与中国的AI竞赛",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/cathie-wood-fueling-u-china-113002209.html",
-          "title_en": "Cathie Wood Is Fueling the U.S.-China AI Race with This 1 Stock Buy"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
+          "time": "2026-03-11 04:36:52",
           "title": "苹果(Apple)有可能收购任何一家S&P 500公司中的488家——但它选择了一个激进的$8410亿美元投资。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/apple-could-purchased-488-p-115600782.html",
           "title_en": "Apple Could Have Purchased Any of 488 S&P 500 Companies -- Instead, It's Made an Aggressive $841 Billion Investment"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 04:36:52",
+          "title": "凯西伍德正通过这1只股票助力美国与中国的AI竞赛",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/cathie-wood-fueling-u-china-113002209.html",
+          "title_en": "Cathie Wood Is Fueling the U.S.-China AI Race with This 1 Stock Buy"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
+          "time": "2026-03-11 04:36:52",
+          "title": "甲骨文超出季度收入预期，受人工智能驱动的需求推动股价上涨",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/oracle-beats-quarterly-revenue-estimates-shares-rise-4552963",
+          "title_en": "Oracle beats quarterly revenue estimates on AI-driven demand, shares rise"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 04:36:52",
           "title": "应用材料和SK Hynix合作开发下一代AI记忆技术",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/applied-materials-and-sk-hynix-partner-for-nextgen-ai-memory-development-4552992",
@@ -56,12 +65,12 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-11 04:29:47",
+          "time": "2026-03-11 04:33:53",
           "title": "甲骨文股价跃升7%，因业绩超预期和云服务收入增长44%而上涨。",
-          "summary": "甲骨文公司（Oracle）交付了快速的云增长，涵盖了应用和基础设施。",
+          "summary": "甲骨文公司在二月季度期间将其收入订单总额提高了300亿美元。",
           "url": "https://www.cnbc.com/2026/03/10/oracle-orcl-q3-earnings-report-2026.html",
           "title_en": "Oracle stock jumps 7% on earnings beat and increased guidance as cloud revenue climbs 44%",
-          "summary_en": "Oracle delivered fast cloud growth, across applications in infrastructure."
+          "summary_en": "Oracle boosted its revenue backlog total by $30 billion during the February quarter."
         },
         {
           "source": "CNBC-Top",
@@ -192,16 +201,6 @@
           "url": "https://www.cnbc.com/2026/03/09/open-ai-cybersecurity-promptfoo-ai-agents.html",
           "title_en": "OpenAI to buy cybersecurity startup Promptfoo to better safeguard AI agents",
           "summary_en": "Promptfoo's team will join Sam Altman-led OpenAI, and its technology will be integrated into the Frontier platform for AI agents."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-09 21:00:01",
-          "title": "微软推出高价 Office 等级，Copilot作为其试图通过 AI 增强销售的努力",
-          "summary": "微软365E7包含Copilot，以及身份、管理和安全功能，这些功能可能会让更多的企业采用AI。",
-          "url": "https://www.cnbc.com/2026/03/09/microsoft-office-365-e7-copilot-ai.html",
-          "title_en": "Microsoft adds higher-priced Office tier with Copilot as it tries to juice sales with AI",
-          "summary_en": "Microsoft 365 E7 comes with Copilot, as well as identity, management and security features that might make more businesses adopt AI."
         }
       ]
     },
@@ -212,7 +211,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
+          "time": "2026-03-11 04:36:52",
           "title": "科罗拉多州房屋保险费率因野火天气而飙升，如何在风暴中保护您的保险费",
           "summary": "",
           "url": "https://finance.yahoo.com/news/colorado-home-insurance-rates-spiking-120000104.html",
@@ -221,7 +220,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
+          "time": "2026-03-11 04:36:52",
           "title": "欧罗巴海运有限公司（ESEA）利用集装箱船租赁费率上涨",
           "summary": "",
           "url": "https://finance.yahoo.com/news/euroseas-ltd-esea-capitalizing-higher-110953688.html",
@@ -256,25 +255,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
+          "time": "2026-03-11 04:36:52",
           "title": "伊朗局势升级，可能导致下个月汽油价格达到4美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/gas-prices-could-hit-4-in-the-next-month-as-war-in-iran-escalates-114410608.html",
           "title_en": "Gas prices could hit $4 in the next month as war in Iran escalates"
         },
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
-          "title": "加拿大托伦托证券交易所（TSX）上涨，因为市场在伊朗战争的不确定性中摸索。",
+          "time": "2026-03-11 04:36:52",
+          "title": "这张令人惊讶的S&P 500图表暗示着泡沫正在破裂——而这并不是因为伊朗。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/tsx-futures-point-lower-as-uncertainty-hovers-over-iran-war-4551920",
-          "title_en": "TSX higher as market navigates uncertainty over Iran war"
+          "url": "https://finance.yahoo.com/news/uncanny-p-500-chart-suggests-120100221.html",
+          "title_en": "This ‘uncanny’ S&P 500 chart suggests a bubble is bursting — and not just because of Iran"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
+          "time": "2026-03-11 04:36:52",
           "title": "特朗普愤怒，据报道伊朗在霍尔木兹海峡种下了地雷。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/trump-angered-after-reports-iran-mined-strait-of-hormuz-4552902",
@@ -283,20 +282,21 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
-          "title": "华尔街在伊朗冲突结束时间表不明朗的情况下微幅下跌",
+          "time": "2026-03-11 04:36:52",
+          "title": "华尔街在伊朗冲突结束时的不确定性下微幅下跌",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-climb-oil-declines-as-trump-says-iran-war-to-end-soon-4551561",
-          "title_en": "Wall Street ends marginally lower amid uncertainty over Iran conflict end"
+          "title_en": "Wall Street closes marginally lower amid uncertainty over Iran conflict end"
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
-          "title": "伊朗罢工最为严重的一天，尽管市场预期战争即将结束",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/iran-says-oil-blockade-will-continue-until-attacks-end-trump-threatens-to-hit-harder-4551008",
-          "title_en": "Heaviest day of strikes yet on Iran despite market bets that war will end soon"
+          "time": "2026-03-11 04:32:15",
+          "title": "石油价格仍然下跌，尽管能源部长错误地声称美国海军护送了一艘油轮通过霍尔木兹海峡。",
+          "summary": "国际能源局将于周二举行特别会议，讨论可能的紧急储备释放。",
+          "url": "https://www.cnbc.com/2026/03/10/crude-oil-prices-today-iran-war.html",
+          "title_en": "Oil retreats even after Energy Secretary wrongly claims Navy escorted tanker through Strait of Hormuz",
+          "summary_en": "The International Energy Agency will hold an extraodrinary meeting on Tuesday to discuss a possible release of emergency stockpiles."
         },
         {
           "source": "MarketWatch-Top",
@@ -347,16 +347,6 @@
           "url": "https://www.cnbc.com/2026/03/10/us-treasury-yields-trump-warns-iran-hormuz-flows.html",
           "title_en": "10-year Treasury yield is little changed as oil tumbles after Trump warns Iran over Hormuz flows",
           "summary_en": "The 10-year Treasury yield was flat as oil prices tumbled after Trump warned that Iran would be hit harder if it tried to halt Strait of Hormuz shipments."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-11 03:56:24",
-          "title": "石油价格仍然下跌，尽管能源部长错误地声称美国海军护送了一艘油轮通过霍尔木兹海峡。",
-          "summary": "国际能源局将于周二举行特别会议，讨论可能的紧急储备释放。",
-          "url": "https://www.cnbc.com/2026/03/10/crude-oil-prices-today-iran-war.html",
-          "title_en": "Oil retreats even after Energy Secretary wrongly claims Navy escorted tanker through Strait of Hormuz",
-          "summary_en": "The International Energy Agency will hold an extraodrinary meeting on Tuesday to discuss a possible release of emergency stockpiles."
         },
         {
           "source": "CNBC-Top",
@@ -427,6 +417,16 @@
           "url": "https://www.cnbc.com/2026/03/10/iea-g7-oil-iran-war-strait-hormuz.html",
           "title_en": "IEA countries to meet later Tuesday on release of oil reserves, but no decision made yet",
           "summary_en": "The IEA's members are advanced economies in North America, Europe and Northeast Asia. They collectively hold about 1.2 billion barrels of oil in reserve."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-10 22:34:07",
+          "title": "伊朗为对邻国的袭击辩护 — 但他们说信任已经破裂",
+          "summary": "伊朗对其针对邻国的袭击进行了辩护，但邻国表示，这些袭击已经损害了长期的信任。",
+          "url": "https://www.cnbc.com/2026/03/10/iran-strikes-gulf-neighbors-us-assets-oil-infrastructure.html",
+          "title_en": "Iran defends strikes on Gulf neighbors — but they say trust is broken",
+          "summary_en": "Iran has defended its strikes against its Gulf countries but its neighbors say attacks have damaged trust for a long time."
         }
       ]
     },
@@ -463,25 +463,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
-          "title": "瑞典咨询公司Söderberg & Partners收购了英国三家咨询公司的股份。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/derberg-partners-takes-stake-three-115039524.html",
-          "title_en": "Söderberg & Partners takes stake in three UK adviser firms"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
-          "title": "信息服务集团（III）公布第四季度营收61.2亿美元，调整EBITDA增长24%",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/information-services-group-iii-reports-114745095.html",
-          "title_en": "Information Services Group (III) Reports $61.2M Q4 Revenue, 24% Adjusted EBITDA Growth"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
+          "time": "2026-03-11 04:36:52",
           "title": "区域管理公司(RM)与Column N.A.合作，共同加速业务增长",
           "summary": "",
           "url": "https://finance.yahoo.com/news/regional-management-rm-partners-column-114558963.html",
@@ -490,16 +472,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
-          "title": "Cooper-Standard Holdings (CPS) 公布 2025 年销售额 274 亿美元，调整 EBITDA 209.7 亿美元",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/cooper-standard-holdings-cps-reports-114627941.html",
-          "title_en": "Cooper-Standard Holdings (CPS) Reports $2.74B Sales and $209.7M Adjusted EBITDA for 2025"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
+          "time": "2026-03-11 04:36:52",
           "title": "吉布拉尔达公司（ROCK）第四季度净销售额增长17%，库存订单增加102%",
           "summary": "",
           "url": "https://finance.yahoo.com/news/gibraltar-industries-rock-reports-17-114708221.html",
@@ -508,25 +481,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
-          "title": "Peloton Interactive (PTON) 公布了 81 亿美元的调整 EBITDA，净债务减少 52%",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/peloton-interactive-pton-reports-81m-114717436.html",
-          "title_en": "Peloton Interactive (PTON) Reports $81M Adjusted EBITDA, 52% Net Debt Reduction"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
-          "title": "O-I玻璃（OI）公布2025年调整每股收益1.60美元，实现3000万美元的“适合胜利”（Fit to Win）效益。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/o-glass-oi-reports-1-114813084.html",
-          "title_en": "O-I Glass (OI) Reports $1.60 Adjusted EPS, $300M in ‘Fit to Win’ Benefits for 2025"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
+          "time": "2026-03-11 04:36:52",
           "title": "Alight (ALIT)整合VB Scout Tech以增强索赔监控",
           "summary": "",
           "url": "https://finance.yahoo.com/news/alight-alit-integrates-vb-scout-114635120.html",
@@ -535,34 +490,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
-          "title": "Blue Owl Capital (OWL) 超过 3000亿美元资产管理规模，第四季度2025年EPS为0.24美元。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/blue-owl-capital-owl-surpasses-114726242.html",
-          "title_en": "Blue Owl Capital (OWL) Surpasses $300B AUM With $0.24 Q4 2025 EPS"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
-          "title": "分析报告：MongoDB Inc",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_5848_AnalystReport_1773164309000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: MongoDB Inc"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
-          "title": "巴西巴ANC（Banco do Brasil）推出在阿根廷使用Pix支付服务",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/banco-brasil-enables-pix-payment-114852491.html",
-          "title_en": "Banco do Brasil enables Pix payment in Argentina"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
+          "time": "2026-03-11 04:36:52",
           "title": "维斯特拉(VST)在德克萨斯州扩大虚拟发电厂业务，合作伙伴为恩派斯能源(ENPH)",
           "summary": "",
           "url": "https://finance.yahoo.com/news/vistra-vst-expands-virtual-power-114645195.html",
@@ -571,16 +499,79 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
-          "title": "KKR & Co. (KKR) 公布 1290 亿美元募资，第四季度费用相关收益 9720 万美元。",
+          "time": "2026-03-11 04:36:52",
+          "title": "卡森集团（Carson Group）收购零度财富工作室（ZeroCelsius Wealth Studio）。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/kkr-co-kkr-reports-129b-114802305.html",
-          "title_en": "KKR & Co. (KKR) Reports $129B Fundraising, $972M Q4 Fee-Related Earnings"
+          "url": "https://finance.yahoo.com/news/carson-group-takes-over-zerocelsius-115133172.html",
+          "title_en": "Carson Group takes over ZeroCelsius Wealth Studio"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
+          "time": "2026-03-11 04:36:52",
+          "title": "信息服务集团（III）公布第四季度营收61.2亿美元，调整EBITDA增长24%",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/information-services-group-iii-reports-114745095.html",
+          "title_en": "Information Services Group (III) Reports $61.2M Q4 Revenue, 24% Adjusted EBITDA Growth"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 04:36:52",
+          "title": "Peloton Interactive (PTON) 公布了 81 亿美元的调整 EBITDA，净债务减少 52%",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/peloton-interactive-pton-reports-81m-114717436.html",
+          "title_en": "Peloton Interactive (PTON) Reports $81M Adjusted EBITDA, 52% Net Debt Reduction"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 04:36:52",
+          "title": "Cooper-Standard Holdings (CPS) 公布 2025 年销售额 274 亿美元，调整 EBITDA 209.7 亿美元",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/cooper-standard-holdings-cps-reports-114627941.html",
+          "title_en": "Cooper-Standard Holdings (CPS) Reports $2.74B Sales and $209.7M Adjusted EBITDA for 2025"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 04:36:52",
+          "title": "是否自动数据处理股票低于纳斯达克指数?",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/automatic-data-processing-stock-underperforming-115150011.html",
+          "title_en": "Is Automatic Data Processing Stock Underperforming the Nasdaq?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 04:36:52",
+          "title": "分析报告：Etsy Inc（ETSY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_5166_AnalystReport_1773164309000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Etsy Inc"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 04:36:52",
+          "title": "全球抛售潮席卷，动量交易迅速撤离",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/momentum-trades-rapidly-unwind-global-114950502.html",
+          "title_en": "Momentum Trades Rapidly Unwind as Global Selloff Takes Hold"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 04:36:52",
+          "title": "美国航空公司(AAL)宣布1亿美元扩建计划，针对迈阿密国际机场。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/american-airlines-aal-unveils-1b-114754696.html",
+          "title_en": "American Airlines (AAL) Unveils $1B Expansion Plan for Miami International Airport"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 04:36:52",
           "title": "Quanex Building Products (NX) 公布2026第一季度销售409.1亿美元，调整后EBITDA27.4亿美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/quanex-building-products-nx-reports-114734248.html",
@@ -589,7 +580,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
+          "time": "2026-03-11 04:36:52",
           "title": "Gorilla Technology Group (GRRR) 2025年实现101.4亿美元收入",
           "summary": "",
           "url": "https://finance.yahoo.com/news/gorilla-technology-group-grrr-hits-114609617.html",
@@ -598,7 +589,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
+          "time": "2026-03-11 04:36:52",
+          "title": "Blue Owl Capital (OWL) 超过 3000亿美元资产管理规模，第四季度2025年EPS为0.24美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/blue-owl-capital-owl-surpasses-114726242.html",
+          "title_en": "Blue Owl Capital (OWL) Surpasses $300B AUM With $0.24 Q4 2025 EPS"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 04:36:52",
           "title": "市场更新：LNG、ETSY、MDB、OTIS",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46383_MarketUpdate_1773164309000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -607,20 +607,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
-          "title": "路德银行计划加强数据商业化和治理自动化",
+          "time": "2026-03-11 04:36:52",
+          "title": "纳斯达克计划设计股权令牌，合作伙伴为克拉肯母公司",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/lloyds-boost-data-commercialisation-governance-115335643.html",
-          "title_en": "Lloyds to boost data commercialisation and governance automation- report"
+          "url": "https://finance.yahoo.com/news/nasdaq-plans-equity-token-design-115828121.html",
+          "title_en": "Nasdaq Plans Equity-Token Design, Partnering With Kraken Parent"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 04:30:19",
-          "title": "Genasys (GNSS) 获得了 2.0 万美元的订单，为新加坡海军无人水面舰艇通信系统提供支持。",
+          "time": "2026-03-11 04:36:52",
+          "title": "O-I玻璃（OI）公布2025年调整每股收益1.60美元，实现3000万美元的“适合胜利”（Fit to Win）效益。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/genasys-gnss-secures-2-0m-114616003.html",
-          "title_en": "Genasys (GNSS) Secures $2.0M Order for Singapore Navy USV Communication Systems"
+          "url": "https://finance.yahoo.com/news/o-glass-oi-reports-1-114813084.html",
+          "title_en": "O-I Glass (OI) Reports $1.60 Adjusted EPS, $300M in ‘Fit to Win’ Benefits for 2025"
         }
       ]
     }
