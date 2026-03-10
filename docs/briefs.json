@@ -1,6 +1,6 @@
 {
   "date": "2026.03.10",
-  "generatedAtBJT": "2026-03-10 10:26:14",
+  "generatedAtBJT": "2026-03-10 10:56:23",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-10 10:26:14",
+          "time": "2026-03-10 10:56:23",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：美股期货下跌，华尔街涨停寄望伊朗战争不会爆发。\n- 宏观/Fed：亚瑟·海斯认为美国国债收益率上升可能触发货币紧缩。\n- 科技/半导体：关键词：nvidia，关键词：buy，关键词：startup，关键词：adds，关键词：agent，关键词：top 2，关键词：growth stocks，关键词：buy after nvidia's latest sell-off。\n- TSLA：亚马逊的Zoox扩大了机器人出租车测试到凤凰城和达拉斯。",
+          "summary": "- 地缘/避险：关注 亚洲股市反弹，油价回落，特朗普称伊朗战争可能不会发生。\n\n- 宏观/Fed：关注 阿瑟·海斯认为美国国债收益率上升可能触发货币紧缩。\n\n- 科技/半导体：德国出版商拒绝苹果的新版应用程序跟踪规则，要求苹果提供更多信息。\n\n- TSLA：关注亚马逊的 Zoox 在 Phoenix 和 Dallas 开始了无人驾驶出租车测试。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 US stock futures dip after Wall St gains on hopes Iran war could…\n- 宏观/Fed：关注 Arthur Hayes Says Rising Treasury Yields Could Trigger A Money-P…\n- 科技/半导体：Top 2 Growth Stocks to Buy After Nvidia's Latest Sell-Off… 关键词: nvidia, buy, startup, adds, agent\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
+          "summary_en": "- 地缘/避险：关注 Asia stocks rebound as oil retreats, Trump says Iran war could e…\n- 宏观/Fed：关注 Arthur Hayes Says Rising Treasury Yields Could Trigger A Money-P…\n- 科技/半导体：German publishers reject Apple’s revised app tracking rules, urg… 关键词: nvidia, startup, adds, agent, agents\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
         }
       ]
     },
@@ -27,18 +27,9 @@
       "badge": "Mag7 / Semis",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
-          "title": "在Nvidia最新的下跌之后，以下两只增长股值得购买。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/top-2-growth-stocks-buy-144700447.html",
-          "title_en": "Top 2 Growth Stocks to Buy After Nvidia's Latest Sell-Off"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
+          "time": "2026-03-10 10:56:19",
           "title": "德国出版商拒绝苹果的修订应用跟踪规则，呼吁反垄断罚款",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/german-publishers-reject-apples-revised-app-tracking-rules-urge-antitrust-fine-4550910",
@@ -47,7 +38,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
+          "time": "2026-03-10 10:56:19",
           "title": "Nvidia计划推出开源AI代理平台",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/nvidia-planning-to-launch-open-source-ai-agent-platform-wired-4550889",
@@ -112,7 +103,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
+          "time": "2026-03-10 10:56:19",
           "title": "阿瑟·海斯表示，美国国债收益率上升可能会触发货币印刷式救援，并\"有利于\"比特币。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/arthur-hayes-says-rising-treasury-153025383.html",
@@ -137,34 +128,35 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
+          "time": "2026-03-10 10:56:19",
+          "title": "亚洲股市反弹，油价回落，特朗普称伊朗战争可能即将结束",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-oil-retreats-trump-says-iran-war-could-end-soon-4550997",
+          "title_en": "Asia stocks rebound as oil retreats, Trump says Iran war could end soon"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 10:56:19",
           "title": "美国股指期货下跌，受华尔街上涨的影响，华尔街上涨是因为人们认为伊朗战争可能很快结束。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-dip-after-wall-st-gains-on-hopes-iran-war-could-end-soon-4550935",
           "title_en": "US stock futures dip after Wall St gains on hopes Iran war could end soon"
         },
         {
-          "source": "Investing-Markets",
+          "source": "MarketWatch-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
-          "title": "华尔街收盘上涨，伊朗冲突解决希望抵消了通胀恐惧",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-slump-as-iran-war-drags-on-oil-near-120-stokes-inflation-worries-4548817",
-          "title_en": "Wall St ends higher as hopes of Iran war resolution offset inflation fears"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
-          "title": "股市反弹，石油价格回落，特朗普暗示伊朗战争结束",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/oil-soars-shares-slide-in-asia-as-middle-east-conflict-rages-4548645",
-          "title_en": "Shares turn higher, oil prices retreat after Trump hints at end to Iran war"
+          "time": "2026-03-10 10:45:00",
+          "title": "特朗普宣布对伊朗实施制裁缓解措施，称伊朗战争将在“很快”结束。",
+          "summary": "美国总统唐纳德·特朗普表示，为了缓解原油价格，美国将豁免某些国家的石油相关制裁，他估计与伊朗的战争将很快结束。",
+          "url": "https://www.marketwatch.com/story/trump-announces-sanctions-relief-to-ease-oil-prices-says-iran-war-to-end-very-soon-ab0ee595?mod=mw_rss_topstories",
+          "title_en": "Trump announces sanctions relief to ease oil prices, says Iran war to end ‘very soon’",
+          "summary_en": "President Donald Trump said the U.S. is waiving oil-related sanctions on certain countries in an effort to ease crude prices, as he estimated the war with Iran would end “very soon.”"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 10:21:06",
+          "time": "2026-03-10 10:38:20",
           "title": "亚洲市场反弹，油价暴跌，随着特朗普表示伊朗战争可能很快结束",
           "summary": "亚太市场从周一的暴跌中恢复，油价下跌和华尔街反弹带来希望。",
           "url": "https://www.cnbc.com/2026/03/10/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html",
@@ -190,16 +182,6 @@
           "url": "https://www.cnbc.com/2026/03/09/trump-iran-war-end.html",
           "title_en": "Trump says Iran war will end 'very soon,' predicts lower oil prices",
           "summary_en": "U.S. stock market indexes rose earlier in the day after an initial report that President Donald Trump said he believed the Iran war was largely finished."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-10 06:44:00",
-          "title": "特朗普宣布对伊朗实施制裁缓解措施，称伊朗战争将在“很快”结束。",
-          "summary": "美国总统唐纳德·特朗普表示，为了缓解原油价格，美国将豁免某些国家的石油相关制裁，他估计与伊朗的战争将很快结束。",
-          "url": "https://www.marketwatch.com/story/trump-announces-sanctions-relief-to-ease-oil-prices-says-iran-war-to-end-very-soon-ab0ee595?mod=mw_rss_topstories",
-          "title_en": "Trump announces sanctions relief to ease oil prices, says Iran war to end ‘very soon’",
-          "summary_en": "President Donald Trump said the U.S. is waiving oil-related sanctions on certain countries in an effort to ease crude prices, as he estimated the war with Iran would end “very soon.”"
         },
         {
           "source": "MarketWatch-Top",
@@ -310,6 +292,16 @@
           "url": "https://www.cnbc.com/2026/03/09/prediction-markets-wagers-bets-iran-war-kalshi-polymarket.html",
           "title_en": "Prediction markets face questions on Iran war bets, from regime change to nuclear detonation",
           "summary_en": "Prediction markets are facing backlash over bets related to war, with Polymarket recently archiving some predictions on nuclear detonation."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-09 23:46:21",
+          "title": "分析师警告：石油价格可能进一步上涨",
+          "summary": "能源分析师警告称，中东战争可能导致石油价格继续上涨。",
+          "url": "https://www.cnbc.com/2026/03/09/oil-prices-iran-war-middle-east-us-israel-strait-of-hormuz.html",
+          "title_en": "‘Sky is the limit’: Analysts warn oil prices could surge further",
+          "summary_en": "Energy analysts warned that oil prices could continue to rise in response to the war in the Middle East."
         }
       ]
     },
@@ -336,97 +328,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
-          "title": "莫森科尔斯饮料公司（TAP）预计2026年利润将大幅下滑。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/molson-coors-beverage-company-tap-152216335.html",
-          "title_en": "Molson Coors Beverage Company (TAP) Expects a Significant Dip in 2026 Profit"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
-          "title": "Constellation Brands, Inc. (STZ) 任命 Nicholas Fink 为新任 CEO",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/constellation-brands-inc-stz-names-152214216.html",
-          "title_en": "Constellation Brands, Inc. (STZ) Names Nicholas Fink as its New CEO"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
-          "title": "安海斯威斯-英贝夫股份公司（BUD）第四季度利润和收入超出预期",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/anheuser-busch-inbev-sa-nv-152213041.html",
-          "title_en": "Anheuser-Busch InBev SA/NV (BUD) Exceeds Fourth-quarter Profit and Revenue Projections"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
-          "title": "迪亚吉奥（Diageo plc）公布2026财年第一季度财务报告",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/diageo-plc-deo-reports-fiscal-152209292.html",
-          "title_en": "Diageo plc (DEO) Reports Fiscal 2026 First-Half Results"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
-          "title": "这只价值13美元的股票可能是你成为百万富翁的门票？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/could-13-stock-ticket-millionaire-150100571.html",
-          "title_en": "Could This $13 Stock Be Your Ticket to Millionaire Status?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
-          "title": "巴克莱维持了Ambev S.A. (ABEV)的等权评级。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/barclays-retains-equal-weight-rating-152217026.html",
-          "title_en": "Barclays Retains an Equal Weight Rating on Ambev S.A. (ABEV)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
-          "title": "布朗-福曼公司（BF-B）和帕布斯特啤酒公司签署协议，合作在美国生产调味啤酒饮料。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/brown-forman-corporation-bf-b-152211843.html",
-          "title_en": "Brown-Forman Corporation (BF-B) and Pabst Brewing Company Sign a Deal to Produce Flavored Malt Beverages in the U.S."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
-          "title": "波士顿啤酒公司（SAM）是买入的最佳啤酒股票之一吗？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/boston-beer-company-inc-sam-152219973.html",
-          "title_en": "Is The Boston Beer Company, Inc. (SAM) Among the Best Alcohol Stocks to Buy?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
-          "title": "MGP成分公司（MGPI）公布2025年第四季度和全年财务报告。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/mgp-ingredients-inc-mgpi-posts-152221538.html",
-          "title_en": "MGP Ingredients, Inc. (MGPI) Posts Fourth-Quarter and Full-Year 2025 Results"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
-          "title": "奥克塔的股价上月下跌14%",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/why-oktas-shares-tumbled-14-143500673.html",
-          "title_en": "Why Okta's Shares Tumbled 14% Last Month"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
+          "time": "2026-03-10 10:56:19",
           "title": "威拉米特谷葡萄酒厂（WVVI）宣布调整分销和销售策略",
           "summary": "",
           "url": "https://finance.yahoo.com/news/willamette-valley-vineyards-inc-wvvi-152222232.html",
@@ -435,16 +337,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
-          "title": "创新饮料集团有限公司（IBG）宣布关于其拟与BlockFuel Energy进行合并事项的最新进展",
+          "time": "2026-03-10 10:56:19",
+          "title": "如果你有1000美元，应该投资比特币还是卡达诺？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/innovation-beverage-group-limited-ibg-152224695.html",
-          "title_en": "Innovation Beverage Group Limited (IBG) Announces an Update Regarding its Proposed Merger with BlockFuel Energy"
+          "url": "https://finance.yahoo.com/news/got-1-000-buy-bitcoin-153200956.html",
+          "title_en": "Got $1,000? Should You Buy Bitcoin or Cardano?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
+          "time": "2026-03-10 10:56:19",
+          "title": "MGP成分公司（MGPI）公布2025年第四季度和全年财务报告。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/mgp-ingredients-inc-mgpi-posts-152221538.html",
+          "title_en": "MGP Ingredients, Inc. (MGPI) Posts Fourth-Quarter and Full-Year 2025 Results"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 10:56:19",
           "title": "Tilray Brands, Inc. (TLRY) 收购了 BrewDog。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/tilray-brands-inc-tlry-acquires-152639624.html",
@@ -453,7 +364,70 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
+          "time": "2026-03-10 10:56:19",
+          "title": "波士顿啤酒公司（SAM）是买入的最佳啤酒股票之一吗？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/boston-beer-company-inc-sam-152219973.html",
+          "title_en": "Is The Boston Beer Company, Inc. (SAM) Among the Best Alcohol Stocks to Buy?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 10:56:19",
+          "title": "巴克莱维持了Ambev S.A. (ABEV)的等权评级。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/barclays-retains-equal-weight-rating-152217026.html",
+          "title_en": "Barclays Retains an Equal Weight Rating on Ambev S.A. (ABEV)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 10:56:19",
+          "title": "三只你可以持有十年的科技股\n\n在过去的十年里，科技股带来了惊人的回报。从2013年到2023年，S&P 500指数上涨了约150%，而纳斯达克计算机指数(NVDA)上涨了约2,500%。在这种背景下，以下三只科技股可能是你可以持有十年的好选择。\n\n1. NVIDIA (NVDA)\n\nNVIDIA是一家领先的图形处理器和人工智能芯片制造商。该公司的产品广泛应用于游戏、人工智能、自驾车和云计算等领域。NVIDIA的技术领先地位和不断增长的市场需求使其成为一个值得持有的股票。\n\n2. Microsoft (MSFT)\n\n微软是一家全球领先的软件公司。该公司的产品包括Windows操作系统、Office办公软件和Azure云服务。微软的业务不断扩张，公司的盈利能力也在不断提高。微软的股价已经上涨了近100%，但公司的增长潜力仍然很大。\n\n3. Alphabet (GOOGL)\n\n Alphabet是一家全球领先的互联网公司，拥有Google搜索引擎、YouTube视频平台和Nest智能家居等业务。 Alphabet的",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/3-tech-stocks-buy-hold-152000183.html",
+          "title_en": "3 Tech Stocks You Can Buy and Hold for the Next Decade"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 10:56:19",
+          "title": "创新饮料集团有限公司（IBG）宣布关于其拟与BlockFuel Energy进行合并事项的最新进展",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/innovation-beverage-group-limited-ibg-152224695.html",
+          "title_en": "Innovation Beverage Group Limited (IBG) Announces an Update Regarding its Proposed Merger with BlockFuel Energy"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 10:56:19",
+          "title": "迪亚吉奥（Diageo plc）公布2026财年第一季度财务报告",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/diageo-plc-deo-reports-fiscal-152209292.html",
+          "title_en": "Diageo plc (DEO) Reports Fiscal 2026 First-Half Results"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 10:56:19",
+          "title": "安海斯威斯-英贝夫股份公司（BUD）第四季度利润和收入超出预期",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/anheuser-busch-inbev-sa-nv-152213041.html",
+          "title_en": "Anheuser-Busch InBev SA/NV (BUD) Exceeds Fourth-quarter Profit and Revenue Projections"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 10:56:19",
+          "title": "Constellation Brands, Inc. (STZ) 任命 Nicholas Fink 为新任 CEO",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/constellation-brands-inc-stz-names-152214216.html",
+          "title_en": "Constellation Brands, Inc. (STZ) Names Nicholas Fink as its New CEO"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 10:56:19",
           "title": "BMO提高Alliant Energy Corporation (LNT)目标价至78美元，维持超买评级。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/bmo-raises-alliant-energy-corporation-153142523.html",
@@ -462,25 +436,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
-          "title": "科斯科财务长回答特别股利问题",
+          "time": "2026-03-10 10:56:19",
+          "title": "莫森科尔斯饮料公司（TAP）预计2026年利润将大幅下滑。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/costco-cfo-answers-special-dividend-150700801.html",
-          "title_en": "Costco CFO answers special dividend question"
+          "url": "https://finance.yahoo.com/news/molson-coors-beverage-company-tap-152216335.html",
+          "title_en": "Molson Coors Beverage Company (TAP) Expects a Significant Dip in 2026 Profit"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
-          "title": "Keybanc 将 WEC 能源集团 (WEC) 股价目标提高 $9",
+          "time": "2026-03-10 10:56:19",
+          "title": "布朗-福曼公司（BF-B）和帕布斯特啤酒公司签署协议，合作在美国生产调味啤酒饮料。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/keybanc-lifts-wec-energy-group-153441838.html",
-          "title_en": "Keybanc Lifts WEC Energy Group (WEC) Price Target by $9"
+          "url": "https://finance.yahoo.com/news/brown-forman-corporation-bf-b-152211843.html",
+          "title_en": "Brown-Forman Corporation (BF-B) and Pabst Brewing Company Sign a Deal to Produce Flavored Malt Beverages in the U.S."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
+          "time": "2026-03-10 10:56:19",
+          "title": "KeyBanc提高CMS能源公司(CMS)目标价至83美元，维持买入评级。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/keybanc-raises-cms-energy-corporation-153908655.html",
+          "title_en": "KeyBanc Raises CMS Energy Corporation (CMS) Target to $83, Keeps Overweight"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 10:56:19",
+          "title": "塔吉特商店面临的问题比新CEO意识到的更深入。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/target-stores-face-deeper-issues-153300585.html",
+          "title_en": "Target stores face deeper issues than new CEO realizes"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 10:56:19",
           "title": "杜克能源公司（DUK）价格目标上调4美元，这是为什么",
           "summary": "",
           "url": "https://finance.yahoo.com/news/duke-energy-corporation-duk-price-153651374.html",
@@ -489,11 +481,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 10:26:09",
-          "title": "KeyBanc提高CMS能源公司(CMS)目标价至83美元，维持买入评级。",
+          "time": "2026-03-10 10:56:19",
+          "title": "分析师对Genuine Parts (GPC)的升级是基于公司计划的业务分拆",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/keybanc-raises-cms-energy-corporation-153908655.html",
-          "title_en": "KeyBanc Raises CMS Energy Corporation (CMS) Target to $83, Keeps Overweight"
+          "url": "https://finance.yahoo.com/news/analyst-upgrade-genuine-parts-gpc-154535517.html",
+          "title_en": "Analyst Upgrade on Genuine Parts (GPC) Follows Planned Business Split"
         }
       ]
     }
