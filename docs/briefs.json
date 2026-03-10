@@ -1,6 +1,6 @@
 {
   "date": "2026.03.10",
-  "generatedAtBJT": "2026-03-10 21:01:04",
+  "generatedAtBJT": "2026-03-10 21:31:16",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-10 21:01:04",
+          "time": "2026-03-10 21:31:16",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：美股今日下跌，受特朗普对伊朗发言影响，油价上涨。\n\n- 科技/半导体：Polymarket 吸引 Palantir 和 TWG AI 参与体育投注监管，关键词包括创业公司、网络安全、百万美元、NVIDIA 和平台。\n\n- TSLA：关注亚马逊的 Zoox 在 Phoenix 和 Dallas 扩大了无人车测试。",
+          "summary": "- 地缘/避险：关注道指、标普500、纳斯达克期货回落，油价下滑。\n- 科技/半导体：AI初创公司Thinking Machines获得资金和一大块芯片订单。\n- TSLA：关注特斯拉。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Stock Market Today: Dow Dips After Trump's Iran Comments As Oil …\n- 科技/半导体：Polymarket Taps Palantir, TWG AI to Police Growing Sports Bets… 关键词: startup, cybersecurity, million, nvidia, platform\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
+          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq futures retreat, oil si…\n- 科技/半导体：AI startup Thinking Machines clinches capital and a major chip s… 关键词: nvidia, startup, capital, chip, clinches\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
         }
       ]
     },
@@ -29,65 +29,57 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "Polymarket与Palantir和TWG AI合作打击不断增长的体育赌注",
+          "time": "2026-03-10 21:31:11",
+          "title": "思维机器人（Thinking Machines）AI初创公司获得了NVIDIA的资金支持和重大芯片供应协议。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/polymarket-taps-palantir-twg-ai-110033456.html",
-          "title_en": "Polymarket Taps Palantir, TWG AI to Police Growing Sports Bets"
+          "url": "https://finance.yahoo.com/news/ai-startup-thinking-machines-clinches-130534198.html",
+          "title_en": "AI startup Thinking Machines clinches capital and a major chip supply deal from Nvidia"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "晶圆代工厂台积电(TSMC)表示，2月份其销售额增长22%。",
+          "time": "2026-03-10 21:31:11",
+          "title": "英特尔公司（INTC）和Infosys扩大战略性人工智能基础设施合作",
           "summary": "",
-          "url": "https://www.investors.com/news/technology/tsm-stock-tsmc-taiwan-semiconductor-february-2026-sales/?src=A00220&yptr=yahoo",
-          "title_en": "Chip Foundry TSMC Says Its Sales Rose 22% In February"
+          "url": "https://finance.yahoo.com/news/intel-corporation-intc-infosys-expand-125318867.html",
+          "title_en": "Intel Corporation (INTC) and Infosys Expand Strategic AI Infrastructure Partnership"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "Amkor Technology (AMKR) 上涨是基于人工智能中心的重新评估",
+          "time": "2026-03-10 21:31:11",
+          "title": "Cantor Fitzgerald降低了BigBear.ai Holdings, Inc. (BBAI)的股价目标至5美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/amkor-technology-amkr-rose-ai-121301480.html",
-          "title_en": "Amkor Technology (AMKR) Rose on AI Centered Re-Rating"
+          "url": "https://finance.yahoo.com/news/cantor-fitzgerald-lowers-bigbear-ai-125305779.html",
+          "title_en": "Cantor Fitzgerald Lowers BigBear.ai Holdings, Inc. (BBAI) Price Target to $5"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "预计未来五年房贷利率：2030年前瞻",
+          "time": "2026-03-10 21:31:11",
+          "title": "超算巨头Nscale在14.6亿美元估值下完成2亿美元C轮融资",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-for-the-next-5-years-ai-forecast-through-2030-195826526.html",
-          "title_en": "Mortgage rate predictions for the next 5 years: An AI-driven forecast through 2030"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "亚马逊公司（AMZN）AWS宣布推出人工智能辅助的医疗行政任务自动化平台，路透社报道。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/amazon-com-inc-amzn-aws-120009499.html",
-          "title_en": "Amazon.com, Inc.’s (AMZN) AWS Announces Launch of AI-Enabled Platform for Automation of Healthcare Administrative Tasks, Reuters Reports"
+          "url": "https://finance.yahoo.com/news/ai-hyperscaler-nscale-raises-2bn-130131417.html",
+          "title_en": "AI hyperscaler Nscale raises $2bn Series C at $14.6bn valuation"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "法律AI初创公司Legora筹集550亿美元加速美国扩张",
+          "time": "2026-03-10 21:31:11",
+          "title": "思维机器人（Thinking Machines）AI初创公司获得了NVIDIA的资金支持和重大芯片供应协议。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/legal-ai-startup-legora-raises-550-million-to-speed-up-us-expansion-4552066",
-          "title_en": "Legal AI startup Legora raises $550 million to speed up US expansion"
+          "url": "https://www.investing.com/news/stock-market-news/ai-startup-thinking-machines-clinches-capital-and-a-major-chip-supply-deal-from-nvidia-4552157",
+          "title_en": "AI startup Thinking Machines clinches capital and a major chip supply deal from Nvidia"
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "加拿大银行领先于人工智能的采用，Jefferies表示效率提升即将到来。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/canadian-banks-lead-ai-adoption-with-efficiency-gains-on-horizon-jefferies-says-93CH-4551980",
-          "title_en": "Canadian banks lead AI adoption with efficiency gains on horizon, Jefferies says"
+          "time": "2026-03-10 21:01:52",
+          "title": "甲骨文财报将揭示其高昂人工智能押注是否开始见效",
+          "summary": "甲骨文公司与OpenAI达成3000亿美元的交易，确立了其在人工智能云计算领域的重要地位，与亚马逊、谷歌和微软并驾齐驱。",
+          "url": "https://www.cnbc.com/2026/03/10/oracle-orcl-stock-earnings-ai-data-center.html",
+          "title_en": "Oracle earnings will show whether its expensive AI bet is starting to pay off",
+          "summary_en": "Oracle's $300 billion deal with OpenAI established it as a major player in AI cloud computing alongside Amazon, Google and Microsoft."
         },
         {
           "source": "CNBC-Top",
@@ -98,16 +90,6 @@
           "url": "https://www.cnbc.com/2026/03/10/kevin-mandia-raised-190-million-armadin-after-prior-sale-to-google.html",
           "title_en": "Kevin Mandia sold his cybersecurity company to Google in 2022. He has a fresh $190 million for a new venture",
           "summary_en": "Mandiant founder Kevin Mandia is staying in cybersecurity after selling his prior company to Google, but now he's focused on AI."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-10 20:09:02",
-          "title": "甲骨文财报将揭示其高昂人工智能押注是否开始见效",
-          "summary": "甲骨文公司与OpenAI达成3000亿美元的交易，确立了其在人工智能云计算领域的重要地位，与亚马逊、谷歌和微软并驾齐驱。",
-          "url": "https://www.cnbc.com/2026/03/10/oracle-orcl-stock-earnings-ai-data-center.html",
-          "title_en": "Oracle earnings will show whether its expensive AI bet is starting to pay off",
-          "summary_en": "Oracle's $300 billion deal with OpenAI established it as a major player in AI cloud computing alongside Amazon, Google and Microsoft."
         },
         {
           "source": "CNBC-Top",
@@ -130,7 +112,7 @@
           "summary_en": "Anthropic's partnerships with Amazon and Palantir helped it make inroads into the DOD, and its blacklisting is concerning to many industry experts."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-10 05:22:45",
           "title": "OpenAI将收购安全性初创公司Promptfoo以更好地保护AI代理",
@@ -173,7 +155,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
+          "time": "2026-03-10 21:31:11",
+          "title": "股市今日：道指、标普500指数和纳斯达克期货价格下跌，石油价格下滑，华尔街对伊朗战争信号表示担忧。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-retreat-oil-sinks-as-wall-street-weighs-iran-war-signals-224255968.html",
+          "title_en": "Stock market today: Dow, S&P 500, Nasdaq futures retreat, oil sinks as Wall Street weighs Iran war signals"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 21:31:11",
+          "title": "Mobix Labs, Inc. (MOBX) 获得了汤玛霍克导弹零部件的防御合同。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/mobix-labs-inc-mobx-wins-125302356.html",
+          "title_en": "Mobix Labs, Inc. (MOBX) Wins Defense Contract for Tomahawk Missile Components"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 21:31:11",
           "title": "股市今日：道指下跌受特朗普伊朗评论影响，石油价格暴跌（实时报道）",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-oil-prices-tsmc/?src=A00220&yptr=yahoo",
@@ -182,21 +182,60 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "股市今日：道指、标普500指数和纳斯达克期货价格下跌，石油价格下滑，华尔街对伊朗战争信号表示担忧。",
+          "time": "2026-03-10 21:31:11",
+          "title": "中国已经花费了多年时间准备应对伊朗石油危机",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-retreat-oil-sinks-as-wall-street-weighs-iran-war-signals-224255968.html",
-          "title_en": "Stock market today: Dow, S&P 500, Nasdaq futures retreat, oil sinks as Wall Street weighs Iran war signals"
+          "url": "https://www.wsj.com/world/china-has-spent-years-preparing-for-the-iran-oil-crisis-b0ff5577?siteid=yhoof2&yptr=yahoo",
+          "title_en": "China Has Spent Years Preparing for the Iran Oil Crisis"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 21:31:11",
+          "title": "伊朗冲突最新：赫格塞特称美国进行了最强烈的袭击",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/iran-conflict-latest-oil-retreats-as-trump-says-war-expected-to-conclude-soon-4551440",
+          "title_en": "Iran conflict latest: Hegseth says U.S. carry out most intense strikes so far"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-10 21:28:00",
+          "title": "石油价格修正为Lufthansa股价带来上升",
+          "summary": "德国航空股份公司的股价在周二上涨了7%，自伊朗爆发战争以来一直领先于同行航空公司。",
+          "url": "https://www.marketwatch.com/story/oil-price-correction-gives-lufthansa-shares-lift-off-c177393f?mod=mw_rss_topstories",
+          "title_en": "Oil price correction gives Lufthansa shares lift-off",
+          "summary_en": "Lufthansa shares jumped 7% on Tuesday, continuing to outperform rival airlines since the outbreak of war in Iran."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-10 21:23:59",
+          "title": "欧洲股市大涨2%，油价下滑带来积极情绪",
+          "summary": "欧洲股市周二反弹，投资者继续关注中东局势。",
+          "url": "https://www.cnbc.com/2026/03/10/european-markets-stoxx-600-ftse-dax-cac-iran-war-latest-news.html",
+          "title_en": "European stocks jump 2% as sliding oil prices buoy sentiment",
+          "summary_en": "European equities rebounded on Tuesday as traders continue to watch developments in the Middle East."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:00",
+          "time": "2026-03-10 21:19:04",
           "title": "伊朗战争：赫格塞特说星期二将是我们最激烈的袭击日。",
           "summary": "美国前总统唐纳德·特朗普周一预测，针对伊朗的战争将很快结束，并警告伊朗不要停止石油输出。",
           "url": "https://www.cnbc.com/2026/03/10/iran-war-trump-hegseth-oil.html",
           "title_en": "Iran war: Hegseth says Tuesday 'will be our most intense day of strikes'",
           "summary_en": "President Donald Trump on Monday had predicted that the war against Iran would be over \"very soon,\" and warned that country against withholding oil afterward."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-10 21:11:31",
+          "title": "伊朗战争和能源价格上涨威胁半导体需求",
+          "summary": "一场美国以色列与伊朗的长期战争可能导致芯片制造关键材料短缺和能源成本上涨，从而损害半导体需求。",
+          "url": "https://www.cnbc.com/2026/03/10/iran-war-semiconductor-memory-chip-impact.html",
+          "title_en": "How the Iran war and rising energy prices are threatening semiconductor demand",
+          "summary_en": "A prolonged U.S.-Israel war against Iran could lead to shortages of key chipmaking materials and higher energy costs which could hurt semiconductor demand."
         },
         {
           "source": "CNBC-Top",
@@ -239,16 +278,6 @@
           "summary_en": "Oil prices plunged after Trump warned that Tehran would be hit \"twenty times harder\" if it attempted to halt oil flows through the Strait of Hormuz."
         },
         {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-10 20:11:17",
-          "title": "欧洲股市大涨2%，油价下滑带来积极情绪",
-          "summary": "欧洲股市周二反弹，投资者继续关注中东局势。",
-          "url": "https://www.cnbc.com/2026/03/10/european-markets-stoxx-600-ftse-dax-cac-iran-war-latest-news.html",
-          "title_en": "European stocks jump 2% as sliding oil prices buoy sentiment",
-          "summary_en": "European equities rebounded on Tuesday as traders continue to watch developments in the Middle East."
-        },
-        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-10 19:56:23",
@@ -289,17 +318,7 @@
           "summary_en": "Bank of America’s equity-derivatives strategists, led by Nitin Saksena, say it’s too early to celebrate."
         },
         {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-10 18:33:00",
-          "title": "石油期货价格下滑8%，能源部长即将举行紧急储备会议",
-          "summary": "石油期货价格再次大幅下跌，因为世界领导人考虑释放紧急储备，伊朗冲突已经持续了十一天。",
-          "url": "https://www.marketwatch.com/story/oil-futures-slide-8-as-energy-ministers-set-to-meet-on-emergency-reserves-035da30c?mod=mw_rss_topstories",
-          "title_en": "Oil futures slide 8% as energy ministers set to meet on emergency reserves",
-          "summary_en": "Oil futures took another swift dive on Tuesday as world leaders consider releasing emergency supplies as the Iran conflict stretched into an eleventh day."
-        },
-        {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-10 17:34:14",
           "title": "中国的提醒、美国豁免和伊朗紧张关系测试印度的经济平衡之举",
@@ -307,46 +326,6 @@
           "url": "https://www.cnbc.com/2026/03/10/india-iran-oil-crisis-brics-diplomacy-us-china.html",
           "title_en": "China’s nudge, U.S. waiver and Iran tensions test India’s economic balancing act",
           "summary_en": "India is trying to preserve its long-standing neutral foreign policy as escalating tensions around Iran threaten its oil supply and expose New Delhi to pressure from both Washington and Beijing."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-10 17:32:00",
-          "title": "欧洲债券加入美国国债的牛市之列，低油价缓解了通胀恐惧",
-          "summary": "基准国债收益率徘徊在几个月的波动范围中间，因为人们对因油价大幅上涨而引发的通胀冲击的恐惧逐渐消退。",
-          "url": "https://www.marketwatch.com/story/european-bonds-join-treasury-rally-as-lower-oil-prices-ease-inflation-fears-c317b735?mod=mw_rss_topstories",
-          "title_en": "European bonds join Treasury rally as lower oil prices ease inflation fears",
-          "summary_en": "Benchmark Treasury yields are hovering near the middle of their months-long trading range as fears fade of an inflation shock caused by surging oil prices."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-10 17:17:20",
-          "title": "伊朗战争打乱了能源供应，俄罗斯正在成为真正的赢家",
-          "summary": "俄罗斯正成为波斯湾能源危机升级的主要受益者，分析师告诉CNBC。",
-          "url": "https://www.cnbc.com/2026/03/10/russia-winner-iran-us-war-energy-oil-disruption.html",
-          "title_en": "As the Iran war upends energy flows, Russia is emerging as the real winner",
-          "summary_en": "Russia is shaping up to be a major beneficiary of the escalating energy crisis in the Persian Gulf, analysts told CNBC."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-10 17:13:04",
-          "title": "伊朗战争使英格兰银行下一次降息受阻",
-          "summary": "英格兰银行在伊朗战争爆发前预计将于3月或4月降息。经济学家说，不要这样认为。",
-          "url": "https://www.cnbc.com/2026/03/09/iran-war-bank-of-england-march-april-rate-cut-inflation-interest-rates.html",
-          "title_en": "The Iran war has put the brakes on the next Bank of England rate cut",
-          "summary_en": "Before the war in Iran erupted, the Bank of England was widely predicted to be set to cut interest rates in March or April. Don't count on it, economists say."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-10 16:19:38",
-          "title": "伊朗战争对石油市场造成了灾难性的威胁，阿拉伯石油公司CEO表示。",
-          "summary": "沙特阿拉伯石油公司利润超出预期，继续支付85亿美元的分红，石油价格再次上涨。",
-          "url": "https://www.cnbc.com/2026/03/10/saudi-aramco-2025-earnings-q4-profit-beat-oil-war.html",
-          "title_en": "Iran war threatens catastrophic consequences for the oil market, Aramco CEO says",
-          "summary_en": "Saudi Aramco beats profit estimates and keeps $85 billion payouts as oil prices surge again."
         }
       ]
     },
@@ -373,34 +352,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "CNBC的Deirdre Bosa警告甲骨文投资者：5230亿美元的订单库存可能并不如所想。",
+          "time": "2026-03-10 21:31:11",
+          "title": "Applied Materials Q1 2026自由现金流达到10.4亿美元，为什么股价却在下滑？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/cnbc-deirdre-bosa-warns-oracle-125039103.html",
-          "title_en": "CNBC’s Deirdre Bosa Warns Oracle Investors: A $523 Billion Backlog May Not Be What It Seems"
+          "url": "https://finance.yahoo.com/news/applied-materials-q1-2026-free-131926896.html",
+          "title_en": "Applied Materials Q1 2026 Free Cash Flow Hit $1.04 Billion, So Why Is the Stock Sliding"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "UMB金融集团（UMBF）确立了卓越的财务管理",
+          "time": "2026-03-10 21:31:11",
+          "title": "斯巴达克体育 (SPOT) 是否能实现超过 20% 的年复合自由现金流增长率？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/umb-financial-corporation-umbf-established-124338159.html",
-          "title_en": "UMB Financial Corporation (UMBF) Established an Excellent Financial Stewardship"
+          "url": "https://finance.yahoo.com/news/spotify-spot-able-deliver-more-131633669.html",
+          "title_en": "Will Spotify (SPOT) be Able to Deliver More Than 20% Annual Free Cash Flow Growth?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "Amprius Technologies (AMPX) 公布业绩并获得分析师关注",
+          "time": "2026-03-10 21:31:11",
+          "title": "波伦全球成长策略解释出售威士托华顿公众有限公司(WTW)股份的原因",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/amprius-technologies-ampx-reports-earnings-123207306.html",
-          "title_en": "Amprius Technologies (AMPX) Reports Earnings & Sees Analyst Coverage"
+          "url": "https://finance.yahoo.com/news/why-polen-global-growth-strategy-131308259.html",
+          "title_en": "Here’s Why Polen Global Growth Strategy Sold Its Stake in Willis Towers Watson Public Limited Company (WTW)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
+          "time": "2026-03-10 21:31:11",
+          "title": "比尔·阿克曼旗下的Pershing Square公司申请了双重IPO，私募融资2.8亿美元。",
+          "summary": "",
+          "url": "https://www.investors.com/news/bill-ackman-pershing-square-ipo-warren-buffett-berkshire-hathaway/?src=A00220&yptr=yahoo",
+          "title_en": "Bill Ackman's Pershing Square Files Dual IPO, Privately Raises $2.8 Billion"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 21:31:11",
           "title": "2026年3月10日维克斯高管推荐股票",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46380_InsiderActivity_1773142736000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -409,52 +397,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "能量国际（ENR）受分析师关注后股价下跌",
+          "time": "2026-03-10 21:31:11",
+          "title": "波伦全球成长策略因短期增长挑战而出售ICON plc（ICLR）",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/energizer-enr-under-focus-analysts-123155990.html",
-          "title_en": "Energizer (ENR) Under Focus Of Analysts After Earnings Report"
+          "url": "https://finance.yahoo.com/news/polen-global-growth-strategy-sold-131112269.html",
+          "title_en": "Polen Global Growth Strategy Sold ICON plc (ICLR) Due to Short-Term Growth Challenges"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "永远持有最好的股票：科斯科斯 vs. 家得宝\n\n在股市中，找到一个能持有“永远”的股票是投资者梦寐以求的目标。科斯科斯（Costco）和家得宝（Home Depot）是两家全球知名零售商，拥有强大的品牌和稳健的财务表现。然而，哪一家更适合投资者长期持有？",
+          "time": "2026-03-10 21:31:11",
+          "title": "Collegium Pharmaceuticals (COLL) 突破高位，随着公司发布的历史最佳季度业绩而上涨。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/best-stock-buy-hold-forever-125000599.html",
-          "title_en": "Best Stock to Buy and Hold Forever: Costco vs. Home Depot"
+          "url": "https://finance.yahoo.com/news/collegium-pharmaceutical-coll-surged-following-130443656.html",
+          "title_en": "Collegium Pharmaceutical (COLL) Surged Following Record Quarterly Results"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "QuantumScape (QS) 的试验产品引起分析师关注",
+          "time": "2026-03-10 21:31:11",
+          "title": "ALLW ETF获得了最佳新ETF奖项。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/quantumscape-qs-pilot-product-draws-123148636.html",
-          "title_en": "QuantumScape (QS)’s Pilot Product Draws Analyst Attention"
+          "url": "https://finance.yahoo.com/news/allw-sweeps-awards-lands-best-130433315.html",
+          "title_en": "ALLW Sweeps Awards, Lands Best New ETF"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "Electrovaya (ELVA) 股东会议审议关键决议",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/electrovaya-elva-shareholder-meeting-sees-123138477.html",
-          "title_en": "Electrovaya (ELVA)’s Shareholder Meeting Sees Key Resolution Approvals"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "Stem, Inc. (STEM) 最近财报显示净亏损缩小",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/stem-inc-stem-narrows-net-123119678.html",
-          "title_en": "Stem, Inc. (STEM) Narrows Net Loss In Latest Earnings"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
+          "time": "2026-03-10 21:31:11",
           "title": "2026年3月10日维克斯高买家和高卖家",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46381_TopBottomInsiderActivity_1773142736000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -463,43 +433,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "战士煤炭（HCC）第四季度股价的推动因素",
+          "time": "2026-03-10 21:31:11",
+          "title": "如果10年前投资1千美元在沃伦·巴菲特最喜欢的银行股中，投资者现在将拥有多少钱？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/propelled-warrior-met-coal-hcc-123005314.html",
-          "title_en": "Here’s What Propelled Warrior Met Coal (HCC) Shares in Q4"
+          "url": "https://finance.yahoo.com/news/investing-1k-warren-buffett-favorite-131048191.html",
+          "title_en": "Investing $1K in Warren Buffett’s Favorite Bank Stocks 10 Years Ago Would Have Netted This Much"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "Eos能量（EOS）股价目标下调后市",
+          "time": "2026-03-10 21:31:11",
+          "title": "旗星银行（Flagstar Bank, National Association，FLG）为什么是一个好的投资？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/eos-energy-eos-price-target-122958179.html",
-          "title_en": "Eos Energy (EOS) Price Target Cut Following Earnings"
+          "url": "https://finance.yahoo.com/news/makes-flagstar-bank-national-association-125600061.html",
+          "title_en": "What Makes Flagstar Bank, National Association (FLG) a Good Investment?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "ESS Tech（GWH）在发布财报后引起了分析师的关注。",
+          "time": "2026-03-10 21:31:11",
+          "title": "TD Cowen 将 Warner Bros. Discovery, Inc. (WBD) 的目标价格提高至 26 美元",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ess-tech-gwh-draws-analyst-122947433.html",
-          "title_en": "ESS Tech (GWH) Draws Analyst Attention Following Earnings"
+          "url": "https://finance.yahoo.com/news/td-cowen-raises-warner-bros-125316778.html",
+          "title_en": "TD Cowen Raises Warner Bros. Discovery, Inc. (WBD) Price Target to $26"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "Enovix Corp (ENVX)引起分析师关注",
+          "time": "2026-03-10 21:31:11",
+          "title": "UBS 将 Kenvue Inc. (KVUE) 的目标价格提高至 19 美元，原因是该公司第四季度业绩强劲。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/enovix-corp-envx-comes-under-122936667.html",
-          "title_en": "Enovix Corp (ENVX) Comes Under The Focus Of Analysts"
+          "url": "https://finance.yahoo.com/news/ubs-raises-kenvue-inc-kvue-125314860.html",
+          "title_en": "UBS Raises Kenvue Inc. (KVUE) Price Target to $19 After Strong Q4 Results"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
+          "time": "2026-03-10 21:31:11",
           "title": "分析报告：Avalonbay Communities Inc.",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_2749_AnalystReport_1773140936000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -508,29 +478,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "Flux Power (FLUX) 扩大地面支持电池产品线",
+          "time": "2026-03-10 21:31:11",
+          "title": "2026年最高股息的3家医疗保健股\n\n在医疗保健股中，股息率高的公司包括UnitedHealth Group (UNH)、CVS Health (CVS)和Humana (HUM)。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/flux-power-flux-expands-battery-122911712.html",
-          "title_en": "Flux Power (FLUX) Expands Battery Portfolio For Ground Support"
+          "url": "https://finance.yahoo.com/news/3-healthcare-stocks-paying-highest-130500857.html",
+          "title_en": "3 Healthcare Stocks Paying the Highest Dividends of 2026"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "早间一分钟：塞勒尔投资1.28亿美元购买比特币，得益于STRC",
+          "time": "2026-03-10 21:31:11",
+          "title": "摩根士丹利提高了Nu Holdings Ltd. (NU)的股价目标至21美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/morning-minute-saylor-buys-1-124644491.html",
-          "title_en": "Morning Minute: Saylor Buys $1.28B in Bitcoin, Powered by STRC"
+          "url": "https://finance.yahoo.com/news/morgan-stanley-raises-nu-holdings-125313156.html",
+          "title_en": "Morgan Stanley Raises Nu Holdings Ltd. (NU) Price Target to $21"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 21:00:59",
-          "title": "惠普企业提高2026财年EPS预期",
+          "time": "2026-03-10 21:31:11",
+          "title": "MARA控股公司（MARA）目标价格下调至9美元，清街认为矿业挑战存在",
           "summary": "",
-          "url": "https://www.investors.com/news/technology/hpe-stock-hpe-earnings-news-q42025/?src=A00220&yptr=yahoo",
-          "title_en": "Hewlett Packard Enterprise Raises Fiscal 2026 EPS Outlook"
+          "url": "https://finance.yahoo.com/news/mara-holdings-inc-mara-target-125311722.html",
+          "title_en": "MARA Holdings, Inc. (MARA) Target Lowered to $9 at Clear Street Amid Mining Challenges"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 21:31:11",
+          "title": "Needham降低了Archer航空公司(ACHR)的价格目标至9美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/needham-lowers-archer-aviation-inc-125310021.html",
+          "title_en": "Needham Lowers Archer Aviation Inc. (ACHR) Price Target to $9"
         }
       ]
     }
