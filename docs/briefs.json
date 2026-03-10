@@ -1,6 +1,6 @@
 {
   "date": "2026.03.10",
-  "generatedAtBJT": "2026-03-10 23:02:57",
+  "generatedAtBJT": "2026-03-10 23:33:35",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-10 23:02:57",
+          "time": "2026-03-10 23:33:35",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 道指、标普500、纳斯达克股市下跌，油价下滑，沃尔玛等股价受影响。\n- 宏观/Fed：关注 二月份房屋销售略有改善，但高利率威胁房市。\n- 科技/半导体：亚马逊 reportedly 目标在债券发行中筹集至多 420亿美元。\n- TSLA：关注 这位亿万富翁特斯拉支持者刚刚大力背书了NVIDIA。",
+          "summary": "- 地缘/避险：关注道指、标普500、纳斯达克上涨，石油价格下滑。\n\n- 宏观/Fed：关注2月份房屋销售额有所改善，但高利率威胁。\n\n- 科技/半导体：Oracle今日公布财报，关注人工智能支出。值得注意的是，NVIDIA的销售额达到100亿美元，Amazon的AI代理购买量大增。\n\n- TSLA：关注Amazon的Zoox扩大了机器人出租车测试范围至Phoenix和Dallas。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq fall, oil slides as Wal…\n- 宏观/Fed：关注 Home sales improved in February, but higher mortgage rates threa…\n- 科技/半导体：Amazon Reportedly Targeting Up To $42 Billion In Bond Sale… 关键词: billion, nvidia, amazon, bond, sale\n- TSLA：关注 This Billionaire Tesla Bull Just Backed Up the Truck on Nvidia S…"
+          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq climb, oil slides as Wa…\n- 宏观/Fed：关注 Home sales improved in February, but higher mortgage rates threa…\n- 科技/半导体：Oracle Earnings Due Today With AI Spending In Focus. Here's What… 关键词: nvidia, billion, agent, amazon, buy\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
         }
       ]
     },
@@ -29,7 +29,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
+          "time": "2026-03-10 23:33:31",
+          "title": "奥拉克尔今日公布业绩，关注点在人工智能支出。",
+          "summary": "",
+          "url": "https://www.investors.com/news/technology/oracle-stock-earnings-preview-q3-2026-ai/?src=A00220&yptr=yahoo",
+          "title_en": "Oracle Earnings Due Today With AI Spending In Focus. Here's What To Watch."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 23:33:31",
           "title": "亚马逊 reportedly 目标发行至多 420亿美元债券",
           "summary": "",
           "url": "https://www.investors.com/news/technology/amazon-stock-amzn-bond-sale/?src=A00220&yptr=yahoo",
@@ -38,7 +47,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
+          "time": "2026-03-10 23:33:31",
           "title": "FactSet研究系统（FDS）被Ariel Appreciation基金收购，出于AI担忧",
           "summary": "",
           "url": "https://finance.yahoo.com/news/factset-research-systems-fds-bought-142259374.html",
@@ -47,7 +56,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
+          "time": "2026-03-10 23:33:31",
           "title": "英伟达在科技展前夕下滑；英伟达现在是买还是卖？",
           "summary": "",
           "url": "https://www.investors.com/research/nvidia-nvda-stock-march-2026-2/?src=A00220&yptr=yahoo",
@@ -56,38 +65,39 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "亚马逊计划通过债券发行至少筹集37亿美元",
+          "time": "2026-03-10 23:33:31",
+          "title": "预计未来五年房贷利率：2030年前瞻",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/amazon-starts-bond-sale-aims-124301509.html",
-          "title_en": "Amazon Looks to Raise at Least $37 Billion Through Bond Sale"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-for-the-next-5-years-ai-forecast-through-2030-195826526.html",
+          "title_en": "Mortgage rate predictions for the next 5 years: An AI-driven forecast through 2030"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "亚马逊计划发行37亿美元至42亿美元的债券，布隆伯格新闻报道。",
+          "time": "2026-03-10 23:33:31",
+          "title": "人工智能正在重塑2025年纳税：您需要了解的3个风险",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/amazon-targeting-37-billion-42-133750793.html",
-          "title_en": "Amazon targeting $37 billion to $42 billion in bond sale, Bloomberg News reports"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/ai-is-reshaping-2025-taxes-3-risks-to-know-before-you-file-120000919.html",
+          "title_en": "AI is reshaping 2025 taxes: 3 risks to know before you file"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
+          "time": "2026-03-10 23:33:31",
           "title": "Meta收购人工智能代理社交网络Moltbook",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/meta-acquires-ai-agent-social-network-moltbook-4552480",
           "title_en": "Meta acquires AI agent social network Moltbook"
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "谷歌扩大文档、表格、幻灯片和驱动器中的杰米尼人工智能功能",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/google-expands-gemini-ai-features-in-docs-sheets-slides-and-drive-93CH-4552477",
-          "title_en": "Google expands Gemini AI features in Docs, Sheets, Slides and Drive"
+          "time": "2026-03-10 23:28:43",
+          "title": "亚马逊计划举行内部会议，深入讨论与人工智能相关的故障",
+          "summary": "亚马逊表示，最近的基础设施问题部分原因是人工智能辅助的生产变化。",
+          "url": "https://www.cnbc.com/2026/03/10/amazon-plans-deep-dive-internal-meeting-address-ai-related-outages.html",
+          "title_en": "Amazon plans 'deep dive' internal meeting to address AI-related outages",
+          "summary_en": "Amazon said AI-assisted production changes were partly to blame for recent infrastructure issues."
         },
         {
           "source": "CNBC-World",
@@ -130,7 +140,7 @@
           "summary_en": "Nvidia is planning to lean into the agentic AI craze and launch an open-source platform for AI agents called 'NemoClaw,' according to a report."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-10 06:01:05",
           "title": "Anthropic被美国国防部选为人工智能合作伙伴，如今却被禁用，专家们开始担忧。",
@@ -178,7 +188,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
+          "time": "2026-03-10 23:33:31",
           "title": "二月份房屋销售额有所改善，但更高的抵押贷款利率威胁着这一进展。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/home-sales-improved-in-february-but-higher-mortgage-rates-threaten-that-progress-143720136.html",
@@ -187,11 +197,56 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "美国二月份房屋销售量反弹，购房者趁着抵押贷款利率放松而抓住机会。",
+          "time": "2026-03-10 23:33:31",
+          "title": "截至2026年3月10日，最佳现金市场账户利率（最高可达4.01%APY）",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/us-homes-sales-bounced-back-140324933.html",
-          "title_en": "US homes sales bounced back in February as homebuyers seized on easing mortgage rates"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-tuesday-march-10-2026-100057215.html",
+          "title_en": "Best money market account rates today, March 10, 2026 (Earn up to 4.01% APY)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 23:33:31",
+          "title": "今日（3月10日）房贷和再融资利率：小幅波动",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-march-10-2026-100031024.html",
+          "title_en": "Mortgage and refinance interest rates today, March 10, 2026: Minor moves"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 23:33:31",
+          "title": "截至2026年3月10日，最高收益储蓄利率（最高可达4%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-tuesday-march-10-2026-100027758.html",
+          "title_en": "Best high-yield savings interest rates today, March 10, 2026 (Earn up to 4% APY)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 23:33:31",
+          "title": "今天（3月10日），HELOC和家庭抵押贷款利率保持稳定，购物贷款机构的时机成熟。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-march-10-2026-100002601.html",
+          "title_en": "HELOC and home equity loan rates today, March 10, 2026: Steady rates make it a good time to shop lenders"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 23:33:31",
+          "title": "截至2026年3月10日，今日最佳定期存款利率最高可达4.1%",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-march-10-2026-lock-in-up-to-4-apy-today-100000451.html",
+          "title_en": "Best CD rates today, March 10, 2026: Lock in up to 4.1% APY today"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 23:33:31",
+          "title": "今日（3月9日）房贷和再融资利率上升，受债券市场焦虑影响",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-march-9-2026-100010426.html",
+          "title_en": "Mortgage and refinance rates today, March 9, 2026: Moving higher with bond market anxiety"
         }
       ]
     },
@@ -202,39 +257,115 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "股市今日：道指、标普500指数、纳斯达克指数下跌，石油价格下滑，华尔街对伊朗战争信号的反应。",
+          "time": "2026-03-10 23:33:31",
+          "title": "股市今日：道指、标普500指数、纳斯达克指数上涨，石油价格下滑，华尔街对伊朗战争信号的反应仍在持续。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-fall-oil-slides-as-wall-street-weighs-iran-war-signals-133916039.html",
-          "title_en": "Stock market today: Dow, S&P 500, Nasdaq fall, oil slides as Wall Street weighs Iran war signals"
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-oil-slides-as-wall-street-weighs-iran-war-signals-133916180.html",
+          "title_en": "Stock market today: Dow, S&P 500, Nasdaq climb, oil slides as Wall Street weighs Iran war signals"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "股市今日：道指下跌受特朗普伊朗评论影响，石油价格暴跌（实时报道）",
+          "time": "2026-03-10 23:33:31",
+          "title": "股市今日：道指转高油价持续下滑在美伊冲突持续之下",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-oil-prices-tsmc/?src=A00220&yptr=yahoo",
-          "title_en": "Stock Market Today: Dow Dips After Trump's Iran Comments As Oil Prices Tumble (Live Coverage)"
+          "title_en": "Stock Market Today: Dow Turns Higher As Oil Prices Extend Slide Amid Ongoing U.S.-Iran Conflict (Live Coverage)"
         },
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "奥达斯股份上涨，原因是以色列政府下令清除价值1.58亿美元的地雷。",
+          "time": "2026-03-10 23:33:31",
+          "title": "Hyperliquid跳升，随着杠杆倍数的提高，油价交易热潮爆发",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/ondas-shares-rise-after-158m-demining-order-in-israel-93CH-4552473",
-          "title_en": "Ondas shares rise after $15.8M demining order in Israel"
+          "url": "https://finance.yahoo.com/news/hyperliquid-jumps-margin-upgrade-oil-151942522.html",
+          "title_en": "Hyperliquid Jumps on Margin Upgrade, Oil Trading Frenzy"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 23:33:31",
+          "title": "黄金价格今日（星期二，3月10日）：黄金价格上涨，美国总统特朗普表示伊朗战争将迅速结束",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-march-10-gold-rises-after-president-trump-signalled-quick-end-to-iran-war-105854119.html",
+          "title_en": "Gold price today, Tuesday, March 10: Gold rises after President Trump signalled quick end to Iran war"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 23:33:31",
+          "title": "本周3月9日，房贷利率最好的贷款机构：油价上涨推高房贷利率",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-march-9-2026-170834555.html",
+          "title_en": "Mortgage lenders with the best rates this week, March 9, 2026: Rising oil prices push mortgage rates back up"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 23:33:31",
+          "title": "一场与伊朗的长期战争可能意味着汽油价格的上涨。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/what-an-extended-war-with-iran-could-mean-for-gas-prices-225053494.html",
+          "title_en": "What an extended war with Iran could mean for gas prices"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 23:33:31",
+          "title": "石油价格大幅上涨时股市如何反应",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/heres-stocks-react-price-oil-151300325.html",
+          "title_en": "Here's How Stocks React When the Price of Oil Spikes"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-10 22:55:00",
+          "time": "2026-03-10 23:32:54",
+          "title": "伊朗战争：赫格塞特说星期二将是我们最激烈的袭击日。",
+          "summary": "美国前总统唐纳德·特朗普周一预测，针对伊朗的战争将很快结束，并警告伊朗不要停止石油输出。",
+          "url": "https://www.cnbc.com/2026/03/10/iran-war-trump-hegseth-oil.html",
+          "title_en": "Iran war: Hegseth says Tuesday 'will be our most intense day of strikes'",
+          "summary_en": "President Donald Trump on Monday had predicted that the war against Iran would be over \"very soon,\" and warned that country against withholding oil afterward."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-10 23:32:47",
           "title": "IEA国家将于周二晚些时候讨论释放石油储备，但尚未做出决定。",
           "summary": "国际能源局的成员国主要分布在北美、欧洲和东北亚地区，总共持有约12亿桶石油储备。",
           "url": "https://www.cnbc.com/2026/03/10/iea-g7-oil-iran-war-strait-hormuz.html",
           "title_en": "IEA countries to meet later Tuesday on release of oil reserves, but no decision made yet",
           "summary_en": "The IEA's members are advanced economies in North America, Europe and Northeast Asia. They collectively hold about 1.2 billion barrels of oil in reserve."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-10 23:18:34",
+          "title": "石油价格下跌超过10%，跌至84美元，受应对紧急储备释放的预期影响。",
+          "summary": "国际能源局将于周二举行特别会议，讨论可能的紧急储备释放。",
+          "url": "https://www.cnbc.com/2026/03/10/crude-oil-prices-today-iran-war.html",
+          "title_en": "Oil falls more than 10% to $84 on anticipation of emergency reserves release",
+          "summary_en": "The International Energy Agency will hold an extraodrinary meeting on Tuesday to discuss a possible release of emergency stockpiles."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-10 23:09:00",
+          "title": "CPI即将公布：在伊朗冲突之前，通胀似乎已经放缓，但油价飙升后真的如此吗？",
+          "summary": "石油价格自伊朗冲突开始以来大幅上涨，美国消费者将在加油站面临高昂的油价，但这不会出现在美国通胀最新数据中。",
+          "url": "https://www.marketwatch.com/story/cpi-on-tap-inflation-seemed-to-slow-before-iran-conflict-jacked-up-oil-prices-but-did-it-really-4f97f847?mod=mw_rss_topstories",
+          "title_en": "CPI on tap: Inflation seemed to slow before Iran conflict jacked up oil prices. But did it really?",
+          "summary_en": "Oil prices have surged since the start of the conflict with Iran and American consumers are going to suffer the consequences at the gas pump, but the higher cost of energy won’t show up in the latest reading on U.S. inflation."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-10 23:06:00",
+          "title": "10年期国债收益率在油价下跌缓解通胀恐惧后低于关键水平交易。",
+          "summary": "国债收益率周二上涨，但仍低于周一当油价大幅上涨引发通胀担忧时的水平。",
+          "url": "https://www.marketwatch.com/story/european-bonds-join-treasury-rally-as-lower-oil-prices-ease-inflation-fears-c317b735?mod=mw_rss_topstories",
+          "title_en": "10-year Treasury yield trades below key level after a drop in oil prices eased inflation fears",
+          "summary_en": "Treasury yields were edging up Tuesday, but traded below levels seen Monday when inflation fears tied to oil’s surge were rising."
         },
         {
           "source": "CNBC-Top",
@@ -277,16 +408,6 @@
           "summary_en": "Restaurants in India are facing closure as the government restricts the supply of LPG as cooking fuel, industry representatives tell CNBC."
         },
         {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-10 22:19:46",
-          "title": "海运公司和保险公司不愿意冒险通过霍尔木兹海峡的另一个大原因是",
-          "summary": "一场环境灾难在一个拥有闪亮高楼、奢华海滨度假村和蓬勃发展商业中心的地区构成了巨大的风险。",
-          "url": "https://www.cnbc.com/2026/03/09/one-big-reason-ships-and-insurers-are-unwilling-to-risk-strait-of-hormuz.html",
-          "title_en": "There's another big reason why shipping companies and insurers aren't willing to risk the Strait of Hormuz",
-          "summary_en": "An environmental catastrophe poses a massive risk in a region that has glittering high-rise buildings, posh beachfront resorts and booming commercial centers."
-        },
-        {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-03-10 22:19:00",
@@ -305,76 +426,6 @@
           "url": "https://www.cnbc.com/2026/03/10/european-markets-stoxx-600-ftse-dax-cac-iran-war-latest-news.html",
           "title_en": "European stocks jump 2% as sliding oil prices buoy sentiment",
           "summary_en": "European equities rebounded on Tuesday as traders continue to watch developments in the Middle East."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-10 22:16:40",
-          "title": "飙升的油价可能会抹杀特朗普的\"大美丽法案\"带来的好处。",
-          "summary": "华尔街的估计显示，如果石油价格持续高涨，消费者可能会因新税法而损失的钱多于所得。",
-          "url": "https://www.cnbc.com/2026/03/10/rising-oil-prices-may-wipe-out-effects-of-trumps-big-beautiful-bill.html",
-          "title_en": "Surging oil prices could wipe out benefits from Trump's 'big beautiful bill'",
-          "summary_en": "Estimates from Wall Street project that if oil prices stay elevated for too long, consumers will lose as much as they gain from the new tax law."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-10 22:11:52",
-          "title": "石油价格徘徊在每桶90美元左右，沙特阿拉伯石油公司警告称伊朗战争将带来“灾难性的”后果。",
-          "summary": "石油价格暴跌，随着特朗普警告称，如果伊朗试图阻止霍尔木兹海峡石油流通，伊朗将遭受“二十倍的打击”。",
-          "url": "https://www.cnbc.com/2026/03/10/crude-oil-prices-today-iran-war.html",
-          "title_en": "Oil hovers near $90 as Saudi Aramco warns of 'catastrophic' consequences from Iran war",
-          "summary_en": "Oil prices plunged after Trump warned that Tehran would be hit \"twenty times harder\" if it attempted to halt oil flows through the Strait of Hormuz."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-10 22:09:00",
-          "title": "目前投资石油股的最佳方式可能是这样的",
-          "summary": "油价走势预测将可能成为投资者决策的重要因素。",
-          "url": "https://www.marketwatch.com/story/this-might-be-the-best-way-to-invest-in-oil-stocks-right-now-f7cc270f?mod=mw_rss_topstories",
-          "title_en": "This might be the best way to invest in oil stocks right now",
-          "summary_en": "Opinions on where oil prices are headed from here could be an important decision driver."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-10 21:53:00",
-          "title": "当伊朗冲突拖延时，回归2022年股市战略，策略家这样说",
-          "summary": "巴克莱表示，2022年俄罗斯入侵乌克兰时，获胜和失败的股票之间的差距巨大。以下是他们的风格选择。",
-          "url": "https://www.marketwatch.com/story/return-to-the-2022-stock-market-playbook-as-iran-conflict-drags-on-say-these-strategists-7bb7e01b?mod=mw_rss_topstories",
-          "title_en": "Return to the 2022 stock-market playbook as Iran conflict drags on, say these strategists",
-          "summary_en": "Barclays says the chasm between winning and losing stocks in 2022 when Russia invaded Ukraine was huge. Here are their style picks."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-10 21:19:04",
-          "title": "伊朗战争：赫格塞特说星期二将是我们最激烈的袭击日。",
-          "summary": "美国前总统唐纳德·特朗普周一预测，针对伊朗的战争将很快结束，并警告伊朗不要停止石油输出。",
-          "url": "https://www.cnbc.com/2026/03/10/iran-war-trump-hegseth-oil.html",
-          "title_en": "Iran war: Hegseth says Tuesday 'will be our most intense day of strikes'",
-          "summary_en": "President Donald Trump on Monday had predicted that the war against Iran would be over \"very soon,\" and warned that country against withholding oil afterward."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-10 21:11:31",
-          "title": "伊朗战争和能源价格上涨威胁半导体需求",
-          "summary": "一场美国以色列与伊朗的长期战争可能导致芯片制造关键材料短缺和能源成本上涨，从而损害半导体需求。",
-          "url": "https://www.cnbc.com/2026/03/10/iran-war-semiconductor-memory-chip-impact.html",
-          "title_en": "How the Iran war and rising energy prices are threatening semiconductor demand",
-          "summary_en": "A prolonged U.S.-Israel war against Iran could lead to shortages of key chipmaking materials and higher energy costs which could hurt semiconductor demand."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-10 19:40:55",
-          "title": "伊朗战争打乱石油价格，经济学家称消费者可能会受到重创。",
-          "summary": "伊朗战争可能会影响美国消费者远远超过油价，提高通胀预期并导致10年国债收益率上升。",
-          "url": "https://www.cnbc.com/2026/03/10/iran-war-spikes-oil-prices-consumers.html",
-          "title_en": "As Iran war disrupts oil prices, consumers could be 'hammered,' economist says",
-          "summary_en": "The Iran war may impact U.S. consumers far beyond the gas pump, raising inflation expectations and causing an uptick in the yield on the 10-year Treasury note."
         }
       ]
     },
@@ -382,15 +433,6 @@
       "name": "特斯拉链",
       "badge": "TSLA chain",
       "items": [
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "这位亿万富翁特斯拉狂热者刚刚对Nvidia股票进行了大幅加仓",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/billionaire-tesla-bull-just-backed-144334065.html",
-          "title_en": "This Billionaire Tesla Bull Just Backed Up the Truck on Nvidia Stock"
-        },
         {
           "source": "CNBC-Tech",
           "ticker": "RSS",
@@ -410,34 +452,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "百事可乐在西班牙开设首家Lay's品牌餐厅",
+          "time": "2026-03-10 23:33:31",
+          "title": "Piper维持对Elf的中性评级，因为二月份市场份额回落至负值。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/pepsico-opens-first-lay-branded-144936239.html",
-          "title_en": "PepsiCo opens first Lay’s-branded restaurant in Spain"
+          "url": "https://finance.yahoo.com/news/piper-keeps-neutral-elf-market-152508630.html",
+          "title_en": "Piper keeps Neutral on Elf as market share reverts to negative in February"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "利维恩和NIO股价大涨近10%，投资者认为这两家公司可以抵御电动汽车行业的下滑。",
+          "time": "2026-03-10 23:33:31",
+          "title": "索尼正面对2.7亿英镑的英国诉讼，指控其PlayStation Store价格不当。",
           "summary": "",
-          "url": "https://www.investors.com/news/rivian-r2-nio-chinese-ev-auto-sales-tesla-electric-vehicles/?src=A00220&yptr=yahoo",
-          "title_en": "Rivian, NIO Leap Almost 10% On View They Can Shake Off EV Downturn"
+          "url": "https://finance.yahoo.com/news/sony-fighting-2-7-billion-151444658.html",
+          "title_en": "Sony fighting $2.7 billion UK lawsuit over PlayStation Store prices"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "麦迪逊广场花园娱乐公司（MSGE）因强劲演唱会需求和盈利增长而上涨",
+          "time": "2026-03-10 23:33:31",
+          "title": "如何利用Micron股票当前的繁荣",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/madison-square-garden-entertainment-corp-143341040.html",
-          "title_en": "Madison Square Garden Entertainment Corp. (MSGE) Rises on Strong Concert Demand and Earnings Growth"
+          "url": "https://www.investors.com/research/options/micron-stock-mu-diagonal-put-spread-options/?src=A00220&yptr=yahoo",
+          "title_en": "How To Take Advantage Of Micron Stock's Current Prosperity"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
+          "time": "2026-03-10 23:33:31",
           "title": "2026年3月10日维克斯高管推荐股票",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46380_InsiderActivity_1773142736000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -446,52 +488,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "澳大利亚财务管理局（AFRC）对会计师事务所进行制裁",
+          "time": "2026-03-10 23:33:31",
+          "title": "H.C. Wainwright不认为罗氏(Roche)的消息直接对Olema的OPERA-02有影响。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/afrc-sanctions-auditors-over-registration-144922623.html",
-          "title_en": "AFRC sanctions auditors over registration failures and breaches"
+          "url": "https://finance.yahoo.com/news/h-c-wainwright-does-not-152013614.html",
+          "title_en": "H.C. Wainwright does not see direct read from Roche miss to Olema’s OPERA-02"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "Charles River实验室国际(CRL)因强劲业绩和药物外包需求的韧性而上涨",
+          "time": "2026-03-10 23:33:31",
+          "title": "利维恩和NIO股价大涨近10%，投资者认为这两家公司可以抵御电动汽车行业的下滑。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/charles-river-laboratories-international-crl-143020098.html",
-          "title_en": "Charles River Laboratories International (CRL) Gains on Strong Results and Resilient Drug Outsourcing Demand"
+          "url": "https://www.investors.com/news/rivian-r2-nio-chinese-ev-auto-sales-tesla-electric-vehicles/?src=A00220&yptr=yahoo",
+          "title_en": "Rivian, NIO Leap Almost 10% On View They Can Shake Off EV Downturn"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "美国石油储备是指美国政府储存的石油储备，主要用于应对石油供应短缺或价格上涨的情况。",
+          "time": "2026-03-10 23:33:31",
+          "title": "麦迪逊广场花园娱乐公司（MSGE）因强劲演唱会需求和盈利增长而上涨",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/whats-the-strategic-petroleum-reserve-and-can-it-help-lower-gas-prices-205419685.html",
-          "title_en": "What's the Strategic Petroleum Reserve, and can it help lower gas prices?"
+          "url": "https://finance.yahoo.com/news/madison-square-garden-entertainment-corp-143341040.html",
+          "title_en": "Madison Square Garden Entertainment Corp. (MSGE) Rises on Strong Concert Demand and Earnings Growth"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "预测市场平台Polymarket与Palantir合作监控体育活动",
-          "summary": "",
-          "url": "https://www.investors.com/news/technology/palantir-stock-pltr-polymarket-sports-betting-partnership/?src=A00220&yptr=yahoo",
-          "title_en": "Prediction Market Polymarket Taps Palantir To Monitor Sports Action"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "Generac控股（GNRC）股价下跌，业绩低于预期，指导性指标下调",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/generac-holdings-gnrc-falls-earnings-142623114.html",
-          "title_en": "Generac Holdings (GNRC) Falls After Earnings Miss and Lowered Guidance"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
+          "time": "2026-03-10 23:33:31",
           "title": "2026年3月10日维克斯高买家和高卖家",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46381_TopBottomInsiderActivity_1773142736000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -500,34 +524,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "Voyager (VOYG) 2025年第四季度财报电话会议记录",
+          "time": "2026-03-10 23:33:31",
+          "title": "领取社保金时选择62岁？数学计算是否适合你？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/voyager-voyg-q4-2025-earnings-144750663.html",
-          "title_en": "Voyager (VOYG) Q4 2025 Earnings Call Transcript"
+          "url": "https://finance.yahoo.com/news/claiming-social-security-62-know-152000481.html",
+          "title_en": "Claiming Social Security at 62? How to Know If the Math Works for You."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "奥美集团（OMC）收购了国际公共集团（Interpublic Group），阿里尔基金（Ariel Fund）支持广告巨头合并",
+          "time": "2026-03-10 23:33:31",
+          "title": "Charles River实验室国际(CRL)因强劲业绩和药物外包需求的韧性而上涨",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/omnicom-group-omc-acquires-interpublic-142006198.html",
-          "title_en": "Omnicom Group (OMC) Acquires Interpublic Group as Ariel Fund Backs Combined Advertising Giant"
+          "url": "https://finance.yahoo.com/news/charles-river-laboratories-international-crl-143020098.html",
+          "title_en": "Charles River Laboratories International (CRL) Gains on Strong Results and Resilient Drug Outsourcing Demand"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "比尔·阿克曼（Bill Ackman）旗下的Pershing Square资本管理公司（Pershing Square Capital Management）已向美国证券交易委员会（SEC）提交了IPO申请，计划在纽交所上市。",
+          "time": "2026-03-10 23:33:31",
+          "title": "美国石油储备是指美国政府储存的石油储备，主要用于应对石油供应短缺或价格上涨的情况。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ackman-files-pershing-square-public-141945334.html",
-          "title_en": "Ackman Files to Take Pershing Square Public, Will Have Two Buffett Tribute Bands"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/whats-the-strategic-petroleum-reserve-and-can-it-help-lower-gas-prices-205419685.html",
+          "title_en": "What's the Strategic Petroleum Reserve, and can it help lower gas prices?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
+          "time": "2026-03-10 23:33:31",
+          "title": "预测市场平台Polymarket与Palantir合作监控体育活动",
+          "summary": "",
+          "url": "https://www.investors.com/news/technology/palantir-stock-pltr-polymarket-sports-betting-partnership/?src=A00220&yptr=yahoo",
+          "title_en": "Prediction Market Polymarket Taps Palantir To Monitor Sports Action"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 23:33:31",
           "title": "分析报告：Avalonbay Communities Inc.",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_2749_AnalystReport_1773140936000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -536,38 +569,47 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "加密货币投资者在中东战争恐惧面前仍将资金投入投资产品",
+          "time": "2026-03-10 23:33:31",
+          "title": "Generac控股（GNRC）股价下跌，业绩低于预期，指导性指标下调",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/crypto-investors-pour-money-investment-144721367.html",
-          "title_en": "Crypto Investors Pour Money Into Investment Products Despite Middle East War Fears"
+          "url": "https://finance.yahoo.com/news/generac-holdings-gnrc-falls-earnings-142623114.html",
+          "title_en": "Generac Holdings (GNRC) Falls After Earnings Miss and Lowered Guidance"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "美国现房销售在二月份意外增加",
+          "time": "2026-03-10 23:33:31",
+          "title": "奥美集团（OMC）收购了国际公共集团（Interpublic Group），阿里尔基金（Ariel Fund）支持广告巨头合并",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/us-existing-home-sales-unexpectedly-140129355.html",
-          "title_en": "US existing home sales unexpectedly increase in February"
+          "url": "https://finance.yahoo.com/news/omnicom-group-omc-acquires-interpublic-142006198.html",
+          "title_en": "Omnicom Group (OMC) Acquires Interpublic Group as Ariel Fund Backs Combined Advertising Giant"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
-          "title": "阿根廷的米莱正在向华尔街做推销，而中东的谣言却在吓跑投资者",
+          "time": "2026-03-10 23:33:31",
+          "title": "比尔·阿克曼（Bill Ackman）旗下的Pershing Square资本管理公司（Pershing Square Capital Management）已向美国证券交易委员会（SEC）提交了IPO申请，计划在纽交所上市。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/argentinas-milei-pitching-wall-street-140844840.html",
-          "title_en": "Argentina's Milei is pitching to Wall Street as Middle East spooks investors"
+          "url": "https://finance.yahoo.com/news/ackman-files-pershing-square-public-141945334.html",
+          "title_en": "Ackman Files to Take Pershing Square Public, Will Have Two Buffett Tribute Bands"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 23:02:52",
+          "time": "2026-03-10 23:33:31",
           "title": "市场摘要：MRVL, AVB, DGX, DEO, NCLH",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46374_MarketSummary_1773140036000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "title_en": "Market Digest: MRVL, AVB, DGX, DEO, NCLH"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 23:33:31",
+          "title": "美国核能公司(Uranium Energy Corp)股价今日大涨。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/why-uranium-energy-stock-popped-151726458.html",
+          "title_en": "Why Uranium Energy Stock Popped Today"
         }
       ]
     }
