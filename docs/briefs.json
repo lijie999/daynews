@@ -1,6 +1,6 @@
 {
   "date": "2026.03.10",
-  "generatedAtBJT": "2026-03-10 13:27:31",
+  "generatedAtBJT": "2026-03-10 13:57:48",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-10 13:27:31",
+          "time": "2026-03-10 13:57:48",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 美国是世界最大石油生产国——那么为什么汽油价格居高不下？\n\n- 宏观/Fed：关注 美国内需数据、通胀数据、Oracle、惠普、Adobe和摩根士丹利等公司的财报\n\n- 科技/半导体：AI行业仍有发展空间：华尔街分析师认为技术股仍有购买价值\n\n- TSLA：关注 特斯拉的竞争对手 Zoox 将在 Phoenix 和 Dallas 进行无人驾驶汽车测试",
+          "summary": "- 地缘/避险：关注 美國是世界上最大的石油生产国——那么，为什么汽油价格居高不下？\n\n- 宏观/Fed：关注 战争升级、就业报告反弹和Oracle财报：市场关注什么？\n\n- 科技/半导体：人工智能交易仍“有生命力”：华尔街分析师评估科技股买卖\n\n- TSLA：关注 亚马逊的Zoox扩大了机器人出租车测试到Phoenix和Dallas",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 The US is the world’s biggest oil producer — so why are gas pric…\n- 宏观/Fed：关注 Inflation and Labor Data, Oracle, Hewlett Packard, Adobe, and Mo…\n- 科技/半导体：The AI trade still 'has legs': Wall Street analysts weigh tech s… 关键词: agents, amid, billion, buy, china\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
+          "summary_en": "- 地缘/避险：关注 The US is the world’s biggest oil producer — so why are gas pric…\n- 宏观/Fed：关注 War escalation, jobs report fallout, and Oracle earnings: What t…\n- 科技/半导体：The AI trade still 'has legs': Wall Street analysts weigh tech s… 关键词: buy, agents, amid, billion, china\n- TSLA：关注 Amazon's Zoox expands robotaxi testing to Phoenix and Dallas…"
         }
       ]
     },
@@ -29,7 +29,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "华尔街分析师认为，人工智能交易仍然具有生命力：在市场大幅下跌的情况下，分析师评估了科技股的投资选择。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/the-ai-trade-still-has-legs-wall-street-analysts-weigh-tech-stock-picks-amid-market-sell-off-140003840.html",
@@ -38,25 +38,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
+          "title": "想下注吗？跳过波利市场，买入这个AI股票吧。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/want-bet-skip-polymarket-buy-183200048.html",
+          "title_en": "Want to Make a Bet? Skip Polymarket and Buy This AI Stock Instead."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 13:57:44",
           "title": "KKR内部人士购买46亿美元的资产，公司转型为零售和抗智能化资产",
           "summary": "",
           "url": "https://finance.yahoo.com/news/kkr-insiders-buy-46m-firm-180300492.html",
           "title_en": "KKR insiders buy $46M as firm pivots to retail and AI-proof assets"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
-          "title": "Meta Platforms 股价是否会达到 800 美元？",
+          "time": "2026-03-10 13:57:44",
+          "title": "亚马逊召开工程师会议讨论与人工智能相关的服务中断问题。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/meta-platforms-stock-going-800-173500382.html",
-          "title_en": "Is Meta Platforms Stock Going to $800?"
+          "url": "https://www.investing.com/news/stock-market-news/amazon-holds-engineer-meeting-over-ailinked-service-disruptions-ft-93CH-4551080",
+          "title_en": "Amazon holds engineer meeting over AI-linked service disruptions- FT"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "前Meta AI首席科学家Yann LeCun的AMI公司筹集1.03亿美元资金，支持替代人工智能方法",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/exmeta-ai-chief-yann-lecuns-ami-raises-103-billion-for-alternative-ai-approach-4551055",
@@ -65,7 +74,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "腾讯、中国AI股大涨，受人工智能代理商的乐观预期影响",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/tencent-china-ai-stocks-surge-on-optimism-over-ai-agents-4551040",
@@ -74,11 +83,21 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "苹果在印度生产的iPhone比例已达25%，而中国的生产也在减少，彭博社报道。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/apple-now-makes-25-of-iphones-in-india-amid-china-shift-bloomberg-reports-4551007",
           "title_en": "Apple now makes 25% of iPhones in India amid China shift, Bloomberg reports"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-10 13:52:16",
+          "title": "Nvidia计划为企业推出开源AI代理平台“NemoClaw”。",
+          "summary": "Nvidia计划利用当前的AI代理热潮，推出一个名为“NemoClaw”的开源AI代理平台。",
+          "url": "https://www.cnbc.com/2026/03/10/nvidia-open-source-ai-agent-platform-nemoclaw-wired-agentic-tools-openclaw-clawdbot-moltbot.html",
+          "title_en": "Nvidia plans open-source AI agent platform ‘NemoClaw’ for enterprises: Wired",
+          "summary_en": "Nvidia is planning to lean into the agentic AI craze and launch an open-source platform for AI agents called 'NemoClaw,' according to a report."
         },
         {
           "source": "MarketWatch-Top",
@@ -149,16 +168,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
-          "title": "本周要关注的数据包括通胀和劳动力数据，以及Oracle、惠普（Hewlett Packard）、Adobe等公司的财报。",
-          "summary": "",
-          "url": "https://www.barrons.com/articles/inflation-and-labor-data-oracle-hewlett-packard-adobe-and-more-to-watch-this-week-e4cf3182?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Inflation and Labor Data, Oracle, Hewlett Packard, Adobe, and More to Watch This Week"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "局势升级、就业报告后果和甲骨文财报：本周要关注的内容",
           "summary": "",
           "url": "https://finance.yahoo.com/news/war-escalation-jobs-report-fallout-and-oracle-earnings-what-to-watch-this-week-114534070.html",
@@ -167,7 +177,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "今日最佳定期存款利率（2026年3月9日），最高可锁定4%年利率",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-march-9-2026-100002996.html",
@@ -176,7 +186,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "截至2026年3月9日，今日高收益储蓄利率（最高可达4%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-monday-march-9-2026-100036902.html",
@@ -185,7 +195,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "截至2026年3月9日，最佳现金市场账户利率（最高可达4.01% APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-march-9-2026-100045909.html",
@@ -194,11 +204,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "今天，HELOC和家庭抵押贷款利率：你有一个低利率？现在考虑一下。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-march-9-2026-100048612.html",
           "title_en": "HELOC and home equity loan rates Monday, March 9, 2026: Got a low rate? Now consider this."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 13:57:44",
+          "title": "本周要关注的数据包括通胀和劳动力数据，以及Oracle、惠普（Hewlett Packard）、Adobe等公司的财报。",
+          "summary": "",
+          "url": "https://www.barrons.com/articles/inflation-and-labor-data-oracle-hewlett-packard-adobe-and-more-to-watch-this-week-e4cf3182?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Inflation and Labor Data, Oracle, Hewlett Packard, Adobe, and More to Watch This Week"
         }
       ]
     },
@@ -209,7 +228,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "美国是世界上最大的石油生产国——那么，为什么美国的汽油价格在上涨？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/the-us-is-the-worlds-biggest-oil-producer--so-why-are-gas-prices-rising-here-123211515.html",
@@ -218,7 +237,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "原油价格突破每桶100美元，伊朗战争干扰了产量和运输",
           "summary": "",
           "url": "https://finance.yahoo.com/news/crude-oil-prices-surpass-100-221922295.html",
@@ -227,7 +246,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "美国股市早期大幅下跌，但随后油价从接近120美元反弹至90美元以下，股市也随之上涨。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/japans-nikkei-225-share-index-005405532.html",
@@ -236,7 +255,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
+          "title": "金融市场低估了伊朗冲突的持续时间：Dragonfly",
+          "summary": "",
+          "url": "https://www.barrons.com/livecoverage/sunday0308/card/financial-markets-have-underestimated-duration-of-iran-conflict-dragonfly-UKpIW9m2RRj6o41E8GNM?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Financial Markets Have Underestimated Duration of Iran Conflict: Dragonfly"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 13:57:44",
           "title": "今日黄金价格，星期一，3月9日：黄金价格开盘低迷，随油价大幅上涨",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-march-9-gold-opens-lower-after-oil-prices-spike-105854531.html",
@@ -245,20 +273,11 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
-          "title": "伊朗称石油封锁将持续直到袭击停止，特朗普威胁要加大力度打击。",
+          "time": "2026-03-10 13:57:44",
+          "title": "伊朗称石油封锁将持续到袭击结束，特朗普威胁加剧打击",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/iran-says-oil-blockade-will-continue-until-attacks-end-trump-threatens-to-hit-harder-4551008",
-          "title_en": "Iran says oil blockade will continue until attacks end, Trump threatens to hit harder"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
-          "title": "亚洲股市反弹，油价回落，特朗普称伊朗战争可能即将结束",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-oil-retreats-trump-says-iran-war-could-end-soon-4550997",
-          "title_en": "Asia stocks rebound as oil retreats, Trump says Iran war could end soon"
+          "title_en": "Iran says oil blockade will continue until attacks end, Trump threatens to escalate strikes"
         },
         {
           "source": "CNBC-Top",
@@ -405,7 +424,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
+          "title": "摩根士丹利指出，7项政治风险威胁着投资者。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/morgan-stanley-identifies-7-political-181700498.html",
+          "title_en": "Morgan Stanley identifies 7 political risks hitting investors"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-10 13:57:44",
           "title": "铁路泡沫的一个令人惊讶的结果",
           "summary": "",
           "url": "https://finance.yahoo.com/news/a-surprising-outcome-of-the-railway-bubble-174839920.html",
@@ -414,16 +442,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
-          "title": "罗宾汉的695美元白金卡瞄准美国运通最赚钱的业务，巴克莱警告",
+          "time": "2026-03-10 13:57:44",
+          "title": "雷蒙德（Lemonade）股价上月暴跌40.3%，原因是该公司第四季度财报不及预期。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/robinhoods-695-platinum-card-targets-180026224.html",
-          "title_en": "Robinhood's $695 Platinum Card Targets American Express's Most Profitable Franchise, BofA Warns"
+          "url": "https://finance.yahoo.com/news/why-shares-lemonade-stock-tanked-181759934.html",
+          "title_en": "Why Shares of Lemonade Stock Tanked 40.3% Last Month"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "越来越多的美国人提前取出401(k)退休账户",
           "summary": "",
           "url": "https://finance.yahoo.com/news/why-more-americans-are-taking-401k-withdrawals-143050614.html",
@@ -432,7 +460,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "Axia Energia (AXIA)第四季度调整净利润跃升141%至BRL 1.2亿",
           "summary": "",
           "url": "https://finance.yahoo.com/news/axia-energia-axia-q4-adjusted-224838128.html",
@@ -441,7 +469,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "桑托斯公司批准了库伯盆地优化项目，以减少成本。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/santos-approves-cooper-basin-optimization-235410039.html",
@@ -450,7 +478,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "摩根士丹利更新了格兰杰（GWW）的预测，提高目标价至1,190美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/morgan-stanley-updates-grainger-gww-010355529.html",
@@ -459,7 +487,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "Baird提高了MSA安全的目标价至205美元，因为2026年的预测已满足预期。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/baird-raises-msa-safety-target-010747717.html",
@@ -468,7 +496,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "Seaport研究公司降低了Pentair (PNR)的股价目标，但仍维持买入建议。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/seaport-research-trims-pentair-pnr-010939542.html",
@@ -477,16 +505,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
-          "title": "1 个买入的股息股和 1 个避免的股息股\n\n本周，股息股投资者面临着两种选择。我们将为您推荐一只买入的股息股和一只避免的股息股。",
+          "time": "2026-03-10 13:57:44",
+          "title": "爱心披萨连锁店申请第四次破产保护",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/1-dividend-stock-buy-hand-175000005.html",
-          "title_en": "1 Dividend Stock to Buy Hand Over Fist and 1 to Avoid"
+          "url": "https://finance.yahoo.com/news/beloved-pizza-chain-files-4th-183300807.html",
+          "title_en": "Beloved pizza chain files 4th Chapter 11 bankruptcy in a year"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "BMO资本提高了Nucor（NUE）的目标价至196美元，称其南卡罗来纳州工厂扩建为主要原因。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/bmo-capital-boosts-nucor-nue-011141113.html",
@@ -495,7 +523,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "Argus和Mizuho提高了Lowe's (LOW)目标，预见增长和市场份额增益",
           "summary": "",
           "url": "https://finance.yahoo.com/news/argus-mizuho-lift-lowe-low-011356408.html",
@@ -504,7 +532,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "Freedom Capital对Tennant (TNC)转为谨慎，降级至持有评级。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/freedom-capital-turns-cautious-tennant-011638243.html",
@@ -513,7 +541,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "Baird看好RPM的盈利潜力，提高评级至超买",
           "summary": "",
           "url": "https://finance.yahoo.com/news/baird-sees-strong-earnings-potential-011902536.html",
@@ -522,7 +550,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "中东战争正在摧毁这些股票",
           "summary": "",
           "url": "https://finance.yahoo.com/news/middle-east-war-crushing-group-180500761.html",
@@ -531,7 +559,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "摩根士丹利降低Commerce Bancshares (CBSH)目标价，银行业板块上升",
           "summary": "",
           "url": "https://finance.yahoo.com/news/morgan-stanley-lowers-commerce-bancshares-012127933.html",
@@ -540,7 +568,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "摩根士丹利在对Utilities进行评估期间提高了MGE Energy (MGEE)的价格目标。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/morgan-stanley-raised-mge-energy-012608907.html",
@@ -549,20 +577,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
+          "time": "2026-03-10 13:57:44",
           "title": "Reborn Coffee与Sysco (SYY)携手优化连锁店配送",
           "summary": "",
           "url": "https://finance.yahoo.com/news/reborn-coffee-teams-sysco-syy-012824943.html",
           "title_en": "Reborn Coffee Teams Up with Sysco (SYY) to Streamline Franchise Distribution"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-10 13:27:26",
-          "title": "ABM Industries（ABM）将为Citizens Bank Park提供综合设施服务",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/abm-industries-abm-integrated-facility-013149985.html",
-          "title_en": "ABM Industries (ABM) to Provide Integrated Facility Services at Citizens Bank Park"
         }
       ]
     }
