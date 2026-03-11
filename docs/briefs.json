@@ -1,6 +1,6 @@
 {
   "date": "2026.03.12",
-  "generatedAtBJT": "2026-03-12 05:53:43",
+  "generatedAtBJT": "2026-03-12 06:24:03",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-12 05:53:43",
+          "time": "2026-03-12 06:24:03",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：伊朗冲突拖延，关注回归2022年股市战略。\n- 宏观/Fed：美国房屋销售在2月份增加，购房者趁着房价放缓而抓住机会。\n- 科技/半导体：Polymarket与Palantir、TWG AI合作，打击体育投注。\n- TSLA：亚马逊的Zoox与优步合作，扩大机器人出租车的覆盖范围。",
+          "summary": "- 地缘/避险：关注豆油价格是否已经达到峰值。\n- 宏观/Fed：美国2月房屋销售额增加，购房者趁着房价放缓之机。\n- 科技/半导体：FactSet Research Systems (FDS) 被Ariel Appreciation Fund收购。\n- TSLA：关注亚马逊的Zoox与优步合作，扩大机器人出租车服务。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Return to the 2022 stock-market playbook as Iran conflict drags …\n- 宏观/Fed：关注 US homes sales rose in February as homebuyers seized on easing m…\n- 科技/半导体：Polymarket Taps Palantir, TWG AI to Police Sports Bets… 关键词: nvidia, amazon, investment, oracle, amd\n- TSLA：关注 Amazon's Zoox partners with Uber to reach more robotaxi riders —…"
+          "summary_en": "- 地缘/避险：关注 Market Top Alert: Did Soybean Oil Prices Just Hit Their Peak?…\n- 宏观/Fed：关注 US homes sales rose in February as homebuyers seized on easing m…\n- 科技/半导体：FactSet Research Systems (FDS) Bought by Ariel Appreciation Fund… 关键词: nvidia, amazon, oracle, amd, billion\n- TSLA：关注 Amazon's Zoox partners with Uber to reach more robotaxi riders —…"
         }
       ]
     },
@@ -29,25 +29,44 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "Polymarket与Palantir、TWG AI合作打击体育投注",
+          "time": "2026-03-12 06:23:59",
+          "title": "FactSet研究系统（FDS）被Ariel Appreciation基金收购，出于AI担忧",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/polymarket-taps-palantir-twg-ai-110033456.html",
-          "title_en": "Polymarket Taps Palantir, TWG AI to Police Sports Bets"
+          "url": "https://finance.yahoo.com/news/factset-research-systems-fds-bought-142259374.html",
+          "title_en": "FactSet Research Systems (FDS) Bought by Ariel Appreciation Fund Amid AI Concerns"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "亚马逊计划发行370亿美元债券来支持人工智能业务",
+          "time": "2026-03-12 06:23:59",
+          "title": "华尔街对半导体公司Qualcomm（QCOM）、Nvidia（NVDA）和SolarEdge（SEDG）的看法",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/amazon-targeting-37-billion-42-133750793.html",
-          "title_en": "Amazon targeting $37 billion in bond sale amid AI push"
+          "url": "https://finance.yahoo.com/news/wall-street-saying-semiconductor-names-142439549.html",
+          "title_en": "What Wall Street Is Saying About Semiconductor Names Qualcomm (QCOM), Nvidia (NVDA) and SolarEdge (SEDG) Today"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 06:23:59",
+          "title": "亚马逊 reportedly 目标发行至多 420亿美元债券",
+          "summary": "",
+          "url": "https://www.investors.com/news/technology/amazon-stock-amzn-bond-sale/?src=A00220&yptr=yahoo",
+          "title_en": "Amazon Reportedly Targeting Up To $42 Billion In Bond Sale"
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-12 06:15:05",
+          "title": "FCC主席批评亚马逊因反对SpaceX数据中心计划而导致卫星发射速度缓慢。",
+          "summary": "亚马逊向FCC申请豁免或延迟24个月，推迟到2026年7月部署1600颗互联网卫星的期限。",
+          "url": "https://www.cnbc.com/2026/03/11/fcc-chair-amazon-spacex-data-center-space.html",
+          "title_en": "FCC chair slams Amazon for slow satellite launches after it opposed SpaceX data center plan",
+          "summary_en": "Amazon asked the FCC for a waiver or 24-month extension to meet a July 2026 deadline to deploy 1,600 internet satellites."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-12 05:51:42",
+          "time": "2026-03-12 06:11:54",
           "title": "Atlassian 削减员工10%，用于“自筹资金”在人工智能和企业销售方面的投资。",
           "summary": "Atlassian 表示将裁员 10%，约 1,600 个职位，旨在为人工智能和企业销售投资提供资金。",
           "url": "https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html",
@@ -183,26 +202,6 @@
           "url": "https://www.cnbc.com/2026/03/10/meta-social-networks-ai-agents-moltbook-acquisition.html",
           "title_en": "Meta gets into social networks for AI agents with acquisition of viral Moltbook platform",
           "summary_en": "Moltbook was built for OpenClaw agents, and OpenClaw's founder, Peter Steinberger, was hired by OpenAI."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-11 03:04:27",
-          "title": "Nvidia对Mira Murati的Thinking Machines实验室进行了\"重大投资\"。",
-          "summary": "作为合作的一部分，Thinking Machines Lab还同意部署至少一千兆瓦的Nvidia Vera Rubin系统。",
-          "url": "https://www.cnbc.com/2026/03/10/nvidia-mira-murati-thinking-machines-lab-ai.html",
-          "title_en": "Nvidia makes 'significant investment' in Mira Murati's Thinking Machines Lab",
-          "summary_en": "As part of the partnership, Thinking Machines Lab has also agreed to deploy at least one gigawatt of Nvidia's Vera Rubin systems."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-11 01:08:06",
-          "title": "谷歌加深了与美国国防部的AI合作关系，随后Anthropic对特朗普政府提起诉讼。",
-          "summary": "谷歌正在推出一个功能，允许民间和军方人员在国防部企业AI门户上为未分类工作创建定制AI代理。",
-          "url": "https://www.cnbc.com/2026/03/10/google-deepens-pentagon-ai-push-after-anthropic-sues-trump-admin.html",
-          "title_en": "Google deepens Pentagon AI push after Anthropic sues Trump administration",
-          "summary_en": "Google is rolling out a feature that lets civilian and military personnel build custom AI agents for unclassified work on the Pentagon's enterprise AI portal."
         }
       ]
     },
@@ -213,7 +212,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
+          "time": "2026-03-12 06:23:59",
           "title": "美国二月份房屋销售额上涨，购房者趁着抵押贷款利率放缓而抓住机会。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/us-homes-sales-bounced-back-140324933.html",
@@ -258,20 +257,39 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "当伊朗冲突拖延时，回归2022年股市战略，策略家这样说",
+          "time": "2026-03-12 06:23:59",
+          "title": "豆油价格是否已经达到峰值？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/return-2022-stock-market-playbook-135300972.html",
-          "title_en": "Return to the 2022 stock-market playbook as Iran conflict drags on, say these strategists"
+          "url": "https://finance.yahoo.com/news/market-top-alert-did-soybean-142017161.html",
+          "title_en": "Market Top Alert: Did Soybean Oil Prices Just Hit Their Peak?"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "伊朗冲突升级，这个防御ETF可能继续上涨",
+          "time": "2026-03-12 06:23:59",
+          "title": "股市下跌，国债收益率大幅上升，随着油价的上涨",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/why-defense-etf-could-keep-133800515.html",
-          "title_en": "Why This Defense ETF Could Keep Rallying as the Iran Conflict Escalates"
+          "url": "https://www.investing.com/news/stock-market-news/shares-steady-oil-turbulence-deepens-as-middle-east-war-roils-markets-4553493",
+          "title_en": "Stocks dip, Treasury yields jump as oil pushes higher"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 06:23:59",
+          "title": "伊朗相关黑客声称对美国医疗设备制造商斯特里克（Stryker）发动攻击负责",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/iranlinked-hackers-claim-responsibility-for-attack-on-us-medical-device-maker-stryker-4555780",
+          "title_en": "Iran-linked hackers claim responsibility for attack on US medical device maker Stryker"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-12 06:04:00",
+          "title": "国际能源局（IEA）释放的最大石油储备正推高原油价格",
+          "summary": "国际能源署的最大规模石油储备释放使油价上涨了近5%。",
+          "url": "https://www.marketwatch.com/story/oil-futures-rise-as-traders-await-decision-on-reserves-3cd81485?mod=mw_rss_topstories",
+          "title_en": "Why the IEA’s largest-ever release of oil reserves is pushing up crude prices",
+          "summary_en": "The largest-ever release of oil from the International Energy Agency’s emergency stockpiles lifted prices for the commodity up by nearly 5% on Wednesday."
         },
         {
           "source": "MarketWatch-Top",
@@ -327,16 +345,6 @@
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-03-12 04:49:00",
-          "title": "国际能源局（IEA）释放的最大石油储备正推高原油价格",
-          "summary": "国际能源署的最大规模石油储备释放使油价上涨了近5%。",
-          "url": "https://www.marketwatch.com/story/oil-futures-rise-as-traders-await-decision-on-reserves-3cd81485?mod=mw_rss_topstories",
-          "title_en": "Why the IEA’s largest-ever release of oil reserves is pushing up crude prices",
-          "summary_en": "The largest-ever release of oil from the International Energy Agency’s emergency stockpiles lifted prices for the commodity up by nearly 5% on Wednesday."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-12 04:49:00",
           "title": "投资组合中70%的可能性并未准备好应对伊朗冲突的升级",
           "summary": "伊朗冲突的下一个七天将决定是通胀加速还是全球经济衰退",
           "url": "https://www.marketwatch.com/story/the-70-odds-that-say-your-portfolio-isnt-ready-for-the-iran-conflicts-escalation-2546b93a?mod=mw_rss_topstories",
@@ -344,7 +352,7 @@
           "summary_en": "The next seven days of the Iran conflict will set the stage for stagflation or global recession"
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-12 04:40:37",
           "title": "查布公司被指定为波斯湾航运的主要美国保险公司，随着伊朗战争的升级。",
@@ -404,7 +412,7 @@
           "summary_en": "President Donald Trump said oil companies should send tankers through the Strait of Hormuz, which has remained effectively closed due to the war on Iran."
         },
         {
-          "source": "CNBC-World",
+          "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-12 02:17:19",
           "title": "IEA同意释放记录4200万桶石油以应对伊朗战争供应中断",
@@ -422,16 +430,6 @@
           "url": "https://www.cnbc.com/2026/03/11/cargo-ship-struck-strait-of-hormuz-uk-iran-war.html",
           "title_en": "Three cargo ships struck off Iran's coast, UK says, including one in Strait of Hormuz",
           "summary_en": "The incidents mark the latest in a string of reported attacks in or near to the Strait of Hormuz, where shipping traffic has virtually ground to a halt."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-11 22:18:51",
-          "title": "伊朗通过霍尔木兹海峡将数百万桶石油运往中国，尽管战争使水道受阻。",
-          "summary": "伊朗继续通过霍尔木兹海峡向中国运输原油，尽管美伊以色列与伊朗的战争已经干扰了该水道更广泛的能源供应。",
-          "url": "https://www.cnbc.com/2026/03/11/iran-ships-oil-china-strait-hormuz-closure-.html",
-          "title_en": "Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway",
-          "summary_en": "Iran has continued to ship crude oil via the Strait of Hormuz to China even as the war between U.S.-Israel and Iran has disrupted broader energy supplies via the waterway."
         }
       ]
     },
@@ -458,164 +456,164 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "阿梅特克股价：阿梅特克是否低于工业行业平均水平？",
+          "time": "2026-03-12 06:23:59",
+          "title": "奥克西德نت尔石油（Occidental Petroleum）电话交易量超过正常水平，方向上为阳性。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ametek-stock-ame-underperforming-industrial-134358677.html",
-          "title_en": "AMETEK Stock: Is AME Underperforming the Industrial Sector?"
+          "url": "https://finance.yahoo.com/news/occidental-petroleum-call-volume-above-142521416.html",
+          "title_en": "Occidental Petroleum call volume above normal and directionally bullish"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "1 周内股价上涨19%，仍然看好这家公司",
+          "time": "2026-03-12 06:23:59",
+          "title": "Generac控股（GNRC）股价下跌，业绩低于预期，指导性指标下调",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/1-stock-19-2-weeks-135000484.html",
-          "title_en": "1 Stock Up 19% in 2 Weeks That Still Looks Like a Great Buy Right Now"
+          "url": "https://finance.yahoo.com/news/generac-holdings-gnrc-falls-earnings-142623114.html",
+          "title_en": "Generac Holdings (GNRC) Falls After Earnings Miss and Lowered Guidance"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "对Figma, Inc. (FIG)的整体情绪较为消极，行业动态疲弱",
+          "time": "2026-03-12 06:23:59",
+          "title": "赛力斯（Corteva）股票是否低于纳斯达克（Nasdaq）的表现？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/weak-overall-sentiment-figma-inc-134128405.html",
-          "title_en": "Weak Overall Sentiment on Figma, Inc. (FIG) Amid Weak Industry Momentum"
+          "url": "https://finance.yahoo.com/news/corteva-stock-underperforming-nasdaq-142107561.html",
+          "title_en": "Is Corteva Stock Underperforming the Nasdaq?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "奥蒂斯环球的股价表现如何与其他工业股相比？",
+          "time": "2026-03-12 06:23:59",
+          "title": "更多的奥克兰（Oakland）不良资产将被拍卖",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/otis-worldwides-stock-performance-compared-135014901.html",
-          "title_en": "How Is Otis Worldwide's Stock Performance Compared to Other Industrial Stocks?"
+          "url": "https://finance.yahoo.com/news/more-troubled-oakland-california-properties-142400162.html",
+          "title_en": "More troubled Oakland, California, properties reportedly head to auction"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "赫氏（Hershey）股价是否超越了标普500指数（S&P 500）?",
+          "time": "2026-03-12 06:23:59",
+          "title": "奥美集团（OMC）收购了国际公共集团（Interpublic Group），阿里尔基金（Ariel Fund）支持广告巨头合并",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/hershey-stock-outperforming-p-500-135436769.html",
-          "title_en": "Is Hershey Stock Outperforming the S&P 500?"
+          "url": "https://finance.yahoo.com/news/omnicom-group-omc-acquires-interpublic-142006198.html",
+          "title_en": "Omnicom Group (OMC) Acquires Interpublic Group as Ariel Fund Backs Combined Advertising Giant"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "Fidelity国信信息服务股票：FIS是否低于技术行业表现？",
+          "time": "2026-03-12 06:23:59",
+          "title": "比尔·阿克曼（Bill Ackman）旗下的Pershing Square资本管理公司（Pershing Square Capital Management）已向美国证券交易委员会（SEC）提交了IPO申请，计划在纽交所上市。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/fidelity-national-information-services-stock-135427638.html",
-          "title_en": "Fidelity National Information Services Stock: Is FIS Underperforming the Technology Sector?"
+          "url": "https://finance.yahoo.com/news/ackman-files-pershing-square-public-141945334.html",
+          "title_en": "Ackman Files to Take Pershing Square Public, Will Have Two Buffett Tribute Bands"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "在考虑投资Winnebago Industries（WGO）之前，了解其财务表现、行业趋势以及公司的发展战略非常重要。",
+          "time": "2026-03-12 06:23:59",
+          "title": "库姆敏斯(Cummins)股票表现如何与其他工业股相比？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/invest-winnebago-industries-wgo-133558783.html",
-          "title_en": "Should You Invest in Winnebago Industries (WGO)?"
+          "url": "https://finance.yahoo.com/news/cummins-stock-performance-compared-other-141655006.html",
+          "title_en": "How Is Cummins' Stock Performance Compared to Other Industrial Stocks?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "非英国籍CDL执照持有者整改行动已经开始——13,000名司机被取消执照，全国性新规即将实施",
+          "time": "2026-03-12 06:23:59",
+          "title": "预测市场平台Polymarket与Palantir合作监控体育活动",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/non-domiciled-cdl-crackdown-arrived-133203957.html",
-          "title_en": "The Non-Domiciled CDL Crackdown Has Arrived – 13,000 Drivers Out, a National Rule A Few Days Away"
+          "url": "https://www.investors.com/news/technology/palantir-stock-pltr-polymarket-sports-betting-partnership/?src=A00220&yptr=yahoo",
+          "title_en": "Prediction Market Polymarket Taps Palantir To Monitor Sports Action"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "阿迪恩股份(ADNT)下跌是由于指导信心减弱",
+          "time": "2026-03-12 06:23:59",
+          "title": "阿彻航空股票是成为百万富翁的门票吗？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/adient-plc-adnt-fell-due-132930580.html",
-          "title_en": "Adient plc (ADNT) Fell Due to Weaker Guidance"
+          "url": "https://finance.yahoo.com/news/archer-aviation-stock-ticket-becoming-142500892.html",
+          "title_en": "Is Archer Aviation Stock Your Ticket to Becoming a Millionaire?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "策略公司收购了价值约128亿美元的17994枚比特币。",
+          "time": "2026-03-12 06:23:59",
+          "title": "PayPay IPO上市后是否应该购买PAYP股票？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/strategy-acquires-17-994-bitcoin-134104471.html",
-          "title_en": "Strategy acquires 17,994 bitcoin for $1.28B"
+          "url": "https://finance.yahoo.com/news/buy-payp-stock-paypay-ipo-141038989.html",
+          "title_en": "Should You Buy PAYP Stock After the PayPay IPO?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "S&P环球升级Hudbay矿业公司(HBM)至BB-，因强劲的现金流",
+          "time": "2026-03-12 06:23:59",
+          "title": "Lululemon athletica 股票是否低于道氏指数的表现？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/p-global-upgrades-hudbay-minerals-135728673.html",
-          "title_en": "S&P Global Upgrades Hudbay Minerals Inc. (HBM) to BB- on Strong Cash Flow"
+          "url": "https://finance.yahoo.com/news/lululemon-athletica-stock-underperforming-dow-140938941.html",
+          "title_en": "Is lululemon athletica Stock Underperforming the Dow?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "阿吉科黄金矿业（AEM）是最好的矿业投资股之一吗？",
+          "time": "2026-03-12 06:23:59",
+          "title": "为什么聪明的钱可能正在抛弃雪佛兰股价的牛市观点",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/agnico-eagle-mines-limited-aem-135721235.html",
-          "title_en": "Is Agnico Eagle Mines Limited (AEM) One of the Best Mineral Stocks to Invest In?"
+          "url": "https://finance.yahoo.com/news/why-smart-money-may-abandoning-140915431.html",
+          "title_en": "Why the Smart Money May Be Abandoning the Bull Case for Chevron Stock"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "摩根大通预测新蒙矿业公司（NEM）生产增长强劲至2029年。",
+          "time": "2026-03-12 06:23:59",
+          "title": "美国现房销售在二月份意外增加",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jpmorgan-predicts-strong-production-growth-135720344.html",
-          "title_en": "JPMorgan Predicts Strong Production Growth for Newmont Corporation (NEM) Through 2029"
+          "url": "https://finance.yahoo.com/news/us-existing-home-sales-unexpectedly-140129355.html",
+          "title_en": "US existing home sales unexpectedly increase in February"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
+          "time": "2026-03-12 06:23:59",
+          "title": "分析报告：Cboe全球市场公司",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_4536_AnalystReport_1773253259000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Cboe Global Markets Inc"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 06:23:59",
+          "title": "奥拉克尔股价大幅下跌。第三季度财报是否能带来反弹？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/oracle-stock-tumbled-sharply-could-140509754.html",
+          "title_en": "Oracle Stock Has Tumbled Sharply. Could Q3 Earnings Spark a Rebound?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 06:23:59",
+          "title": "Charles River实验室国际(CRL)因强劲业绩和药物外包需求的韧性而上涨",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/charles-river-laboratories-international-crl-143020098.html",
+          "title_en": "Charles River Laboratories International (CRL) Gains on Strong Results and Resilient Drug Outsourcing Demand"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 06:23:59",
+          "title": "股市受到高债券收益率和波斯湾袭击的压力",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/stocks-pressured-higher-bond-yields-140301570.html",
+          "title_en": "Stocks Pressured By Higher Bond Yields and Persian Gulf Strikes"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 06:23:59",
           "title": "市场动态：TPR、EQR、CBOE",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46396_MarketUpdate_1773253259000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "title_en": "Market Update: TPR, EQR, CBOE"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "H.C. Wainwright升高First Majestic Silver Corp. (AG)的股价目标后，该公司表现出强劲的季度。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/h-c-wainwright-raises-first-135725170.html",
-          "title_en": "H.C. Wainwright Raises First Majestic Silver Corp. (AG) Price Target After Strong Quarter"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "维斯塔金业宣布完成44.85万美元公众募资",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/vista-gold-announces-closing-44-135024924.html",
-          "title_en": "Vista Gold announces closing of $44.85M public offering"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "Nexa Resources S.A. (NEXA) 业绩超出预期，受强劲锌价格推动",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/nexa-resources-nexa-earnings-beat-135726365.html",
-          "title_en": "Nexa Resources S.A. (NEXA) Earnings Beat Estimates on Strong Zinc Prices"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 05:53:39",
-          "title": "Truist认为锂需求可能推动Albemarle Corporation (ALB)的增长",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/truist-says-lithium-demand-could-135723411.html",
-          "title_en": "Truist Says Lithium Demand Could Drive Albemarle Corporation (ALB) Growth"
         }
       ]
     }
