@@ -1,6 +1,6 @@
 {
   "date": "2026.03.11",
-  "generatedAtBJT": "2026-03-11 20:30:28",
+  "generatedAtBJT": "2026-03-11 20:47:10",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-11 20:30:28",
+          "time": "2026-03-11 20:47:10",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：市场关注今日股市：道指、标普500指数和纳斯达克期货波动。\n- 宏观/Fed：关注今日股市：道指在CPI通胀数据面前波动；AI领域的AMAT和Micron仍在获利，尽管QQQ和行业表现不佳。\n- 科技/半导体：AMAT和Micron在AI领域仍保持领先地位，尽管QQQ和行业表现不佳。\n- TSLA：关注Amazon的Zoox与Uber合作，扩大机器人出租车用户。",
+          "summary": "- 地缘/避险：关注 道指、标普500、纳斯达克期货波动，等待最新数据。\n- 宏观/Fed：关注 道指波动，等待CPI通胀数据公布；AI领域发展热点。\n- 科技/半导体：苹果在印度生产创下新纪录，蒂姆·库克加速生产以应对需求。\n 关键词：NVIDIA、Oracle、Agent、Amazon、Anthropic",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq futures waver amid cont…\n- 宏观/Fed：关注 Stock Market Today: Dow Wavers Ahead Of CPI Inflation Data; AI G…\n- 科技/半导体：AMAT and Micron still winning in AI trade despite QQQ and sector… 关键词: nvidia, oracle, amazon, anthropic, billion\n- TSLA：关注 Amazon's Zoox partners with Uber to reach more robotaxi riders —…"
+          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq futures waver amid fres…\n- 宏观/Fed：关注 Stock Market Today: Dow Wavers Ahead Of CPI Inflation Data; AI G…\n- 科技/半导体：Apple Smashes India Production Records As Tim Cook Races To Dodg… 关键词: nvidia, oracle, agent, amazon, anthropic\n- TSLA：关注 Uber stock gains after announcing Zoox robotaxi partnership…"
         }
       ]
     },
@@ -29,25 +29,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
-          "title": "AMAT和Micron仍在AI交易中获胜，尽管QQQ和行业面临困难",
+          "time": "2026-03-11 20:47:05",
+          "title": "苹果在印度的生产记录创下新高，蒂姆·库克试图避开价值一万亿美元的中国关税",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/amat-micron-still-winning-ai-121335228.html",
-          "title_en": "AMAT and Micron still winning in AI trade despite QQQ and sector weakness"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
-          "title": "吉姆·克拉默说：“甲骨文已经成为数据中心的王者，它在这个领域增长最快。”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-oracle-made-112744447.html",
-          "title_en": "Jim Cramer Says “Oracle Has Made Itself the King of the Data Center, It’s the Fastest-Growing In the Space”"
+          "url": "https://finance.yahoo.com/news/apple-smashes-india-production-records-123035455.html",
+          "title_en": "Apple Smashes India Production Records As Tim Cook Races To Dodge Trillion-Dollar China Tariffs"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
+          "time": "2026-03-11 20:47:05",
           "title": "Nebius飞行的标志着NVIDIA签署了2亿美元的云计算合同，正值“循环融资”引发的关注",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/nebius-flies-as-nvidia-inks-2b-cloud-deal-amid-circular-financing-scrutiny-4554377",
@@ -56,11 +47,12 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-11 20:24:40",
+          "time": "2026-03-11 20:41:25",
           "title": "Nebius 股票大涨 10%，因Nvidia宣布2亿美元投资",
-          "summary": "",
+          "summary": "两家公司将在这项协议中合作，共同推进人工智能基础设施的部署。",
           "url": "https://www.cnbc.com/2026/03/11/nebius-nvidia-ai-cloud.html",
-          "title_en": "Nebius stock pops 10% on Nvidia $2 billion investment announcement"
+          "title_en": "Nebius stock pops 10% on Nvidia $2 billion investment announcement",
+          "summary_en": "The companies will collaborate on AI infrastructure deployment as part of the deal."
         },
         {
           "source": "CNBC-Top",
@@ -163,7 +155,7 @@
           "summary_en": "As part of the partnership, Thinking Machines Lab has also agreed to deploy at least one gigawatt of Nvidia's Vera Rubin systems."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-11 01:08:06",
           "title": "谷歌加深了与美国国防部的AI合作关系，随后Anthropic对特朗普政府提起诉讼。",
@@ -201,6 +193,16 @@
           "url": "https://www.cnbc.com/2026/03/10/oracle-orcl-stock-earnings-ai-data-center.html",
           "title_en": "Oracle earnings will show whether its expensive AI bet is starting to pay off",
           "summary_en": "Oracle's $300 billion deal with OpenAI established it as a major player in AI cloud computing alongside Amazon, Google and Microsoft."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-10 15:09:24",
+          "title": "Nvidia计划为企业推出开源AI代理平台“NemoClaw”。",
+          "summary": "Nvidia计划利用当前的AI代理热潮，推出一个名为“NemoClaw”的开源AI代理平台。",
+          "url": "https://www.cnbc.com/2026/03/10/nvidia-open-source-ai-agent-platform-nemoclaw-wired-agentic-tools-openclaw-clawdbot-moltbot.html",
+          "title_en": "Nvidia plans open-source AI agent platform ‘NemoClaw’ for enterprises: Wired",
+          "summary_en": "Nvidia is planning to lean into the agentic AI craze and launch an open-source platform for AI agents called 'NemoClaw,' according to a report."
         }
       ]
     },
@@ -211,7 +213,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
+          "time": "2026-03-11 20:47:05",
           "title": "股市今日：道指波动等待CPI通胀数据公布；AI巨头Oracle因业绩大涨",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-data-oracle-orcl/?src=A00220&yptr=yahoo",
@@ -220,21 +222,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
+          "time": "2026-03-11 20:47:05",
+          "title": "沃尔沃计划到2030年在德国裁员50,000人，受益于利润下滑",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/volkswagen-cut-50-000-jobs-123055122.html",
+          "title_en": "Volkswagen to cut 50,000 jobs in Germany by 2030 as profits fall"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 20:47:05",
           "title": "黄金价格今日，星期三，3月11日：黄金开盘低于5,200美元，等待CPI报告",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-march-11-gold-opens-below-5200-ahead-of-cpi-report-105854101.html",
           "title_en": "Gold price today, Wednesday, March 11: Gold opens below $5,200 ahead of CPI report"
         },
         {
-          "source": "CNBC-World",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:09:15",
-          "title": "国债收益率上升，投资者等待关键通胀报告",
-          "summary": "美国国债收益率周三上升，投资者期待发布的2月通胀报告，同时关注美伊战争的最新动态。",
-          "url": "https://www.cnbc.com/2026/03/11/us-treasury-yields-investors-await-key-inflation-report-.html",
-          "title_en": "Treasury yields are higher as investors await key inflation report",
-          "summary_en": "U.S. Treasury yields moved higher on Wednesday as investors awaited February's inflation report and monitored developments on the US-Iran war front."
+          "time": "2026-03-11 20:47:05",
+          "title": "截至2026年3月11日，最佳现金市场账户利率（最高可达4.01%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-march-11-2026-100041471.html",
+          "title_en": "Best money market account rates today, March 11, 2026 (secure up to 4.01% APY)"
         },
         {
           "source": "MarketWatch-Top",
@@ -265,16 +275,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
-          "title": "股市今日：道指、标普500指数和纳斯达克期货价格波动不定，受伊朗局势持续影响，CPI即将公布",
+          "time": "2026-03-11 20:47:05",
+          "title": "股市今日：道指、标普500指数和纳斯达克期货价格波动不定，受新一轮通胀数据和伊朗冲突持续影响。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-waver-amid-continued-iran-fallout-with-cpi-on-deck-231325631.html",
-          "title_en": "Stock market today: Dow, S&P 500, Nasdaq futures waver amid continued Iran fallout, with CPI on deck"
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-waver-amid-fresh-inflation-data-continued-iran-fallout-231325252.html",
+          "title_en": "Stock market today: Dow, S&P 500, Nasdaq futures waver amid fresh inflation data, continued Iran fallout"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
+          "time": "2026-03-11 20:47:05",
+          "title": "CPI通胀率稳定，租金放缓，油价上涨；S&P 500期货稳定（实时报道）",
+          "summary": "",
+          "url": "https://www.investors.com/news/economy/cpi-inflation-oil-prices-tariffs-federal-reserve-sp-500/?src=A00220&yptr=yahoo",
+          "title_en": "CPI Inflation In Line As Rent Slows, Oil Prices Heat Up; S&P 500 Futures Steady (Live Coverage)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 20:47:05",
           "title": "道琼斯指数期货下跌，甲骨片上涨；油价随储备释放计划公布而波动。",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-price-swings-ai-stocks-oracle-earnings/?src=A00220&yptr=yahoo",
@@ -283,7 +302,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
+          "time": "2026-03-11 20:47:05",
           "title": "石油价格上涨，S&P 500期货价格下跌，储备计划-offset了矿山恐惧",
           "summary": "",
           "url": "https://www.investors.com/news/oil-prices-sp-500-crude-reserve-release-strait-hormuz-mines/?src=A00220&yptr=yahoo",
@@ -292,7 +311,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
+          "time": "2026-03-11 20:47:05",
           "title": "IPO 领跑者即将发力，顶级基金大举进军。伊朗战争的影响引发了疑虑。",
           "summary": "",
           "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/karman-stock-targets-breakout-best-mutual-funds-bet-big/?src=A00220&yptr=yahoo",
@@ -301,25 +320,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
+          "time": "2026-03-11 20:47:05",
           "title": "油价大幅上涨后股市的典型表现",
           "summary": "",
           "url": "https://finance.yahoo.com/news/stocks-tend-behave-large-weekly-120004758.html",
           "title_en": "How Stocks Tend to Behave After Large Weekly Oil Gains"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
-          "title": "比特币价格下跌至70万美元以下，国际能源局考虑释放历史性石油储备。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/bitcoin-retreats-under-70k-iea-120027716.html",
-          "title_en": "Bitcoin Retreats Under $70K as IEA Weighs Historic Oil Reserve Release"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
+          "time": "2026-03-11 20:47:05",
           "title": "美国股指期货略微下跌，等待通胀数据；伊朗冲突在关注之中",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-tick-up-ahead-of-cpi-data-traders-assess-iran-war-outlook-4553398",
@@ -328,7 +338,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
+          "time": "2026-03-11 20:47:05",
           "title": "沃尔夫：税退还可能缓解油价冲击下的消费者支出",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/wolfe-tax-refunds-likely-to-cushion-consumer-spending-amid-oil-shock-93CH-4554322",
@@ -337,11 +347,41 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
+          "time": "2026-03-11 20:47:05",
           "title": "以色列认为美国领导的轰炸行动并未带来伊朗起义的确定性",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/israel-sees-no-certainty-of-iranian-uprising-despite-usled-bombing-campaign-4554311",
           "title_en": "Israel sees no certainty of Iranian uprising despite U.S.-led bombing campaign"
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-11 20:39:20",
+          "title": "美债收益率上涨，受二月通胀数据坚挺和油价上涨影响",
+          "summary": "美国国债收益率周三上升，投资者期待发布的2月通胀报告，同时关注美伊战争的最新动态。",
+          "url": "https://www.cnbc.com/2026/03/11/us-treasury-yields-investors-await-key-inflation-report-.html",
+          "title_en": "Treasury yields gain after sticky February inflation reading, oil price increase",
+          "summary_en": "U.S. Treasury yields moved higher on Wednesday as investors awaited February's inflation report and monitored developments on the US-Iran war front."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-11 20:35:00",
+          "title": "当伊朗冲突和油价波动影响投资者时，S&P 500的下一条界限是什么？",
+          "summary": "S&P 500的下一步走向取决于石油价格和霍尔木兹海峡。",
+          "url": "https://www.marketwatch.com/story/as-iran-conflict-and-oil-roil-investors-heres-the-next-line-in-the-sand-for-the-s-p-500-e3409398?mod=mw_rss_topstories",
+          "title_en": "As Iran conflict and oil roil investors, here’s the next line in the sand for the S&P 500",
+          "summary_en": "Where the S&P 500 goes next is clearly hinging on oil prices and the Strait of Hormuz. Here’s a fresh line in the sand."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-11 20:34:36",
+          "title": "中东地区超级计算机供应商的巨大人工智能建设可能受伊朗战争的影响",
+          "summary": "科技公司已经将数十亿美元投入中东的AI项目中——伊朗战争意味着将会有人问及未来投资的可行性。",
+          "url": "https://www.cnbc.com/2026/03/11/iran-war-hyperscalers-huge-middle-east-ai-data-center-plans.html",
+          "title_en": "How the Iran war could impact hyperscalers' massive AI buildout in the Middle East",
+          "summary_en": "Tech companies have funnelled billions of dollars into Middle East AI projects — the Iran war means questions will be asked about future investments"
         },
         {
           "source": "CNBC-Top",
@@ -394,26 +434,6 @@
           "summary_en": "Arms maker Rheinmetall reported full-year sales that grew 29% year-over-year and said revenue would grow by even more this year."
         },
         {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-11 20:16:00",
-          "title": "当伊朗冲突和油价波动影响投资者时，S&P 500的下一条界限是什么？",
-          "summary": "S&P 500的下一步走向取决于石油价格和霍尔木兹海峡。",
-          "url": "https://www.marketwatch.com/story/as-iran-conflict-and-oil-roil-investors-heres-the-next-line-in-the-sand-for-the-s-p-500-e3409398?mod=mw_rss_topstories",
-          "title_en": "As Iran conflict and oil roil investors, here’s the next line in the sand for the S&P 500",
-          "summary_en": "Where the S&P 500 goes next is clearly hinging on oil prices and the Strait of Hormuz. Here’s a fresh line in the sand."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-11 20:07:22",
-          "title": "中东地区超级计算机供应商的巨大人工智能建设可能受伊朗战争的影响",
-          "summary": "科技公司已经将数十亿美元投入中东的AI项目中——伊朗战争意味着将会有人问及未来投资的可行性。",
-          "url": "https://www.cnbc.com/2026/03/11/iran-war-hyperscalers-huge-middle-east-ai-data-center-plans.html",
-          "title_en": "How the Iran war could impact hyperscalers' massive AI buildout in the Middle East",
-          "summary_en": "Tech companies have funnelled billions of dollars into Middle East AI projects — the Iran war means questions will be asked about future investments"
-        },
-        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-11 19:58:37",
@@ -422,16 +442,6 @@
           "url": "https://www.cnbc.com/2026/03/11/oil-price-today-crude-wti-us-iran-war-strait-hormuz-iea.html",
           "title_en": "Oil ticks higher to $85 as traders await possible historic reserve release",
           "summary_en": "Oil prices moved higher on Wednesday as markets continue to watch developments in the U.S.-Iran war."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-11 19:00:01",
-          "title": "汽车供应链中受伊朗战争威胁最大的地方是中东地区。",
-          "summary": "石油价格超过每桶100美元，燃油成本上涨将对消费者造成伤害，美洲湾地区炼油厂的金属和石化品短缺可能会损害汽车制造商。",
-          "url": "https://www.cnbc.com/2026/03/11/autos-supply-chain-iran.html",
-          "title_en": "Where the auto supply chain is most threatened by the Iran war",
-          "summary_en": "Oil prices above $100 per barrel, rising fuel costs for consumers and shortages of metals and petrochemicals refined in the Gulf region could hurt automakers."
         }
       ]
     },
@@ -439,6 +449,15 @@
       "name": "特斯拉链",
       "badge": "TSLA chain",
       "items": [
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 20:47:05",
+          "title": "优步股价上涨，宣布与Zoox合作开发自动驾驶出租车",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/uber-stock-gains-after-announcing-zoox-robotaxi-partnership-93CH-4554460",
+          "title_en": "Uber stock gains after announcing Zoox robotaxi partnership"
+        },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
@@ -458,34 +477,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
-          "title": "吉姆·克雷默强调了Lamb Weston Holdings的可能困难",
+          "time": "2026-03-11 20:47:05",
+          "title": "昆塔利斯和eSOL合作推出RISC-V汽车软件整合解决方案。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-possible-struggles-120648307.html",
-          "title_en": "Jim Cramer Highlights the Possible Struggles of Lamb Weston Holdings"
+          "url": "https://finance.yahoo.com/news/quintauris-esol-team-risc-v-124052018.html",
+          "title_en": "Quintauris and eSOL team up on RISC-V automotive software integration"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
-          "title": "吉姆·克拉默解释了Match Group为什么被S&P 500除名",
+          "time": "2026-03-11 20:47:05",
+          "title": "耐克(Nike)因分析师升级成为道指的领头股，分析师预测耐克股价将达到30%的溢价。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-explains-why-match-120646331.html",
-          "title_en": "Jim Cramer Explains Why Match Group Was Expelled from the S&P 500"
+          "url": "https://www.investors.com/news/nike-stock-dow-jones-upgrade-target-hike-turnaround-efforts-nke-stock/?src=A00220&yptr=yahoo",
+          "title_en": "Nike Leads Dow On Upgrade, Analyst Sees 30% Premium"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
-          "title": "吉姆克拉默讨论了大规模反弹和S&P 500的Lumentum上市",
+          "time": "2026-03-11 20:47:05",
+          "title": "Oracle 股票上涨，受乐观的预期影响，坎贝尔股份则因谨慎的指导而下滑。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-discusses-massive-rally-120643501.html",
-          "title_en": "Jim Cramer Discusses the Massive Rally and S&P 500 Addition of Lumentum"
+          "url": "https://finance.yahoo.com/news/live/earnings-live-oracle-stock-jumps-on-upbeat-outlook-campbells-slides-on-cautious-guidance-123156046.html",
+          "title_en": "Earnings live: Oracle stock jumps on upbeat outlook, Campbell's slides on cautious guidance"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
+          "time": "2026-03-11 20:47:05",
           "title": "中期看多。",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46390_TechnicalAnalysis_1773228097000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -494,16 +513,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
-          "title": "2026年可能让策略股大幅上涨的关键因素之一是......",
+          "time": "2026-03-11 20:47:05",
+          "title": "Unifirst Corp（UNF）案件分析",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/1-thing-could-send-strategy-121200901.html",
-          "title_en": "1 Thing That Could Send Strategy Stock Soaring in 2026"
+          "url": "https://finance.yahoo.com/news/analysis-ongoing-case-unifirst-corp-122858047.html",
+          "title_en": "Here’s an Analysis of the Ongoing Case of Unifirst Corp (UNF)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
+          "time": "2026-03-11 20:47:05",
+          "title": "阿彻航空股价是否会达到13美元？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/archer-aviation-stock-going-13-123500217.html",
+          "title_en": "Is Archer Aviation Stock Going to $13?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 20:47:05",
+          "title": "吉姆·克雷默强调了Lamb Weston Holdings的可能困难",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-possible-struggles-120648307.html",
+          "title_en": "Jim Cramer Highlights the Possible Struggles of Lamb Weston Holdings"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 20:47:05",
           "title": "吉姆·克拉默表示：“市场对EchoStar的频谱资产价值大大低估了。”",
           "summary": "",
           "url": "https://finance.yahoo.com/news/jim-cramer-says-market-dramatically-120645336.html",
@@ -512,61 +549,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
-          "title": "吉姆·克拉默谈到Coherent Corp.： “我认为这个公司简直太棒了”",
+          "time": "2026-03-11 20:47:05",
+          "title": "吉姆·克拉默解释了Match Group为什么被S&P 500除名",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-coherent-corp-think-120642517.html",
-          "title_en": "Jim Cramer on Coherent Corp.: “I Think This Company’s Just Terrific”"
+          "url": "https://finance.yahoo.com/news/jim-cramer-explains-why-match-120646331.html",
+          "title_en": "Jim Cramer Explains Why Match Group Was Expelled from the S&P 500"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
-          "title": "吉姆·克拉默谈到Vertiv Holdings：“这是一只股票，这是一家公司”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-vertiv-holdings-stock-120640667.html",
-          "title_en": "Jim Cramer on Vertiv Holdings: “What a Stock, What a Company”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
-          "title": "吉姆·克雷默谈到莫利纳医疗： “大量涉及医疗保健和医疗补助，弱点是弱点中的弱点”。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-molina-healthcare-lots-120639552.html",
-          "title_en": "Jim Cramer on Molina Healthcare: “Lots of Exposure to Medicare and Medicaid, the Weakest Part of a Weak Business”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
-          "title": "2026年3月11日维克斯高管推荐股票",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46386_InsiderActivity_1773223751000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily – Vickers Top Insider Picks for 03/11/2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
-          "title": "最安全的5家股息 aristocrats： \n\n1. 3M (MMM) \n2. Procter & Gamble (PG) \n3. Coca-Cola (KO) \n4. Johnson & Johnson (JNJ) \n5. ExxonMobil (XOM)",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/hope-best-plan-worst-5-121053633.html",
-          "title_en": "Hope for the Best and Plan for the Worst: The 5 Safest Dividend Aristocrats"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
-          "title": "道琼斯指数防御巨头波音、AT&T处于或接近买入区域，市场波动加剧。",
-          "summary": "",
-          "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-boeing-stock-ba/?src=A00220&yptr=yahoo",
-          "title_en": "Dow Jones Defense Giant Boeing, AT&T In Or Near Buy Zones Amid Market Volatility"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
+          "time": "2026-03-11 20:47:05",
           "title": "2026年3月11日维克斯每日最大的买家和卖家",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46387_TopBottomInsiderActivity_1773223751000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -575,47 +567,74 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
-          "title": "中东冲突对汽车行业的初步影响评估。",
+          "time": "2026-03-11 20:47:05",
+          "title": "吉姆克拉默讨论了大规模反弹和S&P 500的Lumentum上市",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/middle-east-conflict-initial-impact-120818530.html",
-          "title_en": "Middle East conflict: An initial impact assessment on Automotive"
+          "url": "https://finance.yahoo.com/news/jim-cramer-discusses-massive-rally-120643501.html",
+          "title_en": "Jim Cramer Discusses the Massive Rally and S&P 500 Addition of Lumentum"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
-          "title": "Crocs 股票：如何找到并拥有美国最大的机会",
+          "time": "2026-03-11 20:47:05",
+          "title": "切沃在一年后将如何？",
           "summary": "",
-          "url": "https://www.investors.com/how-to-invest/crocs-stock-crox-americas-greatest-opportunities/?src=A00220&yptr=yahoo",
-          "title_en": "Crocs Stock: How To Find & Own America's Greatest Opportunities"
+          "url": "https://finance.yahoo.com/news/where-chevron-1-123500275.html",
+          "title_en": "Where Will Chevron Be in 1 Year?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
-          "title": "我为前夫支付房贷，以保护孩子。贷款人会把这算在我账上吗？",
+          "time": "2026-03-11 20:47:05",
+          "title": "吉姆·克拉默谈到Coherent Corp.： “我认为这个公司简直太棒了”",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/pay-ex-mortgage-protect-kids-113000542.html",
-          "title_en": "I pay my ex’s mortgage to protect my kids. Will lenders count that against me?"
+          "url": "https://finance.yahoo.com/news/jim-cramer-coherent-corp-think-120642517.html",
+          "title_en": "Jim Cramer on Coherent Corp.: “I Think This Company’s Just Terrific”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
-          "title": "现在是否应该购买股票？伯克希尔哈撒韦的沃伦·巴菲特对应对市场不确定性的最佳建议。",
+          "time": "2026-03-11 20:47:05",
+          "title": "吉姆·克拉默谈到Vertiv Holdings：“这是一只股票，这是一家公司”",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/smart-buy-stocks-now-warren-120500447.html",
-          "title_en": "Is It Smart to Buy Stocks Right Now? Warren Buffett's Best Advice for Dealing With Market Uncertainty."
+          "url": "https://finance.yahoo.com/news/jim-cramer-vertiv-holdings-stock-120640667.html",
+          "title_en": "Jim Cramer on Vertiv Holdings: “What a Stock, What a Company”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 20:30:23",
-          "title": "墨西哥二月卡车产量暴跌近50%",
+          "time": "2026-03-11 20:47:05",
+          "title": "吉姆·克雷默谈到莫利纳医疗： “大量涉及医疗保健和医疗补助，弱点是弱点中的弱点”。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/mexico-truck-production-plunges-nearly-113000620.html",
-          "title_en": "Mexico truck production plunges nearly 50% in February"
+          "url": "https://finance.yahoo.com/news/jim-cramer-molina-healthcare-lots-120639552.html",
+          "title_en": "Jim Cramer on Molina Healthcare: “Lots of Exposure to Medicare and Medicaid, the Weakest Part of a Weak Business”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 20:47:05",
+          "title": "2026年3月11日维克斯高管推荐股票",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46386_InsiderActivity_1773223751000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily – Vickers Top Insider Picks for 03/11/2026"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 20:47:05",
+          "title": "摩根大通加紧对私人信贷的放款，据报道。KKR股票、黑石股价上涨。",
+          "summary": "",
+          "url": "https://www.barrons.com/articles/jpmorgan-restricts-private-credit-lending-kkr-stock-blackstone-566019b0?siteid=yhoof2&yptr=yahoo",
+          "title_en": "JPMorgan Tightens Lending to Private Credit, Reports Says. KKR Stock, Blackstone Rise."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 20:47:05",
+          "title": "道琼斯指数防御巨头波音、AT&T处于或接近买入区域，市场波动加剧。",
+          "summary": "",
+          "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-boeing-stock-ba/?src=A00220&yptr=yahoo",
+          "title_en": "Dow Jones Defense Giant Boeing, AT&T In Or Near Buy Zones Amid Market Volatility"
         }
       ]
     }
