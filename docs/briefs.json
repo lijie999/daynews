@@ -1,6 +1,6 @@
 {
   "date": "2026.03.11",
-  "generatedAtBJT": "2026-03-11 09:09:00",
+  "generatedAtBJT": "2026-03-11 09:39:09",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-11 09:09:00",
+          "time": "2026-03-11 09:39:09",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：油价飙升至每桶100美元，股市大幅下挫。\n- 宏观/Fed：Advance Auto Parts (AAP) 受通胀动态和消费者需求下滑影响。\n- 科技/半导体：微软支持Anthropic在美国国防部的诉讼中发表友方意见。\n- TSLA：特斯拉和谷歌联合推出解决电动汽车成本上涨的解决方案。",
+          "summary": "- 地缘/避险：油价大幅上涨基本上结束了市场的“熔断”期。\n- 宏观/Fed：Advance Auto Parts (AAP) 因通胀动态和消费者需求受影响。\n- 科技/半导体：亚马逊计划在澳大利亚投资 53.5 亿美元建设机器人物流中心。\n- TSLA：特斯拉和谷歌合作推出解决电动汽车成本上涨的解决方案。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Stocks Fall as Oil Prices Spike up to $100 Per Barrel…\n- 宏观/Fed：关注 Advance Auto Parts (AAP) is Hurt by Inflation Dynamics and Consu…\n- 科技/半导体：Microsoft backs Anthropic in amicus brief to halt US DOD’s ’supp… 关键词: oracle, amazon, anthropic, google, microsoft\n- TSLA：关注 Tesla and Google team up to push their own fix for rising electr…"
+          "summary_en": "- 地缘/避险：关注 Spiking oil prices basically end any chance of a market ‘melt-up…\n- 宏观/Fed：关注 Advance Auto Parts (AAP) is Hurt by Inflation Dynamics and Consu…\n- 科技/半导体：Amazon to invest $535 mln in Australian robotics fulfillment cen… 关键词: amazon, oracle, anthropic, google, microsoft\n- TSLA：关注 Tesla and Google team up to push their own fix for rising electr…"
         }
       ]
     },
@@ -29,7 +29,16 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
+          "time": "2026-03-11 09:39:05",
+          "title": "亚马逊将在澳大利亚投资5.35亿美元建设机器人仓储中心",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/amazon-to-invest-535-mln-in-australian-robotics-fulfillment-center-4553411",
+          "title_en": "Amazon to invest $535 mln in Australian robotics fulfillment center"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:39:05",
           "title": "微软支持Anthropic在美国国防部（DOD）的供应链风险（supply-chain risk）指令案中递交了友方诉讼（amicus brief）",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/microsoft-files-amicus-brief-in-support-of-anthropics-lawsuit-with-us-dod-4553251",
@@ -38,29 +47,11 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
+          "time": "2026-03-11 09:39:05",
           "title": "科技公司借债市场筹资扩大人工智能和云计算业务",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/factboxtech-companies-tap-debt-markets-to-fund-ai-and-cloud-expansion-4553319",
           "title_en": "Factbox-Tech companies tap debt markets to fund AI and cloud expansion"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
-          "title": "美国参议院批准ChatGPT等AI聊天机器人正式使用，纽约时报报道。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/chatgpt-other-ai-chatbots-approved-for-official-use-in-us-senate-nyt-reports-4553308",
-          "title_en": "ChatGPT, other AI chatbots approved for official use in US Senate, NYT reports"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
-          "title": "甲骨文预测人工智能泡沫将持续至至少2027年，股价上涨8%",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/oracle-beats-quarterly-revenue-estimates-shares-rise-4552963",
-          "title_en": "Oracle sees AI boom through at least 2027, sending shares up 8%"
         },
         {
           "source": "CNBC-Top",
@@ -201,6 +192,16 @@
           "url": "https://www.cnbc.com/2026/03/10/kevin-mandia-raised-190-million-armadin-after-prior-sale-to-google.html",
           "title_en": "Kevin Mandia sold his cybersecurity company to Google in 2022. He has a fresh $190 million for a new venture",
           "summary_en": "Mandiant founder Kevin Mandia is staying in cybersecurity after selling his prior company to Google, but now he's focused on AI."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-10 21:01:52",
+          "title": "甲骨文财报将揭示其高昂人工智能押注是否开始见效",
+          "summary": "甲骨文公司与OpenAI达成3000亿美元的交易，确立了其在人工智能云计算领域的重要地位，与亚马逊、谷歌和微软并驾齐驱。",
+          "url": "https://www.cnbc.com/2026/03/10/oracle-orcl-stock-earnings-ai-data-center.html",
+          "title_en": "Oracle earnings will show whether its expensive AI bet is starting to pay off",
+          "summary_en": "Oracle's $300 billion deal with OpenAI established it as a major player in AI cloud computing alongside Amazon, Google and Microsoft."
         }
       ]
     },
@@ -211,11 +212,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
+          "time": "2026-03-11 09:39:05",
           "title": "Advance Auto Parts (AAP) 因通胀动态和消费者行为受损",
           "summary": "",
           "url": "https://finance.yahoo.com/news/advance-auto-parts-aap-hurt-141842693.html",
           "title_en": "Advance Auto Parts (AAP) is Hurt by Inflation Dynamics and Consumer Behavior"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:39:05",
+          "title": "通胀对储蓄的影响：你需要击败的利率是多少",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/how-does-inflation-affect-savings-interest-rate-to-beat-202821596.html",
+          "title_en": "How inflation affects savings: Here's the interest rate you need to beat"
         },
         {
           "source": "CNBC-Top",
@@ -246,7 +256,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
+          "time": "2026-03-11 09:39:05",
+          "title": "油价飙升基本上消除了市场“熔化”的任何机会，据一位华尔街老兵称。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/spiking-oil-prices-basically-end-133200094.html",
+          "title_en": "Spiking oil prices basically end any chance of a market ‘melt-up,’ says this Wall Street veteran"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:39:05",
+          "title": "石油价格大幅上涨，向所有人发出强烈信号",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/oil-spike-sends-powerful-message-133300165.html",
+          "title_en": "Oil spike sends powerful message for everyone"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:39:05",
           "title": "股市下跌，原油价格飙升至每桶100美元",
           "summary": "",
           "url": "https://finance.yahoo.com/news/stocks-fall-oil-prices-spike-140324434.html",
@@ -255,16 +283,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
-          "title": "如果伊朗战争持续，汽油价格可能再次突破5美元。",
+          "time": "2026-03-11 09:39:05",
+          "title": "帕拉尼特股价上涨17%一个月，伊朗紧张局势点燃了防御AI的繁荣",
           "summary": "",
-          "url": "https://www.barrons.com/articles/gas-prices-crude-oil-iran-war-914666c7?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Why Gas Prices Could Top $5 Again if the Iran War Drags On"
+          "url": "https://finance.yahoo.com/news/palantir-stock-17-1-month-143002006.html",
+          "title_en": "Palantir Stock Up 17% in 1 Month as Iran Tensions Ignite Defense AI Boom"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
+          "time": "2026-03-11 09:39:05",
+          "title": "当美元和能源价格因伊朗战争持续升高时，立即进行这个交易",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/dollar-energy-prices-spike-continued-144832877.html",
+          "title_en": "As the Dollar and Energy Prices Spike on Continued Iran War, Make This 1 Trade Now"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:39:05",
           "title": "一场与伊朗的长期战争可能意味着汽油价格的上涨。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/what-an-extended-war-with-iran-could-mean-for-gas-prices-225053494.html",
@@ -273,20 +310,48 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
+          "time": "2026-03-11 09:39:05",
           "title": "本周3月9日，房贷利率最好的贷款机构：油价上涨推高房贷利率",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-march-9-2026-170834555.html",
           "title_en": "Mortgage lenders with the best rates this week, March 9, 2026: Rising oil prices push mortgage rates back up"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:39:05",
+          "title": "克劳德斯通（CrowdStrike）和11家其他公司，已经在伊朗战争期间每天都上涨",
+          "summary": "",
+          "url": "https://www.barrons.com/articles/crowdstrike-stock-price-iran-war-winners-48373bfa?siteid=yhoof2&yptr=yahoo",
+          "title_en": "CrowdStrike and 11 Other Stocks That Have Gained Every Day of the Iran War"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
+          "time": "2026-03-11 09:39:05",
+          "title": "美股期货小幅上涨，等待CPI数据公布，交易员评估伊朗战争风险。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-tick-up-ahead-of-cpi-data-traders-assess-iran-war-outlook-4553398",
+          "title_en": "US stock futures tick up ahead of CPI data; traders assess Iran war outlook"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:39:05",
           "title": "伊朗罢工最为严重的一天，尽管市场预期战争即将结束",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/iran-says-oil-blockade-will-continue-until-attacks-end-trump-threatens-to-hit-harder-4551008",
           "title_en": "Heaviest day of strikes yet on Iran despite market bets that war will end soon"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:13:00",
+          "title": "石油价格下一步将如何走向？富裕国家正在考虑释放储备",
+          "summary": "石油市场的恐慌已经平息，价格从周四的高点附近每桶120美元回落，富国集团表示将考虑协调释放全球紧急储备原油。",
+          "url": "https://www.marketwatch.com/story/whats-next-for-crude-oil-prices-as-wealthy-nations-consider-a-release-of-their-reserves-d46cba38?mod=mw_rss_topstories",
+          "title_en": "What’s next for crude-oil prices as wealthy nations consider a release of their reserves",
+          "summary_en": "Panic in the oil market has calmed down, with prices pulling back from the week’s highs near $120 a barrel after a group of wealthy nations said they will consider a coordinated release of emergency global crude reserves"
         },
         {
           "source": "CNBC-World",
@@ -357,66 +422,6 @@
           "url": "https://www.cnbc.com/2026/03/10/iran-war-israel-ending-trump-democrats.html",
           "title_en": "'Forever war': Democrats rebut Trump's assertion that Iran war nearing end",
           "summary_en": "President Donald Trump on Monday suggested the war may be nearing an end, sending markets soaring and oil plummeting."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-11 01:09:31",
-          "title": "俄罗斯告诉特朗普，战争期间没有与伊朗共享情报，威特科夫说。",
-          "summary": "美国官员称，俄罗斯已向伊朗提供了可能帮助伊朗部队攻击中东美军资产的信息。",
-          "url": "https://www.cnbc.com/2026/03/10/iran-war-trump-russia-intelligence-witkoff.html",
-          "title_en": "Russia told Trump it has not shared intelligence with Iran during war, Witkoff says",
-          "summary_en": "U.S. officials have said Russia has given Iran information that could help its forces strike U.S. military assets in the Middle East, MS Now has reported."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-11 00:52:20",
-          "title": "欧洲股市大涨2%，油价下滑带来积极情绪",
-          "summary": "欧洲股市在周二反弹，投资者继续关注中东局势。",
-          "url": "https://www.cnbc.com/2026/03/10/european-markets-stoxx-600-ftse-dax-cac-iran-war-latest-news.html",
-          "title_en": "European stocks jump 2% as sliding oil prices buoy sentiment",
-          "summary_en": "European equities rebounded on Tuesday as traders continued to watch developments in the Middle East."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-10 23:33:42",
-          "title": "伊朗战争：赫格塞特说星期二将是我们最激烈的袭击日。",
-          "summary": "美国前总统唐纳德·特朗普周一预测，针对伊朗的战争将很快结束，并警告伊朗不要停止石油输出。",
-          "url": "https://www.cnbc.com/2026/03/10/iran-war-trump-hegseth-oil.html",
-          "title_en": "Iran war: Hegseth says Tuesday 'will be our most intense day of strikes'",
-          "summary_en": "President Donald Trump on Monday had predicted that the war against Iran would be over \"very soon,\" and warned that country against withholding oil afterward."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-10 23:32:47",
-          "title": "IEA国家将于周二晚些时候讨论释放石油储备，但尚未做出决定。",
-          "summary": "国际能源局的成员国主要分布在北美、欧洲和东北亚地区，总共持有约12亿桶石油储备。",
-          "url": "https://www.cnbc.com/2026/03/10/iea-g7-oil-iran-war-strait-hormuz.html",
-          "title_en": "IEA countries to meet later Tuesday on release of oil reserves, but no decision made yet",
-          "summary_en": "The IEA's members are advanced economies in North America, Europe and Northeast Asia. They collectively hold about 1.2 billion barrels of oil in reserve."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-10 22:34:07",
-          "title": "伊朗为对邻国的袭击辩护 — 但他们说信任已经破裂",
-          "summary": "伊朗对其针对邻国的袭击进行了辩护，但邻国表示，这些袭击已经损害了长期的信任。",
-          "url": "https://www.cnbc.com/2026/03/10/iran-strikes-gulf-neighbors-us-assets-oil-infrastructure.html",
-          "title_en": "Iran defends strikes on Gulf neighbors — but they say trust is broken",
-          "summary_en": "Iran has defended its strikes against its Gulf countries but its neighbors say attacks have damaged trust for a long time."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-10 22:22:39",
-          "title": "印度餐厅因伊朗战争导致的LPG供应紧张而面临威胁",
-          "summary": "印度餐厅面临关闭，因为政府限制了LPG的供应，作为烹饪燃料，行业代表向CNBC透露。",
-          "url": "https://www.cnbc.com/2026/03/10/-iran-war-lpg-disruption-india-restaurants.html",
-          "title_en": "India's restaurants are under threat from the LPG supply crunch caused by the Iran war",
-          "summary_en": "Restaurants in India are facing closure as the government restricts the supply of LPG as cooking fuel, industry representatives tell CNBC."
         }
       ]
     },
@@ -453,106 +458,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
-          "title": "英国ISA投资产品将禁止加密货币ETN",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/crypto-etns-banned-uk-isas-130215090.html",
-          "title_en": "Crypto ETNs Banned From UK ISAs: What the April 6 Rule Change Means for Investors"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
-          "title": "沙特阿拉伯石油公司在两座油田减产",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/exclusive-saudi-aramco-reducing-output-131447362.html",
-          "title_en": "Exclusive-Saudi Aramco reducing output at two oilfields, two sources say"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
-          "title": "特朗普在与派拉蒙的竞价战达到高潮时购买了Netflix和华纳兄弟债券。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/trump-bought-netflix-warner-bros-132120346.html",
-          "title_en": "Trump bought Netflix and Warner Bros bonds at height of bidding war with Paramount"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
-          "title": "雷亚诺亚（Rayonier）合并的影响",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/merger-affects-rayonier-ryn-132016636.html",
-          "title_en": "Here’s How the Merger Affects Rayonier (RYN)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
-          "title": "布鲁克菲尔德公司（BN）宣布在第四季度收购奥克树资本",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/brookfield-corp-bn-announced-acquisition-132530201.html",
-          "title_en": "Brookfield Corp. (BN) Has Announced the Acquisition of Oaktree Capital in Q4"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
-          "title": "苏茜·奥曼对仍然在退休期间继续支付最低还款额的信用卡债务的人有一个词：停止。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/suze-orman-one-word-anyone-130802820.html",
-          "title_en": "Suze Orman Has One Word for Anyone Still Paying Minimum Payments on Credit Card Debt in Retirement"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
-          "title": "为什么FirstService Corporation (FSV) 是一项投资机会？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/makes-firstservice-corporation-fsv-investment-132835568.html",
-          "title_en": "What Makes FirstService Corporation (FSV) an Investment Bet?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
-          "title": "LEN的长期收益潜力提高的因素",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/improves-lennar-corporation-len-long-133026842.html",
-          "title_en": "Here’s What Improves Lennar Corporation’s (LEN) Long-Term Earnings Potential"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
-          "title": "第三大道房地产价值基金关于Fidelity National Financial (FNF) 的更新",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/third-avenue-real-estate-value-134554351.html",
-          "title_en": "Third Avenue Real Estate Value Fund’s Updates on Fidelity National Financial (FNF)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
-          "title": "德克萨斯州运营商塞尔纳运输公司（Serna's Trucking）申请了第11章破产保护。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/texas-carrier-serna-trucking-files-134739274.html",
-          "title_en": "Texas carrier Serna’s Trucking files for Chapter 11 bankruptcy"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
-          "title": "波克赛普鲁将出售自动售货机业务给利福饮",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/pokka-sapporo-sell-vending-machine-130418849.html",
-          "title_en": "Pokka Sapporo to sell vending machine business to Lifedrink"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
+          "time": "2026-03-11 09:39:05",
           "title": "即使在大幅上涨之后，分析师仍认为你应该购买SanDisk股票。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/even-monster-rally-analysts-still-134815775.html",
@@ -561,16 +467,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
-          "title": "普罗洛吉斯（PLD）投资管理平台扩张",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/expands-prologis-pld-investment-management-134755503.html",
-          "title_en": "Here’s What Expands Prologis’ (PLD) Investment Management Platform"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
+          "time": "2026-03-11 09:39:05",
           "title": "五个州的税款退税延迟了。你的州是否也受到了影响？",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refund-delays-hit-5-states-is-yours-one-of-them-205225811.html",
@@ -579,7 +476,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
+          "time": "2026-03-11 09:39:05",
+          "title": "第三大道房地产价值基金关于Fidelity National Financial (FNF) 的更新",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/third-avenue-real-estate-value-134554351.html",
+          "title_en": "Third Avenue Real Estate Value Fund’s Updates on Fidelity National Financial (FNF)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:39:05",
+          "title": "德克萨斯州运营商塞尔纳运输公司（Serna's Trucking）申请了第11章破产保护。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/texas-carrier-serna-trucking-files-134739274.html",
+          "title_en": "Texas carrier Serna’s Trucking files for Chapter 11 bankruptcy"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:39:05",
+          "title": "埃默森同意被泛非洲公司以218亿美元收购",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/emmerson-agrees-218m-acquisition-pan-133212477.html",
+          "title_en": "Emmerson agrees to $218m acquisition by Pan African"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:39:05",
+          "title": "普罗洛吉斯（PLD）投资管理平台扩张",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/expands-prologis-pld-investment-management-134755503.html",
+          "title_en": "Here’s What Expands Prologis’ (PLD) Investment Management Platform"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:39:05",
           "title": "库尔德·莫根(Kinder Morgan)股票是否优于道瓊指數(Dow)?",
           "summary": "",
           "url": "https://finance.yahoo.com/news/kinder-morgan-stock-outperforming-dow-135737122.html",
@@ -588,16 +521,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
-          "title": "这个工业股可能是隐藏的珍宝（以下是原因）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/industrial-stock-could-hidden-gem-130500286.html",
-          "title_en": "This Industrial Stock Could Be a Hidden Gem (and Here's Why)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
+          "time": "2026-03-11 09:39:05",
           "title": "Monster能源饮料股：MNST是否低于消费类日用品行业的表现？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/monster-beverage-stock-mnst-underperforming-140015771.html",
@@ -606,11 +530,92 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-11 09:08:56",
+          "time": "2026-03-11 09:39:05",
+          "title": "是否说人寿保险公司的股票低于S&P 500指数的表现？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/humana-stock-underperforming-p-500-140227601.html",
+          "title_en": "Is Humana Stock Underperforming the S&P 500?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:39:05",
+          "title": "巴基斯坦议会通过《虚拟资产法》2026年，结束了对加密货币的禁令，转而开始监管。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/pakistan-moves-crypto-ban-regulation-133215277.html",
+          "title_en": "Pakistan Moves From Crypto Ban to Regulation as Parliament Passes Virtual Assets Act 2026"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:39:05",
           "title": "普罗洛吉斯股价：PLD是否优于房地产行业？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/prologis-stock-pld-outperforming-real-140156302.html",
           "title_en": "Prologis Stock: Is PLD Outperforming the Real Estate Sector?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:39:05",
+          "title": "SanDisk的股票表现与其他科技股相比如何？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/sandisks-stock-performance-compared-other-140628956.html",
+          "title_en": "How Is Sandisk's Stock Performance Compared to Other Technology Stocks?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:39:05",
+          "title": "涅斯莱公司调整奖金结构",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/nestl-overhauls-bonus-structure-140840364.html",
+          "title_en": "Nestlé Overhauls Bonus Structure"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:39:05",
+          "title": "Alphabet 股票是否优于 S&P 500?",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/alphabet-stock-outperforming-p-500-141054792.html",
+          "title_en": "Is Alphabet Stock Outperforming the S&P 500?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:39:05",
+          "title": "卡夫海因茨股价是否低于纳斯达克指数",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/kraft-heinz-stock-underperforming-nasdaq-140940804.html",
+          "title_en": "Is Kraft Heinz Stock Underperforming the Nasdaq?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:39:05",
+          "title": "Live Nation与美国司法部达成和解，放弃控告。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/live-nation-settles-us-antitrust-114457235.html",
+          "title_en": "Live Nation reaches settlement with DOJ in antitrust case"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:39:05",
+          "title": "Netflix（NFLX）联合创始人雷德·哈斯汀斯（Reed Hastings）突然卖出价值 4,000 万美元的 Netflix 股票。您是否也应该抛售 NFLX 股票？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/co-founder-reed-hastings-just-141055590.html",
+          "title_en": "Co-Founder Reed Hastings Just Dumped $40 Million in Netflix Stock. Should You Ditch NFLX Too?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-11 09:39:05",
+          "title": "Netflix (NFLX) 的上市恢复，星巴克 (SBUX) 被下调：华尔街顶级分析师的呼吁",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/netflix-resumed-starbucks-downgraded-wall-133343741.html",
+          "title_en": "Netflix resumed, Starbucks downgraded: Wall Street's top analyst calls"
         }
       ]
     }
