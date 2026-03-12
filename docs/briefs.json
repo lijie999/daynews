@@ -1,6 +1,6 @@
 {
   "date": "2026.03.12",
-  "generatedAtBJT": "2026-03-12 20:32:45",
+  "generatedAtBJT": "2026-03-12 21:02:56",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-12 20:32:45",
+          "time": "2026-03-12 21:02:56",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 道指下跌300点，油价再次上涨。\n- 宏观/Fed：关注 这家管道股再次提高分红率。\n- 科技/半导体：维普股价大涨10.4%，芯片组装热度升高。关键词：NVIDIA, Oracle, 中心, 数据, AMD\n- TSLA：关注 亚马逊的Zoox与优步合作，扩大机器人出租车用户。",
+          "summary": "- 地缘/避险：关注道指下跌400点，油价再次上涨。\n- 宏观/Fed：关注特姆斯科特希望美联储主席鲍威尔调查能够平息。\n- 科技/半导体：Cisco Systems (CSCO) 因业绩超预期而大幅上涨。\n- TSLA：关注亚马逊的 Zoox 与优步合作，扩大机器人出租车用户。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Stock Market Today: Dow Falls 300 Points As Oil Prices Jump Agai…\n- 宏观/Fed：关注 This Pipeline Stock Hikes Its Distribution Yield — Yet Again…\n- 科技/半导体：Wipro (WIT) Surges 10.4% on Chip Assembly Hype… 关键词: nvidia, oracle, center, data, amd\n- TSLA：关注 Amazon's Zoox partners with Uber to reach more robotaxi riders —…"
+          "summary_en": "- 地缘/避险：关注 Stock Market Today: Dow Falls 400 Points As Oil Prices Jump Agai…\n- 宏观/Fed：关注 Tim Scott hopes Fed Chair Powell investigation 'goes away' to cl…\n- 科技/半导体：Cisco Systems (CSCO) Rallies After Beat-and-Raise Quarter Driven… 关键词: nvidia, oracle, amazon, ask, beat\n- TSLA：关注 Amazon's Zoox partners with Uber to reach more robotaxi riders —…"
         }
       ]
     },
@@ -29,16 +29,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
-          "title": "Wipro (WIT) 突破 10.4% 由於芯片组装热潮",
+          "time": "2026-03-12 21:02:51",
+          "title": "思科系统（CSCO）在网络和人工智能推动下，业绩超预期，股价大涨。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/wipro-wit-surges-10-4-014300559.html",
-          "title_en": "Wipro (WIT) Surges 10.4% on Chip Assembly Hype"
+          "url": "https://finance.yahoo.com/news/cisco-systems-csco-rallies-beat-124503921.html",
+          "title_en": "Cisco Systems (CSCO) Rallies After Beat-and-Raise Quarter Driven by Networking and AI Momentum"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
+          "time": "2026-03-12 21:02:51",
+          "title": "亚马逊合作航空公司ATI与飞行员达成临时4年合同",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/amazon-partner-airline-ati-pilots-122948910.html",
+          "title_en": "Amazon partner airline ATI, pilots agree on provisional 4-year contract"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 21:02:51",
           "title": "Nvidia合作暗示前OpenAI技术首席的创业公司有着雄心勃勃的目标",
           "summary": "",
           "url": "https://finance.yahoo.com/news/nvidia-partnership-hints-big-ambitions-040100243.html",
@@ -47,21 +56,30 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
+          "time": "2026-03-12 21:02:51",
+          "title": "Wipro (WIT) 突破 10.4% 由於芯片组装热潮",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/wipro-wit-surges-10-4-014300559.html",
+          "title_en": "Wipro (WIT) Surges 10.4% on Chip Assembly Hype"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 21:02:51",
           "title": "渣打银行降低甲骨文（ORCL）股价目标，认为其在AI加速的云计算领域具有强大竞争力。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/scotiabank-lowers-oracle-orcl-price-012525113.html",
           "title_en": "Scotiabank Lowers Oracle (ORCL) Price Objective, Sees Strength in AI-Accelerated Cloud"
         },
         {
-          "source": "MarketWatch-Top",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-12 19:38:00",
-          "title": "德州成为人工智能数据中心热潮中心的原因",
-          "summary": "“在德克萨斯州比在其他任何州都容易建造一座发电厂，”一位专家指出。",
-          "url": "https://www.marketwatch.com/story/how-texas-became-the-epicenter-of-the-ai-data-center-boom-e0e65f3d?mod=mw_rss_topstories",
-          "title_en": "How Texas became the epicenter of the AI data-center boom",
-          "summary_en": "“It’s easier to build a power plant in Texas than it is in any other state,” one expert notes"
+          "time": "2026-03-12 20:30:01",
+          "title": "谷歌推出“问地图”功能，带来更多人工智能功能，允许用户询问复杂的问题",
+          "summary": "谷歌正在推出一款聊天机器人，嵌入全球最受欢迎的导航应用。",
+          "url": "https://www.cnbc.com/2026/03/12/google-brings-more-gemini-ai-to-navigation-with-ask-maps-feature.html",
+          "title_en": "Google brings more AI to navigation with 'Ask Maps' feature that lets users ask complex questions",
+          "summary_en": "Google is launching a new chatbot inside the world's most popular navigation app."
         },
         {
           "source": "CNBC-World",
@@ -144,7 +162,7 @@
           "summary_en": "Oracle CEO Clayton Magouyrk said on an earnings call the company's model of having customers provide data chips for new data center builds is working."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-11 22:00:01",
           "title": "Meta推出自有AI芯片，紧随Nvidia和AMD的大规模交易之后",
@@ -172,16 +190,6 @@
           "url": "https://www.cnbc.com/2026/03/10/microsoft-says-court-should-temporarily-block-pentagon-ban-anthropic.html",
           "title_en": "Microsoft backs Anthropic in Pentagon blacklist battle, urges temporary restraining order",
           "summary_en": "Microsoft threw its support behind Anthropic and advocated for a temporary restraining order to the Pentagon's supply chain risk designation."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-11 08:48:14",
-          "title": "Cerebras被Oracle提及，同样被提及的还有Nvidia和AMD。",
-          "summary": "全球顶级云服务提供商与Cerebras达成一项协议，这对一家试图在公开市场上市的公司来说是一个巨大的利好。",
-          "url": "https://www.cnbc.com/2026/03/10/ai-chipmaker-cerebras-namedropped-by-oracle-alongside-nvidia-and-amd-.html",
-          "title_en": "AI chipmaker Cerebras namedropped by Oracle, alongside Nvidia and AMD",
-          "summary_en": "A Cerebras deal from one of the world's top cloud providers could be a big boon for a company that's trying to hit the public market."
         }
       ]
     },
@@ -189,15 +197,6 @@
       "name": "美联储与政策",
       "badge": "Fed / Policy",
       "items": [
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
-          "title": "这家管道股再次提高其分红收益",
-          "summary": "",
-          "url": "https://www.investors.com/research/the-income-investor/plains-all-american-pipeline-stock-income-investor-distribution-yield/?src=A00220&yptr=yahoo",
-          "title_en": "This Pipeline Stock Hikes Its Distribution Yield — Yet Again"
-        },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
@@ -227,25 +226,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
-          "title": "股市今日：道指下跌300点，油价再次上涨；道达尔通商股价大幅下跌（实时报道）",
+          "time": "2026-03-12 21:02:51",
+          "title": "股市今日：道指下跌400点，油价再次上涨；道达尔公司股价大幅下跌（实时报道）",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-jobless-claims/?src=A00220&yptr=yahoo",
-          "title_en": "Stock Market Today: Dow Falls 300 Points As Oil Prices Jump Again; Dollar General Stock Tumbles (Live Coverage)"
+          "title_en": "Stock Market Today: Dow Falls 400 Points As Oil Prices Jump Again; Dollar General Stock Tumbles (Live Coverage)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
-          "title": "道琼斯期货下跌；原油价格突破90美元， tanker攻击和港口干扰升高",
-          "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-oracle-nvidia-ai-stocks/?src=A00220&yptr=yahoo",
-          "title_en": "Dow Jones Futures Fall; Crude Oil Prices Top $90 On Tanker Attacks, Port Disruption"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
+          "time": "2026-03-12 21:02:51",
           "title": "美国股市保持平静，尽管油价上涨",
           "summary": "",
           "url": "https://finance.yahoo.com/news/asian-shares-advance-markets-await-041019566.html",
@@ -254,7 +244,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
+          "time": "2026-03-12 21:02:51",
           "title": "华尔街冷落大油股 股价大涨",
           "summary": "",
           "url": "https://finance.yahoo.com/news/wall-street-snubs-big-oil-040100274.html",
@@ -263,16 +253,46 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
-          "title": "美国石油巨头股价微升；道氏.generals 下跌",
+          "time": "2026-03-12 21:02:51",
+          "title": "航空股价格下滑，伊朗油轮袭击后油价突破100美元",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/us-oil-majors-inch-higher-premarket--dollar-general-slips-4556852",
-          "title_en": "U.S. oil majors inch higher premarket; Dollar General slips"
+          "url": "https://www.investing.com/news/stock-market-news/airline-stocks-slide-as-oil-surges-past-100-on-iran-tanker-attacks-4557091",
+          "title_en": "Airline stocks slide as oil surges past $100 on Iran tanker attacks"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-12 20:58:31",
+          "title": "美国能源部长沃特表示，美国尚未准备好 Escort 油轮通过霍尔木兹海峡。",
+          "summary": "运油船通过霍尔木兹海峡的通行仍然停滞不前，因为船东担心遭到伊朗的攻击。海峡的关闭导致了历史上最大的一次石油供应中断。",
+          "url": "https://www.cnbc.com/2026/03/12/energy-secretary-wright-says-us-not-ready-to-escort-tankers-through-strait-of-hormuz-yet.html",
+          "title_en": "Energy Secretary Wright says U.S. 'not ready' to escort oil tankers through Strait of Hormuz yet",
+          "summary_en": "Tanker traffic through the Strait remains at a standstill as ship owners fear attacks by Iran. The closure has triggered the largest oil supply disruption ever."
         },
         {
           "source": "CNBC-World",
           "ticker": "RSS",
-          "time": "2026-03-12 20:28:25",
+          "time": "2026-03-12 20:52:22",
+          "title": "沙特阿拉伯和阿联酋正在建设的两条绕过霍尔木兹海峡的石油输送管道",
+          "summary": "沙特阿拉伯的东西管道和阿联酋的阿布扎比原油输送管道被认为可以部分弥补霍尔木兹海峡封锁的影响。",
+          "url": "https://www.cnbc.com/2026/03/12/strait-of-hormuz-oil-pipelines-iran-war-saudi-arabia-uae.html",
+          "title_en": "The two oil pipelines helping Saudi Arabia and UAE bypass the Strait of Hormuz",
+          "summary_en": "Saudi Arabia’s East-West pipeline and the UAE's Abu Dhabi Crude Oil Pipeline are thought to be able to help partially offset the Strait of Hormuz blockage."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-12 20:50:00",
+          "title": "石油价格一度突破101美元后回落，伊朗加大了对伊拉克的打击，国际能源局称这场冲突是历史上最大的供应干扰。",
+          "summary": "石油价格再次大幅上涨，原因是伊朗对海湾地区的基础设施发起了新的袭击。",
+          "url": "https://www.marketwatch.com/story/oil-taps-101-as-iran-dramatically-changes-strategy-and-iea-calls-conflict-biggest-supply-disruption-in-history-b38215b5?mod=mw_rss_topstories",
+          "title_en": "Oil tops $101 before dipping as Iran ramps up strikes and IEA calls conflict biggest supply disruption in history",
+          "summary_en": "Oil prices spiked again on Thursday after Iran ramped up its strikes on infrastructure in the Gulf."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-12 20:39:17",
           "title": "三艘船在波斯湾遭到撞击，伊朗警告油价可能达到200美元。",
           "summary": "霍尔木兹海峡最近发生的事件发生在伊朗警告世界要准备好$200的油价之后。",
           "url": "https://www.cnbc.com/2026/03/12/iran-war-persian-gulf-strait-of-hormuz-ships-uae-iraq.html",
@@ -280,13 +300,14 @@
           "summary_en": "The latest incidents in or near the Strait of Hormuz come shortly after Iran warned the world to prepare for $200 oil prices."
         },
         {
-          "source": "CNBC-Top",
+          "source": "MarketWatch-Top",
           "ticker": "RSS",
-          "time": "2026-03-12 20:24:52",
-          "title": "美国能源部长韦特表示，美国尚未准备好护送油轮通过霍尔木兹海峡。",
-          "summary": "",
-          "url": "https://www.cnbc.com/2026/03/12/energy-secretary-wright-says-us-not-ready-to-escort-tankers-through-strait-of-hormuz-yet.html",
-          "title_en": "Energy Secretary Wright says U.S. 'not ready' to escort tankers through Strait of Hormuz yet"
+          "time": "2026-03-12 20:37:00",
+          "title": "高盛降低了对美国经济的预期，原因是伊朗战争，恐惧不仅仅是石油问题。",
+          "summary": "高盛经济学家曼努埃尔·阿贝卡西斯和大卫·梅里克在最新的研究报告中分析了伊朗战争对美国经济的影响。",
+          "url": "https://www.marketwatch.com/story/goldman-cuts-u-s-economic-outlook-over-the-iran-war-and-the-fears-goes-beyond-oil-dd9e1462?mod=mw_rss_topstories",
+          "title_en": "Goldman cuts U.S. economic outlook over the Iran war — and the fear goes beyond oil",
+          "summary_en": "Goldman Sachs economists Manuel Abecasis and David Mericle in a new research note looked at the economic implications of the Iran war on the U.S. economy."
         },
         {
           "source": "CNBC-Tech",
@@ -297,26 +318,6 @@
           "url": "https://www.cnbc.com/2026/03/12/5-things-to-know-before-the-market-opens.html",
           "title_en": "Oil reserves, tariff investigations, airline fuel prices and more in Morning Squawk",
           "summary_en": "Here are five key things investors need to know to start the trading day."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-12 19:29:00",
-          "title": "石油价格触及101美元，伊朗突然改变战略，IEA称冲突是历史上最大供应干扰",
-          "summary": "尽管国际能源局成员同意释放历史最高量的石油从紧急储备中，仍然存在担忧。",
-          "url": "https://www.marketwatch.com/story/oil-taps-101-as-iran-dramatically-changes-strategy-and-iea-calls-conflict-biggest-supply-disruption-in-history-b38215b5?mod=mw_rss_topstories",
-          "title_en": "Oil taps $101 as Iran dramatically changes strategy and IEA calls conflict biggest supply disruption in history",
-          "summary_en": "Worries come despite International Energy Agency members agreeing to release the largest ever amount of oil from emergency supplies."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-12 19:28:00",
-          "title": "高盛降低了对美国经济的预期，原因是伊朗战争，恐惧不仅仅是石油问题。",
-          "summary": "高盛经济学家曼努埃尔·阿贝卡西斯和大卫·梅里克在最新的研究报告中分析了伊朗战争对美国经济的影响。",
-          "url": "https://www.marketwatch.com/story/goldman-cuts-u-s-economic-outlook-over-the-iran-war-and-the-fears-goes-beyond-oil-dd9e1462?mod=mw_rss_topstories",
-          "title_en": "Goldman cuts U.S. economic outlook over the Iran war — and the fear goes beyond oil",
-          "summary_en": "Goldman Sachs economists Manuel Abecasis and David Mericle in a new research note looked at the economic implications of the Iran war on the U.S. economy."
         },
         {
           "source": "CNBC-World",
@@ -423,34 +424,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
-          "title": "美元通用(Dollar General)股价下跌，百花相逢(Bumble)股价大涨，后者业绩超出预期。",
+          "time": "2026-03-12 21:02:51",
+          "title": "康宁公司（GLW）受益于强劲的基因AI驱动的光通信需求",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/live/earnings-live-dollar-general-stock-falls-bumble-stock-soars-on-earnings-beat-122701439.html",
-          "title_en": "Earnings live: Dollar General stock falls, Bumble stock soars on earnings beat"
+          "url": "https://finance.yahoo.com/news/corning-incorporated-glw-gains-strong-124220883.html",
+          "title_en": "Corning Incorporated (GLW) Gains on Strong GenAI-Driven Optical Communications Demand"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
-          "title": "马特尔CEO：2026年是品牌中心战略的转折年",
+          "time": "2026-03-12 21:02:51",
+          "title": "如果五年前你投资了1000美元在Airbnb或Uber上，这是你现在的收益",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/mattel-ceo-2026-transformational-brand-122237045.html",
-          "title_en": "Mattel CEO: 2026 is transformational year for brand-centric strategy"
+          "url": "https://finance.yahoo.com/news/had-invested-1-000-airbnb-124052232.html",
+          "title_en": "Had You Invested $1,000 in Airbnb or Uber 5 Years Ago, Here’s What You’d Have Now"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
-          "title": "大卫拉姆齐告诉一位14万美元债务的失业无家可归的俄亥俄州男子，没必要申报破产。原因在这里。",
+          "time": "2026-03-12 21:02:51",
+          "title": "Fiserv (FISV) 回落，新CEO重新调整增长预期",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/dave-ramsey-tells-homeless-unemployed-121100520.html",
-          "title_en": "Dave Ramsey tells homeless, unemployed Ohio man with $14K debt there’s no point declaring bankruptcy. Here’s why"
+          "url": "https://finance.yahoo.com/news/fiserv-fisv-pulls-back-ceo-123805085.html",
+          "title_en": "Fiserv (FISV) Pulls Back as New CEO Resets Growth Expectations"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
+          "time": "2026-03-12 21:02:51",
           "title": "分析报告：Xcel能源公司（Xcel Energy Inc）",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3546_AnalystReport_1773311807000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -459,25 +460,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
-          "title": "NIO Inc. (NIO) 股价暴涨15%，该公司目标实现“翻倍以上”的收入增长",
+          "time": "2026-03-12 21:02:51",
+          "title": "美元通用(Dollar General)股价下跌，百花相逢(Bumble)股价大涨，后者业绩超出预期。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/nio-inc-nio-skyrockets-15-020334625.html",
-          "title_en": "NIO Inc. (NIO) Skyrockets 15% as Firm Targets ‘More-Than-Double’ Revenue Growth"
+          "url": "https://finance.yahoo.com/news/live/earnings-live-dollar-general-stock-falls-bumble-stock-soars-on-earnings-beat-122701439.html",
+          "title_en": "Earnings live: Dollar General stock falls, Bumble stock soars on earnings beat"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
-          "title": "克拉默：天然气短缺即将到来，德文能源（Devon Energy）处于有利位置",
+          "time": "2026-03-12 21:02:51",
+          "title": "XRP价格下跌62%后是否仍然值得投资？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/cramer-natural-gas-shortage-coming-122149612.html",
-          "title_en": "Cramer: natural gas shortage coming, Devon Energy positioned well"
+          "url": "https://finance.yahoo.com/news/xrp-still-good-buy-falling-123911791.html",
+          "title_en": "Is XRP Still a Good Buy After Falling 62% From Its High?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
+          "time": "2026-03-12 21:02:51",
           "title": "Figure Technology (FIGR) 突破21%，因积极评级",
           "summary": "",
           "url": "https://finance.yahoo.com/news/figure-technology-figr-rockets-21-020758699.html",
@@ -486,25 +487,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
-          "title": "AXT Inc. (AXTI) 突破 14.9%，结束连续的亏损",
+          "time": "2026-03-12 21:02:51",
+          "title": "NIO Inc. (NIO) 股价暴涨15%，该公司目标实现“翻倍以上”的收入增长",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/axt-inc-axti-climbs-14-015922792.html",
-          "title_en": "AXT Inc. (AXTI) Climbs 14.9% After Series of Losses"
+          "url": "https://finance.yahoo.com/news/nio-inc-nio-skyrockets-15-020334625.html",
+          "title_en": "NIO Inc. (NIO) Skyrockets 15% as Firm Targets ‘More-Than-Double’ Revenue Growth"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
-          "title": "VNET集团（VNET）股价大涨14.7%，业绩公布前展现强势。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/vnet-group-vnet-soars-14-015505964.html",
-          "title_en": "VNET Group (VNET) Soars 14.7% as Earnings Loom, Double-Digit Growth Eyed"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
+          "time": "2026-03-12 21:02:51",
           "title": "黄金需求旺盛",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46409_MarketOutlook_1773311257000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -513,7 +505,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
+          "time": "2026-03-12 21:02:51",
+          "title": "AXT Inc. (AXTI) 突破 14.9%，结束连续的亏损",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/axt-inc-axti-climbs-14-015922792.html",
+          "title_en": "AXT Inc. (AXTI) Climbs 14.9% After Series of Losses"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 21:02:51",
+          "title": "VNET集团（VNET）股价大涨14.7%，业绩公布前展现强势。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/vnet-group-vnet-soars-14-015505964.html",
+          "title_en": "VNET Group (VNET) Soars 14.7% as Earnings Loom, Double-Digit Growth Eyed"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 21:02:51",
+          "title": "AeroVironment继续下滑。您是否应该购买？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/aerovironment-keeps-falling-buying-123853852.html",
+          "title_en": "AeroVironment Keeps Falling. Should You Be Buying?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 21:02:51",
           "title": "BridgeBio (BBIO) 突破13% 由双位数价格目标升级",
           "summary": "",
           "url": "https://finance.yahoo.com/news/bridgebio-bbio-soars-13-double-015048730.html",
@@ -522,34 +541,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
-          "title": "巴伐利亚北方和SII签署了奇克昂古尼亚疫苗生产协议",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/bavarian-nordic-sii-sign-agreement-122104334.html",
-          "title_en": "Bavarian Nordic and SII sign agreement for chikungunya vaccine production"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
-          "title": "Dyn Therapeutics（DYN）上涨11.8%，因三位数价格目标升级",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/dyne-therapeutics-dyn-climbs-11-014758156.html",
-          "title_en": "Dyne Therapeutics (DYN) Climbs 11.8% on Triple-Digit Price Target Upgrade"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
-          "title": "T1能源（TE）股价大涨11.5%，预计即将公布财报",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/t1-energy-te-soars-11-014513470.html",
-          "title_en": "T1 Energy (TE) Soars 11.5% Ahead of Earnings"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
+          "time": "2026-03-12 21:02:51",
           "title": "中期看多。",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46408_TechnicalAnalysis_1773311193000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -558,29 +550,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
-          "title": "美国Rare Earth (USAR)上涨9.3%，三名新高管加入",
+          "time": "2026-03-12 21:02:51",
+          "title": "Dyn Therapeutics（DYN）上涨11.8%，因三位数价格目标升级",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/usa-rare-earth-usar-climbs-013728630.html",
-          "title_en": "USA Rare Earth (USAR) Climbs 9.3% as 3 New Execs Join"
+          "url": "https://finance.yahoo.com/news/dyne-therapeutics-dyn-climbs-11-014758156.html",
+          "title_en": "Dyne Therapeutics (DYN) Climbs 11.8% on Triple-Digit Price Target Upgrade"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
-          "title": "伯克希尔哈撒韦从美国运通股息中获得了惊人的金额",
+          "time": "2026-03-12 21:02:51",
+          "title": "安德里尔计划收购空间监视公司ExoAnalytic，寻求更多的Golden Dome能力。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/wont-believe-much-money-berkshire-122000870.html",
-          "title_en": "You Won't Believe How Much Money Berkshire Hathaway Gets From American Express Dividends"
+          "url": "https://finance.yahoo.com/news/anduril-acquire-space-surveillance-firm-040437503.html",
+          "title_en": "Anduril to acquire space surveillance firm ExoAnalytic eyeing more Golden Dome capabilities"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 20:32:41",
-          "title": "Applied Optoelectronics (AAOI)创下历史新高，新供应协议和扩张带来利好",
+          "time": "2026-03-12 21:02:51",
+          "title": "意大利保险公司Generali公布利润增长",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/applied-optoelectronics-aaoi-hits-time-013242559.html",
-          "title_en": "Applied Optoelectronics (AAOI) Hits All-Time High on New Supply Deal, Expansion"
+          "url": "https://www.wsj.com/business/earnings/italian-insurer-generali-posts-rise-in-profit-on-growth-across-segments-f614331d?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Italian Insurer Generali Posts Rise in Profit"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 21:02:51",
+          "title": "富达投资管理公司推出私有市场风格的投资模型",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/fidelity-adds-models-taste-private-040300788.html",
+          "title_en": "Fidelity Adds Models with a Taste of Private Markets"
         }
       ]
     }
