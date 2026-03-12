@@ -1,6 +1,6 @@
 {
   "date": "2026.03.12",
-  "generatedAtBJT": "2026-03-12 13:28:03",
+  "generatedAtBJT": "2026-03-12 13:58:21",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-12 13:28:03",
+          "time": "2026-03-12 13:58:21",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注石油冲击提升EIA价格预测，霍尔木兹危机重塑前景\n- 宏观/Fed：关注2026年3月10日的房贷和再融资利率：利率小幅波动\n- 科技/半导体：Adeia与AMD达成协议，是否应该购买这个不太知名的公司？（关键词：oracle, amazon, amd, microsoft, nvidia）\n- TSLA：关注Nissan、Uber和Wayve推出共享机器人出租车合作",
+          "summary": "- 地缘/避险：伊朗冲突引发Citadel、Millennium和Point7等损失…\n- 宏观/Fed：关注2026年3月10日的房贷和再融资利率：小幅波动…\n- 科技/半导体：Adeia与AMD达成协议，是否应该购买这个不太知名的股票？（关键词：Oracle、Amazon、AMD、Microsoft、Nvidia）\n- TSLA：关注Nissan、Uber和Wayve推出自动出租车合作…",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Oil Shock Lifts EIA Price Outlook as Hormuz Crisis Reshapes Fore…\n- 宏观/Fed：关注 Mortgage and refinance rates today, March 10, 2026: Minor moves…\n- 科技/半导体：As Adeia Strikes a Deal with AMD, Should You Buy the Lesser-Know… 关键词: oracle, amazon, amd, microsoft, nvidia\n- TSLA：关注 Nissan, Uber, Wayve unveil robotaxi tie-up…"
+          "summary_en": "- 地缘/避险：关注 Iran Conflict Triggers Losses for Citadel, Millennium and Point7…\n- 宏观/Fed：关注 Mortgage and refinance rates today, March 10, 2026: Minor moves…\n- 科技/半导体：As Adeia Strikes a Deal with AMD, Should You Buy the Lesser-Know… 关键词: oracle, amazon, amd, microsoft, nvidia\n- TSLA：关注 Nissan, Uber, Wayve unveil robotaxi tie-up…"
         }
       ]
     },
@@ -29,7 +29,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
+          "time": "2026-03-12 13:58:16",
           "title": "Adeia与AMD达成协议后，是否应该现在购买这个不太知名的芯片股？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/adeia-strikes-deal-amd-buy-182954224.html",
@@ -38,7 +38,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
+          "time": "2026-03-12 13:58:16",
           "title": "Meta将向广告商收取费用，以弥补欧洲的数字税",
           "summary": "",
           "url": "https://finance.yahoo.com/news/meta-charge-advertisers-fee-offset-182506077.html",
@@ -47,7 +47,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
+          "time": "2026-03-12 13:58:16",
           "title": "Zoom Communications, Inc. (ZM) 重点关注 AI 整合和企业收入增长",
           "summary": "",
           "url": "https://finance.yahoo.com/news/zoom-communications-inc-zm-focused-183826295.html",
@@ -56,7 +56,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
+          "time": "2026-03-12 13:58:16",
           "title": "微软股价为什么仍然是“强买”股票？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/why-microsoft-stock-strong-buy-184503919.html",
@@ -211,20 +211,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
+          "time": "2026-03-12 13:58:16",
           "title": "今天（3月10日）房贷和再融资利率：利率小幅波动",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-march-10-2026-100031024.html",
           "title_en": "Mortgage and refinance rates today, March 10, 2026: Minor moves"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
-          "title": "这些股息股票的收益率高于10年国债",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/dividend-stocks-pay-more-10-172432495.html",
-          "title_en": "These Dividend Stocks Pay More Than 10-Year Treasury Bonds"
         },
         {
           "source": "CNBC-Top",
@@ -255,29 +246,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
-          "title": "石油价格预期升高，EIA调整价格预测，霍尔木兹危机重塑了预测",
+          "time": "2026-03-12 13:58:16",
+          "title": "伊朗冲突导致Citadel、Millennium和Point72等公司损失",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/oil-shock-lifts-eia-price-173000464.html",
-          "title_en": "Oil Shock Lifts EIA Price Outlook as Hormuz Crisis Reshapes Forecast"
+          "url": "https://www.wsj.com/finance/investing/iran-conflict-triggers-losses-for-citadel-millennium-and-point72-5d69d07e?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Iran Conflict Triggers Losses for Citadel, Millennium and Point72"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
+          "time": "2026-03-12 13:58:16",
           "title": "布伦特原油料将在下两个月内维持在95美元以上，美国能源信息署称是伊朗战争的原因。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/brent-oil-prices-remain-above-162259295.html",
           "title_en": "Brent to trade above $95 for next two months on Iran war, EIA says"
         },
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
-          "title": "亚洲股市下跌，油价再次突破每桶100美元，伊朗冲突加剧。",
+          "time": "2026-03-12 13:58:16",
+          "title": "白宫对美国民众说：伊朗引发的能源价格上涨是暂时的",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-oil-tops-100barrel-again-amid-iran-conflict-4556030",
-          "title_en": "Asia stocks fall as oil tops $100/bbl again amid Iran conflict"
+          "url": "https://finance.yahoo.com/news/white-house-americans-rise-energy-185144639.html",
+          "title_en": "White House to Americans: Rise in energy prices over Iran is temporary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:58:16",
+          "title": "糖价格因原油价格大幅下跌而下滑",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/sugar-prices-fall-plunge-crude-190447845.html",
+          "title_en": "Sugar Prices Fall on the Plunge in Crude Oil Prices"
         },
         {
           "source": "CNBC-Top",
@@ -348,16 +348,6 @@
           "url": "https://www.cnbc.com/2026/03/11/iran-war-trump-domestic-terror-attack.html",
           "title_en": "Iran war: Trump says he's not worried about domestic terror attack",
           "summary_en": "President Donald Trump said oil companies should send tankers through the Strait of Hormuz, which has remained effectively closed due to the war on Iran."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-12 07:44:02",
-          "title": "特朗普将释放172亿桶石油从战略石油储备",
-          "summary": "美国目前的战略储备中有4150万桶石油，约占7140万桶的授权容量的58%。",
-          "url": "https://www.cnbc.com/2026/03/11/iran-war-trump-oil-strategic-petroleum-reserve.html",
-          "title_en": "Iran war: Trump will release 172 million barrels of oil from Strategic Petroleum Reserve",
-          "summary_en": "The U.S. currently has 415 million barrels of oil in its strategic reserve, about 58% of the authorized capacity of 714 million barrels."
         },
         {
           "source": "CNBC-Top",
@@ -438,7 +428,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
+          "time": "2026-03-12 13:58:16",
           "title": "日产、优步和Wayve宣布合作开发无人出租车",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/nissan-uber-wayve-announce-robotaxi-tieup-4555988",
@@ -473,124 +463,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
-          "title": "阿里巴巴股民们，记下3月19日",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/dear-alibaba-stock-fans-mark-172708286.html",
-          "title_en": "Dear Alibaba Stock Fans, Mark Your Calendars for March 19"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
-          "title": "ESG美国股票ETF：证明负责任投资不意味着收益降低",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/esg-us-equity-etf-proving-172909413.html",
-          "title_en": "The ESG US Equity ETF That’s Proving Responsible Investing Doesn’t Mean Lower Returns"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
-          "title": "德州仪器（TXN）在工厂和自动化市场的恢复迹象，CEO表示",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/texas-instruments-txn-signals-recovery-172909823.html",
-          "title_en": "Texas Instruments (TXN) Signals Recovery in Factory and Automation Markets, CEO Says"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
-          "title": "BTIG提高了Costco (COST)目标价，因为会员收入和流量保持强劲。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/btig-raises-costco-cost-target-172720551.html",
-          "title_en": "BTIG Raises Costco (COST) Target as Membership Income and Traffic Stay Strong"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
-          "title": "渣打银行将威瑞森（VZ）升级至买入，称其股价“便宜”。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/scotiabank-lifts-verizon-vz-outperform-172529258.html",
-          "title_en": "Scotiabank Lifts Verizon (VZ) to Outperform, Calls Shares “Cheap” at Current Levels"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
-          "title": "可口可乐股今年远超市场表现。是时候买入了吗？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/coca-cola-stock-crushing-market-172800063.html",
-          "title_en": "Coca-Cola Stock Is Crushing the Market This Year. Is It Time to Buy?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
-          "title": "美国电力公司(AEP)收到Evercore ISI和Argus的股价目标上调",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/american-electric-power-aep-gets-172224901.html",
-          "title_en": "American Electric Power (AEP) Gets Price Target Hikes from Evercore ISI and Argus"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
-          "title": "Baird升级Union Pacific（UNP）并提高目标价，认为铁路交易有望带来利好。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/baird-upgrades-union-pacific-unp-172124200.html",
-          "title_en": "Baird Upgrades Union Pacific (UNP) and Raises Target, Sees Upside from Potential Rail Deal"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
-          "title": "摩根士丹利降低联邦快递目标价",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/bofa-trims-ups-target-analyst-173224486.html",
-          "title_en": "BofA Trims UPS Target as Analyst Flags Weaker Q1 Outlook"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
-          "title": "RBC Capital Markets看好耐克(NKE)的增长空间，维持买入评级。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/rbc-capital-markets-sees-path-173422041.html",
-          "title_en": "RBC Capital Markets Sees Path to Growth for Nike (NKE), Reiterates Outperform Rating"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
-          "title": "Cresset公司总裁Susie Cranston将成为该公司2020年以来首位CEO",
-          "summary": "",
-          "url": "https://www.barrons.com/advisor/articles/cresset-president-susie-cranston-to-become-ceo-332c8961?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Cresset President Susie Cranston to Become Firm’s First CEO Since 2020"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
-          "title": "Southern公司（SO）的价格目标被TD Cowen提高，基于融资和需求预测",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/southern-company-price-target-raised-173612455.html",
-          "title_en": "Southern Company (SO) Price Target Raised by TD Cowen on Financing and Demand Outlook"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
-          "title": "敬爱的DocuSign 股票粉丝们，记下3月17日",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/dear-docusign-stock-fans-mark-175715176.html",
-          "title_en": "Dear DocuSign Stock Fans, Mark Your Calendars for March 17"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
+          "time": "2026-03-12 13:58:16",
           "title": "里维安和NIO大幅上涨，股价反弹，显示它们可能抵御电动汽车行业的下滑。",
           "summary": "",
           "url": "https://www.investors.com/news/rivian-r2-nio-chinese-ev-auto-sales-tesla-electric-vehicles/?src=A00220&yptr=yahoo",
@@ -599,7 +472,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
+          "time": "2026-03-12 13:58:16",
+          "title": "敬爱的DocuSign 股票粉丝们，记下3月17日",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/dear-docusign-stock-fans-mark-175715176.html",
+          "title_en": "Dear DocuSign Stock Fans, Mark Your Calendars for March 17"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:58:16",
+          "title": "您的数据已被泄露！（这则通知是骗局！）",
+          "summary": "",
+          "url": "https://www.wsj.com/tech/cybersecurity/cyber-breach-hack-0c2c44ad?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Your Data Has Been Breached! (And This Notice Is a Scam!)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:58:16",
           "title": "福斯特商学院（The Foster School of Business）吸引企业家的原因",
           "summary": "",
           "url": "https://finance.yahoo.com/news/why-entrepreneurs-choose-foster-school-181512010.html",
@@ -608,7 +499,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
+          "time": "2026-03-12 13:58:16",
           "title": "维金治疗股获得RS评级提升",
           "summary": "",
           "url": "https://www.investors.com/news/viking-therapeutics-stock-gets-rs-rating-upgrade/?src=A00220&yptr=yahoo",
@@ -617,20 +508,119 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
-          "title": "现在是买入S&P 500的最佳3只股票时期，尤其是在Cava的巨大动作之后。",
+          "time": "2026-03-12 13:58:16",
+          "title": "尼奥股价大涨后，是否应该追随它的涨势？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/best-3-p-500-stocks-172500988.html",
-          "title_en": "Best 3 S&P 500 Stocks to Buy Right Now After Cava's Big Move"
+          "url": "https://finance.yahoo.com/news/chase-rally-nio-stock-following-183058554.html",
+          "title_en": "Should You Chase the Rally in Nio Stock Following Its Surprise Profit?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 13:27:58",
+          "time": "2026-03-12 13:58:16",
+          "title": "自上周以来，汽油价格最大的上涨地区是哪里？",
+          "summary": "",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-10-2026/card/where-gas-prices-have-risen-the-most-since-last-week-p7RlV2JpJPadB0XC5hNg?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Where Gas Prices Have Risen the Most Since Last Week"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:58:16",
           "title": "如何申请退还透支费\n\n许多银行和金融机构正在退还因COVID-19而产生的透支费。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/how-to-get-overdraft-fees-refunded-214822745.html",
           "title_en": "How to get overdraft fees refunded"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:58:16",
+          "title": "JD.com (JD) 与德国邮政(DHL)合作推广德国品牌，背景是2025年财务业绩的复杂性。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jd-com-inc-jd-partners-183821874.html",
+          "title_en": "JD.com, Inc. (JD) Partners with DHL to Popularize German Brands amid Mixed 2025 Financial Results"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:58:16",
+          "title": "诺沃·诺迪斯克 (NVO) 扩大制造能力以应对全球GLP-1药物需求的增长",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/novo-nordisk-nvo-expands-manufacturing-183825914.html",
+          "title_en": "Novo Nordisk A/S (NVO) Expands Manufacturing to Support Rising Global Demand for GLP-1 Drugs"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:58:16",
+          "title": "在黄金价格飞涨时，这些替代品提供了更便宜的避险手段",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/gold-prices-sky-high-alternatives-180023721.html",
+          "title_en": "With Gold Prices Sky-High, These Alternatives Offer a Cheaper Hedge"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:58:16",
+          "title": "第一太阳能（FSLR）获得分析师支持，强需求推动太阳能增长预期",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/first-solar-inc-fslr-gains-183830562.html",
+          "title_en": "First Solar, Inc. (FSLR) Gains Analyst Support as Strong Demand Boosts Solar Growth Outlook"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:58:16",
+          "title": "IQVIA Holdings Inc. (IQV) 提升临床研究和数据能力以推动增长",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/iqvia-holdings-inc-iqv-advances-183828418.html",
+          "title_en": "IQVIA Holdings Inc. (IQV) Advances Clinical Research and Data Capabilities to Drive Growth"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:58:16",
+          "title": "网易公司（NTES）：分析师信心和增长前景",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/netease-inc-ntes-analyst-confidence-183823549.html",
+          "title_en": "NetEase, Inc. (NTES): Analyst Confidence and Growth Ahead"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:58:16",
+          "title": "当前最值得加码的股票",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/top-stocks-double-now-175400585.html",
+          "title_en": "Top Stocks to Double Up on Right Now"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:58:16",
+          "title": "WPP plc (WPP) 面临短期增长压力，但预见未来恢复",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/wpp-plc-wpp-faces-near-183836118.html",
+          "title_en": "WPP plc (WPP) Faces Near-Term Growth Pressure but Sees Potential Recovery Ahead"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:58:16",
+          "title": "Chime评测（2026）：利用技术为您提供更好的银行服务",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/review/chime-bank-review-161831648.html",
+          "title_en": "Chime review (2026): Leveraging technology to bring you better banking services"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:58:16",
+          "title": "Super Micro Computer, Inc. (SMCI) 扩展对主权人工智能平台的支持",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/super-micro-computer-inc-smci-183831650.html",
+          "title_en": "Super Micro Computer, Inc. (SMCI) Expands Support for Sovereign Artificial Intelligence Platforms"
         }
       ]
     }
