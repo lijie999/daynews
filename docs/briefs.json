@@ -1,6 +1,6 @@
 {
   "date": "2026.03.13",
-  "generatedAtBJT": "2026-03-13 01:07:05",
+  "generatedAtBJT": "2026-03-13 01:30:41",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-13 01:07:05",
+          "time": "2026-03-13 01:30:41",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：油价飙升，股市发出警报。\n- 宏观/Fed：房贷利率再次超过6%，春季购房季节的前景如何？\n- 科技/半导体：今日科技股：Anthropic称五角大楼禁令可能使其损失数十亿美元。\n- TSLA：电动汽车制造商Lucid宣布了机器人出租车计划，带来积极的自由现金流。",
+          "summary": "- 地缘/避险：关注谁决定石油价格？这些是全球顶级交易员…\n- 宏观/Fed：关注通胀如何影响房贷利率？了解这些信息…\n- 科技/半导体：资金大量投资数据中心；股价冲近买点…关键词：nvidia, center, data, microsoft, anthropic\n- TSLA：关注电动汽车制造商Lucid宣布机器人出租车计划，带来正面的自由现金流…",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 The Stock Market Sounds an Alarm as Oil Prices Surge to Their Hi…\n- 宏观/Fed：关注 Mortgage rates are back above 6%. So spring homebuying season ki…\n- 科技/半导体：Tech stocks today: Anthropic says Pentagon ban could cost it bil… 关键词: center, data, nvidia, out, ask\n- TSLA：关注 EV maker Lucid reveals plans for robotaxi, positive free cash fl…"
+          "summary_en": "- 地缘/避险：关注 Who Determines Oil Prices? These Are The World's Top Traders…\n- 宏观/Fed：关注 How does inflation affect mortgage rates? What to know in light …\n- 科技/半导体：Funds Load Up On Data Center Play; Stock Rockets Near Buy Point… 关键词: nvidia, center, data, microsoft, anthropic\n- TSLA：关注 EV maker Lucid reveals plans for robotaxi, positive free cash fl…"
         }
       ]
     },
@@ -29,7 +29,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
+          "time": "2026-03-13 01:30:36",
+          "title": "资金大量涌入数据中心股；股价冲近买点",
+          "summary": "",
+          "url": "https://www.investors.com/research/data-center-ubiquiti-ui-stock/?src=A00220&yptr=yahoo",
+          "title_en": "Funds Load Up On Data Center Play; Stock Rockets Near Buy Point"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 01:30:36",
           "title": "科技股今日：Anthropic称五角大楼禁令可能造成数十亿美元损失，Nebius股价上涨因Nvidia投资",
           "summary": "",
           "url": "https://finance.yahoo.com/news/live/tech-stocks-today-anthropic-says-pentagon-ban-could-cost-it-billions-nebius-stock-rises-on-nvidia-investment-134456628.html",
@@ -38,56 +47,21 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "从高点下跌55%：CoreWeave是目前最好的AI股之一吗？",
+          "time": "2026-03-13 01:30:36",
+          "title": "帕拉尼特和Nvidia携手应对这6000亿美元的机遇",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/down-55-high-coreweave-best-165229088.html",
-          "title_en": "Down 55% From Its High: Is CoreWeave the Best AI Stock to Buy Right Now?"
+          "url": "https://finance.yahoo.com/news/palantir-nvidia-join-forces-tackle-170906646.html",
+          "title_en": "Palantir and Nvidia Join Forces to Tackle This $600 Billion Opportunity"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "字节跳动的数据中心订单可能是VNET的重大胜利",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/why-bytedance-reported-data-center-161516181.html",
-          "title_en": "Why ByteDance’s Reported Data Center Order Could Be a Major Win for VNET (VNET)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "戴尔、卡特彼勒和10家公司将引领人工智能时代的蓝领复兴",
-          "summary": "",
-          "url": "https://www.barrons.com/articles/deere-caterpillar-10-other-stocks-ai-infused-renaissance-04a1e02f?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Deere, Caterpillar and 10 Other Stocks for an AI-Infused Blue Collar Renaissance"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "数字海洋（DOCN）如何帮助Workato降低推理成本并提高AI吞吐量",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/digitalocean-docn-helped-workato-cut-161500931.html",
-          "title_en": "How DigitalOcean (DOCN) Helped Workato Cut Inference Costs and Improve AI Throughput"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "阿卡马伊（AKAM）布莱克威尔GPU扩建扩大其分布式AI平台雄心",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/akamai-akam-blackwell-gpu-buildout-161453760.html",
-          "title_en": "How Akamai’s (AKAM) Blackwell GPU Buildout Expands Its Distributed AI Platform Ambitions"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "三星全年内存芯片产量到2027年均将售罄：分析师",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/samsungs-entire-memory-chip-output-through-2027-expected-to-sell-out-analyst-4557820",
-          "title_en": "Samsung’s entire memory chip output through 2027 expected to sell out: analyst"
+          "time": "2026-03-13 01:00:35",
+          "title": "微软高级办公业务负责人拉杰什·贾哈(Rajesh Jha)将在超过35年后退休。",
+          "summary": "拉杰什·贾哈（Rajesh Jha）帮助微软推出了一款包含OpenAI模型的智能助手，用于其Office办公软件客户。",
+          "url": "https://www.cnbc.com/2026/03/12/microsofts-top-office-executive-rajesh-jha-retiring-after-35-years.html",
+          "title_en": "Microsoft top Office executive Rajesh Jha retiring after more than 35 years",
+          "summary_en": "Rajesh Jha helped Microsoft bring to market an artificial intelligence assistant containing OpenAI models for its Office productivity customers."
         },
         {
           "source": "CNBC-Tech",
@@ -198,6 +172,16 @@
           "url": "https://www.cnbc.com/2026/03/10/oracle-orcl-q3-earnings-report-2026.html",
           "title_en": "Oracle stock jumps 10% on earnings beat and increased guidance as cloud revenue climbs 44%",
           "summary_en": "Oracle boosted its revenue backlog total by $30 billion during the February quarter."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-11 18:53:52",
+          "title": "微软支持 Anthropic 在 Pentagon 黑名单之争中，要求暂时性禁令",
+          "summary": "微软支持 Anthropic 并呼吁对国防部供应链风险指标提出暂时禁令。",
+          "url": "https://www.cnbc.com/2026/03/10/microsoft-says-court-should-temporarily-block-pentagon-ban-anthropic.html",
+          "title_en": "Microsoft backs Anthropic in Pentagon blacklist battle, urges temporary restraining order",
+          "summary_en": "Microsoft threw its support behind Anthropic and advocated for a temporary restraining order to the Pentagon's supply chain risk designation."
         }
       ]
     },
@@ -205,6 +189,25 @@
       "name": "美联储与政策",
       "badge": "Fed / Policy",
       "items": [
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 01:30:36",
+          "title": "通胀如何影响房贷利率？在2月核心CPI数据的背景下，需要了解的内容。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-does-inflation-affect-mortgage-rates-february-core-cpi-173028128.html",
+          "title_en": "How does inflation affect mortgage rates? What to know in light of February core CPI data."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-13 01:25:00",
+          "title": "核心通胀指数近4年来最高",
+          "summary": "对特朗普政府来说，人们对未来价格上涨的预期越高，越是坏消息。",
+          "url": "https://www.marketwatch.com/story/a-key-inflation-gauge-just-logged-its-highest-reading-in-almost-4-years-ceda8057?mod=mw_rss_topstories",
+          "title_en": "A key inflation gauge just logged its highest reading in almost 4 years",
+          "summary_en": "Climbing expectations for future price gains are bad news for the Trump administration."
+        },
         {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
@@ -234,16 +237,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "股市发出警报，石油价格攀升至多年来最高水平。历史表明，S&P 500会这样做。",
+          "time": "2026-03-13 01:30:36",
+          "title": "全球最大的石油交易商有哪些？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/stock-market-sounds-alarm-oil-165413274.html",
-          "title_en": "The Stock Market Sounds an Alarm as Oil Prices Surge to Their Highest Level in Years. History Says the S&P 500 Will Do This Next."
+          "url": "https://www.investors.com/news/oil-prices-iran-war-these-are-the-top-commodities-traders/?src=A00220&yptr=yahoo",
+          "title_en": "Who Determines Oil Prices? These Are The World's Top Traders"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
+          "time": "2026-03-13 01:30:36",
+          "title": "纳斯达克指数领跌美国股市，伊朗报复性袭击导致油价大幅上涨。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/dow-jones-nasdaq-set-open-121300257.html",
+          "title_en": "Nasdaq leads Wall St lower as oil prices spike on Iran revenge strikes"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 01:30:36",
           "title": "股市今日：指数因油价大幅上涨而下跌；奥克西德نت尔触发卖出信号，贝克休斯下跌（实时报道）",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-jobless-claims/?src=A00220&yptr=yahoo",
@@ -252,11 +264,30 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
+          "time": "2026-03-13 01:30:36",
           "title": "美伊长期战争对美国汽油价格的影响",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/how-an-extended-war-with-iran-could-hit-us-gas-prices-225053364.html",
           "title_en": "How an extended war with Iran could hit U.S. gas prices"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 01:30:36",
+          "title": "欧洲股市下跌，石油价格飙升，伊朗冲突升级",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/european-stocks-open-lower-as-oil-prices-spike-amid-ongoing-iran-conflict-4556182",
+          "title_en": "European stocks decline as oil prices spike amid escalating Iran conflict"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-13 01:21:59",
+          "title": "艺术品和经典汽车拍卖额超600亿美元，伊朗战争未能阻挡",
+          "summary": "专家认为，全球动荡可能使人们对罕见的收藏品的需求增加，因为富人正在寻找安全的长期价值储存。",
+          "url": "https://www.cnbc.com/2026/03/12/classic-car-art-auctions-results-wealth-resilience.html",
+          "title_en": "Art and classic car auctions top $600 million despite Iran war",
+          "summary_en": "Experts say the global turmoil may have even helped demand for rare collectibles, as the wealthy search for safe, long-term stores of value."
         },
         {
           "source": "MarketWatch-Top",
@@ -329,16 +360,6 @@
           "summary_en": "Iran's new Supreme Leader Mojtaba Khamenei has said all U.S. military bases in the Middle East should close immediately as those bases will be attacked."
         },
         {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-12 23:23:00",
-          "title": "石油价格再次突破100美元，伊朗加大对伊拉克的打击，新领导人承诺继续阻塞霍尔木兹海峡。",
-          "summary": "石油价格周四早晨再次大幅上涨，随着伊朗对海湾地区基础设施的袭击升级。",
-          "url": "https://www.marketwatch.com/story/oil-taps-101-as-iran-dramatically-changes-strategy-and-iea-calls-conflict-biggest-supply-disruption-in-history-b38215b5?mod=mw_rss_topstories",
-          "title_en": "Oil tops $100 again as Iran ramps up strikes and new leader vows to keep blocking Strait of Hormuz",
-          "summary_en": "Oil prices spiked again on Thursday morning after Iran ramped up its strikes on infrastructure in the Gulf."
-        },
-        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-12 22:53:27",
@@ -387,26 +408,6 @@
           "url": "https://www.cnbc.com/2026/03/11/cargo-ship-struck-strait-of-hormuz-uk-iran-war.html",
           "title_en": "Three cargo ships struck off Iran's coast, UK says, including one in Strait of Hormuz",
           "summary_en": "The incidents mark the latest in a string of reported attacks in or near to the Strait of Hormuz, where shipping traffic has virtually ground to a halt."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-12 22:26:00",
-          "title": "三艘船在波斯湾遭到撞击，伊朗警告油价可能达到200美元。",
-          "summary": "霍尔木兹海峡最近发生的事件发生在伊朗警告世界要准备好$200的油价之后。",
-          "url": "https://www.cnbc.com/2026/03/12/iran-war-persian-gulf-strait-of-hormuz-ships-uae-iraq.html",
-          "title_en": "Three more ships struck in the Persian Gulf as Iran warns of oil prices hitting $200",
-          "summary_en": "The latest incidents in or near the Strait of Hormuz come shortly after Iran warned the world to prepare for $200 oil prices."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-12 21:59:19",
-          "title": "美国能源部长沃特表示，美国尚未准备好 Escort 油轮通过霍尔木兹海峡。",
-          "summary": "运油船通过海峡的通行仍然停滞不前，船东担心遭到伊朗的攻击。海峡关闭导致了历史上最大的一次石油供应中断。",
-          "url": "https://www.cnbc.com/2026/03/12/energy-secretary-wright-says-us-not-ready-to-escort-tankers-through-strait-of-hormuz-yet.html",
-          "title_en": "Energy Secretary Wright says U.S. 'not ready' to escort oil tankers through Strait of Hormuz yet",
-          "summary_en": "Tanker traffic through the strait remains at a standstill as ship owners fear attacks by Iran. The closure has triggered the largest oil supply disruption ever."
         }
       ]
     },
@@ -417,7 +418,7 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-13 00:56:12",
+          "time": "2026-03-13 01:20:01",
           "title": "电动汽车制造商Lucid宣布了机器人出租车的计划，预计本世纪末将实现正现金流。",
           "summary": "该电动汽车公司计划通过进入中型车、无人驾驶出租车和新市场，尤其是欧洲市场来实现这一目标。",
           "url": "https://www.cnbc.com/2026/03/12/lucid-investor-day.html",
@@ -443,52 +444,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "波士顿银行(Bank of America)选项期权情绪混合，股价下跌0.85%",
+          "time": "2026-03-13 01:30:36",
+          "title": "中国物流平台去年实现了18亿美元的收入，但一位投资者却出售了6亿美元的股份。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/mixed-options-sentiment-bank-america-170112379.html",
-          "title_en": "Mixed options sentiment in Bank of America with shares down 0.85%"
+          "url": "https://finance.yahoo.com/news/china-logistics-platform-generated-1-172116742.html",
+          "title_en": "This China Logistics Platform Generated $1.8 Billion in Revenue Last Year, but One Investor Exited a $6 Million Stake"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "今年的税退款更大。为什么这不是好消息。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refunds-are-larger-this-year-why-thats-not-good-news-for-taxpayers-165828242.html",
-          "title_en": "Tax refunds are larger this year. Why that’s not good news for taxpayers."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "G-III服装集团有限公司2026年第四季度财报电话会议总结",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/g-iii-apparel-group-ltd-165404890.html",
-          "title_en": "G-III Apparel Group, Ltd. Q4 2026 Earnings Call Summary"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "SNDL Inc. Q4 2025 年财报电话会议总结",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/sndl-inc-q4-2025-earnings-165336878.html",
-          "title_en": "SNDL Inc. Q4 2025 Earnings Call Summary"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "Gambling.com集团有限公司2025年第四季度财报电话会议总结",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/gambling-com-group-limited-q4-165303453.html",
-          "title_en": "Gambling.com Group Limited Q4 2025 Earnings Call Summary"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
+          "time": "2026-03-13 01:30:36",
           "title": "分析报告：Xcel能源公司（Xcel Energy Inc）",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3546_AnalystReport_1773311807000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -497,43 +462,52 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "派派约翰（Papa John's）收购谣言支持股价，史蒂文斯（Stephens）表示。",
+          "time": "2026-03-13 01:30:36",
+          "title": "哈佛生物科学公司2025年第四季度财报电话会议总结",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/papa-john-takeover-speculation-supporting-170044397.html",
-          "title_en": "Papa John’s takeover speculation supporting shares, says Stephens"
+          "url": "https://finance.yahoo.com/news/harvard-bioscience-inc-q4-2025-165842053.html",
+          "title_en": "Harvard Bioscience, Inc. Q4 2025 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "Rapid Micro Biosystems, Inc. 2025年第四季度财报电话会议总结",
+          "time": "2026-03-13 01:30:36",
+          "title": "这家奇特科技股今天上涨了7%的原因",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/rapid-micro-biosystems-inc-q4-165235479.html",
-          "title_en": "Rapid Micro Biosystems, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/why-oddity-tech-stock-7-171621250.html",
+          "title_en": "This Is Why Oddity Tech Stock Is Up 7% Today"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "道奇通讯(Dollar General Corporation)2025年第四季度财报电话会议总结",
+          "time": "2026-03-13 01:30:36",
+          "title": "睡眠数公司2025年第四季度财报电话会议总结\n\n睡眠数公司第四季度财报表现出色，公司报告了收入和利润的增长。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/dollar-general-corporation-q4-2025-165132544.html",
-          "title_en": "Dollar General Corporation Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/sleep-number-corporation-q4-2025-165837101.html",
+          "title_en": "Sleep Number Corporation Q4 2025 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "芝加哥大西洋房地产金融公司2025年第四季度财报电话会议摘要",
+          "time": "2026-03-13 01:30:36",
+          "title": "今年的税退款更大。为什么这不是好消息。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/chicago-atlantic-real-estate-finance-165055633.html",
-          "title_en": "Chicago Atlantic Real Estate Finance, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refunds-are-larger-this-year-why-thats-not-good-news-for-taxpayers-165828242.html",
+          "title_en": "Tax refunds are larger this year. Why that’s not good news for taxpayers."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
+          "time": "2026-03-13 01:30:36",
+          "title": "Vivid Seats Inc. 2025年第四季度财报电话会议总结",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/vivid-seats-inc-q4-2025-165809346.html",
+          "title_en": "Vivid Seats Inc. Q4 2025 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 01:30:36",
           "title": "黄金需求旺盛",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46409_MarketOutlook_1773311257000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -542,52 +516,52 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "标志着Heuer任命Béatrice Goasglas为首席执行官",
+          "time": "2026-03-13 01:30:36",
+          "title": "太阳升房地产信托公司2025年第四季度财报电话会议总结",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/exclusive-tag-heuer-names-b-170000763.html",
-          "title_en": "EXCLUSIVE: Tag Heuer Names Béatrice Goasglas CEO"
+          "url": "https://finance.yahoo.com/news/sunrise-realty-trust-inc-q4-165738182.html",
+          "title_en": "Sunrise Realty Trust, Inc. Q4 2025 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "CION投资公司2025年第四季度财报电话会议总结",
+          "time": "2026-03-13 01:30:36",
+          "title": "Navigator Holdings (NVGS) Q4 2025 年财报电话会议记录",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/cion-investment-corporation-q4-2025-165031284.html",
-          "title_en": "CION Investment Corporation Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/navigator-nvgs-q4-2025-earnings-171112656.html",
+          "title_en": "Navigator (NVGS) Q4 2025 Earnings Call Transcript"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "奥利的折扣大出清Q4 2025财报电话会议摘要",
+          "time": "2026-03-13 01:30:36",
+          "title": "Vera Bradley, Inc. Q4 2026 年财报电话会议总结",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ollies-bargain-outlet-holdings-inc-165004723.html",
-          "title_en": "Ollie's Bargain Outlet Holdings, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/vera-bradley-inc-q4-2026-165642764.html",
+          "title_en": "Vera Bradley, Inc. Q4 2026 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "BK技术公司2025年第四季度财报电话会议总结",
+          "time": "2026-03-13 01:30:36",
+          "title": "联合海运公司2025年第四季度财报电话会议总结",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/bk-technologies-corporation-q4-2025-164926788.html",
-          "title_en": "BK Technologies Corporation Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/united-maritime-corporation-q4-2025-165539123.html",
+          "title_en": "United Maritime Corporation Q4 2025 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "Village Farms国际, Inc. 2025年第四季度财报电话会议摘要",
+          "time": "2026-03-13 01:30:36",
+          "title": "G-III服装集团有限公司2026年第四季度财报电话会议总结",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/village-farms-international-inc-q4-164831353.html",
-          "title_en": "Village Farms International, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/g-iii-apparel-group-ltd-165404890.html",
+          "title_en": "G-III Apparel Group, Ltd. Q4 2026 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
+          "time": "2026-03-13 01:30:36",
           "title": "中期看多。",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46408_TechnicalAnalysis_1773311193000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -596,11 +570,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 01:07:01",
-          "title": "Lifetime Brands, Inc. Q4 2025财报电话会议总结",
+          "time": "2026-03-13 01:30:36",
+          "title": "SNDL Inc. Q4 2025 年财报电话会议总结",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/lifetime-brands-inc-q4-2025-164645209.html",
-          "title_en": "Lifetime Brands, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/sndl-inc-q4-2025-earnings-165336878.html",
+          "title_en": "SNDL Inc. Q4 2025 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 01:30:36",
+          "title": "Gambling.com集团有限公司2025年第四季度财报电话会议总结",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/gambling-com-group-limited-q4-165303453.html",
+          "title_en": "Gambling.com Group Limited Q4 2025 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 01:30:36",
+          "title": "Rapid Micro Biosystems, Inc. 2025年第四季度财报电话会议总结",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/rapid-micro-biosystems-inc-q4-165235479.html",
+          "title_en": "Rapid Micro Biosystems, Inc. Q4 2025 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 01:30:36",
+          "title": "道奇通讯(Dollar General Corporation)2025年第四季度财报电话会议总结",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/dollar-general-corporation-q4-2025-165132544.html",
+          "title_en": "Dollar General Corporation Q4 2025 Earnings Call Summary"
         }
       ]
     }
