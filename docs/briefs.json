@@ -1,6 +1,6 @@
 {
   "date": "2026.03.12",
-  "generatedAtBJT": "2026-03-12 12:30:18",
+  "generatedAtBJT": "2026-03-12 12:57:44",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-12 12:30:18",
+          "time": "2026-03-12 12:57:44",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注原油价格大跌，导致糖价下跌。\n- 宏观/Fed：关注参议员蒂姆·斯科特希望美联储主席鲍威尔调查能够平息。\n- 科技/半导体：Jensen Huang表示，价值7000亿美元的AI建设仅是刚刚开始，NVIDIA、Oracle、Amazon、AMD、Anthropic等公司将继续推进。\n- TSLA：关注特斯拉的竞争对手尼桑、优步、Wayve推出共享自动驾驶出租车服务。",
+          "summary": "- 地缘/避险：关注原油价格今日大跌，导致糖价下跌。\n- 宏观/Fed：关注今日3月10日，房贷和再融资利率小幅波动。\n- 科技/半导体：Adeia与AMD达成协议，是否应该投资这家知名度较低的公司？\n- TSLA：关注特斯拉，日产，Uber，Wayve推出共享自动驾驶出租车计划。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Sugar Prices Fall on Today's Plunge in Crude Oil Prices…\n- 宏观/Fed：关注 Tim Scott hopes Fed Chair Powell investigation 'goes away' to cl…\n- 科技/半导体：Jensen Huang says the $700 billion AI buildout is just the begin… 关键词: nvidia, oracle, amazon, amd, anthropic\n- TSLA：关注 Nissan, Uber, Wayve unveil robotaxi tie-up…"
+          "summary_en": "- 地缘/避险：关注 Sugar Prices Fall on Today's Plunge in Crude Oil Prices…\n- 宏观/Fed：关注 Mortgage and refinance rates today, March 10, 2026: Minor moves…\n- 科技/半导体：As Adeia Strikes a Deal with AMD, Should You Buy the Lesser-Know… 关键词: nvidia, oracle, amazon, amd, anthropic\n- TSLA：关注 Nissan, Uber, Wayve unveil robotaxi tie-up…"
         }
       ]
     },
@@ -29,11 +29,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "Jensen Huang表示，7000亿美元的AI基础设施建设只是刚刚开始：‘仍有数万亿美元的基础设施需要建设’",
+          "time": "2026-03-12 12:57:39",
+          "title": "Adeia与AMD达成协议后，是否应该现在购买这个不太知名的芯片股？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jensen-huang-says-700-billion-163949729.html",
-          "title_en": "Jensen Huang says the $700 billion AI buildout is just the beginning: ‘Trillions of dollars of infrastructure still need to be built’"
+          "url": "https://finance.yahoo.com/news/adeia-strikes-deal-amd-buy-182954224.html",
+          "title_en": "As Adeia Strikes a Deal with AMD, Should You Buy the Lesser-Known Chip Stock Now?"
         },
         {
           "source": "CNBC-Top",
@@ -212,6 +212,15 @@
       "badge": "Fed / Policy",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 12:57:39",
+          "title": "今天（3月10日）房贷和再融资利率：利率小幅波动",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-march-10-2026-100031024.html",
+          "title_en": "Mortgage and refinance rates today, March 10, 2026: Minor moves"
+        },
+        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-12 04:46:48",
@@ -240,29 +249,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
+          "time": "2026-03-12 12:57:39",
           "title": "糖价格因今日原油价格大幅下跌而下滑",
           "summary": "",
           "url": "https://finance.yahoo.com/news/sugar-prices-fall-todays-plunge-170707173.html",
           "title_en": "Sugar Prices Fall on Today's Plunge in Crude Oil Prices"
         },
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "亚洲股市下跌，油价再次突破每桶100美元，伊朗冲突加剧。",
+          "time": "2026-03-12 12:57:39",
+          "title": "石油价格预期升高，EIA调整价格预测，霍尔木兹危机重塑了预测",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-oil-tops-100barrel-again-amid-iran-conflict-4556030",
-          "title_en": "Asia stocks fall as oil tops $100/bbl again amid Iran conflict"
+          "url": "https://finance.yahoo.com/news/oil-shock-lifts-eia-price-173000464.html",
+          "title_en": "Oil Shock Lifts EIA Price Outlook as Hormuz Crisis Reshapes Forecast"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 12:57:39",
+          "title": "布伦特原油料将在下两个月内维持在95美元以上，美国能源信息署称是伊朗战争的原因。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/brent-oil-prices-remain-above-162259295.html",
+          "title_en": "Brent to trade above $95 for next two months on Iran war, EIA says"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "新加坡银行转为中性看待除日本以外的亚洲股票，考虑伊朗战争风险",
+          "time": "2026-03-12 12:57:39",
+          "title": "亚洲股市下跌，油价再次突破每桶100美元，伊朗冲突加剧。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/bank-of-singapore-turns-neutral-on-asiaex-japan-stocks-amid-iran-war-risks-4556020",
-          "title_en": "Bank of Singapore turns neutral on Asia-ex Japan stocks amid Iran war risks"
+          "url": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-oil-tops-100barrel-again-amid-iran-conflict-4556030",
+          "title_en": "Asia stocks fall as oil tops $100/bbl again amid Iran conflict"
         },
         {
           "source": "CNBC-Top",
@@ -403,16 +421,6 @@
           "url": "https://www.cnbc.com/2026/03/11/us-treasury-yields-investors-await-key-inflation-report-.html",
           "title_en": "Treasury yields gain after sticky February inflation reading, oil price increase",
           "summary_en": "U.S. Treasury yields moved higher on Wednesday as assessed February's inflation report and monitored developments on the US-Iran war front."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-12 03:28:17",
-          "title": "伊朗冲突可能导致肥料供应链受阻，进而导致食品价格上涨。",
-          "summary": "伊朗冲突正在通过霍尔木兹海峡干扰肥料运输，引发供应担忧，并可能导致全球食品通胀上升。",
-          "url": "https://www.cnbc.com/2026/03/11/iran-news-food-prices-could-rise-due-to-fertilizer-shortages.html",
-          "title_en": "Food prices could rise as Iran conflict disrupts fertilizer supply chain",
-          "summary_en": "The Iran conflict is disrupting fertilizer shipments through the Strait of Hormuz, raising supply concerns and potentially increasing global food inflation."
         }
       ]
     },
@@ -423,7 +431,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
+          "time": "2026-03-12 12:57:39",
           "title": "日产、优步和Wayve宣布合作开发无人出租车",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/nissan-uber-wayve-announce-robotaxi-tieup-4555988",
@@ -458,164 +466,164 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "百万富翁比尔·阿克曼旗下Pershing Square投资公司计划在纽约证券交易所(NYSE)上市，进行双重股票发行。",
+          "time": "2026-03-12 12:57:39",
+          "title": "分析师再次修订了环形的价格目标",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/pershing-square-ipo-billionaire-bill-163000480.html",
-          "title_en": "Pershing Square IPO: Billionaire Bill Ackman’s hedge fund plans dual stock listing on the NYSE"
+          "url": "https://finance.yahoo.com/news/analyst-revamps-price-target-circle-170000457.html",
+          "title_en": "Analyst revamps price target for Circle again"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "摩根士丹利降低First Solar的目标价，因为价格回升放缓",
+          "time": "2026-03-12 12:57:39",
+          "title": "赌场名称创下历史新高，股价暴涨53%",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/why-morgan-stanley-cut-first-162903998.html",
-          "title_en": "Why Morgan Stanley Cut First Solar’s (FSLR) Target as Pricing Recovery Slows"
+          "url": "https://www.investors.com/research/casino-rush-street-interactive-rsi-stock/?src=A00220&yptr=yahoo",
+          "title_en": "Casino Name Sets Up After Rocketing 53%"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "林特证明高端巧克力仍然有市场",
+          "time": "2026-03-12 12:57:39",
+          "title": "CME Group (CME) 得到Erste Group的买入评级；Argus Research转为持有评级。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/lindt-proves-premium-chocolate-still-163741746.html",
-          "title_en": "Lindt Proves Premium Chocolate Still Has Bite"
+          "url": "https://finance.yahoo.com/news/cme-group-cme-gets-buy-170806246.html",
+          "title_en": "CME Group (CME) Gets Buy Rating From Erste Group; Argus Research Moves to Hold"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "KVH Industries, Inc. 2025年第四季度财报电话会议总结",
+          "time": "2026-03-12 12:57:39",
+          "title": "Intercontinental Exchange (ICE) 被德意志银行升级；该公司投资了价值250亿美元的OKX",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/kvh-industries-inc-q4-2025-164140371.html",
-          "title_en": "KVH Industries, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/intercontinental-exchange-ice-upgraded-deutsche-170444854.html",
+          "title_en": "Intercontinental Exchange (ICE) Upgraded by Deutsche Bank; Company Invests in $25B-Valued OKX"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "自有卡车一源公司2025年第四季度财报电话会议总结",
+          "time": "2026-03-12 12:57:39",
+          "title": "比斯汀（Bithumb）面临严厉处罚，因为违反了洗钱规则。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/custom-truck-one-source-inc-164117546.html",
-          "title_en": "Custom Truck One Source, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/bithumb-faces-heavy-disciplinary-action-170207060.html",
+          "title_en": "Bithumb faces ‘heavy disciplinary action’ after violating money laundering rules"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "特朗普家族成员唐纳德·特朗普·青年和埃里克·特朗普支持无人机公司Powerus。",
+          "time": "2026-03-12 12:57:39",
+          "title": "比特币在70,000美元以上徘徊，特朗普表示可能很快结束战争。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/don-jr-eric-trump-back-162904717.html",
-          "title_en": "Donald Trump Jr. and Eric Trump back drone company Powerus"
+          "url": "https://finance.yahoo.com/news/bitcoin-hovers-above-70000-as-trump-signals-war-may-end-soon-170601158.html",
+          "title_en": "Bitcoin hovers above $70,000 as Trump signals war may end 'soon'"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "美国货运车辆公司第四季度2025年财报电话会议总结",
+          "time": "2026-03-12 12:57:39",
+          "title": "RBC Capital Markets提高了Broadcom（AVGO）的股价目标，指出FY27的评论是积极的。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/freightcar-america-inc-q4-2025-164037712.html",
-          "title_en": "FreightCar America, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/rbc-capital-markets-lifts-broadcom-171021318.html",
+          "title_en": "RBC Capital Markets Lifts Broadcom (AVGO) Price Target, Points to Bullish FY27 Commentary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "努威利斯公司（Nuwellis, Inc.）2025年第四季度财报电话会议总结",
+          "time": "2026-03-12 12:57:39",
+          "title": "如果最坏的情况已经过去，纳斯达克公司股票可能是便宜的买卖 - 现在最好的NDAQ投资机会是什么？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/nuwellis-inc-q4-2025-earnings-164345920.html",
-          "title_en": "Nuwellis, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/worst-over-nasdaq-inc-stock-171248400.html",
+          "title_en": "If the Worst Is Over, NASDAQ Inc Stock May Be a Bargain - What's the Best NDAQ Play Now?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "阿根廷的米莱在华尔街发表演讲，投资者重新评估新兴市场",
+          "time": "2026-03-12 12:57:39",
+          "title": "黑石（BLK）价格目标被Evercore ISI降低，原因是对2月份流动性进行了早期评估。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/argentinas-milei-pitching-wall-street-140844840.html",
-          "title_en": "Argentina's Milei pitches to Wall Street as investors reassess emerging markets"
+          "url": "https://finance.yahoo.com/news/blackrock-blk-price-target-reduced-171219695.html",
+          "title_en": "BlackRock (BLK) Price Target Reduced by Evercore ISI Following Early Review of February Flows"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "棉花价格周二大幅上涨",
+          "time": "2026-03-12 12:57:39",
+          "title": "一只可持有终身的工业股",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/cotton-rallying-higher-tuesday-164328188.html",
-          "title_en": "Cotton Rallying Higher on Tuesday"
+          "url": "https://finance.yahoo.com/news/1-magnificent-industrial-stock-buy-170700146.html",
+          "title_en": "1 Magnificent Industrial Stock to Buy and Hold Forever"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "三大公用事业ETF有望大幅上涨，需求持续攀升",
+          "time": "2026-03-12 12:57:39",
+          "title": "史克威克（SYK）扩大数字化医疗推动力，推出新智能医院平台。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/3-utility-etfs-massive-upside-163208979.html",
-          "title_en": "3 Utility ETFs With Massive Upside as Demand Keeps Soaring"
+          "url": "https://finance.yahoo.com/news/stryker-syk-expands-digital-healthcare-171419954.html",
+          "title_en": "Stryker (SYK) Expands Digital Healthcare Push with New SmartHospital Platform"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "玉米价格受到原油价格影响，周二受到压力，美国农业部的报告显示没有意外之事。",
+          "time": "2026-03-12 12:57:39",
+          "title": "我是一名终身教授，拥有价值600万美元的退休账户（IRA），担心退休账户分布（RMDs）会对我的税负产生影响。如何降低我的税负？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/corn-under-pressure-crude-tuesday-164328450.html",
-          "title_en": "Corn Under Pressure from Crude on Tuesday, As USDA Report Shows No Surprises"
+          "url": "https://finance.yahoo.com/news/m-tenured-professor-600k-ira-165700017.html",
+          "title_en": "I’m a tenured professor with a $600K IRA, and I’m worried about RMDs affecting my taxes. How can I lower my tax burden?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "豆类价格周二上涨",
+          "time": "2026-03-12 12:57:39",
+          "title": "L3哈里斯技术股票是否超越道琼斯指数？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/soybeans-posting-tuesday-gains-164328811.html",
-          "title_en": "Soybeans Posting Tuesday Gains"
+          "url": "https://finance.yahoo.com/news/l3harris-technologies-stock-outperforming-dow-165652990.html",
+          "title_en": "Is L3Harris Technologies Stock Outperforming the Dow?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "Enphase (ENPH) 扩大资本商品基金合作伙伴关系扩大美国微变压器推广",
+          "time": "2026-03-12 12:57:39",
+          "title": "UBS 对布istol-Myers Squibb (BMY) 的价格目标进行了上调，随着米利克西安数据的到来",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/enphase-enph-expanded-capital-good-162715848.html",
-          "title_en": "How Enphase’s (ENPH) Expanded Capital Good Fund Partnership Extends Its U.S. Microinverter Push"
+          "url": "https://finance.yahoo.com/news/ubs-boosts-bristol-myers-squibb-171939712.html",
+          "title_en": "UBS Boosts Bristol-Myers Squibb (BMY) Price Target as Milvexian Data Looms"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "科尔斯公司2025年第四季度财报电话会议总结",
+          "time": "2026-03-12 12:57:39",
+          "title": "克拉默： Realty Income 的策略看起来很棒",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/kohls-corporation-q4-2025-earnings-164700903.html",
-          "title_en": "Kohl's Corporation Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/news/cramer-realty-income-strategy-looks-170227806.html",
+          "title_en": "Cramer: Realty Income’s Strategy Looks Great"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "Ideal Power (IPWR) Q4 2025 年财报电话会议录音",
+          "time": "2026-03-12 12:57:39",
+          "title": "敬爱的Oklo股民们，记下3月17日。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ideal-power-ipwr-q4-2025-163421926.html",
-          "title_en": "Ideal Power (IPWR) Q4 2025 Earnings Transcript"
+          "url": "https://finance.yahoo.com/news/dear-oklo-stock-fans-mark-165418880.html",
+          "title_en": "Dear Oklo Stock Fans, Mark Your Calendars for March 17"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "Nextpower (NXT) 正在为意大利农业光伏的扩建做好准备",
+          "time": "2026-03-12 12:57:39",
+          "title": "Baird升级Union Pacific（UNP）并提高目标价，认为铁路交易有望带来利好。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/nextpower-nxt-positioning-italy-agrivoltaics-162648690.html",
-          "title_en": "How Nextpower (NXT) Is Positioning for Italy’s Agrivoltaics Buildout"
+          "url": "https://finance.yahoo.com/news/baird-upgrades-union-pacific-unp-172124200.html",
+          "title_en": "Baird Upgrades Union Pacific (UNP) and Raises Target, Sees Upside from Potential Rail Deal"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:30:13",
-          "title": "Evercore的更高价格目标仍然使Clearway(CWEN)保持中性评级",
+          "time": "2026-03-12 12:57:39",
+          "title": "美国电力公司(AEP)收到Evercore ISI和Argus的股价目标上调",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/why-evercore-higher-price-target-162639784.html",
-          "title_en": "Why Evercore’s Higher Price Target Still Leaves Clearway (CWEN) Rated In-Line"
+          "url": "https://finance.yahoo.com/news/american-electric-power-aep-gets-172224901.html",
+          "title_en": "American Electric Power (AEP) Gets Price Target Hikes from Evercore ISI and Argus"
         }
       ]
     }
