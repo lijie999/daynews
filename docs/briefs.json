@@ -1,6 +1,6 @@
 {
   "date": "2026.03.12",
-  "generatedAtBJT": "2026-03-12 12:57:44",
+  "generatedAtBJT": "2026-03-12 13:28:03",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-12 12:57:44",
+          "time": "2026-03-12 13:28:03",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注原油价格今日大跌，导致糖价下跌。\n- 宏观/Fed：关注今日3月10日，房贷和再融资利率小幅波动。\n- 科技/半导体：Adeia与AMD达成协议，是否应该投资这家知名度较低的公司？\n- TSLA：关注特斯拉，日产，Uber，Wayve推出共享自动驾驶出租车计划。",
+          "summary": "- 地缘/避险：关注石油冲击提升EIA价格预测，霍尔木兹危机重塑前景\n- 宏观/Fed：关注2026年3月10日的房贷和再融资利率：利率小幅波动\n- 科技/半导体：Adeia与AMD达成协议，是否应该购买这个不太知名的公司？（关键词：oracle, amazon, amd, microsoft, nvidia）\n- TSLA：关注Nissan、Uber和Wayve推出共享机器人出租车合作",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Sugar Prices Fall on Today's Plunge in Crude Oil Prices…\n- 宏观/Fed：关注 Mortgage and refinance rates today, March 10, 2026: Minor moves…\n- 科技/半导体：As Adeia Strikes a Deal with AMD, Should You Buy the Lesser-Know… 关键词: nvidia, oracle, amazon, amd, anthropic\n- TSLA：关注 Nissan, Uber, Wayve unveil robotaxi tie-up…"
+          "summary_en": "- 地缘/避险：关注 Oil Shock Lifts EIA Price Outlook as Hormuz Crisis Reshapes Fore…\n- 宏观/Fed：关注 Mortgage and refinance rates today, March 10, 2026: Minor moves…\n- 科技/半导体：As Adeia Strikes a Deal with AMD, Should You Buy the Lesser-Know… 关键词: oracle, amazon, amd, microsoft, nvidia\n- TSLA：关注 Nissan, Uber, Wayve unveil robotaxi tie-up…"
         }
       ]
     },
@@ -29,11 +29,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
+          "time": "2026-03-12 13:27:58",
           "title": "Adeia与AMD达成协议后，是否应该现在购买这个不太知名的芯片股？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/adeia-strikes-deal-amd-buy-182954224.html",
           "title_en": "As Adeia Strikes a Deal with AMD, Should You Buy the Lesser-Known Chip Stock Now?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:27:58",
+          "title": "Meta将向广告商收取费用，以弥补欧洲的数字税",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/meta-charge-advertisers-fee-offset-182506077.html",
+          "title_en": "Meta to charge advertisers a fee to offset Europe's digital taxes"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:27:58",
+          "title": "Zoom Communications, Inc. (ZM) 重点关注 AI 整合和企业收入增长",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/zoom-communications-inc-zm-focused-183826295.html",
+          "title_en": "Zoom Communications, Inc. (ZM) Focused on AI Integration and Enterprise Revenue Growth"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:27:58",
+          "title": "微软股价为什么仍然是“强买”股票？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/why-microsoft-stock-strong-buy-184503919.html",
+          "title_en": "Why Microsoft Stock is a 'Strong Buy' Despite Underperforming Big Tech Peers"
         },
         {
           "source": "CNBC-Top",
@@ -174,36 +201,6 @@
           "url": "https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html",
           "title_en": "Amazon wins court order to block Perplexity's AI shopping agent",
           "summary_en": "Amazon sued Perplexity in November, accusing the startup of concealing its AI shopping agents."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-11 03:49:35",
-          "title": "Meta收购了社交网络平台Moltbook，用于人工智能代理",
-          "summary": "Moltbook是为OpenClaw代理人打造的，OpenClaw创始人Peter Steinberger被OpenAI雇用。",
-          "url": "https://www.cnbc.com/2026/03/10/meta-social-networks-ai-agents-moltbook-acquisition.html",
-          "title_en": "Meta gets into social networks for AI agents with acquisition of viral Moltbook platform",
-          "summary_en": "Moltbook was built for OpenClaw agents, and OpenClaw's founder, Peter Steinberger, was hired by OpenAI."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-11 03:04:27",
-          "title": "Nvidia对Mira Murati的Thinking Machines实验室进行了\"重大投资\"。",
-          "summary": "作为合作的一部分，Thinking Machines Lab还同意部署至少一千兆瓦的Nvidia Vera Rubin系统。",
-          "url": "https://www.cnbc.com/2026/03/10/nvidia-mira-murati-thinking-machines-lab-ai.html",
-          "title_en": "Nvidia makes 'significant investment' in Mira Murati's Thinking Machines Lab",
-          "summary_en": "As part of the partnership, Thinking Machines Lab has also agreed to deploy at least one gigawatt of Nvidia's Vera Rubin systems."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-11 01:08:06",
-          "title": "谷歌加深了与美国国防部的AI合作关系，随后Anthropic对特朗普政府提起诉讼。",
-          "summary": "谷歌正在推出一个功能，允许民间和军方人员在国防部企业AI门户上为未分类工作创建定制AI代理。",
-          "url": "https://www.cnbc.com/2026/03/10/google-deepens-pentagon-ai-push-after-anthropic-sues-trump-admin.html",
-          "title_en": "Google deepens Pentagon AI push after Anthropic sues Trump administration",
-          "summary_en": "Google is rolling out a feature that lets civilian and military personnel build custom AI agents for unclassified work on the Pentagon's enterprise AI portal."
         }
       ]
     },
@@ -214,11 +211,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
+          "time": "2026-03-12 13:27:58",
           "title": "今天（3月10日）房贷和再融资利率：利率小幅波动",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-march-10-2026-100031024.html",
           "title_en": "Mortgage and refinance rates today, March 10, 2026: Minor moves"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:27:58",
+          "title": "这些股息股票的收益率高于10年国债",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/dividend-stocks-pay-more-10-172432495.html",
+          "title_en": "These Dividend Stocks Pay More Than 10-Year Treasury Bonds"
         },
         {
           "source": "CNBC-Top",
@@ -249,16 +255,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
-          "title": "糖价格因今日原油价格大幅下跌而下滑",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/sugar-prices-fall-todays-plunge-170707173.html",
-          "title_en": "Sugar Prices Fall on Today's Plunge in Crude Oil Prices"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
+          "time": "2026-03-12 13:27:58",
           "title": "石油价格预期升高，EIA调整价格预测，霍尔木兹危机重塑了预测",
           "summary": "",
           "url": "https://finance.yahoo.com/news/oil-shock-lifts-eia-price-173000464.html",
@@ -267,7 +264,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
+          "time": "2026-03-12 13:27:58",
           "title": "布伦特原油料将在下两个月内维持在95美元以上，美国能源信息署称是伊朗战争的原因。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/brent-oil-prices-remain-above-162259295.html",
@@ -276,7 +273,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
+          "time": "2026-03-12 13:27:58",
           "title": "亚洲股市下跌，油价再次突破每桶100美元，伊朗冲突加剧。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-oil-tops-100barrel-again-amid-iran-conflict-4556030",
@@ -421,6 +418,16 @@
           "url": "https://www.cnbc.com/2026/03/11/us-treasury-yields-investors-await-key-inflation-report-.html",
           "title_en": "Treasury yields gain after sticky February inflation reading, oil price increase",
           "summary_en": "U.S. Treasury yields moved higher on Wednesday as assessed February's inflation report and monitored developments on the US-Iran war front."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-12 03:28:17",
+          "title": "伊朗冲突可能导致肥料供应链受阻，进而导致食品价格上涨。",
+          "summary": "伊朗冲突正在通过霍尔木兹海峡干扰肥料运输，引发供应担忧，并可能导致全球食品通胀上升。",
+          "url": "https://www.cnbc.com/2026/03/11/iran-news-food-prices-could-rise-due-to-fertilizer-shortages.html",
+          "title_en": "Food prices could rise as Iran conflict disrupts fertilizer supply chain",
+          "summary_en": "The Iran conflict is disrupting fertilizer shipments through the Strait of Hormuz, raising supply concerns and potentially increasing global food inflation."
         }
       ]
     },
@@ -431,7 +438,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
+          "time": "2026-03-12 13:27:58",
           "title": "日产、优步和Wayve宣布合作开发无人出租车",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/nissan-uber-wayve-announce-robotaxi-tieup-4555988",
@@ -466,151 +473,70 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
-          "title": "分析师再次修订了环形的价格目标",
+          "time": "2026-03-12 13:27:58",
+          "title": "阿里巴巴股民们，记下3月19日",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/analyst-revamps-price-target-circle-170000457.html",
-          "title_en": "Analyst revamps price target for Circle again"
+          "url": "https://finance.yahoo.com/news/dear-alibaba-stock-fans-mark-172708286.html",
+          "title_en": "Dear Alibaba Stock Fans, Mark Your Calendars for March 19"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
-          "title": "赌场名称创下历史新高，股价暴涨53%",
+          "time": "2026-03-12 13:27:58",
+          "title": "ESG美国股票ETF：证明负责任投资不意味着收益降低",
           "summary": "",
-          "url": "https://www.investors.com/research/casino-rush-street-interactive-rsi-stock/?src=A00220&yptr=yahoo",
-          "title_en": "Casino Name Sets Up After Rocketing 53%"
+          "url": "https://finance.yahoo.com/news/esg-us-equity-etf-proving-172909413.html",
+          "title_en": "The ESG US Equity ETF That’s Proving Responsible Investing Doesn’t Mean Lower Returns"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
-          "title": "CME Group (CME) 得到Erste Group的买入评级；Argus Research转为持有评级。",
+          "time": "2026-03-12 13:27:58",
+          "title": "德州仪器（TXN）在工厂和自动化市场的恢复迹象，CEO表示",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/cme-group-cme-gets-buy-170806246.html",
-          "title_en": "CME Group (CME) Gets Buy Rating From Erste Group; Argus Research Moves to Hold"
+          "url": "https://finance.yahoo.com/news/texas-instruments-txn-signals-recovery-172909823.html",
+          "title_en": "Texas Instruments (TXN) Signals Recovery in Factory and Automation Markets, CEO Says"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
-          "title": "Intercontinental Exchange (ICE) 被德意志银行升级；该公司投资了价值250亿美元的OKX",
+          "time": "2026-03-12 13:27:58",
+          "title": "BTIG提高了Costco (COST)目标价，因为会员收入和流量保持强劲。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/intercontinental-exchange-ice-upgraded-deutsche-170444854.html",
-          "title_en": "Intercontinental Exchange (ICE) Upgraded by Deutsche Bank; Company Invests in $25B-Valued OKX"
+          "url": "https://finance.yahoo.com/news/btig-raises-costco-cost-target-172720551.html",
+          "title_en": "BTIG Raises Costco (COST) Target as Membership Income and Traffic Stay Strong"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
-          "title": "比斯汀（Bithumb）面临严厉处罚，因为违反了洗钱规则。",
+          "time": "2026-03-12 13:27:58",
+          "title": "渣打银行将威瑞森（VZ）升级至买入，称其股价“便宜”。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/bithumb-faces-heavy-disciplinary-action-170207060.html",
-          "title_en": "Bithumb faces ‘heavy disciplinary action’ after violating money laundering rules"
+          "url": "https://finance.yahoo.com/news/scotiabank-lifts-verizon-vz-outperform-172529258.html",
+          "title_en": "Scotiabank Lifts Verizon (VZ) to Outperform, Calls Shares “Cheap” at Current Levels"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
-          "title": "比特币在70,000美元以上徘徊，特朗普表示可能很快结束战争。",
+          "time": "2026-03-12 13:27:58",
+          "title": "可口可乐股今年远超市场表现。是时候买入了吗？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/bitcoin-hovers-above-70000-as-trump-signals-war-may-end-soon-170601158.html",
-          "title_en": "Bitcoin hovers above $70,000 as Trump signals war may end 'soon'"
+          "url": "https://finance.yahoo.com/news/coca-cola-stock-crushing-market-172800063.html",
+          "title_en": "Coca-Cola Stock Is Crushing the Market This Year. Is It Time to Buy?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
-          "title": "RBC Capital Markets提高了Broadcom（AVGO）的股价目标，指出FY27的评论是积极的。",
+          "time": "2026-03-12 13:27:58",
+          "title": "美国电力公司(AEP)收到Evercore ISI和Argus的股价目标上调",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/rbc-capital-markets-lifts-broadcom-171021318.html",
-          "title_en": "RBC Capital Markets Lifts Broadcom (AVGO) Price Target, Points to Bullish FY27 Commentary"
+          "url": "https://finance.yahoo.com/news/american-electric-power-aep-gets-172224901.html",
+          "title_en": "American Electric Power (AEP) Gets Price Target Hikes from Evercore ISI and Argus"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
-          "title": "如果最坏的情况已经过去，纳斯达克公司股票可能是便宜的买卖 - 现在最好的NDAQ投资机会是什么？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/worst-over-nasdaq-inc-stock-171248400.html",
-          "title_en": "If the Worst Is Over, NASDAQ Inc Stock May Be a Bargain - What's the Best NDAQ Play Now?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
-          "title": "黑石（BLK）价格目标被Evercore ISI降低，原因是对2月份流动性进行了早期评估。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/blackrock-blk-price-target-reduced-171219695.html",
-          "title_en": "BlackRock (BLK) Price Target Reduced by Evercore ISI Following Early Review of February Flows"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
-          "title": "一只可持有终身的工业股",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/1-magnificent-industrial-stock-buy-170700146.html",
-          "title_en": "1 Magnificent Industrial Stock to Buy and Hold Forever"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
-          "title": "史克威克（SYK）扩大数字化医疗推动力，推出新智能医院平台。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/stryker-syk-expands-digital-healthcare-171419954.html",
-          "title_en": "Stryker (SYK) Expands Digital Healthcare Push with New SmartHospital Platform"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
-          "title": "我是一名终身教授，拥有价值600万美元的退休账户（IRA），担心退休账户分布（RMDs）会对我的税负产生影响。如何降低我的税负？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/m-tenured-professor-600k-ira-165700017.html",
-          "title_en": "I’m a tenured professor with a $600K IRA, and I’m worried about RMDs affecting my taxes. How can I lower my tax burden?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
-          "title": "L3哈里斯技术股票是否超越道琼斯指数？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/l3harris-technologies-stock-outperforming-dow-165652990.html",
-          "title_en": "Is L3Harris Technologies Stock Outperforming the Dow?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
-          "title": "UBS 对布istol-Myers Squibb (BMY) 的价格目标进行了上调，随着米利克西安数据的到来",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/ubs-boosts-bristol-myers-squibb-171939712.html",
-          "title_en": "UBS Boosts Bristol-Myers Squibb (BMY) Price Target as Milvexian Data Looms"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
-          "title": "克拉默： Realty Income 的策略看起来很棒",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/cramer-realty-income-strategy-looks-170227806.html",
-          "title_en": "Cramer: Realty Income’s Strategy Looks Great"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
-          "title": "敬爱的Oklo股民们，记下3月17日。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/dear-oklo-stock-fans-mark-165418880.html",
-          "title_en": "Dear Oklo Stock Fans, Mark Your Calendars for March 17"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
+          "time": "2026-03-12 13:27:58",
           "title": "Baird升级Union Pacific（UNP）并提高目标价，认为铁路交易有望带来利好。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/baird-upgrades-union-pacific-unp-172124200.html",
@@ -619,11 +545,92 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-12 12:57:39",
-          "title": "美国电力公司(AEP)收到Evercore ISI和Argus的股价目标上调",
+          "time": "2026-03-12 13:27:58",
+          "title": "摩根士丹利降低联邦快递目标价",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/american-electric-power-aep-gets-172224901.html",
-          "title_en": "American Electric Power (AEP) Gets Price Target Hikes from Evercore ISI and Argus"
+          "url": "https://finance.yahoo.com/news/bofa-trims-ups-target-analyst-173224486.html",
+          "title_en": "BofA Trims UPS Target as Analyst Flags Weaker Q1 Outlook"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:27:58",
+          "title": "RBC Capital Markets看好耐克(NKE)的增长空间，维持买入评级。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/rbc-capital-markets-sees-path-173422041.html",
+          "title_en": "RBC Capital Markets Sees Path to Growth for Nike (NKE), Reiterates Outperform Rating"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:27:58",
+          "title": "Cresset公司总裁Susie Cranston将成为该公司2020年以来首位CEO",
+          "summary": "",
+          "url": "https://www.barrons.com/advisor/articles/cresset-president-susie-cranston-to-become-ceo-332c8961?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Cresset President Susie Cranston to Become Firm’s First CEO Since 2020"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:27:58",
+          "title": "Southern公司（SO）的价格目标被TD Cowen提高，基于融资和需求预测",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/southern-company-price-target-raised-173612455.html",
+          "title_en": "Southern Company (SO) Price Target Raised by TD Cowen on Financing and Demand Outlook"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:27:58",
+          "title": "敬爱的DocuSign 股票粉丝们，记下3月17日",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/dear-docusign-stock-fans-mark-175715176.html",
+          "title_en": "Dear DocuSign Stock Fans, Mark Your Calendars for March 17"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:27:58",
+          "title": "里维安和NIO大幅上涨，股价反弹，显示它们可能抵御电动汽车行业的下滑。",
+          "summary": "",
+          "url": "https://www.investors.com/news/rivian-r2-nio-chinese-ev-auto-sales-tesla-electric-vehicles/?src=A00220&yptr=yahoo",
+          "title_en": "Rivian, NIO Leap On View They Can Shake Off EV Downturn"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:27:58",
+          "title": "福斯特商学院（The Foster School of Business）吸引企业家的原因",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/why-entrepreneurs-choose-foster-school-181512010.html",
+          "title_en": "Why Entrepreneurs Choose The Foster School Of Business"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:27:58",
+          "title": "维金治疗股获得RS评级提升",
+          "summary": "",
+          "url": "https://www.investors.com/news/viking-therapeutics-stock-gets-rs-rating-upgrade/?src=A00220&yptr=yahoo",
+          "title_en": "Viking Therapeutics Stock Gets RS Rating Upgrade"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:27:58",
+          "title": "现在是买入S&P 500的最佳3只股票时期，尤其是在Cava的巨大动作之后。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/best-3-p-500-stocks-172500988.html",
+          "title_en": "Best 3 S&P 500 Stocks to Buy Right Now After Cava's Big Move"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-12 13:27:58",
+          "title": "如何申请退还透支费\n\n许多银行和金融机构正在退还因COVID-19而产生的透支费。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/how-to-get-overdraft-fees-refunded-214822745.html",
+          "title_en": "How to get overdraft fees refunded"
         }
       ]
     }
