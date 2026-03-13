@@ -1,6 +1,6 @@
 {
   "date": "2026.03.13",
-  "generatedAtBJT": "2026-03-13 23:20:47",
+  "generatedAtBJT": "2026-03-13 23:51:07",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-13 23:20:47",
+          "time": "2026-03-13 23:51:07",
           "title": "主线结论（自动生成）",
-          "summary": "地缘/避险：关注股市：道指、标普500、纳斯达克上涨，石油价格回落，美元走强。",
+          "summary": "- 地缘/避险：关注历史上最大全球石油供应中断事件\n- 宏观/Fed：关注美联储青睐的通胀指标坚挺将持续\n- 科技/半导体：亚马逊至Airbnb等蓝筹债券发行接近历史新高\n- TSLA：关注电动汽车制造商Lucid的无人驾驶出租车计划和正面现金流",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq rise as oil retreats, G…\n- 宏观/Fed：关注 Stock Market Today: Dow Rises On Surprise Inflation, GDP Data; M…\n- 科技/半导体：Adobe shares drop as CEO exit fans uncertainty over AI strategy… 关键词: more, about, ask, energy, questions\n- TSLA：关注 EV maker Lucid reveals plans for robotaxi, positive free cash fl…"
+          "summary_en": "- 地缘/避险：关注 Factbox-Biggest global oil supply disruptions in history…\n- 宏观/Fed：关注 A sticky reading on Fed's favored inflation measure should keep …\n- 科技/半导体：From Amazon to Airbnb, US blue-chip bond sales flirt with record… 关键词: cramer, jim, more, about, ask\n- TSLA：关注 EV maker Lucid reveals plans for robotaxi, positive free cash fl…"
         }
       ]
     },
@@ -27,22 +27,49 @@
       "badge": "Mag7 / Semis",
       "items": [
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "Adobe 股票下跌，CEO 离职引发了对 AI 策略的不确定性",
+          "time": "2026-03-13 23:51:02",
+          "title": "美国蓝筹债券销售接近创纪录，包括亚马逊到空房出租。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/adobe-shares-drop-after-ceo-exit-adds-to-aidisruption-concerns-4559246",
-          "title_en": "Adobe shares drop as CEO exit fans uncertainty over AI strategy"
+          "url": "https://finance.yahoo.com/news/amazon-airbnb-us-blue-chip-141050993.html",
+          "title_en": "From Amazon to Airbnb, US blue-chip bond sales flirt with record"
         },
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "推动人工智能：美国电池能量储存系统最具潜力的股票",
+          "time": "2026-03-13 23:51:02",
+          "title": "吉姆·克拉默谈到Navitas半导体：“他们的技术非常棒，这应该最终会转化为出色的利润”",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/powering-ai-top-us-stocks-in-battery-energy-storage-systems-93CH-4560416",
-          "title_en": "Powering AI: Top U.S. Stocks in Battery Energy Storage Systems"
+          "url": "https://finance.yahoo.com/news/jim-cramer-navitas-semiconductor-ve-151627838.html",
+          "title_en": "Jim Cramer on Navitas Semiconductor: “They’ve Got Really Great Technology, That Should Ultimately Translate Into Great Earnings”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 23:51:02",
+          "title": "吉姆·克雷默（Jim Cramer）谈到SoundHound AI：“这是一家典型的膜股票公司”。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jim-cramer-soundhound-ai-one-151628601.html",
+          "title_en": "Jim Cramer on SoundHound AI: “This Is One of Those Companies That Is a Meme Stock”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 23:51:02",
+          "title": "吉姆·克拉默谈到元宇宙公司Meta可能会采用Block Inc的模式以最大化股东价值。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jim-cramer-weighs-meta-potentially-151556155.html",
+          "title_en": "Jim Cramer Weighs in on Meta Potentially Following the Block Inc Model to Maximize Shareholder Value"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 23:51:02",
+          "title": "人工智能软件大幅抛售带来了罕见的买入机会。以下是2026年3只股票。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/artificial-intelligence-ai-software-sell-152000296.html",
+          "title_en": "The Artificial Intelligence (AI) Software Sell-Off Created a Rare Buying Opportunity. Here Are 3 Stocks to Grab in 2026."
         },
         {
           "source": "CNBC-Top",
@@ -113,16 +140,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "股市今日：道指因意外的通胀和GDP数据上涨；微星在财报前大幅上涨（实时报道）",
+          "time": "2026-03-13 23:51:02",
+          "title": "美联储偏好的通胀衡量指标出现了持稳的读数，可能会让美联储保持不动。",
           "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-inflation-data/?src=A00220&yptr=yahoo",
-          "title_en": "Stock Market Today: Dow Rises On Surprise Inflation, GDP Data; Micron Jumps Ahead Of Earnings (Live Coverage)"
+          "url": "https://finance.yahoo.com/news/a-sticky-reading-on-feds-favored-inflation-measure-should-keep-central-bank-on-hold-152107362.html",
+          "title_en": "A sticky reading on Fed's favored inflation measure should keep central bank on hold"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
+          "time": "2026-03-13 23:51:02",
+          "title": "股市今日：道指因通胀和GDP数据出乎意料而走低；美光微电子股价大涨，等待财报公布（实时报道）",
+          "summary": "",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-inflation-data/?src=A00220&yptr=yahoo",
+          "title_en": "Stock Market Today: Dow Fades On Inflation, GDP Data Surprise; Micron Jumps Ahead Of Earnings (Live Coverage)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 23:51:02",
           "title": "就业空缺率反弹，高通胀将使美联储保持不动态；标普500指数上涨（实时报道）",
           "summary": "",
           "url": "https://www.investors.com/news/federal-reserve-inflation-core-pce-price-index-job-openings-january-oil-prices-sp-500/?src=A00220&yptr=yahoo",
@@ -131,7 +167,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
+          "time": "2026-03-13 23:51:02",
           "title": "今日最佳理财账户利率（最高可达4.01%年利率）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-thursday-march-12-2026-100004308.html",
@@ -140,7 +176,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
+          "time": "2026-03-13 23:51:02",
           "title": "今日最佳定期存款利率（2026年3月12日），最高可锁定4%年利率（APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-march-12-2026-100009462.html",
@@ -149,38 +185,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
+          "time": "2026-03-13 23:51:02",
           "title": "截至2026年3月12日，高收益储蓄利率最高的账户为4%APY。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-thursday-march-12-2026-100048981.html",
           "title_en": "Best high-yield savings interest rates today, March 12, 2026 (top account pays 4% APY)"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "全球担忧导致抵押贷款利率上升：今日抵押贷款和再融资利率",
+          "time": "2026-03-13 23:51:02",
+          "title": "林德有能力应对通胀和更紧张的氦气供应，摩根士丹利表示。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-rise-on-global-concerns-mortgage-and-refinance-interest-rates-today-100000316.html",
-          "title_en": "Mortgage rates rise on global concerns: Mortgage and refinance interest rates today"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "通胀如何影响房贷利率？在2月核心CPI数据的背景下，需要了解的内容。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-does-inflation-affect-mortgage-rates-february-core-cpi-173028128.html",
-          "title_en": "How does inflation affect mortgage rates? What to know in light of February core CPI data."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "中东战争使利率预期变得不确定，房贷利率何时下降尚无定论。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-march-12-2026-190610121.html",
-          "title_en": "When will mortgage rates go down? War in the Middle East clouds the outlook."
+          "url": "https://www.investing.com/news/stock-market-news/linde-positioned-to-weather-inflation-tighter-helium-supply-jpmorgan-says-4560518",
+          "title_en": "Linde positioned to weather inflation, tighter helium supply, JPMorgan says"
         },
         {
           "source": "CNBC-Top",
@@ -211,16 +229,6 @@
           "url": "https://www.cnbc.com/2026/03/12/markets-hopes-for-fed-interest-rate-cuts-are-rapidly-fading-away.html",
           "title_en": "Markets' hopes for Fed interest rate cuts are rapidly fading away",
           "summary_en": "As both energy prices and inflation fears pop higher, expectations for cuts are sliding lower."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-13 03:33:38",
-          "title": "美联储主席候选人凯文·沃什（Kevin Warsh）与更多参议员会面，托姆·蒂利斯（Thom Tillis）阻挠仍持续",
-          "summary": "北卡罗来纳州参议员蒂利斯表示，鉴于杰罗姆·鲍威尔的犯罪调查尚未结束，他将投票反对将凯文·沃什的联邦储备委员会主席提名送交全体参议员审议。",
-          "url": "https://www.cnbc.com/2026/03/12/fed-kevin-warsh-trump-thom-tillis-senate.html",
-          "title_en": "Fed chair pick Kevin Warsh meets with more senators as Thom Tillis blockade continues",
-          "summary_en": "Sen. Tillis vows to vote against sending Kevin Warsh's nomination as Federal Reserve chair to the full Senate as a criminal probe of Jerome Powell is pending."
         }
       ]
     },
@@ -231,66 +239,106 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "股市今日：道指、标普500指数、纳斯达克指数上涨，油价回落，经济增长速度比预期更慢。",
+          "time": "2026-03-13 23:51:02",
+          "title": "历史上最大规模的全球石油供应中断",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-oil-retreats-gdp-growth-slows-more-than-expected-225332081.html",
-          "title_en": "Stock market today: Dow, S&P 500, Nasdaq rise as oil retreats, GDP growth slows more than expected"
+          "url": "https://finance.yahoo.com/news/factbox-biggest-global-oil-supply-152446882.html",
+          "title_en": "Factbox-Biggest global oil supply disruptions in history"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "了解油价交易前需要知道的几点。",
+          "time": "2026-03-13 23:51:02",
+          "title": "吉姆·克拉默称，微芯片可能在油价下跌时被“在大幅下跌时买入”。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/you-can-trade-oil-futures-what-to-know-before-you-start-141230605.html",
-          "title_en": "You can trade oil futures. What to know before you start."
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-micron-could-151608842.html",
+          "title_en": "Jim Cramer Says Micron Could Be “Bought on a Big Move Down Because of Oil”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "美伊长期战争对美国汽油价格的影响",
+          "time": "2026-03-13 23:51:02",
+          "title": "吉姆克拉默建议在看到“120美元石油”时购买半导体设备制造商，如应用材料。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/how-an-extended-war-with-iran-could-hit-us-gas-prices-225053364.html",
-          "title_en": "How an extended war with Iran could hit U.S. gas prices"
+          "url": "https://finance.yahoo.com/news/jim-cramer-suggests-buying-semiconductor-151606087.html",
+          "title_en": "Jim Cramer Suggests Buying Semiconductor Capital Equipment Makers Like Applied Materials “If We See the $120 Oil”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 23:51:02",
+          "title": "中东冲突暂停了TotalEnergies的15%石油和天然气生产",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/middle-east-conflict-halts-15-143000896.html",
+          "title_en": "Middle East Conflict Halts 15% of TotalEnergies Oil and Gas Production"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
+          "time": "2026-03-13 23:51:02",
+          "title": "瑞士资产管理人士预计伊朗战争将增加来自湾区的资金流入。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/swiss-money-managers-expect-iran-war-to-increase-inflows-from-gulf-4559934",
+          "title_en": "Swiss money managers expect Iran war to increase inflows from Gulf"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 23:51:02",
           "title": "股市放弃涨幅，华尔街在伊朗战火中寻找支撑",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-futures-turn-higher-as-oil-prices-stay-elevated-amid-iran-conflict-4559456",
           "title_en": "Stocks give up gains as Wall Street struggles for traction amid raging Iran war"
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "Cerebras Systems与亚马逊达成协议，提供Cerebras AI芯片在亚马逊云上使用。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/cerebras-systems-amazon-strike-deal-to-offer-cerebras-ai-chips-on-amazons-cloud-4560475",
-          "title_en": "Cerebras Systems, Amazon strike deal to offer Cerebras AI chips on Amazon’s cloud"
+          "time": "2026-03-13 23:43:10",
+          "title": "特朗普表示他认为普京在帮助伊朗。",
+          "summary": "俄罗斯领导人告诉特朗普，他们不与伊朗分享情报，因为伊朗正在与美国和以色列交战，特朗普特使史蒂夫·维特科夫（Steve Witkoff）本周表示。",
+          "url": "https://www.cnbc.com/2026/03/13/trump-iran-war-putin-russia.html",
+          "title_en": "Trump says he thinks Putin is helping Iran",
+          "summary_en": "Russian leaders told President Trump they aren't sharing intelligence with Iran as it fights the U.S. and Israel, Special Envoy Steve Witkoff said this week."
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:13",
+          "time": "2026-03-13 23:30:02",
+          "title": "伊朗战争可能如何影响美国零售价格",
+          "summary": "伊朗战争可能会对全球供应链造成冲击，进而影响零售业。",
+          "url": "https://www.cnbc.com/2026/03/13/iran-war-retail-prices.html",
+          "title_en": "How the Iran war could start to impact U.S. retail prices",
+          "summary_en": "The retail industry could soon be taking the next hit from the Iran war's disruption to the global supply chain."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-13 23:28:18",
+          "title": "特朗普无法通过“钻井，宝宝，钻井”来摆脱伊朗引发的油价危机",
+          "summary": "石油价格在自从美国总统唐纳德·特朗普对伊朗开战以来大幅上涨。",
+          "url": "https://www.cnbc.com/2026/03/13/iran-war-oil-trump-drilling.html",
+          "title_en": "Trump can't 'drill, baby, drill' his way out of this Iran-inspired oil crisis",
+          "summary_en": "Oil prices have skyrocketed in the days since President Donald Trump's war on Iran began."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-13 23:25:00",
+          "title": "伊朗冲突恰逢美国人对经济状况有所改善时发生。",
+          "summary": "消费者跨所有收入阶层都报告了他们个人财务预期的下降。经济学家担心消费者将减少他们的支出。",
+          "url": "https://www.marketwatch.com/story/americans-were-feeling-better-about-the-economy-and-then-war-with-iran-broke-out-49cbf36a?mod=mw_rss_topstories",
+          "title_en": "The Iran conflict came just as Americans were feeling better about the economy",
+          "summary_en": "A swath of consumers across incomes reported declines in expectations for their personal finances. Economists worry that consumers will pull back their spending."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-13 23:24:39",
           "title": "伊朗的“石油生命线”在冲突中得以幸免。若被占领会发生什么？",
           "summary": "分析师表示，任何试图攻击或夺取伊朗战略性石油枢纽的企图都充满了风险。",
           "url": "https://www.cnbc.com/2026/03/13/iran-war-oil-kharg-island-trump-us-israel-middle-east-crisis.html",
           "title_en": "Iran’s 'oil lifeline’ has been left untouched in the conflict. What happens if it's seized?",
           "summary_en": "Analysts say any attempt to attack or seize Iran’s strategic oil hub is likely to be fraught with risk."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-13 23:19:25",
-          "title": "特朗普表示他认为普京在帮助伊朗。",
-          "summary": "",
-          "url": "https://www.cnbc.com/2026/03/13/trump-iran-war-putin-russia.html",
-          "title_en": "Trump says he thinks Putin is helping Iran"
         },
         {
           "source": "MarketWatch-Top",
@@ -321,15 +369,6 @@
           "url": "https://www.marketwatch.com/story/brent-oil-futures-climb-above-100-on-continued-disruption-to-strait-of-hormuz-traffic-764be61b?mod=mw_rss_topstories",
           "title_en": "Oil prices retreat from $100 after U.S. temporarily lifts sanctions on some Russian oil",
           "summary_en": "Oil prices were retreating from the key $100 level, after the U.S. government temporarily removed sanctions on Russian tankers currently at sea."
-        },
-        {
-          "source": "MarketWatch-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 22:30:00",
-          "title": "美国人对经济的看法开始改善，但随后与伊朗爆发战争",
-          "summary": "",
-          "url": "https://www.marketwatch.com/story/americans-were-feeling-better-about-the-economy-and-then-war-with-iran-broke-out-49cbf36a?mod=mw_rss_marketpulse",
-          "title_en": "Americans were feeling better about the economy and then war with Iran broke out"
         },
         {
           "source": "CNBC-Top",
@@ -370,36 +409,6 @@
           "url": "https://www.cnbc.com/2026/03/13/indias-modi-reaches-out-to-iran-as-energy-crunch-fears-grip-the-south-asian-nation-.html",
           "title_en": "India's Modi reaches out to Iran as energy crunch fears grip the South Asian nation",
           "summary_en": "The closure of the Strait of Hormuz for longer could deepen the worries of the world's fastest-growing economy"
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-13 20:31:20",
-          "title": "科技下载：芯片供应链和数据中心风险——科技行业的伊朗问题",
-          "summary": "全球芯片供应链和中东地区的AI项目受到不确定性的影响。",
-          "url": "https://www.cnbc.com/2026/03/13/tech-download-iran-problem-supply-chains-ai.html",
-          "title_en": "The Tech Download: Chip supply chains and data center risks — the tech sector’s Iran problem",
-          "summary_en": "Uncertainty hits global chip supply chains and Middle East-based AI projects."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-13 20:05:27",
-          "title": "油价突破100美元，PCE数据公布，MLB球队估值等热点新闻在早间时报中有报道。",
-          "summary": "今天市场投资者需要了解的五个关键信息。",
-          "url": "https://www.cnbc.com/2026/03/13/5-things-to-know-before-the-market-opens.html",
-          "title_en": "$100 oil, PCE data, MLB valuations and more in Morning Squawk",
-          "summary_en": "Here are five key things investors need to know to start the trading day."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-13 18:31:48",
-          "title": "美国在伊朗的“误事”没有明确的撤军战略，俄罗斯驻英国大使说。",
-          "summary": "他在CNBC的评论出现在美国和以色列领导的战争即将进入第三周之际。",
-          "url": "https://www.cnbc.com/2026/03/13/iran-war-russia-putin-us-israel-trump-middle-east.html",
-          "title_en": "U.S. 'misadventure' in Iran has no clear exit strategy, Russia's UK ambassador says",
-          "summary_en": "His comments to CNBC come as the U.S. and Israeli-led war appears poised to enter its third week."
         }
       ]
     },
@@ -418,7 +427,7 @@
           "summary_en": "The EV company is aiming to hit that target through market expansion into midsize vehicles, robotaxis and new counties, specifically in Europe."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-13 22:17:36",
           "title": "特斯拉2026年第一两个月在中国的销量上升，而比亚迪的销量下降。",
@@ -436,164 +445,164 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "英国柴油价格大幅上涨引发监管机构的关注",
+          "time": "2026-03-13 23:51:02",
+          "title": "特朗普顾问发出强烈的美元需求警告",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/uk-diesel-price-spike-sparks-151526500.html",
-          "title_en": "UK diesel price spike sparks regulator scrutiny"
+          "url": "https://finance.yahoo.com/news/trump-advisor-sends-blunt-message-153600293.html",
+          "title_en": "Trump advisor sends blunt message on 'massive' dollar demand"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "如何交易加密货币：一步步的指南",
+          "time": "2026-03-13 23:51:02",
+          "title": "吉姆·克拉默谈FormFactor：“这个股票很贵，但我认为我会继续持有它”。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/how-to-trade-crypto-151041383.html",
-          "title_en": "How to trade crypto: A step-by-step guide"
+          "url": "https://finance.yahoo.com/news/jim-cramer-formfactor-very-expensive-151636456.html",
+          "title_en": "Jim Cramer on FormFactor: “Very Expensive Stock, But I Think I’d Ride It Through”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "微星股价大幅上涨，177%的增长率让其保持强势，等待季度报告公布。",
+          "time": "2026-03-13 23:51:02",
+          "title": "你有1000美元吗？现在买入这3只股票，趁它们还在打折",
           "summary": "",
-          "url": "https://www.investors.com/research/earnings-preview/micron-stock-major-bull-run-holds-strong-quarterly-earnings/?src=A00220&yptr=yahoo",
-          "title_en": "Micron Stock, In Major Bull Run With 177% Growth Rate, Holds Strong Ahead Of Quarterly Results"
+          "url": "https://finance.yahoo.com/news/got-1-000-3-stocks-153500997.html",
+          "title_en": "Got $1,000? 3 Stocks to Buy Now While They're On Sale"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "日常焦点：GDP的引擎能在$4汽油上运行吗？",
+          "time": "2026-03-13 23:51:02",
+          "title": "吉姆·克拉默谈到SI-BONE, Inc.： “我们不会买入亏损的公司”",
           "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46424_MarketOutlook_1773400156000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily Spotlight: Can GDP's Engine Run on $4 Gas?"
+          "url": "https://finance.yahoo.com/news/jim-cramer-si-bone-inc-151635363.html",
+          "title_en": "Jim Cramer on SI-BONE, Inc.: “We’re Not Going to Buy the Money Losers”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "泽力(Zillow)涨幅5%，因为房屋开工量大幅上涨7.2%",
+          "time": "2026-03-13 23:51:02",
+          "title": "吉姆·克拉默谈到Recursion Pharmaceuticals：“这是一个失望，很大的失望”。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/zillow-jumps-5-housing-starts-151346423.html",
-          "title_en": "Zillow Jumps 5% as Housing Starts Surge 7.2%"
+          "url": "https://finance.yahoo.com/news/jim-cramer-recursion-pharmaceuticals-let-151633045.html",
+          "title_en": "Jim Cramer on Recursion Pharmaceuticals: “It’s a Let Down, Big Let Down”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "S&P 500 股票 Ulta Beauty 的财报很糟糕，但分析师仍保持乐观",
+          "time": "2026-03-13 23:51:02",
+          "title": "吉姆·克拉默谈到德文能源：“天然气投资组合很好”",
           "summary": "",
-          "url": "https://www.investors.com/news/sp-500-ulta-beauty-earnings-turn-ugly-why-analysts-remain-positive/?src=A00220&yptr=yahoo",
-          "title_en": "S&P 500 Stock Ulta Beauty's Earnings Are Ugly But This Is Why Analysts Remain Positive"
+          "url": "https://finance.yahoo.com/news/jim-cramer-devon-energy-great-151631216.html",
+          "title_en": "Jim Cramer on Devon Energy: “Great Natural Gas Portfolio”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "Adobe的首席架构师即将离职",
+          "time": "2026-03-13 23:51:02",
+          "title": "吉姆·克拉默（Jim Cramer）对GE Vernova发表评论：“我非常喜欢这个股票”。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/adobes-architect-leaving-building-140652415.html",
-          "title_en": "Adobe's Architect Is Leaving the Building"
+          "url": "https://finance.yahoo.com/news/jim-cramer-ge-vernova-stock-151630098.html",
+          "title_en": "Jim Cramer on GE Vernova: “I Like the Stock Very Much”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "麦迪逊小盘股基金为什么押注AAON（AAON）",
+          "time": "2026-03-13 23:51:02",
+          "title": "吉姆·克拉默注意到他喜欢ULTA美容",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/why-madison-small-cap-fund-140201144.html",
-          "title_en": "Here’s Why Madison Small Cap Fund Bets on AAON (AAON)"
+          "url": "https://finance.yahoo.com/news/jim-cramer-notes-likes-ulta-151609874.html",
+          "title_en": "Jim Cramer Notes He Likes Ulta Beauty"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "市场摘要：UAA、HAS",
+          "time": "2026-03-13 23:51:02",
+          "title": "布隆伯格的麦格隆说：“比特币将达到10,000美元”，加密货币是“死”的资产类别。",
           "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46421_MarketSummary_1773398733000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Market Digest: UAA, HAS"
+          "url": "https://finance.yahoo.com/news/bitcoin-going-10-000-bloombergs-153055288.html",
+          "title_en": "'Bitcoin Is Going To $10,000,' Bloomberg's McGlone Says: Crypto Is A 'Dead' Asset Class"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "分析师认为这3只增长ETF的潜力仍有三位数的上涨空间——即使在市场大涨之后",
+          "time": "2026-03-13 23:51:02",
+          "title": "吉姆·克拉默说：“现在你有我的许可，可以买五下”",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/analysts-see-triple-digit-upside-150140985.html",
-          "title_en": "Analysts See Triple-Digit Upside in These 3 Growth ETFs — Even After the Rally"
+          "url": "https://finance.yahoo.com/news/jim-cramer-says-blessing-now-151604189.html",
+          "title_en": "Jim Cramer Says “You Have My Blessing Right Now to Buy Five Below”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "随着年龄的增长，你将需要以下5项退休必备品，并且如何节省这些费用。",
+          "time": "2026-03-13 23:51:02",
+          "title": "吉姆·克拉默认为“这次季度是甲骨文的又一次大胜利”。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/5-retirement-essentials-ll-want-140000399.html",
-          "title_en": "These are the 5 retirement essentials you’ll want to have as you age — and how to save money on them"
+          "url": "https://finance.yahoo.com/news/jim-cramer-believes-latest-quarter-151603038.html",
+          "title_en": "Jim Cramer Believes “This Latest Quarter Was a Big Win for Oracle”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "理财教练每年初都将Roth IRA贡献额达到最大限额。这个策略适合你吗？",
+          "time": "2026-03-13 23:51:02",
+          "title": "吉姆·克雷默（Jim Cramer）谈到Power Solutions International： “在这里我会成为买家”",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/money-coach-maxes-roth-ira-140000056.html",
-          "title_en": "Money coach maxes out their Roth IRA at the beginning of every year. Is this the right move for you?"
+          "url": "https://finance.yahoo.com/news/jim-cramer-power-solutions-international-151601734.html",
+          "title_en": "Jim Cramer on Power Solutions International: “I’d Be a Buyer Down Here”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "GitLab (GTLB) 的投资机会有哪些吸引力？",
+          "time": "2026-03-13 23:51:02",
+          "title": "在战乱市场中，缓冲ETF证明了不错的债券替代品",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/makes-gitlab-gtlb-attractive-investment-135744078.html",
-          "title_en": "What Makes GitLab (GTLB) an Attractive Investment Opportunity?"
+          "url": "https://finance.yahoo.com/news/buffer-etfs-prove-decent-bond-153051955.html",
+          "title_en": "‘Buffer’ ETFs Prove a Decent Bond Alternative in War-Hit Markets"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "异常无人机股盘旋在买盘区。但是，请务必留意这个分数。",
+          "time": "2026-03-13 23:51:02",
+          "title": "吉姆·克雷默看待马特尔的策略，试图从令人失望的季度中恢复",
           "summary": "",
-          "url": "https://www.investors.com/research/ibd-stock-analysis/umac-stock-unusual-machines-drone-maker/?src=A00220&yptr=yahoo",
-          "title_en": "'Unusual' Drone Stock Orbits Buy Zone. But Keep This Score On Your Radar."
+          "url": "https://finance.yahoo.com/news/jim-cramer-looks-mattel-strategy-151600129.html",
+          "title_en": "Jim Cramer Looks at Mattel’s Strategy to Recover From a Disappointing Quarter"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "2026年3月13日威克森日常买卖名单",
+          "time": "2026-03-13 23:51:02",
+          "title": "吉姆·克拉默谈到埃利·利利： “我们不会动摇，如果它真的受到打击，我们会买更多”",
           "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46420_TopBottomInsiderActivity_1773398367000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily – Vickers Top Buyers & Sellers for 03/13/2026"
+          "url": "https://finance.yahoo.com/news/jim-cramer-eli-lilly-not-151558749.html",
+          "title_en": "Jim Cramer on Eli Lilly: “We’re Not Budging, We’d Buy More If It Really Got Hit”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "埃隆·马斯克谈论他的千亿美元净值： \"它不是像坐在那里一样...\"",
+          "time": "2026-03-13 23:51:02",
+          "title": "吉姆·克拉默（Jim Cramer）强调维多利亚的秘密最新季度业绩",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/elon-musk-talks-trillion-dollar-150111702.html",
-          "title_en": "Elon Musk Talks About What His Trillion Dollar Net Worth Will Look Like: 'It's Not Like It's Sitting In...'"
+          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-victoria-secret-151555031.html",
+          "title_en": "Jim Cramer Highlights Victoria’s Secret’s Latest Quarter Performance"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "Arista Networks (ANET)近期价格维持在关键水平附近，展望持续改善。",
+          "time": "2026-03-13 23:51:02",
+          "title": "2026年，3个被低估的美国价值股有潜力超越市场",
           "summary": "",
-          "url": "https://www.investors.com/stock-lists/sector-leaders/arista-networks-anet-stock-ai-data-center/?src=A00220&yptr=yahoo",
-          "title_en": "Arista Holds Near Key Level As Outlook Brightens"
+          "url": "https://finance.yahoo.com/news/3-overlooked-u-value-stocks-152251956.html",
+          "title_en": "3 Overlooked U.S. Value Stocks With the Fundamentals to Outperform in 2026"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 23:20:43",
-          "title": "为什么Vericel Corporation（VCEL）是一个投资的好选择？",
+          "time": "2026-03-13 23:51:02",
+          "title": "吉姆·克雷默建议在道弗公司股价下跌时买入。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/makes-vericel-corporation-vcel-investment-134428151.html",
-          "title_en": "What Makes Vericel Corporation (VCEL) an Investment Bet?"
+          "url": "https://finance.yahoo.com/news/jim-cramer-recommends-buying-dover-151552929.html",
+          "title_en": "Jim Cramer Recommends Buying Dover Corporation Stock “On the Way Down”"
         }
       ]
     }
