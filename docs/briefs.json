@@ -1,6 +1,6 @@
 {
   "date": "2026.03.13",
-  "generatedAtBJT": "2026-03-13 09:11:37",
+  "generatedAtBJT": "2026-03-13 09:41:47",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-13 09:11:37",
+          "time": "2026-03-13 09:41:47",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注通胀稳定在伊朗战争前夕…\n- 宏观/美联储：关注CPI通胀稳定，租金放缓，能源加热；S&P 500 方面…\n- 科技/半导体：UPS 在转向高端服务的硬性转变中应对亚马逊下滑… 关键词：meta, 新, nvidia, amazon, ask\n- TSLA：关注2026年苹果vs特斯拉：哪只股票将成为您的退休金的锚点…",
+          "summary": "- 地缘/避险：关注 IEA宣布历史性石油储备释放，股市波动不定。\n- 宏观/Fed：关注市场对美联储降息的希望迅速消失。\n- 科技/半导体：Keysight Technologies (KEYS) 因AI相关需求大幅上涨。\n- TSLA：关注Lucid在十年末实现可持续性现金流并推出可负担价格的新车型。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Inflation Stayed Steady Ahead Of Iran War…\n- 宏观/Fed：关注 CPI Inflation In Line As Rent Slows, Energy Heats Up; S&P 500 Fa…\n- 科技/半导体：UPS navigates Amazon draw down in hard pivot to premium services… 关键词: meta, new, nvidia, amazon, ask\n- TSLA：关注 Apple vs Tesla in 2026: Which Stock Will Anchor Your Retirement …"
+          "summary_en": "- 地缘/避险：关注 Stocks Mixed as IEA Announces Historic Oil Reserve Release…\n- 宏观/Fed：关注 Markets' hopes for Fed interest rate cuts are rapidly fading awa…\n- 科技/半导体：Keysight Technologies (KEYS) Surged on AI-Related Demand… 关键词: meta, new, ask, center, concerns\n- TSLA：关注 Lucid sees positive cash flow late in decade with affordable mod…"
         }
       ]
     },
@@ -29,25 +29,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
-          "title": "UPS转向高端服务以应对亚马逊订单下滑",
+          "time": "2026-03-13 09:41:42",
+          "title": "凯西格技术（KEYS）因AI相关需求大幅上涨",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ups-navigates-amazon-draw-down-133445533.html",
-          "title_en": "UPS navigates Amazon draw down in hard pivot to premium services"
+          "url": "https://finance.yahoo.com/news/keysight-technologies-keys-surged-ai-143030228.html",
+          "title_en": "Keysight Technologies (KEYS) Surged on AI-Related Demand"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
-          "title": "Coherent CEO称NVIDIA供应协议为“十亿美元级”，并延伸到本世纪末。",
+          "time": "2026-03-13 09:41:42",
+          "title": "人工智能正在重塑2025年纳税：您需要了解的3个风险",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/coherent-ceo-says-nvidia-supply-130817084.html",
-          "title_en": "Coherent CEO says NVIDIA supply deal is ‘multibillion dollar’ and stretches to end of decade"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/ai-is-reshaping-2025-taxes-3-risks-to-know-before-you-file-120000919.html",
+          "title_en": "AI is reshaping 2025 taxes: 3 risks to know before you file"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
+          "time": "2026-03-13 09:41:42",
           "title": "Meta推迟了新AI模型的发布，出于性能问题的担忧。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/meta-delays-release-of-new-ai-model-on-performance-concerns-nyt-4558756",
@@ -56,7 +56,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
+          "time": "2026-03-13 09:41:42",
           "title": "Meta推迟了新AI模型的部署，纽约时报报道。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/meta-delays-rollout-of-new-ai-model-nyt-reports-4558750",
@@ -65,7 +65,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
+          "time": "2026-03-13 09:41:42",
           "title": "Adobe长期CEO将离职，公司股价下跌",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/adobe-announces-ceo-transition-shares-fall-4558224",
@@ -208,15 +208,6 @@
       "badge": "Fed / Policy",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
-          "title": "CPI通胀率稳定，租金增长放缓，能源价格上涨；S&P 500指数下跌。",
-          "summary": "",
-          "url": "https://www.investors.com/news/economy/cpi-inflation-oil-prices-tariffs-federal-reserve-sp-500/?src=A00220&yptr=yahoo",
-          "title_en": "CPI Inflation In Line As Rent Slows, Energy Heats Up; S&P 500 Falls"
-        },
-        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-13 04:41:02",
@@ -245,16 +236,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
-          "title": "通胀率稳定在伊朗战争前夕",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/inflation-stayed-steady-ahead-iran-130737684.html",
-          "title_en": "Inflation Stayed Steady Ahead Of Iran War"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
+          "time": "2026-03-13 09:41:42",
           "title": "股市波动，IEA宣布历史性石油储备释放",
           "summary": "",
           "url": "https://finance.yahoo.com/news/stocks-mixed-iea-announces-historic-140556027.html",
@@ -263,25 +245,44 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
+          "time": "2026-03-13 09:41:42",
           "title": "IPO 领跑者即将发力，顶级基金大举进军。伊朗战争的影响引发了疑虑。",
           "summary": "",
           "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/karman-stock-targets-breakout-best-mutual-funds-bet-big/?src=A00220&yptr=yahoo",
           "title_en": "IPO Leader Set To Launch Breakout As Top Funds Jump In. Impact Of Iran War Raises Questions."
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 09:41:42",
+          "title": "目前石油市场的关注点在于伊朗，但雪佛龙公司(Chevron)的重点仍在委内瑞拉。",
+          "summary": "",
+          "url": "https://www.investors.com/news/oil-prices-investors-iran-chevron-shell-venezuela/?src=A00220&yptr=yahoo",
+          "title_en": "Oil Is All About Iran Right Now But Chevron Focuses On Venezuela"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
+          "time": "2026-03-13 09:41:42",
           "title": "美股期货小幅上涨，伊朗紧张局势引发深度损失；即将公布的PCE数据",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-higher-after-iran-jitters-spark-deep-losses-pce-data-on-tap-4558748",
           "title_en": "US stock futures edge higher after Iran jitters spark deep losses; PCE data on tap"
         },
         {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-13 09:33:24",
+          "title": "CNBC日报：一场长期的伊朗战争正在临近",
+          "summary": "伊朗战争迹象未见缓和，伊朗和美国的声明表明这一点。",
+          "url": "https://www.cnbc.com/2026/03/13/cnbc-daily-open-a-prolonged-iran-war-is-on-the-horizon.html",
+          "title_en": "CNBC Daily Open: A prolonged Iran war is on the horizon",
+          "summary_en": "The Iran war is showing no signs of easing as indicated in the statements coming from Iran and the U.S."
+        },
+        {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-13 08:42:19",
+          "time": "2026-03-13 09:18:43",
           "title": "美国允许暂时购买已经在海上航行的俄罗斯石油以稳定能源市场。",
           "summary": "美国暂时授权购买在海上被困的俄罗斯石油以稳定能源市场。",
           "url": "https://www.cnbc.com/2026/03/13/bessent-us-allows-purchase-russian-oil-stranded-sea-energy-markets.html",
@@ -407,16 +408,6 @@
           "url": "https://www.cnbc.com/2026/03/09/fears-of-1970s-style-stagflation-arise-with-oil-spike-to-100-how-big-a-threat-is-it.html",
           "title_en": "Fears of 1970s-style stagflation arise with oil spike to $100. How big a threat is it?",
           "summary_en": "High inflation and slow growth present a double threat, as measures like interest rate cuts and government spending only aggravate inflation."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-12 22:43:09",
-          "title": "黄金为什么在伊朗冲突后没有动作——并且它可能往哪个方向走",
-          "summary": "尽管伊朗战争已经持续了将近两周，但黄金价格几乎没有波动。",
-          "url": "https://www.cnbc.com/2026/03/12/gold-iran-conflict-where-next-markets.html",
-          "title_en": "Why gold hasn’t moved since the Iran conflict — and where it could go next",
-          "summary_en": "Though the war in Iran has continued for almost two weeks, the price of the yellow metal has barely moved."
         }
       ]
     },
@@ -425,18 +416,9 @@
       "badge": "TSLA chain",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
-          "title": "苹果与特斯拉在2026年：哪只股票将成为你的退休金的支柱，哪只将毁灭它？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/apple-vs-tesla-2026-stock-131553856.html",
-          "title_en": "Apple vs Tesla in 2026: Which Stock Will Anchor Your Retirement and Which Will Wreck It?"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
+          "time": "2026-03-13 09:41:42",
           "title": "路易斯（Lucid）在十年末期可能实现正现金流，主要是因为其价格合理的车型和自动驾驶技术。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/lucid-sees-positive-cash-flow-late-in-decade-with-affordable-model-autonomous-offerings-4558709",
@@ -461,124 +443,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
-          "title": "规划退休生活的前三件事：",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/ask-pro-top-3-things-130703945.html",
-          "title_en": "Ask a Pro: Top 3 Things To Consider When Planning Your Retirement"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
-          "title": "麦迪逊中型股基金(Madison Mid Cap Fund)已退出微芯技术公司(Microchip Technology Incorporated, MCHP)后市值回升",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/madison-mid-cap-fund-exited-131118777.html",
-          "title_en": "Madison Mid Cap Fund Exited Microchip Technology Incorporated (MCHP) Following Valuation Recovery"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
-          "title": "卡马克斯股票：汽车业务激进投资者持股",
-          "summary": "",
-          "url": "https://www.investors.com/news/carmax-starboard-activist-investor-autos-car-sales/?src=A00220&yptr=yahoo",
-          "title_en": "CarMax Stock: Auto Business Activist Investor Takes Stake"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
-          "title": "MSA安全 (MSA) 从领先的市场地位和强大的品牌认知中获得价值",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/msa-safety-msa-derives-value-131439732.html",
-          "title_en": "MSA Safety (MSA) Derives Value from Leading Market Positions and Strong Brand Recognition"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
-          "title": "关税混乱",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46417_PortfolioIdeas_1773347251000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Tariff Turmoil"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
-          "title": "戴姆وند背能源股是否超越了S&P 500指数？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/diamondback-energy-stock-outperforming-p-131553761.html",
-          "title_en": "Is Diamondback Energy Stock Outperforming the S&P 500?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
-          "title": "高兴汉姆分析师预测甲骨文公司财务流水在财政29-30年将出现大幅下滑。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/guggenheim-analyst-predicts-oracle-free-130709113.html",
-          "title_en": "Guggenheim analyst predicts Oracle free cash flow ‘waterfall’ in fiscal 29-30"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
-          "title": "维斯特拉(Vistra)的股票表现与其他公用事业股票相比如何？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/vistras-stock-performance-compared-other-131846909.html",
-          "title_en": "How Is Vistra's Stock Performance Compared to Other Utilities Stocks?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
-          "title": "白银将让交易者赚很多钱：两种玩法",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/silver-going-traders-lot-money-131943354.html",
-          "title_en": "Silver Is Going to Make Traders A Lot of Money: 2 Ways to Play It"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
-          "title": "A.O. Smith (AOS) 将受即将实施的能源法规带来利益",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/o-smith-aos-poised-benefit-132220077.html",
-          "title_en": "A.O. Smith (AOS) is Poised to Benefit from Upcoming Energy Regulations"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
-          "title": "EA的股价是否超越了纳斯达克指数？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/electronic-arts-stock-outperforming-nasdaq-132234620.html",
-          "title_en": "Is Electronic Arts Stock Outperforming the Nasdaq?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
-          "title": "霍姆特航空股：HWM是否优于工业行业？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/howmet-aerospace-stock-hwm-outperforming-132500071.html",
-          "title_en": "Howmet Aerospace Stock: Is HWM Outperforming the Industrial Sector?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
-          "title": "马丁玛丽塔（Martin Marietta）股票是否超越道琼斯指数（Dow）?",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/martin-marietta-stock-outperforming-dow-132801778.html",
-          "title_en": "Is Martin Marietta Stock Outperforming the Dow?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
+          "time": "2026-03-13 09:41:42",
           "title": "英格索尔兰股价：IR是否低于工业行业表现？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/ingersoll-rand-stock-ir-underperforming-133615459.html",
@@ -587,16 +452,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
-          "title": "Cogent Communications (CCOI) 在运营互联网业务方面取得了成功，但其股价却遭受了严重打击。",
+          "time": "2026-03-13 09:41:42",
+          "title": "Brainsway第四季度财报电话会议亮点： \n\nBrainsway第四季度财报显示，公司实现了收入和利润的增长。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/cogent-communications-carries-internet-stock-130834264.html",
-          "title_en": "Cogent Communications Carries the Internet but Its Stock Has Been Crushed"
+          "url": "https://finance.yahoo.com/news/brainsway-q4-earnings-call-highlights-133655329.html",
+          "title_en": "Brainsway Q4 Earnings Call Highlights"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
+          "time": "2026-03-13 09:41:42",
           "title": "Coinbase再次遇到阻力，股价上涨12%后是否该买入？",
           "summary": "",
           "url": "https://www.investors.com/research/coinbase-coin-stock-march-2026-2/?src=A00220&yptr=yahoo",
@@ -605,7 +470,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
+          "time": "2026-03-13 09:41:42",
           "title": "ServiceTitan (TTAN) 的增长空间有多大？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/does-servicetitan-ttan-long-runway-134131790.html",
@@ -614,11 +479,128 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 09:11:32",
+          "time": "2026-03-13 09:41:42",
           "title": "布朗与布朗（BRO）股价下跌，因为管理层表明有机增长将继续下滑。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/brown-brown-bro-fell-management-134328041.html",
           "title_en": "Brown & Brown (BRO) Fell as Management Suggested Continued Decline in Organic Growth"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 09:41:42",
+          "title": "关税混乱",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46417_PortfolioIdeas_1773347251000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Tariff Turmoil"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 09:41:42",
+          "title": "Bio-Techne Corporation (TECH) 的投资价值在哪里？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/makes-bio-techne-corporation-tech-134606338.html",
+          "title_en": "What Makes Bio-Techne Corporation (TECH) a Good Investment?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 09:41:42",
+          "title": "Acacia研究公司第四季度财报电话会议亮点",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/acacia-research-q4-earnings-call-133655394.html",
+          "title_en": "Acacia Research Q4 Earnings Call Highlights"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 09:41:42",
+          "title": "甲骨文股价大幅上涨，第三季度业绩超出预期，2027年收入预测",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/oracle-stock-rockets-higher-on-q3-earnings-beat-2027-revenue-outlook-201151427.html",
+          "title_en": "Oracle stock rockets higher on Q3 earnings beat, 2027 revenue outlook"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 09:41:42",
+          "title": "罗斯百货（ROST）受益于更好的价值提议",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/ross-stores-rost-benefitting-better-135215918.html",
+          "title_en": "Ross Stores (ROST) is Benefitting from a Better Value Offering"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 09:41:42",
+          "title": "MKS (MKSI) 从市场需求回暖中受益",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/mks-mksi-gained-end-markets-135344178.html",
+          "title_en": "MKS (MKSI) Gained from End Markets Picking Up"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 09:41:42",
+          "title": "麦迪逊中型股基金削减了阿门伯勒（Amphenol，APH）的持仓，原因是估值过高。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/madison-mid-cap-fund-trimmed-135539340.html",
+          "title_en": "Madison Mid Cap Fund Trimmed Amphenol (APH) Due to Elevated Valuation"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 09:41:42",
+          "title": "商用车集团第四季度财报电话会议亮点：",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/commercial-vehicle-group-q4-earnings-133655829.html",
+          "title_en": "Commercial Vehicle Group Q4 Earnings Call Highlights"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 09:41:42",
+          "title": "需求增长放缓和竞争加剧损害了Trex公司（TREX）第四季度业绩。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/concerns-slow-demand-competition-hurt-135833798.html",
+          "title_en": "Concerns of Slow Demand and Competition Hurt Trex Company (TREX) in Q4"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 09:41:42",
+          "title": "我61岁被裁员，获得社会保障金，但收到了高薪工作机会。是否应重新上岗？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/laid-off-61-approved-social-140000006.html",
+          "title_en": "I was laid off at 61 and approved for Social Security, but a high-paying job offer came in. Should I go back to work?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 09:41:42",
+          "title": "警方发出警告：在停车场遭遇欺诈后，警方警告人们不要在停车场使用ATM或取款机。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/pa-police-issue-funeral-donation-140000858.html",
+          "title_en": "PA police issue 'funeral donation' fraud alert after cards compromised in parking lot hustle. How to protect yourself"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 09:41:42",
+          "title": "自由广播宽带（LBRDK）有坚实的估值支撑",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/gives-liberty-broadband-lbrdk-solid-140100008.html",
+          "title_en": "Here’s What Gives Liberty Broadband (LBRDK) a Solid Valuation Support"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 09:41:42",
+          "title": "格룹恩第四季度财报电话会议亮点",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/groupon-q4-earnings-call-highlights-133656077.html",
+          "title_en": "Groupon Q4 Earnings Call Highlights"
         }
       ]
     }
