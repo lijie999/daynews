@@ -1,6 +1,6 @@
 {
   "date": "2026.03.13",
-  "generatedAtBJT": "2026-03-13 19:17:24",
+  "generatedAtBJT": "2026-03-13 19:47:39",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-13 19:17:24",
+          "time": "2026-03-13 19:47:39",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 Norway Equinor 在北海发现两处商业性石油和天然气储备。\n- 宏观/Fed：关注 美联储降息希望迅速消失。\n- 科技/半导体：Atlassian 计划裁员约 10%，称需要适应市场变化。\n- TSLA：关注 2026 年前两个月，特斯拉中国销量攀升。",
+          "summary": "- 地缘/避险：关注加密货币交易员转向Hyperliquid进行石油押注，伊朗局势不稳定。\n- 宏观/Fed：关注市场对美联储降息的希望迅速消失。\n- 科技/半导体：IREN Ltd (IREN) 股价大涨10.13%，因NVIDIA加大人工智能投资。\n- TSLA：关注特斯拉2026年前两个月中国销量攀升。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Equinor Makes Two Commercial Oil and Gas Discoveries in the Nort…\n- 宏观/Fed：关注 Markets' hopes for Fed interest rate cuts are rapidly fading awa…\n- 科技/半导体：Atlassian to Cut About 10% of Workforce, Cites Need to Adapt to … 关键词: about, ask, center, data, google\n- TSLA：关注 Tesla's China sales climb in the first two months of 2026 while …"
+          "summary_en": "- 地缘/避险：关注 Crypto Traders Turn to Hyperliquid for Oil Bets Amid Iran Volati…\n- 宏观/Fed：关注 Markets' hopes for Fed interest rate cuts are rapidly fading awa…\n- 科技/半导体：IREN Ltd (IREN) Soars 10.13% as Nvidia Ramps up AI Investments… 关键词: about, ask, center, data, google\n- TSLA：关注 Tesla's China sales climb in the first two months of 2026 while …"
         }
       ]
     },
@@ -29,16 +29,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
-          "title": "Atlassian 将裁员约 10%，称需要适应 AI",
-          "summary": "",
-          "url": "https://www.wsj.com/tech/atlassian-to-cut-about-10-of-workforce-as-it-ramps-up-ai-spending-61dadade?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Atlassian to Cut About 10% of Workforce, Cites Need to Adapt to AI"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
+          "time": "2026-03-13 19:47:34",
           "title": "IREN Ltd (IREN) 大幅上涨10.13%，因Nvidia加大人工智能投资",
           "summary": "",
           "url": "https://finance.yahoo.com/news/iren-ltd-iren-soars-10-003247447.html",
@@ -47,11 +38,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
+          "time": "2026-03-13 19:47:34",
           "title": "数字海洋 (DOCN) 突破 10.8% 由AI新希望带动",
           "summary": "",
           "url": "https://finance.yahoo.com/news/digitalocean-docn-soars-10-8-003847697.html",
           "title_en": "DigitalOcean (DOCN) Soars 10.8% on Renewed AI Optimism"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 19:47:34",
+          "title": "Nebius Group (NBIS) 上涨16%，因Nvidia的20亿美元支持",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/nebius-group-nbis-climbs-16-004613619.html",
+          "title_en": "Nebius Group (NBIS) Climbs 16% on Nvidia $2-Billion Backing"
         },
         {
           "source": "CNBC-Top",
@@ -168,11 +168,57 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
+          "time": "2026-03-13 19:47:34",
+          "title": "加密货币交易者转向Hyperliquid为石油押注之际伊朗动荡",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/crypto-traders-turn-hyperliquid-oil-000742569.html",
+          "title_en": "Crypto Traders Turn to Hyperliquid for Oil Bets Amid Iran Volatility"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 19:47:34",
           "title": "挪威石油公司在北海发现两处商业化石油和天然气储备",
           "summary": "",
           "url": "https://finance.yahoo.com/news/equinor-makes-two-commercial-oil-002442740.html",
           "title_en": "Equinor Makes Two Commercial Oil and Gas Discoveries in the North Sea"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 19:47:34",
+          "title": "伊朗战争使假期旅行陷入混乱，旅客正在计算战争带来的成本",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/dream-holidays-in-disarray-trips-diverted-as-travellers-count-cost-of-iran-war-4559194",
+          "title_en": "’Dream holidays’ in disarray, trips diverted as travellers count cost of Iran war"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 19:47:34",
+          "title": "美国期货价格转为上涨，因为伊朗冲突期间石油价格保持高位。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/us-futures-turn-higher-as-oil-prices-stay-elevated-amid-iran-conflict-4559456",
+          "title_en": "U.S. futures turn higher as oil prices stay elevated amid Iran conflict"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 19:47:34",
+          "title": "即使油价回落到60美元，这家石油股仍然脱颖而出：摩根士丹利（BofA）",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/even-if-oil-moves-back-to-60-this-oil-stock-stand-out-bofa-4559461",
+          "title_en": "Even if oil moves back to $60, this oil stock stand out: BofA"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-13 19:44:39",
+          "title": "石油价格持稳在100美元以上，特朗普称美国“有弹药，时间充足”来应对伊朗战争。",
+          "summary": "WTI原油上周实现了自20世纪80年代以来最大周涨幅。",
+          "url": "https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html",
+          "title_en": "Oil holds above $100 as Trump says America ‘has ammunition and plenty of time’ to fight Iran war",
+          "summary_en": "WTI crude saw its biggest weekly gain since the 1980s last week."
         },
         {
           "source": "MarketWatch-Top",
@@ -193,16 +239,6 @@
           "url": "https://www.cnbc.com/2026/03/13/indias-modi-reaches-out-to-iran-as-energy-crunch-fears-grip-the-south-asian-nation-.html",
           "title_en": "India's Modi reaches out to Iran as energy crunch fears grip the South Asian nation",
           "summary_en": "The closure of the Strait of Hormuz for longer could deepen the worries of the world's fastest-growing economy"
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-13 18:55:23",
-          "title": "石油价格持稳在100美元以上，特朗普称美国“有弹药，时间充足”来应对伊朗战争。",
-          "summary": "WTI原油上周实现了自20世纪80年代以来最大周涨幅。",
-          "url": "https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html",
-          "title_en": "Oil holds above $100 as Trump says America ‘has ammunition and plenty of time’ to fight Iran war",
-          "summary_en": "WTI crude saw its biggest weekly gain since the 1980s last week."
         },
         {
           "source": "CNBC-World",
@@ -285,7 +321,7 @@
           "summary_en": "Other efforts to coax oil down prices — now at $100 a barrel — are like putting a Band-Aid on a shotgun wound, says analyst"
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-13 05:01:29",
           "title": "伊朗最高领袖莫哈末哈梅内伊(Mojtaba Khamenei)已在埃隆·马斯克(Elon Musk)的平台X上创建了认证账号。",
@@ -303,46 +339,6 @@
           "url": "https://www.cnbc.com/2026/03/12/iran-war-us-navy-strait-of-hormuz-oil-bessent.html",
           "title_en": "Iran War: U.S. Navy will escort oil tankers through Strait of Hormuz when 'militarily possible,' Bessent tells Sky News",
           "summary_en": "The Strait of Hormuz has been effectively closed to shipping because of the war against Iran by the U.S. and Israel."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-13 04:01:12",
-          "title": "伊朗局势升高，美联储不太可能“出手救市”，分析师称。",
-          "summary": "在地缘政治动荡中，美联储被广泛预计将在3月会议上保持利率不变。",
-          "url": "https://www.cnbc.com/2026/03/12/iran-war-fed.html",
-          "title_en": "As Iran war heightens affordability issues, don't expect the Fed to 'ride in and save the day,' analyst says",
-          "summary_en": "Amid geopolitical turmoil, the Federal Reserve is widely expected to keep interest rates unchanged at its March meeting."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-13 02:17:44",
-          "title": "油储备、关税调查、航空燃油价格等在晨间早报",
-          "summary": "今天市场投资者需要了解的五个关键信息。",
-          "url": "https://www.cnbc.com/2026/03/12/5-things-to-know-before-the-market-opens.html",
-          "title_en": "Oil reserves, tariff investigations, airline fuel prices and more in Morning Squawk",
-          "summary_en": "Here are five key things investors need to know to start the trading day."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-13 01:21:59",
-          "title": "艺术品和经典汽车拍卖额超600亿美元，伊朗战争未能阻挡",
-          "summary": "专家认为，全球动荡可能使人们对罕见的收藏品的需求增加，因为富人正在寻找安全的长期价值储存。",
-          "url": "https://www.cnbc.com/2026/03/12/classic-car-art-auctions-results-wealth-resilience.html",
-          "title_en": "Art and classic car auctions top $600 million despite Iran war",
-          "summary_en": "Experts say the global turmoil may have even helped demand for rare collectibles, as the wealthy search for safe, long-term stores of value."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-13 00:12:57",
-          "title": "欧洲防务需求大幅增长，公司正在为伊朗战争做准备",
-          "summary": "莱昂纳多周四表示，公司正处于“强劲增长”的道路上，因为防务公司在伊朗和乌克兰的战争中看到了机遇。",
-          "url": "https://www.cnbc.com/2026/03/12/defense-stocks-leonardo-rheinmetall-stock-rhm-ldo-iran-war-ukraine.html",
-          "title_en": "These charts show the size of Europe's defense boom, as companies take stock of the Iran war",
-          "summary_en": "Leonardo said Thursday that it is on \"a path of strong growth,\" as defense companies see opportunities in the wars in Iran and Ukraine."
         }
       ]
     },
@@ -379,25 +375,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
-          "title": "如何进行抵押贷款重组：业主的逐步指南",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/refinance-mortgage-162831396.html",
-          "title_en": "How to refinance a mortgage: A step-by-step guide for homeowners"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
-          "title": "2026年最便宜的宠物保险公司包括：\n\n1. PetPlan\n2. Nationwide\n3. Trupanion\n4. Healthy Paws\n5. PetFirst",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/insurance/article/cheapest-pet-insurance-191646538.html",
-          "title_en": "Cheapest pet insurance companies in 2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
+          "time": "2026-03-13 19:47:34",
           "title": "4 个黄金储存的迷思被揭穿\n\n黄金储存的迷思之一：黄金储存需要高昂的费用\n\n事实：许多黄金储存服务商提供的费用相对较低，甚至可以免除一些费用。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/4-gold-storage-myths-debunked-204749637.html",
@@ -406,34 +384,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
-          "title": "一张brokered CD是一种特殊的时间存款账户，通过经纪人或银行购买，通常用于避税或投资策略。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/brokered-cd-210652049.html",
-          "title_en": "What is a brokered CD?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
-          "title": "德卡尔特报告了历史最高季度业绩; 宣布收购",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/descartes-reports-record-quarter-announces-231530779.html",
-          "title_en": "Descartes reports record quarter; announces acquisition"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
-          "title": "Alliant信用联邦储蓄银行评测（2026）：一家任何人都可以申请加入的在线信用联邦储蓄银行",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/review/alliant-credit-union-review-215451782.html",
-          "title_en": "Alliant Credit Union review (2026): An online-only credit union anyone can apply to join"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
+          "time": "2026-03-13 19:47:34",
           "title": "2026年Lower Mortgage评估",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/review/lower-mortgage-review-210518636.html",
@@ -442,25 +393,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
-          "title": "这个近乎3%的股息股票在2026年表现出色：你应该买吗？",
+          "time": "2026-03-13 19:47:34",
+          "title": "Ava Labs 加入 Mastercard 计划，改造全球支付",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/dividend-stock-yielding-almost-3-233002323.html",
-          "title_en": "This Dividend Stock Yielding Almost 3% Is Outperforming In 2026: Should You Buy?"
+          "url": "https://finance.yahoo.com/news/ava-labs-joins-mastercard-program-235200373.html",
+          "title_en": "Ava Labs joins Mastercard program to transform global payments"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
-          "title": "Nebius 股票今天大幅上涨。",
+          "time": "2026-03-13 19:47:34",
+          "title": "如何进行抵押贷款重组：业主的逐步指南",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/why-nebius-stock-surged-today-231346393.html",
-          "title_en": "Why Nebius Stock Surged Today"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/refinance-mortgage-162831396.html",
+          "title_en": "How to refinance a mortgage: A step-by-step guide for homeowners"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
+          "time": "2026-03-13 19:47:34",
           "title": "欧洲面临喷气燃料价格大幅上涨和供应短缺",
           "summary": "",
           "url": "https://finance.yahoo.com/news/europe-faces-jet-fuel-price-000000069.html",
@@ -469,7 +420,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
+          "time": "2026-03-13 19:47:34",
+          "title": "市场摘要：UAA、HAS",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46421_MarketSummary_1773398733000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Market Digest: UAA, HAS"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 19:47:34",
           "title": "频率电子公司2026年第三季度财报电话会议总结",
           "summary": "",
           "url": "https://finance.yahoo.com/news/frequency-electronics-inc-q3-2026-000946797.html",
@@ -478,7 +438,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
+          "time": "2026-03-13 19:47:34",
           "title": "蒂利斯公司2025年第四季度财报电话会议总结",
           "summary": "",
           "url": "https://finance.yahoo.com/news/tillys-inc-q4-2025-earnings-001042321.html",
@@ -487,7 +447,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
+          "time": "2026-03-13 19:47:34",
+          "title": "Resolution Minerals 将于即将上市的纳斯达克（NASDAQ）前夕在第38届罗思年会（Roth Conference）上发表演讲。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/resolution-minerals-present-38th-annual-235400348.html",
+          "title_en": "Resolution Minerals to present at 38th Annual Roth Conference ahead of planned NASDAQ listing"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 19:47:34",
           "title": "加卫药房服务公司2025年第四季度财报电话会议总结",
           "summary": "",
           "url": "https://finance.yahoo.com/news/guardian-pharmacy-services-inc-q4-001221358.html",
@@ -496,16 +465,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
-          "title": "投资者以21亿美元的价格大量购买Remitly股票，随着金融科技的收入同比增长29%",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/investor-buys-21-million-remitly-231539991.html",
-          "title_en": "Investor Buys Up $21 Million in Remitly Stock as Fintech’s Revenue Surges 29% Year Over Year"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
+          "time": "2026-03-13 19:47:34",
           "title": "TechTarget, Inc. 2025年第四季度财报电话会议总结",
           "summary": "",
           "url": "https://finance.yahoo.com/news/techtarget-inc-q4-2025-earnings-001325981.html",
@@ -514,16 +474,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
-          "title": "CI&T Inc Q4 2025财报电话会议总结",
+          "time": "2026-03-13 19:47:34",
+          "title": "2026年3月13日威克森日常买卖名单",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ci-t-inc-q4-2025-001505367.html",
-          "title_en": "CI&T Inc Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46420_TopBottomInsiderActivity_1773398367000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily – Vickers Top Buyers & Sellers for 03/13/2026"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
+          "time": "2026-03-13 19:47:34",
           "title": "科德西斯公司2025年第四季度财报电话会议总结",
           "summary": "",
           "url": "https://finance.yahoo.com/news/codexis-inc-q4-2025-earnings-001502855.html",
@@ -532,11 +492,47 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 19:17:20",
+          "time": "2026-03-13 19:47:34",
           "title": "Velocity Financial, Inc. 2025年第四季度财报电话会议总结",
           "summary": "",
           "url": "https://finance.yahoo.com/news/velocity-financial-inc-q4-2025-001434299.html",
           "title_en": "Velocity Financial, Inc. Q4 2025 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 19:47:34",
+          "title": "美国股市周四收盘，标普500指数(S&P 500)上涨0.4%，纳斯达克指数(NVDA)上涨0.8%。",
+          "summary": "",
+          "url": "https://www.barrons.com/articles/stocks-today-oil-price-cpi-inflation-b33477b7?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Review & Preview: All Fueled Up"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 19:47:34",
+          "title": "CI&T Inc Q4 2025财报电话会议总结",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/ci-t-inc-q4-2025-001505367.html",
+          "title_en": "CI&T Inc Q4 2025 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 19:47:34",
+          "title": "福斯尔集团第四季度2025年财报电话会议总结",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/fossil-group-inc-q4-2025-001514349.html",
+          "title_en": "Fossil Group, Inc. Q4 2025 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 19:47:34",
+          "title": "2026年3月13日维克斯高管推荐股票",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46419_InsiderActivity_1773398367000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily – Vickers Top Insider Picks for 03/13/2026"
         }
       ]
     }
