@@ -1,6 +1,6 @@
 {
   "date": "2026.03.13",
-  "generatedAtBJT": "2026-03-13 16:45:38",
+  "generatedAtBJT": "2026-03-13 17:00:19",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-13 16:45:38",
+          "time": "2026-03-13 17:00:19",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：欧洲股市小幅下滑，油价徘徊在每桶100美元以上。\n- 宏观/Fed：房贷利率再次上涨，但仍接近三年低点。\n- 科技/半导体：分析师对Alpha and Omega Semiconductor Limit保持谨慎。\n- TSLA：关注Uber与亚马逊的机器人出租车业务合作。",
+          "summary": "- 地缘/避险：关注 能源政策风向变幻影响能源转型的速度：石油与…\n\n- 宏观/Fed：关注 Atlassian 将裁员约10% 以转型为人工智能…\n\n- 科技/半导体：今日股市，3月11日：Navitas Semiconductor 因… 关键词：中心，数据，半导体，亚马逊，关于\n\n- TSLA：关注 特斯拉中国销售在2026年第一两个月增长，而…",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 European stocks edge lower as oil hovers above $100 a barrel…\n- 宏观/Fed：关注 Mortgage rates rise again, but remain near three-year low…\n- 科技/半导体：Analysts Stay Cautious on on Alpha and Omega Semiconductor Limit… 关键词: amazon, data, google, agents, ask\n- TSLA：关注 Uber Stock Jumps After Partnership With Amazon's Robotaxi Busine…"
+          "summary_en": "- 地缘/避险：关注 Energy policy crosswinds test the pace of the transition: Oil & …\n- 宏观/Fed：关注 Atlassian to cut roughly 10% jobs in pivot to AI…\n- 科技/半导体：Stock Market Today, March 11: Navitas Semiconductor Surges After… 关键词: center, data, semiconductor, amazon, about\n- TSLA：关注 Tesla's China sales climb in the first two months of 2026 while …"
         }
       ]
     },
@@ -29,7 +29,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
+          "time": "2026-03-13 17:00:15",
+          "title": "纳维塔半导体今日大幅上涨，原因是该公司推出了新一代人工智能数据中心电源平台。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/stock-market-today-march-11-212915917.html",
+          "title_en": "Stock Market Today, March 11: Navitas Semiconductor Surges After Launching New AI Data Center Power Platforms"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 17:00:15",
+          "title": "Salesforce的25亿美元债务发行吸引了弱势需求，AI担忧升级",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/salesforce-sees-tepid-demand-bond-184030282.html",
+          "title_en": "Salesforce’s $25 Billion Debt Sale Draws Weak Demand on AI Worry"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 17:00:15",
+          "title": "独立半导体（Indie Semiconductor, Inc.）(INDI) 小盘半导体股是否值得投资？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/indie-semiconductor-inc-indi-small-212508840.html",
+          "title_en": "Is indie Semiconductor, Inc. (INDI) Small-Cap Semiconductor Stock to Buy According to Analysts?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 17:00:15",
           "title": "分析师对Alpha and Omega Semiconductor Limited（AOSL）的看法仍然谨慎。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/analysts-stay-cautious-alpha-omega-211156671.html",
@@ -38,47 +65,21 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "Netflix竞争对手达成协议与Google合作，争夺人工智能内容",
-          "summary": "",
-          "url": "https://www.barrons.com/articles/netflix-ai-canal-plus-google-45ae0899?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Netflix Rival Strikes Deal With Google in Battle for AI Content"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "Palantir (PLTR) 获得了DISA对PFCS前沿云服务的授权。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/palantir-pltr-secures-disa-authorization-205551918.html",
-          "title_en": "Palantir (PLTR) Secures DISA Authorization for PFCS Forward Cloud Service"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "Vertiv (VRT)推出OneCore数字孪生平台，为AI数据中心提供支持",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/vertiv-vrt-debuts-onecore-digital-205655051.html",
-          "title_en": "Vertiv (VRT) Debuts OneCore Digital Twin Platform for AI Data Centers"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "英特睿（INTU）与Anthropic合作推出人工智能财务代理",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/intuit-intu-anthropic-partner-launch-205611383.html",
-          "title_en": "Intuit (INTU), Anthropic Partner to Launch AI Financial Agents"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
+          "time": "2026-03-13 17:00:15",
           "title": "亚马逊（AMZN）在巴西推出“亚马逊即时”服务，提供15分钟送货。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/amazon-amzn-launches-amazon-now-205729221.html",
           "title_en": "Amazon (AMZN) Launches ‘Amazon Now’ in Brazil with 15-Minute Delivery"
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-13 16:41:05",
+          "title": "数据中心电力成本的争论：谁在背后支付AI的电费？",
+          "summary": "超算商为人工智能大爆炸所需的数据中心竞相建造，但他们面临着公关危机，但该行业并未选择躺平。",
+          "url": "https://www.cnbc.com/2026/03/13/ai-data-centers-electricity-prices-backlash-ratepayer-protection.html",
+          "title_en": "Who is really footing the AI energy bill? Inside the debate about data center electricity costs",
+          "summary_en": "The hyperscalers racing to build the data centers needed for the AI boom have a PR crisis on their hands, but the industry is not taking the problem lying down."
         },
         {
           "source": "MarketWatch-Top",
@@ -179,16 +180,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "房贷利率再次上涨，但仍接近三年低点。",
+          "time": "2026-03-13 17:00:15",
+          "title": "Atlassian 将裁员约10% 以转型为人工智能",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/mortgage-rates-rise-again-remain-205000536.html",
-          "title_en": "Mortgage rates rise again, but remain near three-year low"
+          "url": "https://finance.yahoo.com/news/atlassian-lay-off-1-600-212610757.html",
+          "title_en": "Atlassian to cut roughly 10% jobs in pivot to AI"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
+          "time": "2026-03-13 17:00:15",
           "title": "欧洲股市料周内跌幅扩大中东战争加剧通胀恐惧",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/european-shares-set-for-weekly-loss-as-mideast-war-fuels-inflation-fears-4559164",
@@ -221,13 +222,49 @@
       "badge": "Risk / Oil / Gold",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 17:00:15",
+          "title": "能源政策的逆风测试能源转型的步伐：Oil & Gas 360",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/energy-policy-crosswinds-test-pace-213021922.html",
+          "title_en": "Energy policy crosswinds test the pace of the transition: Oil & Gas 360"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 17:00:15",
+          "title": "伊朗冲突引发的石油震荡使美联储的降息计划变得复杂",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/oil-shock-iran-conflict-complicates-212353583.html",
+          "title_en": "Oil Shock From Iran Conflict Complicates Fed's Rate Cut Plans"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 17:00:15",
+          "title": "投资者正在对伊朗冲突加剧的风险进行定价，预计将出现“灾难”。以下是投资者可能如何获利的方法。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/options-traders-pricing-disaster-iran-212100959.html",
+          "title_en": "Options traders are pricing in ‘disaster’ as Iran conflict intensifies. Here’s how investors might profit."
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
+          "time": "2026-03-13 17:00:15",
           "title": "欧洲股市微幅下滑，油价徘徊在每桶100美元以上。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/european-stocks-edge-lower-as-oil-hovers-above-100-a-barrel-4559121",
           "title_en": "European stocks edge lower as oil hovers above $100 a barrel"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 17:00:15",
+          "title": "伊朗战争使假期旅行陷入混乱，旅客正在计算战争带来的成本",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/dream-holidays-in-disarray-trips-diverted-as-travellers-count-cost-of-iran-war-4559194",
+          "title_en": "’Dream holidays’ in disarray, trips diverted as travellers count cost of Iran war"
         },
         {
           "source": "CNBC-World",
@@ -358,46 +395,6 @@
           "url": "https://www.cnbc.com/2026/03/12/defense-stocks-leonardo-rheinmetall-stock-rhm-ldo-iran-war-ukraine.html",
           "title_en": "These charts show the size of Europe's defense boom, as companies take stock of the Iran war",
           "summary_en": "Leonardo said Thursday that it is on \"a path of strong growth,\" as defense companies see opportunities in the wars in Iran and Ukraine."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-12 23:43:48",
-          "title": "伊朗新最高领袖称霍尔木兹海峡必须继续关闭作为“压迫敌人的工具”。",
-          "summary": "伊朗新最高领袖穆罕默达·卡梅尼称，所有中东的美国军事基地应立即关闭，因为这些基地将会受到攻击。",
-          "url": "https://www.cnbc.com/2026/03/12/strait-of-hormuz-closure-iran-oil-prices-mojtaba-khamenei.html",
-          "title_en": "Strait of Hormuz must remain closed as 'tool to pressure enemy,' Iran's new supreme leader says",
-          "summary_en": "Iran's new Supreme Leader Mojtaba Khamenei has said all U.S. military bases in the Middle East should close immediately as those bases will be attacked."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-12 22:53:27",
-          "title": "油价飙升至100美元，人们开始担心会出现1970年代式的通货膨胀加失业。这种威胁有多大?",
-          "summary": "高通胀和缓慢增长构成了双重威胁，降息和政府开支等措施只会加剧通胀。",
-          "url": "https://www.cnbc.com/2026/03/09/fears-of-1970s-style-stagflation-arise-with-oil-spike-to-100-how-big-a-threat-is-it.html",
-          "title_en": "Fears of 1970s-style stagflation arise with oil spike to $100. How big a threat is it?",
-          "summary_en": "High inflation and slow growth present a double threat, as measures like interest rate cuts and government spending only aggravate inflation."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-12 22:43:09",
-          "title": "黄金为什么在伊朗冲突后没有动作——并且它可能往哪个方向走",
-          "summary": "尽管伊朗战争已经持续了将近两周，但黄金价格几乎没有波动。",
-          "url": "https://www.cnbc.com/2026/03/12/gold-iran-conflict-where-next-markets.html",
-          "title_en": "Why gold hasn’t moved since the Iran conflict — and where it could go next",
-          "summary_en": "Though the war in Iran has continued for almost two weeks, the price of the yellow metal has barely moved."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-12 22:26:00",
-          "title": "三艘船在波斯湾遭到撞击，伊朗警告油价可能达到200美元。",
-          "summary": "霍尔木兹海峡最近发生的事件发生在伊朗警告世界要准备好$200的油价之后。",
-          "url": "https://www.cnbc.com/2026/03/12/iran-war-persian-gulf-strait-of-hormuz-ships-uae-iraq.html",
-          "title_en": "Three more ships struck in the Persian Gulf as Iran warns of oil prices hitting $200",
-          "summary_en": "The latest incidents in or near the Strait of Hormuz come shortly after Iran warned the world to prepare for $200 oil prices."
         }
       ]
     },
@@ -405,15 +402,6 @@
       "name": "特斯拉链",
       "badge": "TSLA chain",
       "items": [
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "Uber 股票大幅上涨，原因是与亚马逊的无人车业务 Zoox 合作。",
-          "summary": "",
-          "url": "https://www.investors.com/news/technology/uber-stock-zoox-amazon-partnership/?src=A00220&yptr=yahoo",
-          "title_en": "Uber Stock Jumps After Partnership With Amazon's Robotaxi Business Zoox"
-        },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
@@ -443,164 +431,164 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "巴克莱认为耐克股价已达到“基本面底”。",
+          "time": "2026-03-13 17:00:15",
+          "title": "个人贷款的年利率（APR）通常在6%至36%之间。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/nikes-stock-gets-upgrade-barclays-211323172.html",
-          "title_en": "Nike's Stock Gets an Upgrade. Barclays Says It's Likely Reached a 'Fundamental Bottom.'"
+          "url": "https://finance.yahoo.com/news/apr-personal-loan-175302358.html",
+          "title_en": "What is the APR on a personal loan?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "与Xanadu创始人兼CEOChristian Weedbrook的炉边聊天",
+          "time": "2026-03-13 17:00:15",
+          "title": "铁路租赁领导者GATX Corp.(GATX)是马里奥·加贝利长期投资组合中的一个重要押注",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/replay-fireside-chat-xanadu-founder-210832124.html",
-          "title_en": "REPLAY: Fireside Chat with Xanadu Founder & CEO Christian Weedbrook"
+          "url": "https://finance.yahoo.com/news/railcar-leasing-leader-gatx-corp-212355401.html",
+          "title_en": "Railcar Leasing Leader GATX Corp. (GATX) Among Mario Gabelli’s Long-Term Portfolio Bets"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "Needham建议投资者在Cohu, Inc. (COHU)下跌时买入。",
+          "time": "2026-03-13 17:00:15",
+          "title": "加比利（Mario Gabelli）认为Madison Square Garden Sports（MSGS）旗下资产具有增值潜力",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/why-needham-telling-investors-buy-211535011.html",
-          "title_en": "Why Needham Is Telling Investors to Buy the Dip in Cohu, Inc. (COHU)"
+          "url": "https://finance.yahoo.com/news/mario-gabelli-sees-incremental-value-212338829.html",
+          "title_en": "Mario Gabelli Sees Incremental Value in Madison Square Garden Sports (MSGS) Franchise Assets"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "2026年Lower Mortgage评估",
+          "time": "2026-03-13 17:00:15",
+          "title": "马里奥·加贝利认为 Crane Company (CR) 的盈利增长目标让他保持乐观",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/review/lower-mortgage-review-210518636.html",
-          "title_en": "Lower Mortgage review 2026"
+          "url": "https://finance.yahoo.com/news/crane-company-cr-profitable-growth-212346515.html",
+          "title_en": "Crane Company (CR) Profitable Growth Targets Keep Mario Gabelli Bullish"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "Cliffwater私人信贷基金的赎回请求激增，规模达32.5亿美元",
+          "time": "2026-03-13 17:00:15",
+          "title": "UBS认为CEVA, Inc. (CEVA)的估值是有吸引力的。",
           "summary": "",
-          "url": "https://www.wsj.com/livecoverage/cpi-inflation-data-stock-market-03-11-2026/card/redemption-requests-surge-at-cliffwater-s-32-5-billion-private-credit-fund-1vhERU6TqhP8lzAP5jjn?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Redemption Requests Surge at Cliffwater’s $32.5 Billion Private-Credit Fund"
+          "url": "https://finance.yahoo.com/news/ceva-inc-ceva-valuation-seen-212322862.html",
+          "title_en": "CEVA, Inc. (CEVA) Valuation Seen as Attractive by UBS"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "日常ETF流动性：IWM净流入15亿美元",
+          "time": "2026-03-13 17:00:15",
+          "title": "截至2026年3月，平均个人贷款利率为6.5%至7.5%之间。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/daily-etf-flows-iwm-nets-210004760.html",
-          "title_en": "Daily ETF Flows: IWM Nets $1.5B"
+          "url": "https://finance.yahoo.com/news/average-personal-loan-interest-rate-005856676.html",
+          "title_en": "What is the average personal loan rate for March 2026?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
+          "time": "2026-03-13 17:00:15",
+          "title": "Ametek Inc. (AME) 反映了Mario Gabelli对工业技术解决方案的几十年来押注",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/ametek-inc-ame-reflects-mario-212252730.html",
+          "title_en": "Ametek Inc. (AME) Reflects Mario Gabelli’s Decades-Long Bet on Industrial Technology Solutions"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 17:00:15",
+          "title": "加比利（Mario Gabelli）对赫克控股（Herc Holdings，股票代码：HRI）仍然保持乐观态度，尽管短期内存在挑战。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/mario-gabelli-stays-bullish-herc-212330906.html",
+          "title_en": "Mario Gabelli Stays Bullish on Herc Holdings (HRI) Despite Near-Term Headwinds"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 17:00:15",
+          "title": "马里奥·加贝利认为美国运通（AXP）仍然是他持有的核心股票之一。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/american-express-axp-remains-key-212319315.html",
+          "title_en": "American Express (AXP) Remains a Key Holding for Mario Gabelli"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 17:00:15",
+          "title": "索尼集团（SONY）在马里奥·加贝利（Mario Gabelli）的关注范围内，尽管面临媒体和游戏行业的担忧。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/sony-group-sony-mario-gabelli-212301135.html",
+          "title_en": "Sony Group (SONY) on Mario Gabelli’s Radar Despite Media and Gaming Concerns"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 17:00:15",
+          "title": "考虑到当前的市场情况，$500的投资更倾向于购买贵金属。贵金属通常具有较好的抗通胀性和避险性，能够在市场波动时提供一定的保护。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/smarter-buy-xrp-precious-metals-212500708.html",
+          "title_en": "Is It Smarter to Buy XRP or Precious Metals With $500 Right Now?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 17:00:15",
+          "title": "马里奥·加贝利支持银行新约克梅隆（BK）全球投资服务的强大",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/mario-gabelli-backs-bank-york-212310400.html",
+          "title_en": "Mario Gabelli Backs Bank of New York Mellon (BK) on Global Investment Services Strength"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 17:00:15",
+          "title": "特克斯顿（TXT）获得Mario Gabelli的支持，原因是其商业客机和V-280防御计划的增长",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/textron-txt-wins-mario-gabelli-212240069.html",
+          "title_en": "Textron (TXT) Wins Mario Gabelli’s Support on Growth in Business Jets and V-280 Defense Program"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 17:00:15",
+          "title": "加比利(Mario Gabelli)持有Watts Water Technologies（WTS）股票，认为建筑效率趋势有利于该公司。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/mario-gabelli-backs-watts-water-212229521.html",
+          "title_en": "Mario Gabelli Backs Watts Water Technologies (WTS) on Building Efficiency Trends"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 17:00:15",
+          "title": "甲骨文股价上涨9%后，公司发布的财报显示需求强劲",
+          "summary": "",
+          "url": "https://www.wsj.com/livecoverage/cpi-inflation-data-stock-market-03-11-2026/card/oracle-stock-on-course-for-best-day-since-300-billion-openai-deal-Jhuy1vBhPHaPuaVlu4dp?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Oracle Stock Gains 9% After Earnings Show Strong Demand"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 17:00:15",
+          "title": "加比利认为国家燃气公司（National Fuel Gas，NFG）阿巴拉契亚天然气资产被低估。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/mario-gabelli-sees-unappreciated-value-212222059.html",
+          "title_en": "Mario Gabelli Sees Unappreciated Value in National Fuel Gas (NFG) Appalachian Gas Assets"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 17:00:15",
+          "title": "阿特里斯公司（AIP）受关注",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/why-arteris-inc-aip-focus-212122276.html",
+          "title_en": "Why Arteris, Inc. (AIP) Is In Focus"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 17:00:15",
           "title": "摩根士丹利持中性评级，预计Ambiq Micro, Inc. (AMBQ) 的需求强劲",
           "summary": "",
           "url": "https://finance.yahoo.com/news/bofa-sees-strong-demand-ambiq-211733996.html",
           "title_en": "BofA Sees Strong Demand for Ambiq Micro, Inc. (AMBQ) but Stays Neutral"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "进步保险（PGR）首席财务官约翰·绍兰德（John Sauerland）将在35年任职后退休。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/progressive-pgr-cfo-john-sauerland-205702674.html",
-          "title_en": "Progressive (PGR) CFO John Sauerland to Retire After 35-Year Tenure"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "查尔斯施瓦布（SCHW）完成Forge Global收购以扩大私有市场访问",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/charles-schwab-schw-finalizes-acquisition-205601611.html",
-          "title_en": "Charles Schwab (SCHW) Finalizes Acquisition of Forge Global to Expand Private Market Access"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "花旗集团(C)发行首只数字原生结构性债券通过欧洲清算所(Euroclear)",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/citigroup-c-issues-first-digitally-205720778.html",
-          "title_en": "Citigroup (C) Issues First Digitally Native Structured Note via Euroclear"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "CRISPR Therapeutics (CRSP) 公布了 2025 年财年收入 11.6 亿美元，主要受 CASGEVY 增长推动。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/crispr-therapeutics-crsp-reports-116m-205621899.html",
-          "title_en": "CRISPR Therapeutics (CRSP) Reports $116M FY25 Revenue Driven by CASGEVY Growth"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "华尔街资深人士警告：3月中旬可能标志着市场转折点",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/market-crash-warning-wall-street-211100664.html",
-          "title_en": "Market Crash Warning? Wall Street Veteran Says Mid-March Could Mark a Turning Point"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "Rigetti (RGTI) 公布了 2025 财年收入 710万美元，现金储备达到58.98亿美元。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/rigetti-rgti-reports-7-1m-205628944.html",
-          "title_en": "Rigetti (RGTI) Reports $7.1M FY25 Revenue, Strong $589.8M Cash Position"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "罗克特实验室（RKLB）成功发射商业卫星，实现第83次发射成功。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/rocket-lab-rklb-deploys-commercial-205647446.html",
-          "title_en": "Rocket Lab (RKLB) Deploys Commercial Satellite in 83rd Successful Launch"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "库ستان柯（COST）发布第二季度销售额68.24亿美元，净利润2.03亿美元。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/costco-cost-reports-68-24b-205543433.html",
-          "title_en": "Costco (COST) Reports $68.24B FQ2 Sales and $2.03B Net Income"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "埃利利illy (LLY) 和CMS扩大了对Zepbound和Mounjaro的Medicare覆盖",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/eli-lilly-lly-cms-expand-205533863.html",
-          "title_en": "Eli Lilly (LLY) and CMS Expand Medicare Access to Zepbound and Mounjaro"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "比特币跌破70,000美元。为什么以太坊和XRP价格也下滑。",
-          "summary": "",
-          "url": "https://www.barrons.com/articles/bitcoin-price-today-xrp-eth-cryptocurrencies-dca75923?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Bitcoin Falls Below $70,000. Why Ethereum and XRP Prices Slipped Too."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 16:45:34",
-          "title": "AeroVironment发布了“出色季度”，但股价大幅下跌。",
-          "summary": "",
-          "url": "https://www.investors.com/news/aerovironment-earnings-q3-2026-drones-switchblade-missile-munitions-scar-program/?src=A00220&yptr=yahoo",
-          "title_en": "AeroVironment Books A 'Stellar Quarter,' But Shares Dive"
         }
       ]
     }
