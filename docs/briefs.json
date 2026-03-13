@@ -1,6 +1,6 @@
 {
   "date": "2026.03.13",
-  "generatedAtBJT": "2026-03-13 08:11:12",
+  "generatedAtBJT": "2026-03-13 08:30:13",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-13 08:11:12",
+          "time": "2026-03-13 08:30:13",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 道琼斯期货下跌，甲骨文因业绩大涨，石油价格波动。\n- 宏观/Fed：关注 通胀率稳定，租金放缓，能源价格上涨；标普500指数走势良好。\n- 科技/半导体：NVIDIA计划在AI数据中心中投资20亿美元。\n- TSLA：关注路易斯汽车在十年末实现正现金流，价格相对较低。",
+          "summary": "- 地缘/避险：美股期货小幅上涨，伊朗紧张局势引发深度损失。\n- 宏观/Fed：CPI通胀稳定，租金放缓，能源加热；S&P 500表现强劲。\n- 科技/半导体：苹果在印度的生产记录创下新高，蒂姆·库克努力避开供应链风险。\n- TSLA：利德汽车在本世纪末期实现正现金流，推出价格合理的新车型。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Dow Jones Futures Fall, Oracle Jumps On Earnings; Oil Swings Wit…\n- 宏观/Fed：关注 CPI Inflation In Line As Rent Slows, Energy Heats Up; S&P 500 Fa…\n- 科技/半导体：Nvidia to invest $2 billion in neocloud Nebius amid AI data cent… 关键词: center, data, nvidia, amazon, amid\n- TSLA：关注 Lucid sees positive cash flow late in decade with affordable mod…"
+          "summary_en": "- 地缘/避险：关注 US stock futures edge higher after Iran jitters spark deep losse…\n- 宏观/Fed：关注 CPI Inflation In Line As Rent Slows, Energy Heats Up; S&P 500 Fa…\n- 科技/半导体：Apple Smashes India Production Records As Tim Cook Races To Dodg… 关键词: amazon, new, ask, center, china\n- TSLA：关注 Lucid sees positive cash flow late in decade with affordable mod…"
         }
       ]
     },
@@ -29,16 +29,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
-          "title": "英伟达计划在AI数据中心推动中投资2亿美元至新云Nebius。",
+          "time": "2026-03-13 08:30:08",
+          "title": "苹果在印度的生产记录创下新高，蒂姆·库克试图避开价值一万亿美元的中国关税",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/nvidia-invest-2-billion-ai-120800197.html",
-          "title_en": "Nvidia to invest $2 billion in neocloud Nebius amid AI data center push"
+          "url": "https://finance.yahoo.com/news/apple-smashes-india-production-records-123035455.html",
+          "title_en": "Apple Smashes India Production Records As Tim Cook Races To Dodge Trillion-Dollar China Tariffs"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
+          "time": "2026-03-13 08:30:08",
+          "title": "UPS转向高端服务以应对亚马逊订单下滑",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/ups-navigates-amazon-draw-down-133445533.html",
+          "title_en": "UPS navigates Amazon draw down in hard pivot to premium services"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 08:30:08",
           "title": "人工智能正在重塑2025年纳税：您需要了解的3个风险",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/taxes/article/ai-is-reshaping-2025-taxes-3-risks-to-know-before-you-file-120000919.html",
@@ -47,7 +56,16 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
+          "time": "2026-03-13 08:30:08",
+          "title": "Meta推迟了新AI模型的发布，出于性能问题的担忧。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/meta-delays-release-of-new-ai-model-on-performance-concerns-nyt-4558756",
+          "title_en": "Meta delays release of new AI model on performance concerns- NYT"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 08:30:08",
           "title": "Meta推迟了新AI模型的部署，纽约时报报道。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/meta-delays-rollout-of-new-ai-model-nyt-reports-4558750",
@@ -56,7 +74,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
+          "time": "2026-03-13 08:30:08",
           "title": "Adobe长期CEO将离职，公司股价下跌",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/adobe-announces-ceo-transition-shares-fall-4558224",
@@ -65,7 +83,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
+          "time": "2026-03-13 08:30:08",
           "title": "亚马逊计划将Prime Day活动从7月份移动到6月份，彭博新闻报道。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/amazon-plans-to-move-prime-day-event-to-june-from-july-bloomberg-news-reports-4558649",
@@ -180,16 +198,6 @@
           "url": "https://www.cnbc.com/2026/03/11/oracle-orcl-stock-q3-earnings-ai-data-center.html",
           "title_en": "Oracle stock spikes 9% as strong Q3 earnings answer Wall Street AI build-out concerns",
           "summary_en": "Oracle CEO Clayton Magouyrk said on an earnings call the company's model of having customers provide data chips for new data center builds is working."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-11 22:00:01",
-          "title": "Meta推出自有AI芯片，紧随Nvidia和AMD的大规模交易之后",
-          "summary": "Meta最新一代的MTIA系列自有芯片将有助于支持该公司的巨大数据中心扩张计划。",
-          "url": "https://www.cnbc.com/2026/03/11/meta-ai-mtia-chip-data-center.html",
-          "title_en": "Meta rolls out in-house AI chips weeks after massive Nvidia, AMD deals",
-          "summary_en": "Meta's latest generations of its MTIA series of in-house chips for artificial intelligence will help support the company's massive data center expansion plans."
         }
       ]
     },
@@ -200,11 +208,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
+          "time": "2026-03-13 08:30:08",
           "title": "CPI通胀率稳定，租金增长放缓，能源价格上涨；S&P 500指数下跌。",
           "summary": "",
           "url": "https://www.investors.com/news/economy/cpi-inflation-oil-prices-tariffs-federal-reserve-sp-500/?src=A00220&yptr=yahoo",
           "title_en": "CPI Inflation In Line As Rent Slows, Energy Heats Up; S&P 500 Falls"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 08:30:08",
+          "title": "沃尔沃计划到2030年在德国裁员50,000人，受益于利润下滑",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/volkswagen-cut-50-000-jobs-123055122.html",
+          "title_en": "Volkswagen to cut 50,000 jobs in Germany by 2030 as profits fall"
         },
         {
           "source": "MarketWatch-Top",
@@ -243,27 +260,9 @@
       "badge": "Risk / Oil / Gold",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
-          "title": "道琼斯指数期货下跌，甲骨片上涨；油价随储备释放计划公布而波动。",
-          "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-price-swings-ai-stocks-oracle-earnings/?src=A00220&yptr=yahoo",
-          "title_en": "Dow Jones Futures Fall, Oracle Jumps On Earnings; Oil Swings With Reserves Release Plan Due"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
-          "title": "股市需要更多的信息来淡忘伊朗战争，包括甲骨文的财报。",
-          "summary": "",
-          "url": "https://www.barrons.com/articles/stock-market-oil-iran-oracle-earnings-68cb4d59?siteid=yhoof2&yptr=yahoo",
-          "title_en": "The Stock Market Needs More Than Oracle Earnings to Forget About the Iran War"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
+          "time": "2026-03-13 08:30:08",
           "title": "美股期货小幅上涨，伊朗紧张局势引发深度损失；即将公布的PCE数据",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-higher-after-iran-jitters-spark-deep-losses-pce-data-on-tap-4558748",
@@ -272,11 +271,11 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-13 08:04:27",
-          "title": "美国允许暂时购买已经在海上航行的俄罗斯石油",
+          "time": "2026-03-13 08:20:43",
+          "title": "美国允许暂时购买已经在海上航行的俄罗斯石油以稳定能源市场。",
           "summary": "美国暂时授权购买在海上被困的俄罗斯石油以稳定能源市场。",
           "url": "https://www.cnbc.com/2026/03/13/bessent-us-allows-purchase-russian-oil-stranded-sea-energy-markets.html",
-          "title_en": "U.S. allows temporary purchases of Russian oil already at sea",
+          "title_en": "U.S. allows temporary purchases of Russian oil already at sea to stabilize energy markets",
           "summary_en": "The U.S. has temporarily authorized the purchase of Russian oil stranded at sea to stabilize energy markets."
         },
         {
@@ -418,6 +417,26 @@
           "url": "https://www.cnbc.com/2026/03/12/iran-war-persian-gulf-strait-of-hormuz-ships-uae-iraq.html",
           "title_en": "Three more ships struck in the Persian Gulf as Iran warns of oil prices hitting $200",
           "summary_en": "The latest incidents in or near the Strait of Hormuz come shortly after Iran warned the world to prepare for $200 oil prices."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-12 21:59:19",
+          "title": "美国能源部长沃特表示，美国尚未准备好 Escort 油轮通过霍尔木兹海峡。",
+          "summary": "运油船通过海峡的通行仍然停滞不前，船东担心遭到伊朗的攻击。海峡关闭导致了历史上最大的一次石油供应中断。",
+          "url": "https://www.cnbc.com/2026/03/12/energy-secretary-wright-says-us-not-ready-to-escort-tankers-through-strait-of-hormuz-yet.html",
+          "title_en": "Energy Secretary Wright says U.S. 'not ready' to escort oil tankers through Strait of Hormuz yet",
+          "summary_en": "Tanker traffic through the strait remains at a standstill as ship owners fear attacks by Iran. The closure has triggered the largest oil supply disruption ever."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-12 21:57:48",
+          "title": "沙特阿拉伯和阿联酋正在建设的两条绕过霍尔木兹海峡的石油输送管道",
+          "summary": "沙特阿拉伯的东西管道和阿联酋的阿布扎比原油输送管道被认为可以部分弥补霍尔木兹海峡封锁的影响。",
+          "url": "https://www.cnbc.com/2026/03/12/strait-of-hormuz-oil-pipelines-iran-war-saudi-arabia-uae.html",
+          "title_en": "The two oil pipelines helping Saudi Arabia and UAE bypass the Strait of Hormuz",
+          "summary_en": "Saudi Arabia’s East-West pipeline and the UAE's Abu Dhabi Crude Oil Pipeline are thought to be able to help partially offset the Strait of Hormuz blockage."
         }
       ]
     },
@@ -428,7 +447,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
+          "time": "2026-03-13 08:30:08",
           "title": "路易斯（Lucid）在十年末期可能实现正现金流，主要是因为其价格合理的车型和自动驾驶技术。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/lucid-sees-positive-cash-flow-late-in-decade-with-affordable-model-autonomous-offerings-4558709",
@@ -453,133 +472,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
-          "title": "Crocs 股票：如何找到并拥有美国最大的机会",
+          "time": "2026-03-13 08:30:08",
+          "title": "甲骨文公司救了“七大罪人”",
           "summary": "",
-          "url": "https://www.investors.com/how-to-invest/crocs-stock-crox-americas-greatest-opportunities/?src=A00220&yptr=yahoo",
-          "title_en": "Crocs Stock: How To Find & Own America's Greatest Opportunities"
+          "url": "https://finance.yahoo.com/news/oracle-saves-magnificent-seven-122621005.html",
+          "title_en": "Oracle Saves The “Magnificent Seven”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
-          "title": "道琼斯指数防御巨头波音、AT&T处于或接近买入区域，市场波动加剧。",
-          "summary": "",
-          "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-boeing-stock-ba/?src=A00220&yptr=yahoo",
-          "title_en": "Dow Jones Defense Giant Boeing, AT&T In Or Near Buy Zones Amid Market Volatility"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
-          "title": "瑞信即将收购罗马尼亚加兰蒂BBVA",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/raiffeisen-close-acquiring-garanti-bbva-120457216.html",
-          "title_en": "Raiffeisen close to acquiring Garanti BBVA Romania"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
-          "title": "吉姆·克拉默谈到Vertiv Holdings：“这是一只股票，这是一家公司”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-vertiv-holdings-stock-120640667.html",
-          "title_en": "Jim Cramer on Vertiv Holdings: “What a Stock, What a Company”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
-          "title": "关税混乱",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46417_PortfolioIdeas_1773347251000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Tariff Turmoil"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
-          "title": "吉姆·克拉默表示：“市场对EchoStar的频谱资产价值大大低估了。”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-says-market-dramatically-120645336.html",
-          "title_en": "Jim Cramer Says “The Market Dramatically Underappreciated the Value of EchoStar’s Spectrum Assets”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
-          "title": "吉姆·克雷默强调了Lamb Weston Holdings的可能困难",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-highlights-possible-struggles-120648307.html",
-          "title_en": "Jim Cramer Highlights the Possible Struggles of Lamb Weston Holdings"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
-          "title": "现在是否应该购买股票？伯克希尔哈撒韦的沃伦·巴菲特对应对市场不确定性的最佳建议。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/smart-buy-stocks-now-warren-120500447.html",
-          "title_en": "Is It Smart to Buy Stocks Right Now? Warren Buffett's Best Advice for Dealing With Market Uncertainty."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
-          "title": "吉姆·克雷默谈到莫利纳医疗： “大量涉及医疗保健和医疗补助，弱点是弱点中的弱点”。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-molina-healthcare-lots-120639552.html",
-          "title_en": "Jim Cramer on Molina Healthcare: “Lots of Exposure to Medicare and Medicaid, the Weakest Part of a Weak Business”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
-          "title": "吉姆克拉默讨论了大规模反弹和S&P 500的Lumentum上市",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-discusses-massive-rally-120643501.html",
-          "title_en": "Jim Cramer Discusses the Massive Rally and S&P 500 Addition of Lumentum"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
-          "title": "吉姆·克拉默解释了Match Group为什么被S&P 500除名",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-explains-why-match-120646331.html",
-          "title_en": "Jim Cramer Explains Why Match Group Was Expelled from the S&P 500"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
-          "title": "吉姆·克拉默谈到Coherent Corp.： “我认为这个公司简直太棒了”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-coherent-corp-think-120642517.html",
-          "title_en": "Jim Cramer on Coherent Corp.: “I Think This Company’s Just Terrific”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
-          "title": "中东冲突对汽车行业的初步影响评估。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/middle-east-conflict-initial-impact-120818530.html",
-          "title_en": "Middle East conflict: An initial impact assessment on Automotive"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
-          "title": "伯克希尔·哈撒韦的新CEO格雷格·阿贝尔曾经接受了沃伦·巴菲特的教诲，巴菲特曾经对阿贝尔说过：“一旦你开始欺骗你的股东，你很快就会相信自己的谎言。”阿贝尔在第四季度向股东报告时说了什么？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/warren-buffett-told-ceo-greg-120907840.html",
-          "title_en": "Warren Buffett Told New CEO Greg Abel ‘Once You Start Fooling Your Shareholders, You Will Soon Believe Your Own Baloney.’ What Did Abel Tell Shareholders About Q4?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
+          "time": "2026-03-13 08:30:08",
           "title": "Unifirst Corp（UNF）案件分析",
           "summary": "",
           "url": "https://finance.yahoo.com/news/analysis-ongoing-case-unifirst-corp-122858047.html",
@@ -588,7 +490,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
+          "time": "2026-03-13 08:30:08",
           "title": "Infinity自然资源公司2025年第四季度财报电话会议总结",
           "summary": "",
           "url": "https://finance.yahoo.com/news/infinity-natural-resources-inc-q4-123000269.html",
@@ -597,20 +499,137 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
-          "title": "Light Science Technologies CEO Simon Deacon谈£6M融资和Injectaclad增长计划",
+          "time": "2026-03-13 08:30:08",
+          "title": "Cadre Holdings, Inc. 2025年第四季度财报电话会议总结",
           "summary": "",
-          "url": "https://finance.yahoo.com/video/light-science-technologies-ceo-simon-120858742.html",
-          "title_en": "Light Science Technologies CEO Simon Deacon on £6M Raise & Injectaclad growth plan"
+          "url": "https://finance.yahoo.com/news/cadre-holdings-inc-q4-2025-123000466.html",
+          "title_en": "Cadre Holdings, Inc. Q4 2025 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 08:11:08",
+          "time": "2026-03-13 08:30:08",
+          "title": "奥拉克尔公司2026年第三季度财报电话会议总结\n\n奥拉克尔公司第三季度财报显示，公司收入为 21.2 亿美元，同比增长 5%。调整后每股收益为 1.05 美元，同比增长 7%。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/oracle-corporation-q3-2026-earnings-123000761.html",
+          "title_en": "Oracle Corporation Q3 2026 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 08:30:08",
+          "title": "关税混乱",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46417_PortfolioIdeas_1773347251000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Tariff Turmoil"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 08:30:08",
+          "title": "斯坦利斯、奥什科什和马斯特克拉夫特：值得关注的三家汽车制造商",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/stellantis-oshkosh-mastercraft-3-vehicle-122653379.html",
+          "title_en": "Stellantis, Oshkosh, and Mastercraft: 3 Vehicle Manufacturers Worth Watching"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 08:30:08",
           "title": "法兰科-内瓦达公司第四季度2025年财报电话会议总结",
           "summary": "",
           "url": "https://finance.yahoo.com/news/franco-nevada-corporation-q4-2025-123000221.html",
           "title_en": "Franco-Nevada Corporation Q4 2025 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 08:30:08",
+          "title": "Consumer Portfolio Services, Inc.第四季度2025年财报电话会议总结",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/consumer-portfolio-services-inc-q4-123000525.html",
+          "title_en": "Consumer Portfolio Services, Inc. Q4 2025 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 08:30:08",
+          "title": "索尼达老年生活服务公司2025年第四季度财报电话会议总结",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/sonida-senior-living-inc-q4-123000065.html",
+          "title_en": "Sonida Senior Living, Inc. Q4 2025 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 08:30:08",
+          "title": "玉米价格周三上午继续上涨",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/corn-bulls-pushing-back-higher-123907386.html",
+          "title_en": "Corn Bulls Pushing Back Higher on Wednesday Morning"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 08:30:08",
+          "title": "美国首家“绿色”证券交易所聘用资深高管担任首席财务官",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/nation-first-green-stock-exchange-122900145.html",
+          "title_en": "Nation’s first ‘green’ stock exchange hires veteran exec as CFO"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 08:30:08",
+          "title": "豆类价格周三早盘大幅上涨",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/soybeans-posting-double-digit-gains-123907683.html",
+          "title_en": "Soybeans Posting Double Digit Gains Early on Wednesday"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 08:30:08",
+          "title": "杜邦德内莫尔股价是否超越了标普500指数。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/dupont-nemours-stock-outperforming-p-124916616.html",
+          "title_en": "Is DuPont de Nemours Stock Outperforming the S&P 500?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 08:30:08",
+          "title": "贝克休斯(Baker Hughes)股票是否超越了S&P 500指数？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/baker-hughes-stock-outperforming-p-125143500.html",
+          "title_en": "Is Baker Hughes Stock Outperforming the S&P 500?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 08:30:08",
+          "title": "亚瑟·海斯部署流动性策略：即使只有1美元也不买比特币",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/arthur-hayes-deploys-net-liquidity-122931948.html",
+          "title_en": "Arthur Hayes Deploys Net Liquidity Strategy: Not Buying BTC Now Even If He Has Only $1"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 08:30:08",
+          "title": "Delta Air Lines 股票是否低于纳斯达克指数的表现？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/delta-air-lines-stock-underperforming-125548167.html",
+          "title_en": "Is Delta Air Lines Stock Underperforming the Nasdaq?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 08:30:08",
+          "title": "第三大道小盘价值基金关于Cintas Corporation（CTAS）Unifirst收购提议的最新消息",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/third-avenue-small-cap-value-125716792.html",
+          "title_en": "Here’s Third Avenue Small-Cap Value Fund’s Updates on Cintas Corporation’s (CTAS) Unifirst Takeover Offer"
         }
       ]
     }
