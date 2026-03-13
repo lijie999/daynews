@@ -1,6 +1,6 @@
 {
   "date": "2026.03.13",
-  "generatedAtBJT": "2026-03-13 21:49:27",
+  "generatedAtBJT": "2026-03-13 22:19:44",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-13 21:49:27",
+          "time": "2026-03-13 22:19:44",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：油价突破100美元/桶，全球股市大幅下挫，未知因素仍在持续。\n- 宏观/Fed：关注Atlassian最新裁员1600人，裁员原因与AI技术相关。\n- 科技/半导体：苹果在中国降低5%的iOS收费，受影响最大的公司包括：\n- TSLA：关注Uber与Zoox的合作是自主汽车领域的最新动态。",
+          "summary": "- 地缘/避险：关注 美股今日：道指、标普500、纳斯达克上涨，石油价格回落，地缘政治风险减轻。\n- 宏观/Fed：关注 美股今日：道指上涨，受来料超预期的通胀和GDP数据影响。\n- 科技/半导体：AMD vs. TSMC：哪家芯片股更具前瞻性和更高的智能回报率。\n- TSLA：关注 特斯拉2026年第一两个月中国销量攀升。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Oil jumps to $100 per barrel and stocks sink worldwide with no c…\n- 宏观/Fed：关注 Atlassian to Reduce 1,600 Jobs in the Latest AI-Linked Cuts…\n- 科技/半导体：Apple’s 5% iOS fee cut in China: These companies are most affect… 关键词: more, about, ask, center, china\n- TSLA：关注 Uber’s Zoox deal latest in broad autonomous vehicle push…"
+          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq rise as oil retreats, G…\n- 宏观/Fed：关注 Stock Market Today: Dow Rises On Surprise Inflation, GDP Data; A…\n- 科技/半导体：AMD vs. TSMC: Which Chip Stock Actually Delivers the Smarter Ret… 关键词: more, about, ask, center, china\n- TSLA：关注 Tesla's China sales climb in the first two months of 2026 while …"
         }
       ]
     },
@@ -27,9 +27,27 @@
       "badge": "Mag7 / Semis",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 22:19:40",
+          "title": "AMD与TSMC：哪只芯片股真正在2026年带来更聪明的回报？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/amd-vs-tsmc-chip-stock-135501377.html",
+          "title_en": "AMD vs. TSMC: Which Chip Stock Actually Delivers the Smarter Return in 2026?"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
+          "time": "2026-03-13 22:19:40",
+          "title": "人工智能即将改变美容行业，从产品发现到零售货架。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/ai-set-to-transform-beauty-industry-from-product-discovery-to-retail-shelves-93CH-4560333",
+          "title_en": "AI set to transform beauty industry from product discovery to retail shelves"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 22:19:40",
           "title": "苹果在中国降低5%的iOS费用：受影响最大的公司",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/apples-5-ios-fee-cut-in-china-these-companies-are-most-affected-4560258",
@@ -38,7 +56,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
+          "time": "2026-03-13 22:19:40",
           "title": "Adobe 股票下跌，CEO 退位凸显关键 AI 战略",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/adobe-shares-drop-after-ceo-exit-adds-to-aidisruption-concerns-4559246",
@@ -55,7 +73,7 @@
           "summary_en": "The hyperscalers racing to build the data centers needed for the AI boom have a PR crisis on their hands, but the industry is not taking the problem lying down."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-13 21:00:15",
           "title": "我们在今年不应有的回落中继续购买这个领先的AI股。",
@@ -133,16 +151,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "Atlassian 将裁员 1,600 人，这是与 AI 相关的最新一轮裁员。",
+          "time": "2026-03-13 22:19:40",
+          "title": "股市今日：道指上涨因意外的通胀、GDP数据；Adobe因业绩下滑大幅跌落（实时报道）",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/atlassian-ceo-cites-ai-shift-220933887.html",
-          "title_en": "Atlassian to Reduce 1,600 Jobs in the Latest AI-Linked Cuts"
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-inflation-data/?src=A00220&yptr=yahoo",
+          "title_en": "Stock Market Today: Dow Rises On Surprise Inflation, GDP Data; Adobe Dives On Earnings (Live Coverage)"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-13 20:51:13",
+          "time": "2026-03-13 22:11:21",
           "title": "第四季度GDP修正为仅增长0.7%；一月核心通胀率为3.1%",
           "summary": "1月份PCE价格指数预计将显示出头条通胀率为2.9%，核心通胀率为3.1%。",
           "url": "https://www.cnbc.com/2026/03/13/fourth-quarter-gdp-revised-down-to-just-0point7percent-growth-january-core-inflation-was-3point1percent.html",
@@ -152,12 +170,12 @@
         {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
-          "time": "2026-03-13 20:33:00",
-          "title": "美联储最喜欢的价格指标显示通胀仍然坚韧——并且很快就不会有改善",
-          "summary": "核心PCE通胀指数过去一年上涨3.1%。伊朗冲突将使其进一步上涨。",
+          "time": "2026-03-13 21:58:00",
+          "title": "美联储最喜欢的价格指标显示通胀仍然坚韧——并且很快就不会有改善的机会",
+          "summary": "核心PCE价格指数过去一年上涨了3.1%。伊朗冲突将使其进一步上涨。",
           "url": "https://www.marketwatch.com/story/feds-favorite-price-gauge-shows-sticky-inflation-and-little-chance-of-improvement-soon-a0dcf9dd?mod=mw_rss_topstories",
-          "title_en": "Fed’s favorite price gauge shows sticky inflation — and little chance of improvement soon",
-          "summary_en": "Core PCE price index has risen 3.1% in past year. Iran conflict will push it even higher."
+          "title_en": "The Fed’s favorite price gauge shows sticky inflation — and little chance of improvement soon",
+          "summary_en": "The core PCE price index has risen 3.1% in the past year. The Iran conflict will push it even higher."
         },
         {
           "source": "CNBC-Top",
@@ -188,47 +206,105 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "石油价格跃升至每桶100美元，全球股市大幅下挫，伊朗战争的结束时间仍然不明朗。",
+          "time": "2026-03-13 22:19:40",
+          "title": "股市今日：道指、标普500指数、纳斯达克指数上涨，油价回落，经济增长速度比预期更慢。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/brent-crude-oil-tops-100-030802877.html",
-          "title_en": "Oil jumps to $100 per barrel and stocks sink worldwide with no clear end in sight for the Iran war"
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-oil-retreats-gdp-growth-slows-more-than-expected-225332081.html",
+          "title_en": "Stock market today: Dow, S&P 500, Nasdaq rise as oil retreats, GDP growth slows more than expected"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "亚洲国家出台四天工作制和远程办公措施应对因伊朗战争引发的燃油危机。",
+          "time": "2026-03-13 22:19:40",
+          "title": "从伊朗到AIM：风险偏谨的市场正在压制小盘股并关闭融资通道",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/asia-rolls-four-day-weeks-020204436.html",
-          "title_en": "Asia rolls out four-day weeks and work-from-home as emergency measures to solve a fuel crisis caused by Iran war"
+          "url": "https://finance.yahoo.com/news/iran-aim-risk-off-markets-140003677.html",
+          "title_en": "From Iran to AIM: How risk-off markets are squeezing small caps and shutting the funding taps"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "RBC资本提高了APA的目标价，因为石油价格的强劲和业绩的动力支持股价。",
+          "time": "2026-03-13 22:19:40",
+          "title": "Maurel & Prom销售额下降，低油价影响2025年业绩",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/rbc-capital-raises-apa-target-041126547.html",
-          "title_en": "RBC Capital Raises APA Target as Oil Strength and Earnings Momentum Support Shares"
+          "url": "https://finance.yahoo.com/news/maurel-prom-sales-fall-lower-065047266.html",
+          "title_en": "Maurel & Prom Sales Fall as Lower Oil Prices Weigh on 2025 Results"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "Piper Sandler 对 Crescent Energy (CRGY) 的目标价进行了上调，而石油市场的关注点转向伊朗风险。",
+          "time": "2026-03-13 22:19:40",
+          "title": "股市上涨，油价跌破100美元",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/piper-sandler-boosts-crescent-energy-042050507.html",
-          "title_en": "Piper Sandler Boosts Crescent Energy (CRGY) Target while Oil Market Focus Shifts to Iran Risk"
+          "url": "https://finance.yahoo.com/news/stock-futures-waver-while-oil-105200718.html",
+          "title_en": "Stocks Move Higher While Oil Prices Dip Below $100"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 22:19:40",
+          "title": "高盛提高了石油价格预测 因中东冲突升级",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/goldman-sachs-raises-oil-price-063759485.html",
+          "title_en": "Goldman Sachs Raises Oil Price Forecast as Middle East Conflict Escalates"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 22:19:40",
+          "title": "大卫拉姆塞说伊朗战争不应该改变你的投资策略：关掉电视和离开福克斯网站",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/dave-ramsey-says-iran-war-135117935.html",
+          "title_en": "Dave Ramsey Says The Iran War Shouldn't Change Your Investing Strategy: Turn Off Your Television And Get Off The Fox Website"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "即使油价回落到60美元，这家石油股仍然值得关注：摩根士丹利（BofA）",
+          "time": "2026-03-13 22:19:40",
+          "title": "Jefferies认为，油价上涨将推动美国能源行业，Utilities仍然是避风港。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/even-if-oil-moves-back-to-60-this-oil-stock-stand-out-bofa-4559461",
-          "title_en": "Even if oil moves back to $60, this oil stock stands out: BofA"
+          "url": "https://www.investing.com/news/stock-market-news/jefferies-sees-higher-oil-prices-boosting-us-energy-sector-utilities-remain-safe-haven-93CH-4560317",
+          "title_en": "Jefferies sees higher oil prices boosting US energy sector, utilities remain safe haven"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-13 22:16:39",
+          "title": "皮特·赫格塞特（Pete Hegseth）谈到霍尔木兹海峡： “不用担心它”",
+          "summary": "霍尔木兹海峡，全球最关键的石油运输瓶颈，自美国和以色列开始对伊朗的战争以来，已经被实际封锁。",
+          "url": "https://www.cnbc.com/2026/03/13/iran-war-strait-of-hormuz-hegseth.html",
+          "title_en": "Pete Hegseth on Strait of Hormuz: 'Don't need to worry about it'",
+          "summary_en": "The Strait of Hormuz, the world's most critical chokepoint for oil shipments, has been effectively closed since the U.S. and Israel began the war on Iran."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-13 22:16:25",
+          "title": "美国允许暂时购买已经在海上航行的俄罗斯石油以稳定能源市场。",
+          "summary": "美国暂时授权购买在海上被困的俄罗斯石油以稳定能源市场。",
+          "url": "https://www.cnbc.com/2026/03/13/bessent-us-allows-purchase-russian-oil-stranded-sea-energy-markets.html",
+          "title_en": "U.S. allows temporary purchases of Russian oil already at sea to stabilize energy markets",
+          "summary_en": "The U.S. has temporarily authorized the purchase of Russian oil stranded at sea to stabilize energy markets."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-13 22:15:04",
+          "title": "石油价格持稳在每桶100美元左右，特朗普称美国有足够的弹药和时间来与伊朗打一场战争。",
+          "summary": "WTI原油上周实现了自20世纪80年代以来最大周涨幅。",
+          "url": "https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html",
+          "title_en": "Oil holds near $100 as Trump says America has 'ammunition, and plenty of time’ to fight Iran war",
+          "summary_en": "WTI crude saw its biggest weekly gain since the 1980s last week."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-13 21:49:25",
+          "title": "高油价对房贷利率不利，经济学家说。买房者需要了解的关键信息。",
+          "summary": "即将进入春季房屋销售季节，购房者在锁定新抵押贷款利率前，应了解他们的选择。",
+          "url": "https://www.cnbc.com/2026/03/13/oil-prices-mortgage-rates.html",
+          "title_en": "'High oil prices are not good for mortgage rates,' economist says. What homebuyers should know",
+          "summary_en": "Heading in the spring home selling season, buyers should know what their options are before locking in an interest rate for a new mortgage, experts say."
         },
         {
           "source": "CNBC-Top",
@@ -261,16 +337,6 @@
           "summary_en": "The closure of the Strait of Hormuz for longer could deepen the worries of the world's fastest-growing economy"
         },
         {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-13 21:17:24",
-          "title": "皮特·赫格塞特（Pete Hegseth）谈到霍尔木兹海峡： “不用担心它”",
-          "summary": "霍尔木兹海峡，全球最关键的石油运输瓶颈，自美国和以色列开始对伊朗的战争以来，已经被实际封锁。",
-          "url": "https://www.cnbc.com/2026/03/13/iran-war-strait-of-hormuz-hegseth.html",
-          "title_en": "Pete Hegseth on Strait of Hormuz: 'Don't need to worry about it'",
-          "summary_en": "The Strait of Hormuz, the world's most critical chokepoint for oil shipments, has been effectively closed since the U.S. and Israel began the war on Iran."
-        },
-        {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-03-13 21:17:00",
@@ -279,16 +345,6 @@
           "url": "https://www.marketwatch.com/story/11-stocks-to-harden-your-portfolio-against-iran-risk-d926712a?mod=mw_rss_topstories",
           "title_en": "11 stocks to harden your portfolio against Iran risk",
           "summary_en": "Focus on stocks that are stable when investors flee to safety and stock-market liquidity dries up."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-13 21:05:17",
-          "title": "石油价格持稳在每桶100美元左右，特朗普称美国有足够的弹药和时间来与伊朗打一场战争。",
-          "summary": "WTI原油上周实现了自20世纪80年代以来最大周涨幅。",
-          "url": "https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html",
-          "title_en": "Oil holds near $100 as Trump says America has 'ammunition, and plenty of time’ to fight Iran war",
-          "summary_en": "WTI crude saw its biggest weekly gain since the 1980s last week."
         },
         {
           "source": "MarketWatch-Top",
@@ -319,46 +375,6 @@
           "url": "https://www.marketwatch.com/story/why-a-1980s-conflict-may-be-the-best-market-analog-for-the-current-iran-situation-4e0d404a?mod=mw_rss_topstories",
           "title_en": "Why a 1980s conflict may be the best market analog for the current Iran situation",
           "summary_en": "Citi’s global macro strategy team led by Dirk Willer went in search of historical analogs, looking through the last five oil crises"
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-13 20:31:20",
-          "title": "科技下载：芯片供应链和数据中心风险——科技行业的伊朗问题",
-          "summary": "全球芯片供应链和中东地区的AI项目受到不确定性的影响。",
-          "url": "https://www.cnbc.com/2026/03/13/tech-download-iran-problem-supply-chains-ai.html",
-          "title_en": "The Tech Download: Chip supply chains and data center risks — the tech sector’s Iran problem",
-          "summary_en": "Uncertainty hits global chip supply chains and Middle East-based AI projects."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-13 20:05:27",
-          "title": "油价突破100美元，PCE数据公布，MLB球队估值等热点新闻在早间时报中有报道。",
-          "summary": "今天市场投资者需要了解的五个关键信息。",
-          "url": "https://www.cnbc.com/2026/03/13/5-things-to-know-before-the-market-opens.html",
-          "title_en": "$100 oil, PCE data, MLB valuations and more in Morning Squawk",
-          "summary_en": "Here are five key things investors need to know to start the trading day."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-13 18:31:48",
-          "title": "美国在伊朗的“误事”没有明确的撤军战略，俄罗斯驻英国大使说。",
-          "summary": "他在CNBC的评论出现在美国和以色列领导的战争即将进入第三周之际。",
-          "url": "https://www.cnbc.com/2026/03/13/iran-war-russia-putin-us-israel-trump-middle-east.html",
-          "title_en": "U.S. 'misadventure' in Iran has no clear exit strategy, Russia's UK ambassador says",
-          "summary_en": "His comments to CNBC come as the U.S. and Israeli-led war appears poised to enter its third week."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-13 16:38:06",
-          "title": "英国经济在伊朗战争前未实现1月份增长",
-          "summary": "经济学家预计国内生产总值增长0.2%。",
-          "url": "https://www.cnbc.com/2026/03/13/uk-economy-fails-to-grow-in-january-.html",
-          "title_en": "UK economy fails to grow in January ahead of Iran war energy price shock",
-          "summary_en": "Economists had been expecting gross domestic product to add 0.2%."
         }
       ]
     },
@@ -367,18 +383,9 @@
       "badge": "TSLA chain",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "Uber的Zoox交易是其广泛的自动驾驶汽车推动的最新一环。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/uber-zoox-deal-latest-broad-023708085.html",
-          "title_en": "Uber’s Zoox deal latest in broad autonomous vehicle push"
-        },
-        {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-13 15:02:05",
+          "time": "2026-03-13 22:17:36",
           "title": "特斯拉2026年第一两个月在中国的销量上升，而比亚迪的销量下降。",
           "summary": "特斯拉在2026年前两个月生产的中国电动汽车的销量比去年同期增加，重新夺回了与中国的比亚迪的市场份额。",
           "url": "https://www.cnbc.com/2026/03/13/teslas-china-sales-climb-in-the-first-two-months-of-2026-while-byd-numbers-drop.html",
@@ -404,43 +411,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "Oracle 股票今天上涨的原因",
+          "time": "2026-03-13 22:19:40",
+          "title": "麦迪逊小盘股基金为什么押注AAON（AAON）",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/why-oracle-stock-popped-today-015126291.html",
-          "title_en": "Why Oracle Stock Popped Today"
+          "url": "https://finance.yahoo.com/news/why-madison-small-cap-fund-140201144.html",
+          "title_en": "Here’s Why Madison Small Cap Fund Bets on AAON (AAON)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "北威斯特自然能源控股(NWN)第四季度业绩公布后股价目标上调6美元",
+          "time": "2026-03-13 22:19:40",
+          "title": "理财教练每年初都将Roth IRA贡献额达到最大限额。这个策略适合你吗？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/northwest-natural-holding-nwn-price-035606988.html",
-          "title_en": "Northwest Natural Holding (NWN) Price Target Raised by $6 Following Q4 Results"
+          "url": "https://finance.yahoo.com/news/money-coach-maxes-roth-ira-140000056.html",
+          "title_en": "Money coach maxes out their Roth IRA at the beginning of every year. Is this the right move for you?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "国家电网（NGG）——2026年买入的最佳公用事业股之一",
+          "time": "2026-03-13 22:19:40",
+          "title": "GitLab (GTLB) 的投资机会有哪些吸引力？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/national-grid-ngg-among-best-035618386.html",
-          "title_en": "National Grid (NGG) – Among the Best Utility Stocks to Buy for Dividends in 2026"
+          "url": "https://finance.yahoo.com/news/makes-gitlab-gtlb-attractive-investment-135744078.html",
+          "title_en": "What Makes GitLab (GTLB) an Attractive Investment Opportunity?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "康斯尔塔德能公司(ED)价格目标提高至117美元",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/consolidated-edison-ed-price-target-035628656.html",
-          "title_en": "Consolidated Edison (ED) Price Target Increased to $117"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
+          "time": "2026-03-13 22:19:40",
           "title": "日常焦点：GDP的引擎能在$4汽油上运行吗？",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46424_MarketOutlook_1773400156000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -449,52 +447,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "投资者在Quanex Building Products持有32亿美元的股份，公司季度亏损4亿美元。",
+          "time": "2026-03-13 22:19:40",
+          "title": "异常无人机股盘旋在买盘区。但是，请务必留意这个分数。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/investor-opens-32-million-position-015339573.html",
-          "title_en": "Investor Opens $32 Million Position in Quanex Building Products Amid $4 Million Quarterly Loss"
+          "url": "https://www.investors.com/research/ibd-stock-analysis/umac-stock-unusual-machines-drone-maker/?src=A00220&yptr=yahoo",
+          "title_en": "'Unusual' Drone Stock Orbits Buy Zone. But Keep This Score On Your Radar."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "第一能源将在俄亥俄州和宾夕法尼亚州投资 95 亿美元升级电网",
+          "time": "2026-03-13 22:19:40",
+          "title": "Arista Networks (ANET)近期价格维持在关键水平附近，展望持续改善。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/firstenergy-invest-950-million-ohio-035641933.html",
-          "title_en": "FirstEnergy to Invest $950 Million in Ohio and Pennsylvania Grid Upgrades"
+          "url": "https://www.investors.com/stock-lists/sector-leaders/arista-networks-anet-stock-ai-data-center/?src=A00220&yptr=yahoo",
+          "title_en": "Arista Holds Near Key Level As Outlook Brightens"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "埃克森 (EXC) 股价目标上调 $3，维持“超级表现”评级",
+          "time": "2026-03-13 22:19:40",
+          "title": "你下一次RMD的最大错误",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/exelon-exc-price-target-raised-035716957.html",
-          "title_en": "Exelon (EXC) Price Target Raised by $3, ‘Outperform’ Rating Maintained"
+          "url": "https://finance.yahoo.com/news/biggest-mistake-might-next-rmd-135600114.html",
+          "title_en": "The Biggest Mistake You Might Make With Your Next RMD"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "品钻西方能源资本（PNW）价格目标上调至97美元",
+          "time": "2026-03-13 22:19:40",
+          "title": "为什么Vericel Corporation（VCEL）是一个投资的好选择？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/pinnacle-west-capital-pnw-price-035731690.html",
-          "title_en": "Pinnacle West Capital (PNW) Price Target Raised to $97"
+          "url": "https://finance.yahoo.com/news/makes-vericel-corporation-vcel-investment-134428151.html",
+          "title_en": "What Makes Vericel Corporation (VCEL) an Investment Bet?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "爱迪生国际（EIX）降至“卖出”评级",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/edison-international-eix-downgraded-sell-035803054.html",
-          "title_en": "Edison International (EIX) Downgraded to ‘Sell’"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
+          "time": "2026-03-13 22:19:40",
           "title": "市场摘要：UAA、HAS",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46421_MarketSummary_1773398733000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -503,52 +492,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "Papa John的报告称，正在考虑由卡塔尔皇室家族支持的公司1.5亿美元收购提议。",
+          "time": "2026-03-13 22:19:40",
+          "title": "AMPL股是否具有吸引人的估值？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/papa-johns-reportedly-weighs-1-015944155.html",
-          "title_en": "Papa John's reportedly weighs $1.5B buyout offer from Qatari royal family-backed firm"
+          "url": "https://finance.yahoo.com/news/amplitude-ampl-attractively-valued-stock-133404611.html",
+          "title_en": "Is Amplitude (AMPL) an Attractively Valued Stock?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "公用事业集团(PSEG)被提升至\"超越业绩\"",
+          "time": "2026-03-13 22:19:40",
+          "title": "维亚维解决方案（VIAV）是否被低估？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/public-enterprise-group-peg-upgraded-035815832.html",
-          "title_en": "Public Service Enterprise Group (PEG) Upgraded to ‘Outperform’"
+          "url": "https://finance.yahoo.com/news/viavi-solutions-viav-underappreciated-stock-132956667.html",
+          "title_en": "Is Viavi Solutions (VIAV) an Underappreciated Stock?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "AES被降级为“等权重”级别，原因是收购协议的签署。",
+          "time": "2026-03-13 22:19:40",
+          "title": "沃达丰通信（VZ）是初级投资组合中最好的安全股票之一吗？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/aes-downgraded-equal-weight-following-035842764.html",
-          "title_en": "AES Downgraded to ‘Equal Weight’ Following Takeover Agreement"
+          "url": "https://finance.yahoo.com/news/verizon-communications-inc-vz-one-064800452.html",
+          "title_en": "Is Verizon Communications Inc. (VZ) One of the Best Safe Stocks to Buy for a Starter Stock Portfolio?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "美国能源部向Southern Company发放了历史上最大的一笔贷款",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/southern-company-gets-largest-ever-035855793.html",
-          "title_en": "The Southern Company Gets the Largest Ever Loan from the US Department of Energy"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "杜克能源 (DUK) 宣布 600 亿美元普通股发行",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/duke-energy-duk-announces-6-035912175.html",
-          "title_en": "Duke Energy (DUK) Announces $6 Billion Common Stock Offering"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
+          "time": "2026-03-13 22:19:40",
           "title": "2026年3月13日威克森日常买卖名单",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46420_TopBottomInsiderActivity_1773398367000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -557,11 +528,47 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-13 21:49:22",
-          "title": "甲骨文重拾脚步 在SaaSpocalypse中重振",
+          "time": "2026-03-13 22:19:40",
+          "title": "高盛称进步保险（PGR）是有吸引力的保险投资",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/oracle-regains-footing-amid-saaspocalypse-040100623.html",
-          "title_en": "Oracle Regains Its Footing amid SaaSpocalypse"
+          "url": "https://finance.yahoo.com/news/goldman-sachs-names-progressive-corporation-064635604.html",
+          "title_en": "Goldman Sachs Names The Progressive Corporation (PGR) among Appealing Insurance Investments"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 22:19:40",
+          "title": "AT&T Inc. (T) 计划到 2030 年将光纤网络扩展到 6 亿个地点。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/t-inc-t-plans-major-064500418.html",
+          "title_en": "AT&T Inc. (T) Plans Major Fiber Expansion to 60 Million Locations by 2030"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 22:19:40",
+          "title": "埃克森美孚公司(XOM)预计2030年盈利增长13%",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/exxon-mobil-corporation-xom-targets-064320237.html",
+          "title_en": "Exxon Mobil Corporation (XOM) Targets 13% Earnings Growth Through 2030"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 22:19:40",
+          "title": "TJX公司(TJX)因市场份额扩张获得买入评级",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/tjx-companies-inc-tjx-gets-064159740.html",
+          "title_en": "The TJX Companies, Inc. (TJX) Gets Buy Rating on Market Share Expansion"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-13 22:19:40",
+          "title": "2026年3月13日维克斯高管推荐股票",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46419_InsiderActivity_1773398367000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily – Vickers Top Insider Picks for 03/13/2026"
         }
       ]
     }
