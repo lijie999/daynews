@@ -1,6 +1,6 @@
 {
   "date": "2026.03.14",
-  "generatedAtBJT": "2026-03-14 23:06:40",
+  "generatedAtBJT": "2026-03-14 23:37:07",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-14 23:06:40",
+          "time": "2026-03-14 23:37:07",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 道琼斯期货：石油价格、伊朗战争推动股市下跌；NVIDIA等股价下跌。\n- 宏观/Fed：关注 员工们并没有辞职。这里的原因是为什么这是一个问题。\n- 科技/半导体：吉姆·克拉默说他“当然会”在Advance Auto Parts等公司开设一项职位。\n- TSLA：关注 马斯克称特斯拉的超级AI芯片工厂项目将在七天内启动。",
+          "summary": "- 地缘/避险：伊朗战争带来利好美国石油地区…\n- 宏观/Fed：工人没有辞职。这种情况的原因是……\n- 科技/半导体：Micron 是最好的人工智能（AI）表现股……关键词：NVIDIA，中心，年，代理，亚马逊\n- TSLA：马斯克表示特斯拉的超级AI芯片工厂项目将在七天内启动……",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Dow Jones Futures: Oil Prices, Iran War Drive Stocks Lower; Nvid…\n- 宏观/Fed：关注 Workers aren't quitting their jobs. Here's why that's a problem …\n- 科技/半导体：Jim Cramer Says He “Certainly Would” Start a Position in Advance… 关键词: nvidia, center, agents, amazon, chip\n- TSLA：关注 Musk says Tesla’s mega AI chip fab project to launch in seven da…"
+          "summary_en": "- 地缘/避险：关注 Iran War Delivers Windfall to America’s Oil Country…\n- 宏观/Fed：关注 Workers aren't quitting their jobs. Here's why that's a problem …\n- 科技/半导体：Micron Is the Best-Performing Artificial Intelligence (AI) Stock… 关键词: nvidia, center, year, agents, amazon\n- TSLA：关注 Musk says Tesla’s mega AI chip fab project to launch in seven da…"
         }
       ]
     },
@@ -29,7 +29,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
+          "title": "迈康（Micron）是过去一年表现最佳的人工智能（AI）股，涨幅高达318%。它能否在2026年继续保持强势？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/micron-best-performing-artificial-intelligence-150500378.html",
+          "title_en": "Micron Is the Best-Performing Artificial Intelligence (AI) Stock of the Past Year -- Up 318%. Can It Keep Going in 2026?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-14 23:37:01",
           "title": "詹姆斯·克拉默表示，如果他不持有NVIDIA，他“肯定会”开始持有高级微电子公司。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/jim-cramer-says-certainly-start-144142636.html",
@@ -38,7 +47,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
           "title": "吉姆·克拉默注意到NVIDIA在Lumentum和Coherent的投资，并强调了“表现更好的”公司。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/jim-cramer-notes-nvidia-investment-144136232.html",
@@ -47,7 +56,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
           "title": "高盛：软件巨头面临“radical transformation”随着主体AI的兴起",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/goldman-software-giants-face-radical-transformation-as-agentic-ai-rises-4561462",
@@ -56,7 +65,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
           "title": "Booking、Expedia面临AI代理压力，伯恩斯坦表示。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/booking-expedia-face-margin-pressure-from-ai-agents-bernstein-says-4561446",
@@ -65,7 +74,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
           "title": "元宇宙公司Meta计划大规模裁员，原因是人工智能成本不断上升。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/exclusivemeta-planning-sweeping-layoffs-as-ai-costs-mount-4561225",
@@ -160,7 +169,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
           "title": "劳动力市场的一个问题：工人并没有辞职。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/workers-arent-quitting-their-jobs-heres-why-thats-a-problem-for-the-labor-market-150049677.html",
@@ -169,20 +178,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
           "title": "周股市简报：Nvidia的AI伍斯特克，美联储会议，四重巫女期",
           "summary": "",
           "url": "https://www.investors.com/research/investing-action-plan/stock-market-nvidia-gtc-federal-reserve-micron-technology/?src=A00220&yptr=yahoo",
           "title_en": "Stock Market Week: Nvidia's AI Woodstock, Fed Meeting, Quad Witching"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
-          "title": "今天（3月14日）房贷和再融资利率：这些利率不是“正常世界”的利率。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-march-14-2026-100000864.html",
-          "title_en": "Mortgage and refinance interest rates today, March 14, 2026: These are not 'normal world' rates"
         },
         {
           "source": "CNBC-Top",
@@ -223,7 +223,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
+          "title": "伊朗战争为美国石油地区带来丰收",
+          "summary": "",
+          "url": "https://www.wsj.com/business/energy-oil/iran-war-us-oil-industry-0e15f819?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Iran War Delivers Windfall to America’s Oil Country"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-14 23:37:01",
           "title": "道琼斯期货：石油价格、伊朗战争推动股市下跌；Nvidia GTC、Micron财报即将公布。",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-iran-war-nvidia-gtc-micron-earnings/?src=A00220&yptr=yahoo",
@@ -232,16 +241,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
-          "title": "自伊朗袭击事件开始以来，500强中15只股票表现出双位数增长",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/15-stocks-p-500-showing-150800329.html",
-          "title_en": "15 stocks in the S&P 500 showing double-digit gains since the attack on Iran began"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
           "title": "特朗普抨击银行称其“威胁和削弱”，加密货币法案陷入僵局，分析师称5000亿美元面临风险。如何准备？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/threatened-undermined-trump-blasts-banks-121900188.html",
@@ -250,7 +250,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
           "title": "伊朗战争压力下五只股票值得关注：防御IPO带头",
           "summary": "",
           "url": "https://www.investors.com/news/iran-war-stock-market-defense-ipo-karman-stocks-to-watch/?src=A00220&yptr=yahoo",
@@ -259,16 +259,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
           "title": "能源部长克里斯·怀特表示，石油价格可能会下跌，但过去的战争曾经让市场震荡几个月。如何应对？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/energy-secretary-chris-wright-says-120000628.html",
           "title_en": "Energy Secretary Chris Wright says oil prices may fall — but past wars rattled market for months. How to prepare"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-14 23:37:01",
+          "title": "自伊朗袭击事件开始以来，500强中15只股票表现出双位数增长",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/15-stocks-p-500-showing-150800329.html",
+          "title_en": "15 stocks in the S&P 500 showing double-digit gains since the attack on Iran began"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
           "title": "BP重新修订怀廷石油 refinery 合同提议，原因是工会成员拒绝了最初的提议。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/usw-members-vote-to-reject-bps-final-offer-to-whiting-refinery-workers-4560537",
@@ -277,7 +286,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
           "title": "华尔街连续三周下跌，伊朗战争影响市场情绪",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-futures-turn-higher-as-oil-prices-stay-elevated-amid-iran-conflict-4559456",
@@ -382,16 +391,6 @@
           "url": "https://www.cnbc.com/2026/03/13/iran-war-retail-prices.html",
           "title_en": "How the Iran war could start to impact U.S. retail prices",
           "summary_en": "The retail industry could soon be taking the next hit from the Iran war's disruption to the global supply chain."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-14 00:24:50",
-          "title": "特朗普表示他认为普京在帮助伊朗。",
-          "summary": "俄罗斯领导人告诉特朗普，他们不与伊朗分享情报，因为伊朗正在与美国和以色列对抗，特朗普的特别代表史蒂夫·维特科夫（Steve Witkoff）本周表示。",
-          "url": "https://www.cnbc.com/2026/03/13/trump-iran-war-putin-russia.html",
-          "title_en": "Trump says he thinks Putin is helping Iran",
-          "summary_en": "Russian leaders told President Trump they aren't sharing intelligence with Iran as it fights the U.S. and Israel, special envoy Steve Witkoff said this week."
         }
       ]
     },
@@ -402,7 +401,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
           "title": "马斯克称特斯拉的超级AI芯片工厂项目将在七天内启动",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/musk-says-teslas-gigantic-chip-fab-project-to-launch-in-seven-days-4561485",
@@ -427,16 +426,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
-          "title": "SCHD与VYM与DGRO：我为2026年跑了数字，赢家不是你期望的",
+          "time": "2026-03-14 23:37:01",
+          "title": "里普尔的稳定币可能会损害XRP价格",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/schd-vs-vym-vs-dgro-145407227.html",
-          "title_en": "SCHD vs. VYM vs. DGRO: I Ran the Numbers for 2026. The Winner Isn’t Who You’d Expect"
+          "url": "https://finance.yahoo.com/news/xrp-vs-rlusd-ripples-own-151100660.html",
+          "title_en": "XRP vs. RLUSD: How Ripple's Own Stablecoin Could Hurt XRP's Price"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
           "title": "吉姆·克拉默说食品公司需要进行整合，克拉夫特海因茨CEO史蒂夫·卡希兰应该是进行整合的人。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/jim-cramer-says-food-companies-144156018.html",
@@ -445,25 +444,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
-          "title": "吉姆·克拉默谈到General Mills： “管理层似乎没有意识到该股已经变成一个非常不理想的情况。”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-general-mills-management-144153930.html",
-          "title_en": "Jim Cramer on General Mills: “Management Doesn’t Seem to Recognize That the Stock’s Turned Into a Very Suboptimal Situation”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
-          "title": "吉姆·克拉默称美国锑业公司（United States Antimony Corporation）的股票为“有趣的”。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-calls-united-states-144148589.html",
-          "title_en": "Jim Cramer Calls United States Antimony Corporation Stock an “Interesting One”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
           "title": "吉姆·克拉默称康乃尔食品“是一个噩梦的股票”。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/jim-cramer-says-conagra-nightmare-144154702.html",
@@ -472,25 +453,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
-          "title": "在2026年，iShares Core高股息指数基金是否应该买入、卖出或持有？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/ishares-core-high-dividend-etf-145000291.html",
-          "title_en": "Is the iShares Core High Dividend ETF a Buy, Sell, or Hold in 2026?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
-          "title": "吉姆·克雷默建议在Nordic American Tankers股票中玩别人的钱。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-suggests-playing-house-144147014.html",
-          "title_en": "Jim Cramer Suggests Playing With The House’s Money in Nordic American Tankers Stock"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
           "title": "吉姆·克雷默（Jim Cramer）对康乃尔食品最近的季度表示：“我在好几年里都没见过这么糟糕的季度，几乎所有指标都很糟糕。”",
           "summary": "",
           "url": "https://finance.yahoo.com/news/jim-cramer-campbell-recent-quarter-144151071.html",
@@ -499,7 +462,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
+          "title": "吉姆·克拉默谈到General Mills： “管理层似乎没有意识到该股已经变成一个非常不理想的情况。”",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jim-cramer-general-mills-management-144153930.html",
+          "title_en": "Jim Cramer on General Mills: “Management Doesn’t Seem to Recognize That the Stock’s Turned Into a Very Suboptimal Situation”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-14 23:37:01",
+          "title": "吉姆·克雷默建议在Nordic American Tankers股票中玩别人的钱。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jim-cramer-suggests-playing-house-144147014.html",
+          "title_en": "Jim Cramer Suggests Playing With The House’s Money in Nordic American Tankers Stock"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-14 23:37:01",
           "title": "吉姆·克拉默谈到B&G食品：我认为它不值得投资。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/jim-cramer-b-g-foods-144150724.html",
@@ -508,16 +489,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
-          "title": "吉姆·克拉默谈到能源转移： “在这种环境下，这样的股票是你想要持有的。”",
+          "time": "2026-03-14 23:37:01",
+          "title": "吉姆·克拉默称美国锑业公司（United States Antimony Corporation）的股票为“有趣的”。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-energy-transfer-kind-144144679.html",
-          "title_en": "Jim Cramer on Energy Transfer: “That Is the Kind of Stock That You Want to Own in This Environment”"
+          "url": "https://finance.yahoo.com/news/jim-cramer-calls-united-states-144148589.html",
+          "title_en": "Jim Cramer Calls United States Antimony Corporation Stock an “Interesting One”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
           "title": "吉姆·克拉默说：“我确实想持有伊顿公司”",
           "summary": "",
           "url": "https://finance.yahoo.com/news/jim-cramer-says-want-own-144145958.html",
@@ -526,16 +507,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
-          "title": "詹姆斯·克拉默建议伯克希尔·哈撒韦和钛合金保险优于进步保险公司。",
+          "time": "2026-03-14 23:37:01",
+          "title": "吉姆·克拉默谈到能源转移： “在这种环境下，这样的股票是你想要持有的。”",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jim-cramer-suggests-berkshire-hathaway-144139879.html",
-          "title_en": "Jim Cramer Suggests Berkshire Hathaway and Chubb Over The Progressive Corporation"
+          "url": "https://finance.yahoo.com/news/jim-cramer-energy-transfer-kind-144144679.html",
+          "title_en": "Jim Cramer on Energy Transfer: “That Is the Kind of Stock That You Want to Own in This Environment”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
           "title": "吉姆·克拉默表示他会“坚持”美国银行。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/jim-cramer-says-stick-bank-144141699.html",
@@ -544,7 +525,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
+          "title": "SCHD与VYM与DGRO：我为2026年跑了数字，赢家不是你期望的",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/schd-vs-vym-vs-dgro-145407227.html",
+          "title_en": "SCHD vs. VYM vs. DGRO: I Ran the Numbers for 2026. The Winner Isn’t Who You’d Expect"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-14 23:37:01",
+          "title": "詹姆斯·克拉默建议伯克希尔·哈撒韦和钛合金保险优于进步保险公司。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jim-cramer-suggests-berkshire-hathaway-144139879.html",
+          "title_en": "Jim Cramer Suggests Berkshire Hathaway and Chubb Over The Progressive Corporation"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-14 23:37:01",
           "title": "詹姆斯·克拉默谈到百事可乐：“我不想你卖出”",
           "summary": "",
           "url": "https://finance.yahoo.com/news/jim-cramer-pepsico-don-t-144138553.html",
@@ -553,16 +552,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
-          "title": "如果你有1000美元，想投资于增长股，那么现在就买入NVIDIA（NVDA）可能是一个不错的选择。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/ultimate-growth-stock-buy-1-144100732.html",
-          "title_en": "The Ultimate Growth Stock to Buy With $1,000 Right Now"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
           "title": "中东冲突延长可能拖累美国消费者支出",
           "summary": "",
           "url": "https://finance.yahoo.com/news/how-a-drawn-out-middle-east-war-could-drag-on-us-consumer-spending-133052142.html",
@@ -571,7 +561,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
+          "time": "2026-03-14 23:37:01",
+          "title": "一项研究显示，退休者在领取社会保障金时犯的一个错误，可能会在退休生涯中损失10万美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/one-social-security-filing-mistake-145129613.html",
+          "title_en": "The One Social Security Filing Mistake That Costs Retirees $100,000 Over a Lifetime"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-14 23:37:01",
           "title": "越来越多的工人选择逐步退休——雇主也开始提供帮助",
           "summary": "",
           "url": "https://finance.yahoo.com/news/more-workers-are-taking-a-phased-approach-to-retirement--and-employers-are-starting-to-help-100007087.html",
@@ -580,11 +579,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-14 23:06:36",
-          "title": "喷气燃料价格正在上涨。这可能会使夏季航班更为昂贵。",
+          "time": "2026-03-14 23:37:01",
+          "title": "在2026年，iShares Core高股息指数基金是否应该买入、卖出或持有？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jet-fuel-prices-rising-could-040218339.html",
-          "title_en": "Jet fuel prices are rising. That could make summer flights more expensive"
+          "url": "https://finance.yahoo.com/news/ishares-core-high-dividend-etf-145000291.html",
+          "title_en": "Is the iShares Core High Dividend ETF a Buy, Sell, or Hold in 2026?"
         }
       ]
     }
