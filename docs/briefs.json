@@ -1,6 +1,6 @@
 {
   "date": "2026.03.15",
-  "generatedAtBJT": "2026-03-15 14:44:15",
+  "generatedAtBJT": "2026-03-15 15:14:32",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-15 14:44:15",
+          "time": "2026-03-15 15:14:32",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注伊朗冲突持续第三天，哪些股票受影响。\n- 宏观/Fed：关注Digg裁员，面对AI机器人洪流。\n- 科技/半导体：BrightSpring Health Services推动AI效率，专项…关键词：代理，芯片，面对，NVIDIA，agentic\n- TSLA：关注马斯克表示特斯拉的超级AI芯片工厂项目将在七天内启动。",
+          "summary": "- 地缘/避险：关注Murphy Oil（MUR）冲击52周高点，21%目标价，相关机构评级…",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 What stocks are moving as Iran conflict continues into its third…\n- 宏观/Fed：关注 Digg cuts jobs after facing AI bot surge…\n- 科技/半导体：BrightSpring Health Services Maps AI Efficiency Push, Specialty … 关键词: agents, chip, face, nvidia, agentic\n- TSLA：关注 Musk says Tesla’s mega AI chip fab project to launch in seven da…"
+          "summary_en": "- 地缘/避险：关注 Murphy Oil (MUR) Soars to 52-Week High on 21% Price Target, Rati…\n- 宏观/Fed：关注 Digg cuts jobs after facing AI bot surge…\n- 科技/半导体：Broad Technology Exposure or the Semiconductor Industry Powering… 关键词: agents, billion, face, agentic, amazon\n- TSLA：关注 Musk says Tesla’s mega AI chip fab project to launch in seven da…"
         }
       ]
     },
@@ -29,7 +29,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
+          "time": "2026-03-15 15:14:26",
+          "title": "VGT与SOXX的区别在于，前者主要投资于科技领域，而后者则专注于半导体行业。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/broad-technology-exposure-semiconductor-industry-225000227.html",
+          "title_en": "Broad Technology Exposure or the Semiconductor Industry Powering AI? VGT vs. SOXX"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 15:14:26",
           "title": "BrightSpring Health Services 在会议上制定了 AI 效率推进和专业药房增长的蓝图。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/brightspring-health-services-maps-ai-224837906.html",
@@ -38,16 +47,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
-          "title": "VGT与SOXX的区别在于，前者主要投资于科技领域，而后者则专注于半导体行业。",
+          "time": "2026-03-15 15:14:26",
+          "title": "亿万富翁刚刚以近200亿美元的价格投资了这个出色的AI项目。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/broad-technology-exposure-semiconductor-industry-225000227.html",
-          "title_en": "Broad Technology Exposure or the Semiconductor Industry Powering AI? VGT vs. SOXX"
+          "url": "https://finance.yahoo.com/news/1-billionaire-just-bought-nearly-231500307.html",
+          "title_en": "1 Billionaire Just Bought Nearly $2 Billion of This Brilliant AI Investment"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
+          "time": "2026-03-15 15:14:26",
           "title": "高盛：软件巨头面临“radical transformation”随着主体AI的兴起",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/goldman-software-giants-face-radical-transformation-as-agentic-ai-rises-4561462",
@@ -56,7 +65,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
+          "time": "2026-03-15 15:14:26",
           "title": "Booking、Expedia面临AI代理压力，伯恩斯坦表示。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/booking-expedia-face-margin-pressure-from-ai-agents-bernstein-says-4561446",
@@ -65,7 +74,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
+          "time": "2026-03-15 15:14:26",
           "title": "元宇宙公司Meta计划大规模裁员，原因是人工智能成本不断上升。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/exclusivemeta-planning-sweeping-layoffs-as-ai-costs-mount-4561225",
@@ -100,16 +109,6 @@
           "url": "https://www.cnbc.com/2026/03/13/software-ai-agents-college-graduate-unemployment.html",
           "title_en": "AI agents could easily send college grad unemployment over 30%, ServiceNow CEO says",
           "summary_en": "Technology companies, including Block and Atlassian, have already cut jobs this year due to AI adoption."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-14 03:00:52",
-          "title": "Nvidia的GTC将标志着AI芯片的转变。CPU正在成为焦点。",
-          "summary": "NVIDIA和AMD正在经历巨大的CPU需求，Jensen Huang即将在GTC会议上公布专为主动AI设计的处理器详细信息。",
-          "url": "https://www.cnbc.com/2026/03/13/nvidia-gtc-ai-jensen-huang-cpu-gpu.html",
-          "title_en": "Nvidia's GTC will mark an AI chip pivot. Here's why the CPU is taking center stage",
-          "summary_en": "Nvidia and AMD are seeing huge demand for CPUs and Jensen Huang is poised to unveil details for processors specialized for agentic AI at the GTC conference."
         }
       ]
     },
@@ -120,7 +119,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
+          "time": "2026-03-15 15:14:26",
           "title": "Digg裁员应对AI机器人洪峰",
           "summary": "",
           "url": "https://finance.yahoo.com/news/digg-cuts-jobs-facing-ai-225253683.html",
@@ -155,7 +154,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
+          "time": "2026-03-15 15:14:26",
+          "title": "Murphy石油 (MUR) 突破52周高点，21%目标价格，评级上调",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/murphy-oil-mur-soars-52-021128417.html",
+          "title_en": "Murphy Oil (MUR) Soars to 52-Week High on 21% Price Target, Rating Upgrade"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 15:14:26",
           "title": "伊朗冲突持续三个星期，哪些股票在波动？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/stocks-moving-iran-conflict-continues-224353024.html",
@@ -164,20 +172,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
-          "title": "罗伯特·基奥萨基称印度的雷利亚公司可能是特朗普对委内瑞拉石油战略的关键：\"这不是巧合\"",
+          "time": "2026-03-15 15:14:26",
+          "title": "戴姆وند贝克能源在伊朗战争期间大幅上涨。公司高管通过股票出售赚取了数百万美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/robert-kiyosaki-says-indias-reliance-223018220.html",
-          "title_en": "Robert Kiyosaki Says India's Reliance Could Be Key To Trump's Venezuela Oil Strategy: 'Not A Coincidence'"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
-          "title": "Murphy石油 (MUR) 突破52周高点，21%目标价格，评级上调",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/murphy-oil-mur-soars-52-021128417.html",
-          "title_en": "Murphy Oil (MUR) Soars to 52-Week High on 21% Price Target, Rating Upgrade"
+          "url": "https://www.barrons.com/articles/diamondback-energy-stock-price-sale-d1b5400b?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Diamondback Energy Has Soared During the Iran War. Execs Made Millions on Stock Sales."
         },
         {
           "source": "CNBC-World",
@@ -278,16 +277,6 @@
           "url": "https://www.cnbc.com/2026/03/14/iran-war-iea-oil-stockpile-spr-strait-hormuz.html",
           "title_en": "The biggest release of emergency oil stockpiles in history was announced. Why crude may keep rising",
           "summary_en": "Oil prices have surged more than 17% since the International Energy Agency announced the largest release of crude stockpiles in its 50-year history."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-14 03:04:07",
-          "title": "石油价格第二天再次突破100美元，市场对美国采取的措施降低价格在伊朗战争期间的影响视而不见。",
-          "summary": "交易者继续关注中东局势。昨晚，特朗普暗示冲突的结束并不迫在眉睫。",
-          "url": "https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html",
-          "title_en": "Oil closes above $100 for second day as market shrugs off U.S. measures to reduce prices during Iran war",
-          "summary_en": "Traders are continuing to monitor developments in the Middle East. Overnight, Trump hinted that an end to the conflict was not imminent."
         }
       ]
     },
@@ -298,7 +287,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
+          "time": "2026-03-15 15:14:26",
           "title": "马斯克称特斯拉的超级AI芯片工厂项目将在七天内启动",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/musk-says-teslas-gigantic-chip-fab-project-to-launch-in-seven-days-4561485",
@@ -313,7 +302,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
+          "time": "2026-03-15 15:14:26",
           "title": "沃尔玛与科斯科斯：哪家是2026年的更好的股息股票？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/walmart-v-costco-better-dividend-230002945.html",
@@ -322,97 +311,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
-          "title": "特朗普政府将收到10亿美元的佣金，作为中介TikTok交易的报酬，据WSJ报道。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/trump-administration-set-receive-10-220832252.html",
-          "title_en": "Trump administration set to receive $10 billion fee for brokering TikTok deal, WSJ reports"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
-          "title": "美国汽车业团体敦促特朗普政府继续阻止中国汽车进入美国。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/auto-industry-groups-urge-trump-213803217.html",
-          "title_en": "Auto industry groups urge Trump to keep Chinese autos out of US"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
-          "title": "豆类价格周末趋于放松",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/soybeans-ease-lower-weekend-220037354.html",
-          "title_en": "Soybeans Ease Lower into the Weekend"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
-          "title": "棉花周五反弹",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/cotton-posts-friday-rally-220037471.html",
-          "title_en": "Cotton Posts Friday Rally"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
-          "title": "玉米周五收盘上涨，CFTC数据显示投机性买方大量涌入。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/corn-closes-higher-friday-cftc-220037748.html",
-          "title_en": "Corn Closes Higher on Friday as CFTC Data Shows Spec Longs Flooding In"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
-          "title": "卡瓦纳股价是否在新股价分割公告发布后买入？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/carvana-stock-buy-stock-split-215926212.html",
-          "title_en": "Is Carvana Stock a Buy on New Stock Split Announcement?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
-          "title": "布罗德里奇财务解决方案股票：BR是否低于技术行业表现？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/broadridge-financial-solutions-stock-br-000548650.html",
-          "title_en": "Broadridge Financial Solutions Stock: Is BR Underperforming the Technology Sector?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
-          "title": "微星股价大幅上涨，177%的增长率让其保持强势，等待季度报告公布。",
-          "summary": "",
-          "url": "https://www.investors.com/research/earnings-preview/micron-stock-major-bull-run-holds-strong-quarterly-earnings/?src=A00220&yptr=yahoo",
-          "title_en": "Micron Stock, In Major Bull Run With 177% Growth Rate, Holds Strong Ahead Of Quarterly Results"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
-          "title": "Palantir Technologies (PLTR) 正式成为体育投注股票。那么，PLTR 在当前是否是买入的机会？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/palantir-now-sports-betting-stock-215511980.html",
-          "title_en": "Palantir Is Now a Sports Betting Stock. Does That Make PLTR a Buy Here?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
-          "title": "联邦政府刚刚决定恢复运营商模式 – 这里是实际发生了什么，什么没有改变，以及你仍然需要关注的内容。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/federal-government-just-moved-restore-004841599.html",
-          "title_en": "The Federal Government Just Moved to Restore the Owner-Operator Model – Here Is What Actually Changed, What Did Not, and What You Still Need to Watch"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
+          "time": "2026-03-15 15:14:26",
           "title": "甲骨文股价大涨，基于强劲预期。是时候买入该股了吗？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/oracle-shares-jump-strong-outlook-225900319.html",
@@ -421,7 +320,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
+          "time": "2026-03-15 15:14:26",
           "title": "Lazard (LAZ) 更新二月份AUM为277.7亿美元，受流入和Edgewater股份出售影响。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/lazard-laz-updates-february-aum-020356333.html",
@@ -430,7 +329,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
+          "time": "2026-03-15 15:14:26",
           "title": "森诺公司（SON）宣布北美地区回收纸板价格上涨至每吨 70 美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/sonoco-son-announces-70-per-020924423.html",
@@ -439,16 +338,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
-          "title": "PayPay (PAYP) 突破16%高于双上市目标",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/paypay-payp-rockets-16-higher-021029607.html",
-          "title_en": "PayPay (PAYP) Rockets 16% Higher on Dual Listing Ambitions"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
+          "time": "2026-03-15 15:14:26",
           "title": "克拉拉（KLAR）上涨8.8%，CEO增持一千万美元",
           "summary": "",
           "url": "https://finance.yahoo.com/news/klarna-klar-climbs-8-8-021036768.html",
@@ -457,20 +347,119 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
-          "title": "Unusual Machines (UM) 股票本周大幅上涨。",
+          "time": "2026-03-15 15:14:26",
+          "title": "PayPay (PAYP) 突破16%高于双上市目标",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/why-unusual-machines-stock-soared-223112337.html",
-          "title_en": "Why Unusual Machines Stock Soared This Week"
+          "url": "https://finance.yahoo.com/news/paypay-payp-rockets-16-higher-021029607.html",
+          "title_en": "PayPay (PAYP) Rockets 16% Higher on Dual Listing Ambitions"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 14:44:11",
+          "time": "2026-03-15 15:14:26",
           "title": "加密货币交易平台Galaxy Digital (GLXY) 股价大涨8.3%，这主要是因为美国市场的转变，而不是加拿大退市的原因。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/galaxy-digital-glxy-soars-8-021046874.html",
           "title_en": "Galaxy Digital (GLXY) Soars 8.3% on US Shift Ahead of Canada Delisting"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 15:14:26",
+          "title": "Ares管理公司（ARES）股价上涨5.45%，预计将分发两笔股息。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/ares-management-ares-jumps-5-021142686.html",
+          "title_en": "Ares Management (ARES) Jumps 5.45% Ahead of 2 Dividends"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 15:14:26",
+          "title": "MARA控股（MARA）上涨6.4%，比特币强势回归",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/mara-holdings-mara-climbs-6-021120482.html",
+          "title_en": "MARA Holdings (MARA) Climbs 6.4% as Bitcoin Comes Back Strong"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 15:14:26",
+          "title": "索斯洛(Sasol,SSL)创下两年新高，JPMorgan转为看多，提高目标价超过100%",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/sasol-ssl-hits-2-high-021113534.html",
+          "title_en": "Sasol (SSL) Hits 2-Year High as JPMorgan Turns Bullish, Ups Price Target by Over 100%"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 15:14:26",
+          "title": "NIO Inc.(NIO) 上涨5.6%，因价格目标提高42%，评级提升。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/nio-inc-nio-rallies-5-021135628.html",
+          "title_en": "NIO Inc. (NIO) Rallies 5.6% on 42% Price Target, Rating Hike"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 15:14:26",
+          "title": "T. Rowe价格报告2月份AUM达到1.80万亿美元，推出新兴市场研究ETF。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/t-rowe-trow-price-reports-021153903.html",
+          "title_en": "T. Rowe (TROW) Price Reports $1.80T in AUM for February, Launches Emerging Markets Research ETF"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 15:14:26",
+          "title": "SanDisk (SNDK) 突破6.9%，投资者趁灾取利",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/sandisk-sndk-surges-6-9-021104735.html",
+          "title_en": "Sandisk (SNDK) Surges 6.9% as Investors Take Advantage of Bloodbath"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 15:14:26",
+          "title": "巴克莱调整林肯国家保险（LNC）股价目标，同时重新评估寿险公司的风险",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/barclays-adjusts-lincoln-national-lnc-021425565.html",
+          "title_en": "Barclays Adjusts Lincoln National (LNC) Price Target while Reassessing Risk in Life Insurers"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 15:14:26",
+          "title": "派伯桑德勒（Piper Sandler）认为康乃尔食品（Campbell's）销售面临压力，降低了目标价至28美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/piper-sandler-sees-pressure-campbell-021748904.html",
+          "title_en": "Piper Sandler Sees Pressure on Campbell’s (CPB) Sales, Lowers Price Target to $28"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 15:14:26",
+          "title": "FirstEnergy (FE) 价格目标由BofA上调，基于同业多重扩张",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/firstenergy-fe-price-target-increased-021943969.html",
+          "title_en": "FirstEnergy (FE) Price Target Increased by BofA on Peer Multiple Expansion"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 15:14:26",
+          "title": "巴克莱更新人寿保险覆盖范围，降低普利茅斯金融目标",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/barclays-updates-life-insurance-coverage-022217558.html",
+          "title_en": "Barclays Updates Life Insurance Coverage, Lowers Prudential Financial (PRU) Target"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 15:14:26",
+          "title": "Evercore更新了Janus Henderson (JHG)估值后评估",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/evercore-updates-janus-henderson-jhg-022435763.html",
+          "title_en": "Evercore Updates Janus Henderson (JHG) Valuation After Reviewing February Flows"
         }
       ]
     }
