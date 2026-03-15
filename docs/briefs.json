@@ -1,6 +1,6 @@
 {
   "date": "2026.03.15",
-  "generatedAtBJT": "2026-03-15 13:43:51",
+  "generatedAtBJT": "2026-03-15 14:14:05",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-15 13:43:51",
+          "time": "2026-03-15 14:14:05",
           "title": "主线结论（自动生成）",
-          "summary": "地缘/避险：关注道指、标普500、纳斯达克三周连跌。\n\n宏观/Fed：Digg裁员，面对AI机器人潮。\n\n科技/半导体：高盛：软件巨头面临“根本变革”，代理人（agents）将改变芯片（chip）行业，影响NVIDIA等公司。\n\nTSLA：关注特斯拉中国国产电动车销量近乎翻倍，是否投资？",
+          "summary": "- 地缘/避险：关注 道指、标普500和纳斯达克指数周三下跌，结束了第三个下跌周。\n- 宏观/Fed：关注 美联储无法解决经济四大问题。\n- 科技/半导体：广泛的技术多元化与高利润的半导体暴露：NVIDIA（NVDA）和其他芯片公司面临的挑战。\n- TSLA：关注 特斯拉中国制造的电动汽车销售近乎翻倍。是否应该购买？",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq slide to cap 3rd week o…\n- 宏观/Fed：关注 Digg cuts jobs after facing AI bot surge…\n- 科技/半导体：Goldman: Software giants face ‘radical transformation’ as agenti… 关键词: agents, chip, face, nvidia, agentic\n- TSLA：关注 Tesla’s China-Made EV Sales Just Nearly Doubled. Should You Buy …"
+          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq slide to cap 3rd week o…\n- 宏观/Fed：关注 The Economy Has 4 Problems. The Fed Can’t Fix Them.…\n- 科技/半导体：Broad Tech Diversification vs. Lucrative Semiconductor Exposure:… 关键词: agents, chip, face, nvidia, agentic\n- TSLA：关注 Tesla’s China-Made EV Sales Just Nearly Doubled. Should You Buy …"
         }
       ]
     },
@@ -27,9 +27,18 @@
       "badge": "Mag7 / Semis",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 14:14:00",
+          "title": "广泛的科技多元化与高利润半导体暴露：IWY还是SOXX哪个ETF现在更强大？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/broad-tech-diversification-vs-lucrative-222109237.html",
+          "title_en": "Broad Tech Diversification vs. Lucrative Semiconductor Exposure: Is IYW or SOXX the Stronger ETF Right Now?"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
+          "time": "2026-03-15 14:14:00",
           "title": "高盛：软件巨头面临“radical transformation”随着主体AI的兴起",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/goldman-software-giants-face-radical-transformation-as-agentic-ai-rises-4561462",
@@ -38,7 +47,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
+          "time": "2026-03-15 14:14:00",
           "title": "Booking、Expedia面临AI代理压力，伯恩斯坦表示。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/booking-expedia-face-margin-pressure-from-ai-agents-bernstein-says-4561446",
@@ -47,7 +56,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
+          "time": "2026-03-15 14:14:00",
           "title": "元宇宙公司Meta计划大规模裁员，原因是人工智能成本不断上升。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/exclusivemeta-planning-sweeping-layoffs-as-ai-costs-mount-4561225",
@@ -102,16 +111,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
-          "title": "Digg裁员应对AI机器人洪峰",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/digg-cuts-jobs-facing-ai-225253683.html",
-          "title_en": "Digg cuts jobs after facing AI bot surge"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
+          "time": "2026-03-15 14:14:00",
           "title": "经济有四个问题，美联储无法解决。",
           "summary": "",
           "url": "https://www.barrons.com/articles/inflation-job-market-gdp-us-economy-oil-3a5bc1f9?siteid=yhoof2&yptr=yahoo",
@@ -120,7 +120,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
+          "time": "2026-03-15 14:14:00",
           "title": "豪华零售巨头因破产申请裁员超过1,200人",
           "summary": "",
           "url": "https://finance.yahoo.com/news/luxury-retail-giant-cuts-more-221700174.html",
@@ -129,7 +129,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
+          "time": "2026-03-15 14:14:00",
+          "title": "Digg裁员应对AI机器人洪峰",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/digg-cuts-jobs-facing-ai-225253683.html",
+          "title_en": "Digg cuts jobs after facing AI bot surge"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 14:14:00",
           "title": "今天（3月14日）房贷和再融资利率：这些利率不是“正常世界”的利率。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-march-14-2026-100000864.html",
@@ -138,7 +147,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
+          "time": "2026-03-15 14:14:00",
           "title": "本周六，3月14日，2026年：下降的利率提高了可负担性",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-march-14-2026-100000675.html",
@@ -147,11 +156,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
-          "title": "截至2026年3月13日，最佳现金市场账户利率（最高4.01%年利率回报）",
+          "time": "2026-03-15 14:14:00",
+          "title": "截至2026年3月14日，最佳高收益储蓄利率（最高可达4%APY）",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-friday-march-13-2026-100031434.html",
-          "title_en": "Best money market account rates today, March 13, 2026 (up to 4.01% APY return)"
+          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-saturday-march-14-2026-173612474.html",
+          "title_en": "Best high-yield savings interest rates today, March 14, 2026 (Earn up to 4% APY)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 14:14:00",
+          "title": "截至2026年3月14日，最佳储蓄利率（最高4%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-march-14-2026-174632541.html",
+          "title_en": "Best CD rates today, March 14, 2026 (best account provides 4% APY)"
         },
         {
           "source": "CNBC-Top",
@@ -182,7 +200,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
+          "time": "2026-03-15 14:14:00",
           "title": "股市今日：道指、标普500指数、纳斯达克指数下跌，结束了连续第三周的跌势，$100的油价引发了通胀恐惧。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-to-cap-3rd-week-of-losses-as-100-oil-sparks-inflation-fears-200021158.html",
@@ -191,7 +209,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
+          "time": "2026-03-15 14:14:00",
           "title": "德克萨斯石油带如何成为美国下一个锂矿前沿",
           "summary": "",
           "url": "https://finance.yahoo.com/news/texas-oil-belt-became-americas-210000945.html",
@@ -200,16 +218,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
-          "title": "伊朗战争拖累股市下跌",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/iran-war-drags-stocks-lower-204546207.html",
-          "title_en": "Iran War Drags Stocks Lower"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
+          "time": "2026-03-15 14:14:00",
           "title": "石油价格正在攀升，这意味着今年这个ETF可能会成为热门买入对象。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/oil-prices-climbing-means-etf-222000316.html",
@@ -324,16 +333,6 @@
           "url": "https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html",
           "title_en": "Oil closes above $100 for second day as market shrugs off U.S. measures to reduce prices during Iran war",
           "summary_en": "Traders are continuing to monitor developments in the Middle East. Overnight, Trump hinted that an end to the conflict was not imminent."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-14 01:44:54",
-          "title": "特朗普无法通过“钻井，宝宝，钻井”来摆脱伊朗引发的石油危机：专家",
-          "summary": "石油价格在自从美国总统唐纳德·特朗普对伊朗开战以来大幅上涨。",
-          "url": "https://www.cnbc.com/2026/03/13/iran-war-oil-trump-drilling.html",
-          "title_en": "Trump can't 'drill, baby, drill' his way out of this Iran-inspired oil crisis: Experts",
-          "summary_en": "Oil prices have skyrocketed in the days since President Donald Trump's war on Iran began."
         }
       ]
     },
@@ -344,7 +343,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
+          "time": "2026-03-15 14:14:00",
           "title": "特斯拉中国制造的电动汽车销售近乎翻倍。您现在是否应该购买TSLA股票，期望汽车业务复苏？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/tesla-china-made-ev-sales-211933942.html",
@@ -353,7 +352,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
+          "time": "2026-03-15 14:14:00",
           "title": "马斯克称特斯拉的超级AI芯片工厂项目将在七天内启动",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/musk-says-teslas-gigantic-chip-fab-project-to-launch-in-seven-days-4561485",
@@ -368,97 +367,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
-          "title": "华纳兄弟传奇即将结束？内部人士出售价值200亿美元的股份",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/warner-bros-saga-near-end-220900121.html",
-          "title_en": "Is the Warner Bros. Saga Near Its End? Insiders Sell +$200M in Shares"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
-          "title": "特朗普政府将收到10亿美元的佣金，作为中介TikTok交易的报酬，据WSJ报道。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/trump-administration-set-receive-10-220832252.html",
-          "title_en": "Trump administration set to receive $10 billion fee for brokering TikTok deal, WSJ reports"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
-          "title": "美国汽车业团体敦促特朗普政府继续阻止中国汽车进入美国。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/auto-industry-groups-urge-trump-213803217.html",
-          "title_en": "Auto industry groups urge Trump to keep Chinese autos out of US"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
-          "title": "玉米周五收盘上涨，CFTC数据显示投机性买方大量涌入。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/corn-closes-higher-friday-cftc-220037748.html",
-          "title_en": "Corn Closes Higher on Friday as CFTC Data Shows Spec Longs Flooding In"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
-          "title": "豆类价格周末趋于放松",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/soybeans-ease-lower-weekend-220037354.html",
-          "title_en": "Soybeans Ease Lower into the Weekend"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
-          "title": "伯克希尔的Greg Abel向投资者发送了一个强大的新信号",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/greg-abel-sends-berkshire-investors-220700006.html",
-          "title_en": "Greg Abel sends Berkshire investors a powerful new signal"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
-          "title": "棉花周五反弹",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/cotton-posts-friday-rally-220037471.html",
-          "title_en": "Cotton Posts Friday Rally"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
-          "title": "卡瓦纳股价是否在新股价分割公告发布后买入？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/carvana-stock-buy-stock-split-215926212.html",
-          "title_en": "Is Carvana Stock a Buy on New Stock Split Announcement?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
-          "title": "微星股价大幅上涨，177%的增长率让其保持强势，等待季度报告公布。",
-          "summary": "",
-          "url": "https://www.investors.com/research/earnings-preview/micron-stock-major-bull-run-holds-strong-quarterly-earnings/?src=A00220&yptr=yahoo",
-          "title_en": "Micron Stock, In Major Bull Run With 177% Growth Rate, Holds Strong Ahead Of Quarterly Results"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
-          "title": "Palantir Technologies (PLTR) 正式成为体育投注股票。那么，PLTR 在当前是否是买入的机会？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/palantir-now-sports-betting-stock-215511980.html",
-          "title_en": "Palantir Is Now a Sports Betting Stock. Does That Make PLTR a Buy Here?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
+          "time": "2026-03-15 14:14:00",
           "title": "在当前情况下，这个ETF是投资S&P 500的最佳方式吗？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/etf-best-way-invest-p-221300100.html",
@@ -467,16 +376,79 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
-          "title": "安泰利公司股价是否超越道琼斯指数。",
+          "time": "2026-03-15 14:14:00",
+          "title": "特朗普政府将收到10亿美元的佣金，作为中介TikTok交易的报酬，据WSJ报道。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/entergy-stock-outperforming-dow-212746593.html",
-          "title_en": "Is Entergy Stock Outperforming the Dow?"
+          "url": "https://finance.yahoo.com/news/trump-administration-set-receive-10-220832252.html",
+          "title_en": "Trump administration set to receive $10 billion fee for brokering TikTok deal, WSJ reports"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
+          "time": "2026-03-15 14:14:00",
+          "title": "美国汽车业团体敦促特朗普政府继续阻止中国汽车进入美国。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/auto-industry-groups-urge-trump-213803217.html",
+          "title_en": "Auto industry groups urge Trump to keep Chinese autos out of US"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 14:14:00",
+          "title": "棉花周五反弹",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/cotton-posts-friday-rally-220037471.html",
+          "title_en": "Cotton Posts Friday Rally"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 14:14:00",
+          "title": "豆类价格周末趋于放松",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/soybeans-ease-lower-weekend-220037354.html",
+          "title_en": "Soybeans Ease Lower into the Weekend"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 14:14:00",
+          "title": "玉米周五收盘上涨，CFTC数据显示投机性买方大量涌入。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/corn-closes-higher-friday-cftc-220037748.html",
+          "title_en": "Corn Closes Higher on Friday as CFTC Data Shows Spec Longs Flooding In"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 14:14:00",
+          "title": "卡瓦纳股价是否在新股价分割公告发布后买入？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/carvana-stock-buy-stock-split-215926212.html",
+          "title_en": "Is Carvana Stock a Buy on New Stock Split Announcement?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 14:14:00",
+          "title": "微星股价大幅上涨，177%的增长率让其保持强势，等待季度报告公布。",
+          "summary": "",
+          "url": "https://www.investors.com/research/earnings-preview/micron-stock-major-bull-run-holds-strong-quarterly-earnings/?src=A00220&yptr=yahoo",
+          "title_en": "Micron Stock, In Major Bull Run With 177% Growth Rate, Holds Strong Ahead Of Quarterly Results"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 14:14:00",
+          "title": "Palantir Technologies (PLTR) 正式成为体育投注股票。那么，PLTR 在当前是否是买入的机会？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/palantir-now-sports-betting-stock-215511980.html",
+          "title_en": "Palantir Is Now a Sports Betting Stock. Does That Make PLTR a Buy Here?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 14:14:00",
           "title": "沃尔玛与科斯科斯：哪家是2026年的更好的股息股票？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/walmart-v-costco-better-dividend-230002945.html",
@@ -485,7 +457,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
+          "time": "2026-03-15 14:14:00",
+          "title": "安泰利公司股价是否超越道琼斯指数。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/entergy-stock-outperforming-dow-212746593.html",
+          "title_en": "Is Entergy Stock Outperforming the Dow?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 14:14:00",
           "title": "股市今日：纳斯达克指数跌破关键水平，战争加剧波动，Adobe大幅下跌（实时报道）",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-inflation-data/?src=A00220&yptr=yahoo",
@@ -494,7 +475,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
+          "time": "2026-03-15 14:14:00",
+          "title": "华纳兄弟传奇即将结束？内部人士出售价值200亿美元的股份",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/warner-bros-saga-near-end-220900121.html",
+          "title_en": "Is the Warner Bros. Saga Near Its End? Insiders Sell +$200M in Shares"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 14:14:00",
+          "title": "布罗德里奇财务解决方案股票：BR是否低于技术行业表现？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/broadridge-financial-solutions-stock-br-000548650.html",
+          "title_en": "Broadridge Financial Solutions Stock: Is BR Underperforming the Technology Sector?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 14:14:00",
+          "title": "联邦政府刚刚决定恢复运营商模式 – 这里是实际发生了什么，什么没有改变，以及你仍然需要关注的内容。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/federal-government-just-moved-restore-004841599.html",
+          "title_en": "The Federal Government Just Moved to Restore the Owner-Operator Model – Here Is What Actually Changed, What Did Not, and What You Still Need to Watch"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 14:14:00",
+          "title": "美国消费者起诉Costco索赔关税退税",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/shopper-sues-costco-tariff-refunds-221901143.html",
+          "title_en": "Shopper Sues Costco for Tariff Refunds"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 14:14:00",
           "title": "Live Nation和Ticketmaster的审判将恢复，7个州加入了司法部的和解协议。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/live-nation-ticketmaster-trial-resume-211243069.html",
@@ -503,29 +520,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
+          "time": "2026-03-15 14:14:00",
           "title": "Uber联合创始人卡兰尼克推出Atomics，专注于专用机器人",
           "summary": "",
           "url": "https://finance.yahoo.com/news/uber-co-founder-kalanick-launches-210857971.html",
           "title_en": "Uber co-founder Kalanick launches Atoms in specialized robotics push"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
-          "title": "英超级富豪破坏英格兰银行，发出美元的严重警告",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/billionaire-broke-bank-england-issues-220036689.html",
-          "title_en": "Billionaire who broke Bank of England issues dire warning on dollar"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 13:43:47",
-          "title": "布罗德里奇财务解决方案股票：BR是否低于技术行业表现？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/broadridge-financial-solutions-stock-br-000548650.html",
-          "title_en": "Broadridge Financial Solutions Stock: Is BR Underperforming the Technology Sector?"
         }
       ]
     }
