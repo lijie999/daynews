@@ -1,6 +1,6 @@
 {
   "date": "2026.03.15",
-  "generatedAtBJT": "2026-03-15 11:12:50",
+  "generatedAtBJT": "2026-03-15 11:30:22",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-15 11:12:50",
+          "time": "2026-03-15 11:30:22",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 道指跌至11月以来的最低点，油价突破100美元关口。\n- 宏观/Fed：关注 美联储监测的通胀指标出现不理想的读数，可能继续维持高利率。\n- 科技/半导体：市场正在选择软件的赢家和输家，例如Oracle。\n- TSLA：关注 马斯克称特斯拉的超级AI芯片工厂项目将在七天内启动。",
+          "summary": "- 地缘/避险：伊朗战争拖累股市下滑。\n- 宏观/Fed：美联储下周会议几乎肯定不会有变化。\n- 科技/半导体：AI 领先者在芯片价格大幅波动中找到支撑。\n- TSLA：马斯克称特斯拉的超级 AI 芯片工厂项目将在七天内启动。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Dow Falls to Lowest Level Since November as Oil Hits $100 a Barr…\n- 宏观/Fed：关注 A sticky reading on Fed's favored inflation measure should keep …\n- 科技/半导体：The Market Is Picking Software Winners and Losers. Look at Oracl… 关键词: agents, amazon, chip, face, look\n- TSLA：关注 Musk says Tesla’s mega AI chip fab project to launch in seven da…"
+          "summary_en": "- 地缘/避险：关注 Iran War Drags Stocks Lower…\n- 宏观/Fed：关注 The Fed Will Almost Certainly Hold At Its Meeting Next Week-Here…\n- 科技/半导体：Following A Record-High Sprint, AI Leader Finds Support Amid Vol… 关键词: agents, amazon, chip, face, month\n- TSLA：关注 Musk says Tesla’s mega AI chip fab project to launch in seven da…"
         }
       ]
     },
@@ -29,16 +29,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "市场正在挑选软件的赢家和输家。看看甲骨文和微软。",
-          "summary": "",
-          "url": "https://www.barrons.com/articles/software-winners-look-at-oracle-microsoft-df8a3300?siteid=yhoof2&yptr=yahoo",
-          "title_en": "The Market Is Picking Software Winners and Losers. Look at Oracle and Microsoft."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
+          "time": "2026-03-15 11:30:18",
           "title": "在历史最高冲刺之后，领先AI公司在波动的股市中找到支持",
           "summary": "",
           "url": "https://www.investors.com/research/the-new-america/fabrinet-stock-fn/?src=A00220&yptr=yahoo",
@@ -47,7 +38,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
+          "time": "2026-03-15 11:30:18",
           "title": "高盛：软件巨头面临“radical transformation”随着主体AI的兴起",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/goldman-software-giants-face-radical-transformation-as-agentic-ai-rises-4561462",
@@ -56,7 +47,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
+          "time": "2026-03-15 11:30:18",
           "title": "Booking、Expedia面临AI代理压力，伯恩斯坦表示。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/booking-expedia-face-margin-pressure-from-ai-agents-bernstein-says-4561446",
@@ -65,7 +56,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
+          "time": "2026-03-15 11:30:18",
           "title": "元宇宙公司Meta计划大规模裁员，原因是人工智能成本不断上升。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/exclusivemeta-planning-sweeping-layoffs-as-ai-costs-mount-4561225",
@@ -130,7 +121,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
+          "time": "2026-03-15 11:30:18",
+          "title": "美联储将几乎肯定保持不变在下周的会议上——这是还在空中飘荡的。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/fed-almost-certainly-hold-meeting-202559689.html",
+          "title_en": "The Fed Will Almost Certainly Hold At Its Meeting Next Week-Here's What's Still Up In The Air"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 11:30:18",
           "title": "美联储偏好的通胀衡量指标出现了持稳的读数，可能会让美联储保持不动。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/a-sticky-reading-on-feds-favored-inflation-measure-should-keep-central-bank-on-hold-152107362.html",
@@ -139,16 +139,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "纳斯达克、标普500指数跌幅，投资者正在消化经济增长速度放缓和通胀稳定。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/dow-jones-set-lead-recovery-120000163.html",
-          "title_en": "Nasdaq, S&P 500 in the red as investors digest slower GDP and steady inflation"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
+          "time": "2026-03-15 11:30:18",
           "title": "截至2026年3月13日，最佳现金市场账户利率（最高4.01%年利率回报）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-friday-march-13-2026-100031434.html",
@@ -157,7 +148,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
+          "time": "2026-03-15 11:30:18",
           "title": "今日最佳定期存款利率（截至2026年3月13日），最高可达4%APY回报",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-march-13-2026-100028886.html",
@@ -166,7 +157,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
+          "time": "2026-03-15 11:30:18",
           "title": "截至2026年3月13日，最高回报高利率储蓄利率（最高4%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-march-13-2026-100021753.html",
@@ -175,16 +166,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "今天（3月13日），HELOC和家庭抵押贷款利率：不要让你的家庭抵押贷款白白浪费",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-friday-march-13-2026-100000891.html",
-          "title_en": "HELOC and home equity loan rates today, March 13, 2026: Don't let your home equity go to waste"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
+          "time": "2026-03-15 11:30:18",
           "title": "今日（3月13日）房贷和再融资利率：几乎没有阻碍上涨势头",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-march-13-2026-100000645.html",
@@ -193,7 +175,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
+          "time": "2026-03-15 11:30:18",
+          "title": "今天（3月13日），HELOC和家庭抵押贷款利率：不要让你的家庭抵押贷款白白浪费",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-friday-march-13-2026-100000891.html",
+          "title_en": "HELOC and home equity loan rates today, March 13, 2026: Don't let your home equity go to waste"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 11:30:18",
           "title": "本周六，3月14日，2026年：下降的利率提高了可负担性",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-march-14-2026-100000675.html",
@@ -202,7 +193,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
+          "time": "2026-03-15 11:30:18",
           "title": "今天（3月14日）房贷和再融资利率：这些利率不是“正常世界”的利率。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-march-14-2026-100000864.html",
@@ -247,25 +238,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "道指跌至11月以来的最低点，油价突破每桶100美元大关",
-          "summary": "",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-031326/card/dow-fall-to-lowest-levels-since-november-as-oil-hit-100-a-barrel-l4dzU3TkBfjjNRY84MEI?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Dow Falls to Lowest Level Since November as Oil Hits $100 a Barrel"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "美元走强 因油价大幅上涨引发通胀恐惧",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/dollar-rallies-surging-oil-prices-193420617.html",
-          "title_en": "Dollar Rallies as Surging Oil Prices Spark Inflation Fears"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
+          "time": "2026-03-15 11:30:18",
           "title": "伊朗战争拖累股市下跌",
           "summary": "",
           "url": "https://finance.yahoo.com/news/iran-war-drags-stocks-lower-204546207.html",
@@ -274,16 +247,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "原油价格大涨 因伊朗战争干扰全球供应",
+          "time": "2026-03-15 11:30:18",
+          "title": "美债收益率周内上升，受油价和通胀忧虑影响。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/crude-oil-prices-rally-iran-191959463.html",
-          "title_en": "Crude Oil Prices Rally as Iran War Disrupts Global Supplies"
+          "url": "https://www.wsj.com/finance/jgbs-fall-as-inflation-concerns-weigh-amid-mideast-conflict-d77edd79?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Treasury Yields Rose This Week on Oil, Inflation Jitters"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
+          "time": "2026-03-15 11:30:18",
           "title": "德克萨斯石油带如何成为美国下一个锂矿前沿",
           "summary": "",
           "url": "https://finance.yahoo.com/news/texas-oil-belt-became-americas-210000945.html",
@@ -292,29 +265,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "黄金周五可能下跌，伊朗战争导致石油价格高涨",
+          "time": "2026-03-15 11:30:18",
+          "title": "美元走强 因油价大幅上涨引发通胀恐惧",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/gold-set-weekly-drop-mideast-025559491.html",
-          "title_en": "Gold Heads for Weekly Drop as War in Iran Keeps Oil Prices High"
+          "url": "https://finance.yahoo.com/news/dollar-rallies-surging-oil-prices-193420617.html",
+          "title_en": "Dollar Rallies as Surging Oil Prices Spark Inflation Fears"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "投资者正在避开美国债券作为伊朗冲突避险资产",
+          "time": "2026-03-15 11:30:18",
+          "title": "俄罗斯石油能否缓解伊朗冲突的供应恐慌？数学计算揭示了答案。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/investors-shunning-u-debt-haven-200400691.html",
-          "title_en": "Investors are shunning U.S. debt as a haven play during the Iran conflict"
+          "url": "https://finance.yahoo.com/news/think-russian-oil-calm-iran-202000083.html",
+          "title_en": "Think Russian oil will calm the Iran conflict’s supply panic? Here’s what the math reveals."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "伊朗战争将使数据中心的成本大幅上涨，甚至可能导致一些项目停工。",
+          "time": "2026-03-15 11:30:18",
+          "title": "原油价格大涨 因伊朗战争干扰全球供应",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/iran-war-going-drive-cost-201500330.html",
-          "title_en": "The Iran war is going to drive up the cost of data centers—and maybe shut down some projects"
+          "url": "https://finance.yahoo.com/news/crude-oil-prices-rally-iran-191959463.html",
+          "title_en": "Crude Oil Prices Rally as Iran War Disrupts Global Supplies"
         },
         {
           "source": "CNBC-World",
@@ -415,6 +388,26 @@
           "url": "https://www.cnbc.com/2026/03/14/iran-war-iea-oil-stockpile-spr-strait-hormuz.html",
           "title_en": "The biggest release of emergency oil stockpiles in history was announced. Why crude may keep rising",
           "summary_en": "Oil prices have surged more than 17% since the International Energy Agency announced the largest release of crude stockpiles in its 50-year history."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-14 03:04:07",
+          "title": "石油价格第二天再次突破100美元，市场对美国采取的措施降低价格在伊朗战争期间的影响视而不见。",
+          "summary": "交易者继续关注中东局势。昨晚，特朗普暗示冲突的结束并不迫在眉睫。",
+          "url": "https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html",
+          "title_en": "Oil closes above $100 for second day as market shrugs off U.S. measures to reduce prices during Iran war",
+          "summary_en": "Traders are continuing to monitor developments in the Middle East. Overnight, Trump hinted that an end to the conflict was not imminent."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-14 01:44:54",
+          "title": "特朗普无法通过“钻井，宝宝，钻井”来摆脱伊朗引发的石油危机：专家",
+          "summary": "石油价格在自从美国总统唐纳德·特朗普对伊朗开战以来大幅上涨。",
+          "url": "https://www.cnbc.com/2026/03/13/iran-war-oil-trump-drilling.html",
+          "title_en": "Trump can't 'drill, baby, drill' his way out of this Iran-inspired oil crisis: Experts",
+          "summary_en": "Oil prices have skyrocketed in the days since President Donald Trump's war on Iran began."
         }
       ]
     },
@@ -425,7 +418,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
+          "time": "2026-03-15 11:30:18",
           "title": "马斯克称特斯拉的超级AI芯片工厂项目将在七天内启动",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/musk-says-teslas-gigantic-chip-fab-project-to-launch-in-seven-days-4561485",
@@ -440,34 +433,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "微星股价上涨的原因",
+          "time": "2026-03-15 11:30:18",
+          "title": "稳定还是增长？SCHD和FDVV",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/why-micron-stock-gaining-today-200953904.html",
-          "title_en": "Why Micron Stock Is Gaining Today"
+          "url": "https://finance.yahoo.com/news/dividend-stability-growth-exposure-schd-202337115.html",
+          "title_en": "Dividend Stability or Growth Exposure? SCHD and FDVV"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "美联储（FOMC）会议后，美国国税局（IRS）网站访问量大幅上升，仅剩下一个月的税季时间。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/taxes/article/irs-website-visits-soar-with-just-a-month-left-to-file-200949896.html",
-          "title_en": "IRS website visits soar with just a month left to file"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "ULTA股价严重低估了财报抛售。您应该在此时买入？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/ulta-stock-deeply-oversold-earnings-201532356.html",
-          "title_en": "Ulta Stock Is Deeply Oversold on Earnings Selloff. Should You Buy the Dip?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
+          "time": "2026-03-15 11:30:18",
           "title": "比特币突破月度高点，这家矿工的图表超越同行",
           "summary": "",
           "url": "https://www.investors.com/news/bitcoin-price-march-73k-high-etf-flows-terawulf-wulf-stock-bitcoin-miners-crypto-stocks/?src=A00220&yptr=yahoo",
@@ -476,43 +451,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "异常无人机股盘旋在买盘区。但是，请务必留意这个分数。",
+          "time": "2026-03-15 11:30:18",
+          "title": "ULTA股价严重低估了财报抛售。您应该在此时买入？",
           "summary": "",
-          "url": "https://www.investors.com/research/ibd-stock-analysis/umac-stock-unusual-machines-drone-maker/?src=A00220&yptr=yahoo",
-          "title_en": "'Unusual' Drone Stock Orbits Buy Zone. But Keep This Score On Your Radar."
+          "url": "https://finance.yahoo.com/news/ulta-stock-deeply-oversold-earnings-201532356.html",
+          "title_en": "Ulta Stock Is Deeply Oversold on Earnings Selloff. Should You Buy the Dip?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "本周IPO股：Northpointe寻找买点在股市波动中",
+          "time": "2026-03-15 11:30:18",
+          "title": "美联储（FOMC）会议后，美国国税局（IRS）网站访问量大幅上升，仅剩下一个月的税季时间。",
           "summary": "",
-          "url": "https://www.investors.com/stock-lists/ipo-analysis/northpointe-stock-npb/?src=A00220&yptr=yahoo",
-          "title_en": "IPO Stock Of The Week: Northpointe Eyes Buy Point Amid Stock Market Volatility"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/irs-website-visits-soar-with-just-a-month-left-to-file-200949896.html",
+          "title_en": "IRS website visits soar with just a month left to file"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "维兹拉(VZLA)：分析师降级，关注安全问题，长期成长为主",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/vizsla-vzla-analyst-downgrade-amid-195257637.html",
-          "title_en": "Vizsla (VZLA): Analyst Downgrade Amid Security Concerns, Long-Term Growth in Focus"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "Adobe (ADBE) 股价今天下跌，是否应该在此时买入？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/buy-dip-adobe-stock-today-195148356.html",
-          "title_en": "Should You Buy the Dip in Adobe Stock Today?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
+          "time": "2026-03-15 11:30:18",
           "title": "特朗普照片拍摄后，CMA CGM将将30艘船改为法国旗帜。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/trump-photo-op-cma-cgm-204013324.html",
@@ -521,16 +478,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "税款退还率继续领先去年同期",
+          "time": "2026-03-15 11:30:18",
+          "title": "异常无人机股盘旋在买盘区。但是，请务必留意这个分数。",
           "summary": "",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-13-2026/card/tax-refunds-stay-ahead-of-last-year-s-pace-s5oR4G8QT2OmYdNVbABl?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Tax Refunds Stay Ahead of Last Year’s Pace"
+          "url": "https://www.investors.com/research/ibd-stock-analysis/umac-stock-unusual-machines-drone-maker/?src=A00220&yptr=yahoo",
+          "title_en": "'Unusual' Drone Stock Orbits Buy Zone. But Keep This Score On Your Radar."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
+          "time": "2026-03-15 11:30:18",
+          "title": "本周IPO股：Northpointe寻找买点在股市波动中",
+          "summary": "",
+          "url": "https://www.investors.com/stock-lists/ipo-analysis/northpointe-stock-npb/?src=A00220&yptr=yahoo",
+          "title_en": "IPO Stock Of The Week: Northpointe Eyes Buy Point Amid Stock Market Volatility"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 11:30:18",
+          "title": "HSBC升级后，NIO股价上涨。",
+          "summary": "",
+          "url": "https://www.barrons.com/articles/nio-stock-upgrade-hsbc-price-target-47a9a942?siteid=yhoof2&yptr=yahoo",
+          "title_en": "NIO Stock Rises After HSBC Upgrade"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 11:30:18",
           "title": "PayPay 股票在 PAYP 股票 IPO 后大幅上涨。您是否应该在软银背后的公司这里购买？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/paypay-shares-popping-higher-payp-204724332.html",
@@ -539,25 +514,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "埃克森电力上涨，防御股创下新高",
+          "time": "2026-03-15 11:30:18",
+          "title": "维兹拉(VZLA)：分析师降级，关注安全问题，长期成长为主",
           "summary": "",
-          "url": "https://www.investors.com/stock-lists/new-highs/power-stock-defense-aerospace-exelon-exc-alcoa-aa-lhx-new-highs-markets/?src=A00220&yptr=yahoo",
-          "title_en": "Exelon Powers Up As Defense Stock Hits New High"
+          "url": "https://finance.yahoo.com/news/vizsla-vzla-analyst-downgrade-amid-195257637.html",
+          "title_en": "Vizsla (VZLA): Analyst Downgrade Amid Security Concerns, Long-Term Growth in Focus"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "天然气价格下跌，受美国气象预报为期旺盛的天气影响。",
+          "time": "2026-03-15 11:30:18",
+          "title": "Adobe (ADBE) 股价今天下跌，是否应该在此时买入？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/nat-gas-sink-above-normal-191751956.html",
-          "title_en": "Nat-Gas Sink on Above-Normal US Weather Forecasts"
+          "url": "https://finance.yahoo.com/news/buy-dip-adobe-stock-today-195148356.html",
+          "title_en": "Should You Buy the Dip in Adobe Stock Today?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
+          "time": "2026-03-15 11:30:18",
           "title": "HCA 股票：如何通过探索性仓位帮助患者式投资者在横盘市场中获利",
           "summary": "",
           "url": "https://www.investors.com/research/swing-trading/hca-stock-probing-positions-sideways-market/?src=A00220&yptr=yahoo",
@@ -566,16 +541,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "所有权融资是指买家与卖家直接签订合同，买家以货币或其他形式的付款方式支付部分或全部货币，卖家保留部分或全部产权。",
+          "time": "2026-03-15 11:30:18",
+          "title": "Uber联合创始人卡兰尼克推出Atomics，专注于专用机器人",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/owner-financing-works-185302975.html",
-          "title_en": "What is owner financing, and how does it work?"
+          "url": "https://finance.yahoo.com/news/uber-co-founder-kalanick-launches-210857971.html",
+          "title_en": "Uber co-founder Kalanick launches Atoms in specialized robotics push"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
+          "time": "2026-03-15 11:30:18",
+          "title": "Live Nation和Ticketmaster的审判将恢复，7个州加入了司法部的和解协议。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/live-nation-ticketmaster-trial-resume-211243069.html",
+          "title_en": "Live Nation, Ticketmaster trial to resume after 7 states join a Justice Department settlement"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 11:30:18",
+          "title": "埃克森电力上涨，防御股创下新高",
+          "summary": "",
+          "url": "https://www.investors.com/stock-lists/new-highs/power-stock-defense-aerospace-exelon-exc-alcoa-aa-lhx-new-highs-markets/?src=A00220&yptr=yahoo",
+          "title_en": "Exelon Powers Up As Defense Stock Hits New High"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 11:30:18",
           "title": "65岁以上的老年人新标准扣除额是多少——如何申报？",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/taxes/article/standard-deduction-over-65-175232245.html",
@@ -584,16 +577,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
-          "title": "三角财富首席投资官：我们想在模型中引入更多周期性。",
+          "time": "2026-03-15 11:30:18",
+          "title": "今年3月，投资者可以考虑购买的两家科技股分别是： \n\n微软（MSFT）和英伟达（NVDA）。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/triad-wealth-cio-want-introduce-201300140.html",
-          "title_en": "Triad Wealth CIO: We Want to Introduce More Cyclicality in Our Models"
+          "url": "https://finance.yahoo.com/news/2-top-tech-stocks-buy-202000481.html",
+          "title_en": "2 Top Tech Stocks to Buy in March"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 11:12:45",
+          "time": "2026-03-15 11:30:18",
           "title": "今年的税退款比去年大10.2%，平均退款约为3,800美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refunds-are-102-bigger-than-last-year-with-the-average-refund-around-3800-202353009.html",
