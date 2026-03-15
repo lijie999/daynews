@@ -1,6 +1,6 @@
 {
   "date": "2026.03.15",
-  "generatedAtBJT": "2026-03-15 08:00:18",
+  "generatedAtBJT": "2026-03-15 08:10:55",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-15 08:00:18",
+          "time": "2026-03-15 08:10:55",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 Futures Market 遗漏了霍尔木兹海峡石油冲击的预测…\n- 宏观/Fed：关注工人没有辞职。这里的原因是问题…\n- 科技/半导体：CoreWeave 描述了扩张融资、NVIDIA NVI 能源限制和中心芯片…\n- TSLA：关注马斯克表示特斯拉的超级 AI 芯片工厂项目将在七天内启动…",
+          "summary": "地缘/避险：关注这家能源股击败S&P 500，靠近进入伊朗战争的门槛。\n\n宏观/美联储：关注房贷利率飙升至9月份以来最高水平，冲击春季购房市场。\n\n科技/半导体： Himax 因与Nvidia AI光学和苹果智能眼镜有关的报告而大涨。\n\nTSLA：关注特斯拉股价横盘震荡，预示短期37%的利润潜力。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Futures Market Misreads the Hormuz Oil Shock…\n- 宏观/Fed：关注 Workers aren't quitting their jobs. Here's why that's a problem …\n- 科技/半导体：CoreWeave Details Expansion Financing, Power Constraints and NVI… 关键词: nvidia, agents, amazon, center, chip\n- TSLA：关注 Musk says Tesla’s mega AI chip fab project to launch in seven da…"
+          "summary_en": "- 地缘/避险：关注 This Energy Stock Crushes S&P 500, Sails Near Entry As Iran War …\n- 宏观/Fed：关注 Mortgage rates surge to highest since September, hitting spring …\n- 科技/半导体：Himax pops on report linking to Nvida AI optics, Apple smart-gla… 关键词: center, agents, amazon, billion, chip\n- TSLA：关注 Tesla Stock Moving Sideways Sets Up 37% Short-Term Profit Potent…"
         }
       ]
     },
@@ -29,25 +29,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "CoreWeave详细介绍了扩张融资、电源限制和NVIDIA增长计划在会议上",
+          "time": "2026-03-15 08:10:50",
+          "title": "海力士股价大涨，原因是与NVIDIA AI光学和苹果智能眼镜有关的报告。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/coreweave-details-expansion-financing-power-231745188.html",
-          "title_en": "CoreWeave Details Expansion Financing, Power Constraints and NVIDIA Growth Plans at Conference"
+          "url": "https://finance.yahoo.com/news/himax-pops-report-linking-nvida-175040134.html",
+          "title_en": "Himax pops on report linking to Nvida AI optics, Apple smart-glasses"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "CIENA Corp. (CIEN)揭示了为人工智能驱动的带宽增长而推出的网络创新",
+          "time": "2026-03-15 08:10:50",
+          "title": "华尔街认为这家人工智能股有望从当前水平上涨58%",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ciena-corp-cien-unveils-networking-182943535.html",
-          "title_en": "Ciena Corp. (CIEN) Unveils Networking Innovations for AI-Driven Bandwidth Growth"
+          "url": "https://finance.yahoo.com/news/artificial-intelligence-ai-stock-wall-175000726.html",
+          "title_en": "The Artificial Intelligence (AI) Stock That Wall Street Says Could Rally 58% From Here"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 08:10:50",
+          "title": "KKR探索出售数据中心冷却公司CoolIT Systems的3亿美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/kkr-kkr-explores-3-billion-172321395.html",
+          "title_en": "KKR (KKR) Explores $3 Billion Sale of Data Center Cooling Firm CoolIT Systems"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
+          "time": "2026-03-15 08:10:50",
           "title": "高盛：软件巨头面临“radical transformation”随着主体AI的兴起",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/goldman-software-giants-face-radical-transformation-as-agentic-ai-rises-4561462",
@@ -56,7 +65,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
+          "time": "2026-03-15 08:10:50",
           "title": "Booking、Expedia面临AI代理压力，伯恩斯坦表示。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/booking-expedia-face-margin-pressure-from-ai-agents-bernstein-says-4561446",
@@ -65,7 +74,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
+          "time": "2026-03-15 08:10:50",
           "title": "元宇宙公司Meta计划大规模裁员，原因是人工智能成本不断上升。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/exclusivemeta-planning-sweeping-layoffs-as-ai-costs-mount-4561225",
@@ -148,33 +157,6 @@
       "badge": "Fed / Policy",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "劳动力市场的一个问题：工人并没有辞职。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/workers-arent-quitting-their-jobs-heres-why-thats-a-problem-for-the-labor-market-150049677.html",
-          "title_en": "Workers aren't quitting their jobs. Here's why that's a problem for the labor market."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "截至2026年3月14日，最佳现金市场账户利率（最高利率账户提供4.01%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-march-14-2026-175126701.html",
-          "title_en": "Best money market account rates today, March 14, 2026 (best account provides 4.01% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "截至2026年3月14日，最佳储蓄利率（最高4%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-march-14-2026-174632541.html",
-          "title_en": "Best CD rates today, March 14, 2026 (best account provides 4% APY)"
-        },
-        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-14 06:35:59",
@@ -213,29 +195,47 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "石油期货市场低估霍尔木兹海峡油价冲击",
+          "time": "2026-03-15 08:10:50",
+          "title": "这家能源股击败S&P 500，靠近进入市场的门槛，伊朗战争加剧了电力危机。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/futures-market-misreads-hormuz-oil-230000014.html",
-          "title_en": "Futures Market Misreads the Hormuz Oil Shock"
+          "url": "https://www.investors.com/stock-lists/stock-spotlight/energy-stock-golar-lng-glng-crushes-sp-500-iran-war-power-crisis/?src=A00220&yptr=yahoo",
+          "title_en": "This Energy Stock Crushes S&P 500, Sails Near Entry As Iran War Spurs Power Crisis"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "_jet燃料价格大幅上涨，伊朗战争波及全球航空",
+          "time": "2026-03-15 08:10:50",
+          "title": "美国放宽部分俄罗斯石油制裁，但原油价格仍高",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jet-fuel-prices-soar-war-190000886.html",
-          "title_en": "Jet Fuel Prices Soar as War in Iran Ripples Through Global Aviation"
+          "url": "https://finance.yahoo.com/news/us-eases-russian-oil-sanctions-174749609.html",
+          "title_en": "US eases some Russian oil sanctions but crude prices stay high"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "24/7石油期货稳定在100美元以上",
+          "time": "2026-03-15 08:10:50",
+          "title": "对伊朗风险的11只股票来加固你的投资组合",
           "summary": "",
-          "url": "https://www.wsj.com/livecoverage/us-israel-iran-war-news-2026/card/24-7-oil-futures-hold-steady-above-100-mMeJKN5KlJ6iaI8FUhGv?siteid=yhoof2&yptr=yahoo",
-          "title_en": "24/7 Oil Futures Hold Steady Above $100"
+          "url": "https://finance.yahoo.com/news/11-stocks-harden-portfolio-against-183500675.html",
+          "title_en": "11 stocks to harden your portfolio against Iran risk"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 08:10:50",
+          "title": "伊朗冲突可能威胁肥料供应，导致粮食价格上涨。",
+          "summary": "",
+          "url": "https://www.barrons.com/articles/food-prices-iran-fertilizer-supplies-8d7bd867?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Food Prices Could Rise as Iran Conflict Threatens Fertilizer Supplies"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 08:10:50",
+          "title": "周末股市波动，石油价格大幅上涨；Oracle和Nvidia带动AI板块：周末盘点",
+          "summary": "",
+          "url": "https://www.investors.com/news/stock-market-falls-in-volatile-week-as-oil-prices-surge-oracle-nvidia-buoy-ai-plays-weekly-review/?src=A00220&yptr=yahoo",
+          "title_en": "Stock Market Falls In Volatile Week As Oil Prices Surge; Oracle, Nvidia Buoy AI Plays: Weekly Review"
         },
         {
           "source": "CNBC-Top",
@@ -366,26 +366,6 @@
           "url": "https://www.cnbc.com/2026/03/13/european-markets-stoxx-600-ftse-dax-cac-iran-news-oil-prices.html",
           "title_en": "European stocks close lower as oil prices hold near $100 a barrel",
           "summary_en": "European stocks closed lower Friday as the conflict in the Middle East brought mixed signals to markets."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-14 00:39:03",
-          "title": "伊朗战争可能如何影响美国零售价格",
-          "summary": "伊朗战争可能会对全球供应链造成冲击，进而影响零售业。",
-          "url": "https://www.cnbc.com/2026/03/13/iran-war-retail-prices.html",
-          "title_en": "How the Iran war could start to impact U.S. retail prices",
-          "summary_en": "The retail industry could soon be taking the next hit from the Iran war's disruption to the global supply chain."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-14 00:24:50",
-          "title": "特朗普表示他认为普京在帮助伊朗。",
-          "summary": "俄罗斯领导人告诉特朗普，他们不与伊朗分享情报，因为伊朗正在与美国和以色列对抗，特朗普的特别代表史蒂夫·维特科夫（Steve Witkoff）本周表示。",
-          "url": "https://www.cnbc.com/2026/03/13/trump-iran-war-putin-russia.html",
-          "title_en": "Trump says he thinks Putin is helping Iran",
-          "summary_en": "Russian leaders told President Trump they aren't sharing intelligence with Iran as it fights the U.S. and Israel, special envoy Steve Witkoff said this week."
         }
       ]
     },
@@ -394,9 +374,18 @@
       "badge": "TSLA chain",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-15 08:10:50",
+          "title": "特斯拉股价横盘震荡，为短期37%的利润潜力提供了基础",
+          "summary": "",
+          "url": "https://www.investors.com/research/options/tesla-stock-tsla-options-ev-china-sales-trade-iron-condor-markets/?src=A00220&yptr=yahoo",
+          "title_en": "Tesla Stock Moving Sideways Sets Up 37% Short-Term Profit Potential"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
+          "time": "2026-03-15 08:10:50",
           "title": "马斯克称特斯拉的超级AI芯片工厂项目将在七天内启动",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/musk-says-teslas-gigantic-chip-fab-project-to-launch-in-seven-days-4561485",
@@ -421,164 +410,164 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "IDEXX实验室（IDXX）是否是一个好股票？",
+          "time": "2026-03-15 08:10:50",
+          "title": "65岁以上的老年人新标准扣除额是多少——如何申报？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/idexx-laboratories-inc-idxx-good-234532626.html",
-          "title_en": "Is IDEXX Laboratories, Inc. (IDXX) A Good Stock To Buy?"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/standard-deduction-over-65-175232245.html",
+          "title_en": "What is the new standard deduction for seniors over 65 — and how do you claim it?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "Shift4 Payments (FOUR) 是一个不错的股票购买选择吗？",
+          "time": "2026-03-15 08:10:50",
+          "title": "团体工会提出了对Paramount和华纳合并的担忧，提交给美国司法部。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/shift4-payments-inc-four-good-234453731.html",
-          "title_en": "Is Shift4 Payments, Inc. (FOUR) A Good Stock To Buy?"
+          "url": "https://finance.yahoo.com/news/teamsters-submit-concerns-paramount-warner-175106779.html",
+          "title_en": "Teamsters submit concerns about Paramount-Warner merger to DOJ"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "Enova国际, Inc. (ENVA) 是否是一个好股票？",
+          "time": "2026-03-15 08:10:50",
+          "title": "今年的税退款比去年大10.2%，平均退款约为3,800美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/enova-international-inc-enva-good-234415810.html",
-          "title_en": "Is Enova International, Inc. (ENVA) A Good Stock To Buy?"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refunds-are-102-bigger-than-last-year-with-the-average-refund-around-3800-202353009.html",
+          "title_en": "Tax refunds are 10.2% bigger than last year, with the average refund around $3,800"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "驱动品牌控股公司（DRVN）是否是一个好股票购买？",
+          "time": "2026-03-15 08:10:50",
+          "title": "IonQ刚刚与剑桥大学达成协议。现在是买入量子计算机股票的好时机吗？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/driven-brands-holdings-inc-drvn-234335150.html",
-          "title_en": "Is Driven Brands Holdings Inc. (DRVN) A Good Stock To Buy?"
+          "url": "https://finance.yahoo.com/news/ionq-just-secured-deal-university-175919251.html",
+          "title_en": "IonQ Just Secured a Deal with the University of Cambridge. Should You Buy the Quantum Computing Stock Here?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "德鲁·霍顿公司是否是一个好股票？",
+          "time": "2026-03-15 08:10:50",
+          "title": "比尔·阿克曼的新基金可能会给投资者带来税务困扰",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/d-r-horton-inc-dhi-234241173.html",
-          "title_en": "Is D.R. Horton, Inc. (DHI) A Good Stock To Buy?"
+          "url": "https://www.barrons.com/articles/bill-ackmans-new-fund-could-cause-tax-headaches-3fb133c7?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Bill Ackman’s New Fund Could Cause Tax Headaches for Investors"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "美国运动和户外用品公司（Academy Sports and Outdoors, Inc.）是否是一个好股？",
+          "time": "2026-03-15 08:10:50",
+          "title": "多米诺披萨股仍然看起来便宜 - DPZ 股票和期权最佳价值投资者玩法",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/academy-sports-outdoors-inc-aso-234157619.html",
-          "title_en": "Is Academy Sports and Outdoors, Inc. (ASO) A Good Stock To Buy?"
+          "url": "https://finance.yahoo.com/news/dominos-pizza-stock-still-looks-174517398.html",
+          "title_en": "Domino's Pizza Stock Still Looks Cheap - The Best DPZ Stock and Options Plays Here for Value Investors"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "Adobe Inc. (ADBE) 是否是一个好股？",
+          "time": "2026-03-15 08:10:50",
+          "title": "分析师对Zillow (Z)买回股票表示积极",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/adobe-inc-adbe-good-stock-234116044.html",
-          "title_en": "Is Adobe Inc. (ADBE) A Good Stock To Buy?"
+          "url": "https://finance.yahoo.com/news/analyst-positive-zillow-z-buyback-180011747.html",
+          "title_en": "Analyst Positive on Zillow (Z) Buyback Boost"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "利奥纳盖特影业公司（LION）是否是一个好股票购买？",
+          "time": "2026-03-15 08:10:50",
+          "title": "投资公司批评CoStar (CSGP)财务透明度",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/lionsgate-studios-corp-lion-good-234036284.html",
-          "title_en": "Is Lionsgate Studios Corp. (LION) A Good Stock To Buy?"
+          "url": "https://finance.yahoo.com/news/investment-firm-criticizes-costar-csgp-180022154.html",
+          "title_en": "Investment Firm Criticizes CoStar (CSGP) Financial Transparency"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "主要炸鸡连锁店的运营商因破产申请关闭门店。",
+          "time": "2026-03-15 08:10:50",
+          "title": "分析师对Knight-Swift (KNX)持乐观态度，认为需求有上升空间。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/major-fried-chicken-franchisee-shuts-233700726.html",
-          "title_en": "Major fried chicken franchisee shuts stores in bankruptcy filing"
+          "url": "https://finance.yahoo.com/news/analyst-bullish-knight-swift-knx-180119414.html",
+          "title_en": "Analyst Bullish on Knight-Swift (KNX) Over Demand Upside"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "新市场公司（NEU）：一项熊市理论",
+          "time": "2026-03-15 08:10:50",
+          "title": "Upstart (UPST) 提出申请获得国家银行牌照。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/newmarket-corporation-neu-bear-case-232817976.html",
-          "title_en": "NewMarket Corporation (NEU): A Bear Case Theory"
+          "url": "https://finance.yahoo.com/news/upstart-upst-applies-national-bank-180110240.html",
+          "title_en": "Upstart (UPST) Applies for National Bank Charter"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "威廉布莱尔维持对AppLovin（APP）的买入评级，理由如下：",
+          "time": "2026-03-15 08:10:50",
+          "title": "Genuine Parts (GPC) 预计分拆将在9-12个月内完成。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/william-blair-remains-buy-applovin-203620606.html",
-          "title_en": "William Blair Remains a Buy on AppLovin (APP), Here’s Why"
+          "url": "https://finance.yahoo.com/news/genuine-parts-gpc-expects-split-180037086.html",
+          "title_en": "Genuine Parts (GPC) Expects Split to Close in 9-12 Months"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "马来西亚反腐败机构调查ARM Holdings与马来西亚政府的交易",
+          "time": "2026-03-15 08:10:50",
+          "title": "Wells Fargo 将Aptiv (APTV)价格目标降至低点，原因是Aptiv1.35亿美元债券收购。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/malaysia-anti-graft-agency-investigating-203619987.html",
-          "title_en": "Malaysia’s Anti-Graft Agency Investigating Deal Between Arm Holdings (ARM) and the Malaysian Government"
+          "url": "https://finance.yahoo.com/news/wells-fargo-cuts-aptiv-aptv-180056009.html",
+          "title_en": "Wells Fargo Cuts Aptiv (APTV) Price Target After $1.35B Notes Tender Offer"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "亿万富翁比尔·阿克曼持有其对冲基金的14亿美元股票投资中，48%的资金投资于3家杰出公司。",
+          "time": "2026-03-15 08:10:50",
+          "title": "Blue Owl拒绝收购提议，称其估值低于市场价。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/billionaire-bill-ackman-48-hedge-233500407.html",
-          "title_en": "Billionaire Bill Ackman Has 48% of His Hedge Fund's $14 Billion Stock Portfolio Invested in 3 Outstanding Companies"
+          "url": "https://finance.yahoo.com/news/blue-owl-owl-refuses-tender-180029000.html",
+          "title_en": "Blue Owl (OWL) Refuses Tender Offer, Citing Valuation Discount"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "SanDisk Corporation（SNDK）正在与客户达成长期供应协议，首席执行官Goeckeler表示。",
+          "time": "2026-03-15 08:10:50",
+          "title": "卡曼(KRMN)在分析师评级升级后开启犹他州工厂",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/sandisk-corporation-sndk-pursuing-long-203617782.html",
-          "title_en": "Sandisk Corporation (SNDK) Pursuing Long-Term Supply Agreements With Customers, Says CEO Goeckeler"
+          "url": "https://finance.yahoo.com/news/karman-krmn-opens-utah-factory-180131338.html",
+          "title_en": "Karman (KRMN) Opens Utah Factory After Analyst Upgrade"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "摩根士丹利降低了NU控股的目标价，但仍维持买入评级。",
+          "time": "2026-03-15 08:10:50",
+          "title": "Amentum (AMTM) 领导的创业公司获得112亿美元核电站拆除合同",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/bofa-lowers-pt-nu-holdings-203616578.html",
-          "title_en": "BofA Lowers PT on NU Holdings (NU), Keeps a Hold Rating"
+          "url": "https://finance.yahoo.com/news/venture-led-amentum-amtm-secures-180146959.html",
+          "title_en": "Venture Led by Amentum (AMTM) Secures $112M Nuclear Decommissioning Contract"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "Medline Inc（MDLN）计划扩大配送中心",
+          "time": "2026-03-15 08:10:50",
+          "title": "AAR (AIR) 单位获得了159.7亿美元的空军合同。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/medline-inc-mdln-plans-expand-203614150.html",
-          "title_en": "Medline Inc (MDLN) Plans to Expand Distribution Centers"
+          "url": "https://finance.yahoo.com/news/aar-air-unit-secures-159-180200869.html",
+          "title_en": "AAR (AIR) Unit Secures $159.7M Contract With Air Force"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "Jefferies维持对Haleon plc（HLN）的买入评级。",
+          "time": "2026-03-15 08:10:50",
+          "title": "抖音母公司的股票：Pinterest（PIN）近期出现异常的期权交易活动，以下三点是主要驱动因素：",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jefferies-maintains-buy-haleon-plc-203613155.html",
-          "title_en": "Jefferies Maintains a Buy on Haleon plc (HLN)"
+          "url": "https://finance.yahoo.com/news/3-key-factors-driving-unusual-173002751.html",
+          "title_en": "3 Key Factors Driving Unusual Options Activity in Pinterest Stock: What to Watch Now"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-15 08:00:14",
-          "title": "3家买入的核能股\n\n在核能股中，以下三家公司因其强大的技术和可持续的增长潜力而值得关注：\n\n1. NextEra Energy (NEE)：美国最大的核能公司，拥有多个核电站和风电场。\n2. Exelon Corporation (EXC)：美国第二大核能公司，拥有多个核电站和电力分配网络。\n3. Dominion Energy (D)：拥有多个核电站和天然气资源的能源公司。",
+          "time": "2026-03-15 08:10:50",
+          "title": "美国人要求退还他们为1800亿美元关税支付的费用，并正在起诉像Costco这样的公司来实现这一点。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/3-top-nuclear-stocks-buy-232500366.html",
-          "title_en": "3 Top Nuclear Stocks to Buy Right Now"
+          "url": "https://finance.yahoo.com/news/americans-demanding-refunds-180-billion-174939469.html",
+          "title_en": "Americans are demanding refunds from the $180 billion in tariffs they paid for, and they’re suing companies like Costco to make it happen"
         }
       ]
     }
