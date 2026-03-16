@@ -1,6 +1,6 @@
 {
   "date": "2026.03.17",
-  "generatedAtBJT": "2026-03-17 02:03:21",
+  "generatedAtBJT": "2026-03-17 02:34:19",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-17 02:03:21",
+          "time": "2026-03-17 02:34:19",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注当下股市：道指上涨，贝森称伊朗事件对股市影响有限；AI 股票表现强劲。\n\n- 宏观/Fed：关注本周最佳贷款利率的-mortgage 借贷机构，2026年3月16日：FOMC 未来政策方向仍存不确定性。\n\n- 科技/半导体：亚马逊超越美国邮政服务成为最大包裹运输商，Meta 和 Lyft 等公司仍在竞争中。",
+          "summary": "- 地缘/避险：关注特朗普称伊朗最高领袖卡梅尼被美以袭击杀害。\n- 宏观/Fed：关注年轻一代大学生如何将Excel变成竞争项目。\n- 科技/半导体：OpenAI在与美国国防部的协议中详细介绍了多层保护机制。\n 关键词：买入，NVIDIA，可能，估值，Alphabet\n- TSLA：关注特斯拉的无人驾驶出租车法律纠纷加剧了增长和执行力问题。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Stock Market Today: Dow Up As Bessent Says This On Iran; AI Stoc…\n- 宏观/Fed：关注 Mortgage lenders with the best rates this week, March 16, 2026: …\n- 科技/半导体：Amazon overtakes US Postal Service as largest parcel carrier… 关键词: amazon, center, lyft, meta, ahead"
+          "summary_en": "- 地缘/避险：关注 Trump Says Khamenei Killed In U.S.-Israeli Attacks On Iran. How …\n- 宏观/Fed：关注 Meet the Gen Z college students who turned Excel into a competit…\n- 科技/半导体：OpenAI details layered protections in US defense department pact… 关键词: buy, nvidia, could, valuation, alphabet\n- TSLA：关注 Tesla Robotaxi Legal Battles Sharpen Questions On Growth And Exe…"
         }
       ]
     },
@@ -27,100 +27,184 @@
       "badge": "Mag7 / Semis",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "亚马逊超越美国邮政局成为美国最大包裹运输商",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/amazon-overtakes-us-postal-largest-171739554.html",
-          "title_en": "Amazon overtakes US Postal Service as largest parcel carrier"
+          "source": "Yahoo",
+          "ticker": "MSFT",
+          "time": "2026-03-01 09:20:03",
+          "title": "OpenAI在与美国国防部协议中详细说明了其多层保护措施。",
+          "summary": "OpenAI表示，前一天与美国国防部达成的协议，部署技术于美国国防部的机密网络，包括了额外的安全措施。",
+          "url": "https://finnhub.io/api/news?id=47eb575e2874cc3d64b4c2db69b940dcbee1600c698317c66a89020681407ecc",
+          "title_en": "OpenAI details layered protections in US defense department pact",
+          "summary_en": "Feb 28 (Reuters) - OpenAI said on Saturday that the agreement it struck a day ago with the Pentagon to deploy technology on the U.S. defense department's classified network includes additional"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "利프트（LYFT）等公司被美国众议院监督委员会调查，是否使用人工智能驱动的价格监控",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/lyft-lyft-among-companies-questioned-165820893.html",
-          "title_en": "Lyft (LYFT) Among Companies Questioned by U.S. House Oversight Committee Over Possible AI-Driven Surveillance Pricing"
+          "source": "Yahoo",
+          "ticker": "NVDA",
+          "time": "2026-03-01 09:06:49",
+          "title": "2026年及以后改善股票投资的7条规则：以Nvidia、Palantir、Netflix、Peloton和Super Micro Computer股票为例",
+          "summary": "如果你愿意投入时间和精力不断提高投资技能，长期来看你有很大的机会超越市场平均水平。",
+          "url": "https://finnhub.io/api/news?id=b5a76d49974494f70f825cdf3960b306bb8bf9ff199dca2bb06ff34630fe4714",
+          "title_en": "7 \"Rules\" to Improve Your Stock Investing in 2026 and Beyond: Using Nvidia, Palantir, Netflix, Peloton, and Super Micro Computer Stocks as Examples",
+          "summary_en": "If you're willing to put in the effort to continuously improve your investing, you have a good shot at beating the market over the long term."
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "战争损害但不会打破数据中心玩家；两大全球领袖",
-          "summary": "",
-          "url": "https://www.investors.com/research/data-center-nvent-nvt-stock-market/?src=A00220&yptr=yahoo",
-          "title_en": "War Dents But Does Not Break Data Center Play; Two Other Global Leaders"
+          "source": "Yahoo",
+          "ticker": "AAPL",
+          "time": "2026-03-01 09:00:00",
+          "title": "在4万亿美元俱乐部重聚之前，买入一只不可阻挡的股票",
+          "summary": "微软的最新财报表现良好，但其股价却在下滑。",
+          "url": "https://finnhub.io/api/news?id=3126856526e1fea25a3875c0ae0f0c9bd76ba2d2df4d5d54df64686d41c63906",
+          "title_en": "1 Unstoppable Stock to Buy Before It Rejoins Nvidia in the $4 Trillion Club",
+          "summary_en": "Microsoft's latest results were solid, so why is its share price slumping?"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "IREN 正在推动人工智能和比特币的发展。技术指标预示着未来强劲的增长。",
-          "summary": "",
-          "url": "https://www.barrons.com/articles/iren-technicals-point-to-growth-ahead-2802e740?siteid=yhoof2&yptr=yahoo",
-          "title_en": "IREN Is Making Moves in AI and Bitcoin. Technicals Point to Strong Growth Ahead."
+          "source": "Yahoo",
+          "ticker": "AAPL",
+          "time": "2026-03-01 08:51:00",
+          "title": "伯克希尔哈撒韦公司的Greg Abel表示，他预计苹果公司将在数十年内实现连续增长。",
+          "summary": "伯克希尔·哈撒韦公司最新的年度信函强调了投资者为什么要持有该科技巨头股票的长期价值。",
+          "url": "https://finnhub.io/api/news?id=a8ac9073e82929e0864b8e7eb608733571c24a5aa6871db7c7d0115557312063",
+          "title_en": "Berkshire Hathaway's Greg Abel Says He Expects Apple Will \"Compound Over Decades\"",
+          "summary_en": "Berkshire Hathaway's latest annual letter highlights why investors might want to hold on to the tech giant's stock for the long haul."
         },
         {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-17 01:35:50",
-          "title": "比尔·古利（Bill Gurley）谈论人工智能泡沫：一大群人快速致富，-reset即将来临。",
-          "summary": "格利的风险投资公司Benchmark是Uber早期的投资者，他帮助在2017年将当时的CEO特拉维斯·卡兰尼克（Travis Kalanick）推出。",
-          "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
-          "title_en": "Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
-          "summary_en": "Gurley's VC firm Benchmark was an early Uber investor, and he helped oust then-CEO Travis Kalanick in 2017."
+          "source": "Yahoo",
+          "ticker": "NVDA",
+          "time": "2026-03-01 08:05:00",
+          "title": "在股价下跌后，是否应该购买Nvidia？这个数字大声呼喊“是”。",
+          "summary": "NVIDIA现已比S&P 500便宜。",
+          "url": "https://finnhub.io/api/news?id=d3bfa551681f34cf2dde09195779ea6bdb5ae0181c4e78e3e63ca63bebbb0168",
+          "title_en": "Is Nvidia a Buy on the Post-Earnings Dip? This Number Screams \"Yes\"",
+          "summary_en": "Nvidia is now cheaper than the S&P 500, according to one key metric."
         },
         {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-17 00:27:05",
-          "title": "Nvidia的GTC将标志着AI芯片的转变。CPU正在成为焦点。",
-          "summary": "NVIDIA和AMD正在经历巨大的CPU需求，Jensen Huang即将在GTC会议上公布专为主动AI设计的处理器详细信息。",
-          "url": "https://www.cnbc.com/2026/03/13/nvidia-gtc-ai-jensen-huang-cpu-gpu.html",
-          "title_en": "Nvidia's GTC will mark an AI chip pivot. Here's why the CPU is taking center stage",
-          "summary_en": "Nvidia and AMD are seeing huge demand for CPUs and Jensen Huang is poised to unveil details for processors specialized for agentic AI at the GTC conference."
+          "source": "Yahoo",
+          "ticker": "NVDA",
+          "time": "2026-03-01 08:04:02",
+          "title": "吉姆·克拉默说：“NVIDIA给了你你想要的一切”。",
+          "summary": "纳斯达克上市公司（NASDAQ:NVDA）之一的NVIDIA Corporation是吉姆·克拉默（Jim Cramer）在节目中重点讨论的股票。克拉默在节目中详细讨论了该股票，并表示：大多数人不理解这些类型的程序是如何工作的。它们不是基于个别公司的具体基本面。它们基于直觉，相信市场的…",
+          "url": "https://finnhub.io/api/news?id=b48c9100a5604ca0564794e24c648a43847ea36139f80c5f3a6a094c1fd6e2af",
+          "title_en": "Jim Cramer Says “NVIDIA Gave You Everything You Could Ever Want”",
+          "summary_en": "NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer put under the microscope. Cramer discussed the stock in detail during the episode, as he stated: Most people don’t understand how these kinds of programs work. They’re not based on the specific fundamentals of individual companies. They’re based on intuition, a belief that the market’s […]"
         },
         {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-16 23:43:14",
-          "title": "Nebius跃升14%，该公司与Meta签署27亿美元的基础设施协议。",
-          "summary": "Meta计划今年与人工智能相关的资本支出最高可达135亿美元。",
-          "url": "https://www.cnbc.com/2026/03/16/meta-nebius-ai-infrastructure.html",
-          "title_en": "Nebius jumps 14% after company inks $27 billion infrastructure deal with Meta",
-          "summary_en": "Meta is planning capital expenditure of up to $135 billion related to AI this year."
+          "source": "Yahoo",
+          "ticker": "NVDA",
+          "time": "2026-03-01 06:35:00",
+          "title": "人工智能的最大瓶颈不再是芯片，而是电力。这些2家公司有望在2026年大幅上涨。",
+          "summary": "未来几年，AI数据中心将需要大量的电力。",
+          "url": "https://finnhub.io/api/news?id=587f8766547f14bc7aed4f710d8297a128aaf51dd0696e246b438272adcfa07e",
+          "title_en": "The Biggest Bottleneck in AI Isn't Chips Anymore; It's Power. These 2 Stocks Could Soar in 2026.",
+          "summary_en": "AI data centers will demand enormous power in the coming years."
         },
         {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-16 22:05:41",
-          "title": "Meta 股票因报告称公司计划裁员以弥补人工智能支出的计划而上涨近 3%。",
-          "summary": "Meta计划在2026年将在人工智能相关方面的资本支出达到最高1350亿美元，这让投资者对公司的支出是否可持续产生了担忧。",
-          "url": "https://www.cnbc.com/2026/03/16/meta-ai-costs-mass-layoffs-20percent-up-premarket.html",
-          "title_en": "Meta stock climbs nearly 3% on report of planned layoffs to offset AI spending",
-          "summary_en": "Meta is planning capital expenditure of up to $135 billion in AI-related costs in 2026, which raised investors' fears around unsustainable spending."
+          "source": "Yahoo",
+          "ticker": "MSFT",
+          "time": "2026-03-01 06:33:00",
+          "title": "OpenAI刚刚筹集了1100亿美元，但仍可能不足",
+          "summary": "OpenAI刚刚打破了自己的记录。该公司的ChatGPT背后宣布，周五公司已获得1100亿美元的新融资，几乎是3月份关闭的41亿美元融资的三倍，后者本身就是历史上最大的私人科技融资之一。该公司表示，亚马逊（AMZN）是...",
+          "url": "https://finnhub.io/api/news?id=de76c7a60f585f9b583d8097a4d9aeaf82b2ef61f28cb8e80f8f1429275ca2fd",
+          "title_en": "OpenAI just raised $110 billion and it still may not be enough",
+          "summary_en": "OpenAI just broke its own record. The company behind ChatGPT announced Friday it has raised $110 billion in new funding, nearly tripling the $41 billion round it closed in March 2025, which was itself the largest private tech fundraise in history at the time. The company said Amazon (AMZN) is ..."
         },
         {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-16 16:39:38",
-          "title": "在AI竞赛中，微软领衔的大型科技公司购买碳信用证爆炸式增长",
-          "summary": "亚马逊、谷歌、Meta和微软在2023年购买碳信用证的金额大幅增加。",
-          "url": "https://www.cnbc.com/2026/03/16/microsoft-carbon-credits-ai-tech-google-meta.html",
-          "title_en": "Big Tech purchases of carbon credits explode amid AI race, with Microsoft leading the way",
-          "summary_en": "Carbon credit purchases by Amazon, Google, Meta and Microsoft skyrocketed in 2023, based on tracked purchases."
+          "source": "Yahoo",
+          "ticker": "GOOGL",
+          "time": "2026-03-01 06:14:09",
+          "title": "Alphabet 的清洁能源押注重塑了数据中心电力和估值故事",
+          "summary": "谷歌（Alphabet，纳斯达克代码：GOOGL）与AES和Xcel Energy合作，签署了长期的电力供应协议，用于支持美国的新数据中心。谷歌还推出了全球最大型的铁空气电池储能系统，使用Form Energy的技术，这是主要云服务提供商首次采用此技术。",
+          "url": "https://finnhub.io/api/news?id=91e3ae1be05ac45699b3b0ff49104dba15465b2fba883baef937bc8a90a74d7e",
+          "title_en": "Alphabet’s Clean Energy Bet Reshapes Data Center Power And Valuation Story",
+          "summary_en": "Google, part of Alphabet (NasdaqGS:GOOGL), has signed long term power supply agreements in Texas and Minnesota to support new U.S. data centers. The company is working with AES and Xcel Energy to secure clean energy for these facilities. Google is also rolling out what it describes as the world’s largest iron air battery storage system using Form Energy’s technology, a first for a major cloud provider. For you as an investor, this move sits at the intersection of Alphabet’s core businesses..."
         },
         {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-16 08:18:14",
-          "title": "中国电商巨头JD.com正与亚马逊在欧洲展开竞争。",
-          "summary": "京东商城正通过推出同日送达和国际品牌来帮助自己与亚马逊竞争。",
-          "url": "https://www.cnbc.com/2026/03/16/jd-launches-joybuy-in-europe-amazon-rival.html",
-          "title_en": "JD.com takes on Amazon in Europe as China's e-commerce titans expand globally",
-          "summary_en": "JD.com is pushing same-day delivery and international brands as a way to help it compete with Amazon."
+          "source": "Yahoo",
+          "ticker": "MSFT",
+          "time": "2026-03-01 05:57:00",
+          "title": "预测：三年后微软的股价会是这样。 (提示：现在你可能会想买入)",
+          "summary": "微软的股票具有巨大的上涨空间，投资者很少从价值一万亿美元的公司中看到这样的情况。",
+          "url": "https://finnhub.io/api/news?id=fa4d7ea965a8a94e8e9dacff8f2dc3dd59ed0f0678296ba85b965c0d699b69a2",
+          "title_en": "Prediction: This Will Be Microsoft's Stock Price in 3 Years. (Hint: You're Going to Want to Buy Now)",
+          "summary_en": "Microsoft's stock has massive upside that investors don't often see from trillion-dollar companies."
+        },
+        {
+          "source": "Yahoo",
+          "ticker": "AMZN",
+          "time": "2026-03-01 05:06:00",
+          "title": "亚马逊与库斯托：哪只股票更值得投资？",
+          "summary": "两大零售巨头都拥有坚固的业务和强劲的近期业绩。但是，今天其中一只股票提供了一个更具吸引力的入场点。",
+          "url": "https://finnhub.io/api/news?id=413d8f01dedf04b4421af32ed6e0fa2ca1adb4b07821b39132619fa1a4451a8f",
+          "title_en": "Amazon vs. Costco: Which Stock Is a Better Buy?",
+          "summary_en": "Both retail giants boast durable businesses and strong recent results. But one stock offers a much more attractive entry point today."
+        },
+        {
+          "source": "Yahoo",
+          "ticker": "AAPL",
+          "time": "2026-03-01 04:50:00",
+          "title": "预测：这家人工智能股价将在2028年前加入Nvidia、Apple和Alphabet等$3万亿俱乐部",
+          "summary": "其中一位“七大奇才”成员相较于同行被低估，但这种情况可能会迅速改变。",
+          "url": "https://finnhub.io/api/news?id=911db99b726b34bbf9098fb396fd7726e017480edb0febbb244a0c84806809d3",
+          "title_en": "Prediction: This Artificial Intelligence (AI) Stock Will Join Nvidia, Apple, and Alphabet in the $3 Trillion Club Before 2028",
+          "summary_en": "One particular member of the \"Magnificent Seven\" is valued at a discount compared to its peers, but that could change swiftly."
+        },
+        {
+          "source": "Yahoo",
+          "ticker": "AMZN",
+          "time": "2026-03-01 04:30:59",
+          "title": "人工智能热潮可能正在房地产市场埋下隐患",
+          "summary": "人工智能正在带来巨大的生产力增长，但它也可能在金融系统的一个最重要的支柱——房屋市场——中创造出隐含的风险。 人工智能可能会对房屋稳定性造成冲击 房地产市场依赖于...",
+          "url": "https://finnhub.io/api/news?id=0aa9a2df5e75fa40f78044fb5994426cc86db4582dbf95e57d9d6f1a0b987523",
+          "title_en": "AI Boom May Be Creating Hidden Risks In Housing Market",
+          "summary_en": "Artificial intelligence is driving massive productivity gains — but it may also be creating hidden risks in one of the most important pillars of the financial system: housing. AI Job Disruption Could Hit Housing Stability Mortgage markets rely on a..."
+        },
+        {
+          "source": "Yahoo",
+          "ticker": "NVDA",
+          "time": "2026-03-01 04:10:54",
+          "title": "思科的Secure AI工厂将主权数据推动与估值故事联系起来",
+          "summary": "思科系统（Cisco Systems）与SharonAI Holdings和NVIDIA合作，在澳大利亚推出首个Secure AI Factory。该项目重点关注主权AI基础设施，确保在澳大利亚内处理AI数据。Secure AI Factory旨在为澳大利亚客户提供安全、高性能的AI工作负载支持。思科系统（NasdaqGS:CSCO）将此消息与其在全球网络和数据中心基础设施中的既有地位联系起来。该公司股价为79.46美元，过去一年...",
+          "url": "https://finnhub.io/api/news?id=4a054aa9c0a4d7d4375f5a499a8276539683b9b6eab6fd80dfc69608c52eba4a",
+          "title_en": "Cisco’s Secure AI Factory Links Sovereign Data Push To Valuation Story",
+          "summary_en": "Cisco Systems launched Australia's first Secure AI Factory in partnership with SharonAI Holdings and NVIDIA. The project focuses on sovereign AI infrastructure, keeping AI data processing within Australia. The Secure AI Factory is designed to support secure, high performance AI workloads for Australian customers. Cisco Systems, NasdaqGS:CSCO, is tying this news to an established position in global networking and data center infrastructure. The share price sits at $79.46, with a 1 year..."
+        },
+        {
+          "source": "Yahoo",
+          "ticker": "GOOGL",
+          "time": "2026-03-01 03:33:00",
+          "title": "三星Galaxy S26带来了“主动AI”，而且比三星更大。",
+          "summary": "三星坚定地处于一种大胆的思维模式中。它正在提高其主流旗舰手机的价格，并在隐私显示和主动AI功能方面进行更大的推进，这是一个值得三星电子、昆सल科、 Alphabet 和美国运营商分析的组合。三星的新Galaxy S26系列是一项...",
+          "url": "https://finnhub.io/api/news?id=09b1023f5cea144b4dcd9c037cf9082a556eabf4db9c2a5f4c760c8a00c07800",
+          "title_en": "Galaxy S26 brings 'agentic AI' to phones, and it’s bigger than Samsung",
+          "summary_en": "Samsung is firmly in a bold type of mindset. It’s raising prices on its mainstream flagships and making a greater push into privacy display and agentic AI features, a combination worth analyzing for Samsung Electronics, Qualcomm, Alphabet, and the U.S. carriers. Samsung’s new Galaxy S26 lineup is a ..."
+        },
+        {
+          "source": "Yahoo",
+          "ticker": "NVDA",
+          "time": "2026-03-01 03:06:34",
+          "title": "帕洛阿尔托网络的AI安全推动测试了投资者的耐心和估值",
+          "summary": "帕洛阿尔托网络 (纳斯达克：PANW) 宣布收购 CyberArk 和 Koi Security 以扩大其人工智能安全能力并统一其平台。该公司还宣布了新技术合作伙伴，包括 Nvidia，计划将其安全平台嵌入工业系统。与此同时，帕洛阿尔托网络发布了2026年第二季度财报，并提高了全年收入预测，同时警告说短期集成成本会更高，利润预测会更低。",
+          "url": "https://finnhub.io/api/news?id=cb3ee77ee7ec66ce8b3c2460c4d34ebdc8c9d928ad717ce5208811983c02fdc2",
+          "title_en": "Palo Alto Networks AI Security Push Tests Investor Patience And Valuation",
+          "summary_en": "Palo Alto Networks (NasdaqGS:PANW) has agreed to acquire CyberArk and Koi Security to expand its AI security capabilities and unify its platform. The company announced new technology partnerships, including Nvidia, to embed its security platform into industrial systems. Alongside these moves, Palo Alto Networks reported Q2 FY2026 results and raised full year revenue guidance, while flagging higher near term integration costs and lower profit guidance. Palo Alto Networks, trading around..."
+        },
+        {
+          "source": "Yahoo",
+          "ticker": "META",
+          "time": "2026-03-01 01:35:00",
+          "title": "Meta Platforms (META) 股价在AMD收购后是否值得买入？",
+          "summary": "Meta Platforms 在与 AMD 的交易中看起来像是赢家。",
+          "url": "https://finnhub.io/api/news?id=52052a0e74c4428ec57c3e586e4622c5b67b12a2a3aa844d2dfced148d881e71",
+          "title_en": "Is Meta Platforms a Buy After AMD Deal?",
+          "summary_en": "Meta Platforms looks like a nice winner in its deal with AMD."
+        },
+        {
+          "source": "Yahoo",
+          "ticker": "AMZN",
+          "time": "2026-03-01 01:23:00",
+          "title": "亚马逊的好日子可能还在前方等待",
+          "summary": "电商巨头的未来路线上有很多事情要做。",
+          "url": "https://finnhub.io/api/news?id=31b7439daa11c622c73f385c0e7b657c74c50fdd26188373374939574d69f892",
+          "title_en": "Amazon's Best Days Could Still Be Yet to Come",
+          "summary_en": "The e-commerce giant has a long to-do list on its path forward."
         }
       ]
     },
@@ -129,40 +213,34 @@
       "badge": "Fed / Policy",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "本周3月16日，最佳抵押贷款利率：5.889%的APR获得最低利率",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-march-16-2026-170834623.html",
-          "title_en": "Mortgage lenders with the best rates this week, March 16, 2026: 5.889% APR wins lowest rate"
+          "source": "Yahoo",
+          "ticker": "MSFT",
+          "time": "2026-02-28 19:02:00",
+          "title": "一群Gen Z大学生将Excel转变为竞争性电子竞技，他们正在参加电子表格挑战，并且这帮助他们找到工作。",
+          "summary": "微软背后的电子表格竞赛正在将 Gen Z 大学生转变为求职者的佼佼者。",
+          "url": "https://finnhub.io/api/news?id=7d85761aba6126a6c89fa9f375cfee69afe1b736bc4f750fbe3f797b47d3b938",
+          "title_en": "Meet the Gen Z college students who turned Excel into a competitive esport—they’re competing in spreadsheet challenges and it’s helping them land jobs",
+          "summary_en": "Microsoft-backed spreadsheet competitions are turning Gen Z college students into job-market standouts."
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "布莱克罗克称，通胀风险正在酝酿，美国国债将继续下跌。",
-          "summary": "",
-          "url": "https://www.barrons.com/articles/treasuries-inflation-oil-iran-fed-interest-rates-e51efed1?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Brace for Treasuries to Keep Selling Off. Inflation Risks Are Lurking, BlackRock Says."
+          "source": "SeekingAlpha",
+          "ticker": "AVGO",
+          "time": "2026-02-28 19:00:00",
+          "title": "阿里巴巴即将公布财报，投资者关注就业数据",
+          "summary": "华尔街周报：关注关键市场事件——PMI、就业、零售销售、IPO和收益（BABA、CRWD、AVGO）。",
+          "url": "https://finnhub.io/api/news?id=ce5426a79a0803d53b5a31b480885a06f30363e5cbd203eaaba1b34f8ac6f46b",
+          "title_en": "Alibaba Set To Report Earnings While Investors Watch Out For Jobs Data",
+          "summary_en": "Wall Street Week Ahead: Track key market eventsâPMI, jobs, retail sales, IPOs and earnings (BABA, CRWD, AVGO). Read more details here."
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "短期通胀担忧加剧",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46435_MarketOutlook_1773660333000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily Spotlight: Near-Term Inflation Fears Picking Up"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "纽约联邦储备银行：美国人申请信用额度达到2022年10月以来的最高水平",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/ny-fed-americans-credit-applications-161849020.html",
-          "title_en": "NY Fed: Americans' credit applications rise to highest level since October 2022"
+          "source": "Yahoo",
+          "ticker": "AVGO",
+          "time": "2026-02-28 08:00:27",
+          "title": "伯克希尔哈撒韦亨利收益，2月就业报告：值得关注",
+          "summary": "下周将发布的重要财经事件包括本周末伯克希尔·哈撒韦公司（Berkshire Hathaway，BRK-B、BRK-A）财报结果，随后是周一到周五的Costco（COST）、Target（TGT）、Okta（OKTA）和Broadcom（AVGO）财报结果；周五3月6日发布2月份就业报告；以及各个地区联邦储备银行主席的评论。",
+          "url": "https://finnhub.io/api/news?id=99dd5f1d387111a3d7e073a387796d160fb7149c96f062bfdbc208df5623eb71",
+          "title_en": "Berkshire Hathaway earnings, February jobs report: What to Watch",
+          "summary_en": "Market Domination Overtime Host Josh Lipton previews several of the biggest stories to come next week, including earnings results out from Berkshire Hathaway (BRK-B, BRK-A) this weekend, followed by companies like Costco (COST), Target (TGT), Okta (OKTA), and Broadcom (AVGO) throughout the week; the release of February's jobs report on Friday, March 6; and commentary from presidents of regional Federal Reserve banks. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime."
         }
       ]
     },
@@ -171,350 +249,296 @@
       "badge": "Risk / Oil / Gold",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "股市今日：道指上涨，贝森特称伊朗局势此时如此；AI股突破买点，Nvidia大涨（实时直播）",
-          "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-stock-nvda/?src=A00220&yptr=yahoo",
-          "title_en": "Stock Market Today: Dow Up As Bessent Says This On Iran; AI Stock Hits Buy Zone, Nvidia Pops (Live Coverage)"
+          "source": "Yahoo",
+          "ticker": "AAPL",
+          "time": "2026-03-01 05:50:10",
+          "title": "特朗普称卡梅内伊在美以攻击伊朗后遇害。道琼斯期货将如何反应？",
+          "summary": "美国和以色列正在攻击伊朗。特朗普总统称伊朗最高领袖哈梅内伊已经被杀害。道琼斯指数期货和石油价格会如何反应？",
+          "url": "https://finnhub.io/api/news?id=4994c8815fd37000937308e090e7be6702cbcac23ba98fafc174c0ccffa7b39f",
+          "title_en": "Trump Says Khamenei Killed In U.S.-Israeli Attacks On Iran. How Will Dow Jones Futures React?",
+          "summary_en": "The U.S. and Israel are attacking Iran. President Trump says Ayatollah Khamenei has been killed. How will Dow Jones futures and oil react?"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "股市今日：道指、标普500指数、纳斯达克指数上涨，华尔街希望霍尔木兹海峡重开",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-wall-street-crosses-fingers-for-hormuz-reopening-224643385.html",
-          "title_en": "Stock market today: Dow, S&P 500, Nasdaq rise as Wall Street crosses fingers for Hormuz reopening"
+          "source": "Yahoo",
+          "ticker": "AAPL",
+          "time": "2026-03-01 01:00:09",
+          "title": "股市周报：伊朗反应、伯克希尔收益、苹果事件",
+          "summary": "周末美国和以色列对伊朗的袭击将对股市产生重大影响。",
+          "url": "https://finnhub.io/api/news?id=7525130cdedb2ec71190a51e2dc0cde13c27d5a0db8df4bf7441e1334bf3c7d7",
+          "title_en": "Stock Market Week: Reaction To Iran, Berkshire Earnings, Apple Event",
+          "summary_en": "The coming week's stock market action will largely revolve around investor response to Saturday's U.S.-Israeli attack on Iran."
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "美国航空集团（AAL）股价受油价剧烈上涨的影响而受压。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/american-airlines-group-aal-shares-165809575.html",
-          "title_en": "American Airlines Group (AAL) Shares Under Pressure Amid Dramatic Increase in Oil Prices"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "在油价突破102美元一桶后，太阳能股再次升温，前景已实现345%的增长",
-          "summary": "",
-          "url": "https://www.investors.com/news/solar-energy-renewable-energy-entl-stock-crude-oil/?src=A00220&yptr=yahoo",
-          "title_en": "After 345% Run, This Solar Power Stock Heats Up As Oil Tops $102 A Barrel"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "在高油价背景下如何管理皇家加勒比航运股",
-          "summary": "",
-          "url": "https://www.investors.com/research/options/royal-caribbean-rcl-stock-bear-put-spread-options-oil-prices/?src=A00220&yptr=yahoo",
-          "title_en": "How To Manage Royal Caribbean Stock Amid High Oil Prices"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "本周二将公布的经济数据包括待售房屋销售和石油库存。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/pending-home-sales-and-oil-inventories-among-economic-data-due-tuesday-93CH-4563528",
-          "title_en": "Pending home sales and oil inventories among economic data due Tuesday"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "股市从上周的低迷中恢复，受科技股和油价下滑的推动。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-trump-calls-for-help-reopening-key-shipping-lane-4562325",
-          "title_en": "Stocks rebound from last week’s slump, boosted by tech stocks & sliding oil prices"
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-17 01:49:22",
-          "title": "霍尔木兹海峡对峙使美国的普通药品处方供应面临风险",
-          "summary": "美国一半的普通药物由印度制造，通过霍尔木兹海峡运输。供应链正在为紧急情况做准备，但处方储备有限。",
-          "url": "https://www.cnbc.com/2026/03/16/strait-of-hormuz-closure-generic-drug-prescriptions.html",
-          "title_en": "Strait of Hormuz standoff puts supply of America's generic drug prescriptions at risk",
-          "summary_en": "Half of US generic drugs are made in India and transit the Strait of Hormuz. Supply chains prepare for emergencies, but prescription stockpiles are limited."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-17 01:43:00",
-          "title": "特朗普称“多个国家”将帮助重开霍尔木兹海峡，但拒绝透露具体国家。",
-          "summary": "美国总统说：“许多国家都告诉我他们正在这条路上。”",
-          "url": "https://www.marketwatch.com/story/trump-says-numerous-countries-will-help-reopen-the-strait-of-hormuz-but-declines-to-name-them-b898aa4b?mod=mw_rss_topstories",
-          "title_en": "Trump says ‘numerous countries’ will help reopen the Strait of Hormuz but declines to name them",
-          "summary_en": "“Numerous countries have told me they’re on the way,” says U.S. president."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-17 01:38:00",
-          "title": "美元和加密货币都受益于伊朗危机，这是一个不寻常的转变",
-          "summary": "美国和以色列对伊朗的战争中，金融市场中出现了不寻常的赢家和输家。",
-          "url": "https://www.marketwatch.com/story/the-u-s-dollar-and-crypto-are-both-benefiting-from-the-iran-crisis-in-an-unusual-move-85873834?mod=mw_rss_topstories",
-          "title_en": "The U.S. dollar and crypto are both benefiting from the Iran crisis, in an unusual move",
-          "summary_en": "One of the more unusual takeaways from the U.S. and Israel’s war against Iran is which winners and losers are emerging in financial markets."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-17 01:10:24",
-          "title": "石油价格下跌，特朗普施压盟国帮助保护霍尔木兹海峡的油轮",
-          "summary": "美国对霍尔木兹岛的打击和特朗普威胁要攻击伊朗石油基础设施标志着战争的重大升级，据摩根士丹利(JPMorgan)称。",
-          "url": "https://www.cnbc.com/2026/03/15/oil-prices-today-iran-war.html",
-          "title_en": "Oil prices fall as Trump pressures allies to help protect tankers in Strait of Hormuz",
-          "summary_en": "The U.S. strikes on Kharg Island and Trump's threat to hit Iran's oil infrastructure mark a major escalation in the war, according to JPMorgan."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-17 01:10:10",
-          "title": "伊朗战争是旅行中最新的“最坏情景”，专家说。如何最小化未来中断的痛苦",
-          "summary": "2026年初，包括伊朗战争在内的许多重大旅行中断事件发生。旅行顾问提供了一些建议以减轻其影响。",
-          "url": "https://www.cnbc.com/2026/03/16/iran-war-travel-disruptions-how-to-avoid.html",
-          "title_en": "Iran war is the latest 'worst-case scenario' for travel, expert says. How to minimize the pain of future disruptions",
-          "summary_en": "There have been many significant travel disruptions at the start of 2026, including the war in Iran. Travel advisors give some tips to blunt the impact."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-17 00:46:00",
-          "title": "美国司机在伊朗冲突进入第三周后在加油站支付的金额增加了多少",
-          "summary": "美国司机在加油站购买汽油的每加仑价格达到2023年第四季度以来最高水平，伊朗冲突进入第三周。",
-          "url": "https://www.marketwatch.com/story/heres-how-much-more-u-s-drivers-are-paying-at-the-pump-as-the-iran-conflict-enters-a-third-week-12318d79?mod=mw_rss_topstories",
-          "title_en": "Here’s how much more U.S. drivers are paying at the pump as the Iran conflict enters a third week",
-          "summary_en": "U.S. drivers are paying the highest per-gallon price for gasoline at the pump since the fourth quarter of 2023 as the Iran conflict entered a third week on Monday."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-17 00:33:00",
-          "title": "如果伊朗冲突持续，可能会使你的更大的退税被“完全”吞噬，无法抵消飙升的汽油和能源价格。",
-          "summary": "退税金额几乎比去年同期高出11%，美国税务局表示。",
-          "url": "https://www.marketwatch.com/story/soaring-gas-and-energy-prices-could-completely-eat-up-your-bigger-tax-refund-if-the-iran-conflict-continues-61b15f70?mod=mw_rss_topstories",
-          "title_en": "Your bigger tax refund could be ‘completely’ eaten up by soaring gas and energy prices if the Iran conflict continues",
-          "summary_en": "Refunds are almost 11% higher than the same point last year, the IRS said."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-16 23:48:02",
-          "title": "欧洲市场反弹，石油价格仍在关注之中",
-          "summary": "欧洲股市周一早盘部分回吐了早些时候的跌幅，中东局势持续不稳和全球油价上涨使得投资者情绪低迷。",
-          "url": "https://www.cnbc.com/2026/03/16/european-markets-stoxx-600-ftse-dax-cac-iran-latest-oil-prices.html",
-          "title_en": "European markets regain footing as oil prices remain in focus",
-          "summary_en": "European stocks pared some early losses on Monday morning as the ongoing unrest in the Middle East and elevated global oil prices weighs on investor sentiment."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-16 23:36:49",
-          "title": "美国允许伊朗油轮通过霍尔木兹海峡。",
-          "summary": "白宫认为在海军护航部署之前，霍尔木兹海峡的油轮通行量将会增加。",
-          "url": "https://www.cnbc.com/2026/03/16/us-is-allowing-iranian-tankers-through-strait-of-hormuz-says-bessent.html",
-          "title_en": "U.S. is allowing Iranian oil tankers through Strait of Hormuz, says Bessent",
-          "summary_en": "The White House believes tanker traffic through the Strait of Hormuz will increase before Navy escorts are deployed, Treasury Secretary Scott Bessent said."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-16 22:59:08",
-          "title": "石油价格持续上涨，联邦储备委员会、Nvidia的重要周和更多在晨间早报",
-          "summary": "今天市场投资者需要了解的五个关键信息。",
-          "url": "https://www.cnbc.com/2026/03/16/5-things-to-know-before-the-market-opens.html",
-          "title_en": "Oil continues to rise, the Federal Reserve, Nvidia's big week and more in Morning Squawk",
-          "summary_en": "Here are five key things investors need to know to start the trading day."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-16 22:40:47",
-          "title": "特朗普-习近平峰会可能延期，如果特朗普想留在华盛顿参加伊朗战争。",
-          "summary": "特朗普的访问，预计于3月31日至4月2日举行，将是美国总统自2017年以来首次访问该国。",
-          "url": "https://www.cnbc.com/2026/03/16/bessent-trump-xi-china-iran-war.html",
-          "title_en": "Trump-Xi China summit may be delayed if Trump wants to stay in Washington for Iran war: Bessent",
-          "summary_en": "Trump's visit, scheduled for March 31-April 2, would be the first for a U.S. president since he went to the country in 2017."
+          "source": "Yahoo",
+          "ticker": "AAPL",
+          "time": "2026-02-28 21:50:55",
+          "title": "特朗普、以色列发动针对伊朗的\"大规模\"袭击；道琼斯期货如何回应？",
+          "summary": "美国和以色列开始大规模袭击，特朗普总统敦促伊朗民众起义。道琼斯期货和油价将如何反应？",
+          "url": "https://finnhub.io/api/news?id=d0349f168d8e65d8383def42fb404646c754418c5c8907bcb61328261ce007f3",
+          "title_en": "Trump, Israel Launch 'Massive' Attacks On Iran; How Will Dow Jones Futures React?",
+          "summary_en": "The U.S. and Israel have begun massive attacks as President Trump urged Iranians to rise up. How will Dow Jones futures and oil prices react?"
         }
       ]
     },
     {
       "name": "特斯拉链",
       "badge": "TSLA chain",
-      "items": []
+      "items": [
+        {
+          "source": "Yahoo",
+          "ticker": "TSLA",
+          "time": "2026-03-01 03:09:19",
+          "title": "特斯拉的无人驾驶出租车法律纠纷加剧了增长和执行能力的疑问。",
+          "summary": "特斯拉 (纳斯达克：TSLA) 与加州DMV的法律纠纷升级，涉及其在营销自动驾驶和无人出租车能力方面的做法。该公司面临一项新的联邦集体诉讼，针对其在构建自动驾驶和机器人工作力的劳动实践方面的做法。特斯拉还卷入了一项商标争端，涉及其将未来无人出租车服务与“Cybercab”名称联系起来的做法。这些案件与公司高管离职、加州自动驾驶测试活动停滞以及...",
+          "url": "https://finnhub.io/api/news?id=7e4e493106079e665767880bd11b237a4eea703b0df70eac99431e268b9e35d1",
+          "title_en": "Tesla Robotaxi Legal Battles Sharpen Questions On Growth And Execution",
+          "summary_en": "Tesla (NasdaqGS: TSLA) is escalating legal disputes with California’s DMV over how it markets autonomous driving and robotaxi capabilities. The company faces a new federal class action lawsuit focused on labor practices as it builds out its autonomy and robotics workforce. Tesla is involved in a trademark fight over the \"Cybercab\" name that it has linked to future robotaxi services. These cases come alongside executive departures, stalled autonomous test activity in California, and missed..."
+        },
+        {
+          "source": "Yahoo",
+          "ticker": "TSLA",
+          "time": "2026-03-01 02:31:06",
+          "title": "Ross Gerber 警告称特斯拉的 \"疯狂马克斯\" 自动驾驶模式 \"基本上是不安全的\"，此前特斯拉自动驾驶系统的责任判决达240亿美元。",
+          "summary": "Gerber Kawasaki投资公司联合创始人罗斯·格伯(Ross Gerber)周三发出严厉警告，指出特斯拉(Tesla Inc.,纳斯达克代码:TSLA)的自动驾驶软件存在安全隐患。格伯的评论是在特斯拉涉及其Autopilot系统的法律打击之后发表的。  Mad Max的安全关切  格伯在X（原Twitter）周三发表了一篇文章，回应特斯拉支持者的反弹，同时坚持自己的安全关切。 \"特斯拉人似乎被我认为它是一个坏想法所触发了。",
+          "url": "https://finnhub.io/api/news?id=6d5d85ab2f4ba5733ea83338ba5c085a99c726cb61f7b873be229c6562e38c14",
+          "title_en": "Ross Gerber Warns Tesla's 'Mad Max' FSD Mode Is 'Basically Unsafe' Following $240 Million Autopilot Liability Verdict",
+          "summary_en": "Ross Gerber, co-founder of investment firm Gerber Kawasaki, issued a stern warning on Wednesday regarding the safety of Tesla Inc.'s (NASDAQ:TSLA) autonomous driving software. Gerber's comments come on the heels of a legal setback for the EV maker involving its Autopilot system. Mad Max's Safety Concerns In a post on Wednesday on X (formerly Twitter), Gerber addressed backlash from Tesla supporters while doubling down on his safety concerns. \"Tesla people seem triggered that I think it's a bad i"
+        },
+        {
+          "source": "Yahoo",
+          "ticker": "TSLA",
+          "time": "2026-03-01 01:30:13",
+          "title": "特斯拉竞争对手XPeng扩大机器人业务，建造广州工厂，生产Optimus挑战者IRON",
+          "summary": "XPeng Inc. (NYSE:XPEV) 计划在中国建造新的人形机器人工厂，随着全球科技行业对机器人技术的重视。 2026年底生产目标 公司将在今年第一季度开始在广州，中国，建造其1.18万平方米的工厂，并计划在今年年底前大规模生产其IRON人形机器人，CnEVPost周三报道称。 这一举动是XPeng为解决机器人训练数据不足和生产瓶颈而采取的措施。",
+          "url": "https://finnhub.io/api/news?id=bf25a3f69fdea256bc64d6229527e8b755018b5b36cdd70de0067d155c87f19f",
+          "title_en": "Tesla Rival Xpeng Expands Robotics Bet With Guangzhou Factory For Optimus Challenger IRON",
+          "summary_en": "Xpeng Inc. (NYSE:XPEV) is set to break ground on its new humanoid robot factory in China as robotics takes center stage in the global tech industry. End Of 2026 Production Goal The company will begin work on its 1.18 million sq. ft. facility in Guangzhou, China, in the first quarter this year and is targeting large-scale production of its IRON humanoid robot by the end of the year, CnEVPost reported on Wednesday. The move comes as Xpeng plans to address insufficient training data and production"
+        },
+        {
+          "source": "Yahoo",
+          "ticker": "TSLA",
+          "time": "2026-02-28 23:00:00",
+          "title": "Harbinger收购了无人驾驶公司Phantom AI",
+          "summary": "哈伯因格尔（Harbinger）收购了幻影AI（Phantom AI），并与ZF的乘用车ADAS（智能驾驶辅助系统）单元签署了许可协议，这是加利福尼亚公司进入商用车软件和高级驾驶辅助系统的第一步。",
+          "url": "https://finnhub.io/api/news?id=f3109234090df47decf3519ff5eebec2fea6d3e4209dff1db8ab230616d6e99f",
+          "title_en": "Harbinger acquires autonomous-driving firm Phantom AI",
+          "summary_en": "Harbinger has bought Phantom AI and signed a licensing agreement with ZF’s passenger-car ADAS unit, marking the California company’s first move into software and advanced driver assistance for commercial vehicles. The post Harbinger acquires autonomous-driving firm Phantom AI appeared first on FreightWaves."
+        },
+        {
+          "source": "Yahoo",
+          "ticker": "TSLA",
+          "time": "2026-02-28 20:30:16",
+          "title": "特斯拉Cybercab：芝加哥高速公路测试，埃隆·马斯克的30,000美元价格标签，商标纠纷等",
+          "summary": "特斯拉公司（NASDAQ：TSLA）的Cybercab对于CEO埃隆·马斯克的无人驾驶汽车和自驾车计划至关重要，因为该公司正在推动人工智能和机器人技术。尽管交付仍然有一段时间，但新闻周期已经充满了有关该车辆的更新。让我们看看最近与Cybercab有关的事件。 Cybercab在芝加哥进行测试 在周三在社交媒体平台X上发布的一段视频中，用户@tnertz分享了一段视频，显示Cybercab正在芝加哥进行测试。",
+          "url": "https://finnhub.io/api/news?id=1b200bbd9662d5e5a651773b5dc62a1a41c7ddd913a087e2781655b1791e3991",
+          "title_en": "Tesla Cybercab: Chicago Highway Testing, Elon Musk's $30,000 Price Tag, Trademark Woes And More",
+          "summary_en": "The Tesla Inc. (NASDAQ:TSLA) Cybercab is pivotal to CEO Elon Musk's robotaxi and self-driving ambitions as the automaker pushes towards artificial intelligence and robotics. While deliveries are still some time away, the news cycles have been filled with several updates about the vehicle. Let's take a look at some recent events with the Cybercab. Cybercab Spotted Testing In Chicago In a video posted on the social media platform X on Wednesday, a user @tnertz shared a video of the Cybercab as it"
+        },
+        {
+          "source": "Benzinga",
+          "ticker": "GOOGL",
+          "time": "2026-02-28 12:47:22",
+          "title": "维诺德·科斯拉支持自主AI武器  Anthropic与美国国防部的争端：\"普京不会公平竞争\"",
+          "summary": "风险投资家Vinod Khosla批评了Anthropic因其对自主武器的立场而受到批评， Anthropic正面临着一项五角大楼的黑名单，并目睹OpenAI获得了国防部的合同。",
+          "url": "https://finnhub.io/api/news?id=4f7c6e64ebe5279d8cb554a2b590ccbaf1587fab68a936f82c812a433c9c2879",
+          "title_en": "Vinod Khosla Backs Autonomous AI Weapons Amid Anthropic-Pentagon Showdown: 'Putin Won't Fight Fair'",
+          "summary_en": "Venture capitalist Vinod Khosla criticized Anthropic over its stance on autonomous weapons as the company faces a Pentagon blacklist and watches OpenAI secure a Defense Department deal."
+        },
+        {
+          "source": "Yahoo",
+          "ticker": "TSLA",
+          "time": "2026-02-28 11:57:34",
+          "title": "BENCHMARK确认特斯拉(TSLA)买入评级  在利润率强劲和能源增长动力下",
+          "summary": "比尔玛克（Benchmark）于2月11日维持了对特斯拉（Tesla Inc.，NASDAQ:TSLA）保持买入评级和475美元的目标价，特斯拉（Tesla Inc.，NASDAQ:TSLA）巨头正准备在2026年初进行战略调整。比尔玛克（Benchmark）强调特斯拉第四季度的业绩，显示了利润率的韧性、能源增长和现金流的稳定。",
+          "url": "https://finnhub.io/api/news?id=31f9e26873efa77dc9ba4e1ac45b1b9d5f61accc11fe0003322175ddd7a97e08",
+          "title_en": "Benchmark Reaffirms Tesla (TSLA) Buy Rating Amid Margin Strength and Energy Growth Momentum",
+          "summary_en": "Tesla Inc. (NASDAQ:TSLA) ranks among the best sustainability stocks to invest in. On February 11, Benchmark maintained its Buy rating and $475 price target for Tesla Inc. (NASDAQ:TSLA) as the EV giant prepares for a strategy adjustment in early 2026. Benchmark highlighted Tesla’s fourth-quarter results, which showed durability in margins, energy growth, and cash flow […]"
+        }
+      ]
     },
     {
       "name": "其他",
       "badge": "Other",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "91岁的超市连锁店在一个关键市场关闭了另一个店铺。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/91-old-grocery-chain-closes-174700043.html",
-          "title_en": "91-year-old grocery chain closes another store in a key market"
+          "source": "Yahoo",
+          "ticker": "NVDA",
+          "time": "2026-03-01 09:40:00",
+          "title": "购买IonQ股票是否能让你一生受益？",
+          "summary": "伊恩Q的起步相对较小，但其发展过程中可能会遇到一些增长障碍。",
+          "url": "https://finnhub.io/api/news?id=f2fa2a8802c1215e1c4880b6cc3e551bd299ade74ce9089e033279f38a4187d3",
+          "title_en": "Could Buying IonQ Stock Today Set You Up for Life?",
+          "summary_en": "IonQ is starting small but will likely face growth obstacles along the way."
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "朱利叶斯·贝尔的3,000万美元薪酬方案显示了银行业重置的成本",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/julius-baer-30-million-pay-173333746.html",
-          "title_en": "Julius Baer’s $30 Million Pay Package Shows the Price of a Banking Reset"
+          "source": "Yahoo",
+          "ticker": "NVDA",
+          "time": "2026-03-01 09:25:00",
+          "title": "耐克的逆转之路最难的部分才刚刚开始",
+          "summary": "耐克可能已经停止滑落，但恢复的更具挑战性的部分才刚刚开始。",
+          "url": "https://finnhub.io/api/news?id=de1d3b558402e5ffd6c97e3300be52b1b123382f2f5f1d957c8648002858c930",
+          "title_en": "The Hard Part of Nike's Turnaround Is Just Beginning",
+          "summary_en": "Nike may have stopped sliding, but the more challenging part of the recovery is just beginning."
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "市场更新：BBY、ITW、SHW",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46441_MarketUpdate_1773680633000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Market Update: BBY, ITW, SHW"
+          "source": "Yahoo",
+          "ticker": "MSFT",
+          "time": "2026-03-01 09:22:43",
+          "title": "Insight Holdings 减持 AppFolio 因其房产软件面临更为挑剔的 SaaS 市场",
+          "summary": "Insight Holdings 减持了 AppFolio 股份，后者是一家房产管理软件提供商，其股价在过去一年中落后于市场整体表现。随着房地产交易活动放缓和 SaaS 估值更加挑剔，投资者正在重新评估管理单位与高利润支付和服务的增长之间的关系。",
+          "url": "https://finnhub.io/api/news?id=4ac7ad50f4c9b522929e4b9e29f179464c1dae983a6f1ed6441e9d14a4c96d55",
+          "title_en": "Insight Holdings Trims AppFolio as Property Software Faces a More Selective SaaS Market",
+          "summary_en": "Insight Holdings reduced its stake in AppFolio, a property management software provider whose shares have lagged the broader market over the past year. With real estate transaction activity slower and SaaS valuations more selective, investors are reassessing how much growth is tied to units under management versus higher-margin payments and services."
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "Kintayl Capital大幅买入Qorvo股票，共购买124,000股。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/kintayl-capital-loads-qorvo-stock-174441114.html",
-          "title_en": "Kintayl Capital Loads Up Qorvo Stock With 124,000 Shares Buy"
+          "source": "Yahoo",
+          "ticker": "NVDA",
+          "time": "2026-03-01 07:50:00",
+          "title": "微芯科技股价在三年内将如何走向？",
+          "summary": "投资者可以期待从这个红火的芯片股中获得更多的利益。",
+          "url": "https://finnhub.io/api/news?id=df5e1bfa150b1e077458a37641adac403a46d31d51672c7d62f5676220d545db",
+          "title_en": "Where Will Micron Technology Stock Be in 3 Years?",
+          "summary_en": "Investors can expect more upside from this red-hot chip stock."
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "微芯片股价大涨，投资新台湾工厂，预计周三将公布强劲业绩。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/micron-stock-surges-on-new-taiwan-factory-investment-strong-earnings-expected-on-wednesday-171412196.html",
-          "title_en": "Micron stock surges on new Taiwan factory investment, strong earnings expected on Wednesday"
+          "source": "Yahoo",
+          "ticker": "NVDA",
+          "time": "2026-03-01 06:23:00",
+          "title": "除了“七大奇迹”股，2026年市场表现如何？",
+          "summary": "市场正在经历从大科技股到其他市场的重大轮动。",
+          "url": "https://finnhub.io/api/news?id=fdb54df1b93a0aed90ee94e8f17237828121be919b29bf7eab358cf32204f38a",
+          "title_en": "Excluding the \"Magnificent Seven\" Stocks, Here's How the Market Is Performing in 2026",
+          "summary_en": "There's a major market rotation going on from big tech to the rest of the market."
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "分析师对美联生命（MET）持强烈正面态度，公司宣布股息",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/analyst-sentiment-strong-metlife-met-165819232.html",
-          "title_en": "Analyst Sentiment Strong on MetLife (MET) Amid Dividend Announcement"
+          "source": "Yahoo",
+          "ticker": "AAPL",
+          "time": "2026-03-01 05:42:00",
+          "title": "伯克希尔·哈撒韦的CEO认为这4家公司是永存的股票",
+          "summary": "格雷格·阿贝尔指出伯克希尔四大股票投资——苹果、美国运通、可口可乐和穆迪——并认为它们是“永久性股”或接近永久性股。",
+          "url": "https://finnhub.io/api/news?id=a864056429d37b76cf8bc7c77ce02862176c78ede0ae9ec7eb14b334e1116288",
+          "title_en": "Berkshire Hathaway’s CEO Suggests These 4 Companies Are Forever Stocks",
+          "summary_en": "Greg Abel identified four large Berkshire equity investments—Apple, American Express, Coca Cola and Moody’s—and suggested they are forever stocks, or close to it."
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "UIPath 股价受打压时该如何投资？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/time-buy-uipath-stock-beaten-174000041.html",
-          "title_en": "Is It Time to Buy UiPath With the Stock Beaten Down?"
+          "source": "Yahoo",
+          "ticker": "NVDA",
+          "time": "2026-03-01 05:38:00",
+          "title": "避免RMDs破坏你的退休生活：两种减轻痛苦的策略",
+          "summary": "如果有正确的策略，退休账户的提取（RMDs）并不一定会是一个巨大的麻烦。",
+          "url": "https://finnhub.io/api/news?id=04597a9a6369ded9d9b75a5aca7a5f409790fbb9a69665ad306df3f97a04a29c",
+          "title_en": "Don't Let RMDs Wreck Your Retirement: 2 Strategies for Minimizing the Pain",
+          "summary_en": "With the right strategy, RMDs don't have to be a huge hassle."
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "高盛对Fidelity National Information Services (FIS)持乐观态度，随着公司的战略收购。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/goldman-sachs-bullish-fidelity-national-165817334.html",
-          "title_en": "Goldman Sachs Bullish on Fidelity National Information Services (FIS) Following Strategic Acquisitions"
+          "source": "Yahoo",
+          "ticker": "NVDA",
+          "time": "2026-03-01 05:25:00",
+          "title": "Interactive Brokers能否在不断变化的证券经纪业中保持领先优势？",
+          "summary": "真正的考验不是Interactive Brokers今天是否有优势，而是该优势随着证券经纪业的演进而是否会增强。",
+          "url": "https://finnhub.io/api/news?id=b6367b49d105aa4f5a3d8fc21c50ff809c8da88862a1a44c77656404e17413d8",
+          "title_en": "Can Interactive Brokers Maintain Its Edge in a Changing Brokerage Industry?",
+          "summary_en": "The real test isn't whether Interactive Brokers has an edge today. It's whether that edge strengthens as the brokerage industry evolves."
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "摩根士丹利对BellRing Brands持中性态度，尽管婴儿配方奶粉行业表现强劲。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/bofa-mixed-bellring-brands-brbr-165816209.html",
-          "title_en": "BofA Mixed on BellRing Brands (BRBR) Despite Robust Sector Growth"
+          "source": "Yahoo",
+          "ticker": "AAPL",
+          "time": "2026-03-01 04:50:47",
+          "title": "Cross Staff 加仓AKRE289,000股。",
+          "summary": "该资产管理公司通过严格的、以估值为驱动的投资方法，重点投资优质的美国股票。",
+          "url": "https://finnhub.io/api/news?id=ffc924e5b046e4ddeb023ea06f889a2bc86d5c0f2642f4776dc9a5db20d785c9",
+          "title_en": "Cross Staff Loads Up on 289,000 Shares of AKRE",
+          "summary_en": "This asset management firm targets high-quality U.S. equities through a disciplined, valuation-driven investment approach."
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "TD Cowen仍然对Delta航空公司持有积极态度，尽管航空业面临挑战。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/td-cowen-remains-bullish-delta-165814761.html",
-          "title_en": "TD Cowen Remains Bullish on Delta Air Lines (DAL) Despite Industry Headwinds"
+          "source": "Yahoo",
+          "ticker": "NVDA",
+          "time": "2026-03-01 04:35:00",
+          "title": "两只增长股适合当前投资1,000美元",
+          "summary": "这对组合有足够的动力来维持增长。",
+          "url": "https://finnhub.io/api/news?id=010800e4eb260995340c84733dd730ff6034ade8ed6a48b0e111f31284601903",
+          "title_en": "2 Growth Stocks to Invest $1,000 in Right Now",
+          "summary_en": "This duo has what it takes to keep the growth going."
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "高盛对全球支付(GPN)持有中性看法，因为行业估值倍数仍面临压力。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/goldman-sachs-mixed-global-payments-165812197.html",
-          "title_en": "Goldman Sachs Mixed on Global Payments (GPN) As Industry Valuation Multiples Remain Under Pressure"
+          "source": "Yahoo",
+          "ticker": "NVDA",
+          "time": "2026-03-01 03:50:00",
+          "title": "购买奥克罗（Oklo）股票是否能让你终身致富？",
+          "summary": "奥克洛是否有望在能源行业引起波澜，并为投资者带来资本收益和丰厚的现金分红？",
+          "url": "https://finnhub.io/api/news?id=306f10acf4e3f7f10cb4cfbde98133c455346d94323cd913b7326c83b1745483",
+          "title_en": "Could Buying Oklo Stock Today Set You Up for Life in Dividend Income?",
+          "summary_en": "Is Oklo poised to make waves in the energy sector and reward investors with capital appreciation and big cash payouts?"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "土耳其展览：在冲突中坚持不懈",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/texhibition-turkey-holding-midst-conflict-173919149.html",
-          "title_en": "Texhibition Turkey: Holding Up In The Midst Conflict"
+          "source": "Yahoo",
+          "ticker": "GOOGL",
+          "time": "2026-03-01 03:28:12",
+          "title": "Ormat Technologies Q4财报电话会议亮点",
+          "summary": "Ormat Technologies (NYSE:ORA) 宣布2025年为“强劲的一年”，表现为双位数收入增长和更高的调整后EBITDA，管理层指出，能量存储的动力正在加速，数据中心和超级计算机的新电力购买协议（PPA）正在加速，持续投资",
+          "url": "https://finnhub.io/api/news?id=d9266614cd2ccecc09b6258875d261433fdbe6d5be29a4b2a62943cdd7c022ea",
+          "title_en": "Ormat Technologies Q4 Earnings Call Highlights",
+          "summary_en": "Ormat Technologies (NYSE:ORA) reported a “strong year” in 2025, highlighted by double-digit revenue growth and higher adjusted EBITDA, while management pointed to accelerating momentum in energy storage, new power purchase agreements (PPAs) tied to data centers and hyperscalers, and continued invest"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "摩根士丹利对惠普企业公司（HPE）持乐观态度，提高目标价至25美元。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/morgan-stanley-bullish-hewlett-packard-165811281.html",
-          "title_en": "Morgan Stanley Bullish on Hewlett Packard Enterprise Company (HPE) With Increased Price Target of $25"
+          "source": "Yahoo",
+          "ticker": "NVDA",
+          "time": "2026-03-01 03:25:00",
+          "title": "NuScale Power 股票是否将达到20美元？",
+          "summary": "NuScale Power 股价已从52周高点下跌77%。但股价可能在不久的将来达到20美元。",
+          "url": "https://finnhub.io/api/news?id=fa629666b53bba1acd1d0cb53478f7330c30d921106626393e844e2373e0d296",
+          "title_en": "Is NuScale Power Stock Going to $20?",
+          "summary_en": "NuScale Power has dropped 77% from its 52-week high. But a share price of $20 could be in its near future."
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "联邦快递 (FEX) 股价下跌 2.5%",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/united-airlines-holdings-ual-long-165808256.html",
-          "title_en": "United Airlines Holdings (UAL) Long-Term Hub Economics Improves Following Washington Dulles International Airport Renovation Plans"
+          "source": "Yahoo",
+          "ticker": "NVDA",
+          "time": "2026-03-01 02:48:00",
+          "title": "2026年，你不能犯的401(k)错误",
+          "summary": "你找不到比这个投资选项更好的回报率了。",
+          "url": "https://finnhub.io/api/news?id=e48e424b5cf7228e2cde1a5dc93c7ed4fe9a0b5c4953ca3ae35bc3c0778ad7c0",
+          "title_en": "The 401(k) Mistake You Can't Afford to Make in 2026",
+          "summary_en": "You won't find a better return on your money than this investment option."
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "伯恩斯坦（Bernstein）将Cigna集团（The Cigna Group）CI的评级从“市场表现”（Market Perform）升级至“超越市场”（Outperform）。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/bernstein-upgrades-cigna-group-ci-165806601.html",
-          "title_en": "Bernstein Upgrades The Cigna Group (CI) From “Market Perform” to “Outperform”"
+          "source": "Yahoo",
+          "ticker": "NVDA",
+          "time": "2026-03-01 02:25:00",
+          "title": "卡瓦股份大幅上涨，基于乐观的预期。该股的动能是否能持续？",
+          "summary": "卡瓦(Cava)股价大涨超过25%，其Q4财报结果出色。",
+          "url": "https://finnhub.io/api/news?id=e8cba9a4752c1edeb17096a8894c681d389e010f5d9286fc5059d1faa8222931",
+          "title_en": "Cava Shares Surge on Upbeat Outlook. Can the Stock's Momentum Continue?",
+          "summary_en": "Cava shares jumped more than 25% after its Q4 earnings results."
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "新老年人税减免政策带来意外后果，影响社会保障",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/senior-tax-deduction-unintended-consequence-173500343.html",
-          "title_en": "The New Senior Tax Deduction Has an Unintended Consequence for Social Security"
+          "source": "Yahoo",
+          "ticker": "NVDA",
+          "time": "2026-03-01 02:20:00",
+          "title": "我正在采取的3项投资行动，以应对衰退\n\n在衰退前，我正在采取以下3项投资行动： \n\n1. 增加现金储备：我正在积累更多的现金，以应对可能的市场波动和投资损失。\n\n2. 购买低估值股票：我正在寻找低估值的股票，价格低于其内在价值，准备在市场下跌时购买。\n\n3. 投资于有息债券：我正在投资于有息债券，例如国债和公司债券，来获得稳定的回报并降低投资风险。",
+          "summary": "如果经济衰退正在逼近，目前就是开始准备的时刻。",
+          "url": "https://finnhub.io/api/news?id=4ce0e982cca81e7080389b9d6a8ed8911e33d407b00634896ac540a50861bc8a",
+          "title_en": "3 Investing Moves I'm Making Right Now to Prepare for a Recession",
+          "summary_en": "If a downturn is looming, now is the time to start preparing."
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "投资者对Capital One Financial（COF）的看法存在分歧，而管理层仍然对公司充满信心。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/mixed-investor-sentiment-capital-one-165804915.html",
-          "title_en": "Mixed Investor Sentiment on Capital One Financial (COF), While Management Remains Confident"
+          "source": "Yahoo",
+          "ticker": "NVDA",
+          "time": "2026-03-01 02:17:00",
+          "title": "波士顿银行对戴尔股价目标进行了调整",
+          "summary": "戴尔科技（DELL）股价2月27日大涨22%，公司公布了强劲的财报和Q1预期。1984年，戴尔科技的创始人迈克尔·戴尔在德克萨斯大学就读时开始了这家公司。最初专注于销售电脑，公司现在认为人工智能是其最大的增长领域。",
+          "url": "https://finnhub.io/api/news?id=b1816c300afc3c22a5f0decea61611f4337540478bfaf2563773ab30fbd85209",
+          "title_en": "Bank of America revamps Dell stock target after earnings",
+          "summary_en": "Shares of Dell Technologies (DELL) soared 22% on Feb. 27 after the company reported strong fiscal Q4 earnings and Q1 guidance. In 1984, Michael Dell started the company while he was a student at the University of Texas. Originally focused on selling PCs, the company now sees AI as its biggest ..."
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:03:16",
-          "title": "微星即将接近买点。收益是否将成为突破的催化剂？",
-          "summary": "",
-          "url": "https://www.investors.com/research/micron-stock-mu-ai-artificial-intelligence-chips-dram/?src=A00220&yptr=yahoo",
-          "title_en": "Micron Nears A Buy Point. Will Earnings Be The Catalyst To Break Out?"
+          "source": "Yahoo",
+          "ticker": "MSFT",
+          "time": "2026-03-01 02:10:42",
+          "title": "数字海洋控股（DOCN）：一项牛市理论",
+          "summary": "我们发现了X.com上的对DigitalOcean Holdings, Inc.的乐观预测，作者是@MoneyShow。以下是对DOCN的乐观预测的总结。截至2月25日，DigitalOcean Holdings, Inc.的股价为$59.27。根据Yahoo Finance，DOCN的滞后和前景P/E分别为29.55和16.69。",
+          "url": "https://finnhub.io/api/news?id=afbfd2e053f2e9c471a9d6803775bcd50b7ea61e8ac6ad1f1f4e760395e0f363",
+          "title_en": "DigitalOcean Holdings, Inc. (DOCN): A Bull Case Theory",
+          "summary_en": "We came across a bullish thesis on DigitalOcean Holdings, Inc. on X.com by @MoneyShow. In this article, we will summarize the bulls’ thesis on DOCN. DigitalOcean Holdings, Inc.’s share was trading at $59.27 as of February 25th. DOCN’s trailing and forward P/E were 29.55 and 16.69 respectively according to Yahoo Finance. DigitalOcean Holdings, Inc., through its subsidiaries, operates an […]"
         }
       ]
     }
