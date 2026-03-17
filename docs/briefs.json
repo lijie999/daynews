@@ -1,6 +1,6 @@
 {
   "date": "2026.03.18",
-  "generatedAtBJT": "2026-03-18 00:30:29",
+  "generatedAtBJT": "2026-03-18 00:50:11",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-18 00:30:29",
+          "time": "2026-03-18 00:50:11",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注股市：道指、标普500、纳斯达克上涨，油价突破100美元...\n\n- 宏观/美联储：关注比特币、XRP价格飙升，美联储会议前...\n\n- 科技/半导体：科技股今日：微软重组人工智能领导层，Nvidia的...",
+          "summary": "- 地缘/避险：关注 道指、标普500指数、纳斯达克指数微幅上涨，油价突破100美元...\n- 宏观/Fed：关注 今日房贷和再融资利率：移动平均线指标...\n- 科技/半导体：科技股今日：微软重组人工智能领导层，Nvidia的... \n- TSLA：关注 Uber股价大涨，Nvidia的机器人出租车协议帮助避免了...",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq rise as oil tops $100 a…\n- 宏观/Fed：关注 Bitcoin, XRP surge ahead of FOMC meeting…\n- 科技/半导体：Tech stocks today: Microsoft shakes up AI leadership, Nvidia's J… 关键词: nvidia, alibaba, amazon, hour, microsoft\n- TSLA：关注 Uber’s stock powers higher as Nvidia robotaxi deal helps avert ‘…"
+          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq edge up as oil tops $10…\n- 宏观/Fed：关注 Mortgage and refinance interest rates today, March 17, 2026: Mov…\n- 科技/半导体：Tech stocks today: Microsoft shakes up AI leadership, Nvidia's J… 关键词: nvidia, new, alibaba, hour, microsoft\n- TSLA：关注 Uber’s stock powers higher as Nvidia robotaxi deal helps avert ‘…"
         }
       ]
     },
@@ -29,7 +29,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
           "title": "科技股今日：微软重组人工智能领导层，Nvidia首席执行官黄仁勋开启GTC活动",
           "summary": "",
           "url": "https://finance.yahoo.com/news/live/tech-stocks-today-microsoft-shakes-up-ai-leadership-nvidias-jensen-huang-kicks-off-gtc-event-144220414.html",
@@ -38,7 +38,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
           "title": "Nvidia“满足所有条件”，但股价仍然在波动范围内。原因在于：",
           "summary": "",
           "url": "https://www.investors.com/news/technology/nvidia-stock-range-bound-after-gtc-2026-presentation/?src=A00220&yptr=yahoo",
@@ -47,7 +47,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
           "title": "阿里巴巴（BABA）将人工智能业务整合至新成立的阿里巴巴令牌中心（Alibaba Token Hub）一体化单位，新单位由首席执行官领导。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/alibaba-baba-consolidates-ai-operations-155511047.html",
@@ -56,7 +56,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
           "title": "Datadog (DDOG)计划在英国建立新的数据中心，以支持云和人工智能的采用。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/datadog-ddog-plans-uk-data-155423865.html",
@@ -65,7 +65,16 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
+          "title": "百度加入中国OpenClaw热潮，推出新AI代理",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/baidu-joins-chinas-openclaw-frenzy-with-new-ai-agents-4566265",
+          "title_en": "Baidu joins China’s OpenClaw frenzy with new AI agents"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 00:50:07",
           "title": "微软重组Copilot团队，释放AI首席专家为超智能力推进",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/microsoft-unifies-copilot-commercial-and-consumer-product-teams-in-unit-rejig-4566178",
@@ -74,12 +83,22 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-18 00:16:38",
+          "time": "2026-03-18 00:42:03",
           "title": "微软重组Copilot人工智能领导团队，释放Suleyman为新模型建造",
           "summary": "微软加大了对超级智能团队的投入，用于构建模型，同时将其助手Copilot的工程工作集中起来。",
           "url": "https://www.cnbc.com/2026/03/17/microsoft-copilot-ai-suleyman.html",
           "title_en": "Microsoft shakes up Copilot AI leadership team, freeing up Suleyman to build new models",
           "summary_en": "Microsoft is doubling down on its superintelligence group to build models, while consolidating engineering efforts for its Copilot assistants."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-18 00:32:51",
+          "title": "格科机器人(Gecko Robotics)将其AI技术应用于美国海军船舶修理，签署最新一项下一代国防技术协议。",
+          "summary": "乔科公司CEO Jake Loosararian 表示，乔科正在支持海军的目标，即到2027年实现80%的舰队就绪状态。",
+          "url": "https://www.cnbc.com/2026/03/17/gecko-robotics-navy-contract-ship-repair-trump.html",
+          "title_en": "Gecko Robotics brings its AI to U.S. Navy ship repair in latest next-gen defense tech deal",
+          "summary_en": "CEO Jake Loosararian said Gecko is supporting the Navy's push to have 80% fleet readiness by 2027."
         },
         {
           "source": "CNBC-Top",
@@ -100,26 +119,6 @@
           "url": "https://www.marketwatch.com/story/why-nvidias-stock-is-shrugging-off-a-1-trillion-revenue-forecast-74a729d6?mod=mw_rss_topstories",
           "title_en": "Why Nvidia’s stock is shrugging off a $1 trillion revenue forecast",
           "summary_en": "There are questions about how much upside is really implied by Nvidia’s new outlook. In the meantime, investors may be looking for clearer growth opportunities elsewhere."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-17 22:50:00",
-          "title": "亚马逊的股价可能成为人工智能大赢家有五个原因。",
-          "summary": "Needham分析师认为，人工智能代理将帮助亚马逊的业务，而不是伤害它。",
-          "url": "https://www.marketwatch.com/story/5-reasons-amazons-stock-could-be-a-major-ai-winner-f4b5492d?mod=mw_rss_topstories",
-          "title_en": "5 reasons Amazon’s stock could be a major AI winner",
-          "summary_en": "A Needham analyst thinks AI agents will help Amazon’s business, not hurt it."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-17 21:53:13",
-          "title": "格科机器人(Gecko Robotics)将其AI技术应用于美国海军船舶修理，签署最新一项下一代国防技术协议。",
-          "summary": "乔科公司CEO Jake Loosararian 表示，乔科正在支持海军的目标，即到2027年实现80%的舰队就绪状态。",
-          "url": "https://www.cnbc.com/2026/03/17/gecko-robotics-navy-contract-ship-repair-trump.html",
-          "title_en": "Gecko Robotics brings its AI to U.S. Navy ship repair in latest next-gen defense tech deal",
-          "summary_en": "CEO Jake Loosararian said Gecko is supporting the Navy's push to have 80% fleet readiness by 2027."
         },
         {
           "source": "CNBC-Tech",
@@ -210,16 +209,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
-          "title": "比特币和XRP价格在美联储会议前大幅上涨。",
+          "time": "2026-03-18 00:50:07",
+          "title": "今日（3月17日）房贷和再融资利率攀升至三个月新高",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/bitcoin-xrp-surge-ahead-fomc-155917398.html",
-          "title_en": "Bitcoin, XRP surge ahead of FOMC meeting"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-march-17-2026-100000675.html",
+          "title_en": "Mortgage and refinance interest rates today, March 17, 2026: Moving up to 3-month highs"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
           "title": "股市今日：道指、标普500指数上涨，美联储会议开始；无人机股价格创历史新高（实时直播）",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-fed-meeting/?src=A00220&yptr=yahoo",
@@ -228,7 +227,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
           "title": "美联储利率决策如何影响你的银行账户、贷款、信用卡和投资",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/how-the-feds-rate-decision-affects-your-bank-accounts-loans-credit-cards-and-investments-220526730.html",
@@ -237,7 +236,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
           "title": "各州最高的存款利率地图",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/highest-cd-rates-by-state-224514443.html",
@@ -246,7 +245,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
           "title": "黄金价格今日（星期二，3月17日）：黄金价格在美联储会议前上涨",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-march-17-gold-opens-higher-ahead-of-fed-meeting-110052581.html",
@@ -261,16 +260,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
-          "title": "股市今日：道指、标普500指数、纳斯达克指数上涨，油价再次突破100美元，美联储会议开幕。",
+          "time": "2026-03-18 00:50:07",
+          "title": "股市今日：道指、标普500指数、纳斯达克指数微升，油价再次突破100美元，美联储会议开幕。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-oil-tops-100-again-fed-meeting-kicks-off-133532286.html",
-          "title_en": "Stock market today: Dow, S&P 500, Nasdaq rise as oil tops $100 again, Fed meeting kicks off"
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-edge-up-as-oil-tops-100-again-fed-meeting-kicks-off-133532392.html",
+          "title_en": "Stock market today: Dow, S&P 500, Nasdaq edge up as oil tops $100 again, Fed meeting kicks off"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
+          "title": "纳斯达克指数上涨，IBM和高盛领涨，伊朗袭击持续",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/dow-jones-futures-shift-green-123200500.html",
+          "title_en": "Nasdaq rises with IBM, Goldman Sachs leading, as Iran strikes continue"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 00:50:07",
           "title": "霍尔木兹海峡关闭，能源股中有10只表现出超越市场预期的潜力，Core Natural Resources（CNR）是其中之一。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/core-natural-resources-cnr-among-153825324.html",
@@ -279,57 +287,49 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
           "title": "Sable Offshore (SOC)恢复了通过圣伊内斯(Santa Ynez)输送石油。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/sable-offshore-soc-resumes-oil-153529368.html",
           "title_en": "Sable Offshore (SOC) Resumes Oil Transportation Through Santa Ynez"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
-          "title": "美联储会议实时更新：美联储预计维持利率不变，提供最新预测在伊朗战争背景下",
+          "time": "2026-03-18 00:50:07",
+          "title": "加拿大证券交易所（TSX）上涨，因为油价维持在每桶100美元以上。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/live/fed-meeting-live-updates-federal-reserve-expected-to-hold-rates-steady-offer-updated-outlook-amid-iran-war-125458502.html",
-          "title_en": "Fed meeting live updates: Federal Reserve expected to hold rates steady, offer updated outlook amid Iran war"
+          "url": "https://www.investing.com/news/stock-market-news/tsx-futures-inch-higher-as-oil-prices-hover-above-100-a-barrel-4565673",
+          "title_en": "TSX higher as oil prices hover above $100 a barrel"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
-          "title": "华尔街收缩涨幅，特朗普批评北约在伊朗战争中缺乏帮助",
+          "time": "2026-03-18 00:50:07",
+          "title": "巴西考虑出台援助计划应对石油危机影响，巴西国家经济和社会发展银行(BNDES)首席执行官表示。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-subdued-as-irandriven-oil-price-climb-remains-in-focus-4565442",
-          "title_en": "Wall Street pares gains as Trump criticizes NATO over lack of help in Iran war"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
-          "title": "以色列股市收盘时上涨；TA 35上涨1.57%",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-157-4566216",
-          "title_en": "Israel stocks higher at close of trade; TA 35 up 1.57%"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
-          "title": "日本股市的下一步将取决于石油价格的走势，摩根士丹利表示。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/next-move-in-japanese-stocks-hinge-on-oil-moves-morgan-stanley-says-4566211",
-          "title_en": "Next move in Japanese stocks hinge on oil moves, Morgan Stanley says"
+          "url": "https://www.investing.com/news/stock-market-news/brazil-mulls-aid-package-to-tackle-oil-crisis-impact-says-bndes-chief-93CH-4566259",
+          "title_en": "Brazil mulls aid package to tackle oil crisis impact, says BNDES chief"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-18 00:17:28",
+          "time": "2026-03-18 00:43:37",
           "title": "美国反恐总监乔·肯特辞职：伊朗无迫在眉",
           "summary": "伊朗对我们的国家构不成即时威胁。",
           "url": "https://www.cnbc.com/2026/03/17/joe-kent-resigns-trump-iran-war.html",
           "title_en": "U.S. counterterrorism director Joe Kent resigns over war: 'Iran posed no imminent threat'",
           "summary_en": "\"Iran posed no imminent threat to our nation,\" Kent wrote in his letter to President Donald Trump."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-18 00:38:00",
+          "title": "美国主要港口面临不确定性，伊朗与美国的冲突威胁全球航运。",
+          "summary": "美国港口虽然距离中东冲突遥远，但仍面临着 bunker 燃料价格上涨和不确定性的增加。",
+          "url": "https://www.marketwatch.com/story/major-u-s-ports-navigate-uncertainty-as-war-with-iran-threatens-global-shipping-b684e211?mod=mw_rss_topstories",
+          "title_en": "Major U.S. ports navigate uncertainty as conflict with Iran threatens global shipping",
+          "summary_en": "American ports are far removed from the conflict in the Middle East, but they are seeing rising bunker-fuel prices and increased uncertainty."
         },
         {
           "source": "CNBC-World",
@@ -350,16 +350,6 @@
           "url": "https://www.marketwatch.com/story/oil-prices-climb-on-mixed-signals-as-iran-conflict-drags-on-c5fc77a7?mod=mw_rss_topstories",
           "title_en": "Oil prices climb on ‘mixed signals’ as Iran conflict drags on",
           "summary_en": "Global oil prices were poised to end above $100 a barrel for a fourth session in a row, as U.S. calls for help to secure the crucial waterway fall on deaf ears and reports that Iran is allowing some crude tankers to pass through the Strait of Hormuz offer a “mixed signal” for the market on the situation in the Middle East."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-17 23:25:00",
-          "title": "霍尼韦尔(Honeywell)股票下跌的原因是什么，即使伊朗冲突已经推动了弹药需求的增长",
-          "summary": "霍尼韦尔(Honeywell)的股票下跌，因为该防务承包商表示，由于中东地区的运输中断，预计第一季度的部分收入可能会推迟到五月。",
-          "url": "https://www.marketwatch.com/story/why-honeywells-stock-has-dropped-even-as-the-iran-conflict-has-boosted-munitions-demand-2670f2e2?mod=mw_rss_topstories",
-          "title_en": "Why Honeywell’s stock has dropped even as the Iran conflict has boosted munitions demand",
-          "summary_en": "Honeywell’s stock fell after the defense contractor said some revenue that was expected in the first quarter could be delayed until May because of shipping disruptions in the Middle East."
         },
         {
           "source": "CNBC-Top",
@@ -430,6 +420,16 @@
           "url": "https://www.cnbc.com/2026/03/17/cnbc-daily-open-risk-off-trade-back-on-for-oil-.html",
           "title_en": "CNBC Daily Open: Risk-off trade back on for oil",
           "summary_en": "Oil prices push higher as markets seem unconvinced of Trump's plan to reopen the Strait of Hormuz."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-17 09:33:32",
+          "title": "川普寻求霍尔木兹海峡支持  他瞄准古巴",
+          "summary": "美国总统唐纳德·特朗普呼吁盟国帮助美国确保霍尔木兹海峡安全，但似乎收到了不积极的回应。",
+          "url": "https://www.cnbc.com/2026/03/17/cnbc-daily-open-trump-seeks-support-on-hormuz-as-he-sets-sights-on-cuba.html",
+          "title_en": "CNBC Daily Open: Trump seeks support on Hormuz as he sets sights on Cuba",
+          "summary_en": "U.S. President Donald Trump's appeals that allies help the U.S. secure the Strait of Hormuz seem to have received a less than enthusiastic response."
         }
       ]
     },
@@ -466,16 +466,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
-          "title": "如果你有900美元，想投资伯克希尔哈撒韦公司（Berkshire Hathaway）主席沃伦·巴菲特（Warren Buffett）的股票，那么你可以考虑以下几只股票。",
+          "time": "2026-03-18 00:50:07",
+          "title": "雷蒙德股价周二上涨超过15%",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/best-warren-buffett-stocks-buy-160500718.html",
-          "title_en": "The Best Warren Buffett Stocks to Buy With $900 Right Now"
+          "url": "https://finance.yahoo.com/news/why-lemonade-stock-more-15-163622394.html",
+          "title_en": "Why Lemonade Stock Is Up More Than 15% on Tuesday"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
+          "title": "比特币ETF价格保持在7万1千美元时期的最大比特币ETF",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/biggest-bitcoin-etfs-prices-hold-163224977.html",
+          "title_en": "The Biggest Bitcoin ETFs As Prices Hold At $71,000"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 00:50:07",
           "title": "限时优惠：在Chase Freedom Unlimited上获得$250的奖金",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/limited-time-offer-earn-a-250-bonus-with-chase-freedom-unlimited-155610009.html",
@@ -484,7 +493,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
           "title": "Zebra Technologies (ZBRA) 公布了 4 季度净销售额 15 亿美元，同比增长 10.6%",
           "summary": "",
           "url": "https://finance.yahoo.com/news/zebra-technologies-zbra-reports-1-155502385.html",
@@ -493,7 +502,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
           "title": "AeroVironment (AVAV) 公布了2026年第三季度财报，总收入达408亿美元，同比增长143%。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/aerovironment-avav-reports-408m-fq3-155450070.html",
@@ -502,25 +511,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
-          "title": "Citi将T-Mobile的目标价格设定为225美元——TMUS要达到这个目标，需要什么",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/citi-sets-t-mobile-price-160225804.html",
-          "title_en": "Citi Sets T-Mobile Price Target at $225 — Here’s What It Will Take for TMUS to Get There"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
-          "title": "ServiceNow (NOW) 扩大了与 Carahsoft 的合作伙伴关系，覆盖更广泛的商业市场。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/servicenow-now-expands-carahsoft-partnership-155435969.html",
-          "title_en": "ServiceNow (NOW) Expands Carahsoft Partnership to Reach Broader Commercial Markets"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
           "title": "2026年3月17日威克森日常报告：买家和卖家名单",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46451_TopBottomInsiderActivity_1773747091000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -529,7 +520,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
+          "title": "马斯特卡德（Mastercard）将收购BVNK以扩展数字资产能力",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/mastercard-acquire-bvnk-expand-digital-163200464.html",
+          "title_en": "Mastercard to acquire BVNK to expand digital asset capabilities"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 00:50:07",
+          "title": "ServiceNow (NOW) 扩大了与 Carahsoft 的合作伙伴关系，覆盖更广泛的商业市场。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/servicenow-now-expands-carahsoft-partnership-155435969.html",
+          "title_en": "ServiceNow (NOW) Expands Carahsoft Partnership to Reach Broader Commercial Markets"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 00:50:07",
           "title": "ZScaler (ZS) 在零信任交换中扩大了全球数据主权能力",
           "summary": "",
           "url": "https://finance.yahoo.com/news/zscaler-zs-expands-global-data-155414573.html",
@@ -538,7 +547,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
           "title": "Oklo (OKLO) 和 Centrus Energy (LEU) 宣布成立合资公司，以推进 HALEU 核燃料服务。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/oklo-oklo-centrus-energy-leu-155406071.html",
@@ -547,34 +556,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
-          "title": "XRP反超BNB，价格达一个月来的最高点，里普尔（Ripple）计划在巴西申请牌照。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/xrp-flips-bnb-hitting-highest-160205642.html",
-          "title_en": "XRP Flips BNB, Hitting Highest Price in a Month as Ripple Plans to Seek Brazil License"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
-          "title": "Magnite (MGNI)与NOVA娱乐合作，推动澳大利亚的程序化音频",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/magnite-mgni-nova-entertainment-partner-155324830.html",
-          "title_en": "Magnite (MGNI), NOVA Entertainment Partner to Enable Programmatic Audio in Australia"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
-          "title": "Innodata (INOD) 公布2025年收入251.7亿美元，同比全年有机增长48%",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/innodata-inod-reports-251-7m-155310800.html",
-          "title_en": "Innodata (INOD) Reports $251.7M 2025 Revenue and 48% Full-Year Organic Growth"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
           "title": "2026年3月17日维克勒（Vickers）每日推荐：内幕人士首选股",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46450_InsiderActivity_1773747091000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -583,7 +565,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
+          "title": "Magnite (MGNI)与NOVA娱乐合作，推动澳大利亚的程序化音频",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/magnite-mgni-nova-entertainment-partner-155324830.html",
+          "title_en": "Magnite (MGNI), NOVA Entertainment Partner to Enable Programmatic Audio in Australia"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 00:50:07",
+          "title": "Innodata (INOD) 公布2025年收入251.7亿美元，同比全年有机增长48%",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/innodata-inod-reports-251-7m-155310800.html",
+          "title_en": "Innodata (INOD) Reports $251.7M 2025 Revenue and 48% Full-Year Organic Growth"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 00:50:07",
           "title": "CEVA (CEVA) 推出 PentaG-NTN 用于卫星 5G，并报告了 2025 年的历史最高收入",
           "summary": "",
           "url": "https://finance.yahoo.com/news/ceva-ceva-launches-pentag-ntn-155302865.html",
@@ -592,7 +592,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
           "title": "PubMatic (PUBM) 与 Optable 合作，推出 Agentive 人群发现和激活解决方案。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/pubmatic-pubm-partners-optable-agentic-155253196.html",
@@ -601,29 +601,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
-          "title": "达美航空和达美航空提高了第一季度的预期，受强劲的旅行需求的推动。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/delta-american-airlines-lift-q1-160100709.html",
-          "title_en": "Delta, American Airlines lift Q1 guidance on strong travel demand"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
-          "title": "这个股票的上涨空间有限？看看如何在这个股票上交易期权。",
-          "summary": "",
-          "url": "https://www.investors.com/research/options/snowflake-snow-stock-bear-call-spread-options-2/?src=A00220&yptr=yahoo",
-          "title_en": "Limited Upside For This Stock? Here's How To Trade Options On It."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 00:30:26",
+          "time": "2026-03-18 00:50:07",
           "title": "Argus调整了行业评级",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46448_MarketOutlook_1773746565000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "title_en": "Daily Spotlight: Argus Adjusts Sector Ratings"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 00:50:07",
+          "title": "2025年零加班税扣除的真正运作方式",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/no-tax-overtime-deduction-really-163032298.html",
+          "title_en": "How the no tax on overtime deduction really works for 2025"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 00:50:07",
+          "title": "这个股票的上涨空间有限？看看如何在这个股票上交易期权。",
+          "summary": "",
+          "url": "https://www.investors.com/research/options/snowflake-snow-stock-bear-call-spread-options-2/?src=A00220&yptr=yahoo",
+          "title_en": "Limited Upside For This Stock? Here's How To Trade Options On It."
         }
       ]
     }
