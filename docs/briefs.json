@@ -1,6 +1,6 @@
 {
   "date": "2026.03.17",
-  "generatedAtBJT": "2026-03-17 12:39:02",
+  "generatedAtBJT": "2026-03-17 13:09:15",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-17 12:39:02",
+          "time": "2026-03-17 13:09:15",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 Chevron, Shell 做出惊人的委内瑞拉动作，伊朗危机加深…\n- 科技/半导体：NVIDIA Corporation (NVDA) 宣布推出 NVIDIA Nemorto… 关键词：nvidia, announces, meta, gtc, huang\n- TSLA：关注 美政府确认特斯拉和LG能源解决方案的 43亿美元投资…",
+          "summary": "- 地缘/避险：伊朗冲突以来，奥克西德نت尔石油股价已上涨9%。以下是…\n- 宏观/Fed：在美联储会议前，分析师给黄金投资者发出了一个信息…\n- 科技/半导体：凯蒂伍德投资了价值200万美元的AI股价大幅下跌的股票…关键词：NVIDIA，芯片，GTC，黄，宣布\n- TSLA：美国政府确认特斯拉和LG能源解决方案的43亿美元…",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Chevron, Shell make stunning Venezuela move as Iran crisis deepe…\n- 科技/半导体：NVIDIA Corporation (NVDA) Announces Launch of the NVIDIA Nemotro… 关键词: nvidia, announces, meta, gtc, huang\n- TSLA：关注 US government confirms Tesla and LG Energy Solution’s $4.3 billi…"
+          "summary_en": "- 地缘/避险：关注 Occidental Petroleum Is Up 9% Since the Iran Conflict. Here Are …\n- 宏观/Fed：关注 Analysts have a message for gold investors before the Fed meetin…\n- 科技/半导体：Cathie Wood buys $2 million of tumbling AI stock… 关键词: nvidia, chip, gtc, huang, announces\n- TSLA：关注 US government confirms Tesla and LG Energy Solution’s $4.3 billi…"
         }
       ]
     },
@@ -29,16 +29,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
-          "title": "NVIDIA Corporation (NVDA) 宣布推出 NVIDIA Nemotron 3 超级",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/nvidia-corporation-nvda-announces-launch-183646178.html",
-          "title_en": "NVIDIA Corporation (NVDA) Announces Launch of the NVIDIA Nemotron 3 Super"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
+          "time": "2026-03-17 13:09:10",
           "title": "凯西伍德投资了价值200万美元的下跌AI股。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/cathie-wood-buys-2-million-173300111.html",
@@ -47,16 +38,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
-          "title": "Meta宣布扩大客户硅（Customer Silicon）以支持 AI 工作负载",
+          "time": "2026-03-17 13:09:10",
+          "title": "微软公司（MSFT）是否是现在最有利可图的蓝筹股之一？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/meta-meta-announces-expansion-customer-183648439.html",
-          "title_en": "Meta (META) Announces Expansion of Customer Silicon to Power AI Workloads"
+          "url": "https://finance.yahoo.com/news/microsoft-corporation-msft-one-most-183643275.html",
+          "title_en": "Is Microsoft Corporation (MSFT) One of the Most Profitable Blue Chip Stocks to Invest In Now?"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
+          "time": "2026-03-17 13:09:10",
           "title": "三星股价上涨，随着Nvidia的Huang指出与三星合作开发新一代AI芯片",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/samsung-shares-rise-after-nvidias-huang-flags-tieup-on-new-ai-chips-4564432",
@@ -207,7 +198,17 @@
     {
       "name": "美联储与政策",
       "badge": "Fed / Policy",
-      "items": []
+      "items": [
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-17 13:09:10",
+          "title": "分析师在美联储会议前给黄金投资者发出了一个信息",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/analysts-message-gold-investors-fed-174700286.html",
+          "title_en": "Analysts have a message for gold investors before the Fed meeting"
+        }
+      ]
     },
     {
       "name": "地缘/能源/避险",
@@ -216,34 +217,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
-          "title": "雪佛龙和雪铁龙在委内瑞拉做出惊人的动作，伊朗危机加剧",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/chevron-shell-stunning-venezuela-move-171700468.html",
-          "title_en": "Chevron, Shell make stunning Venezuela move as Iran crisis deepens"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
-          "title": "本周要关注的关键事件：伊朗战争、美联储困境等",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/iran-war-fed-conundrum-other-170002007.html",
-          "title_en": "Iran War, Fed Conundrum and Other Key Things to Watch this Week"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
-          "title": "查布有限公司（CB）担任霍尔木兹海峡航运保险计划的主要担保人。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/chubb-limited-cb-serves-lead-175723926.html",
-          "title_en": "Chubb Limited (CB) Serves as Lead Underwriter for Strait of Hormuz Shipping Insurance Program"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
+          "time": "2026-03-17 13:09:10",
           "title": "奥克西德نت尔石油自伊朗冲突以来已上涨9%。以下是投资者需要了解的两点。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/occidental-petroleum-9-since-iran-173100507.html",
@@ -252,7 +226,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
+          "time": "2026-03-17 13:09:10",
+          "title": "查布有限公司（CB）担任霍尔木兹海峡航运保险计划的主要担保人。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/chubb-limited-cb-serves-lead-175723926.html",
+          "title_en": "Chubb Limited (CB) Serves as Lead Underwriter for Strait of Hormuz Shipping Insurance Program"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-17 13:09:10",
           "title": "为什么Expand Energy Corporation（EXE）是目前最好的石油股之一",
           "summary": "",
           "url": "https://finance.yahoo.com/news/why-expand-energy-corporation-exe-183627258.html",
@@ -261,7 +244,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
+          "time": "2026-03-17 13:09:10",
           "title": "亚洲股市上涨，跟随美国科技股的涨势；伊朗冲突、澳洲央行加息在关注的焦点。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/asia-stocks-advance-tracking-us-tech-gains-iran-conflict-rba-decision-in-focus-4564498",
@@ -386,6 +369,26 @@
           "url": "https://www.cnbc.com/2026/03/16/iran-war-travel-disruptions-how-to-avoid.html",
           "title_en": "Iran war is the latest 'worst-case scenario' for travel, expert says. How to minimize the pain of future disruptions",
           "summary_en": "There have been many significant travel disruptions at the start of 2026, including the Iran war. Travel advisors give some tips to blunt the impact."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-17 03:44:15",
+          "title": "特朗普表示，组建以强制打开霍尔木兹海峡为目的的联盟还没有准备好：“有些人不太积极”。",
+          "summary": "美国总统唐纳德·特朗普星期一表示，某些美国盟国不愿意加入保护霍尔木兹海峡油轮的联盟。",
+          "url": "https://www.cnbc.com/2026/03/16/strait-of-hormuz-trump-says-coalition-to-protect-oil-tankers-not-ready-yet.html",
+          "title_en": "Trump signals coalition to force open Strait of Hormuz is not ready yet: 'Some are less than enthusiastic'",
+          "summary_en": "President Donald Trump said Monday that some U.S. allies are not willing to join a coalition to protect tankers in the Strait of Hormuz."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-17 02:04:17",
+          "title": "霍尔木兹海峡对峙使美国的普通药品处方供应面临风险",
+          "summary": "美国一半的普通药物由印度制造，通过霍尔木兹海峡运输。供应链正在为紧急情况做准备，但处方储备有限。",
+          "url": "https://www.cnbc.com/2026/03/16/strait-of-hormuz-closure-generic-drug-prescriptions.html",
+          "title_en": "Strait of Hormuz standoff puts supply of America's generic drug prescriptions at risk",
+          "summary_en": "Half of US generic drugs are made in India and transit the Strait of Hormuz. Supply chains prepare for emergencies, but prescription stockpiles are limited."
         }
       ]
     },
@@ -396,7 +399,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
+          "time": "2026-03-17 13:09:10",
           "title": "美国政府确认特斯拉和LG能量解决方案的43亿美元电池协议",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-government-confirms-tesla-and-lg-energy-solutions-43-billion-battery-deal-4564532",
@@ -405,7 +408,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
+          "time": "2026-03-17 13:09:10",
           "title": "WeRide推出基于Nvidia技术的下一代无人车",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/weride-unveils-nextgen-robotaxi-powered-by-nvidia-tech-4564425",
@@ -430,43 +433,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
-          "title": "美国介入委内瑞拉可能有助于解决哥伦比亚的能源危机",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/u-intervention-venezuela-could-help-170000389.html",
-          "title_en": "U.S. Intervention in Venezuela Could Help Solve Colombia’s Energy Crisis"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
-          "title": "State Street Corporation (STT) 表示 Q1 业绩预期要比之前预期的更强。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/state-street-corporation-stt-says-175512105.html",
-          "title_en": "State Street Corporation (STT) Says Q1 Results Are Expected to Come in Stronger Than Previously Anticipated"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
-          "title": "UBS 将 Moelis & Company (MC) 的目标价格从 $74 下调至 $59，并维持中性评级。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/ubs-lowers-price-target-moelis-175520002.html",
-          "title_en": "UBS Lowers its Price Target on Moelis & Company (MC) to $59 from $74 and Maintains a Neutral Rating"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
-          "title": "Unacademy将被upGrad以股票交换协议收购，印度教育科技行业正在整合。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/unacademy-acquired-upgrad-share-swap-171947132.html",
-          "title_en": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
+          "time": "2026-03-17 13:09:10",
           "title": "Keefe Bruyette 对 Flagstar Bank, National Association（FLG）进行了升级，改为“超越市场表现”（Outperform）等级，并将其价格目标从 $14 提高到 $16。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/keefe-bruyette-upgrades-flagstar-bank-175504718.html",
@@ -475,7 +442,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
+          "time": "2026-03-17 13:09:10",
+          "title": "State Street Corporation (STT) 表示 Q1 业绩预期要比之前预期的更强。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/state-street-corporation-stt-says-175512105.html",
+          "title_en": "State Street Corporation (STT) Says Q1 Results Are Expected to Come in Stronger Than Previously Anticipated"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-17 13:09:10",
+          "title": "UBS 将 Moelis & Company (MC) 的目标价格从 $74 下调至 $59，并维持中性评级。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/ubs-lowers-price-target-moelis-175520002.html",
+          "title_en": "UBS Lowers its Price Target on Moelis & Company (MC) to $59 from $74 and Maintains a Neutral Rating"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-17 13:09:10",
           "title": "Main Street Capital Corporation (MAIN) 宣布 61.5 亿美元投资组合投资，以支持少数族裔重组",
           "summary": "",
           "url": "https://finance.yahoo.com/news/main-street-capital-corporation-main-175540101.html",
@@ -484,16 +469,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
-          "title": "UBS 将Lazard, Inc. (LAZ) 的目标价格从 $59 下调至 $48，并维持中性评级",
+          "time": "2026-03-17 13:09:10",
+          "title": "摩根士丹利和黑石限制提款——私人信贷“门槛”是危机还是市场稳定器？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ubs-lowers-price-target-lazard-175615932.html",
-          "title_en": "UBS Lowers its Price Target on Lazard, Inc. (LAZ) to $48 from $59 and Maintains a Neutral Rating"
+          "url": "https://finance.yahoo.com/news/exclusive-morgan-stanley-blackrock-limit-173116831.html",
+          "title_en": "Exclusive: Morgan Stanley And BlackRock Limit Withdrawals—Is Private Credit Gating A Crisis Or Market 'Stabilizer'?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
+          "time": "2026-03-17 13:09:10",
           "title": "Invesco Ltd. (IVZ) 公布二月份管理资产总计 2.26 万亿美元",
           "summary": "",
           "url": "https://finance.yahoo.com/news/invesco-ltd-ivz-reports-preliminary-175622121.html",
@@ -502,34 +487,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
-          "title": "比特森在本周内飙升超过56%，以下三点原因可能是主要原因： \n\n1. 比特森的去中心化数据服务（Decentralized Data Service）得到了广泛认可，吸引了大量用户。",
+          "time": "2026-03-17 13:09:10",
+          "title": "UBS 将Lazard, Inc. (LAZ) 的目标价格从 $59 下调至 $48，并维持中性评级",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/3-reasons-why-bittensor-skyrocketed-170844092.html",
-          "title_en": "3 Reasons Why Bittensor Skyrocketed More than 56% This Week"
+          "url": "https://finance.yahoo.com/news/ubs-lowers-price-target-lazard-175615932.html",
+          "title_en": "UBS Lowers its Price Target on Lazard, Inc. (LAZ) to $48 from $59 and Maintains a Neutral Rating"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
-          "title": "Baird将Citizens Financial Group, Inc. (CFG)的评级从中性提升至超买，目标价格为65美元。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/baird-upgrades-citizens-financial-group-175716246.html",
-          "title_en": "Baird Upgrades Citizens Financial Group, Inc. (CFG) to Outperform from Neutral with a $65 Price Target"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
-          "title": "摩根大通提高了其对花旗集团（GS）的价格目标，至826美元，从815美元提高，并维持中性评级。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/jpmorgan-raises-price-target-goldman-175709193.html",
-          "title_en": "JPMorgan Raises its Price Target on The Goldman Sachs Group, Inc. (GS) to $826 from $815 and Maintains a Neutral Rating"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
+          "time": "2026-03-17 13:09:10",
           "title": "JPMorgan 将 Banco Bilbao Vizcaya Argentaria, S.A. (BBVA) 的目标价格下调至 23.30 欧元，从 23.50 欧元，并维持 overweight 评级。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/jpmorgan-lowers-price-target-banco-175734811.html",
@@ -538,16 +505,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
-          "title": "1 一只增长股让10万美元变成423万美元——它仍然值得投资",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/1-top-growth-stock-turned-172500072.html",
-          "title_en": "1 Top Growth Stock Turned $10,000 Into $423,000 -- It's Still a Buy Now"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
+          "time": "2026-03-17 13:09:10",
           "title": "美国银行公司（BAC）表示一季度净利息收入同比至少增长7%",
           "summary": "",
           "url": "https://finance.yahoo.com/news/bank-america-corporation-bac-says-175741627.html",
@@ -556,7 +514,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
+          "time": "2026-03-17 13:09:10",
+          "title": "达维·拉姆齐表示，他不太可能在纽约市购买房产，尤其是当下市长的政策下。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/dave-ramsey-doubts-hed-buy-173114637.html",
+          "title_en": "Dave Ramsey Doubts He'd Buy Property In New York City Under The Current Mayor. 'Something That Was Completely Freaking Crazy Has Been Normalized'"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-17 13:09:10",
+          "title": "摩根大通提高了其对花旗集团（GS）的价格目标，至826美元，从815美元提高，并维持中性评级。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jpmorgan-raises-price-target-goldman-175709193.html",
+          "title_en": "JPMorgan Raises its Price Target on The Goldman Sachs Group, Inc. (GS) to $826 from $815 and Maintains a Neutral Rating"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-17 13:09:10",
           "title": "AllianceBernstein控股有限合伙公司（AB）报告2月管理资产8800亿美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/alliancebernstein-holding-l-p-ab-175751681.html",
@@ -565,29 +541,56 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
-          "title": "美高梅国际度假村(MGM)宣布新销售结构",
+          "time": "2026-03-17 13:09:10",
+          "title": "Baird将Citizens Financial Group, Inc. (CFG)的评级从中性提升至超买，目标价格为65美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/mgm-resorts-international-mgm-announces-182535663.html",
-          "title_en": "MGM Resorts International (MGM) Announces New Sales Structure"
+          "url": "https://finance.yahoo.com/news/baird-upgrades-citizens-financial-group-175716246.html",
+          "title_en": "Baird Upgrades Citizens Financial Group, Inc. (CFG) to Outperform from Neutral with a $65 Price Target"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
-          "title": "埃利利illy (LLY) 将在未来十年投资 300亿美元于中国，路透社报道。",
+          "time": "2026-03-17 13:09:10",
+          "title": "摩根士丹利将Choice Hotels International (CHH)目标价从$91降至$83 – 这是为什么",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/eli-lilly-lly-invest-3-182526187.html",
-          "title_en": "Eli Lilly (LLY) to Invest $3 Billion in China Over the Next Decade, Reuters Reports"
+          "url": "https://finance.yahoo.com/news/morgan-stanley-cuts-pt-choice-182540464.html",
+          "title_en": "Morgan Stanley Cuts PT on Choice Hotels International (CHH) to $83 From $91 – Here’s Why"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-17 12:38:58",
-          "title": "击败市场的巨兽股",
+          "time": "2026-03-17 13:09:10",
+          "title": "Citizens将Hilton Grand Vacations Inc. (HGV)的目标价从$50提高到$55 – 这是为什么",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/meet-monster-stock-continues-crush-165800023.html",
-          "title_en": "Meet the Monster Stock That Continues to Crush the Market"
+          "url": "https://finance.yahoo.com/news/citizens-lifts-pt-hilton-grand-182538437.html",
+          "title_en": "Citizens Lifts PT on Hilton Grand Vacations Inc. (HGV) to $55 From $50 – Here’s Why"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-17 13:09:10",
+          "title": "Truist 将Travel + Leisure Co. (TNL)目标价提高至88美元，原价71美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/truist-lifts-pt-travel-leisure-182541538.html",
+          "title_en": "Truist Lifts PT on Travel + Leisure Co. (TNL) to $88 From $71 – Here’s Why"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-17 13:09:10",
+          "title": "摩根大通降低了Trip.com Group（TCOM）的目标价至75美元，从90美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/jpmorgan-cuts-pt-trip-com-182534059.html",
+          "title_en": "JPMorgan Cuts PT on Trip.com Group (TCOM) to $75 From $90 – Here’s Why"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-17 13:09:10",
+          "title": "伯克希尔哈撒韦可能每年回购超过50亿美元的股票，根据最近的购买行为",
+          "summary": "",
+          "url": "https://www.barrons.com/articles/berkshire-could-repurchase-50-billion-stock-annually-f0597185?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Berkshire Could Repurchase Over $50 Billion of Stock Annually Based on Recent Buy"
         }
       ]
     }
