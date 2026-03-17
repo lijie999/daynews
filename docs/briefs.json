@@ -1,6 +1,6 @@
 {
   "date": "2026.03.18",
-  "generatedAtBJT": "2026-03-18 03:21:56",
+  "generatedAtBJT": "2026-03-18 03:52:22",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-18 03:21:56",
+          "time": "2026-03-18 03:52:22",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 股市暴跌是否结束？华尔街看好价值但仍保持谨慎态度。\n- 宏观/Fed：关注 股市预计将开盘高涨，债券收益率下降，美联储会议等因素影响。\n- 科技/半导体：Nebius与Meta签署价值最高达2700亿美元的AI基础设施协议。\n- TSLA：关注特斯拉将从LG能源公司购买价值430亿美元的电池组。",
+          "summary": "- 地缘/避险：油品供应中断影响芯片股如Nvidia或AM…\n\n- 宏观/Fed：关注债券收益率下降，美联储会议等因素股市预计开盘高位…\n\n- 科技/半导体：Nebius与Meta签署人工智能基础设施协议，总价值最高达270亿美元…\n\n- TSLA：特斯拉将从LG能量公司购买43亿美元的电池单元。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Has the Stock Selloff Ended? Wall Street Sees Value but Remains …\n- 宏观/Fed：关注 Stocks Set to Open Higher as Bond Yields Fall, Fed Meeting and M…\n- 科技/半导体：Nebius signs AI infrastructure deals with Meta worth up to $27 b… 关键词: nvidia, amazon, ceo, hour, rubin\n- TSLA：关注 Tesla to buy $4.3 billion of LG Energy battery cells from disban…"
+          "summary_en": "- 地缘/避险：关注 Oil Supply Disruptions Are Rocking Chip Stocks Like Nvidia or AM…\n- 宏观/Fed：关注 Stocks Set to Open Higher as Bond Yields Fall, Fed Meeting and M…\n- 科技/半导体：Nebius signs AI infrastructure deals with Meta worth up to $27 b… 关键词: amazon, nvidia, ceo, hour, sales\n- TSLA：关注 Tesla to buy $4.3 billion of LG Energy battery cells from disban…"
         }
       ]
     },
@@ -29,16 +29,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
+          "time": "2026-03-18 03:52:18",
           "title": "Nebius与Meta签署了价值最高达270亿美元的5年AI基础设施协议。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/nebius-signs-ai-capacity-deal-100907987.html",
           "title_en": "Nebius signs AI infrastructure deals with Meta worth up to $27 billion over 5 years"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 03:52:18",
+          "title": "PMG正致力于通过人工智能（AI）重塑自身并与Freewheel合作扩张业务。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/pmg-eyes-expansion-ai-focused-110000560.html",
+          "title_en": "PMG eyes expansion with AI-focused repositioning, Freewheel partnership"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
+          "time": "2026-03-18 03:52:18",
           "title": "英伟达销售机会为Blackwell，Rubin芯片到2027年将超过1万亿美元。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/nvidia-sales-opportunity-for-blackwell-rubin-chips-more-than-1-trillion-by-2027-4566514",
@@ -47,7 +56,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
+          "time": "2026-03-18 03:52:18",
           "title": "亚马逊CEO预见AI将使AWS的销售额翻倍，达到2036年6000亿美元。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/amazon-ceo-sees-ai-doubling-his-prior-aws-sales-projections-to-600-billion-by-2036-4566479",
@@ -56,20 +65,30 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
+          "time": "2026-03-18 03:52:18",
           "title": "亚马逊 CEO reportedly 见证 AWS 年度销售额达到 6000 亿美元的目标",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/amazon-ceo-reportedly-sees-aws-reaching-600b-in-annual-sales-amid-ai-4566490",
           "title_en": "Amazon CEO reportedly sees AWS reaching $600B in annual sales amid AI"
         },
         {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-18 03:36:48",
+          "title": "奥兰多·布拉沃认为某些软件名称因AI而值得降低估值。",
+          "summary": "托马·布拉沃联合创始人表示，受到AI波动影响的某些软件股价可能值得降低估值。",
+          "url": "https://www.cnbc.com/2026/03/17/orlando-bravo-software-ai-valuation-cut.html",
+          "title_en": "Orlando Bravo says some software names hit by AI deserve a valuation cut",
+          "summary_en": "The Thoma Bravo co-founder said that some of the software stocks getting hit by the AI wave deserve a lower valuation."
+        },
+        {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-03-18 03:18:00",
-          "title": "Nebius 股票下跌，投资者对在人工智能领域竞争的成本醒悟。",
+          "title": "Nebius 股票下跌，投资者对在 AI 竞争中承担的成本有所警醒。",
           "summary": "新云公司与主要科技公司达成新协议，并宣布将通过债务融资来帮助融资数据中心。",
           "url": "https://www.marketwatch.com/story/nebiuss-stock-falls-on-a-bond-offering-heres-why-investors-are-sobering-up-b3392d06?mod=mw_rss_topstories",
-          "title_en": "Nebius’ stock falls as investors get a wakeup call on the cost of competing in AI",
+          "title_en": "Nebius’ stock falls as investors get a wake-up call on the cost of competing in AI",
           "summary_en": "The neocloud company has new deals with major tech companies, and just announced that it will be taking on debt to help finance data centers."
         },
         {
@@ -113,7 +132,7 @@
           "summary_en": "Here are five key things investors need to know to start the trading day."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-17 18:29:21",
           "title": "阿里巴巴推出面向企业的代理式AI工具，计划与Slack和Teams进行整合。",
@@ -181,26 +200,6 @@
           "url": "https://www.cnbc.com/2026/03/16/nvidia-gtc-2026-ceo-jensen-huang-keynote-blackwell-vera-rubin.html",
           "title_en": "Nvidia GTC 2026: CEO Jensen Huang sees $1 trillion in orders for Blackwell and Vera Rubin through '27",
           "summary_en": "At Nvidia's annual developer conference, CEO Jensen Huang said the company is seeing booming demand for its latest technology."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-17 04:24:43",
-          "title": "Nvidia宣布了Vera Rubin Space-1芯片系统，用于轨道AI数据中心。",
-          "summary": "Nvidia CEO 杰森·黄（Jensen Huang）在GTC 2026会议上表示，空间计算已经“到来了”。",
-          "url": "https://www.cnbc.com/2026/03/16/nvidia-chips-orbital-data-centers-space-ai.html",
-          "title_en": "Nvidia announces Vera Rubin Space-1 chip system for orbital AI data centers",
-          "summary_en": "Nvidia CEO Jensen Huang said space computing \"has arrived\" at the GTC 2026 conference."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-17 02:54:41",
-          "title": "实时观看：Nvidia CEO 杰森·黄在GTC 2026大会上做主旨演讲",
-          "summary": "NVIDIA CEO 杰森·黄将在公司的人工智能会议GTC 2026上做主讲。",
-          "url": "https://www.cnbc.com/2026/03/16/nvidia-gtc-2026-jensen-huang-keynote.html",
-          "title_en": "Watch live: Nvidia CEO Jensen Huang gives GTC 2026 keynote",
-          "summary_en": "Nvidia CEO Jensen Huang is set to give the keynote at GTC 2026, the company's artificial intelligence conference."
         }
       ]
     },
@@ -211,7 +210,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
+          "time": "2026-03-18 03:52:18",
           "title": "股市预计将开盘高涨，债券收益率下降，美联储会议和中东冲突将是关注点。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/stocks-set-open-higher-bond-103643186.html",
@@ -220,7 +219,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
+          "time": "2026-03-18 03:52:18",
+          "title": "高收益基金中，有一个正在悄悄地将您的本金返还给您。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/one-high-yield-funds-quietly-105553446.html",
+          "title_en": "One of These High Yield Funds Is Quietly Returning Your Own Money Back to You"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 03:52:18",
           "title": "美联储下一次会议的时间是？查看2026年全年会议日程。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/when-is-the-next-fed-meeting-full-schedule-150709698.html",
@@ -229,7 +237,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
+          "time": "2026-03-18 03:52:18",
           "title": "本周3月16日，最佳抵押贷款利率：5.889%的APR获得最低利率",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-march-16-2026-170834623.html",
@@ -238,70 +246,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
+          "time": "2026-03-18 03:52:18",
           "title": "今日最佳定期存款利率（CD），2026年3月17日：今日可锁定最高4.1%年利率（APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-march-17-2026-lock-in-up-to-4-1-apy-today-100000978.html",
           "title_en": "Best CD rates today, March 17, 2026: Lock in up to 4.1% APY today"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
-          "title": "今天，3月17日，2026年：美联储不太可能降低家庭抵押贷款利率",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-march-17-2026-100000210.html",
-          "title_en": "HELOC and home equity loan rates today, March 17, 2026: Fed unlikely to help home equity rates"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
-          "title": "截至2026年3月17日，最佳现金市场账户利率（最高可达4.01%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-tuesday-march-17-2026-100026008.html",
-          "title_en": "Best money market account rates today, March 17, 2026 (Earn up to 4.01% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
-          "title": "截至2026年3月17日，今日最高收益储蓄利率（最高可达4%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-tuesday-march-17-2026-100032258.html",
-          "title_en": "Best high-yield savings interest rates today, March 17, 2026 (Earn up to 4% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
-          "title": "美联储会议时间未知",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/what-time-is-tomorrows-fed-meeting-120032502.html",
-          "title_en": "What time is tomorrow's Fed meeting?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
-          "title": "黄金价格今日（星期二，3月17日）：黄金价格在美联储会议前上涨",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-march-17-gold-opens-higher-ahead-of-fed-meeting-110052581.html",
-          "title_en": "Gold price today, Tuesday, March 17: Gold opens higher ahead of Fed meeting"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
-          "title": "美国参议员要求白宫回答：TikTok投资者是否将向美国财政部支付10亿美元",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/senator-wants-white-house-to-answer-if-tiktok-investors-will-pay-10-billion-to-us-treasury-4566444",
-          "title_en": "Senator wants White House to answer if TikTok investors will pay $10 billion to US Treasury"
-        },
-        {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-18 02:58:28",
+          "time": "2026-03-18 03:47:28",
           "title": "美联储将于周三发布最新的利率决定。",
           "summary": "美联储没有太多选择，只能在本周观望。",
           "url": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
@@ -317,29 +271,30 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
-          "title": "股市暴跌是否结束？华尔街认为有价值，但仍然关注石油市场。",
+          "time": "2026-03-18 03:52:18",
+          "title": "石油供应中断正在搅乱像Nvidia或AMD这样的芯片股，但你是否应该在低点买入？",
           "summary": "",
-          "url": "https://www.barrons.com/articles/stock-market-selloff-oil-prices-e45f400e?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Has the Stock Selloff Ended? Wall Street Sees Value but Remains Focused on Oil Markets."
+          "url": "https://finance.yahoo.com/news/oil-supply-disruptions-rocking-chip-113002731.html",
+          "title_en": "Oil Supply Disruptions Are Rocking Chip Stocks Like Nvidia or AMD, But Should You Buy the Dip?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
+          "time": "2026-03-18 03:52:18",
           "title": "油价期货简介：普通投资者是否能真正交易它们？",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/oil-futures-explained-can-regular-investors-really-trade-them-141230299.html",
           "title_en": "Oil futures explained: Can regular investors really trade them?"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-World",
           "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
-          "title": "伊朗比特币陷入停滞状态，'老经济'资产吸引眼球",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/bitcoin-iran-limbo-old-economy-043913653.html",
-          "title_en": "Bitcoin in Iran Limbo as ‘Old Economy’ Assets Steal Limelight"
+          "time": "2026-03-18 03:44:24",
+          "title": "石油价格突破103美元 美军盟友不愿护送霍尔木兹海峡油轮",
+          "summary": "石油价格周二缩减涨幅，因为美军领导的护航联盟保护霍尔木兹海峡的航运存在不确定性。",
+          "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
+          "title_en": "Oil prices top $103 as U.S. allies reluctant to escort tankers in Strait of Hormuz",
+          "summary_en": "Oil prices pared gains on Tuesday as uncertainty lingered over a U.S.-led coalition to protect shipping through the Strait of Hormuz."
         },
         {
           "source": "MarketWatch-Top",
@@ -432,16 +387,6 @@
           "summary_en": "\"Iran posed no imminent threat to our nation,\" Kent wrote in his letter to President Donald Trump."
         },
         {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-17 23:59:49",
-          "title": "石油价格突破102美元 美国盟友在霍尔木兹海峡不愿护航油轮",
-          "summary": "石油价格周二缩减涨幅，因为美军领导的护航联盟保护霍尔木兹海峡的航运存在不确定性。",
-          "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
-          "title_en": "Oil prices top $102 as U.S. allies reluctant to escort tankers in Strait of Hormuz",
-          "summary_en": "Oil prices pared gains on Tuesday as uncertainty lingered over a U.S.-led coalition to protect shipping through the Strait of Hormuz."
-        },
-        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-17 23:04:07",
@@ -490,6 +435,16 @@
           "url": "https://www.cnbc.com/2026/03/17/cnbc-daily-open-risk-off-trade-back-on-for-oil-.html",
           "title_en": "CNBC Daily Open: Risk-off trade back on for oil",
           "summary_en": "Oil prices push higher as markets seem unconvinced of Trump's plan to reopen the Strait of Hormuz."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-17 09:33:32",
+          "title": "川普寻求霍尔木兹海峡支持  他瞄准古巴",
+          "summary": "美国总统唐纳德·特朗普呼吁盟国帮助美国确保霍尔木兹海峡安全，但似乎收到了不积极的回应。",
+          "url": "https://www.cnbc.com/2026/03/17/cnbc-daily-open-trump-seeks-support-on-hormuz-as-he-sets-sights-on-cuba.html",
+          "title_en": "CNBC Daily Open: Trump seeks support on Hormuz as he sets sights on Cuba",
+          "summary_en": "U.S. President Donald Trump's appeals that allies help the U.S. secure the Strait of Hormuz seem to have received a less than enthusiastic response."
         }
       ]
     },
@@ -526,34 +481,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
-          "title": "蒂姆霍顿斯英国及爱尔兰分部延长了其总部授权协议至2045年。",
+          "time": "2026-03-18 03:52:18",
+          "title": "市场见过这部电影。它并不是投资者看过的好片。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/tim-hortons-uk-extends-master-101446612.html",
-          "title_en": "Tim Hortons UK&I extends master franchise deal to 2045"
+          "url": "https://www.barrons.com/articles/stock-market-oil-nvidia-things-to-know-today-736a21ab?siteid=yhoof2&yptr=yahoo",
+          "title_en": "The Market’s Seen This Movie Before. It’s Not an Oscar Winner for Investors."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
-          "title": "在金融行业中，State Street Corporation（STT）是否优于同行？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/state-street-corporation-stock-stt-100823041.html",
-          "title_en": "State Street Corporation Stock: Is STT Outperforming the Financial Sector?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
-          "title": "比特币老人埃里克·沃尔希斯在市场低点购买了6,100万美元的以太坊——他看到了什么？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/bitcoin-og-erik-voorhees-buys-101912848.html",
-          "title_en": "Bitcoin OG Erik Voorhees Buys $61M of Ethereum During Dip — What Does He See?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
+          "time": "2026-03-18 03:52:18",
           "title": "如何将Omega Healthcare转化为收入机器的策略",
           "summary": "",
           "url": "https://finance.yahoo.com/news/turn-omega-healthcare-income-machine-110002989.html",
@@ -562,7 +499,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
+          "time": "2026-03-18 03:52:18",
           "title": "芝加哥男子现有300万美元现金和400万美元储蓄账户。拉姆西秀节目提出了一个计划，可能将他的钱变成2千万美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/chicago-man-300k-cash-400k-110000554.html",
@@ -571,25 +508,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
-          "title": "阿根廷时装周的光环背后，纺织业的骨架开始断裂",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/behind-fashion-week-glamour-argentinas-110254859.html",
-          "title_en": "Behind fashion week glamour, Argentina's textile backbone buckles"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
-          "title": "波音公司（BA）获得2.34亿美元空军合同修改",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/boeing-company-ba-awarded-2-110317371.html",
-          "title_en": "The Boeing Company (BA) Awarded $2.34 Billion Air Force Contract Modification"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
+          "time": "2026-03-18 03:52:18",
           "title": "摩根士丹利提高了Honeywell国际(HON)的目标价格至245美元，并维持等权重评级。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/morgan-stanley-lifts-price-target-110321941.html",
@@ -598,25 +517,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
-          "title": "分析师预见RTX Corporation（RTX）将上涨11%",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/analysts-see-11-upside-rtx-110319666.html",
-          "title_en": "Analysts See 11% Upside To RTX Corporation (RTX)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
-          "title": "洛克希德·马丁公司(LMT)获得了11.5亿美元的海军合同订单。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/lockheed-martin-corporation-lmt-secures-110322717.html",
-          "title_en": "Lockheed Martin Corporation (LMT) Secures $111.5 Million Naval Contract Order"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
+          "time": "2026-03-18 03:52:18",
           "title": "L3哈里斯技术(LHX)聚焦于中东危机推动投资者向防御行业转移",
           "summary": "",
           "url": "https://finance.yahoo.com/news/l3harris-technologies-lhx-focus-middle-110324520.html",
@@ -625,34 +526,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
-          "title": "Cloudberry将收购芬兰一座陆基风电场的50%股权。",
+          "time": "2026-03-18 03:52:18",
+          "title": "支付公司对支票持有不同看法",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/cloudberry-acquire-50-stake-onshore-101954335.html",
-          "title_en": "Cloudberry to acquire 50% stake in onshore wind farm in Finland"
+          "url": "https://finance.yahoo.com/news/payments-firms-diverge-checks-104540204.html",
+          "title_en": "Payments firms diverge on checks"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
-          "title": "中国国家公安消防局签署了与Textron Inc. (TXT) 的直升机采购协议。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/ntcsa-signs-helicopter-purchase-agreement-110326223.html",
-          "title_en": "NTCSA Signs Helicopter Purchase Agreement with Textron Inc. (TXT)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
-          "title": "KTOS是否是未来三年最好的无人机股？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/kratos-defense-security-solutions-inc-110327649.html",
-          "title_en": "Is Kratos Defense & Security Solutions, Inc. (KTOS) The Best Drone Stock To Buy For The Next 3 Years?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
+          "time": "2026-03-18 03:52:18",
           "title": "BTIG 将AeroVironment, Inc. (AVAV)的价格目标降至$330，维持买入评级。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/btig-cuts-aerovironment-inc-avav-110329745.html",
@@ -661,29 +544,101 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
+          "time": "2026-03-18 03:52:18",
+          "title": "洛克希德·马丁公司(LMT)获得了11.5亿美元的海军合同订单。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/lockheed-martin-corporation-lmt-secures-110322717.html",
+          "title_en": "Lockheed Martin Corporation (LMT) Secures $111.5 Million Naval Contract Order"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 03:52:18",
+          "title": "KTOS是否是未来三年最好的无人机股？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/kratos-defense-security-solutions-inc-110327649.html",
+          "title_en": "Is Kratos Defense & Security Solutions, Inc. (KTOS) The Best Drone Stock To Buy For The Next 3 Years?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 03:52:18",
+          "title": "中国国家公安消防局签署了与Textron Inc. (TXT) 的直升机采购协议。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/ntcsa-signs-helicopter-purchase-agreement-110326223.html",
+          "title_en": "NTCSA Signs Helicopter Purchase Agreement with Textron Inc. (TXT)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 03:52:18",
+          "title": "CCL工业集团将以15.1亿美元收购Sleever国际",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/ccl-industries-acquire-sleever-international-105625693.html",
+          "title_en": "CCL Industries to acquire Sleever International for $151m"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 03:52:18",
+          "title": "阿根廷时装周的光环背后，纺织业的骨架开始断裂",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/behind-fashion-week-glamour-argentinas-110254859.html",
+          "title_en": "Behind fashion week glamour, Argentina's textile backbone buckles"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 03:52:18",
+          "title": "分析师预见RTX Corporation（RTX）将上涨11%",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/analysts-see-11-upside-rtx-110319666.html",
+          "title_en": "Analysts See 11% Upside To RTX Corporation (RTX)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 03:52:18",
+          "title": "波音公司（BA）获得2.34亿美元空军合同修改",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/boeing-company-ba-awarded-2-110317371.html",
+          "title_en": "The Boeing Company (BA) Awarded $2.34 Billion Air Force Contract Modification"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 03:52:18",
+          "title": "加密货币公司Abra将通过空白支票合并方式上市。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/crypto-company-abra-public-blank-112925853.html",
+          "title_en": "Crypto company Abra to go public in blank-check merger"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 03:52:18",
+          "title": "环球物流第四季利润暴跌，中间运输损失加深",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/universal-logistics-q4-profit-plunges-113000902.html",
+          "title_en": "Universal Logistics Q4 profit plunges as intermodal losses deepen"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 03:52:18",
+          "title": "Aptiv（APTV）的股价表现如何与其他汽车零部件股相比？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/aptiv-stock-performance-compared-other-114319137.html",
+          "title_en": "How Is Aptiv’s Stock Performance Compared to Other Auto Parts Stocks?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 03:52:18",
           "title": "2026年3月17日威克森日常报告：买家和卖家名单",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46451_TopBottomInsiderActivity_1773747091000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "title_en": "Daily – Vickers Top Buyers & Sellers for 03/17/2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
-          "title": "Coinsilium Group： Coinsilium Group的子公司SuperLayer Technologies与加密货币交易平台Layer2达成合作协议。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/video/coinsilium-group-tower-resources-buccaneer-101907960.html",
-          "title_en": "Coinsilium Group, Tower Resources, Buccaneer Energy, Team Internet Group - Small Cap Snapshot"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 03:21:52",
-          "title": "税退款延迟影响了一些州。你的州是否也受到了影响？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refund-delays-hit-a-handful-of-states-is-yours-one-of-them-205225491.html",
-          "title_en": "Tax refund delays hit a handful of states. Is yours one of them?"
         }
       ]
     }
