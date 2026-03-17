@@ -1,6 +1,6 @@
 {
   "date": "2026.03.18",
-  "generatedAtBJT": "2026-03-18 04:52:57",
+  "generatedAtBJT": "2026-03-18 05:00:19",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-18 04:52:57",
+          "time": "2026-03-18 05:00:19",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：油价供应中断影响芯片股如Nvidia或AM…\n- 宏观/Fed：关注美联储下一次会议时间，2026年全年会议安排…\n- 科技/半导体：Nebius斩获27亿美元Meta订单，如何操作N… 关键词：Nvidia，CEO，小时，亚马逊，苹果\n- TSLA：关注特斯拉将以43亿美元的价格从LG能量购买廉价电池…",
+          "summary": "- 地缘/避险：油气供应中断影响芯片股，如Nvidia或AM…\n- 宏观/Fed：关注美联储下一次会议时间，查看2026年全年会议日程表…\n- 科技/半导体：Micron和Sandisk股价大涨，但令人惊讶的市场反应是什么…\n- TSLA：关注特斯拉将从LG能源购买43亿美元的电池单元。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Oil Supply Disruptions Are Rocking Chip Stocks Like Nvidia or AM…\n- 宏观/Fed：关注 When is the Fed's next meeting? See the full schedule for 2026.…\n- 科技/半导体：Nebius Just Landed a $27 Billion Meta Deal. Here’s How to Play N… 关键词: nvidia, ceo, hour, amazon, apple\n- TSLA：关注 Tesla to buy $4.3 billion of LG Energy battery cells from disban…"
+          "summary_en": "- 地缘/避险：关注 Oil Supply Disruptions Are Rocking Chip Stocks Like Nvidia or AM…\n- 宏观/Fed：关注 When is the Fed's next meeting? See the full schedule for 2026.…\n- 科技/半导体：Micron and Sandisk stocks are soaring today, but the stunning me… 关键词: nvidia, chip, hour, amazon, apple\n- TSLA：关注 Tesla to buy $4.3 billion of LG Energy battery cells from disban…"
         }
       ]
     },
@@ -29,34 +29,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
-          "title": "Neabis（NBIS）刚刚获得了27亿美元的Meta交易。",
+          "time": "2026-03-18 05:00:15",
+          "title": "微星和SanDisk的股票今天大涨，但令人震惊的内存芯片大涨可能意味着坏消息正在等待你。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/nebius-just-landed-27-billion-120751166.html",
-          "title_en": "Nebius Just Landed a $27 Billion Meta Deal. Here’s How to Play NBIS"
+          "url": "https://finance.yahoo.com/news/micron-sandisk-stocks-soaring-today-121700107.html",
+          "title_en": "Micron and Sandisk stocks are soaring today, but the stunning memory chip rally could mean bad news for you"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
+          "time": "2026-03-18 05:00:15",
           "title": "Alphabet (GOOG) 因其在人工智能竞赛中的转变而获得了收益，从“被猎物”变为“猎人”",
           "summary": "",
           "url": "https://finance.yahoo.com/news/alphabet-goog-gained-shift-ai-124758877.html",
           "title_en": "Alphabet (GOOG) Gained from Its Shift in the AI Race from Being “Hunted” to Being a “Hunter”"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
-          "title": "纳斯达克(Nasdaq)首席执行官阿德娜·弗里德曼(Adena Friedman)认为人工智能(AI)不会是软件的死刑。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/nasdaq-ceo-adena-friedman-convinced-120138643.html",
-          "title_en": "Nasdaq CEO Adena Friedman is convinced AI isn’t a death knell for software"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
+          "time": "2026-03-18 05:00:15",
           "title": "Nvidia CEO表示，公司将重新启动中国AI芯片的制造。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/nvidia-restarting-manufacturing-of-china-ai-chip-variant-ceo-says-4566694",
@@ -201,6 +192,16 @@
           "url": "https://www.cnbc.com/2026/03/16/nvidia-gtc-2026-ceo-jensen-huang-keynote-blackwell-vera-rubin.html",
           "title_en": "Nvidia GTC 2026: CEO Jensen Huang sees $1 trillion in orders for Blackwell and Vera Rubin through '27",
           "summary_en": "At Nvidia's annual developer conference, CEO Jensen Huang said the company is seeing booming demand for its latest technology."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-17 04:24:43",
+          "title": "Nvidia宣布了Vera Rubin Space-1芯片系统，用于轨道AI数据中心。",
+          "summary": "Nvidia CEO 杰森·黄（Jensen Huang）在GTC 2026会议上表示，空间计算已经“到来了”。",
+          "url": "https://www.cnbc.com/2026/03/16/nvidia-chips-orbital-data-centers-space-ai.html",
+          "title_en": "Nvidia announces Vera Rubin Space-1 chip system for orbital AI data centers",
+          "summary_en": "Nvidia CEO Jensen Huang said space computing \"has arrived\" at the GTC 2026 conference."
         }
       ]
     },
@@ -211,7 +212,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
+          "time": "2026-03-18 05:00:15",
           "title": "美联储下一次会议的时间是？查看2026年全年会议日程。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/when-is-the-next-fed-meeting-full-schedule-150709698.html",
@@ -220,7 +221,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
+          "time": "2026-03-18 05:00:15",
           "title": "本周3月16日，最佳抵押贷款利率：5.889%的APR获得最低利率",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-march-16-2026-170834623.html",
@@ -229,25 +230,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
+          "time": "2026-03-18 05:00:15",
           "title": "今日最佳定期存款利率（CD），2026年3月17日：今日可锁定最高4.1%年利率（APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-march-17-2026-lock-in-up-to-4-1-apy-today-100000978.html",
           "title_en": "Best CD rates today, March 17, 2026: Lock in up to 4.1% APY today"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
-          "title": "今天，3月17日，2026年：美联储不太可能降低家庭抵押贷款利率",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-march-17-2026-100000210.html",
-          "title_en": "HELOC and home equity loan rates today, March 17, 2026: Fed unlikely to help home equity rates"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
+          "time": "2026-03-18 05:00:15",
           "title": "华尔街周五继续上周的反弹，美联储明日将宣布利率决策。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-subdued-as-irandriven-oil-price-climb-remains-in-focus-4565442",
@@ -272,7 +264,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
+          "time": "2026-03-18 05:00:15",
           "title": "石油供应中断正在搅乱像Nvidia或AMD这样的芯片股，但你是否应该在低点买入？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/oil-supply-disruptions-rocking-chip-113002731.html",
@@ -281,20 +273,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
-          "title": "油价期货简介：普通投资者是否能真正交易它们？",
+          "time": "2026-03-18 05:00:15",
+          "title": "由于与伊朗的冲突，是否应该卖出（或避免）XRP？",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/oil-futures-explained-can-regular-investors-really-trade-them-141230299.html",
-          "title_en": "Oil futures explained: Can regular investors really trade them?"
+          "url": "https://finance.yahoo.com/news/sell-avoid-xrp-due-conflict-122000281.html",
+          "title_en": "Should You Sell (or Avoid) XRP Due to the Conflict With Iran?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
-          "title": "油价今日走势",
+          "time": "2026-03-18 05:00:15",
+          "title": "油价期货简介：普通投资者是否能真正交易它们？",
           "summary": "",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-16-2026/card/what-s-happening-in-oil-markets-today--37E2Tos4yIW8vskPjpS6?siteid=yhoof2&yptr=yahoo",
-          "title_en": "What’s Happening in Oil Markets Today?"
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/oil-futures-explained-can-regular-investors-really-trade-them-141230299.html",
+          "title_en": "Oil futures explained: Can regular investors really trade them?"
         },
         {
           "source": "CNBC-Top",
@@ -455,7 +447,7 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-18 02:51:33",
+          "time": "2026-03-18 04:53:43",
           "title": "特斯拉将从解散的通用汽车工厂购买价值 43 亿美元的 LG 能源电池单元。",
           "summary": "特斯拉与LG能量解决方案扩大合作，包括一项4.3亿美元的美国生产电池订单，用于密歇根州的能量储存系统。",
           "url": "https://www.cnbc.com/2026/03/17/tesla-to-buy-4-point-3-billion-lg-energy-battery-cells-made-in-michigan.html",
@@ -481,16 +473,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
-          "title": "道氏树(Dollar Tree)客流量再次下降",
+          "time": "2026-03-18 05:00:15",
+          "title": "南方公司有望成为股息贵族公司——但股息是否真正安全？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/dollar-tree-traffic-declines-again-120600470.html",
-          "title_en": "Dollar Tree traffic declines, again"
+          "url": "https://finance.yahoo.com/news/southern-company-expected-become-dividend-121512392.html",
+          "title_en": "Southern Company Expected to Become a Dividend Aristocrat — But Is the Dividend Actually Safe?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
+          "time": "2026-03-18 05:00:15",
           "title": "PPL公司的股价是否超越了S&P 500指数。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/ppl-stock-outperforming-p-500-121201805.html",
@@ -499,34 +491,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
-          "title": "北美电网面临一代人来最严重的考验：青蛙已经死了",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/frog-dead-north-america-power-114843990.html",
-          "title_en": "The Frog Is Dead: North America’s Power Grid Faces Its Biggest Reckoning in a Generation"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
-          "title": "麦迪逊小型股基金在收购公告后退出Confluent（CFLT）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/madison-small-cap-fund-exited-122505700.html",
-          "title_en": "Madison Small Cap Fund Exited Confluent (CFLT) Following Acquisition Announcement"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
-          "title": "Aptiv（APTV）的股价表现如何与其他汽车零部件股相比？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/aptiv-stock-performance-compared-other-114319137.html",
-          "title_en": "How Is Aptiv’s Stock Performance Compared to Other Auto Parts Stocks?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
+          "time": "2026-03-18 05:00:15",
           "title": "麦迪逊小盘股选择放弃Cogent Communications Holdings（CCOI）",
           "summary": "",
           "url": "https://finance.yahoo.com/news/why-madison-small-cap-decided-122704825.html",
@@ -535,34 +500,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
-          "title": "环球物流第四季利润暴跌，中间运输损失加深",
+          "time": "2026-03-18 05:00:15",
+          "title": "麦迪逊小型股基金在收购公告后退出Confluent（CFLT）",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/universal-logistics-q4-profit-plunges-113000902.html",
-          "title_en": "Universal Logistics Q4 profit plunges as intermodal losses deepen"
+          "url": "https://finance.yahoo.com/news/madison-small-cap-fund-exited-122505700.html",
+          "title_en": "Madison Small Cap Fund Exited Confluent (CFLT) Following Acquisition Announcement"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
-          "title": "加密货币公司Abra将通过空白支票合并方式上市。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/crypto-company-abra-public-blank-112925853.html",
-          "title_en": "Crypto company Abra to go public in blank-check merger"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
-          "title": "VONG与QQQ：哪个增长ETF更值得购买？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/vong-vs-qqq-growth-etf-120500150.html",
-          "title_en": "VONG vs. QQQ: Which Growth ETF Is the Better Buy?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
+          "time": "2026-03-18 05:00:15",
           "title": "巴布科克威尔科克斯企业公司2025年第四季度财报电话会议总结",
           "summary": "",
           "url": "https://finance.yahoo.com/news/babcock-wilcox-enterprises-inc-q4-123000368.html",
@@ -571,16 +518,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
-          "title": "Encompass Health Corp.(EHC)第四季度下滑，尽管基本面强劲",
+          "time": "2026-03-18 05:00:15",
+          "title": "美国储物公司将以55亿美元的股票交易方式收购National Storage Affiliates。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/encompass-health-corp-ehc-declined-123034748.html",
-          "title_en": "Encompass Health Corp. (EHC) Declined in Q4 Despite Strong Fundamentals"
+          "url": "https://www.wsj.com/business/deals/public-storage-to-acquire-national-storage-affiliates-in-5-7-billion-stock-deal-2824b4c2?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Public Storage to Acquire National Storage Affiliates in $5.6 Billion Stock Deal"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
+          "time": "2026-03-18 05:00:15",
           "title": "为什么Primo Brands（PRMB）股价下跌50%",
           "summary": "",
           "url": "https://finance.yahoo.com/news/why-primo-brands-prmb-stock-123243418.html",
@@ -589,7 +536,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
+          "time": "2026-03-18 05:00:15",
+          "title": "Encompass Health Corp.(EHC)第四季度下滑，尽管基本面强劲",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/encompass-health-corp-ehc-declined-123034748.html",
+          "title_en": "Encompass Health Corp. (EHC) Declined in Q4 Despite Strong Fundamentals"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 05:00:15",
+          "title": "北美电网面临一代人来最严重的考验：青蛙已经死了",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/frog-dead-north-america-power-114843990.html",
+          "title_en": "The Frog Is Dead: North America’s Power Grid Faces Its Biggest Reckoning in a Generation"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 05:00:15",
+          "title": "Aptiv（APTV）的股价表现如何与其他汽车零部件股相比？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/aptiv-stock-performance-compared-other-114319137.html",
+          "title_en": "How Is Aptiv’s Stock Performance Compared to Other Auto Parts Stocks?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 05:00:15",
           "title": "麦迪逊小盘基金的表现亮点：西纳公司（CIEN）",
           "summary": "",
           "url": "https://finance.yahoo.com/news/madison-small-cap-fund-standout-123855508.html",
@@ -598,25 +572,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
-          "title": "2025年第四季度的餐饮行业赢家和输家。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/q4-2025-restaurant-winners-loses-120500093.html",
-          "title_en": "Q4 2025’s restaurant winners and loses"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
-          "title": "玉米周一上午回落",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/corn-falling-back-monday-am-124009370.html",
-          "title_en": "Corn Falling Back on Monday AM Trade"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
+          "time": "2026-03-18 05:00:15",
           "title": "豆粕周一早盘下跌，受特朗普/习近平会面引发的担忧影响。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/soybeans-falling-monday-morning-due-124009589.html",
@@ -625,7 +581,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
+          "time": "2026-03-18 05:00:15",
           "title": "麦类周一早晨盘整",
           "summary": "",
           "url": "https://finance.yahoo.com/news/wheat-mixed-monday-morning-124009686.html",
@@ -634,7 +590,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 04:52:52",
+          "time": "2026-03-18 05:00:15",
+          "title": "玉米周一上午回落",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/corn-falling-back-monday-am-124009370.html",
+          "title_en": "Corn Falling Back on Monday AM Trade"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 05:00:15",
+          "title": "过去5年里，信用评分如何变化？这对你的钱意味着什么？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/credit-scores-changed-over-past-122226802.html",
+          "title_en": "Here’s How Credit Scores Have Changed Over the Past 5 Years — and What It Means for Your Money"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 05:00:15",
+          "title": "环球物流第四季利润暴跌，中间运输损失加深",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/universal-logistics-q4-profit-plunges-113000902.html",
+          "title_en": "Universal Logistics Q4 profit plunges as intermodal losses deepen"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 05:00:15",
+          "title": "加密货币公司Abra将通过空白支票合并方式上市。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/crypto-company-abra-public-blank-112925853.html",
+          "title_en": "Crypto company Abra to go public in blank-check merger"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 05:00:15",
           "title": "Lam研究公司（LCRX）受强需求上升带来利益",
           "summary": "",
           "url": "https://finance.yahoo.com/news/lam-research-lcrx-gained-strong-124620275.html",
