@@ -1,6 +1,6 @@
 {
   "date": "2026.03.18",
-  "generatedAtBJT": "2026-03-18 05:53:34",
+  "generatedAtBJT": "2026-03-18 06:23:50",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-18 05:53:34",
+          "time": "2026-03-18 06:23:50",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注石油期货：普通投资者是否能真正交易它们？\n\n- 宏观/Fed：关注美联储将于周三发布最新利率决策。\n\n- 科技/半导体： Alphabet (GOOG) 因其从人工智能竞赛中转变而受益…\n\n关键词：NVIDIA、中国、小时、订单、亚马逊\n\n- TSLA：关注特斯拉将从LG能量公司购买价值43亿美元的电池单元。",
+          "summary": "- 地缘/避险：关注原油价格下滑，股市反弹\n- 宏观/Fed：关注本周最佳房贷利率，2026年3月16日：...\n- 科技/半导体：百科全书 Encyclopedia Britannica 起诉 OpenAI 过 AI 训练... 关键词：nvidia、amazon、hour、openai、china\n- TSLA：关注特斯拉将从LG Energy购买43亿美元的电池单元",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Oil futures explained: Can regular investors really trade them?…\n- 宏观/Fed：关注 The Fed issues its latest interest rate decision Wednesday. Here…\n- 科技/半导体：Alphabet (GOOG) Gained from Its Shift in the AI Race from Being … 关键词: nvidia, china, hour, orders, amazon\n- TSLA：关注 Tesla to buy $4.3 billion of LG Energy battery cells from disban…"
+          "summary_en": "- 地缘/避险：关注 Stocks Rebound as Crude Oil Prices Move Lower…\n- 宏观/Fed：关注 Mortgage lenders with the best rates this week, March 16, 2026: …\n- 科技/半导体：Encyclopedia Britannica sues OpenAI over AI training… 关键词: nvidia, amazon, hour, openai, china\n- TSLA：关注 Tesla to buy $4.3 billion of LG Energy battery cells from disban…"
         }
       ]
     },
@@ -29,20 +29,56 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
-          "title": "Alphabet (GOOG) 因其在人工智能竞赛中的转变而获得了收益，从“被猎物”变为“猎人”",
+          "time": "2026-03-18 06:23:46",
+          "title": "百年古典知识权威《布里塔尼卡百科全书》(Encyclopedia Britannica)起诉OpenAI。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/alphabet-goog-gained-shift-ai-124758877.html",
-          "title_en": "Alphabet (GOOG) Gained from Its Shift in the AI Race from Being “Hunted” to Being a “Hunter”"
+          "url": "https://finance.yahoo.com/news/encyclopedia-britannica-sues-openai-over-141324436.html",
+          "title_en": "Encyclopedia Britannica sues OpenAI over AI training"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 06:23:46",
+          "title": "OpenAI 正在与私募股权公司合作，加入企业级人工智能业务。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/exclusive-openai-courts-private-equity-132509339.html",
+          "title_en": "OpenAI courts private equity to join enterprise AI venture"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 06:23:46",
+          "title": "Nvidia GTC新闻可能会对Broadcom、Dell、CoreWeave、Arista和Lumentum产生冲击。",
+          "summary": "",
+          "url": "https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-nvidia-gtc-3162026/?src=A00220&yptr=yahoo",
+          "title_en": "AI Stocks: Nvidia GTC News Could Jolt Broadcom, Dell, CoreWeave, Arista, Lumentum"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
-          "title": "英伟达重启中国AI芯片制造业务，CEO预测订单将达到1万亿美元",
+          "time": "2026-03-18 06:23:46",
+          "title": "亚马逊计划减少与美国邮政服务的业务量，转向内部物流。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-restarts-china-ai-chip-manufacturing-as-ceo-forecasts-1-trillion-in-orders-4566874",
-          "title_en": "Nvidia restarts China AI chip manufacturing as CEO forecasts $1 trillion in orders"
+          "url": "https://www.investing.com/news/stock-market-news/amazon-to-slash-usps-volume-in-shift-toward-inhouse-logistics--wsj-4567119",
+          "title_en": "Amazon to slash USPS volume in shift toward in-house logistics - WSJ"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 06:23:46",
+          "title": "华盛顿邮报报道，亚马逊计划大幅减少通过邮政局送出的包裹数量。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/amazon-plans-drastic-cut-in-packages-it-sends-through-post-office-wsj-reports-4567109",
+          "title_en": "Amazon plans drastic cut in packages it sends through post office, WSJ reports"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 06:23:46",
+          "title": "Nvidia CEO表示，公司将重新启动中国AI芯片的制造。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-restarting-manufacturing-of-china-ai-chip-variant-ceo-says-4566694",
+          "title_en": "Nvidia restarting manufacturing of China AI chip variant, CEO says"
         },
         {
           "source": "CNBC-Top",
@@ -163,46 +199,6 @@
           "url": "https://www.cnbc.com/2026/03/17/bytedance-seedance-shut-down-tiktok-marsha-blackburn-peter-welch.html",
           "title_en": "Senators tell ByteDance to 'immediately shut down' Seedance AI video app",
           "summary_en": "Lawmakers say the new version of the Seedance AI video-generation app violates copyright and intellectual property laws."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-17 07:09:52",
-          "title": "沃尔沃推进无需NVIDIA的驾驶辅助电动汽车，高管表示",
-          "summary": "沃尔沃中国集团首席技术官托马斯·乌尔布里奇（Thomas Ulbrich）独家接受采访，谈论了该公司的芯片计划。",
-          "url": "https://www.cnbc.com/2026/03/16/cnbc-china-connection-newsletter-volkswagen-ev-chips-xpeng-horizon-nvidia.html",
-          "title_en": "CNBC's The China Connection newsletter: Volkswagen pushes into driver-assist EVs without Nvidia, exec says",
-          "summary_en": "Volkswagen Group China's Chief Technology Officer Thomas Ulbrich spoke exclusively about the company's chip plans."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-17 06:41:14",
-          "title": "比尔·古利（Bill Gurley）谈论人工智能泡沫：一大群人快速致富，-reset即将来临。",
-          "summary": "格利的风险投资公司Benchmark是Uber早期的投资者，他帮助在2017年将当时的CEO特拉维斯·卡兰尼克（Travis Kalanick）推出。",
-          "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
-          "title_en": "Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
-          "summary_en": "Gurley's VC firm Benchmark was an early Uber investor, and he helped oust then-CEO Travis Kalanick in 2017."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-17 05:40:30",
-          "title": "苹果收购视频编辑公司MotionVFX以吸引订阅者",
-          "summary": "苹果公司正在收购MotionVFX，以帮助iPhone制造商吸引更多的创作者工具订阅者。",
-          "url": "https://www.cnbc.com/2026/03/16/apple-acquires-video-editing-company-motionvfx-to-boost-subscribers.html",
-          "title_en": "Apple acquires video editing company MotionVFX to boost subscribers",
-          "summary_en": "Apple is buying MotionVFX in part to help the iPhone maker attract more subscribers to its creator tools."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-17 04:51:22",
-          "title": "NVIDIA GTC 2026：CEO 杰森·黄（Jensen Huang）预计至27年，Blackwell和Vera Rubin将获得1000亿美元订单。",
-          "summary": "在Nvidia年度开发者大会上，CEO黄仁勋表示该公司正在看到其最新技术的需求大幅增长。",
-          "url": "https://www.cnbc.com/2026/03/16/nvidia-gtc-2026-ceo-jensen-huang-keynote-blackwell-vera-rubin.html",
-          "title_en": "Nvidia GTC 2026: CEO Jensen Huang sees $1 trillion in orders for Blackwell and Vera Rubin through '27",
-          "summary_en": "At Nvidia's annual developer conference, CEO Jensen Huang said the company is seeing booming demand for its latest technology."
         }
       ]
     },
@@ -210,6 +206,15 @@
       "name": "美联储与政策",
       "badge": "Fed / Policy",
       "items": [
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 06:23:46",
+          "title": "本周3月16日，最佳抵押贷款利率：5.889%的APR获得最低利率",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-march-16-2026-170834623.html",
+          "title_en": "Mortgage lenders with the best rates this week, March 16, 2026: 5.889% APR wins lowest rate"
+        },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
@@ -229,11 +234,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
+          "time": "2026-03-18 06:23:46",
+          "title": "股市反弹，原油价格下跌",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/stocks-rebound-crude-oil-prices-141305932.html",
+          "title_en": "Stocks Rebound as Crude Oil Prices Move Lower"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 06:23:46",
+          "title": "石油价格坚守100美元以上，中东冲突持续升级：\"高风险的僵局\"",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/oil-prices-hold-over-100-as-middle-east-conflict-rages-on-a-high-stakes-stalemate-143537218.html",
+          "title_en": "Oil prices hold over $100 as Middle East conflict rages on: 'A high-stakes stalemate'"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 06:23:46",
           "title": "油价期货简介：普通投资者是否能真正交易它们？",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/oil-futures-explained-can-regular-investors-really-trade-them-141230299.html",
           "title_en": "Oil futures explained: Can regular investors really trade them?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 06:23:46",
+          "title": "各国对油价上涨做出回应，推出燃油市场政策。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/countries-respond-higher-oil-prices-135806294.html",
+          "title_en": "Countries respond to higher oil prices with fuel market policies"
         },
         {
           "source": "CNBC-Top",
@@ -374,36 +406,6 @@
           "url": "https://www.cnbc.com/2026/03/17/cnbc-daily-open-risk-off-trade-back-on-for-oil-.html",
           "title_en": "CNBC Daily Open: Risk-off trade back on for oil",
           "summary_en": "Oil prices push higher as markets seem unconvinced of Trump's plan to reopen the Strait of Hormuz."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-17 09:33:32",
-          "title": "川普寻求霍尔木兹海峡支持  他瞄准古巴",
-          "summary": "美国总统唐纳德·特朗普呼吁盟国帮助美国确保霍尔木兹海峡安全，但似乎收到了不积极的回应。",
-          "url": "https://www.cnbc.com/2026/03/17/cnbc-daily-open-trump-seeks-support-on-hormuz-as-he-sets-sights-on-cuba.html",
-          "title_en": "CNBC Daily Open: Trump seeks support on Hormuz as he sets sights on Cuba",
-          "summary_en": "U.S. President Donald Trump's appeals that allies help the U.S. secure the Strait of Hormuz seem to have received a less than enthusiastic response."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-17 07:20:02",
-          "title": "特朗普对卡尔吉斯岛的警告提高了伊朗石油出口的杠杆",
-          "summary": "特朗普下令轰炸霍尔木兹海峡的克尔格岛，推动了世界上最关键的石油枢纽成为美国与伊朗冲突的中心。",
-          "url": "https://www.cnbc.com/2026/03/16/trump-iran-kharg-island-strikes-oil-exports.html",
-          "title_en": "Trump’s warning over Kharg Island raises the stakes for Iran’s oil exports",
-          "summary_en": "Trump's decision to order strikes on Kharg Island has pushed one of the world's most critical oil hubs into the center of the escalating U.S.-Iran conflict."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-17 07:09:57",
-          "title": "石油价格下降带动股市反弹，但克雷默说，Nvidia的AI热潮才是真正的故事。",
-          "summary": "周一石油价格下跌，触发了股市买盘，尤其是人工智能股，例如Nvidia，在其开发者大会上赢得了投资者的好评。",
-          "url": "https://www.cnbc.com/2026/03/16/oil-relief-sparks-a-stock-rally-but-cramer-says-nvidias-ai-boom-is-the-real-story.html",
-          "title_en": "Oil relief sparks a stock rally, but Cramer says Nvidia’s AI boom is the real story",
-          "summary_en": "A decline in oil on Monday triggered stock buying, particularly in AI stocks like Nvidia, which wowed investors at its developers conference."
         }
       ]
     },
@@ -440,151 +442,124 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
-          "title": "托班尼公司开始在科巴达金矿项目进行建设。",
+          "time": "2026-03-18 06:23:46",
+          "title": "Alphabet (GOOG) 正在从双重尾风中获益",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/toubani-begins-construction-kobada-gold-132734610.html",
-          "title_en": "Toubani begins construction at Kobada Gold Project"
+          "url": "https://finance.yahoo.com/news/alphabet-goog-gaining-double-tailwinds-140647471.html",
+          "title_en": "Alphabet (GOOG) is Gaining from Double Tailwinds"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
-          "title": "RAM Smid Composite削减了其对Lakeland Industries（LAKE）的持仓，前置其FY3Q26财报公布。",
+          "time": "2026-03-18 06:23:46",
+          "title": "加密基金吸收10亿美元投资，尽管全球紧张局势加剧，比特币和以太坊领跑。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ram-smid-composite-trimmed-position-132809998.html",
-          "title_en": "RAM Smid Composite Trimmed Its Position in Lakeland Industries (LAKE) Ahead of Its FY3Q26 Report"
+          "url": "https://finance.yahoo.com/news/crypto-funds-see-1b-inflows-140407459.html",
+          "title_en": "Crypto Funds See $1B Inflows Despite Global Tensions — Bitcoin and Ethereum Lead the Charge"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
-          "title": "唐尼利金融解决方案（DFIN）是什么样的投资选择？",
+          "time": "2026-03-18 06:23:46",
+          "title": "美国建造商信心在三月份微升-美国建造商协会（NAHB）",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/makes-donnelley-financial-solutions-dfin-133024928.html",
-          "title_en": "What Makes Donnelley Financial Solutions (DFIN) an Attractive Investment Choice?"
+          "url": "https://finance.yahoo.com/news/us-home-builder-sentiment-edges-140202940.html",
+          "title_en": "US home builder sentiment edges up in March -NAHB"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
-          "title": "Artisan Value基金对PayPal Holdings（PYPL）的看法",
+          "time": "2026-03-18 06:23:46",
+          "title": "利文顿娱乐(Live Nation Entertainment)股票是否优于道指(Dow)?",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/artisan-value-fund-views-paypal-132231772.html",
-          "title_en": "Artisan Value Fund’s Views on PayPal Holdings (PYPL)"
+          "url": "https://finance.yahoo.com/news/live-nation-entertainment-stock-outperforming-141143662.html",
+          "title_en": "Is Live Nation Entertainment Stock Outperforming the Dow?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
-          "title": "迪亚吉欧（DEO）面临周期性和结构性需求的双重挑战。",
+          "time": "2026-03-18 06:23:46",
+          "title": "埃默尔德增长股权战略在Q4卖出了Revity（RVTY）",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/mix-cyclical-structural-demand-headwinds-132011218.html",
-          "title_en": "A Mix of Cyclical and Structural Demand Headwinds Hurt Diageo (DEO)"
+          "url": "https://finance.yahoo.com/news/emerald-growth-equity-strategy-sold-135838515.html",
+          "title_en": "Emerald Growth Equity Strategy Sold Revvity (RVTY) in Q4"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
-          "title": "这只股票是购买SpaceX股份的方式之一，但在其IPO之前，投资者应该注意以下5大风险。",
+          "time": "2026-03-18 06:23:46",
+          "title": "意大利最大肉类加工商MHP控股下的Uvesa计划收购西班牙肉鸡加工商Payán Hermanos。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/stock-way-own-spacex-shares-132500194.html",
-          "title_en": "This Stock Is a Way to Own SpaceX Shares Before Its IPO. But Investors Should Heed These 5 Big Risks."
+          "url": "https://finance.yahoo.com/news/mhp-controlled-uvesa-buy-spanish-140322903.html",
+          "title_en": "MHP-controlled Uvesa to buy Spanish poultry peer Payán Hermanos"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
-          "title": "联合太平洋铁路（UNP）能够在面临挑战时维持高利润率的原因",
+          "time": "2026-03-18 06:23:46",
+          "title": "一项价值105亿美元的交易将创造一家美国自助储存巨头。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/allows-union-pacific-unp-sustain-131633018.html",
-          "title_en": "Here’s What Allows Union Pacific (UNP) to Sustain High Margins During Challenges"
+          "url": "https://finance.yahoo.com/news/10-5-billion-deal-create-135518523.html",
+          "title_en": "A $10.5 billion deal would create a self-storage giant in the U.S."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
-          "title": "巴尔公司股票是否低于纳斯达克指数的表现？",
+          "time": "2026-03-18 06:23:46",
+          "title": "Emerald Growth Equity Strategy 在 Q4 重启了 Fortinet（FTNT）的持股。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ball-corporation-stock-underperforming-nasdaq-131328236.html",
-          "title_en": "Is Ball Corporation Stock Underperforming the Nasdaq?"
+          "url": "https://finance.yahoo.com/news/emerald-growth-equity-strategy-reinitiated-141529852.html",
+          "title_en": "Emerald Growth Equity Strategy Reinitiated Its Position in Fortinet (FTNT) in Q4"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
-          "title": "Airbnb (ABNB) 的投资吸引力在哪里？",
+          "time": "2026-03-18 06:23:46",
+          "title": "汤姆·李的BitMine在波动性加剧的情况下又购买了60,000枚以太坊。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/makes-airbnb-abnb-attractive-investment-131051845.html",
-          "title_en": "What Makes Airbnb (ABNB) an Attractive Investment?"
+          "url": "https://finance.yahoo.com/news/tom-lee-bitmine-buys-another-134900226.html",
+          "title_en": "Tom Lee’s BitMine Buys Another 60,000 Ethereum Despite Volatility"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
-          "title": "我感到很不舒服，和财务规划师分享我的投资信息。他们需要知道这些吗？",
+          "time": "2026-03-18 06:23:46",
+          "title": "美联储加息压力下，美中石油（NVDA）等能源公司的工业产出面临挑战。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ask-advisor-feel-very-uncomfortable-131000283.html",
-          "title_en": "Ask an Advisor: I Feel ‘Very Uncomfortable' Sharing My Investment Info With a Financial Planner. Do They Need to Know This?"
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-16-2026/card/the-clock-is-ticking-on-the-gulf-s-industrial-output-NizwJIQYEmQ2SpHg14MW?siteid=yhoof2&yptr=yahoo",
+          "title_en": "The Clock Is Ticking on the Gulf’s Industrial Output"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
-          "title": "阿什利公司获得了金山项目钻探许可证",
+          "time": "2026-03-18 06:23:46",
+          "title": "加密货币财富平台Abra将通过SPAC交易上市",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ashley-receives-drilling-permit-gold-132111591.html",
-          "title_en": "Ashley receives drilling permit for Gold Mountain Project"
+          "url": "https://finance.yahoo.com/news/crypto-wealth-platform-abra-public-141900016.html",
+          "title_en": "Crypto Wealth Platform Abra To Go Public Via SPAC Deal"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
-          "title": "路德斯汉莎货运目标高价值技术、汽车和制药行业",
+          "time": "2026-03-18 06:23:46",
+          "title": "梅维尔工程（MEC）从其Accu-Fab收购中受益",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/lufthansa-cargo-targets-high-value-130802195.html",
-          "title_en": "Lufthansa Cargo targets high-value tech, auto, pharma sectors"
+          "url": "https://finance.yahoo.com/news/mayville-engineering-mec-gained-accu-134922347.html",
+          "title_en": "Mayville Engineering (MEC) Gained from Its Accu-Fab Acquisition"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
-          "title": "Fiserv (FISV) 大幅下跌，因为它未能满足收益预期。",
+          "time": "2026-03-18 06:23:46",
+          "title": "IRM的表现是否优于S&P 500。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/fiserv-fisv-tanked-missed-earnings-125048986.html",
-          "title_en": "Fiserv (FISV) Tanked as It Missed Earnings Expectations"
+          "url": "https://finance.yahoo.com/news/iron-mountain-stock-outperforming-p-134719703.html",
+          "title_en": "Is Iron Mountain Stock Outperforming the S&P 500?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
-          "title": "默克(Q4)股价大幅上涨的原因",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/why-merck-mrk-surged-q4-124932271.html",
-          "title_en": "Here’s Why Merck (MRK) Surged in Q4"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
-          "title": "甲骨文刚刚公布了15年来最好的季度表现——这是为什么2026年可能会更好",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/oracle-just-posted-best-quarter-132100165.html",
-          "title_en": "Oracle Just Posted Its Best Quarter in 15 Years -- Here's Why 2026 Could Get Even Better"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
-          "title": "Lam研究公司（LCRX）受强需求上升带来利益",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/lam-research-lcrx-gained-strong-124620275.html",
-          "title_en": "Lam Research (LCRX) Gained From Strong Demand Uptick"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
+          "time": "2026-03-18 06:23:46",
           "title": "查尔斯与德怀特（Church & Dwight）股票是否超越了S&P 500指数。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/church-dwight-stock-outperforming-p-134522507.html",
@@ -593,11 +568,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 05:53:29",
-          "title": "IRM的表现是否优于S&P 500。",
+          "time": "2026-03-18 06:23:46",
+          "title": "比特币近一个月来最高价",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/iron-mountain-stock-outperforming-p-134719703.html",
-          "title_en": "Is Iron Mountain Stock Outperforming the S&P 500?"
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-16-2026/card/bitcoin-hits-highest-price-in-over-a-month-zR7RPcj5A0kB0iXX4IdU?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Bitcoin Hits Highest Price in Over a Month"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 06:23:46",
+          "title": "唐尼利金融解决方案（DFIN）是什么样的投资选择？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/makes-donnelley-financial-solutions-dfin-133024928.html",
+          "title_en": "What Makes Donnelley Financial Solutions (DFIN) an Attractive Investment Choice?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 06:23:46",
+          "title": "RAM Smid Composite削减了其对Lakeland Industries（LAKE）的持仓，前置其FY3Q26财报公布。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/ram-smid-composite-trimmed-position-132809998.html",
+          "title_en": "RAM Smid Composite Trimmed Its Position in Lakeland Industries (LAKE) Ahead of Its FY3Q26 Report"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 06:23:46",
+          "title": "2026年3月17日威克森日常报告：买家和卖家名单",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46451_TopBottomInsiderActivity_1773747091000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily – Vickers Top Buyers & Sellers for 03/17/2026"
         }
       ]
     }
