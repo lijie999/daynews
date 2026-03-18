@@ -1,6 +1,6 @@
 {
   "date": "2026.03.19",
-  "generatedAtBJT": "2026-03-19 00:01:10",
+  "generatedAtBJT": "2026-03-19 00:04:23",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-19 00:01:10",
+          "time": "2026-03-19 00:04:23",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 股市今日：道指下跌，油价、批发通胀等因素影响\n- 宏观/Fed：关注 今天的美联储会议时间是多少？\n- 科技/半导体：NVIDIA 准备在中国的人工智能市场大展身手，如何就让中国允许他们\n- TSLA：关注 中国的新能源汽车市场已经走出低谷。两家与特斯拉竞争的公司正在做这件事。",
+          "summary": "- 地缘/避险：关注 美股今日大幅下挫，油价和批发通胀率上升成为主要原因。\n- 宏观/Fed：关注 美股今日大跌，道指、标普500指数和纳斯达克指数下跌，主要原因是PPI通胀率上升。\n- 科技/半导体：Lumentum因光纤网络技术前景看好而上涨，Nvidia等股价也受益。\n- TSLA：关注 中国新能源汽车行业的衰退已经基本结束。两家与特斯拉竞争的公司采取了新的战略。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Stock Market Today: Dow Drops As Oil Prices, Wholesale Inflation…\n- 宏观/Fed：关注 What time is today's Fed meeting?…\n- 科技/半导体：Nvidia Prepares for a Triumphant Return to China's Artificial In… 关键词: nvidia, china, how, just, allow\n- TSLA：关注 China's EV Slump 'Largely Behind Us.' Two Tesla Rivals Do This.…"
+          "summary_en": "- 地缘/避险：关注 Stock Market Today: Dow Drops As Oil Prices, Wholesale Inflation…\n- 宏观/Fed：关注 Stock market today: Dow, S&P 500, Nasdaq fall after PPI inflatio…\n- 科技/半导体：Lumentum Climbs On Optical Networking Technology Outlook, Nvidia… 关键词: nvidia, china, meta, agentic, allow\n- TSLA：关注 China's EV Slump 'Largely Behind Us.' Two Tesla Rivals Do This.…"
         }
       ]
     },
@@ -29,16 +29,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
-          "title": "NVIDIA 准备重返中国人工智能芯片市场",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/nvidia-prepares-triumphant-return-chinas-154554164.html",
-          "title_en": "Nvidia Prepares for a Triumphant Return to China's Artificial Intelligence (AI) Chip Market"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "Lumentum因光纤网络技术前景而上涨，Nvidia GTC新闻也带来影响。",
           "summary": "",
           "url": "https://www.investors.com/news/technology/lumentum-stock-lite-ofc-nvidia-gtc-optical-demand/?src=A00220&yptr=yahoo",
@@ -47,7 +38,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
+          "title": "NVIDIA 准备重返中国人工智能芯片市场",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/nvidia-prepares-triumphant-return-chinas-154554164.html",
+          "title_en": "Nvidia Prepares for a Triumphant Return to China's Artificial Intelligence (AI) Chip Market"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 00:04:17",
           "title": "谷歌将允许用户选择退出 AI 服务以缓解英国竞争问题。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/google-allow-ai-opt-ease-152912470.html",
@@ -56,25 +56,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
-          "title": "微软的AI问题又恶化了",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/microsoft-troubled-ai-problems-just-153951058.html",
-          "title_en": "Microsoft’s Troubled AI Problems Just Got Worse"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
-          "title": "NVIDIA的中国押注再次启动。这个会不会最终推动其股价呢？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/nvidia-china-bet-back-finally-153623274.html",
-          "title_en": "Nvidia’s China Bet Is Back On. Will This Finally Move Its Stock?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "英伟达准备好在中国AI市场大赚钱",
           "summary": "",
           "url": "https://www.investors.com/news/technology/nvidia-stock-china-ai-opportunity-h200-orders/?src=A00220&yptr=yahoo",
@@ -83,7 +65,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "分析报告：NVIDIA Corp（NVDA）",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3656_AnalystReport_1773831468000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -92,43 +74,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
-          "title": "布鲁姆能源（BE）持续受到关注，因为人工智能（AI）需求的提升使得该股受到了投资者的兴趣。",
+          "time": "2026-03-19 00:04:17",
+          "title": "阿克曼最近的两大买入：亚马逊还是元宇宙？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/why-bloom-energy-stayed-focus-141244665.html",
-          "title_en": "Why Bloom Energy (BE) Stayed in Focus as AI Power Demand Lifted Interest in the Stock"
+          "url": "https://finance.yahoo.com/news/amazon-meta-recent-bill-ackman-154327486.html",
+          "title_en": "Amazon or Meta: Which Recent Bill Ackman Buy Has More Upside?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
-          "title": "Lululemon刚刚任命Chip Bergh，前Levi's CEO和Swiffer拖把创造者，加入其董事会。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/lululemon-just-added-chip-bergh-a-former-levis-ceo-and-swiffer-mop-creator-to-its-board-141230968.html",
-          "title_en": "Lululemon just added Chip Bergh, a former Levi's CEO and Swiffer mop creator, to its board"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
-          "title": "帕拉尼特（PLTR）与奥达斯和世界视角的合作扩大了其人工智能防御推进",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/palantir-pltr-ondas-world-view-141154639.html",
-          "title_en": "How Palantir’s (PLTR) Ondas and World View Partnership Expands Its AI Defense Push"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
-          "title": "布罗德كم公司（AVGO）如何为人工智能网络扩张的下一阶段做好准备",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/broadcom-avgo-positioning-next-leg-140630686.html",
-          "title_en": "How Broadcom (AVGO) Is Positioning for the Next Leg of AI Network Scaling"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "市场摘要：COR、APD、NVDA、DUOL",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46457_MarketSummary_1773830568000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -137,16 +92,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
-          "title": "埃隆·马斯克在对OpenAI的1340亿美元诈骗案中获得了裁决，但他是否会赢得这场案件？",
+          "time": "2026-03-19 00:04:17",
+          "title": "微软的AI问题又恶化了",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/elon-musk-wins-ruling-134-153105901.html",
-          "title_en": "Elon Musk Wins Ruling $134 Billion Fraud Trial Against OpenAI, But Will He Win The Trial?"
+          "url": "https://finance.yahoo.com/news/microsoft-troubled-ai-problems-just-153951058.html",
+          "title_en": "Microsoft’s Troubled AI Problems Just Got Worse"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 00:04:17",
+          "title": "NVIDIA的中国押注再次启动。这个会不会最终推动其股价呢？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/nvidia-china-bet-back-finally-153623274.html",
+          "title_en": "Nvidia’s China Bet Is Back On. Will This Finally Move Its Stock?"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "高通称主动性人工智能将使设备成为主动的操作者，而不是简单的工具。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/qualcomm-says-agentic-ai-will-turn-devices-into-active-operators-not-just-tools-4568841",
@@ -155,11 +119,21 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "谷歌将允许用户选择退出 AI 服务以缓解英国竞争问题。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/google-to-allow-ai-optout-to-ease-uk-competition-concerns-4568830",
           "title_en": "Google to allow AI opt-out to ease UK competition concerns"
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-19 00:00:01",
+          "title": "Meta将向拥有大量粉丝的Instagram、TikTok和YouTube创作者支付费用，让他们在Facebook上发布内容。",
+          "summary": "Meta正在为创作者提供月度保证收入和推广曝光量，鼓励他们开始在Facebook的Reels上发布内容。",
+          "url": "https://www.cnbc.com/2026/03/18/meta-creator-pay-instagram-tiktok-youtube-facebook.html",
+          "title_en": "Meta will pay Instagram, TikTok and YouTube creators with big followings to post on Facebook",
+          "summary_en": "Meta is offering monthly guaranteed pay and boosted reach for creators to start posting on Facebook's Reels."
         },
         {
           "source": "CNBC-Top",
@@ -190,6 +164,36 @@
           "url": "https://www.cnbc.com/2026/03/18/ai-data-center-buildout-jobs-salary-skilled-traders-worker-shortage.html",
           "title_en": "How the red-hot AI data center boom is igniting demand for a new, lucrative career path: trade workers",
           "summary_en": "While anxiety around AI replacing white-collar jobs has reached a fever pitch, the data center boom is creating lucrative opportunities for skilled traders."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-18 22:07:46",
+          "title": "中国的\"AI老虎\"股价大幅上涨，随着Nvidia CEO称OpenClaw为\"下一个ChatGPT\"",
+          "summary": "中国AI股周三大涨，随着Nvidia首席执行官Jensen Huang对AI代理和OpenClaw的乐观表态。",
+          "url": "https://www.cnbc.com/2026/03/18/china-ai-zhipu-minimax-after-nvidia-jensen-huang-openclaw-comments.html",
+          "title_en": "China’s ‘AI tigers’ see shares surge after Nvidia CEO touts OpenClaw as ‘next ChatGPT’",
+          "summary_en": "Chinese AI stocks surged on Wednesday following upbeat remarks from Nvidia's chief executive Jensen Huang on the promise of AI agents and OpenClaw."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-18 18:35:42",
+          "title": "腾讯2025年收入超出预期，中国科技巨头加大人工智能投资",
+          "summary": "科技巨头表示，其核心业务为其提供了资金来支持人工智能投资的增长。",
+          "url": "https://www.cnbc.com/2026/03/18/tencent-2025-annual-revenue-ai-investments.html",
+          "title_en": "Tencent's 2025 revenue beats estimates as Chinese tech giant ramps up AI investment",
+          "summary_en": "The tech giant said its core business provided it with the resources to fund increasing investments in AI."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-18 16:37:21",
+          "title": "阿里巴巴推出面向企业的代理式AI工具，计划与Slack和Teams进行整合。",
+          "summary": "阿里巴巴周二宣布推出了一款新的企业级人工智能工具，同时公司的AI领域也出现了多项新进展。",
+          "url": "https://www.cnbc.com/2026/03/17/alibaba-wukong-ai-enterprise-tool-restructuring-qwen-exits.html",
+          "title_en": "Alibaba launches agentic AI tool for businesses with Slack, Teams integration plans",
+          "summary_en": "Alibaba unveiled a new enterprise artificial intelligence tool on Tuesday amid a series of other developments in the company's AI space."
         }
       ]
     },
@@ -200,7 +204,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
+          "title": "股市今日：道指、标普500指数、纳斯达克指数下跌，预计美联储决策前通胀数据出炉",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-fall-after-ppi-inflation-comes-in-hot-ahead-of-fed-decision-133104401.html",
+          "title_en": "Stock market today: Dow, S&P 500, Nasdaq fall after PPI inflation comes in hot ahead of Fed decision"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 00:04:17",
           "title": "今天的联邦储备委员会会议时间是几点？",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/what-time-is-todays-fed-meeting-120032684.html",
@@ -209,7 +222,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "自联邦储备委员会（FOMC）上次做出决定以来，为什么抵押贷款利率没有下降？",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/why-havent-mortgage-rates-fallen-since-the-last-federal-reserve-decision-165115992.html",
@@ -218,7 +231,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "当美联储不改变利率时，股市通常会对此做出积极的反应。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/how-are-stocks-impacted-when-the-fed-doesnt-change-interest-rates-154436785.html",
@@ -227,7 +240,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
+          "title": "比特币、XRP价格下滑，美联储3月18日的决策引发关注",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/bitcoin-xrp-slide-march-18-154348629.html",
+          "title_en": "Bitcoin, XRP slide as March 18 Fed decision looms large"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 00:04:17",
           "title": "美联储的决策会如何影响房贷利率？",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-does-the-fed-decision-affect-mortgage-rates-203137727.html",
@@ -236,7 +258,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "美联储利率决策如何影响你的银行账户、贷款、信用卡和投资",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/how-the-feds-rate-decision-affects-your-bank-accounts-loans-credit-cards-and-investments-220526730.html",
@@ -245,7 +267,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "黄金价格今日（周三，3月18日）：黄金价格稳定，等待美联储会议",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-march-18-gold-remains-steady-ahead-of-fed-press-conference-110052646.html",
@@ -254,7 +276,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "截至2026年3月18日，最佳现金市场账户利率（最高可达4.01%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-march-18-2026-100041568.html",
@@ -263,7 +285,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "截至2026年3月18日，今日最佳定期存款利率（最高可达4.1%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-march-18-2026-100036940.html",
@@ -272,7 +294,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "截至2026年3月18日，最高回报高利率储蓄利率（最高可达4%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-march-18-2026-100018851.html",
@@ -281,81 +303,65 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "今天（3月18日）房贷和再融资利率略微下降。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-march-18-2026-100000705.html",
           "title_en": "Mortgage and refinance interest rates today, March 18, 2026: Lower by a little"
         },
         {
-          "source": "CNBC-World",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 23:43:43",
-          "title": "短期国债收益率上涨，2月份生产者价格上涨损害了降息案例",
-          "summary": "国债收益率周三上涨，因为投资者对比率更快的批发通胀和美联储政策声明前夕进行了评估。",
-          "url": "https://www.cnbc.com/2026/03/18/treasury-yields-move-lower-all-eyes-fed-meeting.html",
-          "title_en": "Short-term Treasury yields rise after February producer prices hurt rate-cut case",
-          "summary_en": "Treasury yields rose Wednesday as investors took stock of faster-than-expected wholesale inflation and before the Fed's policy statement at 2 p.m. ET."
+          "time": "2026-03-19 00:04:17",
+          "title": "今天，3月18日，HELOC和家庭抵押贷款利率：由于美联储暂停，利率仍然较高。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-march-18-2025-100000875.html",
+          "title_en": "HELOC and home equity loan rates today, March 18, 2026: With the Fed on hold, rates are too"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 23:42:37",
-          "title": "美联储下一次加息预期被推迟后，美联储下一次降息预期被推迟",
-          "summary": "期货市场将任何现实的降息机会推到至少12月份。",
-          "url": "https://www.cnbc.com/2026/03/18/views-for-next-fed-rate-cut-pushed-back-after-hot-inflation-report.html",
-          "title_en": "Expectations for the next Fed rate cut get pushed back after hot inflation report",
-          "summary_en": "Futures markets took any realistic chance of a cut off the table until at least December."
+          "time": "2026-03-19 00:04:17",
+          "title": "美联储的财务报表不是它的主要问题",
+          "summary": "",
+          "url": "https://www.barrons.com/livecoverage/fed-meeting-march-interest-rate-cut-decision-powell-trump/card/balance-sheet-is-the-least-of-the-fed-s-problems-SvcqB6FKtKsTqGHnAxfu?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Balance Sheet Is the Least of the Fed’s Problems"
         },
         {
-          "source": "CNBC-World",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 22:13:15",
-          "title": "欧洲股市下跌，市场关注美联储",
-          "summary": "欧洲股市周三微幅下滑，伊朗战争和油价持续受到关注，央行也成为焦点。",
-          "url": "https://www.cnbc.com/2026/03/18/european-markets-stoxx-600-ftse-dax-cac-iran-news-oil-prices.html",
-          "title_en": "European stocks move lower as attention turns to the Fed",
-          "summary_en": "European stocks edged lower on Wednesday as the war in Iran and oil prices remain in the spotlight, and central banks come into focus."
+          "time": "2026-03-19 00:04:17",
+          "title": "今日（3月17日）房贷和再融资利率攀升至三个月新高",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-march-17-2026-100000675.html",
+          "title_en": "Mortgage and refinance interest rates today, March 17, 2026: Moving up to 3-month highs"
         },
         {
-          "source": "CNBC-Tech",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 20:20:35",
-          "title": "联邦储备委员会会议日，Macy的财报，微芯片的内存增强和更多的早间消息。",
-          "summary": "今天市场投资者需要了解的五个关键信息。",
-          "url": "https://www.cnbc.com/2026/03/18/5-things-to-know-before-the-market-opens.html",
-          "title_en": "Fed Day, Macy's earnings, Micron's memory boost and more in Morning Squawk",
-          "summary_en": "Here are five key things investors need to know to start the trading day."
+          "time": "2026-03-19 00:04:17",
+          "title": "各州最高的存款利率地图",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/highest-cd-rates-by-state-224514443.html",
+          "title_en": "This map shows the highest CD rates in every state"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 19:54:27",
-          "title": "抵押贷款再融资需求暴跌19%，随着利率大幅上升",
-          "summary": "房贷利率上升，伊朗战争加剧了通胀恐惧，导致再融资需求大幅下降，但买家需求有所改善。",
-          "url": "https://www.cnbc.com/2026/03/18/mortgage-refinance-demand-plunges-19percent-after-interest-rates-shoot-higher.html",
-          "title_en": "Mortgage refinance demand plunges 19% after interest rates shoot higher",
-          "summary_en": "Mortgage rates shot higher last week, as the war with Iran stoked fears over inflation. That caused a major drop in refinance demand, but buyer demand improved."
+          "time": "2026-03-19 00:04:17",
+          "title": "截至2026年3月17日，今日最高收益储蓄利率（最高可达4%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-tuesday-march-17-2026-100032258.html",
+          "title_en": "Best high-yield savings interest rates today, March 17, 2026 (Earn up to 4% APY)"
         },
         {
-          "source": "CNBC-World",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 16:08:31",
-          "title": "韩国Kospi指数在亚洲领涨，投资者正在评估日本贸易数据，并等待美联储利率裁决。",
-          "summary": "中东战争持续升级，令投资者心跳加速。",
-          "url": "https://www.cnbc.com/2026/03/18/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html",
-          "title_en": "South Korea's Kospi lead gains in Asia as investors assess Japan trade data, await Fed rate verdict",
-          "summary_en": "The Middle East war continues to escalate, keeping investors on edge."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-18 04:29:55",
-          "title": "美联储将于周三发布最新的利率决定。",
-          "summary": "美联储没有太多选择，只能在本周观望。",
-          "url": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
-          "title_en": "The Fed issues its latest interest rate decision Wednesday. Here's what to expect",
-          "summary_en": "The Federal Reserve has little choice but to stay on the sidelines this week."
+          "time": "2026-03-19 00:04:17",
+          "title": "截至2026年3月17日，最佳现金市场账户利率（最高可达4.01%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-tuesday-march-17-2026-100026008.html",
+          "title_en": "Best money market account rates today, March 17, 2026 (Earn up to 4.01% APY)"
         }
       ]
     },
@@ -366,7 +372,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "股市今日：道指下跌，原油价格和批发通胀加剧；美联储下一步将如何出手？（实时报道）",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-decision-powell-inflation-data/?src=A00220&yptr=yahoo",
@@ -375,7 +381,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "伊朗战争冲击比特币矿工：能源价格上涨和波动加剧",
           "summary": "",
           "url": "https://finance.yahoo.com/news/iran-war-hits-bitcoin-miners-145500599.html",
@@ -384,29 +390,21 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "伊朗战争能源冲击催生全球减少化石燃料依赖的趋势",
           "summary": "",
           "url": "https://finance.yahoo.com/news/analysis-iran-war-energy-shock-143630337.html",
           "title_en": "Analysis-Iran war energy shock sparks global push to reduce fossil fuel dependence"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
-          "title": "石油价格大幅上涨，布伦特-威蒂斯价格差异大幅扩张，伊朗供应风险加剧",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/oil-prices-surge-brent-wti-141056812.html",
-          "title_en": "Oil Prices Surge as Brent-WTI Spread Blows Out on Iran Supply Risk"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
-          "title": "美联储会议：高通胀加剧伊朗战争风险；标普500指数小幅下滑（实时报道）",
-          "summary": "",
-          "url": "https://www.investors.com/news/federal-reserve-meeting-march-inflation-unemployment-iran-war-oil-prices-sp-500/?src=A00220&yptr=yahoo",
-          "title_en": "Fed Meeting: Hot PPI Adds To Iran War Inflation Risk; S&P 500 Slips (Live Coverage)"
+          "time": "2026-03-19 00:03:03",
+          "title": "特朗普暂停美国运输法令60天以稳定油价市场",
+          "summary": "特朗普政府“仍然致力于继续加强我们的关键供应链”在伊朗战争期间，新闻秘书卡罗琳·利维特说。",
+          "url": "https://www.cnbc.com/2026/03/18/trump-jones-act-oil-iran-war.html",
+          "title_en": "Trump waives U.S. shipping law for 60 days to steady oil market",
+          "summary_en": "The Trump administration \"remains committed to continuing to strengthen our critical supply chains\" amid the Iran war, press secretary Karoline Leavitt said."
         },
         {
           "source": "CNBC-Top",
@@ -417,16 +415,6 @@
           "url": "https://www.cnbc.com/2026/03/18/hormuz-bottleneck-vessel-tanker-tracker-shipping-strait-of-hormuz.html",
           "title_en": "Traffic is trickling through Strait of Hormuz: Who's moving and who's stranded",
           "summary_en": "Iran has scared off most ships from the Strait of Hormuz, leaving some ships to pass through, while most continued to wait outside the strait."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-18 23:53:00",
-          "title": "特朗普暂停美国运输法令60天以稳定油价市场",
-          "summary": "特朗普政府“仍然致力于继续加强我们的关键供应链”在伊朗战争期间，新闻秘书卡罗琳·利维特说。",
-          "url": "https://www.cnbc.com/2026/03/18/trump-jones-act-oil-iran-war.html",
-          "title_en": "Trump waives U.S. shipping law for 60 days to steady oil market",
-          "summary_en": "The Trump administration \"remains committed to continuing to strengthen our critical supply chains\" amid the Iran war, press secretary Karoline Leavitt said."
         },
         {
           "source": "MarketWatch-Top",
@@ -537,6 +525,26 @@
           "url": "https://www.cnbc.com/2026/03/18/france-strait-of-hormuz-ships-attacks-trump-allies-insurance-drones.html",
           "title_en": "France ready to help U.S. secure Strait of Hormuz — but not while drones and missiles are flying",
           "summary_en": "European countries are reluctant to get involved in the U.S. and Israel's conflict with Iran, seeing it as a war of choice rather than necessity."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-18 17:08:18",
+          "title": "伊朗冲突笼罩着竹内辉与特朗普即将举行的峰会，专家表示。",
+          "summary": "伊朗问题可能会在周四的会议中占据主导地位，而不是投资或美国在亚洲的作用，专家告诉CNBC。",
+          "url": "https://www.cnbc.com/2026/03/18/trump-takaichi-meeting-iran-war-japan-us-self-defense-forces-hormuz-navy.html",
+          "title_en": "Iran conflict looms large over Takaichi's upcoming summit with Trump, experts say",
+          "summary_en": "The topic of Iran is likely to dominate Thursday's meeting, instead of investments or the U.S.' role in Asia, experts told CNBC."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-18 09:29:51",
+          "title": "特朗普独自面对伊朗战争——盟友拒绝加入",
+          "summary": "美国盟友似乎被困在伊朗袭击和美国总统的批评之间，关注点也转移到人工智能领域和美联储即将宣布的利率决定上。",
+          "url": "https://www.cnbc.com/2026/03/18/cnbc-daily-open-trump-goes-alone-in-the-iran-war-as-allies-spurn-requests-to-join-.html",
+          "title_en": "CNBC Daily Open: Trump goes alone in the Iran war — as allies spurn requests to join",
+          "summary_en": "U.S. allies seem to be caught between Iranian attacks and criticism from the U.S. president, with focus also on the AI space and the impending Fed rate verdict."
         }
       ]
     },
@@ -547,7 +555,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "中国电动汽车行业的衰退“基本已经过去了。”两家特斯拉竞争对手这样做。",
           "summary": "",
           "url": "https://www.investors.com/news/tesla-stock-electric-vehicles-evs-xiaomi-byd-china-autos-cars/?src=A00220&yptr=yahoo",
@@ -572,7 +580,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
+          "title": "银行股是经济衰退的先兆。还不用担心。",
+          "summary": "",
+          "url": "https://www.barrons.com/articles/bank-stocks-recession-signal-private-credit-outlook-ad0d2bd8?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Bank Stocks Are the Canary in the Recession Coal Mine. It’s Not Time to Worry—Yet"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 00:04:17",
           "title": "马克思百货股价大涨，CEO表示富裕消费者仍在“享受”",
           "summary": "",
           "url": "https://finance.yahoo.com/news/macys-stock-pops-on-earnings-beat-as-ceo-says-wealthier-shoppers-are-still-indulging-123712483.html",
@@ -581,16 +598,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
-          "title": "VR Adviser的大眼科治疗学卖出后如何看待",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/vr-advisers-big-ocular-therapeutix-154141860.html",
-          "title_en": "What to Make of VR Adviser's Big Ocular Therapeutix Sell-Down"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "贸易桌股价下跌，受公理斯数字广告费用的争议影响",
           "summary": "",
           "url": "https://www.investors.com/news/technology/trade-desk-stock-falls-publicis-digital-advertising-dispute/?src=A00220&yptr=yahoo",
@@ -599,16 +607,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
-          "title": "SoFi 回应短售者 Muddy Waters，CEO 购买股票",
-          "summary": "",
-          "url": "https://www.investors.com/news/technology/sofi-stock-company-fires-back-muddy-waters-ceo-buys-shares/?src=A00220&yptr=yahoo",
-          "title_en": "SoFi Fires Back At Short Seller Muddy Waters, CEO Buys Shares"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "债券收益率差距扩大与中东冲突同时加剧",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46463_MarketOutlook_1773833527000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -617,7 +616,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
+          "title": "SoFi 回应短售者 Muddy Waters，CEO 购买股票",
+          "summary": "",
+          "url": "https://www.investors.com/news/technology/sofi-stock-company-fires-back-muddy-waters-ceo-buys-shares/?src=A00220&yptr=yahoo",
+          "title_en": "SoFi Fires Back At Short Seller Muddy Waters, CEO Buys Shares"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 00:04:17",
+          "title": "税款退款增多正好赶上全国汽油价格大幅上涨",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/bigger-tax-refunds-arrive-just-154455844.html",
+          "title_en": "Bigger tax refunds arrive just as gas prices surge nationwide"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 00:04:17",
           "title": "摩根士丹利对维斯塔(VST)持乐观态度，这是为什么。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/morgan-stanley-bullish-vistra-corp-150605579.html",
@@ -626,7 +643,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "中期看多。",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46462_TechnicalAnalysis_1773832707000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -635,7 +652,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "世界一号酒店商务信用卡评测：适合频繁出差的商务旅行者",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/world-of-hyatt-business-credit-card-review-130429772.html",
@@ -644,16 +661,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
-          "title": "这笔价值600万美元的赌注为以临床阶段公司为主的投资组合增添了一家脑健康生物技术公司。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/6-million-bet-adds-brain-153446331.html",
-          "title_en": "This $6 Million Bet Adds a Brain Health Biotech to Portfolio Dominated by Clinical Stage Names"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "Guardant Health（GH）的2026筛查故事强化了Piper Sandler的乐观看法。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/why-guardant-health-gh-2026-141540022.html",
@@ -662,25 +670,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
-          "title": "TD Cowen转为对Rivian汽车（RIVN）持乐观态度，预计R2发布前将带来增长",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/why-td-cowen-turned-bullish-141451492.html",
-          "title_en": "Why TD Cowen Turned Bullish on Rivian Automotive (RIVN) Ahead of the R2 Launch"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
-          "title": "伊诺斯药物（IONS）的2026年催化剂管道支持利林克的更高目标",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/why-ionis-pharmaceuticals-ions-2026-141349127.html",
-          "title_en": "Why Ionis Pharmaceuticals’ (IONS) 2026 Catalyst Pipeline Supported Leerink’s Higher Target"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "2026年3月18日，维克勒（Vickers）推荐的内幕人士首选股。",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46459_InsiderActivity_1773830652000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -689,25 +679,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
-          "title": "目前对MercadoLibre最重要的3件事是：",
+          "time": "2026-03-19 00:04:17",
+          "title": "VR Adviser的大眼科治疗学卖出后如何看待",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/3-things-matter-most-mercadolibre-153300436.html",
-          "title_en": "The 3 Things That Matter Most for MercadoLibre Right Now"
+          "url": "https://finance.yahoo.com/news/vr-advisers-big-ocular-therapeutix-154141860.html",
+          "title_en": "What to Make of VR Adviser's Big Ocular Therapeutix Sell-Down"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
-          "title": "流媒体再次推动全球音乐收入增长，报告显示",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/streaming-boosts-global-music-revenues-141058843.html",
-          "title_en": "Streaming boosts global music revenues once again in 2025, report shows"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
+          "time": "2026-03-19 00:04:17",
           "title": "2026年3月18日维克斯每日买卖盘口：",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46460_TopBottomInsiderActivity_1773830652000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -716,20 +697,47 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
-          "title": "DocuSign vượt过第四季度预期，但分析师仍然保持观望态度，出于执行力担忧。",
+          "time": "2026-03-19 00:04:17",
+          "title": "限时优惠：在Chase Freedom Unlimited上获得$250的奖金",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/docusign-beats-q4-estimates-analysts-153300130.html",
-          "title_en": "Docusign beats Q4 estimates but analysts stay on the sidelines on execution concerns"
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/limited-time-offer-earn-a-250-bonus-with-chase-freedom-unlimited-155610009.html",
+          "title_en": "Limited-time offer: Earn a $250 bonus with Chase Freedom Unlimited"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 00:01:05",
-          "title": "Evercore ISI 将 CoreWeave (CRWV) 的目标价格降低，但仍维持买入评级。",
+          "time": "2026-03-19 00:04:17",
+          "title": "HELOC（家用信用额度）正在发生变化——并且一些业主可能不会喜欢新的规则",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/why-evercore-isi-trimmed-coreweave-140810377.html",
-          "title_en": "Why Evercore ISI Trimmed CoreWeave’s (CRWV) Target But Kept an Outperform Rating"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-helocs-are-changing-homeowners-may-not-like-new-rules-165717037.html",
+          "title_en": "HELOCs are changing — and some homeowners may not like the new rules"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 00:04:17",
+          "title": "资本利得税（Capital Gains Tax）是什么？以下是你需要知道的时机，以及减少账单的策略。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/what-is-capital-gains-tax-heres-when-you-owe-plus-strategies-to-reduce-your-bill-173034118.html",
+          "title_en": "What is capital gains tax? Here's when you owe, plus strategies to reduce your bill."
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 00:04:17",
+          "title": "希腊股市收盘时下跌；雅典综合指数下跌0.62%",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-062-4568849",
+          "title_en": "Greece stocks lower at close of trade; Athens General Composite down 0.62%"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 00:04:17",
+          "title": "HSBC的制药股提供了合理价格的价值和增长",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/hsbcs-pharma-stocks-that-offer-value--growth-at-a-reasonable-price-93CH-4568848",
+          "title_en": "HSBC’s Pharma Stocks that Offer Value & Growth at a Reasonable Price"
         }
       ]
     }
