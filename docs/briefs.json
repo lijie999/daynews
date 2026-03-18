@@ -1,6 +1,6 @@
 {
   "date": "2026.03.19",
-  "generatedAtBJT": "2026-03-19 02:00:19",
+  "generatedAtBJT": "2026-03-19 02:05:30",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-19 02:00:19",
+          "time": "2026-03-19 02:05:30",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 美联储会议实时更新：预计美联储维持利率…\n\n- 宏观/Fed：关注 股市今日：道指、标普500、纳斯达克下滑后PPI通胀数据公布…\n\n- 科技/半导体：分析报告：NVIDIA Corp… 关键词：nvidia、CEO、ChatGPT、中国、Huang\n\n- TSLA：关注 特斯拉将从LG Energy购买43亿美元的电池单元",
+          "summary": "- 地缘/避险：关注美联储会议投票结果保持利率不变，注意到国际局势对经济的不确定影响。\n- 宏观/Fed：关注印度尼西亚央行维持利率不变，中东风险使得经济前景不确定。\n- 科技/半导体：Lululemon的Chip Wilson给公司带来了严重的“离职”症状。\n- TSLA：关注特斯拉和LG能源在密歇根州建设4.3亿美元电池工厂。",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Fed meeting live updates: Federal Reserve expected to hold rates…\n- 宏观/Fed：关注 Stock market today: Dow, S&P 500, Nasdaq slide after PPI inflati…\n- 科技/半导体：Analyst Report: NVIDIA Corp… 关键词: nvidia, ceo, chatgpt, china, huang\n- TSLA：关注 Tesla to buy $4.3 billion of LG Energy battery cells from disban…"
+          "summary_en": "- 地缘/避险：关注 Fed votes to hold rates steady, notes 'uncertain' impacts from I…\n- 宏观/Fed：关注 Indonesia’s Central Bank Holds Rates as Middle East Risks Cloud …\n- 科技/半导体：Lululemon’s Chip Wilson is giving the company a severe case of ‘… 关键词: meta, amazon, analyst, nvidia, away\n- TSLA：关注 Tesla and LG Energy to Build $4.3 Billion Battery Plant in Michi…"
         }
       ]
     },
@@ -29,7 +29,61 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
+          "time": "2026-03-19 02:05:24",
+          "title": "Lululemon的Chip Wilson给公司带来了严重的“创始人后遗症”。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/lululemon-chip-wilson-giving-company-091448012.html",
+          "title_en": "Lululemon’s Chip Wilson is giving the company a severe case of ‘post-founder syndrome’"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 02:05:24",
+          "title": "Okta CEO：人工智能发展太快了，公司每年都需要改变40%的业务。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/okta-ceo-ai-is-moving-so-quickly-companies-must-change-40-of-what-they-are-doing-every-year-194523131.html",
+          "title_en": "Okta CEO: AI is moving so quickly, companies must change 40% of what they are doing every year"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 02:05:24",
+          "title": "Meta Platforms (META) 正在考虑大规模裁员",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/meta-platforms-meta-reportedly-considering-065740800.html",
+          "title_en": "Meta Platforms (META) Reportedly Considering Major Layoffs"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 02:05:24",
+          "title": "亚马逊 (AMZN) 加深人工智能(AI)存在感的新合作",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/amazon-com-amzn-deepens-ai-065733731.html",
+          "title_en": "Amazon.coM (AMZN)’s Deepens AI Presence With New Partnership"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 02:05:24",
+          "title": "NVIDIA (NVDA) 继续受到分析师乐观的预期",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/nvidia-nvda-continues-see-analyst-065607823.html",
+          "title_en": "NVIDIA (NVDA) Continues To See Analyst Optimism"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 02:05:24",
+          "title": "微软(AI芯片)进入分析师视线",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/microsoft-msft-ai-chip-crosses-065615169.html",
+          "title_en": "Microsoft (MSFT)’s AI Chip Crosses Analyst Radar"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 02:05:24",
           "title": "分析报告：NVIDIA Corp（NVDA）",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3656_AnalystReport_1773831468000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -38,20 +92,48 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "英伟达准备好在中国AI市场大赚钱",
+          "time": "2026-03-19 02:05:24",
+          "title": "扎克伯格和Meta重新拿出了经典的剧本",
           "summary": "",
-          "url": "https://www.investors.com/news/technology/nvidia-stock-china-ai-opportunity-h200-orders/?src=A00220&yptr=yahoo",
-          "title_en": "Nvidia Preparing To Cash In On China AI Market"
+          "url": "https://finance.yahoo.com/news/zuckerberg-and-meta-dust-off-a-classic-playbook-100037193.html",
+          "title_en": "Zuckerberg and Meta dust off a classic playbook"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
+          "time": "2026-03-19 02:05:24",
+          "title": "谷歌与中国的Envicool等公司在谈判，购买数据中心冷却系统。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/google-talks-chinas-envicool-others-060454035.html",
+          "title_en": "Google in talks with China's Envicool, others to buy data centre cooling systems, sources say"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 02:05:24",
+          "title": "亚马逊推出1小时送货服务在美国城市挑战沃尔玛",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/amazon-launches-1-hour-shipping-100457426.html",
+          "title_en": "Amazon launches 1-hour shipping in US cities to challenge Walmart"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 02:05:24",
           "title": "市场摘要：COR、APD、NVDA、DUOL",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46457_MarketSummary_1773830568000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "title_en": "Market Digest: COR, APD, NVDA, DUOL"
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-19 02:04:48",
+          "title": "亚马逊称美国邮政局在谈判中\"在最后一小时里走了开来\"",
+          "summary": "亚马逊表示正在与邮政部谈判，试图增加与美国邮政局的业务量，但谈判最终破裂。",
+          "url": "https://www.cnbc.com/2026/03/18/amazon-usps-shipping-negotiations.html",
+          "title_en": "Amazon says U.S. Postal Service 'walked away at the eleventh hour' in negotiations",
+          "summary_en": "Amazon said it was working toward a new agreement with USPS to increase volumes before talks fell apart."
         },
         {
           "source": "CNBC-Top",
@@ -112,96 +194,6 @@
           "url": "https://www.cnbc.com/2026/03/18/tencent-2025-annual-revenue-ai-investments.html",
           "title_en": "Tencent's 2025 revenue beats estimates as Chinese tech giant ramps up AI investment",
           "summary_en": "The tech giant said its core business provided it with the resources to fund increasing investments in AI."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-18 16:37:21",
-          "title": "阿里巴巴推出面向企业的代理式AI工具，计划与Slack和Teams进行整合。",
-          "summary": "阿里巴巴周二宣布推出了一款新的企业级人工智能工具，同时公司的AI领域也出现了多项新进展。",
-          "url": "https://www.cnbc.com/2026/03/17/alibaba-wukong-ai-enterprise-tool-restructuring-qwen-exits.html",
-          "title_en": "Alibaba launches agentic AI tool for businesses with Slack, Teams integration plans",
-          "summary_en": "Alibaba unveiled a new enterprise artificial intelligence tool on Tuesday amid a series of other developments in the company's AI space."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-18 16:04:36",
-          "title": "Meta的Manus推出桌面应用程序，将其AI代理带到个人设备中，正值OpenClaw热潮",
-          "summary": "曼斯宣布推出一款新桌面应用，直接将其人工智能代理带到个人设备上。",
-          "url": "https://www.cnbc.com/2026/03/18/metas-manus-launches-desktop-app-to-bring-its-ai-agent-onto-personal-devices.html",
-          "title_en": "Meta's Manus launches desktop app to bring its AI agent onto personal devices amid OpenClaw craze",
-          "summary_en": "Manus has announced the launch of a new desktop application to bring its AI agent directly onto personal devices."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-18 07:09:40",
-          "title": "Jensen Huang表示，Nvidia已经收到了来自中国的订单，并正在“重新启动我们的制造”。",
-          "summary": "NVIDIA正准备在中国向客户出售H200处理器，这是由于美国和中国政府的限制导致的延迟。",
-          "url": "https://www.cnbc.com/2026/03/17/nvidia-ceo-jensen-huang-says-chipmaker-has-received-orders-from-china.html",
-          "title_en": "Jensen Huang says Nvidia has received orders from China and is 'restarting our manufacturing'",
-          "summary_en": "Nvidia is gearing up to sell its H200 processors to customers in China after a lengthy delay due to restrictions from both the U.S. and Chinese government."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-18 06:55:14",
-          "title": "Nvidia CEO 杰森·黄（Jensen Huang）称OpenClaw是“明显的下一个ChatGPT”。",
-          "summary": "Nvidia CEO 杰森·黄（Jensen Huang）指出，一个快速发展的项目OpenClaw是人与AI交互的重大进步。",
-          "url": "https://www.cnbc.com/2026/03/17/nvidia-ceo-jensen-huang-says-openclaw-is-definitely-the-next-chatgpt.html",
-          "title_en": "Nvidia CEO Jensen Huang says OpenClaw is 'definitely the next ChatGPT'",
-          "summary_en": "Nvidia CEO Jensen Huang pointed to a fast-rising project called OpenClaw as a major step forward in how people interact with AI."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-18 06:46:20",
-          "title": "NVIDIA GTC 2026：CEO 杰森·黄（Jensen Huang）预计至27年，Blackwell和Vera Rubin将获得1000亿美元订单。",
-          "summary": "在Nvidia年度开发者大会上，CEO黄仁勋表示该公司正在看到其最新技术的需求大幅增长。",
-          "url": "https://www.cnbc.com/2026/03/16/nvidia-gtc-2026-ceo-jensen-huang-keynote-blackwell-vera-rubin.html",
-          "title_en": "Nvidia GTC 2026: CEO Jensen Huang sees $1 trillion in orders for Blackwell and Vera Rubin through '27",
-          "summary_en": "At Nvidia's annual developer conference, CEO Jensen Huang said the company is seeing booming demand for its latest technology."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-18 04:34:38",
-          "title": "OpenAI 准备在今年年底前上市，向员工说明 ChatGPT 必须成为 \"生产力工具\"。",
-          "summary": "OpenAI已聘请了前DocuSign财务长Cynthia Gaylor负责与投资者关系，以便公司为潜在IPO做准备。",
-          "url": "https://www.cnbc.com/2026/03/17/openai-preps-for-ipo-in-2026-says-chatgpt-must-be-productivity-tool.html",
-          "title_en": "OpenAI preps for IPO by end of year, tells employees ChatGPT must be 'productivity tool'",
-          "summary_en": "OpenAI has hired the former DocuSign CFO Cynthia Gaylor to run investor relations as the company gears up for a potential IPO."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-18 03:36:48",
-          "title": "奥兰多·布拉沃认为某些软件名称因AI而值得降低估值。",
-          "summary": "托马·布拉沃联合创始人表示，受到AI波动影响的某些软件股价可能值得降低估值。",
-          "url": "https://www.cnbc.com/2026/03/17/orlando-bravo-software-ai-valuation-cut.html",
-          "title_en": "Orlando Bravo says some software names hit by AI deserve a valuation cut",
-          "summary_en": "The Thoma Bravo co-founder said that some of the software stocks getting hit by the AI wave deserve a lower valuation."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-18 01:29:41",
-          "title": "微软重组Copilot人工智能领导团队，释放Suleyman为新模型建造",
-          "summary": "微软加大了对超级智能团队的投入，用于构建模型，同时将其助手Copilot的工程工作集中起来。",
-          "url": "https://www.cnbc.com/2026/03/17/microsoft-copilot-ai-suleyman.html",
-          "title_en": "Microsoft shakes up Copilot AI leadership team, freeing up Suleyman to build new models",
-          "summary_en": "Microsoft is doubling down on its superintelligence group to build models, while consolidating engineering efforts for its Copilot assistants."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-18 00:32:51",
-          "title": "格科机器人(Gecko Robotics)将其AI技术应用于美国海军船舶修理，签署最新一项下一代国防技术协议。",
-          "summary": "乔科公司CEO Jake Loosararian 表示，乔科正在支持海军的目标，即到2027年实现80%的舰队就绪状态。",
-          "url": "https://www.cnbc.com/2026/03/17/gecko-robotics-navy-contract-ship-repair-trump.html",
-          "title_en": "Gecko Robotics brings its AI to U.S. Navy ship repair in latest next-gen defense tech deal",
-          "summary_en": "CEO Jake Loosararian said Gecko is supporting the Navy's push to have 80% fleet readiness by 2027."
         }
       ]
     },
@@ -212,43 +204,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "股市今日：道指、标普500指数、纳斯达克指数下滑，受通胀率高企的影响，出于对美联储决策的期待。",
+          "time": "2026-03-19 02:05:24",
+          "title": "印度尼西亚央行维持利率  中东风险蒙蔽前景",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-after-ppi-inflation-comes-in-hot-ahead-of-fed-decision-133104442.html",
-          "title_en": "Stock market today: Dow, S&P 500, Nasdaq slide after PPI inflation comes in hot ahead of Fed decision"
+          "url": "https://www.wsj.com/articles/indonesias-central-bank-holds-rates-as-middle-east-risks-cloud-outlook-4a575aec?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Indonesia’s Central Bank Holds Rates as Middle East Risks Cloud Outlook"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "美联储会议：四个关键问题等待答案，S&P 500 下跌（实时直播）",
+          "time": "2026-03-19 02:05:24",
+          "title": "各州最高的存款利率地图",
           "summary": "",
-          "url": "https://www.investors.com/news/federal-reserve-meeting-march-inflation-unemployment-iran-war-oil-prices-sp-500/?src=A00220&yptr=yahoo",
-          "title_en": "Fed Meeting: Four Big Answers Await As S&P 500 Falls (Live Coverage)"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/highest-cd-rates-by-state-224514443.html",
+          "title_en": "This map shows the highest CD rates in every state"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "美元今天是真正的美联储交易：图表",
+          "time": "2026-03-19 02:05:24",
+          "title": "黄金上涨，等待美联储会议",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/why-the-dollar-is-todays-real-fed-trade-chart-of-the-day-171514896.html",
-          "title_en": "Why the dollar is today's real Fed trade: Chart of the day"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "2026年美联储的预测：专家关于今年降息的可能性说了什么",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/fed-rate-predictions-2026-154647304.html",
-          "title_en": "Fed predictions for 2026: What experts say about the possibility of rate cuts this year"
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-031726/card/gold-rises-ahead-of-fed-meeting-1k2FuGrhmgRgSTVxe0Qa?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Gold Rises Ahead of Fed Meeting"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
+          "time": "2026-03-19 02:05:24",
           "title": "UBS 对Knight-Swift进行了升级，理由是卡车供应紧张，货运费率上涨。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/ubs-upgrades-knightswift-on-tightening-truck-supply-higher-freight-rates-4568977",
@@ -331,40 +314,14 @@
       "badge": "Risk / Oil / Gold",
       "items": [
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "美联储会议实时更新：美联储预计维持利率不变，分享对伊朗石油冲击的展望",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/live/fed-meeting-live-updates-federal-reserve-expected-to-hold-rates-steady-share-outlook-amid-iran-oil-shock-172425480.html",
-          "title_en": "Fed meeting live updates: Federal Reserve expected to hold rates steady, share outlook amid Iran oil shock"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "股市今日：道指因油价和通胀忧虑下跌；美联储决策，鲍威尔下一步 (实时报道)",
-          "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-decision-powell-inflation-data/?src=A00220&yptr=yahoo",
-          "title_en": "Stock Market Today: Dow Drops On Oil, Inflation Jitters; Fed Decision, Powell Next (Live Coverage)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "今日IBD股票：德克萨斯太平洋土地上涨85%今年，数据中心和石油价格带动",
-          "summary": "",
-          "url": "https://www.investors.com/research/ibd-stock-of-the-day/texas-pacific-land-data-center-bolt-energy-ai-artificial-intelligence-tech/?src=A00220&yptr=yahoo",
-          "title_en": "IBD Stock Of The Day: Texas Pacific Land Up 85% This Year On Data Center, Oil Prices"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "美国通胀预期大幅上升 伴随石油价格大幅上涨",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/u-inflation-expectations-surge-amid-163000811.html",
-          "title_en": "U.S. Inflation Expectations Surge Amid Oil Price Spikes"
+          "time": "2026-03-19 02:04:41",
+          "title": "美联储投票维持利率不变，注意到伊朗战争对经济的不确定影响",
+          "summary": "美联储周三发布了利率决策结果。",
+          "url": "https://www.cnbc.com/2026/03/18/fed-interest-rate-decision-march-2026.html",
+          "title_en": "Fed votes to hold rates steady, notes 'uncertain' impacts from Iran war",
+          "summary_en": "The Federal Reserve on Wednesday released its decision in interest rates."
         },
         {
           "source": "CNBC-Top",
@@ -497,7 +454,7 @@
           "summary_en": "European countries are reluctant to get involved in the U.S. and Israel's conflict with Iran, seeing it as a war of choice rather than necessity."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-18 17:08:18",
           "title": "伊朗冲突笼罩着竹内辉与特朗普即将举行的峰会，专家表示。",
@@ -505,6 +462,26 @@
           "url": "https://www.cnbc.com/2026/03/18/trump-takaichi-meeting-iran-war-japan-us-self-defense-forces-hormuz-navy.html",
           "title_en": "Iran conflict looms large over Takaichi's upcoming summit with Trump, experts say",
           "summary_en": "The topic of Iran is likely to dominate Thursday's meeting, instead of investments or the U.S.' role in Asia, experts told CNBC."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-18 09:29:51",
+          "title": "特朗普独自面对伊朗战争——盟友拒绝加入",
+          "summary": "美国盟友似乎被困在伊朗袭击和美国总统的批评之间，关注点也转移到人工智能领域和美联储即将宣布的利率决定上。",
+          "url": "https://www.cnbc.com/2026/03/18/cnbc-daily-open-trump-goes-alone-in-the-iran-war-as-allies-spurn-requests-to-join-.html",
+          "title_en": "CNBC Daily Open: Trump goes alone in the Iran war — as allies spurn requests to join",
+          "summary_en": "U.S. allies seem to be caught between Iranian attacks and criticism from the U.S. president, with focus also on the AI space and the impending Fed rate verdict."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-18 02:29:42",
+          "title": "股市抛却了周二油价上涨的阴影，亚马逊推出更快的配送服务。",
+          "summary": "每个工作日，投资俱乐部都会发布Homestretch；一个适时的下午更新，正好赶上交易最后一小时。",
+          "url": "https://www.cnbc.com/2026/03/17/stocks-shake-off-tuesdays-oil-rise-plus-amazon-offers-even-faster-delivery.html",
+          "title_en": "Stocks shake off Tuesday's oil rise — plus, Amazon debuts even faster delivery",
+          "summary_en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading."
         }
       ]
     },
@@ -512,6 +489,24 @@
       "name": "特斯拉链",
       "badge": "TSLA chain",
       "items": [
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 02:05:24",
+          "title": "特斯拉和LG能量计划在密歇根州建造40亿美元电池工厂",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/tesla-lg-energy-build-4-080000755.html",
+          "title_en": "Tesla and LG Energy to Build $4.3 Billion Battery Plant in Michigan"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 02:05:24",
+          "title": "特斯拉股价：买入、卖出还是持有？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/tesla-stock-buy-sell-hold-091900241.html",
+          "title_en": "Tesla Stock: Buy, Sell, or Hold?"
+        },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
@@ -531,52 +526,52 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "SAVE计划正式结束。现在你的学生贷款会发生什么。",
+          "time": "2026-03-19 02:05:24",
+          "title": "是否能在65岁退休，拥有$750,000的罗思401(k)和$1,800的每月社会保障金？",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/student-loans/article/save-plan-officially-ends-heres-what-happens-to-your-student-loans-now-164707646.html",
-          "title_en": "SAVE plan officially ends. Here's what happens to your student loans now."
+          "url": "https://finance.yahoo.com/news/750k-roth-ira-receive-1-110000666.html",
+          "title_en": "Can We Retire at 65 With $750k in a Roth IRA and $1,800 Monthly Social Security?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "Myriad交易者砍掉了比特币和以太坊春季反弹的机会",
+          "time": "2026-03-19 02:05:24",
+          "title": "隐形金属支撑着一万亿美元的经济",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/myriad-traders-slash-spring-rally-174702721.html",
-          "title_en": "Myriad Traders Slash Spring Rally Chances as Bitcoin, Ethereum Slide"
+          "url": "https://finance.yahoo.com/news/invisible-metals-powering-trillion-dollar-090000487.html",
+          "title_en": "The Invisible Metals Powering a Trillion-Dollar Economy"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "Excalipoint正式上市，募集68.7亿美元，推进TCE管道项目。",
+          "time": "2026-03-19 02:05:24",
+          "title": "意大利能源公司Eni在利比亚巴尔萨拉姆(Bahr Essalam)油田附近发现了超过1000亿立方英尺的天然气储量。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/excalipoint-debuts-68-7m-progress-174536558.html",
-          "title_en": "Excalipoint debuts with $68.7m to progress TCE pipeline"
+          "url": "https://finance.yahoo.com/news/eni-discovers-more-1tcf-gas-091137950.html",
+          "title_en": "Eni discovers more than 1tcf of gas near Libya’s Bahr Essalam field"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "Evommune 股票RS评级升至91",
+          "time": "2026-03-19 02:05:24",
+          "title": "我55岁，存款490万美元，年薪80万美元。一个现实的退休预算应该是多少？",
           "summary": "",
-          "url": "https://www.investors.com/news/evommune-stock-sees-rs-rating-rise-to-91/?src=A00220&yptr=yahoo",
-          "title_en": "Evommune Stock Sees RS Rating Rise To 91"
+          "url": "https://finance.yahoo.com/news/whats-realistic-retirement-budget-im-140141407.html",
+          "title_en": "I'm 55 With $490k Saved and an $80,000 Salary. What's a Realistic Retirement Budget?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "马威股价波动剧烈，出于突破后回落",
+          "time": "2026-03-19 02:05:24",
+          "title": "分析师对ASML Holding持乐观态度",
           "summary": "",
-          "url": "https://www.investors.com/research/marvell-stock-mrvl-data-center-chip-technology/?src=A00220&yptr=yahoo",
-          "title_en": "Marvell Trades Choppy After Breakout Fake-Out"
+          "url": "https://finance.yahoo.com/news/analysts-remain-optimistic-asml-holding-065748360.html",
+          "title_en": "Analysts Remain Optimistic About ASML Holding (ASML)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
+          "time": "2026-03-19 02:05:24",
           "title": "债券收益率差距扩大与中东冲突同时加剧",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46463_MarketOutlook_1773833527000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -585,43 +580,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "罗克特实验室股票：实施这一有利交易，预计将实现27%的回报",
+          "time": "2026-03-19 02:05:24",
+          "title": "挪威诺德银行计划录入2.19亿美元重组成本，计划裁员",
           "summary": "",
-          "url": "https://www.investors.com/research/options/rocket-lab-stock-rklb-options-trade-investing-spacex/?src=A00220&yptr=yahoo",
-          "title_en": "Rocket Lab Stock: Launch Toward A Likely 27% Return With This Bullish Trade"
+          "url": "https://www.wsj.com/business/nordea-to-book-219-million-restructuring-costs-plans-job-cuts-93a39b2f?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Nordea to Book $219 Million Restructuring Costs, Plans Job Cuts"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "The Trade Desk 突然开始流失客户。是否这是广告技术股的红旗？",
+          "time": "2026-03-19 02:05:24",
+          "title": "甲骨文（ORCL）持续获得分析师乐观预期",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/trade-desk-suddenly-bleeding-customers-174000330.html",
-          "title_en": "The Trade Desk Is Suddenly Bleeding Customers. Is It a Red Flag for the Adtech Stock?"
+          "url": "https://finance.yahoo.com/news/oracle-orcl-continues-receive-analyst-065711788.html",
+          "title_en": "Oracle (ORCL) Continues To Receive Analyst Optimism"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "80后可能是历史上最富有的一代，但如何让90后、00后和九零后赶上？",
+          "time": "2026-03-19 02:05:24",
+          "title": "IBM的企业计算业务登上分析师的关注之列",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/boomers-may-richest-generation-time-170000675.html",
-          "title_en": "Boomers may be the richest generation of all time, but here's how Gen X, Gen Z and millennials have a chance to catch up"
+          "url": "https://finance.yahoo.com/news/international-business-machines-corporation-ibm-065725125.html",
+          "title_en": "International Business Machines Corporation (IBM)’s Enterprise Computing Pops Up On Analyst Radar"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "约克太空系统（YSS）收购奥比恩（Orbion）",
+          "time": "2026-03-19 02:05:24",
+          "title": "Arista Networks（ANET）宣布新光模块协议",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/york-space-systems-yss-acquires-165657842.html",
-          "title_en": "York Space Systems (YSS) Acquires Orbion"
+          "url": "https://finance.yahoo.com/news/arista-networks-anet-announces-agreement-065638754.html",
+          "title_en": "Arista Networks (ANET) Announces Agreement For New Optics Module"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
+          "time": "2026-03-19 02:05:24",
           "title": "中期看多。",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46462_TechnicalAnalysis_1773832707000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -630,65 +625,65 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "Freedom Capital启动Satellogic (SATL)买入评级",
+          "time": "2026-03-19 02:05:24",
+          "title": "美联储两天的政策会议今天结束。以下是你需要知道的。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/freedom-capital-initiates-satellogic-satl-165655398.html",
-          "title_en": "Freedom Capital Initiates Satellogic (SATL) With Buy Rating"
+          "url": "https://finance.yahoo.com/news/federal-reserves-two-day-policy-090000485.html",
+          "title_en": "The Federal Reserve's Two-Day Policy Meeting Ends Today. Here's What You Need to Know"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "罗思资本重申对Firefly Aerospace（FLY）的买入评级，随着Alpha任务的成功发射。",
+          "time": "2026-03-19 02:05:24",
+          "title": "微星（MU）迎来最新分析师乐观预期",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/roth-capital-reiterates-buy-firefly-165654471.html",
-          "title_en": "Roth Capital Reiterates Buy on Firefly Aerospace (FLY) After Successful Alpha Mission Launch"
+          "url": "https://finance.yahoo.com/news/micron-mu-sees-fresh-analyst-065623725.html",
+          "title_en": "Micron (MU) Sees Fresh Analyst Optimism"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "这家电信股价上涨了19%，那么为什么一家基金最近刚刚退出呢？",
+          "time": "2026-03-19 02:05:24",
+          "title": "布罗德كم（AVGO）迎来新一轮分析师乐观",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/telecom-stock-19-past-why-173952175.html",
-          "title_en": "This Telecom Stock Is Up 19% This Past Year, so Why Did One Fund Just Exit?"
+          "url": "https://finance.yahoo.com/news/broadcom-avgo-sees-fresh-analyst-065631310.html",
+          "title_en": "Broadcom (AVGO) Sees Fresh Analyst Optimism"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "Intuitive Machines (LUNR) 获得 L3Harris 合同",
+          "time": "2026-03-19 02:05:24",
+          "title": "Alphabet (GOOGL) 受分析师乐观评估",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/intuitive-machines-lunr-secures-l3harris-165652004.html",
-          "title_en": "Intuitive Machines (LUNR) Secures L3Harris Contract"
+          "url": "https://finance.yahoo.com/news/alphabet-googl-sees-optimistic-coverage-065717624.html",
+          "title_en": "Alphabet (GOOGL) Sees Optimistic Coverage From Analysts"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "Truist 将 Redwire (RDW) 升级为买入，并将目标价提高至 15 美元。",
+          "time": "2026-03-19 02:05:24",
+          "title": "Chipotle CFO Brian Niccol 表示，公司将继续扩张全球业务，同时保持无债务的财务模式。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/truist-upgrades-redwire-rdw-buy-165651328.html",
-          "title_en": "Truist Upgrades Redwire (RDW) to Buy and Raises Price Target to $15"
+          "url": "https://finance.yahoo.com/news/chipotle-cfo-expanding-globally-while-090000946.html",
+          "title_en": "Chipotle CFO on expanding globally while maintaining a debt-free model"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "Voyager Technologies (VOYG) 在长滩开设新工厂。",
+          "time": "2026-03-19 02:05:24",
+          "title": "越南企业竞争加密货币牌照，河内计划禁止境外交易",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/voyager-technologies-voyg-opens-facility-165649424.html",
-          "title_en": "Voyager Technologies (VOYG) Opens a New Facility in Long Beach"
+          "url": "https://finance.yahoo.com/news/vietnam-firms-vie-crypto-licences-061546191.html",
+          "title_en": "Vietnam firms vie for crypto licences as Hanoi plans ban on overseas trading"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 02:00:11",
-          "title": "Needham启动Karman Holdings（KRMN）买入评级",
+          "time": "2026-03-19 02:05:24",
+          "title": "澳元因RBA的5比4投票结果被视为持平而未受加息带来提升",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/needham-initiates-karman-holdings-krmn-165647987.html",
-          "title_en": "Needham Initiates Karman Holdings (KRMN) With Buy Rating"
+          "url": "https://finance.yahoo.com/news/rate-hike-fails-lift-aussie-095929692.html",
+          "title_en": "Rate Hike Fails to Lift Aussie as RBA’s 5–4 Split Felt Like a Hold"
         }
       ]
     }
