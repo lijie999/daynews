@@ -1,6 +1,6 @@
 {
   "date": "2026.03.18",
-  "generatedAtBJT": "2026-03-18 08:30:13",
+  "generatedAtBJT": "2026-03-18 08:55:22",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-18 08:30:13",
+          "time": "2026-03-18 08:55:22",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：伊朗与美国冲突进入第三周，Bitcoin价格突破74K。\n- 宏观/Fed：韩国Kospi指数领涨亚洲市场，投资者评估日本经济。\n- 科技/半导体：Alphabet (GOOG) 因其在人工智能领域的转变而获得利益，NVIDIA (NVDA) 在GTC大会上推出新技术，Huang和Jensen发表演讲，Amazon也在人工智能领域取得进展。\n- TSLA：特斯拉计划从LG能量公司购买43亿美元的电池单元。",
+          "summary": "- 地缘/避险：关注 原油价格下跌，股市反弹…\n- 宏观/Fed：关注 美联储下一次会议何时举行？见2026年全年会议日程表…\n- 科技/半导体：百科全书 Encyclopedia Britannica 起诉 OpenAI 运用 AI 训练…\n- TSLA：关注 特斯拉将从 LG 能量购买价值 43 亿美元的电池单元…",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Bitcoin Hits $74K as US-Iran War Enters Third Week: Here's Why…\n- 宏观/Fed：关注 South Korea's Kospi leads gains in Asia as investors assess Japa…\n- 科技/半导体：Alphabet (GOOG) Gained from Its Shift in the AI Race from Being … 关键词: nvidia, gtc, huang, jensen, amazon\n- TSLA：关注 Tesla to buy $4.3 billion of LG Energy battery cells from disban…"
+          "summary_en": "- 地缘/避险：关注 Stocks Rebound as Crude Oil Prices Move Lower…\n- 宏观/Fed：关注 When is the Fed's next meeting? See the full schedule for 2026.…\n- 科技/半导体：Encyclopedia Britannica sues OpenAI over AI training… 关键词: nvidia, gtc, huang, jensen, openai\n- TSLA：关注 Tesla to buy $4.3 billion of LG Energy battery cells from disban…"
         }
       ]
     },
@@ -29,16 +29,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
-          "title": "Alphabet (GOOG) 因其在人工智能竞赛中的转变而获得了收益，从“被猎物”变为“猎人”",
+          "time": "2026-03-18 08:55:17",
+          "title": "百年古典知识权威《布里塔尼卡百科全书》(Encyclopedia Britannica)起诉OpenAI。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/alphabet-goog-gained-shift-ai-124758877.html",
-          "title_en": "Alphabet (GOOG) Gained from Its Shift in the AI Race from Being “Hunted” to Being a “Hunter”"
+          "url": "https://finance.yahoo.com/news/encyclopedia-britannica-sues-openai-over-141324436.html",
+          "title_en": "Encyclopedia Britannica sues OpenAI over AI training"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 08:55:17",
+          "title": "OpenAI 正在与私募股权公司合作，加入企业级人工智能业务。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/exclusive-openai-courts-private-equity-132509339.html",
+          "title_en": "OpenAI courts private equity to join enterprise AI venture"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
+          "time": "2026-03-18 08:55:17",
           "title": "这家能源基础设施公司的股价已上涨31%+, 这家公司是通过人工智能选出的，中东冲突的赢家。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/up-31-this-aipicked-energy-infrastructure-play-is-a-middle-east-conflict-win-4565186",
@@ -47,20 +56,11 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
+          "time": "2026-03-18 08:55:17",
           "title": "亚马逊计划大幅减少通过美国邮政服务发送的包裹数量，消息人士透露。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/amazon-plans-drastic-cut-in-packages-it-sends-through-post-office-wsj-reports-4567109",
           "title_en": "Amazon plans drastic cut in packages it sends through US Post Office, source says"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
-          "title": "NVIDIA正准备推出Groq AI芯片，供中国市场销售。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-preparing-groq-ai-chips-it-can-sell-to-china-reuters-4567207",
-          "title_en": "Nvidia preparing Groq AI chips it can sell to China- Reuters"
         },
         {
           "source": "CNBC-Top",
@@ -209,9 +209,27 @@
       "badge": "Fed / Policy",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 08:55:17",
+          "title": "美联储下一次会议的时间是？查看2026年全年会议日程。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/when-is-the-next-fed-meeting-full-schedule-150709698.html",
+          "title_en": "When is the Fed's next meeting? See the full schedule for 2026."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 08:55:17",
+          "title": "本周3月16日，最佳抵押贷款利率：5.889%的APR获得最低利率",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-march-16-2026-170834623.html",
+          "title_en": "Mortgage lenders with the best rates this week, March 16, 2026: 5.889% APR wins lowest rate"
+        },
+        {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-18 08:28:00",
+          "time": "2026-03-18 08:40:54",
           "title": "韩国Kospi指数领涨亚洲市场，投资者正在评估日本贸易数据，并期待美联储利率决策。",
           "summary": "中东战争持续升级，令投资者心跳加速。",
           "url": "https://www.cnbc.com/2026/03/18/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html",
@@ -237,16 +255,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
-          "title": "比特币突破74万美元 美伊冲突进入第三周 这是原因",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/bitcoin-hits-74k-us-iran-123457982.html",
-          "title_en": "Bitcoin Hits $74K as US-Iran War Enters Third Week: Here's Why"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
+          "time": "2026-03-18 08:55:17",
           "title": "股市反弹，原油价格下跌",
           "summary": "",
           "url": "https://finance.yahoo.com/news/stocks-rebound-crude-oil-prices-141305932.html",
@@ -255,11 +264,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
+          "time": "2026-03-18 08:55:17",
+          "title": "石油价格坚守100美元以上，中东冲突持续升级：\"高风险的僵局\"",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/oil-prices-hold-over-100-as-middle-east-conflict-rages-on-a-high-stakes-stalemate-143537218.html",
+          "title_en": "Oil prices hold over $100 as Middle East conflict rages on: 'A high-stakes stalemate'"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 08:55:17",
           "title": "油价期货简介：普通投资者是否能真正交易它们？",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/oil-futures-explained-can-regular-investors-really-trade-them-141230299.html",
           "title_en": "Oil futures explained: Can regular investors really trade them?"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 08:55:17",
+          "title": "在对伊朗战争的关注下，加密货币避开了阿联酋的干扰",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/with-watchful-eye-on-iran-war-crypto-dodges-uae-disruption-4567304",
+          "title_en": "With watchful eye on Iran war, crypto dodges UAE disruption"
         },
         {
           "source": "CNBC-Top",
@@ -400,16 +427,6 @@
           "url": "https://www.cnbc.com/2026/03/17/cnbc-daily-open-risk-off-trade-back-on-for-oil-.html",
           "title_en": "CNBC Daily Open: Risk-off trade back on for oil",
           "summary_en": "Oil prices push higher as markets seem unconvinced of Trump's plan to reopen the Strait of Hormuz."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-17 09:33:32",
-          "title": "川普寻求霍尔木兹海峡支持  他瞄准古巴",
-          "summary": "美国总统唐纳德·特朗普呼吁盟国帮助美国确保霍尔木兹海峡安全，但似乎收到了不积极的回应。",
-          "url": "https://www.cnbc.com/2026/03/17/cnbc-daily-open-trump-seeks-support-on-hormuz-as-he-sets-sights-on-cuba.html",
-          "title_en": "CNBC Daily Open: Trump seeks support on Hormuz as he sets sights on Cuba",
-          "summary_en": "U.S. President Donald Trump's appeals that allies help the U.S. secure the Strait of Hormuz seem to have received a less than enthusiastic response."
         }
       ]
     },
@@ -456,124 +473,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
-          "title": "麦迪逊小盘基金的表现亮点：西纳公司（CIEN）",
+          "time": "2026-03-18 08:55:17",
+          "title": "沃尔玛背后的PhonePe推迟IPO 因全球紧张局势使市场动荡",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/madison-small-cap-fund-standout-123855508.html",
-          "title_en": "Madison Small Cap Fund’s Standout Performer: Ciena Corp (CIEN)"
+          "url": "https://finance.yahoo.com/news/walmart-backed-phonepe-shelves-ipo-130247711.html",
+          "title_en": "Walmart-backed PhonePe shelves IPO as global tensions rattle markets"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
-          "title": "Encompass Health Corp.(EHC)第四季度下滑，尽管基本面强劲",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/encompass-health-corp-ehc-declined-123034748.html",
-          "title_en": "Encompass Health Corp. (EHC) Declined in Q4 Despite Strong Fundamentals"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
-          "title": "预测：2027年底，布罗德柯姆的股价将达到多少？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/prediction-broadcoms-stock-price-end-124000651.html",
-          "title_en": "Prediction: This Will Be Broadcom's Stock Price by the End of 2027"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
-          "title": "玉米周一上午回落",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/corn-falling-back-monday-am-124009370.html",
-          "title_en": "Corn Falling Back on Monday AM Trade"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
-          "title": "豆粕周一早盘下跌，受特朗普/习近平会面引发的担忧影响。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/soybeans-falling-monday-morning-due-124009589.html",
-          "title_en": "Soybeans Falling on Monday Morning Due to Concerns Over Trump/Xi Meeting"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
-          "title": "麦类周一早晨盘整",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/wheat-mixed-monday-morning-124009686.html",
-          "title_en": "Wheat Mixed on Monday Morning"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
-          "title": "为什么Primo Brands（PRMB）股价下跌50%",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/why-primo-brands-prmb-stock-123243418.html",
-          "title_en": "Here’s Why Primo Brands (PRMB) Stock Dropped 50%"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
-          "title": "巴布科克威尔科克斯企业公司2025年第四季度财报电话会议总结",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/babcock-wilcox-enterprises-inc-q4-123000368.html",
-          "title_en": "Babcock & Wilcox Enterprises, Inc. Q4 2025 Earnings Call Summary"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
-          "title": "麦迪逊小盘股选择放弃Cogent Communications Holdings（CCOI）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/why-madison-small-cap-decided-122704825.html",
-          "title_en": "Here’s Why Madison Small Cap Decided to Step Back from Cogent Communications Holdings (CCOI)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
-          "title": "Lam研究公司（LCRX）受强需求上升带来利益",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/lam-research-lcrx-gained-strong-124620275.html",
-          "title_en": "Lam Research (LCRX) Gained From Strong Demand Uptick"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
-          "title": "美股开盘前5点钟要知道的内容\n\n1. 美联储会议纪要：美联储会议纪要显示，美联储官员们对当前的通胀预期较低，认为今年的CPI增长率将低于3%。\n\n2. 美股指数：S&P 500指数周五收于2975.62点，较前一周下跌0.3%。\n\n3. 道指成分股：道指成分股中，苹果公司（AAPL）周五收于139.46美元，较前一周下跌0.5%。\n\n4. 美元汇率：美元兑欧元汇率周五收于1.0923，较前一周上涨0.2%。\n\n5. 美股交易量：周五，美股交易量较前一周下降了10%。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/5-things-know-stock-market-123125269.html",
-          "title_en": "5 Things to Know Before the Stock Market Opens"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
-          "title": "默克(Q4)股价大幅上涨的原因",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/why-merck-mrk-surged-q4-124932271.html",
-          "title_en": "Here’s Why Merck (MRK) Surged in Q4"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
-          "title": "Fiserv (FISV) 大幅下跌，因为它未能满足收益预期。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/fiserv-fisv-tanked-missed-earnings-125048986.html",
-          "title_en": "Fiserv (FISV) Tanked as It Missed Earnings Expectations"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
+          "time": "2026-03-18 08:55:17",
           "title": "路德斯汉莎货运目标高价值技术、汽车和制药行业",
           "summary": "",
           "url": "https://finance.yahoo.com/news/lufthansa-cargo-targets-high-value-130802195.html",
@@ -582,7 +491,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
+          "time": "2026-03-18 08:55:17",
           "title": "我感到很不舒服，和财务规划师分享我的投资信息。他们需要知道这些吗？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/ask-advisor-feel-very-uncomfortable-131000283.html",
@@ -591,16 +500,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
-          "title": "Net零资产所有者联盟更新指南，公布转型目标",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/net-zero-asset-owners-alliance-123200608.html",
-          "title_en": "Net-Zero Asset Owners Alliance updates guidance, unveils transition targets"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
+          "time": "2026-03-18 08:55:17",
           "title": "Airbnb (ABNB) 的投资吸引力在哪里？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/makes-airbnb-abnb-attractive-investment-131051845.html",
@@ -609,11 +509,128 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-18 08:30:09",
+          "time": "2026-03-18 08:55:17",
           "title": "巴尔公司股票是否低于纳斯达克指数的表现？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/ball-corporation-stock-underperforming-nasdaq-131328236.html",
           "title_en": "Is Ball Corporation Stock Underperforming the Nasdaq?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 08:55:17",
+          "title": "史华布ETF持有100只股息股票，每年收费6美元，收益率高于大多数储蓄账户。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/schwab-etf-holds-100-dividend-130008077.html",
+          "title_en": "This Schwab ETF Holds 100 Dividend Stocks, Charges $6 a Year, and Yields More Than Most Savings Accounts"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 08:55:17",
+          "title": "联合太平洋铁路（UNP）能够在面临挑战时维持高利润率的原因",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/allows-union-pacific-unp-sustain-131633018.html",
+          "title_en": "Here’s What Allows Union Pacific (UNP) to Sustain High Margins During Challenges"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 08:55:17",
+          "title": "迪亚吉欧（DEO）面临周期性和结构性需求的双重挑战。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/mix-cyclical-structural-demand-headwinds-132011218.html",
+          "title_en": "A Mix of Cyclical and Structural Demand Headwinds Hurt Diageo (DEO)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 08:55:17",
+          "title": "Artisan Value基金对PayPal Holdings（PYPL）的看法",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/artisan-value-fund-views-paypal-132231772.html",
+          "title_en": "Artisan Value Fund’s Views on PayPal Holdings (PYPL)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 08:55:17",
+          "title": "RAM Smid Composite削减了其对Lakeland Industries（LAKE）的持仓，前置其FY3Q26财报公布。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/ram-smid-composite-trimmed-position-132809998.html",
+          "title_en": "RAM Smid Composite Trimmed Its Position in Lakeland Industries (LAKE) Ahead of Its FY3Q26 Report"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 08:55:17",
+          "title": "两只道琼斯指数基金将在未来10年击败标普500指数，分析师表示",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/2-vanguard-index-funds-beat-130500960.html",
+          "title_en": "2 Vanguard Index Funds to Beat the S&P 500 Over the Next 10 Years, According to Analysts"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 08:55:17",
+          "title": "唐尼利金融解决方案（DFIN）是什么样的投资选择？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/makes-donnelley-financial-solutions-dfin-133024928.html",
+          "title_en": "What Makes Donnelley Financial Solutions (DFIN) an Attractive Investment Choice?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 08:55:17",
+          "title": "查尔斯与德怀特（Church & Dwight）股票是否超越了S&P 500指数。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/church-dwight-stock-outperforming-p-134522507.html",
+          "title_en": "Is Church & Dwight Stock Outperforming the S&P 500?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 08:55:17",
+          "title": "IRM的表现是否优于S&P 500。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/iron-mountain-stock-outperforming-p-134719703.html",
+          "title_en": "Is Iron Mountain Stock Outperforming the S&P 500?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 08:55:17",
+          "title": "汤姆·李的BitMine在波动性加剧的情况下又购买了60,000枚以太坊。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/tom-lee-bitmine-buys-another-134900226.html",
+          "title_en": "Tom Lee’s BitMine Buys Another 60,000 Ethereum Despite Volatility"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 08:55:17",
+          "title": "ABB调查显示汽车制造商的机器人加速",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/abb-survey-shows-acceleration-robotics-130526459.html",
+          "title_en": "ABB survey shows acceleration in robotics for auto manufacturers"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 08:55:17",
+          "title": "梅维尔工程（MEC）从其Accu-Fab收购中受益",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/mayville-engineering-mec-gained-accu-134922347.html",
+          "title_en": "Mayville Engineering (MEC) Gained from Its Accu-Fab Acquisition"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-18 08:55:17",
+          "title": "一项价值105亿美元的交易将创造一家美国自助储存巨头。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/10-5-billion-deal-create-135518523.html",
+          "title_en": "A $10.5 billion deal would create a self-storage giant in the U.S."
         }
       ]
     }
