@@ -1,6 +1,6 @@
 {
   "date": "2026.03.20",
-  "generatedAtBJT": "2026-03-20 00:27:04",
+  "generatedAtBJT": "2026-03-20 00:57:41",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-20 00:27:04",
+          "time": "2026-03-20 00:57:41",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：关注 美伊冲突背景下防御类股表现明显分化。\n- 宏观/Fed：关注 美联储背景下黄金、白银、比特币价格大幅下挫。\n- 科技/半导体：Bank of America Securities 再次维持台积电（TSM）买入评级。\n- TSLA：关注 美方调查机构升级对3.2万辆特斯拉汽车的调查。",
+          "summary": "- 地缘/避险：关注 美股今日：道指、标普500、纳斯达克下滑因通胀忧虑加剧\n- 宏观/Fed：关注 黄金、白银、比特币暴跌为避险资产失去光泽之际\n- 科技/半导体：科技股今日：微星股价下跌因爆发式财报报告\n- TSLA：关注 特斯拉面临加剧的NHTSA调查“全自驾”功能",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 Defense Stocks Show Clear Winners, Losers Amid Ongoing U.S.-Iran…\n- 宏观/Fed：关注 Gold, silver, bitcoin crash as safe-haven luster fades following…\n- 科技/半导体：Bank of America Securities Reiterates a Buy Rating on Taiwan Sem… 关键词: nvidia, meta, amazon, apple, away\n- TSLA：关注 US agency upgrades probe into 3.2 million Tesla vehicles over FS…"
+          "summary_en": "- 地缘/避险：关注 Stock market today: Dow, S&P 500, Nasdaq slide amid inflation wo…\n- 宏观/Fed：关注 Gold, silver, bitcoin crash as safe-haven luster fades following…\n- 科技/半导体：Tech stocks today: Micron stock falls after blowout earnings rep… 关键词: meta, company, crypto, nvidia, amazon\n- TSLA：关注 Tesla faces intensifying NHTSA probe of 'Full Self-Driving' in r…"
         }
       ]
     },
@@ -29,7 +29,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
+          "time": "2026-03-20 00:57:36",
+          "title": "科技股今日：Micron股价下跌，尽管发布了业绩大爆发的财报，Nvidia GTC大会圆满结束",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/live/tech-stocks-today-micron-stock-falls-after-blowout-earnings-report-nvidia-wraps-up-gtc-event-144220119.html",
+          "title_en": "Tech stocks today: Micron stock falls after blowout earnings report, Nvidia wraps up GTC event"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:57:36",
+          "title": "Adobe Stock价格跌至7年低点，遭到AI失败的指控",
+          "summary": "",
+          "url": "https://www.investors.com/news/technology/adobe-stock-adbe-branded-ai-loser-in-cio-survey/?src=A00220&yptr=yahoo",
+          "title_en": "Adobe Stock Hits 7-Year Low After It's Branded AI Loser"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:57:36",
           "title": "Bank of America Securities 再次维持对台积电（TSM）股票的买入评级。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-securities-reiterates-buy-154420626.html",
@@ -38,38 +56,48 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
+          "time": "2026-03-20 00:57:36",
+          "title": "加密货币交易平台Crypto.com称其裁员主要原因是转型为人工智能（AI）技术，裁员人数占公司总人数的12%。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-com-cites-shift-ai-161744474.html",
+          "title_en": "Crypto.com cites shift to AI in layoffs hitting 12% of company"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:57:36",
           "title": "TD Cowen维持对NVIDIA（NVDA）股票的买入评级。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-maintains-buy-rating-154303461.html",
           "title_en": "TD Cowen Maintains Buy Rating on NVIDIA (NVDA) Stock"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "英特尔（INTC）：英特尔Xeon 6被用于NVIDIA DGX Rubin NVL8系统的处理器",
+          "time": "2026-03-20 00:57:36",
+          "title": "Meta 正在将内容管理从第三方供应商转移到人工智能。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/intel-intc-intel-xeon-6-154259914.html",
-          "title_en": "Intel (INTC): Intel Xeon 6 is being Used as Processor for NVIDIA DGX Rubin NVL8 Systems"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "科技股今日：Micron股价下跌，尽管发布了业绩大爆发的财报，Nvidia GTC大会圆满结束",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/live/tech-stocks-today-micron-stock-falls-after-blowout-earnings-report-nvidia-wraps-up-gtc-event-144220119.html",
-          "title_en": "Tech stocks today: Micron stock falls after blowout earnings report, Nvidia wraps up GTC event"
+          "url": "https://www.investing.com/news/stock-market-news/meta-shifts-content-moderation-to-ai-from-thirdparty-vendors-93CH-4571272",
+          "title_en": "Meta shifts content moderation to AI from third-party vendors"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
+          "time": "2026-03-20 00:57:36",
           "title": "苹果在美国贸易仲裁机构击退了针对新Apple Watch进口禁令的新诉讼。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/apple-fends-off-bid-for-new-apple-watch-import-ban-at-us-trade-tribunal-4571267",
           "title_en": "Apple fends off bid for new Apple Watch import ban at US trade tribunal"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:32:42",
+          "title": "加密.com裁员12%，称AI是裁员原因",
+          "summary": "CEO 克里斯·马尔沙莱克表示，裁员是在“不适应我们的新世界”的角色中进行的，因为该公司正在整合企业级AI。",
+          "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
+          "title_en": "Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
+          "summary_en": "CEO Kris Marszalek said the layoffs were in \"roles that do not adapt in our new world\" as the company integrates enterprise-wide AI."
         },
         {
           "source": "CNBC-Top",
@@ -80,16 +108,6 @@
           "url": "https://www.cnbc.com/2026/03/19/meta-cut-back-third-party-vendors-favor-of-ai-for-content-enforcement.html",
           "title_en": "Meta to cut back on third-party vendors in favor of AI for content enforcement",
           "summary_en": "Meta is beginning a multiyear rollout of more advanced AI systems that will handle content enforcement-related tasks like catching scams and illegal media."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-19 23:45:16",
-          "title": "加密.com裁员12%，称AI是裁员原因",
-          "summary": "CEO 克里斯·马尔沙莱克表示，裁员是在“不适应我们的新世界”的角色中进行的，因为该公司正在整合企业级AI。",
-          "url": "https://www.cnbc.com/2026/03/19/crypto-com-layoffs-12percent-ai-job-loss.html",
-          "title_en": "Crypto.com lays off 12% of workforce as latest company to cite AI in job cuts",
-          "summary_en": "CEO Kris Marszalek said the layoffs were in \"roles that do not adapt in our new world\" as the company integrates enterprise-wide AI."
         },
         {
           "source": "MarketWatch-Top",
@@ -180,26 +198,6 @@
           "url": "https://www.cnbc.com/2026/03/18/meta-creator-pay-instagram-tiktok-youtube-facebook.html",
           "title_en": "Meta will pay Instagram, TikTok and YouTube creators with big followings to post on Facebook",
           "summary_en": "Meta is offering monthly guaranteed pay and boosted reach for creators to start posting on Facebook's Reels."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-18 22:07:46",
-          "title": "中国的\"AI老虎\"股价大幅上涨，随着Nvidia CEO称OpenClaw为\"下一个ChatGPT\"",
-          "summary": "中国AI股周三大涨，随着Nvidia首席执行官Jensen Huang对AI代理和OpenClaw的乐观表态。",
-          "url": "https://www.cnbc.com/2026/03/18/china-ai-zhipu-minimax-after-nvidia-jensen-huang-openclaw-comments.html",
-          "title_en": "China’s ‘AI tigers’ see shares surge after Nvidia CEO touts OpenClaw as ‘next ChatGPT’",
-          "summary_en": "Chinese AI stocks surged on Wednesday following upbeat remarks from Nvidia's chief executive Jensen Huang on the promise of AI agents and OpenClaw."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-18 18:35:42",
-          "title": "腾讯2025年收入超出预期，中国科技巨头加大人工智能投资",
-          "summary": "科技巨头表示，其核心业务为其提供了资金来支持人工智能投资的增长。",
-          "url": "https://www.cnbc.com/2026/03/18/tencent-2025-annual-revenue-ai-investments.html",
-          "title_en": "Tencent's 2025 revenue beats estimates as Chinese tech giant ramps up AI investment",
-          "summary_en": "The tech giant said its core business provided it with the resources to fund increasing investments in AI."
         }
       ]
     },
@@ -210,7 +208,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
+          "time": "2026-03-20 00:57:36",
           "title": "黄金、白银和比特币暴跌，避险资产光环消失，随着美联储的决定",
           "summary": "",
           "url": "https://finance.yahoo.com/news/gold-silver-bitcoin-crash-as-safe-haven-luster-fades-following-fed-decision-160420933.html",
@@ -219,7 +217,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
+          "time": "2026-03-20 00:57:36",
+          "title": "美联储会议结束后，XRP和比特币价格如何？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-bitcoin-price-fed-just-162713730.html",
+          "title_en": "XRP and Bitcoin Price: The Fed Just Held Rates and Raised Inflation Forecasts—Here’s What It Means for BTC and XRP"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:57:36",
           "title": "房贷利率再次跃升超过6%，美联储警告通胀风险：今日房贷和再融资利率",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-jump-further-above-6-as-fed-warns-on-inflation-mortgage-and-refinance-interest-rates-today-100000735.html",
@@ -228,12 +235,22 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-20 00:25:28",
+          "time": "2026-03-20 00:47:50",
           "title": "特朗普暗示司法部应继续调查鲍威尔，复杂了沃什的联邦储备提名",
           "summary": "鲍威尔指责司法部调查他是因为他拒绝降息到特朗普所要求的程度或速度。",
           "url": "https://www.cnbc.com/2026/03/19/trump-powell-warsh-fed-doj-pirro.html",
           "title_en": "Trump signals DOJ should continue Powell probe, complicating Warsh Fed nom",
           "summary_en": "Powell has accused the DOJ of investigating him in retaliation for his refusal to lower interest rates as much or as quickly as Trump has demanded."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:43:02",
+          "title": "交易者现在认为今年降息的机会很小，随着美联储的决定。",
+          "summary": "本周联邦储备委员会会议的所有积极的经济话语对投资者产生了负面影响。",
+          "url": "https://www.cnbc.com/2026/03/19/traders-rate-cut.html",
+          "title_en": "Traders now see little chance of an interest rate cut this year following Fed decision",
+          "summary_en": "All of the positive economic talk out of this week's Federal Reserve meeting had a negative impact on investors"
         },
         {
           "source": "CNBC-Top",
@@ -244,16 +261,6 @@
           "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html",
           "title_en": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
           "summary_en": "The war in Iran has upset the economic equilibrium Europe threatening energy supplies, growth and the outlook for consumer prices, upsetting economic forecasts."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-19 21:26:01",
-          "title": "交易者现在认为今年降息的机会很小，随着美联储的决定。",
-          "summary": "本周联邦储备委员会会议的所有积极的经济话语对投资者产生了负面影响。",
-          "url": "https://www.cnbc.com/2026/03/19/traders-rate-cut.html",
-          "title_en": "Traders now see little chance of an interest rate cut this year following Fed decision",
-          "summary_en": "All of the positive economic talk out of this week's Federal Reserve meeting had a negative impact on investors"
         },
         {
           "source": "CNBC-Top",
@@ -288,16 +295,6 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-19 04:29:33",
-          "title": "联储主席鲍威尔刚刚对华尔什的计划再次发出了警告，暗示不会迅速降息",
-          "summary": "石油价格一直是下任美联储主席面临的挑战之一。周三，杰罗姆·鲍威尔又提出了另一个担忧。",
-          "url": "https://www.cnbc.com/2026/03/18/fedjerome-powell-interest-rates-kevin-warsh-iran-war-oil.html",
-          "title_en": "Analysis: The Fed's Powell just delivered a new blow to Warsh's plans for swift rate cuts",
-          "summary_en": "Oil prices were always going to be a problem for the next Fed nominee. On Wednesday, Jerome Powell outlined another worry."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
           "time": "2026-03-19 03:17:27",
           "title": "美联储维持利率不变，消费者意味着什么",
           "summary": "美联储3月利率决策将如何影响你的财务？从房贷利率到汽车贷款和信用卡，了解一下。",
@@ -324,16 +321,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "美伊冲突持续之下，国防股表现出明显的赢家和输家。",
-          "summary": "",
-          "url": "https://www.investors.com/research/ibd-industry-themes/defense-stocks-us-iran-boeing-karman/?src=A00220&yptr=yahoo",
-          "title_en": "Defense Stocks Show Clear Winners, Losers Amid Ongoing U.S.-Iran Conflict"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
+          "time": "2026-03-20 00:57:36",
           "title": "股市今日：道指、标普500指数、纳斯达克指数因通胀忧虑和伊朗战争导致油价大幅上涨而下滑。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-amid-inflation-worries-as-iran-war-sends-oil-surging-133439504.html",
@@ -342,29 +330,96 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "石油和天然气价格大幅上涨，美联储加息预期升温",
+          "time": "2026-03-20 00:57:36",
+          "title": "房贷利率何时会下降？石油价格和通胀率带来了不确定性。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/oil-gas-prices-jump-strikes-091517434.html",
-          "title_en": "Oil and Gas Prices Jump as Strikes on Gulf Facilities Escalate"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-march-19-2026-190610946.html",
+          "title_en": "When will mortgage rates go down? Oil prices and inflation create uncertainty."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:57:36",
+          "title": "比特币跌破7万美元，市场暴跌后油价大幅上涨",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-below-70k-markets-163916835.html",
+          "title_en": "Bitcoin falls below $70K as markets tumble after oil price spike"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:57:36",
+          "title": "美国30年固定房贷利率达到三个月高点，伊朗战争加剧",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/currencies/articles/us-fixed-30-mortgage-rate-163422169.html",
+          "title_en": "US fixed 30-year mortgage rate hits three-month high amid Iran war"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:57:36",
+          "title": "股市今日：道指、纳指受油价上涨压力；微星暴跌，黄金股遭重挫（实时报道）",
+          "summary": "",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-micron-stock-mu/?src=A00220&yptr=yahoo",
+          "title_en": "Stock Market Today: Dow, Nasdaq Under Pressure As Oil Rises; Micron Tumbles, Gold Stocks Hammered (Live Coverage)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:57:36",
+          "title": "美伊冲突持续之下，国防股表现出明显的赢家和输家。",
+          "summary": "",
+          "url": "https://www.investors.com/research/ibd-industry-themes/defense-stocks-us-iran-boeing-karman/?src=A00220&yptr=yahoo",
+          "title_en": "Defense Stocks Show Clear Winners, Losers Amid Ongoing U.S.-Iran Conflict"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "以色列股市收盘时上涨；TA 35上涨0.23%",
+          "time": "2026-03-20 00:57:36",
+          "title": "加拿大多伦多证券交易所（TSX）下跌，因为石油价格大幅上涨，而黄金价格则因伊朗战争升级而走低。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-023-4571230",
-          "title_en": "Israel stocks higher at close of trade; TA 35 up 0.23%"
+          "url": "https://www.investing.com/news/stock-market-news/tsx-futures-fall-as-oil-prices-surge-gold-falters-amid-escalating-iran-war-4570517",
+          "title_en": "TSX falls as oil prices surge, gold falters amid escalating Iran war"
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "美国股市因油价再次上涨和房地产市场数据疲软而下滑。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-inch-lower-with-fresh-oil-price-surge-in-focus-4570325",
-          "title_en": "U.S. stocks slip amid renewed surge in oil prices, soft housing market data"
+          "time": "2026-03-20 00:55:46",
+          "title": "石油价格短暂上涨至119美元，欧洲天然气价格大幅上涨，原因是卡塔尔和伊朗的能源设施遭到袭击。",
+          "summary": "石油价格大幅上涨，市场对卡塔尔称伊朗导弹袭击损坏了关键液化天然气出口设施的紧张局势做出了反应。",
+          "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
+          "title_en": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
+          "summary_en": "Oil prices jumped as markets react to escalating tensions after Qatar said Iranian missile strikes damaged a key liquefied natural gas export facility."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:50:18",
+          "title": "伊朗战争威胁到人们所忽视的资源——氦的供应。对市场意味着什么",
+          "summary": "供应配额正在根据谁需要气体最多来确定。半导体制造商位于“优先顺序”顶端，氦顾问Phil Kornbluth表示。",
+          "url": "https://www.cnbc.com/2026/03/19/the-iran-war-is-threatening-supply-helium-what-it-means-for-markets.html",
+          "title_en": "The Iran war is threatening supply of a little-thought-of resource — helium. What it means for markets",
+          "summary_en": "Supply allocations are being set by who needs the gas the most. Semiconductors are at the \"top of the pecking order,\" said helium consultant Phil Kornbluth."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:42:00",
+          "title": "特朗普威胁要摧毁世界上最大的天然气田，全球石油价格一度达到每桶110美元。",
+          "summary": "全球石油价格近日回升至近四年来的最高水平，原因是伊朗针对海湾地区的能源生产进行了攻击。",
+          "url": "https://www.marketwatch.com/story/oil-prices-surge-after-iran-attacks-middle-east-energy-facilities-c43c7d1e?mod=mw_rss_topstories",
+          "title_en": "Global oil prices trade at $110 a barrel after Trump threatens to ‘blow up’ the world’s largest gas field",
+          "summary_en": "Global oil prices are back near their highest levels in nearly four years Thursday after Iran targeted energy production in the Gulf region."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:30:25",
+          "title": "欧洲央行面临“风暴”，伊朗战争使政府债券面临挑战",
+          "summary": "欧洲央行面临新一轮通胀恐惧，债券收益率大幅上升。",
+          "url": "https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html",
+          "title_en": "Government bonds face ‘perfect storm’ as Iran war rattles Europe's central banks",
+          "summary_en": "Bond yields have surged as Europe's central banks grapple with new inflation fears."
         },
         {
           "source": "CNBC-Top",
@@ -375,36 +430,6 @@
           "url": "https://www.cnbc.com/2026/03/19/hegseth-iran-war-budget.html",
           "title_en": "Hegseth says potential $200 billion Iran war spending request could shift: 'Takes money to kill bad guys'",
           "summary_en": "President Donald Trump's National Economic Council director, Kevin Hassett, said Sunday that the war has already cost $12 billion."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-20 00:14:57",
-          "title": "欧洲央行面临“风暴”，伊朗战争使政府债券面临挑战",
-          "summary": "欧洲央行面临新一轮通胀恐惧，债券收益率大幅上升。",
-          "url": "https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html",
-          "title_en": "Government bonds face ‘perfect storm’ as Iran war rattles Europe's central banks",
-          "summary_en": "Bond yields have surged as Europe's central banks grapple with new inflation fears."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-19 23:35:10",
-          "title": "伊朗战争威胁到人们所忽视的资源——氦的供应。对市场意味着什么",
-          "summary": "供应配额正在根据谁需要气体最多来确定。半导体制造商位于“优先顺序”顶端，氦顾问Phil Kornbluth表示。",
-          "url": "https://www.cnbc.com/2026/03/19/the-iran-war-is-threatening-supply-helium-what-it-means-for-markets.html",
-          "title_en": "The Iran war is threatening supply of a little-thought-of resource — helium. What it means for markets",
-          "summary_en": "Supply allocations are being set by who needs the gas the most. Semiconductors are at the \"top of the pecking order,\" said helium consultant Phil Kornbluth."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-19 23:03:55",
-          "title": "石油价格短暂上涨至119美元，欧洲天然气价格大幅上涨，原因是卡塔尔和伊朗的能源设施遭到袭击。",
-          "summary": "石油价格大幅上涨，市场对卡塔尔称伊朗导弹袭击损坏了关键液化天然气出口设施的紧张局势做出了反应。",
-          "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
-          "title_en": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
-          "summary_en": "Oil prices jumped as markets react to escalating tensions after Qatar said Iranian missile strikes damaged a key liquefied natural gas export facility."
         },
         {
           "source": "CNBC-World",
@@ -465,36 +490,6 @@
           "url": "https://www.cnbc.com/2026/03/19/asia-markets-live-boj-nikkei-kospi-hang-seng.html",
           "title_en": "Asia markets track Wall Street losses as Iran war fuels energy worries; BOJ hold rates",
           "summary_en": "Investors in Asia will look toward the Bank of Japan decision, which is expected to hold rates at 0.75%."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-19 14:44:28",
-          "title": "CNBC日报开场：伊朗承诺“眼为眼”在能源攻击升级中",
-          "summary": "伊朗战争期间对能源基础设施的重大袭击升级，油价上涨，全球股市再次跌入红色。",
-          "url": "https://www.cnbc.com/2026/03/19/cnbc-daily-open-iran-vows-eye-for-eye-in-energy-attack-escalation.html",
-          "title_en": "CNBC Daily Open: Iran vows 'eye-for-eye' in energy attack escalation",
-          "summary_en": "A major escalation in attacks on energy infrastructure during the Iran war has sent oil prices higher and global stocks back into the red."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-19 11:01:02",
-          "title": "美联储投票维持利率不变，注意到伊朗战争对经济的不确定影响",
-          "summary": "美联储周三发布了利率决策结果。",
-          "url": "https://www.cnbc.com/2026/03/18/fed-interest-rate-decision-march-2026.html",
-          "title_en": "Fed votes to hold rates steady, notes 'uncertain' impacts from Iran war",
-          "summary_en": "The Federal Reserve on Wednesday released its decision in interest rates."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-19 04:11:57",
-          "title": "白宫计划采取更多行动应对油价上涨，副总统Vance将与石油行业会面。",
-          "summary": "消费者正在经历燃料价格快速上涨，因为伊朗战争触发了历史上最大的一次石油供应干扰。",
-          "url": "https://www.cnbc.com/2026/03/18/vance-oil-industry-gas-prices-iran-war.html",
-          "title_en": "Vice President Vance to meet with oil industry as White House plans more actions to address fuel prices",
-          "summary_en": "Consumers are seeing fuel prices rapidly rise as the Iran war has triggered the biggest oil supply disruption in history."
         }
       ]
     },
@@ -502,15 +497,6 @@
       "name": "特斯拉链",
       "badge": "TSLA chain",
       "items": [
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "美国监管机构升级调查3.2万辆特斯拉汽车的FSD碰撞事件",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/us-auto-safety-regulator-opens-probe-into-tesla-vehicles-with-fsd-4570090",
-          "title_en": "US agency upgrades probe into 3.2 million Tesla vehicles over FSD crashes"
-        },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
@@ -530,52 +516,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "韩国公司Terra Power支持阿拉斯加新建1.25GW煤炭发电厂",
+          "time": "2026-03-20 00:57:36",
+          "title": "阿道夫股价受重压。以下是如何利用这一机会。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/terra-power-south-korean-company-161514112.html",
-          "title_en": "Terra Power, South Korean Company Backing New 1.25-GW Coal-Fired Power Plant in Alaska"
+          "url": "https://www.investors.com/research/options/adobe-adbe-stock-butterfly-trade-options/?src=A00220&yptr=yahoo",
+          "title_en": "Adobe Stock Under Heavy Pressure. Here's How To Take Advantage."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "中东混乱持续侵蚀你的钱包",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/middle-east-chaos-continues-drain-161010273.html",
-          "title_en": "Middle East chaos continues to drain your pocketbook"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "Arista (ANET) 股票价格上涨，原因是 Jim Cramer 在2025年1月表示它的股价合理。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arista-anet-shares-higher-jim-160805341.html",
-          "title_en": "Arista (ANET) Shares Higher After Jim Cramer Said It Made Sense In January 2025"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "IONQ的股价如何在2025年5月吉姆·克拉默（Jim Cramer）称其为“投机性”的时候发生变化？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-ionq-shares-behaved-jim-160639549.html",
-          "title_en": "Here’s How IonQ (IONQ)’s Shares Behaved After Jim Cramer Said It Was “Speculative” In May 2025"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "里吉蒂（RGTI）的股价如何在2025年1月吉姆·克雷默（Jim Cramer）称其为“量子游戏停”之后表现？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/rigetti-rgti-shares-behaved-jim-160630806.html",
-          "title_en": "Here’s How Rigetti (RGTI)’s Shares Behaved After Jim Cramer Said “It’s A Quantum GameStop” In January 2025"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
+          "time": "2026-03-20 00:57:36",
           "title": "中期看多。",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46476_TechnicalAnalysis_1773918358000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -584,97 +534,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "在2025年1月，Jim Cramer称Hewlett Packard Enterprise（HPE）的股票是大赢家之后，HPE的股票表现如何？",
+          "time": "2026-03-20 00:57:36",
+          "title": "下跌68%，这个成长股看起来被低估了。它是否是买入机会？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-hpe-shares-160618421.html",
-          "title_en": "Here’s How Hewlett Packard Enterprise (HPE)’s Shares Behaved After Jim Cramer Said “They’re A Big Winner” In January 2025"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/down-68-growth-stock-looks-163500839.html",
+          "title_en": "Down 68%, This Growth Stock Looks Oversold. Is It a Buy?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "加密货币市场遭遇极度恐惧，随着比特币放弃了75,000美元的突破",
+          "time": "2026-03-20 00:57:36",
+          "title": "Arista (ANET) 股票价格上涨，原因是 Jim Cramer 在2025年1月表示它的股价合理。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/extreme-fear-hits-crypto-markets-160827848.html",
-          "title_en": "'Extreme Fear' Hits Crypto Markets After Bitcoin Gives Up $75K Spike"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arista-anet-shares-higher-jim-160805341.html",
+          "title_en": "Arista (ANET) Shares Higher After Jim Cramer Said It Made Sense In January 2025"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "国际商业机器公司（IBM）股价上涨，原因是8月份吉姆·克拉默（Jim Cramer）建议投资者买入该股。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/international-business-machines-corporation-ibm-160607062.html",
-          "title_en": "International Business Machines Corporation (IBM) Shares Higher After Jim Cramer Advised In August To Step In Due To Fundamentals"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "美国长期抵押贷款利率上涨至6.22%，创近3个月新高",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/average-us-long-term-mortgage-160540979.html",
-          "title_en": "Average US long-term mortgage rate rises to 6.22%, highest level in more than 3 months"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "无人机股变成最热门的IPO 股价飙升近1000%",
-          "summary": "",
-          "url": "https://www.investors.com/news/ipo-swarmer-swmr-stock-drones/?src=A00220&yptr=yahoo",
-          "title_en": "Drone Stock Becomes Hottest IPO As Shares Soar Nearly 1,000%"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "分析报告：Jabil Inc（JBL）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3100_AnalystReport_1773918287000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Jabil Inc"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "Alphabet (GOOGL) 股价上涨，原因是 2025 年 1 月，Jim Cramer 表示它是 Quantum Computing 的好股票。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-stock-higher-higher-160503739.html",
-          "title_en": "Alphabet (GOOGL) Stock Higher Higher After Jim Cramer Said It Was A Good Quantum Computing Stock In January 2025"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "防务股大幅上涨，这只ETF让你从全球军备竞赛中收集股息",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/defense-stocks-surging-etf-lets-160520272.html",
-          "title_en": "Defense Stocks Are Surging and This ETF Lets You Collect Dividends From the Global Arms Race"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "核心韦夫（CRWV）股价如何在2025年4月吉姆·克雷默称其为“明星”后表现",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-shares-behaved-jim-160346746.html",
-          "title_en": "Here’s How CoreWeave (CRWV)’s Shares Behaved After Jim Cramer Said It Was a “Star” In April 2025"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "DWAVE（QBTS）的股价如何在2025年1月吉姆·克雷默（Jim Cramer）表示他“谨慎”的时候发生变化？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/d-wave-qbts-shares-behaved-160334879.html",
-          "title_en": "Here’s How D-Wave (QBTS)’s Shares Behaved After Jim Cramer Said He Was “Wary” In January 2025"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
+          "time": "2026-03-20 00:57:36",
           "title": "分析报告：CenterPoint Energy Inc",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_2852_AnalystReport_1773918287000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -683,11 +561,119 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 00:26:59",
-          "title": "GE Vernova (GEV) 在 2025 年 1 月，吉姆·克拉默（Jim Cramer）称其未完成后，股价大幅上涨。",
+          "time": "2026-03-20 00:57:36",
+          "title": "IONQ的股价如何在2025年5月吉姆·克拉默（Jim Cramer）称其为“投机性”的时候发生变化？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-triple-digit-160324986.html",
-          "title_en": "GE Vernova (GEV) Up In Triple Digit Percentages After Jim Cramer Said It Wasn’t Done In January 2025"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-ionq-shares-behaved-jim-160639549.html",
+          "title_en": "Here’s How IonQ (IONQ)’s Shares Behaved After Jim Cramer Said It Was “Speculative” In May 2025"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:57:36",
+          "title": "里吉蒂（RGTI）的股价如何在2025年1月吉姆·克雷默（Jim Cramer）称其为“量子游戏停”之后表现？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rigetti-rgti-shares-behaved-jim-160630806.html",
+          "title_en": "Here’s How Rigetti (RGTI)’s Shares Behaved After Jim Cramer Said “It’s A Quantum GameStop” In January 2025"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:57:36",
+          "title": "美国主要军事供应商突然申请第11章破产保护",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/major-u-military-vendor-files-163300248.html",
+          "title_en": "Major U.S. military vendor files unexpected Chapter 11 bankruptcy"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:57:36",
+          "title": "在2025年1月，Jim Cramer称Hewlett Packard Enterprise（HPE）的股票是大赢家之后，HPE的股票表现如何？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-hpe-shares-160618421.html",
+          "title_en": "Here’s How Hewlett Packard Enterprise (HPE)’s Shares Behaved After Jim Cramer Said “They’re A Big Winner” In January 2025"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:57:36",
+          "title": "国际商业机器公司（IBM）股价上涨，原因是8月份吉姆·克拉默（Jim Cramer）建议投资者买入该股。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/international-business-machines-corporation-ibm-160607062.html",
+          "title_en": "International Business Machines Corporation (IBM) Shares Higher After Jim Cramer Advised In August To Step In Due To Fundamentals"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:57:36",
+          "title": "分析报告：美国国际集团公司",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_2695_AnalystReport_1773918287000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: American Intl Grp Inc"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:57:36",
+          "title": "美国长期抵押贷款利率上涨至6.22%，创近3个月新高",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/average-us-long-term-mortgage-160540979.html",
+          "title_en": "Average US long-term mortgage rate rises to 6.22%, highest level in more than 3 months"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:57:36",
+          "title": "无人机股变成最热门的IPO 股价飙升近1000%",
+          "summary": "",
+          "url": "https://www.investors.com/news/ipo-swarmer-swmr-stock-drones/?src=A00220&yptr=yahoo",
+          "title_en": "Drone Stock Becomes Hottest IPO As Shares Soar Nearly 1,000%"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:57:36",
+          "title": "一位听众在节目\"The Ramsey Show\"中透露，他们正在使用ChatGPT来应对一项37,000美元的诉讼。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/caller-tells-ramsey-show-theyre-163108532.html",
+          "title_en": "A Caller Tells 'The Ramsey Show' That They're Using ChatGPT To Fight A $37K Lawsuit. 'So Far It's Worked'"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:57:36",
+          "title": "Alphabet (GOOGL) 股价上涨，原因是 2025 年 1 月，Jim Cramer 表示它是 Quantum Computing 的好股票。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-stock-higher-higher-160503739.html",
+          "title_en": "Alphabet (GOOGL) Stock Higher Higher After Jim Cramer Said It Was A Good Quantum Computing Stock In January 2025"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:57:36",
+          "title": "分析报告：Jabil Inc（JBL）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3100_AnalystReport_1773918287000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Jabil Inc"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:57:36",
+          "title": "核心韦夫（CRWV）股价如何在2025年4月吉姆·克雷默称其为“明星”后表现",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-shares-behaved-jim-160346746.html",
+          "title_en": "Here’s How CoreWeave (CRWV)’s Shares Behaved After Jim Cramer Said It Was a “Star” In April 2025"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 00:57:36",
+          "title": "DWAVE（QBTS）的股价如何在2025年1月吉姆·克雷默（Jim Cramer）表示他“谨慎”的时候发生变化？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/d-wave-qbts-shares-behaved-160334879.html",
+          "title_en": "Here’s How D-Wave (QBTS)’s Shares Behaved After Jim Cramer Said He Was “Wary” In January 2025"
         }
       ]
     }
