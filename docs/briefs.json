@@ -1,6 +1,6 @@
 {
   "date": "2026.03.19",
-  "generatedAtBJT": "2026-03-19 16:39:17",
+  "generatedAtBJT": "2026-03-19 17:00:12",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-19 16:39:17",
+          "time": "2026-03-19 17:00:12",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：美国司机眼见汽油价格跃升至2023年以来最高水平…\n- 宏观/Fed：关注本周美联储会议的五大关键点…\n- 科技/半导体：股指上涨，芯片制造商和旅游股大幅走强…关键词：meta, nvidia, ceo, alibaba, huang\n- TSLA：关注马斯克称特斯拉可能在12月“tape out”下一代AI6芯片…",
+          "summary": "- 地缘/避险：美国司机眼见汽油价格跃升至2023年以来最高水平…\n- 宏观/Fed：关注本周联邦储备委员会会议的五大关键点…\n- 科技/半导体：AI无人机软件股价跃升520%，创下Newsmax历史最佳IPO纪录…关键词：NVIDIA，CEO，阿里巴巴，黄，Jensen\n- TSLA：关注马斯克表示特斯拉可能在12月份“完成设计”下一代AI6芯片…",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 US drivers see gas prices jump to their highest level since 2023…\n- 宏观/Fed：关注 Here are the five key takeaways from this week's Fed meeting…\n- 科技/半导体：Stock Indexes Advance as Chip Makers and Travel Stocks Rally… 关键词: meta, nvidia, ceo, alibaba, huang\n- TSLA：关注 Musk says Tesla may ’tape out’ next-generation AI6 chips in Dece…"
+          "summary_en": "- 地缘/避险：关注 US drivers see gas prices jump to their highest level since 2023…\n- 宏观/Fed：关注 Here are the five key takeaways from this week's Fed meeting…\n- 科技/半导体：AI Drone Software Stock Jumps 520% in Best IPO Since Newsmax… 关键词: nvidia, ceo, alibaba, huang, jensen\n- TSLA：关注 Musk says Tesla may ’tape out’ next-generation AI6 chips in Dece…"
         }
       ]
     },
@@ -29,25 +29,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
-          "title": "股市指数上涨，芯片制造商和旅游股大幅上涨",
+          "time": "2026-03-19 17:00:07",
+          "title": "AI无人机软件股价跃升520%，创下新闻最大（Newsmax）以来最好的首次公开募股（IPO）",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/stock-indexes-advance-chip-makers-203644382.html",
-          "title_en": "Stock Indexes Advance as Chip Makers and Travel Stocks Rally"
+          "url": "https://finance.yahoo.com/news/ai-drone-software-stock-jumps-192002848.html",
+          "title_en": "AI Drone Software Stock Jumps 520% in Best IPO Since Newsmax"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
-          "title": "Meta Platforms推迟了其Avocado AI的上线。是否应该卖出META股票？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/meta-platforms-just-delayed-avocado-203717891.html",
-          "title_en": "Meta Platforms Just Delayed Its Avocado AI Rollout. Should You Sell META Stock?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
+          "time": "2026-03-19 17:00:07",
           "title": "阿里巴巴（BABA）将人工智能业务整合至新成立的阿里巴巴令牌中心（Alibaba Token Hub）一体化单位，新单位由首席执行官领导。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/alibaba-baba-consolidates-ai-operations-155511047.html",
@@ -56,7 +47,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
+          "time": "2026-03-19 17:00:07",
           "title": "吉姆·克拉默解释了为何NVIDIA的股票“值得被称为最大的”。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/jim-cramer-explains-why-nvidia-221025535.html",
@@ -65,7 +56,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
+          "time": "2026-03-19 17:00:07",
           "title": "三星电子计划在2026年投资超过730亿美元，领先人工智能芯片市场。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/samsung-electronics-plans-over-73-billion-investment-to-lead-in-ai-chip-sector-4569884",
@@ -276,7 +267,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
+          "time": "2026-03-19 17:00:07",
           "title": "美国司机看到汽油价格跃升至2023年以来最高水平，因为伊朗战争持续。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/us-drivers-see-gas-prices-211636651.html",
@@ -285,20 +276,49 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
-          "title": "伊朗战争威胁摧毁里夫斯的经济计划",
+          "time": "2026-03-19 17:00:07",
+          "title": "标准慕尼黑预测石油价格将持续高位",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/iran-war-threatens-wipe-reeves-203130442.html",
-          "title_en": "Iran war threatens to wipe out Reeves’s economic plan"
+          "url": "https://finance.yahoo.com/news/standard-chartered-predicts-oil-prices-230000903.html",
+          "title_en": "Standard Chartered Predicts Oil Prices Will Remain Higher For Longer"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 17:00:07",
+          "title": "日本顶级企业预计将大幅提高工资，关注伊朗冲突",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/top-japan-firms-set-offer-230849544.html",
+          "title_en": "Top Japan firms set to offer big pay hikes, focus on Iran conflict ahead"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
+          "time": "2026-03-19 17:00:07",
           "title": "欧洲可能发生的伊朗战争将推动欧洲能源转型，哪些股票将受益？",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/which-stocks-stand-to-benefit-from-an-iran-wardriven-energy-transition-in-europe-4569893",
           "title_en": "Which stocks stand to benefit from an Iran war-driven energy transition in Europe?"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-19 16:52:08",
+          "title": "布伦特原油价格冲破116美元，欧洲天然气价格大幅上涨，原因是卡塔尔和伊朗的能源设施遭到袭击。",
+          "summary": "石油价格大幅上涨，市场对卡塔尔称伊朗导弹袭击损坏了关键液化天然气出口设施的紧张局势做出了反应。",
+          "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
+          "title_en": "Brent hits $116 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
+          "summary_en": "Oil prices jumped as markets react to escalating tensions after Qatar said Iranian missile strikes damaged a key liquefied natural gas export facility."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-19 16:43:25",
+          "title": "欧洲市场下滑，伊朗局势加剧；矿业股领跌",
+          "summary": "欧洲股市在周四开盘时大幅下滑，随着对伊朗和卡塔尔能源基础设施的袭击，伊朗战争升级。",
+          "url": "https://www.cnbc.com/2026/03/19/european-markets-stoxx-600-ftse-dax-cac-iran-news-and-oil-prices.html",
+          "title_en": "European markets slump as Iran war intensifies; miners lead losses",
+          "summary_en": "European stocks slumped at the open on Thursday as the Iran war escalates following attacks on Iranian and Qatari energy infrastructure."
         },
         {
           "source": "CNBC-Top",
@@ -309,16 +329,6 @@
           "url": "https://www.cnbc.com/2026/03/19/europe-chip-buyers-iran-war.html",
           "title_en": "Chip buyers in Europe are paying more and tapping backup stores as Iran war hits air freight",
           "summary_en": "The Iran war has caused turmoil to cargo routes through the Middle East, as shipping and airports have been targeted."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-19 16:26:57",
-          "title": "欧洲市场下滑，伊朗局势加剧；矿业股领跌",
-          "summary": "欧洲股市在周四开盘时大幅下滑，随着对伊朗和卡塔尔能源基础设施的袭击，伊朗战争升级。",
-          "url": "https://www.cnbc.com/2026/03/19/european-markets-stoxx-600-ftse-dax-cac-iran-news-and-oil-prices.html",
-          "title_en": "European markets slump as Iran war intensifies; miners lead losses",
-          "summary_en": "European stocks slumped at the open on Thursday as the Iran war escalates following attacks on Iranian and Qatari energy infrastructure."
         },
         {
           "source": "CNBC-Top",
@@ -349,16 +359,6 @@
           "url": "https://www.cnbc.com/2026/03/19/asia-markets-live-boj-nikkei-kospi-hang-seng.html",
           "title_en": "Asia markets track Wall Street losses as Iran war fuels energy worries; BOJ hold rates",
           "summary_en": "Investors in Asia will look toward the Bank of Japan decision, which is expected to hold rates at 0.75%."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-19 15:55:36",
-          "title": "布伦特原油价格突破114美元，欧洲天然气价格暴涨30%，原因是卡塔尔和伊朗的能源设施遭到攻击。",
-          "summary": "石油价格大幅上涨，市场对卡塔尔称伊朗导弹袭击损坏了关键液化天然气出口设施的紧张局势做出了反应。",
-          "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
-          "title_en": "Brent hits $114 and Europe gas prices soar 30% after attacks on energy facilities in Qatar, Iran",
-          "summary_en": "Oil prices jumped as markets react to escalating tensions after Qatar said Iranian missile strikes damaged a key liquefied natural gas export facility."
         },
         {
           "source": "CNBC-Top",
@@ -439,16 +439,6 @@
           "url": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
           "title_en": "Israel says it has killed Iran’s intelligence minister in third assassination in two days",
           "summary_en": "Israel's Defense Forces said Wednesday that Iran's intelligence minister, Esmail Khatib, had been killed in a \"targeted strike\" in Tehran."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-18 23:56:12",
-          "title": "霍尔木兹海峡交通逐渐恢复：谁在移动，谁被困在原地",
-          "summary": "伊朗已经吓退了大部分通过霍尔木兹海峡的船只，留下了一些船只通过海峡，而大部分船只仍然在海峡外等待。",
-          "url": "https://www.cnbc.com/2026/03/18/hormuz-bottleneck-vessel-tanker-tracker-shipping-strait-of-hormuz.html",
-          "title_en": "Traffic is trickling through Strait of Hormuz: Who's moving and who's stranded",
-          "summary_en": "Iran has scared off most ships from the Strait of Hormuz, leaving some ships to pass through, while most continued to wait outside the strait."
         }
       ]
     },
@@ -459,7 +449,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
+          "time": "2026-03-19 17:00:07",
           "title": "马斯克称特斯拉可能在12月“封测”下一代AI6芯片",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/musk-says-tesla-may-tape-out-nextgeneration-ai6-chips-in-december-4569918",
@@ -484,7 +474,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
+          "time": "2026-03-19 17:00:07",
           "title": "美国税务局是否欠你一笔疫情税收退税？这是发生了什么。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/taxes/article/does-the-irs-owe-you-a-pandemic-tax-refund-heres-whats-happening-203224738.html",
@@ -493,52 +483,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
-          "title": "新型融资平台有助于顾问在与银行竞争中缩小差距",
+          "time": "2026-03-19 17:00:07",
+          "title": "科技、媒体和通信周报：市场谈话",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/lending-platforms-help-advisors-close-204208199.html",
-          "title_en": "New Lending Platforms Help Advisors Close Competitive Gap With Banks"
+          "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-e64ea0af?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Tech, Media & Telecom Roundup: Market Talk"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
-          "title": "股市今日：道指、标普500指数微幅上涨；帕拉特尔、美光微波器件上涨",
-          "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-fed-meeting/?src=A00220&yptr=yahoo",
-          "title_en": "Stock Market Today: Dow, S&P 500 Eke Out Gains; Palantir, Micron Rise (Live Coverage)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
-          "title": "我问ChatGPT一线百万富翁的平均税负——结果令人惊讶",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/asked-chatgpt-much-average-millionaire-204005751.html",
-          "title_en": "I Asked ChatGPT How Much the Average Millionaire Pays in Taxes — Here’s What It Revealed"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
-          "title": "埃尔比特系统股价大涨，中东战争推动材料需求增长",
-          "summary": "",
-          "url": "https://www.investors.com/news/elbit-systems-earnings-q4-2025-eslt-stock-israel-middle-east-wars/?src=A00220&yptr=yahoo",
-          "title_en": "Elbit Systems Spikes On Results; Middle East Wars Drive 'Material' Demand Growth"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
-          "title": "Delta航空和美国航空提高了预测，航空公司股价上涨，因为需求超过了燃油价格上涨。",
-          "summary": "",
-          "url": "https://www.investors.com/news/delta-air-lines-american-airlines-rally-hike-outlooks-fuel-prices-jetblue-southwest-hubs-dal-stock-aal/?src=A00220&yptr=yahoo",
-          "title_en": "Delta, American Hike Forecasts; Airlines Rally As Demand Outweighs Fuel Spike"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
+          "time": "2026-03-19 17:00:07",
           "title": "Coinbase 股票重夺关键水平，随着比特币反弹，Coinbase 股票是否现在买入？",
           "summary": "",
           "url": "https://www.investors.com/research/coinbase-coin-stock-bitcoin-cryptocurrency-markets/?src=A00220&yptr=yahoo",
@@ -547,7 +501,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
+          "time": "2026-03-19 17:00:07",
           "title": "日常ETF流动性：VOO和SPYM排名前列",
           "summary": "",
           "url": "https://finance.yahoo.com/news/daily-etf-flows-voo-spym-210004490.html",
@@ -556,16 +510,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
-          "title": "富马斯银矿股在三年后将如何走势？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/where-first-majestic-silver-stock-203500174.html",
-          "title_en": "Where Will First Majestic Silver Stock Be in 3 Years?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
+          "time": "2026-03-19 17:00:07",
           "title": "抗击时间衰变：信用spread如何改变期权交易者的游戏",
           "summary": "",
           "url": "https://finance.yahoo.com/news/stop-fighting-time-decay-credit-210339812.html",
@@ -574,7 +519,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
+          "time": "2026-03-19 17:00:07",
+          "title": "Crispin Odey向公司合规主管提供了100万英镑。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/crispin-odey-offered-compliance-chief-205444172.html",
+          "title_en": "Crispin Odey ‘offered compliance chief £1m’"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 17:00:07",
           "title": "Adobe (ADBE) 股票在分析师关注之列，随着公司发布财报。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/adobe-adbe-stock-analyst-radar-212248423.html",
@@ -583,7 +537,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
+          "time": "2026-03-19 17:00:07",
           "title": "达美航空刚刚突破200日移动平均线。您在DAL股票这里买入吗？",
           "summary": "",
           "url": "https://finance.yahoo.com/news/delta-air-lines-just-broke-212311745.html",
@@ -592,25 +546,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
-          "title": "Ocean Power Technologies 在财年第三季度的订单明显增加。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/ocean-power-technologies-sees-backlog-203700388.html",
-          "title_en": "Ocean Power Technologies sees backlog surge in fiscal Q3"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
-          "title": "世界付（Worldpay）和Bullish加入Midnight Alliance，随着主网（Mainnet）上线",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/worldpay-bullish-join-midnight-alliance-212400365.html",
-          "title_en": "Worldpay And Bullish Join Midnight Alliance Ahead Of Mainnet Launch"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
+          "time": "2026-03-19 17:00:07",
           "title": "迈阿密出租车司机对软件股持悲观态度：现在是买入这些5只低估股的好时机",
           "summary": "",
           "url": "https://finance.yahoo.com/news/miami-cab-driver-bearish-software-212421079.html",
@@ -619,16 +555,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
-          "title": "查特通信（CHTR）与RingCentral扩大合作",
+          "time": "2026-03-19 17:00:07",
+          "title": "世界付（Worldpay）和Bullish加入Midnight Alliance，随着主网（Mainnet）上线",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/charter-communications-chtr-expands-partnership-212524065.html",
-          "title_en": "Charter Communications (CHTR) Expands Partnership With RingCentral"
+          "url": "https://finance.yahoo.com/news/worldpay-bullish-join-midnight-alliance-212400365.html",
+          "title_en": "Worldpay And Bullish Join Midnight Alliance Ahead Of Mainnet Launch"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
+          "time": "2026-03-19 17:00:07",
           "title": "中信证券维持对Trip.com（TCOM）的买入评级，以下是您需要知道的。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/citic-securities-remains-buy-trip-212626135.html",
@@ -637,11 +573,65 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-19 16:39:13",
+          "time": "2026-03-19 17:00:07",
+          "title": "查特通信（CHTR）与RingCentral扩大合作",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/charter-communications-chtr-expands-partnership-212524065.html",
+          "title_en": "Charter Communications (CHTR) Expands Partnership With RingCentral"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 17:00:07",
           "title": "Stifel降低了Carnival Corporation & plc（CCL）的目标价，仍然持有买入评级。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/stifel-lowers-pt-carnival-corporation-212718548.html",
           "title_en": "Stifel Lowers PT on Carnival Corporation & plc (CCL), Keeps a Buy"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 17:00:07",
+          "title": "美国汽油价格飙升至每加仑3.75美元，中东战争持续升级",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/us-gasoline-prices-soar-past-213334558.html",
+          "title_en": "US gasoline prices soar past $3.75 a gallon as Middle East war rages on"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 17:00:07",
+          "title": "能源与公用事业周报：市场话题",
+          "summary": "",
+          "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-822265ab?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Energy & Utilities Roundup: Market Talk"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 17:00:07",
+          "title": "美国有292,000家运输公司，九成运输公司拥有10辆或以下卡车。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/292-000-shippers-america-97-214048168.html",
+          "title_en": "There Are 292,000 Shippers in America and 9 out of 10 Carriers Have 10 Trucks or Less — The Match Has Been Right in Front of You the Whole Time"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 17:00:07",
+          "title": "美国联邦贸易委员会正在监测药品公司对专利过期的反应。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/ftc-monitoring-drug-companies-react-215901696.html",
+          "title_en": "FTC monitoring how drug companies react to patent cliff, official says"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-19 17:00:07",
+          "title": "玉米收盘小幅上涨，周二收盘。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/corn-comes-back-close-slight-220934654.html",
+          "title_en": "Corn Comes Back to Close with Slight Gains on Tuesday"
         }
       ]
     }
