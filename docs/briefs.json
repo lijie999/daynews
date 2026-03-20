@@ -1,6 +1,6 @@
 {
   "date": "2026.03.20",
-  "generatedAtBJT": "2026-03-20 22:43:16",
+  "generatedAtBJT": "2026-03-20 23:00:41",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-20 22:43:16",
+          "time": "2026-03-20 23:00:41",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再",
+          "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜恐惧指数（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；恐惧指数上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且恐惧指数抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且恐惧指数回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Stock market today: Dow, S&P 500, Nasdaq sink as oil swings amid Iran wa…\n- 宏观/Fed线索：Best CD rates today, March 20, 2026 (up to 4.15% APY return)…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Gasoline prices hit highest level since 2022 as oil tops $100…\n- 宏观/Fed线索：Best CD rates today, March 20, 2026 (up to 4.15% APY return)…"
         }
       ]
     },
@@ -29,7 +29,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
+          "time": "2026-03-20 23:00:35",
+          "title": "航天/国防业绩焦点：卡尔曼股份；AI股Argan、Legence即将公布业绩",
+          "summary": "",
+          "url": "https://www.investors.com/research/earnings-preview/karman-stock-ai-infrastructure-leaders-argan-legence-earnings-calendar/?src=A00220&yptr=yahoo",
+          "title_en": "Aerospace/Defense Earnings Spotlight On Karman Stock; AI Stocks Argan, Legence Set To Report"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 23:00:35",
+          "title": "微软（MSFT）与OpenAI的合作正在吸引一波新的客户",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-openai-partnership-bringing-143401614.html",
+          "title_en": "How Microsoft’s (MSFT) OpenAI Partnership Is Bringing in a New Wave of Customers"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 23:00:35",
           "title": "超微微股暴跌26% 美股指控创始人与窝藏Nvidia芯片到中国的阴谋",
           "summary": "",
           "url": "https://finance.yahoo.com/news/supermicro-stock-plunges-26-after-us-charges-co-founder-with-conspiracy-to-smuggle-nvidia-chips-to-china-142947908.html",
@@ -38,47 +56,39 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "超微跳空：美国指控高管窝藏NVIDIA芯片运往中国",
-          "summary": "",
-          "url": "https://www.investors.com/news/technology/super-micro-stock-dives-us-accuses-execs-smuggling-nvidia-chips-china/?src=A00220&yptr=yahoo",
-          "title_en": "Super Micro Dives As U.S. Accuses Execs Of Smuggling Nvidia Chips To China"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "迈克隆的价值上涨到每股1000美元的道路，依赖于人工智能内存的繁荣",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-path-1-000-per-142532727.html",
-          "title_en": "Micron’s Path to $1,000 Per Share Runs Through the AI Memory Boom"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "英伟达的财报令人瞠目结舌，净利润达68.1亿美元，公司的壁垒不断壮大。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-unstoppable-68-1b-quarter-142438240.html",
-          "title_en": "NVIDIA Is Unstoppable after a $68.1b Quarter, and A Moat That Won’t Stop Growing,"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
+          "time": "2026-03-20 23:00:35",
           "title": "万盛投资（Vanguard）正在制定人工智能（AI）的未来蓝图",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/technology/articles/vanguard-mapping-future-ai-040300955.html",
           "title_en": "How Vanguard Is Mapping Out the Future of AI"
         },
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "超微股份大跌：创始人因芯片走私案被捕",
+          "time": "2026-03-20 23:00:35",
+          "title": "明尼苏达州州长蒂姆·沃尔兹表示，科技公司正在对中产阶级家庭造成“冲击”，他希望通过征税社交媒体来弥补人工智能造成的就业损失。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/super-micro-shares-slide-14-after-cofounder-arrested-for-chip-smuggling-scheme-4572132",
-          "title_en": "Super Micro shares plunge after co-founder arrested for chip smuggling scheme"
+          "url": "https://finance.yahoo.com/economy/policy/articles/tim-walz-says-tech-companies-143103466.html",
+          "title_en": "Tim Walz Says Tech Companies Are Causing 'Disruptions' To Middle Class Families, Wants Social Media Taxed To Offset AI Job Losses"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 23:00:35",
+          "title": "迈克隆的价值上涨到每股1000美元的道路，依赖于人工智能内存的繁荣",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-path-1-000-per-142532727.html",
+          "title_en": "Micron’s Path to $1,000 Per Share Runs Through the AI Memory Boom"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-20 22:56:13",
+          "title": "超微股份股价暴跌25%，员工被指控窝藏Nvidia芯片运往中国",
+          "summary": "美国政府正在努力打击非法运输高端Nvidia人工智能芯片到中国。",
+          "url": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html",
+          "title_en": "Super Micro shares tank 25% after employees charged with smuggling Nvidia chips to China",
+          "summary_en": "The U.S. government has been trying to crack down on illegal shipments of top-tier Nvidia artificial intelligence chips to China."
         },
         {
           "source": "CNBC-Top",
@@ -89,16 +99,6 @@
           "url": "https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html",
           "title_en": "Trump admin unveils national AI policy framework to limit state power",
           "summary_en": "AI industry leaders have opposed state-level regulatory efforts, arguing that a \"patchwork\" of laws would hobble innovation and give China a competitive edge."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-20 22:21:05",
-          "title": "超微股份股价暴跌25%，员工被指控窝藏Nvidia芯片运往中国",
-          "summary": "美国政府正在努力打击非法运输高端Nvidia人工智能芯片到中国。",
-          "url": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html",
-          "title_en": "Super Micro shares tank 25% after employees charged with smuggling Nvidia chips to China",
-          "summary_en": "The U.S. government has been trying to crack down on illegal shipments of top-tier Nvidia artificial intelligence chips to China."
         },
         {
           "source": "CNBC-World",
@@ -209,7 +209,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
+          "time": "2026-03-20 23:00:35",
           "title": "今日最佳定期存款利率（最高4.15%年利率回报）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-march-20-2026-100049063.html",
@@ -218,7 +218,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
+          "time": "2026-03-20 23:00:35",
           "title": "截至2026年3月19日，最佳现金市场账户利率（最高可达4.01%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-thursday-march-19-2026-100004729.html",
@@ -227,7 +227,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
+          "time": "2026-03-20 23:00:35",
           "title": "截至2026年3月19日，最高收益储蓄利率（最高4%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-thursday-march-19-2026-100016407.html",
@@ -236,29 +236,21 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
+          "time": "2026-03-20 23:00:35",
           "title": "今日最佳定期存款利率（2026年3月19日），最高可锁定4.1%APY",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-march-19-2026-100057472.html",
           "title_en": "Best CD rates today, March 19, 2026 (lock in up to 4.1% APY)"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-World",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "今日房贷和再融资利率，2026年3月18日：略有下降",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-march-18-2026-100000705.html",
-          "title_en": "Mortgage and refinance rates today, March 18, 2026: Lower by a little"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "华尔街开盘低迷，中东局势使美联储预期蒙上阴影",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/wall-st-opens-lower-as-middle-east-turmoil-clouds-fed-outlook-4573119",
-          "title_en": "Wall St opens lower as Middle East turmoil clouds Fed outlook"
+          "time": "2026-03-20 22:59:24",
+          "title": "国债收益率上升，美联储降息可能被搁置的担忧加剧",
+          "summary": "美国国债收益率上升，投资者正在应对中东冲突带来的通胀压力。",
+          "url": "https://www.cnbc.com/2026/03/20/us-treasury-yields-edge-higher-as-iran-war-drives-inflation-pressure.html",
+          "title_en": "Treasury yields rise as fears grow that Fed rate cuts may be off the table",
+          "summary_en": "U.S. Treasury yields rose as investors navigated inflationary pressures caused by the Middle East conflict."
         },
         {
           "source": "CNBC-Top",
@@ -329,7 +321,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
+          "time": "2026-03-20 23:00:35",
+          "title": "汽油价格达到2022年以来最高水平，油价突破100美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/gasoline-prices-hit-highest-level-since-2022-as-oil-tops-100-144545346.html",
+          "title_en": "Gasoline prices hit highest level since 2022 as oil tops $100"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 23:00:35",
           "title": "股市今日：道指、标普500指数、纳斯达克指数因伊朗战争忧虑而下滑，石油价格波动",
           "summary": "",
           "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-oil-swings-amid-iran-war-jitters-225246829.html",
@@ -338,25 +339,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "石油价格突破112美元，伊朗扩大对海湾能源设施的袭击",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/oil-prices-hit-112-iran-024301017.html",
-          "title_en": "Oil Prices Hit $112 as Iran Expands Strikes on Gulf Energy Sites"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "连续的震荡：美联储担忧伊朗战争可能加剧通胀",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/shock-shock-fed-fears-iran-040100667.html",
-          "title_en": "Shock After Shock: Fed Fears Iran War May Fuel Higher Inflation"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
+          "time": "2026-03-20 23:00:35",
           "title": "英格兰银行维持利率并暗示将增加利率，因为伊朗战争打乱了通胀预测。",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/iran-war-expected-prevent-bank-073153885.html",
@@ -365,30 +348,40 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "挪威石油公司Equinor宣布在Johan Castberg附近发现了14-24万桶天然气液体油田。",
+          "time": "2026-03-20 23:00:35",
+          "title": "连续的震荡：美联储担忧伊朗战争可能加剧通胀",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/equinor-announces-14-24mboe-oil-142258266.html",
-          "title_en": "Equinor announces 14–24mboe oil discovery near Johan Castberg"
+          "url": "https://finance.yahoo.com/markets/commodities/articles/shock-shock-fed-fears-iran-040100667.html",
+          "title_en": "Shock After Shock: Fed Fears Iran War May Fuel Higher Inflation"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "华尔街开盘低迷，受波动油价影响，预计将连续四周下跌",
+          "time": "2026-03-20 23:00:35",
+          "title": "霍尔伯顿（Halliburton）、海尔默里奇和佩恩（Helmerich & Payne）股价上升，受油价市场供给冲击的影响。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-under-pressure-as-oil-gyrates-amid-ongoing-iran-conflict-4572872",
-          "title_en": "Wall Street opens lower amid choppy oil prices, set for a four-week losing streak"
+          "url": "https://www.investing.com/news/stock-market-news/halliburton-helmerich--payne-upgraded-on-supply-shock-in-oil-markets-4573224",
+          "title_en": "Halliburton, Helmerich & Payne upgraded on supply shock in oil markets"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-20 22:52:52",
+          "title": "欧洲央行面临“风暴”，伊朗战争使政府债券面临挑战",
+          "summary": "欧洲央行面临新一轮通胀恐惧，债券收益率大幅上升。",
+          "url": "https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html",
+          "title_en": "Government bonds face ‘perfect storm’ as Iran war rattles Europe's central banks",
+          "summary_en": "Bond yields have surged as Europe's central banks grapple with new inflation fears."
         },
         {
           "source": "CNBC-World",
           "ticker": "RSS",
-          "time": "2026-03-20 22:16:56",
-          "title": "美国国债收益率上升，伊朗战争推动了通胀压力",
-          "summary": "美国国债收益率上升，投资者正在应对中东冲突带来的通胀压力。",
-          "url": "https://www.cnbc.com/2026/03/20/us-treasury-yields-edge-higher-as-iran-war-drives-inflation-pressure.html",
-          "title_en": "U.S. Treasury yields rise as Iran war drives inflation pressure",
-          "summary_en": "U.S. Treasury yields rose as investors navigated inflationary pressures caused by the Middle East conflict."
+          "time": "2026-03-20 22:48:38",
+          "title": "石油价格略微波动至108美元，因为美国考虑对一些伊朗原油实施部分豁免",
+          "summary": "石油价格周五保持稳定，尽管财政部长斯科特·贝森特（Scott Bessent）表示华盛顿可能很快会解除对伊朗储存在油轮上的原油的制裁。",
+          "url": "https://www.cnbc.com/2026/03/20/oil-wti-brent-us-weighs-releasing-sanctioned-iranian-crude.html",
+          "title_en": "Oil prices little changed at $108 as U.S. considers lifting sanctions on some Iranian crude",
+          "summary_en": "Oil prices were stable on Friday even after Treasury Secretary Scott Bessent said Washington may soon lift sanctions on Iranian crude stored aboard tankers."
         },
         {
           "source": "MarketWatch-Top",
@@ -409,16 +402,6 @@
           "url": "https://www.cnbc.com/2026/03/20/gold-silver-price-metal-market-oil-brent-wti-futures-iran-war-inflation.html",
           "title_en": "Gold rebounds, but silver extends losses as oscillating oil prices spark market volatility",
           "summary_en": "The metals saw bumpy trade on Friday morning, after joining a broad sell-off the previous day."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-20 18:15:22",
-          "title": "石油价格继续上涨，尽管美国考虑解除对某些伊朗原油的制裁。",
-          "summary": "石油价格周五仍然上涨，尽管财政部长斯科特·贝森特（Scott Bessent）表示华盛顿可能很快会解除对伊朗储存在油轮上的原油的制裁。",
-          "url": "https://www.cnbc.com/2026/03/20/oil-wti-brent-us-weighs-releasing-sanctioned-iranian-crude.html",
-          "title_en": "Oil prices move higher even as U.S. considers lifting sanctions on some Iranian crude",
-          "summary_en": "Oil prices were higher on Friday even after Treasury Secretary Scott Bessent said Washington may soon lift sanctions on Iranian crude stored aboard tankers."
         },
         {
           "source": "CNBC-Top",
@@ -499,6 +482,16 @@
           "url": "https://www.cnbc.com/2026/03/19/166-a-barrel-middle-east-oil-gives-clue-to-where-all-prices-could-be-headed-if-iran-war-drags-on.html",
           "title_en": "$166 a barrel? Middle East oil gives clue to where all prices could be headed if Iran war drags on",
           "summary_en": "A breakout of oil prices in Asia has left analysts debating whether U.S. crude could see further upside."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-20 04:04:17",
+          "title": "内塔尼亚胡称伊朗正在被“摧毁”，但革命需要“地面部件”。",
+          "summary": "内塔尼亚胡的评论是在美国总统唐纳德·特朗普在白宫发表讲话后提出的，特朗普在讲话中表示不会派美国军队到中东。",
+          "url": "https://www.cnbc.com/2026/03/19/netanyahu-trump-us-israel-iran-ground-component.html",
+          "title_en": "Netanyahu says Iran is being 'decimated' but revolution requires 'ground component'",
+          "summary_en": "Netanyahu's comments came after President Donald Trump, speaking in the Oval Office, said earlier that he would not send U.S. troops to the Middle East."
         }
       ]
     },
@@ -507,13 +500,13 @@
       "badge": "TSLA chain",
       "items": [
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "小鹏汽车股价下跌5%：这家特斯拉竞争对手的自动驾驶押注是否足以抵消风险？",
+          "time": "2026-03-20 23:00:35",
+          "title": "特斯拉、奥拉可股市周五大幅波动",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/xpeng-drops-5-tesla-rival-142337569.html",
-          "title_en": "XPeng Drops 5%: Is This Tesla Rival’s Autonomous Driving Bet Enough to Justify the Risk?"
+          "url": "https://www.investing.com/news/stock-market-news/tesla-oracle-among-market-cap-stock-movers-on-friday-93CH-4573219",
+          "title_en": "Tesla, Oracle among market cap stock movers on Friday"
         },
         {
           "source": "CNBC-Top",
@@ -534,34 +527,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "BP同意将格尔森基兴炼油厂出售给Klesch",
+          "time": "2026-03-20 23:00:35",
+          "title": "莫里斯·汉密尔顿（MHA）任命克雷格·麦克谢里（Craig McSherry）为银行和资本市场合伙人。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/bp-agrees-sell-gelsenkirchen-refinery-143424106.html",
-          "title_en": "BP agrees to sell Gelsenkirchen refinery in deal with Klesch"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mha-names-craig-mcsherry-banking-145012675.html",
+          "title_en": "MHA names Craig McSherry as banking and capital markets partner"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "乘机旅行保险：它覆盖什么和什么时候值得购买",
+          "time": "2026-03-20 23:00:35",
+          "title": "65岁以上退休人员的新标准扣除额是多少，如何申报？",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/insurance/article/flight-insurance-142759685.html",
-          "title_en": "Flight travel insurance: What it covers and when it's worth it"
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/what-is-the-new-standard-deduction-for-seniors-over-65-and-how-do-you-claim-it-175232511.html",
+          "title_en": "What is the new standard deduction for seniors over 65, and how do you claim it?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "股市今日：道指、指数继续下滑；超微计算机大幅下挫，但戴尔大幅上涨（实时直播）",
+          "time": "2026-03-20 23:00:35",
+          "title": "航班混乱加剧，TSA短缺和暴风雨袭击。了解行程取消保险的要点。",
           "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-super-micro-smci/?src=A00220&yptr=yahoo",
-          "title_en": "Stock Market Today: Dow, Indexes Continue Their Slide; Super Micro Crashes, But Dell Rips Higher (Live Coverage)"
+          "url": "https://finance.yahoo.com/personal-finance/insurance/article/trip-cancellation-insurance-143909355.html",
+          "title_en": "Flight chaos grows as TSA shortages, storms hit. What to know about trip cancellation insurance."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
+          "time": "2026-03-20 23:00:35",
+          "title": "为何Mastercard Incorporated（MA）是长期增长投资者的核心持仓",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-mastercard-incorporated-ma-core-144144090.html",
+          "title_en": "Here’s Why Mastercard Incorporated (MA) is a Core Holding for Long-Term Growth Investors"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 23:00:35",
           "title": "每日焦点：各个行业并不平等",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46495_MarketOutlook_1774005713000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -570,34 +572,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "如何将401(k)（或403(b)或457(b））转移到个税退休账户（IRA）",
+          "time": "2026-03-20 23:00:35",
+          "title": "旅行中断保险：与旅行取消保险的区别",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/rollover-401k-403b-457b-ira-143000598.html",
-          "title_en": "How to Rollover Your 401k (or 403b or 457b) to an IRA"
+          "url": "https://finance.yahoo.com/personal-finance/insurance/article/trip-interruption-insurance-144103556.html",
+          "title_en": "Trip interruption insurance: How it differs from trip cancellation insurance"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "沃特斯公司（Waters Corporation）股票是否低于道指（Dow）的表现？",
+          "time": "2026-03-20 23:00:35",
+          "title": "斯里兰卡CA学院推出新商法与合规学院",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/waters-corporation-stock-underperforming-dow-023622799.html",
-          "title_en": "Is Waters Corporation Stock Underperforming the Dow?"
+          "url": "https://finance.yahoo.com/economy/policy/articles/ca-sri-lanka-introduces-business-144032940.html",
+          "title_en": "CA Sri Lanka introduces new business law and compliance faculty"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "Planet Labs 获得了业绩公布后的突破性跳空，空间股大幅上涨。",
+          "time": "2026-03-20 23:00:35",
+          "title": "为什么Aon plc (AON)成为低风险保险投资的首选",
           "summary": "",
-          "url": "https://www.investors.com/news/planet-labs-stock-breakout-earnings-firefly-aerospace-york-space-systems-space-stocks/?src=A00220&yptr=yahoo",
-          "title_en": "Planet Labs Scores Breakaway Gap On Results, These Space Stocks Fly"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-aon-plc-aon-stands-143648052.html",
+          "title_en": "Here’s Why Aon plc (AON) Stands Out as a Low-Risk Insurance Play"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
+          "time": "2026-03-20 23:00:35",
           "title": "分析报告：Micron Technology Inc",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3614_AnalystReport_1774004812000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -606,79 +608,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "布伦特原油价格一度突破每桶119美元，随后回落，全球股市大幅波动。",
+          "time": "2026-03-20 23:00:35",
+          "title": "有1000美元？这两只股票可能是2026年和以后的大买卖",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/articles/asian-shares-skid-oil-tops-030343647.html",
-          "title_en": "Brent crude briefly tops $119 per barrel, before receding, and shakes stock markets worldwide"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-000-2-stocks-could-144000684.html",
+          "title_en": "Have $1,000? These 2 Stocks Could Be Bargain Buys for 2026 and Beyond"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "一名宾夕法尼亚州退休人员因远程“任务骗局”工作损失了22.1万美元。以下是FTC提出的每个求职者必须知道的3个红旗：\n\n1. 不需要任何费用：如果有人要求你支付任何费用来获得工作机会或培训，那么这可能是一个骗局。\n\n2. 不需要任何经验：如果有人告诉你你不需要任何经验或技能来获得工作，那么这可能是一个骗局。\n\n3. 不需要任何背景调查：如果有人要求你提供个人信息或背景调查信息来获得工作，那么这可能是一个骗局。",
+          "time": "2026-03-20 23:00:35",
+          "title": "伯克希尔哈撒韦（BRK.B）进入新纪元，领导层交接超越华伦·巴菲特",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/pennsylvania-retiree-lost-221k-remote-140000309.html",
-          "title_en": "Pennsylvania retiree lost $221K to a remote ‘task scam’ job. Here are the FTC’s 3 red flags every job seeker must know"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-b-enters-143000649.html",
+          "title_en": "Berkshire Hathaway (BRK.B) Enters a New Era as Leadership Transitions Beyond Warren Buffett"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "在2026福布斯亿万富翁榜中，科技人才占据了首位——超级富豪如埃隆·马斯克的财富管理经验值得普通投资者学习。",
+          "time": "2026-03-20 23:00:35",
+          "title": "乘机旅行保险：它覆盖什么和什么时候值得购买",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tech-talent-tops-2026-forbes-140000500.html",
-          "title_en": "Tech talent tops the 2026 Forbes billionaires list — what everyday investors can learn from the superrich like Elon Musk"
+          "url": "https://finance.yahoo.com/personal-finance/insurance/article/flight-insurance-142759685.html",
+          "title_en": "Flight travel insurance: What it covers and when it's worth it"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "分析报告：切片工厂公司（The Cheesecake Factory Inc.）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_2804_AnalystReport_1774004812000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Cheesecake Factory Inc/The"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "一家投资基金在最新的SEC报告中增加了1.9百万股的公用事业股票。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hedge-fund-adds-1-9-142519911.html",
-          "title_en": "Hedge Fund Adds 1.9 Million Shares of Utility Stock, According to Latest SEC Filing"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "卡尔文纳（Carnival）股价是否低于道琼斯指数（Dow）?",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/carnival-stock-underperforming-dow-032108333.html",
-          "title_en": "Is Carnival Stock Underperforming the Dow?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "兰博基尼2025年利润受美国关税和电动化转变的影响。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lamborghini-2025-profit-dented-us-070205642.html",
-          "title_en": "Lamborghini 2025 profit dented by US tariffs and EV U-turn"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "财务压力正在损害关系，CFP委员会表示。顾问正在介入以提供帮助。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/finances-straining-relationships-cfp-board-040100237.html",
-          "title_en": "Finances Are Straining Relationships, CFP Board Says. Advisors Are Stepping in to Help"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
+          "time": "2026-03-20 23:00:35",
           "title": "分析报告：美国水务公司（American Water Works Co Inc）",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3673_AnalystReport_1774004812000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -687,11 +644,47 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 22:43:11",
-          "title": "Constellation 将出售 500 亿美元的 PJM 天然气资产给 LS Power",
+          "time": "2026-03-20 23:00:35",
+          "title": "股市今日：道指、指数继续下滑；超微计算机大幅下挫，但戴尔大幅上涨（实时直播）",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/constellation-sell-5-billion-pjm-040253212.html",
-          "title_en": "Constellation to Sell $5 Billion PJM Gas Assets to LS Power"
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-super-micro-smci/?src=A00220&yptr=yahoo",
+          "title_en": "Stock Market Today: Dow, Indexes Continue Their Slide; Super Micro Crashes, But Dell Rips Higher (Live Coverage)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 23:00:35",
+          "title": "Oracle 在未来两年将如何发展？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/where-oracle-2-years-143500683.html",
+          "title_en": "Where Will Oracle Be in 2 Years?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 23:00:35",
+          "title": "布伦特原油价格一度突破每桶119美元，随后回落，全球股市大幅波动。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/economy/articles/asian-shares-skid-oil-tops-030343965.html",
+          "title_en": "Brent crude briefly tops $119 per barrel, before receding, and shakes stock markets worldwide"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 23:00:35",
+          "title": "卡尔文纳（Carnival）股价是否低于道琼斯指数（Dow）?",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/carnival-stock-underperforming-dow-032108333.html",
+          "title_en": "Is Carnival Stock Underperforming the Dow?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 23:00:35",
+          "title": "分析报告：切片工厂公司（The Cheesecake Factory Inc.）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_2804_AnalystReport_1774004812000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Cheesecake Factory Inc/The"
         }
       ]
     }
