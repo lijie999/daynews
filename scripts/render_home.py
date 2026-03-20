@@ -291,9 +291,12 @@ def main() -> int:
       --sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
       --r: 18px;
       --S:#ff4d4d; --A:#ffb020; --B:#8b95a7;
+      --fs-body: 15px;
+      --fs-small: 12.5px;
+      --fs-title: 15.5px;
     }}
-    body{{margin:0;color:var(--text);font-family:var(--sans);background:radial-gradient(1000px 600px at 12% -10%, rgba(72,108,255,.20), rgba(7,11,22,0) 60%),linear-gradient(180deg,var(--bg1),var(--bg0));}}
-    .wrap{{max-width:1180px;margin:0 auto;padding:22px 18px 56px;display:grid;grid-template-columns: 1fr 320px;gap:16px;align-items:start}}
+    body{{margin:0;color:var(--text);font-family:var(--sans);font-size:var(--fs-body);background:radial-gradient(1000px 600px at 12% -10%, rgba(72,108,255,.20), rgba(7,11,22,0) 60%),linear-gradient(180deg,var(--bg1),var(--bg0));}}
+    .wrap{{max-width:1480px;margin:0 auto;padding:22px 18px 56px;display:grid;grid-template-columns: 1fr 360px;gap:16px;align-items:start}}
     @media (max-width: 980px){{.wrap{{grid-template-columns:1fr}} .side{{position:static !important; width:auto}}}}
 
     header{{border:1px solid var(--stroke);background:rgba(255,255,255,.06);border-radius:var(--r);padding:18px 16px;}}
@@ -305,9 +308,9 @@ def main() -> int:
     /* HERO (主线结论) */
     .hero{{margin-top:14px;border:1px solid rgba(255,255,255,.16);background:linear-gradient(180deg,rgba(255,255,255,.10),rgba(255,255,255,.05));border-radius:var(--r);padding:14px 14px 16px;}}
     .hero-top{{display:flex;justify-content:space-between;gap:10px;align-items:baseline;flex-wrap:wrap}}
-    .hero-title{{font-family:var(--serif);font-size:18px;font-weight:800;}}
+    .hero-title{{font-family:var(--serif);font-size:22px;font-weight:850;}}
     .hero-time{{font-family:var(--mono);font-size:12px;color:var(--muted)}}
-    .hero-body{{margin-top:10px;color:var(--text);font-size:13.5px;line-height:1.55}}
+    .hero-body{{margin-top:10px;color:var(--text);font-size:15.5px;line-height:1.6}}
 
     .card{{margin-top:14px;border:1px solid var(--stroke);background:rgba(255,255,255,.05);border-radius:var(--r);overflow:hidden}}
     .card h2{{margin:0;padding:14px 14px 12px;border-bottom:1px solid rgba(255,255,255,.10);font-family:var(--mono);font-size:12px;color:var(--muted);letter-spacing:.03em;display:flex;justify-content:space-between;align-items:center}}
@@ -323,16 +326,21 @@ def main() -> int:
     .rline{{display:flex;gap:10px;align-items:center}}
     .rtime{{font-family:var(--mono);font-size:11px;color:var(--muted)}}
     .rimpact{{font-family:var(--mono);font-size:11px;color:var(--faint);border:1px solid rgba(255,255,255,.12);padding:3px 8px;border-radius:999px;background:rgba(255,255,255,.04)}}
-    .rtitle{{margin-top:6px;display:block;font-size:14px;font-weight:820;line-height:1.25}}
-    .rsumm{{margin-top:6px;color:var(--muted);font-size:12.5px;line-height:1.45}}
+    .rtitle{{margin-top:6px;display:block;font-size:16px;font-weight:850;line-height:1.25}}
+    .rsumm{{margin-top:6px;color:var(--muted);font-size:14px;line-height:1.5}}
+
+    /* GRID */
+    .grid3{{display:grid;grid-template-columns: repeat(3, minmax(0, 1fr));gap:14px}}
+    @media (max-width: 1160px){{.grid3{{grid-template-columns: repeat(2, minmax(0, 1fr));}}}}
+    @media (max-width: 780px){{.grid3{{grid-template-columns: 1fr;}}}}
 
     /* ZONES (按品种) */
     .tlist{{padding:12px 14px 16px;display:flex;flex-direction:column;gap:10px}}
     .titem{{border:1px solid rgba(255,255,255,.10);background:rgba(0,0,0,.12);border-radius:16px;padding:10px 10px}}
     .tmeta{{display:flex;justify-content:space-between;gap:10px;align-items:baseline;flex-wrap:wrap}}
-    .ttime{{font-family:var(--mono);font-size:11px;color:var(--muted)}}
-    .tsrc{{font-family:var(--mono);font-size:11px;color:var(--faint)}}
-    .ttitle{{margin-top:6px;display:block;font-size:14px;font-weight:780;line-height:1.25}}
+    .ttime{{font-family:var(--mono);font-size:12.5px;color:var(--muted)}}
+    .tsrc{{font-family:var(--mono);font-size:12.5px;color:var(--faint)}}
+    .ttitle{{margin-top:6px;display:block;font-size:16px;font-weight:820;line-height:1.25}}
 
     .note{{font-family:var(--mono);font-size:12px;color:var(--muted);line-height:1.55}}
     a{{color:inherit;text-decoration:none}} a:hover{{text-decoration:underline}}
@@ -363,9 +371,12 @@ def main() -> int:
 
       {render_thesis()}
       {render_radar()}
-      {render_zone('指数（NQ/ES）','Index',zone_index)}
-      {render_zone('黄金（GC）','Gold',zone_gold)}
-      {render_zone('期权（QQQ/SPY/权重）','Options',zone_options)}
+
+      <div class=\"grid3\">
+        {render_zone('指数（NQ/ES）','Index',zone_index)}
+        {render_zone('黄金（GC）','Gold',zone_gold)}
+        {render_zone('期权（QQQ/SPY/权重）','Options',zone_options)}
+      </div>
 
       <section class=\"card\"><h2><span>其他（弱化）</span><span class=\"badge\">{len((sec_by.get('其他') or {}).get('items') or [])}</span></h2><div class=\"tlist\">{('<div class="note">（暂无）</div>' if not (sec_by.get('其他') or {}).get('items') else '')}</div></section>
     </main>
