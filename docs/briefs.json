@@ -1,6 +1,6 @@
 {
   "date": "2026.03.20",
-  "generatedAtBJT": "2026-03-20 08:00:58",
+  "generatedAtBJT": "2026-03-20 08:03:47",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-20 08:00:58",
+          "time": "2026-03-20 08:03:47",
           "title": "主线结论（自动生成）",
-          "summary": "- 地缘/避险：美联储通胀预期大幅上升，油价飙升带来压力。\n- 宏观/Fed：关注美联储2026年的预测：专家对政府政策的可能性做出什么样的评论。\n- 科技/半导体：Confluent (CFLT) 获得政府云服务认证，推动政府云服务的发展。\n- TSLA：特斯拉面临着NHTSA对“全自驾”功能的调查加剧。",
+          "summary": "- 地缘/避险：关注道瓊未來指數上漲、石油價格下跌、Nvidia因中國消息上漲…\n- 宏观/Fed：關注2026年3月18日HELOC和房屋抵押貸款利率：…\n- 科技/半导体：3家科技股有望從Nvidia GTC 2026交易中獲利… 关键词：nvidia，新，asml，中国，芯片\n- TSLA：關注特斯拉面臨著日益加劇的NHTSA對「全自駕」進行調查…",
           "url": "#",
-          "summary_en": "- 地缘/避险：关注 U.S. Inflation Expectations Surge Amid Oil Price Spikes…\n- 宏观/Fed：关注 Fed predictions for 2026: What experts say about the possibility…\n- 科技/半导体：Confluent (CFLT) Achieves FedRAMP Authorization for Government C… 关键词: new, nvidia, china, chip, micro\n- TSLA：关注 Tesla faces intensifying NHTSA probe of 'Full Self-Driving' in r…"
+          "summary_en": "- 地缘/避险：关注 Dow Jones Futures Rise, Oil Prices Fall, Nvidia Up On China News…\n- 宏观/Fed：关注 HELOC and home equity loan rates today, March 18, 2026: With the…\n- 科技/半导体：3 Tech Stocks That Could Profit from Nvidia GTC 2026 Deals… 关键词: nvidia, new, asml, china, chip\n- TSLA：关注 Tesla faces intensifying NHTSA probe of 'Full Self-Driving' in r…"
         }
       ]
     },
@@ -29,43 +29,52 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "康富特（CFLT）获得联邦政府云（FedRAMP）授权",
+          "time": "2026-03-20 08:03:43",
+          "title": "三家可能从Nvidia GTC 2026交易中受益的科技股",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/confluent-cflt-achieves-fedramp-authorization-162302596.html",
-          "title_en": "Confluent (CFLT) Achieves FedRAMP Authorization for Government Cloud"
+          "url": "https://finance.yahoo.com/news/3-tech-stocks-could-profit-120240503.html",
+          "title_en": "3 Tech Stocks That Could Profit from Nvidia GTC 2026 Deals"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "英伟达准备好在中国AI市场大赚钱",
+          "time": "2026-03-20 08:03:43",
+          "title": "ASML控股股份有限公司（ASML）受投资者对人工智能的乐观情绪的益处",
           "summary": "",
-          "url": "https://www.investors.com/news/technology/nvidia-stock-china-ai-opportunity-h200-orders/?src=A00220&yptr=yahoo",
-          "title_en": "Nvidia Preparing To Cash In On China AI Market"
+          "url": "https://finance.yahoo.com/news/asml-holding-n-v-asml-120537074.html",
+          "title_en": "ASML Holding N.V. (ASML) is Benefiting from Investors’ Optimism Around AI"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "BMG起诉Anthropic，指控后者在AI训练中使用了布鲁诺·马斯和滚石乐队的歌词。",
+          "time": "2026-03-20 08:03:43",
+          "title": "HIVE数字技术有限公司（HIVE）与AMC机器人合作推进人工智能机器人",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/bmg-sues-anthropic-using-bruno-160846608.html",
-          "title_en": "BMG sues Anthropic for using Bruno Mars, Rolling Stones lyrics in AI training"
+          "url": "https://finance.yahoo.com/news/hive-digital-technologies-ltd-hive-122649392.html",
+          "title_en": "HIVE Digital Technologies Ltd. (HIVE) Partners with AMC Robotics to Advance AI Robotics"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "NVent Electric 因数据中心需求推动新增长目标而大幅上涨",
+          "time": "2026-03-20 08:03:43",
+          "title": "CleanSpark, Inc. (CLSK) 目光转向 AI 和 HPC 机会来弥补 BTC 收入下降",
           "summary": "",
-          "url": "https://www.investors.com/news/technology/nvent-stock-investor-day-ai-targets/?src=A00220&yptr=yahoo",
-          "title_en": "NVent Electric Jumps As Data Center Demand Powers New Growth Targets"
+          "url": "https://finance.yahoo.com/news/cleanspark-inc-clsk-eyes-ai-122944012.html",
+          "title_en": "CleanSpark, Inc. (CLSK) Eyes AI and HPC Opportunities to Offset BTC Revenue Drop"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 08:03:43",
+          "title": "我正在为人工智能未来买入的两只股票",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/2-stocks-m-buying-future-120548422.html",
+          "title_en": "2 Stocks I’m Buying for the Future of AI Work"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
+          "time": "2026-03-20 08:03:43",
           "title": "超微股份下跌14%：创始人被捕涉嫌芯片走私案",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/super-micro-shares-slide-14-after-cofounder-arrested-for-chip-smuggling-scheme-4572132",
@@ -74,7 +83,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
+          "time": "2026-03-20 08:03:43",
           "title": "OpenAI计划开发桌面版“超级应用”，以简化用户体验，据WSJ报道。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/openai-plans-desktop-superapp-to-simplify-user-experience-wsj-reports-4572077",
@@ -83,7 +92,7 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:10",
+          "time": "2026-03-20 08:01:42",
           "title": "美国检察官指控Super Micro Computer员工将Nvidia芯片运往中国",
           "summary": "美国政府正在努力打击非法运输高端Nvidia人工智能芯片到中国。",
           "url": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html",
@@ -129,16 +138,6 @@
           "url": "https://www.marketwatch.com/story/planet-labs-stock-soars-as-the-satellite-company-says-ai-will-unlock-more-business-de4a262c?mod=mw_rss_topstories",
           "title_en": "Planet Labs’ stock soars as the satellite company says AI will unlock more business",
           "summary_en": "The company, a Google partner, delivered record revenue for its latest fiscal year, reflecting growing demand for satellite imagery."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-20 06:06:00",
-          "title": "软件股的“聪明钱”在那份流行的AI末日报告之后撤离了。现在它往哪里去呢？",
-          "summary": "西蒂尼大幅下跌不是恐慌，而是科技板块的X光检查。",
-          "url": "https://www.marketwatch.com/story/a-research-firms-obituary-for-software-stocks-vaporized-billions-heres-the-part-the-market-is-finally-admitting-698ad05b?mod=mw_rss_topstories",
-          "title_en": "The ‘smart money’ fled software stocks after that viral AI doomsday report. Here’s where it’s going.",
-          "summary_en": "The Citrini selloff wasn’t panic — it was an X-ray of the tech sector."
         },
         {
           "source": "CNBC-Top",
@@ -209,38 +208,56 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "2026年美联储的预测：专家关于今年降息的可能性说了什么",
+          "time": "2026-03-20 08:03:43",
+          "title": "今天，3月18日，HELOC和家庭抵押贷款利率：由于美联储暂停，利率仍然较高。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/fed-rate-predictions-2026-154647304.html",
-          "title_en": "Fed predictions for 2026: What experts say about the possibility of rate cuts this year"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-march-18-2025-100000875.html",
+          "title_en": "HELOC and home equity loan rates today, March 18, 2026: With the Fed on hold, rates are too"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "10年美国国债是美国政府发行的一种债券，期限为10年。",
+          "time": "2026-03-20 08:03:43",
+          "title": "截至2026年3月18日，今日最佳定期存款利率（最高可达4.1%APY）",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/10-year-treasury-note-170612896.html",
-          "title_en": "What is the 10-year Treasury note?"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-march-18-2026-100036940.html",
+          "title_en": "Best CD rates today, March 18, 2026 (Earn up to 4.1% APY)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "通胀恰好选择了最糟糕的时机出现",
+          "time": "2026-03-20 08:03:43",
+          "title": "截至2026年3月18日，最佳现金市场账户利率（最高可达4.01%APY）",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/inflation-picked-worst-possible-day-161228635.html",
-          "title_en": "Inflation Picked the Worst Possible Day to Come in This Hot"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-march-18-2026-100041568.html",
+          "title_en": "Best money market account rates today, March 18, 2026 (secure up to 4.01% APY)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "当美联储降息时，如何最大化利息收益",
+          "time": "2026-03-20 08:03:43",
+          "title": "截至2026年3月18日，最高回报高利率储蓄利率（最高可达4%APY）",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/maximize-interest-earnings-fed-cuts-rates-163621929.html",
-          "title_en": "How to maximize your interest earnings when the Fed cuts rates"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-march-18-2026-100018851.html",
+          "title_en": "Best high-yield savings interest rates today, March 18, 2026 (Earn up to 4% APY)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 08:03:43",
+          "title": "比特数字公司（BTBT）有利于利用数字财富模型",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/bit-digital-inc-btbt-positioned-122730653.html",
+          "title_en": "Bit Digital Inc. (BTBT) Positioned to Capitalize on Digital Treasury Model"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 08:03:43",
+          "title": "美联储国债购买计划料将趋于温和，随着对债券持仓进行调整",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/feds-treasury-bill-buying-track-122845187.html",
+          "title_en": "Fed's Treasury bill buying on track to moderate, amid work to rejigger bond holdings"
         },
         {
           "source": "CNBC-Top",
@@ -311,11 +328,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "美国通胀预期大幅上升 伴随石油价格大幅上涨",
+          "time": "2026-03-20 08:03:43",
+          "title": "道琼斯指数期货上涨，石油价格下跌，Nvidia因中国消息上涨；美联储和Micron的财报即将公布。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/u-inflation-expectations-surge-amid-163000811.html",
-          "title_en": "U.S. Inflation Expectations Surge Amid Oil Price Spikes"
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-rise-fed-decision-micron-earnings/?src=A00220&yptr=yahoo",
+          "title_en": "Dow Jones Futures Rise, Oil Prices Fall, Nvidia Up On China News; Fed, Micron Earnings Loom"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 08:03:43",
+          "title": "如果伊朗战争让你感到紧张和担心投资，戴夫拉姆斯(Dave Ramsey)给出的建议是：坚持你的计划",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/iran-war-rattled-worried-investments-123000793.html",
+          "title_en": "If the Iran war has you rattled and worried about your investments, Dave Ramsey offers blunt advice: stick to your plan"
         },
         {
           "source": "CNBC-World",
@@ -502,124 +528,79 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "一些Costco会员可能需要支付更高的费用来续订会员资格。",
+          "time": "2026-03-20 08:03:43",
+          "title": "雅克布解决方案股票是否低于纳斯达克指数的表现？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/costco-members-may-pay-more-163300419.html",
-          "title_en": "Some Costco members may pay more to renew their memberships"
+          "url": "https://finance.yahoo.com/news/jacobs-solutions-stock-underperforming-nasdaq-120321046.html",
+          "title_en": "Is Jacobs Solutions Stock Underperforming the Nasdaq?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "税款退税延迟影响多个州。你的州是否也受到了影响？",
+          "time": "2026-03-20 08:03:43",
+          "title": "阿里巴巴集团（BABA）被Polen国际成长基金列入贡献者名单",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refund-delays-hit-a-handful-of-states-is-yours-one-of-them-205225491.html",
-          "title_en": "Tax refund delays hit several states. Is yours one of them?"
+          "url": "https://finance.yahoo.com/news/why-alibaba-group-baba-contributors-120708361.html",
+          "title_en": "Here’s Why Alibaba Group (BABA) is on the Contributors List of Polen International Growth"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "联邦快递将关闭9个纽约包裹中心",
+          "time": "2026-03-20 08:03:43",
+          "title": "对半导体的赌注：逆向投资还是上当？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/fedex-shutter-9-york-parcel-162606260.html",
-          "title_en": "FedEx to shutter 9 New York parcel centers"
+          "url": "https://finance.yahoo.com/news/betting-against-semiconductors-contrarian-play-120332989.html",
+          "title_en": "Betting Against Semiconductors: Contrarian Play of Sucker Play?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "英特尔（INTC）是目前市值最低的科技股之一，但它是否是投资者眼中的最佳选择？",
+          "time": "2026-03-20 08:03:43",
+          "title": "Interactive Brokers 股票：IBKR是否优于金融行业？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/intel-intc-one-best-tech-162259290.html",
-          "title_en": "Is Intel (INTC) One of the Best Tech Stocks Under $50 to Buy Now?"
+          "url": "https://finance.yahoo.com/news/interactive-brokers-stock-ibkr-outperforming-121007601.html",
+          "title_en": "Interactive Brokers Stock: Is IBKR Outperforming the Financial Sector?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "Ecopetrol (EC) 2025年第二季度财报电话会议记录",
+          "time": "2026-03-20 08:03:43",
+          "title": "凯文·奥莱利：用50万美元就可以退休，不再工作。这种策略是一种财务奇迹还是危险的赌博？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/ecopetrol-ec-q2-2025-earnings-163123484.html",
-          "title_en": "Ecopetrol (EC) Q2 2025 Earnings Call Transcript"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/kevin-o-leary-retire-500k-121100202.html",
+          "title_en": "Kevin O’Leary: Retire on $500K and never work again. Is this strategy a financial miracle or a dangerous gamble?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "KeyBanc启动Chime (CHYM)覆盖，给予超重评级",
+          "time": "2026-03-20 08:03:43",
+          "title": "在S&P 500指数中，VeriSign股价的表现是否不及格？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/keybanc-initiates-chime-chym-coverage-162350230.html",
-          "title_en": "KeyBanc Initiates Chime (CHYM) Coverage With Overweight Rating"
+          "url": "https://finance.yahoo.com/news/verisign-stock-underperforming-p-500-121413833.html",
+          "title_en": "Is VeriSign Stock Underperforming the S&P 500?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "惠普在摩根士丹利会议上回应挑战",
+          "time": "2026-03-20 08:03:43",
+          "title": "奥克洛（Oklo）刚刚获得了NRC许可证。现在是买奥克洛股票的好时机吗？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/hp-hpq-morgan-stanley-conference-162349311.html",
-          "title_en": "HP (HPQ) at Morgan Stanley Conference, Responding to Challenges"
+          "url": "https://finance.yahoo.com/news/oklo-just-scored-nrc-license-121501213.html",
+          "title_en": "Oklo Just Scored an NRC License. Should You Buy OKLO Stock Here?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "摩根士丹利将Cognex（CGNX）从卖出评级提升至中性评级。",
+          "time": "2026-03-20 08:03:43",
+          "title": "美国证券交易委员会（SEC）批准了XRP ETF，允许投资者乘坐加密货币的牛市",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/jpmorgan-upgrades-cognex-cgnx-underweight-162312355.html",
-          "title_en": "JPMorgan Upgrades Cognex (CGNX) from Underweight to Neutral"
+          "url": "https://finance.yahoo.com/news/sec-approved-xrp-etfs-let-120412201.html",
+          "title_en": "SEC Approved XRP ETFs That Let You Ride The Crypto Boom"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "Ecopetrol (EC) Q1 2025 earnings call会话记录",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/ecopetrol-ec-q1-2025-earnings-163204558.html",
-          "title_en": "Ecopetrol (EC) Q1 2025 Earnings Call Transcript"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "摩根大通和美国银行继续对Dynatrace持bullish态度。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/bmo-bofa-stay-bullish-dynatrace-162308414.html",
-          "title_en": "BMO and BofA Stay Bullish on Dynatrace (DT)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "分析师对Unity软件(U)持乐观态度，BofA提高了评级",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/analysts-positive-unity-software-u-162301603.html",
-          "title_en": "Analysts Positive on Unity Software (U), BofA Upgrades Rating"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "威廉布莱尔维持对Fidelity National Information Services（FIS）的超越评级。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/william-blair-keeps-outperform-rating-162305994.html",
-          "title_en": "William Blair Keeps Outperform Rating on Fidelity National Information Services (FIS)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "分析师对惠普企业（HPE）保持中立态度后财报公布",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/analysts-stay-neutral-hewlett-packard-162307834.html",
-          "title_en": "Analysts Stay Neutral on Hewlett Packard Enterprise (HPE) After Earnings"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
+          "time": "2026-03-20 08:03:43",
           "title": "分析报告：威廉姆斯-桑诺马公司（Williams-Sonoma Inc）",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3537_AnalystReport_1773939705000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -628,38 +609,83 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "这家能源股在上季度向股东返还了1.31亿美元，但仍有一只基金在上季度卖出了4.8亿美元的股份。",
+          "time": "2026-03-20 08:03:43",
+          "title": "联邦储备委员会（FOMC）会议后，航空股大幅上涨，包括联邦快递（FDX）和美国航空（AAL）。然而，联航（UAL）股价在过去的三个月中表现出色，股价上涨了近20%，高于道指（Dow Jones Industrial Average）和标普500指数（S&P 500）。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/energy-stock-returned-131-million-162942506.html",
-          "title_en": "This Energy Stock Returned $131 Million to Shareholders Last Quarter, but One Fund Still Sold Off $48 Million in Shares"
+          "url": "https://finance.yahoo.com/news/united-airlines-stock-outperforming-dow-121648179.html",
+          "title_en": "Is United Airlines Stock Outperforming the Dow?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "Stifel和Morgan Stanley下调Figma (FIG)价格目标后Q4财报",
+          "time": "2026-03-20 08:03:43",
+          "title": "玉米周三早晨价格下跌",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/stifel-morgan-stanley-lower-figma-162310173.html",
-          "title_en": "Stifel and Morgan Stanley Lower Figma (FIG) Price Targets After Q4 Earnings"
+          "url": "https://finance.yahoo.com/news/corn-easing-lower-wednesday-morning-122029987.html",
+          "title_en": "Corn Easing Lower on Wednesday Morning"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "Truist和DA Davidson降低了Toast (TOST)的价格目标，之后第四季度财报公布。",
+          "time": "2026-03-20 08:03:43",
+          "title": "豆类价格持续下跌，周中交易开始时再次下滑。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/truist-da-davidson-lower-toast-162304102.html",
-          "title_en": "Truist and DA Davidson Lower Toast (TOST) Price Targets After Q4 Results"
+          "url": "https://finance.yahoo.com/news/soybeans-extending-back-lower-start-122029110.html",
+          "title_en": "Soybeans Extending Back Lower to Start the Midweek Session"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-20 08:00:54",
-          "title": "IRS人力资源减员27%，可能会影响你的退税。",
+          "time": "2026-03-20 08:03:43",
+          "title": "贝克斯特（Baxter）的股票表现如何与其他医疗设备股票相比？",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/taxes/article/a-27-drop-in-irs-staffing-could-impact-your-refund-heres-how-130052195.html",
-          "title_en": "A 27% drop in IRS staffing could impact your refund. Here's how."
+          "url": "https://finance.yahoo.com/news/baxters-stock-performance-compared-other-122245826.html",
+          "title_en": "How Is Baxter's Stock Performance Compared to Other Medical Devices Stocks?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 08:03:43",
+          "title": "4月可能是里维安投资者一直在等待的转折点",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/why-april-could-turning-point-120500776.html",
+          "title_en": "Why April Could Be the Turning Point Rivian Investors Have Been Waiting for"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 08:03:43",
+          "title": "市场动态： \n\n1. 大运河股份（SJM）：大运河股份2023年年报显示，公司实现营业收入1,051.41亿元，同比增长15.41%；归属于上市公司股东的净利润为51.41亿元，同比增长34.19%。 \n\n2. 威斯敏斯特（WSM）：威斯敏斯特2023年年报显示，公司实现营业收入为43.35亿美元，同比增长6.3%；归属于威斯敏斯特股东的净利润为4.45亿美元，同比增长13.4%。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46487_MarketUpdate_1773938805000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Market Update: SJM, WSM"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 08:03:43",
+          "title": "ATM股是否超越S&P 500指数",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/atmos-energy-stock-outperforming-p-122743926.html",
+          "title_en": "Is Atmos Energy Stock Outperforming the S&P 500?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 08:03:43",
+          "title": "美洲最大电商MercadoLibre (MELI) 股价下跌，主要原因是其营运利润率下滑。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/mercadolibre-meli-slid-following-decline-122747216.html",
+          "title_en": "MercadoLibre (MELI) Slid Following a Decline in Operating Margin"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-20 08:03:43",
+          "title": "2万美元药品上限正在为退休的 Medicare 受益者节省超过 1.5 万美元的年费。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/2-000-drug-cap-saving-120431064.html",
+          "title_en": "The $2,000 Drug Cap Is Saving Medicare Retirees Over $1,500 a Year Right Now"
         }
       ]
     }
