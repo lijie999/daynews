@@ -259,39 +259,75 @@ def main() -> int:
         return [w for w, _n in top[:k]]
 
     def _summary_lines(b: dict[str, list[dict[str, Any]]]) -> list[str]:
-        # Pull a few signals from the freshest items in each bucket.
+        """Generate a more systematic 'main thesis' block.
+
+        Offline-friendly: we only use headline heuristics + the freshest items.
+        Output is short, structured, and oriented to day-trading.
+        """
         lines: list[str] = []
 
         risk = b.get("地缘/能源/避险") or []
-        if risk:
-            lines.append(f"地缘/避险：关注 {risk[0].get('headline','').strip()[:64]}…")
-
         macro = b.get("美联储与政策") or []
-        if macro:
-            lines.append(f"宏观/Fed：关注 {macro[0].get('headline','').strip()[:64]}…")
-
         tech = b.get("七姐妹与半导体链") or []
-        if tech:
-            # Add a light keyword tag to avoid a generic sentence.
-            kw = _hot_words(tech, k=5)
-            tag = ("关键词: " + ", ".join(kw)) if kw else ""
-            head = str(tech[0].get("headline") or "").strip()[:64]
-            lines.append(f"科技/半导体：{head}…{(' ' + tag) if tag else ''}")
-
         tsla_chain = b.get("特斯拉链") or []
-        if tsla_chain:
-            lines.append(f"TSLA：关注 {tsla_chain[0].get('headline','').strip()[:64]}…")
 
-        # Keep it tight.
-        return lines[:5]
+        def head(items: list[dict[str, Any]]) -> str:
+            if not items:
+                return ""
+            return str(items[0].get("headline") or "").strip()[:72]
+
+        # 1) 主导因子（1-2个）
+        drivers: list[str] = []
+        if macro:
+            drivers.append("10Y/利率")
+        if risk:
+            drivers.append("原油/风险事件")
+        if tech or tsla_chain:
+            drivers.append("权重/财报/监管")
+        if not drivers:
+            drivers = ["10Y/利率", "VIX/风险偏好"]
+        drivers = drivers[:2]
+        lines.append(f"主导因子：{drivers[0]}{(' + ' + drivers[1]) if len(drivers) > 1 else ''}")
+
+        # 2) 四件套占位（无实时行情时，给监控要点）
+        lines.append("四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）")
+
+        # 3) 跨资产联动（通用结论）
+        lines.append("跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破")
+
+        # 4) 关键窗口（未来90分钟占位）
+        lines.append("未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单")
+
+        # 5) 两套情���（条件触发型；离线用通用触发）
+        lines.append("情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势")
+        lines.append("情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高")
+
+        # 6) 期权一句（通用）
+        lines.append("期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动")
+
+        # 7) 本轮线索（引用最新标题，帮助快速定位）
+        hints: list[str] = []
+        if risk:
+            hints.append(f"地缘/避险线索：{head(risk)}…")
+        if macro:
+            hints.append(f"宏观/Fed线索：{head(macro)}…")
+        if tech:
+            kw = _hot_words(tech, k=4)
+            tag = ("关键词:" + ",".join(kw)) if kw else ""
+            hints.append(f"科技/半导体线索：{head(tech)}… {tag}".strip())
+        if tsla_chain:
+            hints.append(f"TSLA线索：{head(tsla_chain)}…")
+        if hints:
+            lines.append("——")
+            lines.extend(hints[:3])
+
+        # keep within ~10 lines
+        return lines[:10]
 
     lines = _summary_lines(buckets)
-    if not lines:
-        lines = ["今日暂无明显主线（样本较少/来源暂无更新），以下为分板块快讯。"]
-
     buckets["主线结论"] = [
         {
-            "headline": "主线结论（自动生成）",
+            "headline": "主线结论（系统版｜条件触发）",
             "summary": "\n".join(f"- {ln}" for ln in lines),
             "source": "DayNews",
             "related": "SUMMARY",
