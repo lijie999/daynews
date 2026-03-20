@@ -43,13 +43,15 @@ def main() -> int:
     generated = data.get("generatedAtBJT") or now.strftime("%Y-%m-%d %H:%M:%S")
     sections = data.get("sections") or []
 
-    # Keep only the main four + optional other
+    # Keep only known sections
     allow = {"主线结论", "七姐妹与半导体链", "美联储与政策", "地缘/能源/避险", "特斯拉链", "其他"}
     sections = [s for s in sections if (s.get("name") in allow)]
 
+    # Index by name
+    sec_by = {str(s.get("name")): s for s in sections if s.get("name")}
+
     history = _history_files()
 
-    # Render sections from briefs.json (already translated where available)
     def esc(s: str) -> str:
         return (
             (s or "")
@@ -58,36 +60,214 @@ def main() -> int:
             .replace(">", "&gt;")
         )
 
+    def pick_items(*names: str) -> list[dict]:
+        out: list[dict] = []
+        for n in names:
+            out.extend((sec_by.get(n) or {}).get("items") or [])
+        return out
+
+    def _badge_for(it: dict) -> str:
+        # Severity tagging based on keywords (trade-desk heuristic).
+        t = ((it.get("title") or "") + " " + (it.get("summary") or "")).lower()
+        hot = any(
+            k in t
+            for k in [
+                "fomc",
+                "cpi",
+                "ppi",
+                "nfp",
+                "payroll",
+                "fed",
+                "powell",
+                "rate",
+                "rates",
+                "yield",
+                "treasury",
+                "auction",
+                "opec",
+                "iran",
+                "israel",
+                "missile",
+                "strike",
+                "sanction",
+                "ceasefire",
+            ]
+        )
+        warm = any(
+            k in t
+            for k in [
+                "earnings",
+                "guidance",
+                "sec",
+                "doj",
+                "lawsuit",
+                "ban",
+                "tariff",
+                "antitrust",
+            ]
+        )
+        if hot:
+            return "S"
+        if warm:
+            return "A"
+        return "B"
+
+    def _short_impact(it: dict) -> str:
+        txt = ((it.get("title") or "") + " " + (it.get("summary") or "")).lower()
+        impact: list[str] = []
+        if any(k in txt for k in ["nasdaq", "s&p", "stocks", "equity", "chip", "nvidia", "apple", "microsoft", "tesla", "semiconductor"]):
+            impact.append("NQ/ES")
+        if any(k in txt for k in ["gold", "xau", "bullion"]):
+            impact.append("GC")
+        if any(k in txt for k in ["yield", "treasury", "bond", "rates", "10-year", "2-year", "auction"]):
+            impact.append("利率")
+        if any(k in txt for k in ["dollar", "dxy", "usd", "fx"]):
+            impact.append("美元")
+        if any(k in txt for k in ["vix", "volatility", "options", "0dte"]):
+            impact.append("VIX/期权")
+        if not impact:
+            impact.append("综合")
+        seen: set[str] = set()
+        impact = [x for x in impact if not (x in seen or seen.add(x))]
+        return "/".join(impact[:3])
+
+    def _t(it: dict) -> str:
+        return esc(it.get("time") or "")
+
+    def render_thesis() -> str:
+        sec = sec_by.get("主线结论") or {}
+        items = sec.get("items") or []
+        if not items:
+            return '<section class="hero"><div class="note">（暂无主线结论）</div></section>'
+        it = items[0]
+        title = esc(it.get("title") or "主线结论")
+        tm = esc(it.get("time") or "")
+        summ = esc(it.get("summary") or "").replace("\n", "<br>")
+        return (
+            '<section class="hero">'
+            '<div class="hero-top">'
+            f'<div class="hero-title">{title}</div>'
+            f'<div class="hero-time">{tm}</div>'
+            '</div>'
+            f'<div class="hero-body">{summ}</div>'
+            '</section>'
+        )
+
+    def render_radar() -> str:
+        pool = pick_items("美联储与政策", "地缘/能源/避险", "七姐妹与半导体链", "特斯拉链")
+        seen: set[str] = set()
+        uniq: list[dict] = []
+        for it in pool:
+            k = (it.get("url") or "") + "|" + (it.get("title") or "")
+            if not k.strip() or k in seen:
+                continue
+            seen.add(k)
+            uniq.append(it)
+
+        def score(it: dict) -> int:
+            b = _badge_for(it)
+            return 200 if b == "S" else (100 if b == "A" else 0)
+
+        uniq.sort(key=lambda it: (score(it), _t(it)), reverse=True)
+
+        def row(it: dict) -> str:
+            b = _badge_for(it)
+            title = esc(it.get("title") or "")
+            url = esc(it.get("url") or "#")
+            tm = _t(it)
+            impact = esc(_short_impact(it))
+            summ = esc(it.get("summary") or "").replace("\n", " ")
+            if len(summ) > 120:
+                summ = summ[:120] + "…"
+            return (
+                '<div class="ritem">'
+                f'<div class="rbadge r{b}">{b}</div>'
+                '<div class="rmain">'
+                f'<div class="rline"><span class="rtime">{tm}</span><span class="rimpact">{impact}</span></div>'
+                f'<a class="rtitle" href="{url}" target="_blank" rel="noreferrer noopener">{title}</a>'
+                f'<div class="rsumm">{summ}</div>'
+                '</div>'
+                '</div>'
+            )
+
+        s_list = [it for it in uniq if _badge_for(it) == "S"][:10]
+        a_list = [it for it in uniq if _badge_for(it) == "A"][:10]
+
+        def block(name: str, items: list[dict]) -> str:
+            if not items:
+                body = '<div class="note">（暂无）</div>'
+            else:
+                body = "\n".join(row(it) for it in items)
+            return (
+                '<section class="card">'
+                f'<h2><span>{esc(name)}</span><span class="badge">{len(items)}</span></h2>'
+                f'<div class="radar">{body}</div>'
+                '</section>'
+            )
+
+        return block("事件雷达｜S级", s_list) + block("事件雷达｜A级", a_list)
+
+    def render_zone(name: str, badge: str, items: list[dict]) -> str:
+        seen: set[str] = set()
+        uniq: list[dict] = []
+        for it in items:
+            k = (it.get("url") or "") + "|" + (it.get("title") or "")
+            if not k.strip() or k in seen:
+                continue
+            seen.add(k)
+            uniq.append(it)
+
+        rows: list[str] = []
+        for it in uniq[:18]:
+            title = esc(it.get("title") or "")
+            url = esc(it.get("url") or "#")
+            tm = _t(it)
+            src = esc(it.get("source") or "")
+            ticker = esc(it.get("ticker") or "")
+            rows.append(
+                '<div class="titem">'
+                f'<div class="tmeta"><span class="ttime">{tm}</span><span class="tsrc">{src} · {ticker}</span></div>'
+                f'<a class="ttitle" href="{url}" target="_blank" rel="noreferrer noopener">{title}</a>'
+                '</div>'
+            )
+        body = "\n".join(rows) if rows else '<div class="note">（暂无）</div>'
+        return (
+            '<section class="card">'
+            f'<h2><span>{esc(name)}</span><span class="badge">{esc(badge)}</span></h2>'
+            f'<div class="tlist">{body}</div>'
+            '</section>'
+        )
+
+    # Trade-desk zones (best-effort mapping from existing sections)
+    zone_index = pick_items("七姐妹与半导体链", "美联储与政策")
+    zone_gold = pick_items("地缘/能源/避险", "美联储与政策")
+    zone_options = pick_items("七姐妹与半导体链", "特斯拉链")
+
     def sec_html(sec: dict) -> str:
+        # Legacy raw view (compact)
         name = esc(sec.get("name") or "")
         badge = esc(sec.get("badge") or "")
         items = sec.get("items") or []
-        body = []
+        rows: list[str] = []
         for it in items[:18]:
             title = esc(it.get("title") or "")
-            summ = esc(it.get("summary") or "")
-            tm = esc(it.get("time") or "")
+            tm = _t(it)
             src = esc(it.get("source") or "")
             ticker = esc(it.get("ticker") or "")
             url = esc(it.get("url") or "#")
             if not title:
                 continue
-            body.append(
-                "<div class=\"item\">"
-                f"<div class=\"top\"><div class=\"src\">{src} · {ticker}</div><div class=\"time\">{tm}</div></div>"
-                f"<a href=\"{url}\" target=\"_blank\" rel=\"noreferrer noopener\"><div class=\"title\">{title}</div></a>"
-                f"<p class=\"meta\">{summ}</p>"
-                "</div>"
+            rows.append(
+                '<div class="titem">'
+                f'<div class="tmeta"><span class="ttime">{tm}</span><span class="tsrc">{src} · {ticker}</span></div>'
+                f'<a class="ttitle" href="{url}" target="_blank" rel="noreferrer noopener">{title}</a>'
+                '</div>'
             )
-        if not body:
-            body_html = '<div class="note">（暂无）</div>'
-        else:
-            body_html = "\n".join(body)
-
+        body_html = "\n".join(rows) if rows else '<div class="note">（暂无）</div>'
         return (
             '<section class="card">'
             f'<h2><span>{name}</span><span class="badge">{badge}</span></h2>'
-            f'<div class="items">{body_html}</div>'
+            f'<div class="tlist">{body_html}</div>'
             '</section>'
         )
 
@@ -110,9 +290,10 @@ def main() -> int:
       --serif: ui-serif, "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
       --sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
       --r: 18px;
+      --S:#ff4d4d; --A:#ffb020; --B:#8b95a7;
     }}
     body{{margin:0;color:var(--text);font-family:var(--sans);background:radial-gradient(1000px 600px at 12% -10%, rgba(72,108,255,.20), rgba(7,11,22,0) 60%),linear-gradient(180deg,var(--bg1),var(--bg0));}}
-    .wrap{{max-width:1160px;margin:0 auto;padding:22px 18px 56px;display:grid;grid-template-columns: 1fr 320px;gap:16px;align-items:start}}
+    .wrap{{max-width:1180px;margin:0 auto;padding:22px 18px 56px;display:grid;grid-template-columns: 1fr 320px;gap:16px;align-items:start}}
     @media (max-width: 980px){{.wrap{{grid-template-columns:1fr}} .side{{position:static !important; width:auto}}}}
 
     header{{border:1px solid var(--stroke);background:rgba(255,255,255,.06);border-radius:var(--r);padding:18px 16px;}}
@@ -121,16 +302,38 @@ def main() -> int:
     h1{{margin:10px 0 6px;font-family:var(--serif);font-size: clamp(26px, 4.2vw, 46px);line-height:1.1}}
     .sub{{margin:0;color:var(--muted);line-height:1.6;max-width:90ch;font-size:14.5px}}
 
+    /* HERO (主线结论) */
+    .hero{{margin-top:14px;border:1px solid rgba(255,255,255,.16);background:linear-gradient(180deg,rgba(255,255,255,.10),rgba(255,255,255,.05));border-radius:var(--r);padding:14px 14px 16px;}}
+    .hero-top{{display:flex;justify-content:space-between;gap:10px;align-items:baseline;flex-wrap:wrap}}
+    .hero-title{{font-family:var(--serif);font-size:18px;font-weight:800;}}
+    .hero-time{{font-family:var(--mono);font-size:12px;color:var(--muted)}}
+    .hero-body{{margin-top:10px;color:var(--text);font-size:13.5px;line-height:1.55}}
+
     .card{{margin-top:14px;border:1px solid var(--stroke);background:rgba(255,255,255,.05);border-radius:var(--r);overflow:hidden}}
     .card h2{{margin:0;padding:14px 14px 12px;border-bottom:1px solid rgba(255,255,255,.10);font-family:var(--mono);font-size:12px;color:var(--muted);letter-spacing:.03em;display:flex;justify-content:space-between;align-items:center}}
     .badge{{font-family:var(--mono);font-size:11px;padding:6px 10px;border:1px solid rgba(255,255,255,.14);border-radius:999px;background:rgba(255,255,255,.05);color:var(--muted)}}
-    .items{{padding:12px 14px 16px;display:flex;flex-direction:column;gap:10px}}
-    .item{{border:1px solid rgba(255,255,255,.10);background:rgba(0,0,0,.12);border-radius:16px;padding:10px 10px}}
-    .top{{display:flex;justify-content:space-between;gap:10px;align-items:baseline}}
-    .src{{font-family:var(--mono);font-size:11px;color:var(--faint)}}
-    .time{{font-family:var(--mono);font-size:11px;color:var(--muted)}}
-    .title{{margin:6px 0 6px;font-size:14px;font-weight:780;line-height:1.25}}
-    .meta{{margin:0;color:var(--muted);font-size:12.5px;line-height:1.45}}
+
+    /* RADAR */
+    .radar{{padding:12px 14px 16px;display:flex;flex-direction:column;gap:10px}}
+    .ritem{{display:grid;grid-template-columns: 34px 1fr;gap:10px;border:1px solid rgba(255,255,255,.10);background:rgba(0,0,0,.12);border-radius:16px;padding:10px 10px}}
+    .rbadge{{font-family:var(--mono);font-weight:900;font-size:12px;display:flex;align-items:center;justify-content:center;border-radius:12px;border:1px solid rgba(255,255,255,.18);height:34px;}}
+    .rS{{background:rgba(255,77,77,.18);color:#ffd7d7;border-color:rgba(255,77,77,.35)}}
+    .rA{{background:rgba(255,176,32,.18);color:#ffe7b6;border-color:rgba(255,176,32,.35)}}
+    .rB{{background:rgba(139,149,167,.12);color:#d6dbe6;border-color:rgba(139,149,167,.25)}}
+    .rline{{display:flex;gap:10px;align-items:center}}
+    .rtime{{font-family:var(--mono);font-size:11px;color:var(--muted)}}
+    .rimpact{{font-family:var(--mono);font-size:11px;color:var(--faint);border:1px solid rgba(255,255,255,.12);padding:3px 8px;border-radius:999px;background:rgba(255,255,255,.04)}}
+    .rtitle{{margin-top:6px;display:block;font-size:14px;font-weight:820;line-height:1.25}}
+    .rsumm{{margin-top:6px;color:var(--muted);font-size:12.5px;line-height:1.45}}
+
+    /* ZONES (按品种) */
+    .tlist{{padding:12px 14px 16px;display:flex;flex-direction:column;gap:10px}}
+    .titem{{border:1px solid rgba(255,255,255,.10);background:rgba(0,0,0,.12);border-radius:16px;padding:10px 10px}}
+    .tmeta{{display:flex;justify-content:space-between;gap:10px;align-items:baseline;flex-wrap:wrap}}
+    .ttime{{font-family:var(--mono);font-size:11px;color:var(--muted)}}
+    .tsrc{{font-family:var(--mono);font-size:11px;color:var(--faint)}}
+    .ttitle{{margin-top:6px;display:block;font-size:14px;font-weight:780;line-height:1.25}}
+
     .note{{font-family:var(--mono);font-size:12px;color:var(--muted);line-height:1.55}}
     a{{color:inherit;text-decoration:none}} a:hover{{text-decoration:underline}}
 
@@ -150,15 +353,21 @@ def main() -> int:
     <main>
       <header>
         <div class=\"k\">
-          <span class=\"pill\">当日 24h 快讯与分析</span>
+          <span class=\"pill\">交易台模式（主线→雷达→分品种）</span>
           <span class=\"pill\">最后更新：{esc(generated)}（北京时间）</span>
           <span class=\"pill\">数据：briefs.json</span>
         </div>
         <h1>DayNews · {date}</h1>
-        <p class=\"sub\">首页只展示近 24 小时的重点（以缓存源时间为准）。点击标题跳转原文；历史在右侧悬浮模块。</p>
+        <p class=\"sub\">先读主线结论（3秒），再扫事件雷达（30秒），最后按品种浏览（3分钟）。</p>
       </header>
 
-      {"\n".join(sec_html(s) for s in sections)}
+      {render_thesis()}
+      {render_radar()}
+      {render_zone('指数（NQ/ES）','Index',zone_index)}
+      {render_zone('黄金（GC）','Gold',zone_gold)}
+      {render_zone('期权（QQQ/SPY/权重）','Options',zone_options)}
+
+      <section class=\"card\"><h2><span>其他（弱化）</span><span class=\"badge\">{len((sec_by.get('其他') or {}).get('items') or [])}</span></h2><div class=\"tlist\">{('<div class="note">（暂无）</div>' if not (sec_by.get('其他') or {}).get('items') else '')}</div></section>
     </main>
 
     <aside class=\"side\">
