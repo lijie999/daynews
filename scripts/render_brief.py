@@ -2,8 +2,9 @@
 """Render DayNews briefing HTML.
 
 This is intentionally deterministic and offline-friendly:
-- Uses cached Finnhub JSON files when present.
-- Optionally enriches with Tavily search results if TAVILY_API_KEY is set.
+- Uses free RSS cache when present.
+- Falls back to cached Finnhub JSON files when present.
+- (Optional) Can be enriched by external search, but the default path is no-key.
 
 Output:
 - docs/每日财经早报YYYY.MM.DD.html
