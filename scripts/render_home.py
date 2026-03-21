@@ -176,11 +176,13 @@ def main() -> int:
             except Exception:
                 pass
         
-        # 收集素材
+        # 收集素材（内部 + 外部源）
         market_news = []
         fed_news = []
         geo_news = []
+        external_news = []
         
+        # 1. 从现有 sections 提取
         for sec in sections:
             name = sec.get("name", "")
             items = sec.get("items", [])[:5]
@@ -192,8 +194,37 @@ def main() -> int:
             elif name in ["七姐妹与半导体链", "特斯拉链"]:
                 market_news.extend([f"- {it.get('title', '')[:85]}" for it in items if it.get('title')])
         
-        # 构建prompt
-        materials = f"""市场/科技：
+        # 2. 让 AI 抓取外部新闻源（通过 agent 调用 web_search）
+        external_summary = ""
+        try:
+            search_task = """请用 web_search 工具搜索今日美股市场新闻（Yahoo Finance 或 CNBC），提取 3-5 个关键标题，用简短列表返回（每条不超过 80 字）。
+
+搜索关键词建议：
+- site:finance.yahoo.com stock market today
+- site:cnbc.com market news
+
+直接返回标题列表，不要解释过程。"""
+
+            result = subprocess.run(
+                ["openclaw", "agent",
+                 "--session-id", "daynews-external-fetch",
+                 "--message", search_task,
+                 "--timeout", "20"],
+                capture_output=True,
+                text=True,
+                timeout=25
+            )
+            
+            if result.returncode == 0:
+                output = result.stdout.strip()
+                if output and len(output) > 30 and not output.startswith("NO_REPLY"):
+                    external_summary = output
+        except Exception:
+            pass
+        
+        # 构建prompt（整合内部 + 外部源）
+        materials = f"""【内部数据源】
+市场/科技：
 {chr(10).join(market_news[:8]) if market_news else '（无）'}
 
 美联储/政策：
@@ -202,7 +233,10 @@ def main() -> int:
 地缘/能源：
 {chr(10).join(geo_news[:5]) if geo_news else '（无）'}"""
 
-        prompt = f"""基于以下今日财经新闻标题，生成200字以内的市场主线结论，格式如下：
+        if external_summary:
+            materials += f"\n\n【外部新闻源（Yahoo/CNBC 今日头条）】\n{external_summary}"
+
+        prompt = f"""基于以下今日财经新闻（内部数据 + 外部主流媒体），生成200字以内的市场主线结论：
 
 {materials}
 
