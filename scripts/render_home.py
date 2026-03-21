@@ -175,81 +175,59 @@ def main() -> int:
 
     def render_market_pulse() -> str:
         """
-        抓取外部市场新闻源 + AI 总结生成「市场脉搏」卡片
-        使用缓存避免频繁调用（缓存 30 分钟）
+        市场脉搏：从现有数据中提取关键市场动态摘要
+        TODO: 后续可接入 web_search 调用外部源（Yahoo/CNBC/MarketWatch）
         """
-        import time
+        # 简化版本1：从现有sections中提取关键指标型新闻
+        key_items = []
         
-        # 检查缓存
-        if MARKET_PULSE_CACHE.exists():
-            try:
-                cache = json.loads(MARKET_PULSE_CACHE.read_text(encoding="utf-8"))
-                cache_time = cache.get("timestamp", 0)
-                if time.time() - cache_time < 1800:  # 30分钟缓存
-                    html = cache.get("html", "")
-                    if html:
-                        return html
-            except Exception:
-                pass
+        for sec in sections:
+            name = sec.get("name", "")
+            items = sec.get("items", [])
+            
+            if name in ["美联储与政策", "地缘/能源/避险"]:
+                for it in items[:3]:
+                    title = it.get("title", "")
+                    # 筛选包含关键市场指标的新闻
+                    if any(k in title.lower() for k in [
+                        "dow", "s&p", "nasdaq", "stock market", "指数",
+                        "treasury", "yield", "利率", "fed", "inflation"
+                    ]):
+                        key_items.append({
+                            "title": title[:90],
+                            "time": it.get("time", ""),
+                            "source": it.get("source", "")
+                        })
         
-        # 生成新的市场脉搏（调用 OpenClaw CLI web_search）
-        try:
-            # 搜索多个关键词
-            queries = [
-                "site:finance.yahoo.com stock market news today",
-                "site:cnbc.com market wrap",
-                "site:marketwatch.com stocks today"
-            ]
-            
-            all_results = []
-            for query in queries[:2]:  # 限制2个查询避免过度消耗
-                result = subprocess.run(
-                    ["openclaw", "web-search", query, "--count", "3", "--json"],
-                    capture_output=True,
-                    text=True,
-                    timeout=15
-                )
-                if result.returncode == 0:
-                    try:
-                        data = json.loads(result.stdout)
-                        all_results.extend(data.get("results", [])[:3])
-                    except Exception:
-                        pass
-            
-            if not all_results:
-                # 无法获取外部数据，返回占位
-                html = '<section class="card market-pulse"><h2><span>市场脉搏</span><span class="badge">外部源</span></h2><div class="note">（暂时无法获取外部市场数据）</div></section>'
-                return html
-            
-            # 提取标题和摘要
-            news_items = []
-            for item in all_results[:6]:
-                title = item.get("title", "").replace("<<<EXTERNAL_UNTRUSTED_CONTENT", "").replace(">>>", "").strip()
-                desc = item.get("description", "").replace("<<<EXTERNAL_UNTRUSTED_CONTENT", "").replace(">>>", "").strip()
-                if title and len(title) > 10:
-                    news_items.append(f"- {title[:100]}\n  {desc[:150]}")
-            
-            # 构建HTML（简化版，不调用LLM总结，直接展示关键新闻）
-            news_html = "<br>".join([esc(n.replace("\n", " · ")) for n in news_items[:4]])
-            
-            html = (
-                '<section class="card market-pulse">'
-                '<h2><span>市场脉搏（外部源）</span><span class="badge">Yahoo/CNBC</span></h2>'
-                f'<div class="pulse-body">{news_html}</div>'
-                '</section>'
+        if not key_items:
+            return ''  # 无关键新闻时不显示此卡片
+        
+        # 去重
+        seen = set()
+        unique_items = []
+        for it in key_items:
+            if it["title"] not in seen:
+                seen.add(it["title"])
+                unique_items.append(it)
+        
+        # 生成HTML
+        items_html = []
+        for it in unique_items[:5]:
+            items_html.append(
+                f'<div class="pulse-item">'
+                f'<span class="pulse-badge">{esc(it["source"])}</span> '
+                f'{esc(it["title"])}'
+                f'</div>'
             )
-            
-            # 写入缓存
-            MARKET_PULSE_CACHE.write_text(
-                json.dumps({"timestamp": time.time(), "html": html}, ensure_ascii=False),
-                encoding="utf-8"
-            )
-            
-            return html
-            
-        except Exception as e:
-            # 失败时返回错误提示
-            return f'<section class="card market-pulse"><h2><span>市场脉搏</span></h2><div class="note">（获取失败: {esc(str(e)[:80])}）</div></section>'
+        
+        body = "\n".join(items_html)
+        
+        return (
+            '<section class="card market-pulse">'
+            '<h2><span>市场脉搏</span><span class="badge">关键动态</span></h2>'
+            f'<div class="pulse-body">{body}</div>'
+            '</section>'
+        )
 
     def render_radar() -> str:
         pool = pick_items("美联储与政策", "地缘/能源/避险", "七姐妹与半导体链", "特斯拉链")
@@ -525,6 +503,11 @@ def main() -> int:
     .hero-title{{font-family:var(--serif);font-size:22px;font-weight:850;}}
     .hero-time{{font-family:var(--mono);font-size:12px;color:var(--muted)}}
     .hero-body{{margin-top:10px;color:var(--text);font-size:15.5px;line-height:1.6}}
+
+    /* MARKET PULSE */
+    .market-pulse .pulse-body{{padding:14px 16px 18px;display:flex;flex-direction:column;gap:10px}}
+    .pulse-item{{font-size:14.5px;line-height:1.6;color:var(--text);padding:10px 12px;background:rgba(0,0,0,.12);border-radius:12px;border:1px solid rgba(255,255,255,.10)}}
+    .pulse-badge{{font-family:var(--mono);font-size:11px;color:var(--faint);border:1px solid rgba(255,255,255,.12);padding:3px 8px;border-radius:999px;background:rgba(255,255,255,.04);margin-right:8px}}
 
     .card{{margin-top:14px;border:1px solid var(--stroke);background:rgba(255,255,255,.05);border-radius:var(--r);overflow:hidden}}
     .card h2{{margin:0;padding:14px 14px 12px;border-bottom:1px solid rgba(255,255,255,.10);font-family:var(--mono);font-size:12px;color:var(--muted);letter-spacing:.03em;display:flex;justify-content:space-between;align-items:center}}
