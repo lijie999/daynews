@@ -1,6 +1,6 @@
 {
   "date": "2026.03.22",
-  "generatedAtBJT": "2026-03-22 02:04:31",
+  "generatedAtBJT": "2026-03-22 02:30:39",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-22 02:04:31",
+          "time": "2026-03-22 02:30:39",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克指数/标普500指数承压更明显；美元指数上升→黄金价格更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克指数/标普500指数先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克指数/标普500指数修复反弹、黄金价格喘息；操作偏好：回踩参与、避免追高\n-",
+          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：3 Ways the Strait of Hormuz Could Affect Coca-Cola (KO) In 2026…\n- 宏观/Fed线索：Jim Cramer Highlights Skyworks Solutions’ High Yield But Says “I Don’t O…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Dow Jones Bounces Late After Sell-Off As Trump Mulls 'Winding Down' Iran…\n- 宏观/Fed线索：Jim Cramer Highlights Skyworks Solutions’ High Yield But Says “I Don’t O…"
         }
       ]
     },
@@ -29,25 +29,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
+          "time": "2026-03-22 02:30:34",
           "title": "纳德拉花了65亿美元挖了他的AI首席。两年后，他却悄悄地将他推到了边缘——这些残酷的数字是为什么。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nadella-paid-650m-recruit-ai-170000361.html",
           "title_en": "Nadella paid $650M to recruit his AI chief. After 2 years he's quietly pushing him aside — these brutal numbers are why"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
-          "title": "高盛预计今年人工智能投资将达到7000亿美元。以下是我的推荐股票。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/goldman-sachs-projects-700-billion-173500867.html",
-          "title_en": "Goldman Sachs Projects $700 Billion in Artificial Intelligence (AI) Capex This Year. Here's My Top Stock to Buy."
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
+          "time": "2026-03-22 02:30:34",
           "title": "OpenAI将员工人数增加近一倍，到2026年底达到8,000人。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/openai-to-nearly-double-workforce-to-8000-by-end2026-ft-reports-4574054",
@@ -152,16 +143,6 @@
           "url": "https://www.cnbc.com/2026/03/20/nvidia-ai-agents-tokens-human-workers-engineer-jobs-unemployment-jensen-huang.html",
           "title_en": "Nvidia's Huang pitches AI tokens on top of salary as agents reshape how humans work",
           "summary_en": "Most enterprise AI projects have failed since 2018, a sobering track record for an industry awash in enthusiasm."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-20 14:13:58",
-          "title": "阿里巴巴员工人数2025年缩减34%，中国科技巨头加大人工智能投入",
-          "summary": "阿里巴巴在2025年将员工数量减少了大约34%，公司正在将外围资产出售以集中精力于其人工智能业务。",
-          "url": "https://www.cnbc.com/2026/03/20/alibaba-headcount-falls-ai-push-sun-art-intime-sales.html",
-          "title_en": "Alibaba workforce shrinks 34% in 2025 as Chinese tech giant doubles down on AI",
-          "summary_en": "Alibaba cut its staff by roughly 34% over the course of 2025, as the company disposed of peripheral holdings to focus on its AI business."
         }
       ]
     },
@@ -172,7 +153,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
+          "time": "2026-03-22 02:30:34",
           "title": "吉姆·克拉默（Jim Cramer）强调了Skyworks Solutions的高收益，但说：“我不投资技术股以获取收益”。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-skyworks-solutions-163137274.html",
@@ -181,11 +162,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
-          "title": "今年3月份，投资者可以考虑购买以下三家高收益能源公司： \n\n1.  Devon Energy (DVN)：该公司以其高油气产量和强大的财务基础而闻名。 \n2.  ConocoPhillips (COP)：该公司拥有丰富的油气资源，并且在全球各地都有重要的生产基地。 \n3.  Occidental Petroleum (OXY)：该公司以其高油气产量和强大的财务基础而闻名。",
+          "time": "2026-03-22 02:30:34",
+          "title": "七大公众上市以太坊财务公司： \n\n1. Coinbase Global (COIN) \n2. MicroStrategy Incorporated (MSTR) \n3. Tesla, Inc. (TSLA) \n4. Square, Inc. (SQ) \n5. Galaxy Digital Holdings Ltd. (GLXYF) \n6. VanEck (VAN) \n7. Block, Inc. (SQ)",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/3-high-yield-energy-stocks-170500887.html",
-          "title_en": "3 High-Yield Energy Stocks to Buy in March"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/7-largest-publicly-traded-ethereum-170103481.html",
+          "title_en": "The 7 Largest Publicly Traded Ethereum Treasury Firms"
         },
         {
           "source": "CNBC-World",
@@ -226,25 +207,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
-          "title": "霍尔木兹海峡对可口可乐（KO）的三种影响可能。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-ways-strait-hormuz-could-164127268.html",
-          "title_en": "3 Ways the Strait of Hormuz Could Affect Coca-Cola (KO) In 2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
-          "title": "全球石油重构：石油价格将如何走向？",
-          "summary": "",
-          "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-the-restructuring-of-global-oil/?src=A00220&yptr=yahoo",
-          "title_en": "Stock Market Week Ahead: The Restructuring Of Global Oil"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
+          "time": "2026-03-22 02:30:34",
           "title": "道琼斯指数在大幅下跌后反弹，特朗普考虑“减少”伊朗战争",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-trump-iran-war-winding-down/?src=A00220&yptr=yahoo",
@@ -253,7 +216,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
+          "time": "2026-03-22 02:30:34",
+          "title": "全球石油重构：石油价格将如何走向？",
+          "summary": "",
+          "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-the-restructuring-of-global-oil/?src=A00220&yptr=yahoo",
+          "title_en": "Stock Market Week Ahead: The Restructuring Of Global Oil"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-22 02:30:34",
           "title": "石油价格的暴涨引发的影响正在蔓延，石油预测继续上涨",
           "summary": "",
           "url": "https://finance.yahoo.com/news/the-fallout-from-oils-surge-is-spreading-as-forecasts-for-crude-keep-rising-150447796.html",
@@ -262,7 +234,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
+          "time": "2026-03-22 02:30:34",
           "title": "联合航空计划减少更多航班，预计到2027年油价将超过100美元。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/united-airlines-to-cut-5-of-scheduled-flights-as-fuel-prices-soar-4573955",
@@ -287,16 +259,6 @@
           "url": "https://www.marketwatch.com/story/warren-buffetts-parting-gift-to-berkshire-hathaway-a-2-billion-iran-oil-windfall-4daf28ba?mod=mw_rss_topstories",
           "title_en": "Warren Buffett’s parting gift to Berkshire Hathaway: a $2 billion Iran oil windfall",
           "summary_en": "If you need any further evidence of the wisdom of holding some energy stocks in your 401(k) and other retirement accounts, look at Berkshire Hathaway."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-22 00:06:00",
-          "title": "三条信号将揭示伊朗石油冲击是否只是暂时的波动——还是新常态",
-          "summary": "超过100美元的每桶原油价格，会有“第二轮”效应对你的投资组合造成影响。",
-          "url": "https://www.marketwatch.com/story/3-signals-that-reveal-if-the-iran-oil-shock-is-just-a-blip-or-the-new-normal-3202c511?mod=mw_rss_topstories",
-          "title_en": "3 signals will reveal if the Iran oil shock is just a blip — or the new normal",
-          "summary_en": "Beyond the $100 barrel, there are “second-round” effects that can hit your portfolio."
         },
         {
           "source": "CNBC-Top",
@@ -392,16 +354,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
-          "title": "零售连锁店关闭151家门店，更多关闭预计",
+          "time": "2026-03-22 02:30:34",
+          "title": "投资5,000美元的最佳股票\n\n如果你有5,000美元要投资，以下是几个值得考虑的股票。请注意，投资股票始终存在风险，投资前应谨慎考虑。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/retail-chain-shutters-151-stores-174800567.html",
-          "title_en": "Retail chain shutters 151 stores, more closures expected"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/best-stocks-invest-5-000-181200669.html",
+          "title_en": "The Best Stocks to Invest $5,000 in Right Now"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
+          "time": "2026-03-22 02:30:34",
           "title": "DA 大卫森 reaffirms 购买评级为 Commvault (CVLT)",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/da-davidson-reaffirms-buy-rating-173608426.html",
@@ -410,7 +372,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
+          "time": "2026-03-22 02:30:34",
           "title": "五角大楼选择了Palantir的Maven野战系统进行更广泛的军事应用。",
           "summary": "",
           "url": "https://www.investors.com/news/technology/palantir-stock-pltr-pentagon-letter-maven-battlefield-system/?src=A00220&yptr=yahoo",
@@ -419,7 +381,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
+          "time": "2026-03-22 02:30:34",
+          "title": "IMAX 股票是否买入还是卖出？一位董事出售价值2.15亿美元的股份后",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/imax-stock-buy-sell-director-180631965.html",
+          "title_en": "Is IMAX Stock a Buy or Sell After a Director Dumped Shares Worth $21.5 Million?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-22 02:30:34",
           "title": "吉姆·克雷默说：“我们没有抓住戴尔的慈善信托”",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-didn-t-163141512.html",
@@ -428,7 +399,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
+          "time": "2026-03-22 02:30:34",
           "title": "吉姆·克拉默谈到GE Vernova：“这家公司的业务书是最好的”",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-ge-vernova-just-163140483.html",
@@ -437,7 +408,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
+          "time": "2026-03-22 02:30:34",
           "title": "吉姆·克拉默谈到斯坦利斯：我根本无法推荐它",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-stellantis-just-t-163138724.html",
@@ -446,7 +417,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
+          "time": "2026-03-22 02:30:34",
+          "title": "The Pennant Group强调了收购动力，保守的指引在Oppenheimer Healthcare Chat",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/pennant-group-highlights-acquisition-momentum-180458176.html",
+          "title_en": "The Pennant Group Highlights Acquisition Momentum, Conservative Guidance at Oppenheimer Healthcare Chat"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-22 02:30:34",
           "title": "吉姆·克拉默（Jim Cramer）谈到ImmunityBio： “那只股票是幻想时代的一部分”",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-immunitybio-stock-part-163135319.html",
@@ -455,16 +435,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
-          "title": "预测：5年后XRP的价值将达到这个数额，数字可能会让你惊讶",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/prediction-xrp-worth-much-5-171800435.html",
-          "title_en": "Prediction: XRP Will Be Worth This Much in 5 Years, and the Math Might Surprise You"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
+          "time": "2026-03-22 02:30:34",
           "title": "吉姆·克拉默（Jim Cramer）谈到Signet Jewelers： “我们将会买入它，不是作为一种特殊情况，而是作为一家伟大的零售商。”",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-signet-jewelers-ll-163134095.html",
@@ -473,7 +444,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
+          "time": "2026-03-22 02:30:34",
           "title": "吉姆·克拉默谈 Booking Holdings： “这是格伦·福格尔， 他将立即回归”",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-booking-holdings-glenn-163132739.html",
@@ -482,16 +453,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
-          "title": "吉姆·克拉默称道尔树的财报“坚实”但“指导有些令人失望”。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-dollar-tree-163129300.html",
-          "title_en": "Jim Cramer Calls Dollar Tree’s Earnings “Solid” But “Somewhat Disappointing Guidance”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
+          "time": "2026-03-22 02:30:34",
           "title": "吉姆·克拉默谈到直观外科： “它的股价已经太高了”",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-intuitive-surgical-just-163130795.html",
@@ -500,25 +462,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
-          "title": "吉姆·克雷默谈到五下：我认为它还有更多的空间。",
+          "time": "2026-03-22 02:30:34",
+          "title": "美国运通股价便宜，但这是否意味着现在买入？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-five-below-think-163127997.html",
-          "title_en": "Jim Cramer on Five Below: “I Think It’s Got More Room to Run”"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/american-express-stock-cheap-does-180500248.html",
+          "title_en": "American Express Stock Is Cheap, But Does That Make It a Buy Now?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
-          "title": "詹姆斯·克雷默（Jim Cramer）在Reddit发表评论：“我认为这是一个非常有价值的资产”",
+          "time": "2026-03-22 02:30:34",
+          "title": "吉姆·克拉默称道尔树的财报“坚实”但“指导有些令人失望”。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-reddit-think-incredibly-163126732.html",
-          "title_en": "Jim Cramer on Reddit: “I Think It’s an Incredibly Valuable Property”"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-dollar-tree-163129300.html",
+          "title_en": "Jim Cramer Calls Dollar Tree’s Earnings “Solid” But “Somewhat Disappointing Guidance”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
+          "time": "2026-03-22 02:30:34",
           "title": "吉姆·克拉默谈到卡纳维拉尔公司： “那是一个便宜的股票”",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-carnival-corporation-inexpensive-163124164.html",
@@ -527,29 +489,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
-          "title": "吉姆·克拉默谈到约翰逊&约翰逊： “这是一个典型的放缓股”",
+          "time": "2026-03-22 02:30:34",
+          "title": "吉姆·克雷默谈到五下：我认为它还有更多的空间。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-johnson-johnson-textbook-163122570.html",
-          "title_en": "Jim Cramer on Johnson & Johnson: “It’s a Textbook Slowdown Stock”"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-five-below-think-163127997.html",
+          "title_en": "Jim Cramer on Five Below: “I Think It’s Got More Room to Run”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
-          "title": "德尔韦（Delve）被指误导客户，使用“假合规”手段。",
+          "time": "2026-03-22 02:30:34",
+          "title": "詹姆斯·克雷默（Jim Cramer）在Reddit发表评论：“我认为这是一个非常有价值的资产”",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/delve-accused-misleading-customers-fake-170005937.html",
-          "title_en": "Delve accused of misleading customers with ‘fake compliance’"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-reddit-think-incredibly-163126732.html",
+          "title_en": "Jim Cramer on Reddit: “I Think It’s an Incredibly Valuable Property”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-22 02:04:27",
-          "title": "NuScale Power（SMR）股价下跌，Jim Cramer表示将有多年时间才会有任何意义的进展。",
+          "time": "2026-03-22 02:30:34",
+          "title": "五下（Five Below）股价上涨，但关键客户挑战浮现",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-smr-shares-down-163031170.html",
-          "title_en": "NuScale Power’s (SMR) Shares Down After Jim Cramer Said It’d Be Years Before Anything Meaningful Came Out"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/five-below-stock-jumps-key-180300625.html",
+          "title_en": "Five Below stock jumps, but key customer challenge emerges"
         }
       ]
     }
