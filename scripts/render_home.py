@@ -157,12 +157,10 @@ def main() -> int:
     def render_thesis() -> str:
         """
         生成主线结论：结构化市场综述
-        通过 HTTP 调用 OpenAI-compatible API 实时生成
+        通过 openclaw agent 调用 AI 实时生成
         缓存 30 分钟
         """
         import time
-        import urllib.request
-        import os
         
         THESIS_CACHE = DOCS / ".thesis_cache.json"
         
@@ -220,34 +218,27 @@ def main() -> int:
 
 直接输出内容，不要额外解释。"""
 
-        # 调用 API
+        # 调用 AI 生成
         analysis = None
         try:
-            api_base = os.getenv("OPENAI_API_BASE", "https://api.openai.com/v1")
-            api_key = os.getenv("OPENAI_API_KEY", "")
-            
-            if not api_key:
-                raise Exception("No API key")
-            
-            req_data = {
-                "model": "gpt-4o-mini",  # 或你配置的模型
-                "messages": [{"role": "user", "content": prompt}],
-                "temperature": 0.7,
-                "max_tokens": 300
-            }
-            
-            req = urllib.request.Request(
-                f"{api_base}/chat/completions",
-                data=json.dumps(req_data).encode(),
-                headers={
-                    "Content-Type": "application/json",
-                    "Authorization": f"Bearer {api_key}"
-                }
+            # 使用 openclaw agent 调用 AI
+            result = subprocess.run(
+                [
+                    "openclaw", "agent",
+                    "--session-id", "daynews-thesis-generator",
+                    "--message", prompt,
+                    "--timeout", "20"
+                ],
+                capture_output=True,
+                text=True,
+                timeout=25
             )
             
-            with urllib.request.urlopen(req, timeout=15) as resp:
-                result = json.loads(resp.read())
-                analysis = result["choices"][0]["message"]["content"].strip()
+            if result.returncode == 0:
+                output = result.stdout.strip()
+                # 移除可能的 NO_REPLY 或其他控制标记
+                if output and not output.startswith("NO_REPLY") and len(output) > 50:
+                    analysis = output
                 
         except Exception:
             pass
