@@ -308,6 +308,7 @@ def main() -> int:
                 "nasdaq",
                 "s&p",
                 "sp 500",
+                "s&p 500",
                 "dow",
                 "dow jones",
                 "futures",
@@ -318,15 +319,31 @@ def main() -> int:
                 "es",
                 "ndx",
                 "spx",
+                "qqq",
+                "spy",
+                "dia",
+                "stock market",
+                "equity",
+                "equities",
+                "shares",
+                "rally",
+                "selloff",
+                "sell-off",
             ]
         ) or any(
             k in t
             for k in [
                 "yield",
                 "treasury",
+                "treasuries",
                 "bond",
+                "bonds",
                 "rates",
                 "rate",
+                "interest rate",
+                "mortgage rate",
+                "gilt",
+                "gilts",
                 "10-year",
                 "2-year",
                 "fed",
@@ -335,6 +352,8 @@ def main() -> int:
                 "ppi",
                 "nfp",
                 "payroll",
+                "payrolls",
+                "inflation",
             ]
         )
 
