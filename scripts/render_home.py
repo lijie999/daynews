@@ -374,18 +374,7 @@ def main() -> int:
             if result:
                 tomorrow_events.append(result)
         
-        # 如果今明两天都没有数据，显示提示信息
-        if not today_events and not tomorrow_events:
-            return (
-                '<section class="card data-calendar">'
-                '<h2><span>📅 数据日历</span><span class="badge">重点发布</span></h2>'
-                '<div class="calendar-body">'
-                '<div class="note">（今明两日无⭐⭐⭐级数据发布）</div>'
-                '</div>'
-                '</section>'
-            )
-        
-        # 生成HTML
+        # 生成HTML（先处理数据日历部分）
         html_parts = ['<section class="card data-calendar">',
                       '<h2><span>📅 数据日历</span><span class="badge">重点发布</span></h2>',
                       '<div class="calendar-body">']
@@ -407,6 +396,10 @@ def main() -> int:
                     f'<span class="cal-time">{time_str}</span> {esc(name)} <span class="cal-stars">{stars}</span>'
                     f'</div>'
                 )
+        
+        # 如果今明都没有数据，显示占位
+        if not today_events and not tomorrow_events:
+            html_parts.append('<div class="note">（今明两日无⭐⭐⭐级数据发布）</div>')
         
         # 本周财报提醒
         # 策略1：从现有新闻中提取
