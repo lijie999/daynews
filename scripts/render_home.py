@@ -73,8 +73,8 @@ def main() -> int:
         # 时间窗口：优先最近12小时的事件
         t = ((it.get("title") or "") + " " + (it.get("summary") or "")).lower()
         
-        # S级：盘中触发器/突发拐点（数据发布、突发地缘、Fed决议）
-        # 排除常规盘前/盘后总结（如 "futures..." "stock market today..."）
+        # S级：突发地缘/重大企业事件（数据发布已移到数据日历）
+        # 排除常规盘前/盘后总结
         is_routine_summary = any(
             k in t
             for k in [
@@ -90,39 +90,46 @@ def main() -> int:
         hot = any(
             k in t
             for k in [
-                "fomc decision",
-                "fed decision",
-                "powell press conference",
-                "cpi report",
-                "ppi report",
-                "nonfarm payrolls",
-                "nfp report",
-                "jobs report",
-                "gdp report",
+                # 地缘突发
                 "strikes",
                 "struck",
                 "missile attack",
                 "ceasefire announced",
-                "opec decision",
                 "emergency meeting",
+                # 重大企业事件
+                "bankruptcy",
+                "chapter 11",
+                "delisting",
+                "acquisition announced",
+                "merger approved",
+                # Fed 特别事件（非常规会议/紧急声明）
+                "fomc emergency",
+                "fed emergency statement",
             ]
         )
         
+        # A级：重要财报、政策转向信号、持续主题监控
         warm = any(
             k in t
             for k in [
+                # 财报季
                 "earnings",
                 "guidance",
+                "revenue miss",
+                "profit warning",
+                # 监管/诉讼
                 "sec charges",
                 "doj",
                 "lawsuit filed",
-                "tariff",
                 "antitrust",
-                "rate decision",
+                # 政策/地缘持续主题
+                "tariff",
                 "fed speaker",
+                "powell",
                 "iran",
                 "israel",
                 "oil",
+                "opec",
             ]
         )
         
@@ -312,61 +319,98 @@ def main() -> int:
         
         return html
 
-    def render_market_pulse() -> str:
+    def render_data_calendar() -> str:
         """
-        市场脉搏：从现有数据中提取关键市场动态摘要
-        TODO: 后续可接入 web_search 调用外部源（Yahoo/CNBC/MarketWatch）
+        数据日历：今日/明日重点经济数据发布提醒（⭐⭐⭐ 三星级）
         """
-        # 简化版本1：从现有sections中提取关键指标型新闻
-        key_items = []
+        import datetime as dt
         
-        for sec in sections:
-            name = sec.get("name", "")
-            items = sec.get("items", [])
+        today = now.date()
+        tomorrow = today + dt.timedelta(days=1)
+        
+        # 硬编码关键数据日历（每月固定日期）
+        # 格式：(月日范围, 星期几, 时间, 名称, 重要性)
+        calendar_rules = [
+            # CPI：每月10-14日，通常13日 08:30
+            ((10, 14), None, "08:30", "美国CPI月率/年率", "⭐⭐⭐"),
+            # NFP：每月第一个周五 08:30
+            (None, 4, "08:30", "非农就业人数（NFP）", "⭐⭐⭐"),
+            # FOMC：每6-8周（3/5/6/7/9/11/12月中旬）
+            ((14, 21), 2, "02:00", "美联储FOMC利率决议", "⭐⭐⭐"),
+            # PMI：每月第一个工作日
+            ((1, 3), None, "09:45", "美国Markit PMI初值", "⭐⭐"),
+            # 零售销售：每月15-17日 08:30
+            ((15, 17), None, "08:30", "美国零售销售月率", "⭐⭐"),
+            # 初请失业金：每周四 08:30
+            (None, 3, "08:30", "初请失业金人数", "⭐⭐"),
+            # GDP：季度末月下旬
+            ((25, 30), None, "08:30", "美国GDP季率初值", "⭐⭐⭐"),
+        ]
+        
+        def check_date(rule, check_day):
+            day_range, weekday, time_str, name, stars = rule
             
-            if name in ["美联储与政策", "地缘/能源/避险"]:
-                for it in items[:3]:
-                    title = it.get("title", "")
-                    # 筛选包含关键市场指标的新闻
-                    if any(k in title.lower() for k in [
-                        "dow", "s&p", "nasdaq", "stock market", "指数",
-                        "treasury", "yield", "利率", "fed", "inflation"
-                    ]):
-                        key_items.append({
-                            "title": title[:90],
-                            "time": it.get("time", ""),
-                            "source": it.get("source", "")
-                        })
+            # 检查日期范围
+            if day_range:
+                if not (day_range[0] <= check_day.day <= day_range[1]):
+                    return None
+            
+            # 检查星期几（0=周一, 4=周五）
+            if weekday is not None:
+                if check_day.weekday() != weekday:
+                    return None
+            
+            return (time_str, name, stars)
         
-        if not key_items:
-            return ''  # 无关键新闻时不显示此卡片
+        today_events = []
+        tomorrow_events = []
         
-        # 去重
-        seen = set()
-        unique_items = []
-        for it in key_items:
-            if it["title"] not in seen:
-                seen.add(it["title"])
-                unique_items.append(it)
+        for rule in calendar_rules:
+            result = check_date(rule, today)
+            if result:
+                today_events.append(result)
+            
+            result = check_date(rule, tomorrow)
+            if result:
+                tomorrow_events.append(result)
         
-        # 生成HTML
-        items_html = []
-        for it in unique_items[:5]:
-            items_html.append(
-                f'<div class="pulse-item">'
-                f'<span class="pulse-badge">{esc(it["source"])}</span> '
-                f'{esc(it["title"])}'
-                f'</div>'
+        # 如果今明两天都没有数据，显示提示信息
+        if not today_events and not tomorrow_events:
+            return (
+                '<section class="card data-calendar">'
+                '<h2><span>📅 数据日历</span><span class="badge">重点发布</span></h2>'
+                '<div class="calendar-body">'
+                '<div class="note">（今明两日无⭐⭐⭐级数据发布）</div>'
+                '</div>'
+                '</section>'
             )
         
-        body = "\n".join(items_html)
+        # 生成HTML
+        html_parts = ['<section class="card data-calendar">',
+                      '<h2><span>📅 数据日历</span><span class="badge">重点发布</span></h2>',
+                      '<div class="calendar-body">']
         
-        return (
-            '<section class="card market-pulse">'
-            '<h2><span>市场脉搏</span><span class="badge">关键动态</span></h2>'
-            f'<div class="pulse-body">{body}</div>'
-            '</section>'
-        )
+        if today_events:
+            html_parts.append('<div class="calendar-day"><strong>今日：</strong></div>')
+            for time_str, name, stars in today_events:
+                html_parts.append(
+                    f'<div class="calendar-item">'
+                    f'<span class="cal-time">{time_str}</span> {esc(name)} <span class="cal-stars">{stars}</span>'
+                    f'</div>'
+                )
+        
+        if tomorrow_events:
+            html_parts.append('<div class="calendar-day"><strong>明日：</strong></div>')
+            for time_str, name, stars in tomorrow_events:
+                html_parts.append(
+                    f'<div class="calendar-item">'
+                    f'<span class="cal-time">{time_str}</span> {esc(name)} <span class="cal-stars">{stars}</span>'
+                    f'</div>'
+                )
+        
+        html_parts.append('</div></section>')
+        
+        return '\n'.join(html_parts)
 
     def render_radar() -> str:
         pool = pick_items("美联储与政策", "地缘/能源/避险", "七姐妹与半导体链", "特斯拉链")
@@ -643,10 +687,12 @@ def main() -> int:
     .hero-time{{font-family:var(--mono);font-size:12px;color:var(--muted)}}
     .hero-body{{margin-top:10px;color:var(--text);font-size:15.5px;line-height:1.6}}
 
-    /* MARKET PULSE */
-    .market-pulse .pulse-body{{padding:14px 16px 18px;display:flex;flex-direction:column;gap:10px}}
-    .pulse-item{{font-size:14.5px;line-height:1.6;color:var(--text);padding:10px 12px;background:rgba(0,0,0,.12);border-radius:12px;border:1px solid rgba(255,255,255,.10)}}
-    .pulse-badge{{font-family:var(--mono);font-size:11px;color:var(--faint);border:1px solid rgba(255,255,255,.12);padding:3px 8px;border-radius:999px;background:rgba(255,255,255,.04);margin-right:8px}}
+    /* DATA CALENDAR */
+    .data-calendar .calendar-body{{padding:14px 16px 18px;display:flex;flex-direction:column;gap:8px}}
+    .calendar-day{{font-family:var(--mono);font-size:12px;color:var(--muted);margin-top:8px;margin-bottom:4px}}
+    .calendar-item{{font-size:14.5px;line-height:1.6;color:var(--text);padding:10px 12px;background:rgba(0,0,0,.12);border-radius:12px;border:1px solid rgba(255,255,255,.10)}}
+    .cal-time{{font-family:var(--mono);font-size:12px;color:var(--faint);border:1px solid rgba(255,255,255,.12);padding:3px 8px;border-radius:999px;background:rgba(255,255,255,.04);margin-right:8px}}
+    .cal-stars{{font-size:13px;color:#fbbf24;margin-left:6px}}
 
     .card{{margin-top:14px;border:1px solid var(--stroke);background:rgba(255,255,255,.05);border-radius:var(--r);overflow:hidden}}
     .card h2{{margin:0;padding:14px 14px 12px;border-bottom:1px solid rgba(255,255,255,.10);font-family:var(--mono);font-size:12px;color:var(--muted);letter-spacing:.03em;display:flex;justify-content:space-between;align-items:center}}
@@ -705,7 +751,7 @@ def main() -> int:
       </header>
 
       {render_thesis()}
-      {render_market_pulse()}
+      {render_data_calendar()}
       {render_radar()}
 
       <div class=\"grid3\">

@@ -34,10 +34,12 @@
     .hero-time{font-family:var(--mono);font-size:12px;color:var(--muted)}
     .hero-body{margin-top:10px;color:var(--text);font-size:15.5px;line-height:1.6}
 
-    /* MARKET PULSE */
-    .market-pulse .pulse-body{padding:14px 16px 18px;display:flex;flex-direction:column;gap:10px}
-    .pulse-item{font-size:14.5px;line-height:1.6;color:var(--text);padding:10px 12px;background:rgba(0,0,0,.12);border-radius:12px;border:1px solid rgba(255,255,255,.10)}
-    .pulse-badge{font-family:var(--mono);font-size:11px;color:var(--faint);border:1px solid rgba(255,255,255,.12);padding:3px 8px;border-radius:999px;background:rgba(255,255,255,.04);margin-right:8px}
+    /* DATA CALENDAR */
+    .data-calendar .calendar-body{padding:14px 16px 18px;display:flex;flex-direction:column;gap:8px}
+    .calendar-day{font-family:var(--mono);font-size:12px;color:var(--muted);margin-top:8px;margin-bottom:4px}
+    .calendar-item{font-size:14.5px;line-height:1.6;color:var(--text);padding:10px 12px;background:rgba(0,0,0,.12);border-radius:12px;border:1px solid rgba(255,255,255,.10)}
+    .cal-time{font-family:var(--mono);font-size:12px;color:var(--faint);border:1px solid rgba(255,255,255,.12);padding:3px 8px;border-radius:999px;background:rgba(255,255,255,.04);margin-right:8px}
+    .cal-stars{font-size:13px;color:#fbbf24;margin-left:6px}
 
     .card{margin-top:14px;border:1px solid var(--stroke);background:rgba(255,255,255,.05);border-radius:var(--r);overflow:hidden}
     .card h2{margin:0;padding:14px 14px 12px;border-bottom:1px solid rgba(255,255,255,.10);font-family:var(--mono);font-size:12px;color:var(--muted);letter-spacing:.03em;display:flex;justify-content:space-between;align-items:center}
@@ -96,8 +98,7 @@
       </header>
 
       <section class="hero"><div class="hero-top"><div class="hero-title">主线结论</div><div class="hero-time">2026-03-22 00:16:19</div></div><div class="hero-body">**市场走势**：美股三大指数连续下挫（道指-1.5%、纳指-2%），标普500创四周连跌，黄金暴跌10%创13年最大周跌幅。<br><br>**核心驱动**：<br>• 伊朗战争升级引发能源危机——特朗普政府考虑封锁Kharg岛，油价暴涨超1970年代水平，CVX等能源股逆势受益<br>• 美联储转鹰派压制市场——通胀担忧推升国债收益率，降息预期大幅削减，抵押贷款利率突升冲击房市复苏<br>• AI投资分化加剧——微软/Nvidia推进AI基建、OpenAI扩招至8000人，但Supermicro因芯片走私暴跌，达利欧警告多数AI股难存活<br><br>**风险提示**：地缘冲突持续发酵叠加紧缩预期强化，市场或面临流动性与估值双重挤压，避险情绪回归传统能源与防御板块。</div></section>
-      <section class="card market-pulse"><h2><span>市场脉搏</span><span class="badge">关键动态</span></h2><div class="pulse-body"><div class="pulse-item"><span class="pulse-badge">CNBC-Top</span> 春季房市即将来临，但抵押贷款利率突然上升。</div>
-<div class="pulse-item"><span class="pulse-badge">YahooFinance-Markets</span> 道琼斯指数在大幅下跌后反弹，特朗普考虑“减少”伊朗战争</div></div></section>
+      <section class="card data-calendar"><h2><span>📅 数据日历</span><span class="badge">重点发布</span></h2><div class="calendar-body"><div class="note">（今明两日无⭐⭐⭐级数据发布）</div></div></section>
       <section class="card"><h2><span>事件雷达｜S级</span><span class="badge">0</span></h2><div class="radar"><div class="note">（暂无）</div></div></section><section class="card"><h2><span>事件雷达｜A级</span><span class="badge">0</span></h2><div class="radar"><div class="note">（暂无）</div></div></section>
 
       <div class="grid3">
