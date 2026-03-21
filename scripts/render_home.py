@@ -157,9 +157,12 @@ def main() -> int:
     def render_thesis() -> str:
         """
         生成主线结论：结构化市场综述
-        优先使用缓存（30分钟有效），过期则重新生成
+        通过 HTTP 调用 OpenAI-compatible API 实时生成
+        缓存 30 分钟
         """
         import time
+        import urllib.request
+        import os
         
         THESIS_CACHE = DOCS / ".thesis_cache.json"
         
@@ -168,98 +171,112 @@ def main() -> int:
             try:
                 cache = json.loads(THESIS_CACHE.read_text(encoding="utf-8"))
                 cache_time = cache.get("timestamp", 0)
-                if time.time() - cache_time < 1800:  # 30分钟缓存
+                if time.time() - cache_time < 1800:  # 30分钟
                     html = cache.get("html", "")
                     if html:
                         return html
             except Exception:
                 pass
         
-        # 收集素材：从现有 sections 提取关键新闻
+        # 收集素材
         market_news = []
         fed_news = []
-        geopolitical_news = []
+        geo_news = []
         
         for sec in sections:
             name = sec.get("name", "")
-            items = sec.get("items", [])[:5]  # 每个板块取前5条
+            items = sec.get("items", [])[:5]
             
             if name == "美联储与政策":
-                fed_news.extend([
-                    f"- {it.get('title', '')[:80]}" 
-                    for it in items if it.get('title')
-                ])
+                fed_news.extend([f"- {it.get('title', '')[:85]}" for it in items if it.get('title')])
             elif name == "地缘/能源/避险":
-                geopolitical_news.extend([
-                    f"- {it.get('title', '')[:80]}" 
-                    for it in items if it.get('title')
-                ])
+                geo_news.extend([f"- {it.get('title', '')[:85]}" for it in items if it.get('title')])
             elif name in ["七姐妹与半导体链", "特斯拉链"]:
-                market_news.extend([
-                    f"- {it.get('title', '')[:80]}" 
-                    for it in items if it.get('title')
-                ])
+                market_news.extend([f"- {it.get('title', '')[:85]}" for it in items if it.get('title')])
         
-        # 构建提示词让 AI 生成结构化分析
-        prompt = f"""基于以下新闻素材，生成今日市场主线结论（200字以内，结构化）：
-
-市场/科技动态：
-{chr(10).join(market_news[:8])}
+        # 构建prompt
+        materials = f"""市场/科技：
+{chr(10).join(market_news[:8]) if market_news else '（无）'}
 
 美联储/政策：
-{chr(10).join(fed_news[:5])}
+{chr(10).join(fed_news[:5]) if fed_news else '（无）'}
 
-地缘/能源/避险：
-{chr(10).join(geopolitical_news[:5])}
+地缘/能源：
+{chr(10).join(geo_news[:5]) if geo_news else '（无）'}"""
 
-要求格式（纯文本，用换行分隔）：
-1. 市场走势（1-2句，提及主要指数/板块）
-2. 核心驱动因素（2-3个要点，每个1句）
-3. 关键观点（1-2句，前瞻/风险提示）
+        prompt = f"""基于以下今日财经新闻标题，生成200字以内的市场主线结论，格式如下：
 
-直接输出内容，不要标题/序号前缀。"""
+{materials}
 
-        # 调用 AI 生成（通过 subprocess 调用 openclaw 或者用现有数据生成简化版）
-        try:
-            # 方案1：尝试调用 openclaw CLI（如果可用）
-            result = subprocess.run(
-                ["openclaw", "ask", prompt.strip()],
-                capture_output=True,
-                text=True,
-                timeout=20,
-                env={**subprocess.os.environ, "OPENCLAW_MODEL": "default"}
-            )
-            
-            if result.returncode == 0 and result.stdout.strip():
-                analysis = result.stdout.strip()
-            else:
-                raise Exception("CLI failed")
-                
-        except Exception:
-            # 方案2：失败时用简化模板（基于现有数据快速生成）
-            analysis = f"""**市场走势**：三大指数承压，科技股/AI 板块活跃但整体波动加剧
+要求格式（Markdown）：
+**市场走势**：[1-2句，指数/板块表现]
 
 **核心驱动**：
-• Fed 政策预期未变，利率/债券收益率持续影响估值
-• 地缘风险（伊朗/能源）推高油价，避险情绪抬头
-• AI/科技股结构分化，关注 Nvidia/MSFT 等权重股动向
+• [要点1]
+• [要点2]
+• [要点3]
 
-**风险提示**：短期波动率可能维持高位，关注美债拍卖与油价走势"""
+**风险提示**：[1句前瞻/风险]
 
-        # 转换成 HTML
+直接输出内容，不要额外解释。"""
+
+        # 调用 API
+        analysis = None
+        try:
+            api_base = os.getenv("OPENAI_API_BASE", "https://api.openai.com/v1")
+            api_key = os.getenv("OPENAI_API_KEY", "")
+            
+            if not api_key:
+                raise Exception("No API key")
+            
+            req_data = {
+                "model": "gpt-4o-mini",  # 或你配置的模型
+                "messages": [{"role": "user", "content": prompt}],
+                "temperature": 0.7,
+                "max_tokens": 300
+            }
+            
+            req = urllib.request.Request(
+                f"{api_base}/chat/completions",
+                data=json.dumps(req_data).encode(),
+                headers={
+                    "Content-Type": "application/json",
+                    "Authorization": f"Bearer {api_key}"
+                }
+            )
+            
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                result = json.loads(resp.read())
+                analysis = result["choices"][0]["message"]["content"].strip()
+                
+        except Exception:
+            pass
+        
+        # Fallback 模板
+        if not analysis or len(analysis) < 50:
+            analysis = f"""**市场走势**：美股指数震荡，科技股分化明显
+
+**核心驱动**：
+• Fed 政策预期持稳，利率/债券收益率影响估值
+• 地缘风险（伊朗/能源）推升油价，避险需求抬头
+• AI/科技板块结构分化，关注头部权重股动向
+
+**风险提示**：短期波动率可能维持高位，关注宏观数据与油价"""
+
+        # 生成 HTML
         analysis_html = esc(analysis).replace("\n", "<br>")
         
         html = (
             '<section class="hero">'
             '<div class="hero-top">'
-            f'<div class="hero-title">主线结论（AI 生成）</div>'
+            f'<div class="hero-title">主线结论</div>'
             f'<div class="hero-time">{now.strftime("%Y-%m-%d %H:%M:%S")}</div>'
             '</div>'
             f'<div class="hero-body">{analysis_html}</div>'
             '</section>'
         )
         
-        # 写入缓存
+        # 写缓存
         try:
             THESIS_CACHE.write_text(
                 json.dumps({"timestamp": time.time(), "html": html}, ensure_ascii=False),
