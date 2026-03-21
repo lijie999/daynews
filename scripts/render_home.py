@@ -68,47 +68,65 @@ def main() -> int:
 
     def _badge_for(it: dict) -> str:
         # Severity tagging based on keywords (trade-desk heuristic).
+        # 时间窗口：优先最近12小时的事件
         t = ((it.get("title") or "") + " " + (it.get("summary") or "")).lower()
+        
+        # S级：盘中触发器/突发拐点（数据发布、突发地缘、Fed决议）
+        # 排除常规盘前/盘后总结（如 "futures..." "stock market today..."）
+        is_routine_summary = any(
+            k in t
+            for k in [
+                "futures",
+                "stock market today",
+                "dow jones futures",
+                "what to watch",
+                "week ahead",
+                "markets wrap",
+            ]
+        )
+        
         hot = any(
             k in t
             for k in [
-                "fomc",
-                "cpi",
-                "ppi",
-                "nfp",
-                "payroll",
-                "fed",
-                "powell",
-                "rate",
-                "rates",
-                "yield",
-                "treasury",
-                "auction",
-                "opec",
-                "iran",
-                "israel",
-                "missile",
-                "strike",
-                "sanction",
-                "ceasefire",
+                "fomc decision",
+                "fed decision",
+                "powell press conference",
+                "cpi report",
+                "ppi report",
+                "nonfarm payrolls",
+                "nfp report",
+                "jobs report",
+                "gdp report",
+                "strikes",
+                "struck",
+                "missile attack",
+                "ceasefire announced",
+                "opec decision",
+                "emergency meeting",
             ]
         )
+        
         warm = any(
             k in t
             for k in [
                 "earnings",
                 "guidance",
-                "sec",
+                "sec charges",
                 "doj",
-                "lawsuit",
-                "ban",
+                "lawsuit filed",
                 "tariff",
                 "antitrust",
+                "rate decision",
+                "fed speaker",
+                "iran",
+                "israel",
+                "oil",
             ]
         )
-        if hot:
+        
+        if hot and not is_routine_summary:
             return "S"
-        if warm:
+        if warm and not is_routine_summary:
             return "A"
         return "B"
 
@@ -155,11 +173,23 @@ def main() -> int:
 
     def render_radar() -> str:
         pool = pick_items("美联储与政策", "地缘/能源/避险", "七姐妹与半导体链", "特斯拉链")
+        
+        # 去重（与下方指数/期权、黄金栏交叉去重）
+        # 先收集已在分品种栏显示的 URL
+        zone_urls: set[str] = set()
+        for it in zone_index_options + zone_gold:
+            zone_urls.add(it.get("url") or "")
+        
         seen: set[str] = set()
         uniq: list[dict] = []
         for it in pool:
-            k = (it.get("url") or "") + "|" + (it.get("title") or "")
+            url = it.get("url") or ""
+            title = it.get("title") or ""
+            k = url + "|" + title
             if not k.strip() or k in seen:
+                continue
+            # 如果已在分品种栏显示，跳过（避免雷达重复）
+            if url and url in zone_urls:
                 continue
             seen.add(k)
             uniq.append(it)
