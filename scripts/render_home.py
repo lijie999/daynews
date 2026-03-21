@@ -241,8 +241,8 @@ def main() -> int:
     # Trade-desk zones (best-effort mapping from existing sections)
     #
     # 去重与分类原则：
-    # - 指数(Index)：聚焦“宏观/利率/大盘方向/风险偏好”相关线索
-    # - 期权(Options)：聚焦“波动率/VIX/期权市场行为(0DTE/put-call/IV等)”相关线索
+    # - 指数(Index)：聚焦"宏观/利率/大盘方向/风险偏好"相关线索
+    # - 期权(Options)：聚焦"波动率/VIX/期权市场行为(0DTE/put-call/IV等)"相关线索
     # - 其它行业/个股（如七姐妹、特斯拉链）不要无脑灌进指数/期权，避免两栏内容形同。
 
     def _is_options(it: dict) -> bool:
@@ -271,7 +271,7 @@ def main() -> int:
 
     def _is_index(it: dict) -> bool:
         t = ((it.get("title") or "") + " " + (it.get("summary") or "")).lower()
-        # 这里的 index 主要指“大盘指数/指数期货/股指方向”，不把普通“index fund/ETF指数基金”也全部算进来
+        # 这里的 index 主要指"大盘指数/指数期货/股指方向"，不把普通"index fund/ETF指数基金"也全部算进来
         return any(
             k in t
             for k in [
@@ -322,13 +322,10 @@ def main() -> int:
     pool_macro = pick_items("美联储与政策", "地缘/能源/避险")
     pool_equity = pick_items("七姐妹与半导体链", "特斯拉链")
 
-    # 1) 期权栏：先从宏观/风险事件里抓“波动/期权/VIX”相关，再补充少量个股链中明确提到 options 的条目
-    zone_options = [it for it in _dedup(pool_macro + pool_equity) if _is_options(it)]
+    # 合并指数与期权为一栏（用户反馈：两者是一回事）
+    zone_index_options = [it for it in _dedup(pool_macro + pool_equity) if (_is_index(it) or _is_options(it))]
 
-    # 2) 指数栏：偏宏观/利率 + 明确提到股指/期货的新闻；同时排除已归入期权栏的条目
-    zone_index = [it for it in _dedup(pool_macro + pool_equity) if (_is_index(it) and (not _is_options(it)))]
-
-    # 3) 黄金栏：保留原先逻辑（风险事件+宏观），避免被指数/期权污染
+    # 黄金栏：保留原先逻辑（风险事件+宏观），避免被指数/期权污染
     zone_gold = pick_items("地缘/能源/避险", "美联储与政策")
 
     def sec_html(sec: dict) -> str:
@@ -461,9 +458,8 @@ def main() -> int:
       {render_radar()}
 
       <div class=\"grid3\">
-        {render_zone('指数（NQ/ES）','Index',zone_index)}
+        {render_zone('指数/期权（NQ/ES/QQQ）','Index/Options',zone_index_options)}
         {render_zone('黄金（GC）','Gold',zone_gold)}
-        {render_zone('期权（QQQ/SPY/权重）','Options',zone_options)}
       </div>
 
       <section class=\"card\"><h2><span>其他（弱化）</span><span class=\"badge\">{len((sec_by.get('其他') or {}).get('items') or [])}</span></h2><div class=\"tlist\">{('<div class="note">（暂无）</div>' if not (sec_by.get('其他') or {}).get('items') else '')}</div></section>
