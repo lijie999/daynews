@@ -1,6 +1,6 @@
 {
   "date": "2026.03.21",
-  "generatedAtBJT": "2026-03-21 14:00:24",
+  "generatedAtBJT": "2026-03-21 14:25:34",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-21 14:00:24",
+          "time": "2026-03-21 14:25:34",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主要驱动因素：10年期利率 + 原油价格/风险事件\n- 四个关键指标：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否上升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更容易回撤；VIX上升→盘中更容易出现急剧波动/假突破\n- 未来90分钟关键窗口：关注是否临近数据发布/讲话/美债拍卖/开盘等事件窗口；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX上升→偏向纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏向纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：",
+          "summary": "- 主要驱动因素：10年期利率 + 原油/风险事件\n- 四大监控指标：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Equinor Announces New Oil Discovery in Arctic Norway…\n- 宏观/Fed线索：Treasury yields climb as bonds sell off and fear grows that Fed rate cut…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Northern Oil and Gas (NOG) Price Target Upped by $3 at Mizuho…\n- 宏观/Fed线索：Treasury yields climb as bonds sell off and fear grows that Fed rate cut…"
         }
       ]
     },
@@ -27,9 +27,18 @@
       "badge": "Mag7 / Semis",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-21 14:25:30",
+          "title": "OpenAI计划推出桌面版“超级应用”以重新聚焦和简化用户体验。",
+          "summary": "",
+          "url": "https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?siteid=yhoof2&yptr=yahoo",
+          "title_en": "OpenAI Plans Launch of Desktop ‘Superapp’ to Refocus, Simplify User Experience"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
+          "time": "2026-03-21 14:25:30",
           "title": "亚马逊计划重返智能手机市场，距离Fire Phone的失败已有十多年",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/exclusiveamazon-plans-smartphone-comeback-more-than-a-decade-after-fire-phone-flop-4572541",
@@ -38,7 +47,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
+          "time": "2026-03-21 14:25:30",
           "title": "五角大楼计划采用Palantir AI作为核心美国军事系统",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/exclusivepentagon-to-adopt-palantir-aias-core-us-military-system-memo-says-4573952",
@@ -193,16 +202,6 @@
           "url": "https://www.cnbc.com/2026/03/19/column-jensen-huang-doesnt-need-a-new-chip-he-needs-a-new-moat.html",
           "title_en": "Column: Jensen Huang doesn’t need a new chip. He needs a new moat.",
           "summary_en": "Jensen Huang is building a new moat with open-source AI — not out of generosity, but necessity, our tech columnist writes."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-20 02:24:26",
-          "title": "Meta放弃了停止Horizon Worlds VR的决定",
-          "summary": "Meta称将改变心意，Horizon Worlds将继续在PC和VR设备上提供。",
-          "url": "https://www.cnbc.com/2026/03/19/meta-backtracks-on-decision-to-end-horizon-worlds-vr-ans-spoke-up.html",
-          "title_en": "Meta backtracks on decision to end Horizon Worlds VR after fans speak up",
-          "summary_en": "A day after announcing the Horizon Worlds would only be available on a mobile app starting in June, Meta said it changed its mind."
         }
       ]
     },
@@ -269,25 +268,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
-          "title": "挪威石油公司宣布在北极挪威发现新油田",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/equinor-announces-oil-discovery-arctic-230028327.html",
-          "title_en": "Equinor Announces New Oil Discovery in Arctic Norway"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
-          "title": "科佩特罗尔（EC）价格目标上调至13美元 伴随着油价大幅上涨",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/ecopetrol-ec-price-target-raised-230123159.html",
-          "title_en": "Ecopetrol (EC) Price Target Raised to $13 Amid the Soaring Oil Prices"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
+          "time": "2026-03-21 14:25:30",
           "title": "Northern Oil和Gas (NOG)价格目标由Mizuho提高了$3",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/energy/articles/northern-oil-gas-nog-price-230211773.html",
@@ -296,16 +277,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
-          "title": "澳股料轻微走低，受油价波动影响。",
+          "time": "2026-03-21 14:25:30",
+          "title": "科佩特罗尔（EC）价格目标上调至13美元 伴随着油价大幅上涨",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/morning-catch-asx-set-ease-224100902.html",
-          "title_en": "The Morning Catch-Up: ASX set to ease as oil volatility drives sentiment"
+          "url": "https://finance.yahoo.com/sectors/energy/articles/ecopetrol-ec-price-target-raised-230123159.html",
+          "title_en": "Ecopetrol (EC) Price Target Raised to $13 Amid the Soaring Oil Prices"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-21 14:25:30",
+          "title": "挪威石油公司宣布在北极挪威发现新油田",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/equinor-announces-oil-discovery-arctic-230028327.html",
+          "title_en": "Equinor Announces New Oil Discovery in Arctic Norway"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-21 14:25:30",
+          "title": "石油价格下跌，美国和盟友寻求增加供应，缓解霍尔木兹海峡瓶颈",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/oil-falls-us-allies-look-013135052.html",
+          "title_en": "Oil falls as US and allies look to boost supply, unchoke Strait of Hormuz"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
+          "time": "2026-03-21 14:25:30",
           "title": "联合航空计划减少更多航班，预计到2027年油价将超过100美元。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/united-airlines-to-cut-5-of-scheduled-flights-as-fuel-prices-soar-4573955",
@@ -455,133 +454,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
-          "title": "Nexstar的3.5亿美元Tegna交易获得美国司法部的批准，彭博新闻报道。",
+          "time": "2026-03-21 14:25:30",
+          "title": "Qualcomm 股票提高了其股息，QCOM 股票是否买入？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/nexstars-3-5-billion-tegna-225615372.html",
-          "title_en": "Nexstar's $3.5 billion Tegna deal cleared by US DOJ, Bloomberg News reports"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-raises-dividend-qcom-233002709.html",
+          "title_en": "As Qualcomm Stock Raises Its Dividend, Is QCOM Stock a Buy?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
-          "title": "投资经理出售2.4万股的公用事业股票，根据最近的SEC报告",
+          "time": "2026-03-21 14:25:30",
+          "title": "在假肉的市场中，Beyond Meat能否生存？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/investment-manager-sheds-2-4-225701631.html",
-          "title_en": "Investment Manager Sheds 2.4 Million Shares of Utility Stock, According to Recent SEC Filing"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/beyond-meat-survive-beyond-fake-233108990.html",
+          "title_en": "Can Beyond Meat Survive Beyond The Fake Meat?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
-          "title": "木户证券提高了Chord Energy (CHRD)的股价目标价$14",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mizuho-raises-chord-energy-chrd-230037835.html",
-          "title_en": "Mizuho Raises Chord Energy (CHRD) Price Target by $14"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
-          "title": "意大利国营石油公司Eni宣布在利比亚海域发现重大天然气储量",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/eni-announces-significant-gas-discoveries-230014787.html",
-          "title_en": "Eni Announces Significant Gas Discoveries Offshore Libya"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
-          "title": "性别平等仍是ESG的明显但难以实现的目标",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/gender-equality-remains-esg-obvious-225854850.html",
-          "title_en": "Gender Equality Remains ESG’s Obvious Yet Elusive Goal"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
-          "title": "MPLX价格目标提高了9美元，维持“买入”评级。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/mplx-price-target-bumped-9-230146316.html",
-          "title_en": "MPLX Price Target Bumped by $9, ‘Buy’ Rating Maintained"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
-          "title": "Western Midstream Partners (WES) 价目标降至 43 美元",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/western-midstream-partners-wes-price-230133829.html",
-          "title_en": "Western Midstream Partners (WES) Price Target Lowered to $43"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
-          "title": "渣打银行提高Kinetik Holdings（KNTK）目标价2美元",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-increases-kinetik-holdings-kntk-230200872.html",
-          "title_en": "Scotiabank Increases Kinetik Holdings (KNTK) Price Target by $2"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
-          "title": "巴西石油即将收购马来西亚石油在两块海上油田的股份。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/petrobras-set-acquire-petronas-stake-230221564.html",
-          "title_en": "Petrobras Set to Acquire Petronas’ Stake in Two Offshore Fields"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
-          "title": "Viper 能源（VNOM）价格目标提高至54美元，Mizuho",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/viper-energy-vnom-price-target-230315978.html",
-          "title_en": "Viper Energy (VNOM) Price Target Bumped to $54 at Mizuho"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
-          "title": "摩根士丹利提高企业产品合作伙伴（EPD）目标价格至38美元。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/morgan-stanley-raises-enterprise-products-230251064.html",
-          "title_en": "Morgan Stanley Raises Enterprise Products Partners (EPD) Price Target to $38"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
-          "title": "BP获得授权推进墨西哥湾项目",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/bp-granted-approval-advance-gulf-230303857.html",
-          "title_en": "BP Granted Approval to Advance Gulf of Mexico Project"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
-          "title": "伍德赛德能源集团与西澳州达成协议，提高液化天然气出口",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/woodside-energy-group-strikes-agreement-230326188.html",
-          "title_en": "Woodside Energy Group Strikes Agreement with Western Australia for Higher LNG Exports"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
-          "title": "Planet Labs (PL) 2026 年第四季度财报电话会议记录",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-q4-2026-224444743.html",
-          "title_en": "Planet Labs (PL) Q4 2026 Earnings Call Transcript"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
+          "time": "2026-03-21 14:25:30",
           "title": "关闭银行账户不会直接影响你的信用评分。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/do-closed-bank-accounts-affect-credit-score-164534735.html",
@@ -590,7 +481,124 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
+          "time": "2026-03-21 14:25:30",
+          "title": "伍德赛德能源集团与西澳州达成协议，提高液化天然气出口",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/woodside-energy-group-strikes-agreement-230326188.html",
+          "title_en": "Woodside Energy Group Strikes Agreement with Western Australia for Higher LNG Exports"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-21 14:25:30",
+          "title": "BP获得授权推进墨西哥湾项目",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/bp-granted-approval-advance-gulf-230303857.html",
+          "title_en": "BP Granted Approval to Advance Gulf of Mexico Project"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-21 14:25:30",
+          "title": "Uber 正在与 Rivian 建立密切关系。这是否使得这两只股票成为买入对象？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/uber-cozying-rivian-does-either-233100417.html",
+          "title_en": "Uber Is Cozying Up With Rivian. Does This Make Either Stock a Buy?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-21 14:25:30",
+          "title": "巴西石油即将收购马来西亚石油在两块海上油田的股份。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/petrobras-set-acquire-petronas-stake-230221564.html",
+          "title_en": "Petrobras Set to Acquire Petronas’ Stake in Two Offshore Fields"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-21 14:25:30",
+          "title": "渣打银行提高Kinetik Holdings（KNTK）目标价2美元",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-increases-kinetik-holdings-kntk-230200872.html",
+          "title_en": "Scotiabank Increases Kinetik Holdings (KNTK) Price Target by $2"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-21 14:25:30",
+          "title": "Viper 能源（VNOM）价格目标提高至54美元，Mizuho",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/viper-energy-vnom-price-target-230315978.html",
+          "title_en": "Viper Energy (VNOM) Price Target Bumped to $54 at Mizuho"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-21 14:25:30",
+          "title": "摩根士丹利提高企业产品合作伙伴（EPD）目标价格至38美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/morgan-stanley-raises-enterprise-products-230251064.html",
+          "title_en": "Morgan Stanley Raises Enterprise Products Partners (EPD) Price Target to $38"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-21 14:25:30",
+          "title": "木户证券提高了Chord Energy (CHRD)的股价目标价$14",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mizuho-raises-chord-energy-chrd-230037835.html",
+          "title_en": "Mizuho Raises Chord Energy (CHRD) Price Target by $14"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-21 14:25:30",
+          "title": "Western Midstream Partners (WES) 价目标降至 43 美元",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/western-midstream-partners-wes-price-230133829.html",
+          "title_en": "Western Midstream Partners (WES) Price Target Lowered to $43"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-21 14:25:30",
+          "title": "MPLX价格目标提高了9美元，维持“买入”评级。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/mplx-price-target-bumped-9-230146316.html",
+          "title_en": "MPLX Price Target Bumped by $9, ‘Buy’ Rating Maintained"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-21 14:25:30",
+          "title": "十年一次的消费品投资机会：长期投资者眼中的前两名",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-2-once-decade-consumer-232500189.html",
+          "title_en": "Top 2 Once-in-a-Decade Consumer Picks for Long-Term Investors"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-21 14:25:30",
+          "title": "意大利国营石油公司Eni宣布在利比亚海域发现重大天然气储量",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/eni-announces-significant-gas-discoveries-230014787.html",
+          "title_en": "Eni Announces Significant Gas Discoveries Offshore Libya"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-21 14:25:30",
+          "title": "Nexstar的3.5亿美元Tegna交易获得美国司法部的批准，彭博新闻报道。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/nexstars-3-5-billion-tegna-225615372.html",
+          "title_en": "Nexstar's $3.5 billion Tegna deal cleared by US DOJ, Bloomberg News reports"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-21 14:25:30",
           "title": "Gemini收入增长到18亿美元，但2025年亏损飙升至58.3亿美元",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/crypto/articles/gemini-revenue-grows-180-million-223900349.html",
@@ -599,20 +607,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
-          "title": "全球供应冲击揭露了能源独立的神话",
+          "time": "2026-03-21 14:25:30",
+          "title": "联邦快递第三季度财报电话会议亮点",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/global-supply-shock-exposes-myth-220000831.html",
-          "title_en": "Global Supply Shock Exposes the Myth of Energy Independence"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-21 14:00:19",
-          "title": "Qualcomm 股票提高了其股息，QCOM 股票是否买入？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-raises-dividend-qcom-233002709.html",
-          "title_en": "As Qualcomm Stock Raises Its Dividend, Is QCOM Stock a Buy?"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fedex-q3-earnings-call-highlights-230926635.html",
+          "title_en": "FedEx Q3 Earnings Call Highlights"
         }
       ]
     }
