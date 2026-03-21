@@ -3,12 +3,14 @@ from __future__ import annotations
 
 import datetime as dt
 import json
+import subprocess
 from pathlib import Path
 
 REPO_DIR = Path("/Users/lijiaolong/.openclaw/workspace/daynews")
 DOCS = REPO_DIR / "docs"
 BRIEFS = DOCS / "briefs.json"
 OUT = DOCS / "index.html"
+MARKET_PULSE_CACHE = DOCS / ".market_pulse_cache.json"
 
 
 def _now_bjt() -> dt.datetime:
@@ -170,6 +172,84 @@ def main() -> int:
             f'<div class="hero-body">{summ}</div>'
             '</section>'
         )
+
+    def render_market_pulse() -> str:
+        """
+        抓取外部市场新闻源 + AI 总结生成「市场脉搏」卡片
+        使用缓存避免频繁调用（缓存 30 分钟）
+        """
+        import time
+        
+        # 检查缓存
+        if MARKET_PULSE_CACHE.exists():
+            try:
+                cache = json.loads(MARKET_PULSE_CACHE.read_text(encoding="utf-8"))
+                cache_time = cache.get("timestamp", 0)
+                if time.time() - cache_time < 1800:  # 30分钟缓存
+                    html = cache.get("html", "")
+                    if html:
+                        return html
+            except Exception:
+                pass
+        
+        # 生成新的市场脉搏（调用 OpenClaw CLI web_search）
+        try:
+            # 搜索多个关键词
+            queries = [
+                "site:finance.yahoo.com stock market news today",
+                "site:cnbc.com market wrap",
+                "site:marketwatch.com stocks today"
+            ]
+            
+            all_results = []
+            for query in queries[:2]:  # 限制2个查询避免过度消耗
+                result = subprocess.run(
+                    ["openclaw", "web-search", query, "--count", "3", "--json"],
+                    capture_output=True,
+                    text=True,
+                    timeout=15
+                )
+                if result.returncode == 0:
+                    try:
+                        data = json.loads(result.stdout)
+                        all_results.extend(data.get("results", [])[:3])
+                    except Exception:
+                        pass
+            
+            if not all_results:
+                # 无法获取外部数据，返回占位
+                html = '<section class="card market-pulse"><h2><span>市场脉搏</span><span class="badge">外部源</span></h2><div class="note">（暂时无法获取外部市场数据）</div></section>'
+                return html
+            
+            # 提取标题和摘要
+            news_items = []
+            for item in all_results[:6]:
+                title = item.get("title", "").replace("<<<EXTERNAL_UNTRUSTED_CONTENT", "").replace(">>>", "").strip()
+                desc = item.get("description", "").replace("<<<EXTERNAL_UNTRUSTED_CONTENT", "").replace(">>>", "").strip()
+                if title and len(title) > 10:
+                    news_items.append(f"- {title[:100]}\n  {desc[:150]}")
+            
+            # 构建HTML（简化版，不调用LLM总结，直接展示关键新闻）
+            news_html = "<br>".join([esc(n.replace("\n", " · ")) for n in news_items[:4]])
+            
+            html = (
+                '<section class="card market-pulse">'
+                '<h2><span>市场脉搏（外部源）</span><span class="badge">Yahoo/CNBC</span></h2>'
+                f'<div class="pulse-body">{news_html}</div>'
+                '</section>'
+            )
+            
+            # 写入缓存
+            MARKET_PULSE_CACHE.write_text(
+                json.dumps({"timestamp": time.time(), "html": html}, ensure_ascii=False),
+                encoding="utf-8"
+            )
+            
+            return html
+            
+        except Exception as e:
+            # 失败时返回错误提示
+            return f'<section class="card market-pulse"><h2><span>市场脉搏</span></h2><div class="note">（获取失败: {esc(str(e)[:80])}）</div></section>'
 
     def render_radar() -> str:
         pool = pick_items("美联储与政策", "地缘/能源/避险", "七姐妹与半导体链", "特斯拉链")
@@ -503,6 +583,7 @@ def main() -> int:
       </header>
 
       {render_thesis()}
+      {render_market_pulse()}
       {render_radar()}
 
       <div class=\"grid3\">
