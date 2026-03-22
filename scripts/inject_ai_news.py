@@ -56,46 +56,199 @@ def get_latest_ai_news_items(limit=10):
     return items
 
 def generate_ai_news_section_html(items):
-    """生成 AI 新闻板块 HTML"""
+    """生成 AI 新闻板块 HTML（带翻页轮播）"""
     if not items:
         return '<section class="card"><h2><span>🤖 AI 新闻</span><span class="badge">0</span></h2><div class="tlist"><div class="note">（今日暂无 AI 新闻）</div></div></section>'
     
-    html = f'<section class="card"><h2><span>🤖 AI 新闻（每30分钟更新）</span><span class="badge">{len(items)}</span></h2><div class="tlist">'
+    # 每页显示4条新闻
+    items_per_page = 4
+    total_pages = (len(items) + items_per_page - 1) // items_per_page
     
-    for item in items:
-        # 映射 emoji 到 badge 类型
-        if "💰" in item["tags"]:
-            badge_class = "rA"
-            badge_text = "融资"
-        elif "🛡️" in item["tags"]:
-            badge_class = "rS"
-            badge_text = "监管"
-        elif "🧠" in item["tags"]:
-            badge_class = "rA"
-            badge_text = "模型"
-        elif "🤖" in item["tags"]:
-            badge_class = "rA"
-            badge_text = "Agent"
-        elif "🔧" in item["tags"]:
-            badge_class = "rB"
-            badge_text = "应用"
-        else:
-            badge_class = "rB"
-            badge_text = "其他"
-        
-        html += f'''
-<div class="titem">
-  <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
-    <div class="rbadge {badge_class}" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">{badge_text}</div>
-    <div>
-      <a class="ttitle" href="{item['link']}" target="_blank" rel="noreferrer noopener">{item['title']}</a>
-      <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">{item['summary']}</div>
-    </div>
-  </div>
-</div>
+    html = f'''<section class="card ai-news-carousel">
+<h2>
+  <span>🤖 AI 新闻（每30分钟更新）</span>
+  <span class="badge">{len(items)}</span>
+</h2>
+<div class="ai-carousel-wrapper">
+  <button class="carousel-btn carousel-prev" onclick="aiNewsCarousel.prev()">‹</button>
+  <div class="ai-carousel-container">
 '''
     
-    html += '</div></section>'
+    # 分页生成新闻
+    for page_idx in range(total_pages):
+        start_idx = page_idx * items_per_page
+        end_idx = min(start_idx + items_per_page, len(items))
+        page_items = items[start_idx:end_idx]
+        
+        active_class = ' active' if page_idx == 0 else ''
+        html += f'    <div class="ai-carousel-page{active_class}" data-page="{page_idx}">\n'
+        html += '      <div class="tlist">\n'
+        
+        for item in page_items:
+            # 映射 emoji 到 badge 类型
+            if "💰" in item["tags"]:
+                badge_class = "rA"
+                badge_text = "融资"
+            elif "🛡️" in item["tags"]:
+                badge_class = "rS"
+                badge_text = "监管"
+            elif "🧠" in item["tags"]:
+                badge_class = "rA"
+                badge_text = "模型"
+            elif "🤖" in item["tags"]:
+                badge_class = "rA"
+                badge_text = "Agent"
+            elif "🔧" in item["tags"]:
+                badge_class = "rB"
+                badge_text = "应用"
+            else:
+                badge_class = "rB"
+                badge_text = "其他"
+            
+            html += f'''        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge {badge_class}" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">{badge_text}</div>
+            <div>
+              <a class="ttitle" href="{item['link']}" target="_blank" rel="noreferrer noopener">{item['title']}</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">{item['summary']}</div>
+            </div>
+          </div>
+        </div>
+'''
+        
+        html += '      </div>\n'
+        html += '    </div>\n'
+    
+    html += f'''  </div>
+  <button class="carousel-btn carousel-next" onclick="aiNewsCarousel.next()">›</button>
+</div>
+<div class="carousel-dots">
+'''
+    
+    # 生成分页指示器
+    for i in range(total_pages):
+        active_class = ' active' if i == 0 else ''
+        html += f'  <span class="carousel-dot{active_class}" data-page="{i}" onclick="aiNewsCarousel.goTo({i})"></span>\n'
+    
+    html += f'''</div>
+<script>
+// AI 新闻轮播控制
+const aiNewsCarousel = {{
+  currentPage: 0,
+  totalPages: {total_pages},
+  
+  goTo(page) {{
+    if (page < 0 || page >= this.totalPages) return;
+    
+    // 隐藏当前页
+    document.querySelectorAll('.ai-carousel-page').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll('.carousel-dot').forEach(d => d.classList.remove('active'));
+    
+    // 显示目标页
+    document.querySelector(`.ai-carousel-page[data-page="${{page}}"]`).classList.add('active');
+    document.querySelector(`.carousel-dot[data-page="${{page}}"]`).classList.add('active');
+    
+    this.currentPage = page;
+  }},
+  
+  next() {{
+    this.goTo((this.currentPage + 1) % this.totalPages);
+  }},
+  
+  prev() {{
+    this.goTo((this.currentPage - 1 + this.totalPages) % this.totalPages);
+  }}
+}};
+
+// 键盘快捷键
+document.addEventListener('keydown', (e) => {{
+  if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+  if (e.key === 'ArrowLeft') aiNewsCarousel.prev();
+  if (e.key === 'ArrowRight') aiNewsCarousel.next();
+}});
+</script>
+<style>
+.ai-news-carousel {{
+  position: relative;
+}}
+
+.ai-carousel-wrapper {{
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}}
+
+.ai-carousel-container {{
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+}}
+
+.ai-carousel-page {{
+  display: none;
+}}
+
+.ai-carousel-page.active {{
+  display: block;
+}}
+
+.carousel-btn {{
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  color: var(--text);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+  flex-shrink: 0;
+}}
+
+.carousel-btn:hover {{
+  background: rgba(255,255,255,0.15);
+  border-color: rgba(255,255,255,0.3);
+  transform: scale(1.05);
+}}
+
+.carousel-btn:active {{
+  transform: scale(0.95);
+}}
+
+.carousel-dots {{
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 0 8px;
+}}
+
+.carousel-dot {{
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.2);
+  cursor: pointer;
+  transition: all 0.2s;
+}}
+
+.carousel-dot:hover {{
+  background: rgba(255,255,255,0.4);
+  transform: scale(1.2);
+}}
+
+.carousel-dot.active {{
+  background: rgba(255,176,32,0.8);
+  width: 24px;
+  border-radius: 4px;
+}}
+</style>
+</section>'''
+    
     return html
 
 def inject_ai_news_to_index():
@@ -112,8 +265,8 @@ def inject_ai_news_to_index():
     ai_section_pattern = r'<section class="card"><h2><span>🤖 AI 新闻[^<]*</span>.*?</section>\n*'
     content = re.sub(ai_section_pattern, '', content, flags=re.DOTALL)
     
-    # 获取 AI 新闻
-    ai_items = get_latest_ai_news_items(limit=8)
+    # 获取 AI 新闻（增加到12条，支持3页翻页）
+    ai_items = get_latest_ai_news_items(limit=12)
     ai_section_html = generate_ai_news_section_html(ai_items)
     
     # 查找主线结论后、grid3 之前的位置
