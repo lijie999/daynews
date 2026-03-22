@@ -375,8 +375,8 @@ def main() -> int:
                 tomorrow_events.append(result)
         
         # 生成HTML（先处理数据日历部分）
-        html_parts = ['<section class="card data-calendar">',
-                      '<h2><span>📅 数据日历</span><span class="badge">重点发布</span></h2>',
+        html_parts = ['<div class="panel">',
+                      '<h3><span>📅 数据日历</span><span class="badge">重点发布</span></h3>',
                       '<div class="calendar-body">']
         
         if today_events:
@@ -519,7 +519,7 @@ def main() -> int:
                 f'<div class="note" style="padding:10px 12px">（本周无重点财报，{next_season}）</div>'
             )
         
-        html_parts.append('</div></section>')
+        html_parts.append('</div></div>')
         
         return '\n'.join(html_parts)
 
@@ -862,7 +862,6 @@ def main() -> int:
       </header>
 
       {render_thesis()}
-      {render_data_calendar()}
       {render_radar()}
 
       <div class=\"grid3\">
@@ -870,18 +869,11 @@ def main() -> int:
         {render_zone('黄金（GC）','Gold',zone_gold)}
       </div>
 
-      <section class=\"card\"><h2><span>其他（弱化）</span><span class=\"badge\">{len((sec_by.get('其他') or {}).get('items') or [])}</span></h2><div class=\"tlist\">{('<div class="note">（暂无）</div>' if not (sec_by.get('其他') or {}).get('items') else '')}</div></section>
+      <section class=\"card\"><h2><span>其他（弱化）</span><span class=\"badge\">{len((sec_by.get('其他') or {}).get('items') or [])}</span></h2><div class=\"tlist\">{('<div class="note">（暂无）</div>' if not (sec_by.get('其他') or {}).get('items') else '')}</div></div>
     </main>
 
     <aside class=\"side\">
-      <div class=\"panel\">
-        <h3><span>历史</span><span class=\"badge\">{len(history)}</span></h3>
-        <div class=\"navrow\">
-          <a class=\"btn\" href=\"list.html\">列表</a>
-          <a class=\"btn\" href=\"briefs.json\">JSON</a>
-        </div>
-        <div class=\"hlist\">{hist_items}</div>
-      </div>
+      {render_data_calendar()}
     </aside>
   </div>
 </body>
