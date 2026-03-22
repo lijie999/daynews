@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+<style>
+body { margin: 0; padding: 20px; background: #0a0e1a; color: white; font-family: sans-serif; }
+.wrap { 
+  max-width: 1480px; 
+  margin: 0 auto; 
+  display: grid; 
+  grid-template-columns: 1fr 360px; 
+  gap: 16px; 
+  align-items: start;
+  border: 2px solid yellow; /* 测试边框 */
+}
+main { 
+  background: rgba(255,255,255,0.1); 
+  padding: 20px; 
+  border: 2px solid red; /* 测试边框 */
+}
+.side { 
+  position: sticky; 
+  top: 16px; 
+  background: rgba(255,255,255,0.1); 
+  padding: 20px; 
+  border: 2px solid green; /* 测试边框 */
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <main>
+    <h1>主区域 (左侧)</h1>
+    <p>这是主内容区域，占据剩余空间 (1fr)</p>
+    <div style="height: 2000px; background: rgba(255,0,0,0.1);">
+      <p>很长的内容...</p>
+    </div>
+  </main>
+  
+  <aside class="side">
+    <h2>数据日历 (右侧)</h2>
+    <p>这应该固定在右侧，宽度360px</p>
+    <p>向下滚动时应该sticky在顶部</p>
+  </aside>
+</div>
+</body>
+</html>
