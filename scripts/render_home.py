@@ -869,7 +869,7 @@ def main() -> int:
         {render_zone('黄金（GC）','Gold',zone_gold)}
       </div>
 
-      <section class=\"card\"><h2><span>其他（弱化）</span><span class=\"badge\">{len((sec_by.get('其他') or {}).get('items') or [])}</span></h2><div class=\"tlist\">{('<div class="note">（暂无）</div>' if not (sec_by.get('其他') or {}).get('items') else '')}</div></div>
+      <section class=\"card\"><h2><span>其他（弱化）</span><span class=\"badge\">{len((sec_by.get('其他') or {}).get('items') or [])}</span></h2><div class=\"tlist\">{('<div class="note">（暂无）</div>' if not (sec_by.get('其他') or {}).get('items') else '')}</div></section>
     </main>
 
     <aside class=\"side\">
