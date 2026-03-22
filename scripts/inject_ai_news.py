@@ -271,7 +271,7 @@ def inject_ai_news_to_index():
     
     # 查找主线结论后、grid3 之前的位置
     # 匹配模式：</section>（主线结论结束） + 任意空白 + <div class="grid3">
-    insertion_pattern = r'(</div>\s*</section>)(\s*<div class="grid3">)'
+    insertion_pattern = r'(</section>)(\s*<div class="grid3">)'
     
     if not re.search(insertion_pattern, content):
         print("❌ 找不到插入位置（主线结论与grid3之间）")
