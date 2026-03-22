@@ -881,6 +881,25 @@ def main() -> int:
 """
 
     OUT.write_text(page, encoding="utf-8")
+    
+    # 生成完主页后，立即注入 AI 新闻
+    print("📰 Injecting AI news...")
+    import subprocess
+    inject_script = REPO_DIR / "scripts" / "inject_ai_news.py"
+    if inject_script.exists():
+        result = subprocess.run(
+            ["python3", str(inject_script)],
+            cwd=REPO_DIR,
+            capture_output=True,
+            text=True
+        )
+        if result.returncode == 0:
+            print("✅ AI news injected successfully")
+        else:
+            print(f"⚠️  AI news injection failed: {result.stderr}")
+    else:
+        print(f"⚠️  inject_ai_news.py not found at {inject_script}")
+    
     return 0
 
 
