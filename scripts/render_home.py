@@ -589,7 +589,7 @@ def main() -> int:
 
         return block("事件雷达｜S级", s_list) + block("事件雷达｜A级", a_list)
 
-    def render_zone(name: str, badge: str, items: list[dict]) -> str:
+    def render_zone(name: str, items: list[dict]) -> str:
         seen: set[str] = set()
         uniq: list[dict] = []
         for it in items:
@@ -613,9 +613,10 @@ def main() -> int:
                 '</div>'
             )
         body = "\n".join(rows) if rows else '<div class="note">（暂无）</div>'
+        # badge 显示条数，name 包含emoji和描述
         return (
             '<section class="card">'
-            f'<h2><span>{esc(name)}</span><span class="badge">{esc(badge)}</span></h2>'
+            f'<h2><span>{esc(name)}</span><span class="badge">{len(uniq)}</span></h2>'
             f'<div class="tlist">{body}</div>'
             '</section>'
         )
@@ -723,11 +724,10 @@ def main() -> int:
     pool_macro = pick_items("美联储与政策", "地缘/能源/避险")
     pool_equity = pick_items("七姐妹与半导体链", "特斯拉链")
 
-    # 合并指数与期权为一栏（用户反馈：两者是一回事）
-    zone_index_options = [it for it in _dedup(pool_macro + pool_equity) if (_is_index(it) or _is_options(it))]
-
-    # 黄金栏：保留原先逻辑（风险事件+宏观），避免被指数/期权污染
-    zone_gold = pick_items("地缘/能源/避险", "美联储与政策")
+    # 新板块划分（方案A）
+    zone_index_tech = pick_items("七姐妹与半导体链")  # 指数/科技：FAANG + 半导体
+    zone_energy_geo = pick_items("地缘/能源/避险")    # 能源/地缘：黄金 + 油价 + 地缘冲突
+    zone_fed_policy = pick_items("美联储与政策")      # 美联储/政策：利率 + CPI + 财政
 
     def sec_html(sec: dict) -> str:
         # Legacy raw view (compact)
@@ -823,7 +823,7 @@ def main() -> int:
     .rsumm{{margin-top:6px;color:var(--muted);font-size:14px;line-height:1.5}}
 
     /* GRID (2列优化：从3列改为2列，增加卡片宽度) */
-    .grid3{{display:grid;grid-template-columns: repeat(2, minmax(0, 1fr));gap:16px}}
+    .grid3{{display:grid;grid-template-columns: repeat(3, minmax(0, 1fr));gap:16px}}
     @media (max-width: 880px){{.grid3{{grid-template-columns: 1fr;}}}}
 
     /* ZONES (按品种 - 2列优化：增大字号与间距) */
@@ -853,23 +853,23 @@ def main() -> int:
     <main>
       <header>
         <div class=\"k\">
-          <span class=\"pill\">交易台模式（主线→雷达→分品种）</span>
+          <span class=\"pill\">交易台模式（主线→AI→主题）</span>
           <span class=\"pill\">最后更新：{esc(generated)}（北京时间）</span>
           <span class=\"pill\">数据：briefs.json</span>
         </div>
         <h1>DayNews · {date}</h1>
-        <p class=\"sub\">先读主线结论（3秒），再扫事件雷达（30秒），最后按品种浏览（3分钟）。</p>
+        <p class=\"sub\">先读主线结论（3秒），再看AI动态（10秒），最后按主题浏览（3分钟）。</p>
       </header>
 
       {render_thesis()}
-      {render_radar()}
 
       <div class=\"grid3\">
-        {render_zone('指数/期权（NQ/ES/QQQ）','Index/Options',zone_index_options)}
-        {render_zone('黄金（GC）','Gold',zone_gold)}
+        {render_zone('📊 指数/科技',zone_index_tech)}
+        {render_zone('⚡ 能源/地缘',zone_energy_geo)}
+        {render_zone('💵 美联储/政策',zone_fed_policy)}
       </div>
 
-      <section class=\"card\"><h2><span>其他（弱化）</span><span class=\"badge\">{len((sec_by.get('其他') or {}).get('items') or [])}</span></h2><div class=\"tlist\">{('<div class="note">（暂无）</div>' if not (sec_by.get('其他') or {}).get('items') else '')}</div></section>
+      <section class=\"card\"><h2><span>其他</span><span class=\"badge\">{len((sec_by.get('其他') or {}).get('items') or [])}</span></h2><div class=\"tlist\">{('<div class="note">（暂无）</div>' if not (sec_by.get('其他') or {}).get('items') else '')}</div></section>
     </main>
 
     <aside class=\"side\">

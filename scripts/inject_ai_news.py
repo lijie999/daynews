@@ -116,17 +116,17 @@ def inject_ai_news_to_index():
     ai_items = get_latest_ai_news_items(limit=8)
     ai_section_html = generate_ai_news_section_html(ai_items)
     
-    # 查找"数据日历"板块的位置（在主线结论之后）
-    # 匹配模式：主线结论的 </section> 后面
-    thesis_end_pattern = r'(</div>\s*</section>)(\s*<section class="card)'
+    # 查找主线结论后、grid3 之前的位置
+    # 匹配模式：</section>（主线结论结束） + 任意空白 + <div class="grid3">
+    insertion_pattern = r'(</div>\s*</section>)(\s*<div class="grid3">)'
     
-    if not re.search(thesis_end_pattern, content):
-        print("❌ 找不到主线结论板块")
+    if not re.search(insertion_pattern, content):
+        print("❌ 找不到插入位置（主线结论与grid3之间）")
         return False
     
-    # 在主线结论后插入 AI 新闻
+    # 在主线结论后、grid3前插入 AI 新闻
     new_content = re.sub(
-        thesis_end_pattern,
+        insertion_pattern,
         f'\\1\n\n      {ai_section_html}\\2',
         content,
         count=1  # 只替换第一个匹配
