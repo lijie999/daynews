@@ -27,10 +27,20 @@ def get_latest_ai_news_items(limit=10):
     
     # 提取新闻条目
     items = []
-    # 匹配格式：1️⃣ 💰🛡️ **标题** \n 摘要 \n 🔗 链接
-    pattern = r'(\d+)️⃣\s+([^\*]+?)\*\*(.+?)\*\*\n(.+?)\n🔗\s+(.+?)(?=\n\n|\n\d+️⃣|$)'
+    # 支持两种格式：
+    # 格式1: 1️⃣ 💰🛡️ **标题** \n 摘要 \n 🔗 链接
+    # 格式2: 1. 🤖Agent **标题** \n 摘要 \n 🔗 链接
     
-    for match in re.finditer(pattern, content, re.DOTALL):
+    # 尝试格式1（带emoji数字）
+    pattern1 = r'(\d+)️⃣\s+([^\*]+?)\*\*(.+?)\*\*\n(.+?)\n🔗\s+(.+?)(?=\n\n|\n\d+️⃣|$)'
+    matches = list(re.finditer(pattern1, content, re.DOTALL))
+    
+    if not matches:
+        # 尝试格式2（普通数字）
+        pattern2 = r'(\d+)\.\s+([^\*]+?)\*\*(.+?)\*\*\n\s*(.+?)\n\s*🔗\s+(.+?)(?=\n\n|\n\d+\.|---|\Z)'
+        matches = list(re.finditer(pattern2, content, re.DOTALL))
+    
+    for match in matches:
         num, tags, title, summary, link = match.groups()
         items.append({
             "number": num,
@@ -97,23 +107,29 @@ def inject_ai_news_to_index():
     # 读取当前 HTML
     content = INDEX_HTML.read_text(encoding='utf-8')
     
+    # 先删除所有现有的 AI 新闻板块（避免重复）
+    # 匹配模式：<section class="card"><h2><span>🤖 AI 新闻...整个section
+    ai_section_pattern = r'<section class="card"><h2><span>🤖 AI 新闻[^<]*</span>.*?</section>\n*'
+    content = re.sub(ai_section_pattern, '', content, flags=re.DOTALL)
+    
     # 获取 AI 新闻
     ai_items = get_latest_ai_news_items(limit=8)
     ai_section_html = generate_ai_news_section_html(ai_items)
     
-    # 查找"其他"板块的位置
-    # <section class="card"><h2><span>其他（弱化）</span>
-    other_section_pattern = r'(<section class="card"><h2><span>其他（弱化）</span>)'
+    # 查找"数据日历"板块的位置（在主线结论之后）
+    # 匹配模式：主线结论的 </section> 后面
+    thesis_end_pattern = r'(</div>\s*</section>)(\s*<section class="card)'
     
-    if not re.search(other_section_pattern, content):
-        print("❌ 找不到'其他'板块")
+    if not re.search(thesis_end_pattern, content):
+        print("❌ 找不到主线结论板块")
         return False
     
-    # 在"其他"板块前插入 AI 新闻
+    # 在主线结论后插入 AI 新闻
     new_content = re.sub(
-        other_section_pattern,
-        f'\n      {ai_section_html}\n\n      \\1',
-        content
+        thesis_end_pattern,
+        f'\\1\n\n      {ai_section_html}\\2',
+        content,
+        count=1  # 只替换第一个匹配
     )
     
     # 写回文件
