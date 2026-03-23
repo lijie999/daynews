@@ -1,6 +1,6 @@
 {
   "date": "2026.03.24",
-  "generatedAtBJT": "2026-03-24 03:02:15",
+  "generatedAtBJT": "2026-03-24 03:30:26",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-24 03:02:15",
+          "time": "2026-03-24 03:30:26",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指数（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金价格更易回撤；VIX指数上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX指数抬升→偏纳斯达克/标普500先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX指数回落→偏纳斯达克/标普500修复反弹、黄金价格喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密",
+          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜恐惧指数（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；恐惧指数上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且恐惧指数抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且恐惧指数回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Wall Street indexes rise after Trump postpones strikes on Iran’s power p…\n- 宏观/Fed线索：Exclusively Mitigating Market Volatility For Yield Through SVOL…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Oil Shocks and What Comes Next for Emerging Markets…\n- 宏观/Fed线索：57% of Americans keep savings in the wrong place — here’s what $20K can …"
         }
       ]
     },
@@ -29,56 +29,47 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
-          "title": "SharonAI控股向澳大利亚推介“Neocloud”人工智能计算，RedChip会议上详细说明7700万美元融资",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/sharonai-holdings-pitches-australia-neocloud-100519178.html",
-          "title_en": "SharonAI Holdings Pitches Australia “Neocloud” AI Compute, Details $770M Funding at RedChip Conference"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
-          "title": "年轻工作者正在采取多种措施来保护自己免受人工智能的影响。",
-          "summary": "",
-          "url": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284?siteid=yhoof2&yptr=yahoo",
-          "title_en": "What Young Workers Are Doing to AI-Proof Themselves"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
-          "title": "Superior Group of Companies强调三大业务增长、AI潜力、回购和分红在会议谈话中",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/superior-group-companies-touts-3-090705240.html",
-          "title_en": "Superior Group of Companies Touts 3-Segment Growth, AI Upside, Buybacks and Dividend in Conference Talk"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
+          "time": "2026-03-24 03:30:21",
           "title": "3种你将会后悔没有现在购买的天才人工智能股票",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-genius-artificial-intelligence-ai-102500677.html",
           "title_en": "3 Genius Artificial Intelligence (AI) Stocks You'll Regret Not Buying Now"
         },
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
-          "title": "苹果将于6月8日举行年度开发者大会。",
+          "time": "2026-03-24 03:30:21",
+          "title": "预测：Meta放弃元宇宙的计划将有助于其股票长期上涨。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/apple-to-hold-annual-developers-conference-from-june-8-4575838",
-          "title_en": "Apple to hold annual developers conference from June 8"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-pivoting-away-metaverse-help-103500806.html",
+          "title_en": "Prediction: Pivoting Away From Metaverse Will Help Meta's Stock Long Term"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-24 03:30:21",
+          "title": "与Oracle相比，今年已经实现了115%的增长的红热人工智能基础设施股值得大力购买。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meet-red-hot-artificial-intelligence-104500653.html",
+          "title_en": "Meet the Red-Hot Artificial Intelligence (AI) Infrastructure Stock That Has Crushed Oracle With 115% Gains in a Year. It Is Still Worth Buying Hand Over Fist."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-24 03:30:21",
+          "title": "SharonAI控股向澳大利亚推介“Neocloud”人工智能计算，RedChip会议上详细说明7700万美元融资",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/sharonai-holdings-pitches-australia-neocloud-100519178.html",
+          "title_en": "SharonAI Holdings Pitches Australia “Neocloud” AI Compute, Details $770M Funding at RedChip Conference"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
-          "title": "杰弗里斯认为，数据中心增长的顶级用电商包括：",
+          "time": "2026-03-24 03:30:21",
+          "title": "OpenAI在私募股权融资谈判中提高了筹资金额，据说这是与Anthropic竞争企业客户的战略举措。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/top-utilities-for-data-center-growth-according-to-jefferies-93CH-4575825",
-          "title_en": "Top Utilities for Data Center Growth, According to Jefferies"
+          "url": "https://www.investing.com/news/stock-market-news/exclusiveopenai-sweetens-private-equity-pitch-amid-enterprise-turf-war-with-anthropic-sources-say-4574443",
+          "title_en": "Exclusive-OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say"
         },
         {
           "source": "MarketWatch-Top",
@@ -149,16 +140,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
-          "title": "专门通过SVOL降低市场波动以获取收益",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/exclusively-mitigating-market-volatility-yield-095948379.html",
-          "title_en": "Exclusively Mitigating Market Volatility For Yield Through SVOL"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
+          "time": "2026-03-24 03:30:21",
           "title": "57%的美国人将储蓄存放在错误的地方——$20,000一年在普通和高收益账户的收益",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/currencies/articles/57-americans-keep-savings-wrong-114000455.html",
@@ -167,7 +149,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
+          "time": "2026-03-24 03:30:21",
           "title": "你是否想要固定利率或可调利率？",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-march-23-2026-100000632.html",
@@ -176,7 +158,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
+          "time": "2026-03-24 03:30:21",
           "title": "截至2026年3月23日，最佳现金市场账户利率（最高可达4.01%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-march-23-2026-100013520.html",
@@ -185,7 +167,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
+          "time": "2026-03-24 03:30:21",
           "title": "今日最佳定期存款利率（截至2026年3月23日），最高可锁定4.15%APY",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-march-23-2026-100028338.html",
@@ -194,7 +176,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
+          "time": "2026-03-24 03:30:21",
           "title": "截至2026年3月23日，今日高收益储蓄利率（最高可达4%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-monday-march-23-2026-100043794.html",
@@ -203,7 +185,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
+          "time": "2026-03-24 03:30:21",
           "title": "本周3月23日，利率低于6%的抵押贷款贷款人：暂时失去",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-march-23-2026-170834739.html",
@@ -212,7 +194,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
+          "time": "2026-03-24 03:30:21",
           "title": "今日（3月23日）房贷和再融资利率：三周内上升了0.5个百分点。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-march-23-2026-100000360.html",
@@ -221,11 +203,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
-          "title": "战争和通胀本该是黄金的朋友。然而，这次并非如此。",
+          "time": "2026-03-24 03:30:21",
+          "title": "专门通过SVOL降低市场波动以获取收益",
           "summary": "",
-          "url": "https://www.wsj.com/finance/commodities-futures/war-and-inflation-are-supposed-to-be-golds-friends-not-this-time-3d21ebcd?siteid=yhoof2&yptr=yahoo",
-          "title_en": "War and Inflation Are Supposed to Be Gold’s Friends. Not This Time."
+          "url": "https://finance.yahoo.com/markets/options/articles/exclusively-mitigating-market-volatility-yield-095948379.html",
+          "title_en": "Exclusively Mitigating Market Volatility For Yield Through SVOL"
         },
         {
           "source": "CNBC-Top",
@@ -254,22 +236,32 @@
       "badge": "Risk / Oil / Gold",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-24 03:30:21",
+          "title": "石油冲击波与新兴市场的未来",
+          "summary": "",
+          "url": "https://www.barrons.com/articles/iran-war-oil-shocks-stocks-emerging-markets-0319d225?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Oil Shocks and What Comes Next for Emerging Markets"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
+          "time": "2026-03-24 03:30:21",
           "title": "华尔街指数上涨，特朗普推迟对伊朗电力设施的袭击",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-escalating-iran-conflict-dims-ratecut-hopes-4574355",
           "title_en": "Wall Street indexes rise after Trump postpones strikes on Iran’s power plants"
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
-          "title": "内塔尼亚胡促使特朗普瞄准卡梅内伊之前的伊朗袭击",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/netanyahu-pushed-trump-to-target-khamenei-before-iran-strike-93CH-4575850",
-          "title_en": "Netanyahu pushed Trump to target Khamenei before Iran strike"
+          "time": "2026-03-24 03:07:06",
+          "title": "雪佛龙CEO表示，伊朗战争对油价的影响尚未完全反映在市场中，交易者有“极少信息”。",
+          "summary": "雪佛龙（Chevron）CEO迈克·沃斯（Mike Wirth）表示，石油的实物供应比石油期货市场所示的要紧张得多。",
+          "url": "https://www.cnbc.com/2026/03/23/chevron-ceo-oil-price-iran-war-strait-hormuz.html",
+          "title_en": "Chevron CEO says Iran war impact isn't fully priced into oil market, traders have ‘scant information’",
+          "summary_en": "Chevron CEO Mike Wirth said the physical supply of oil is much tighter than the oil futures market suggests."
         },
         {
           "source": "CNBC-Top",
@@ -300,16 +292,6 @@
           "url": "https://www.marketwatch.com/story/did-trump-just-pull-a-taco-on-iran-why-markets-will-remain-volatile-even-if-investors-see-some-relief-from-the-selling-this-week-50312b6f?mod=mw_rss_topstories",
           "title_en": "Did Trump just pull a ‘TACO’ on Iran? Why markets will remain volatile, even if investors see some relief from selling this week.",
           "summary_en": "The Dow is off its session highs Monday after Tehran pushed back against President Trump’s claim of a potential de-escalation of the Iran conflict."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-24 02:12:05",
-          "title": "雪佛龙CEO表示，伊朗战争对油价的影响尚未完全反映在市场中，交易者有“极少信息”。",
-          "summary": "雪佛龙（Chevron）CEO迈克·沃斯（Mike Wirth）表示，石油的实物供应比石油期货市场所示的要紧张得多。",
-          "url": "https://www.cnbc.com/2026/03/23/chevron-ceo-oil-price-iran-war-strait-hormuz.html",
-          "title_en": "Chevron CEO says Iran war impact isn't fully priced into oil market, traders have ‘scant information’",
-          "summary_en": "Chevron CEO Mike Wirth said the physical supply of oil is much tighter than the oil futures market suggests."
         },
         {
           "source": "MarketWatch-Top",
@@ -438,6 +420,15 @@
       "badge": "TSLA chain",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-24 03:30:21",
+          "title": "这一次，人们对无人驾驶汽车的热情似乎是真实的。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/time-hype-around-self-driving-110000765.html",
+          "title_en": "This Time, the Hype Around Self-Driving Cars Feels Real"
+        },
+        {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-03-24 02:12:00",
@@ -456,16 +447,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
-          "title": "佛罗里达州一位38岁的女性希望在40岁前退休，尽管她面临两个明显的问题。  The Ramsey Show 告诉她要现实一点。",
+          "time": "2026-03-24 03:30:21",
+          "title": "私人太空站公司发布了对抗的新闻稿。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/florida-woman-38-wants-retire-100000713.html",
-          "title_en": "Florida woman, 38, wants to retire by 40 despite two glaring problems. The Ramsey Show tells her to get real"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/private-space-station-companies-offer-102600441.html",
+          "title_en": "Private Space Station Companies Offer Dueling Press Releases"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
+          "time": "2026-03-24 03:30:21",
           "title": "明尼苏达州一名男子被指控税务欺诈，据称他低报收入2百万美元，同时索取4万美元的SNAP和医疗福利。",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/minnesota-man-accused-tax-fraud-103000791.html",
@@ -474,7 +465,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
+          "time": "2026-03-24 03:30:21",
           "title": "特朗普总统的便携式抵押贷款推动可能让你保留3%的利率——专家说这可能会反弹。现在该怎么做？",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/president-trump-portable-mortgage-push-104300043.html",
@@ -483,25 +474,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
-          "title": "一对田纳西州的夫妇两次遭遇医疗欺诈，了解一下针对退休者 Medicare 欺诈的常见骗局",
+          "time": "2026-03-24 03:30:21",
+          "title": "佛罗里达州一位38岁的女性希望在40岁前退休，尽管她面临两个明显的问题。  The Ramsey Show 告诉她要现实一点。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/happens-time-tn-couple-hit-110000285.html",
-          "title_en": "'This happens all the time': TN couple hit twice by medical fraud — what to know about Medicare scams targeting retirees"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/florida-woman-38-wants-retire-100000713.html",
+          "title_en": "Florida woman, 38, wants to retire by 40 despite two glaring problems. The Ramsey Show tells her to get real"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
-          "title": "财经焦点：目前情况良好",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46506_MarketOutlook_1774265331000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily Spotlight: Financial Conditions: So Far, So Good"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
+          "time": "2026-03-24 03:30:21",
           "title": "雷·达略（Ray Dalio）称美国可能失去全球秩序的位置。这将意味着什么样的经济影响，以及对你的钱的影响。",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/ray-dalio-says-us-may-110000295.html",
@@ -510,16 +492,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
-          "title": "美联储两重打击即将来临，投资者大多尚未准备好",
+          "time": "2026-03-24 03:30:21",
+          "title": "财经焦点：目前情况良好",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/federal-double-whammy-2-months-100100508.html",
-          "title_en": "A Federal Reserve Double Whammy Is 2 Months Away and Most Investors Aren't Ready"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46506_MarketOutlook_1774265331000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily Spotlight: Financial Conditions: So Far, So Good"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
+          "time": "2026-03-24 03:30:21",
+          "title": "一对田纳西州的夫妇两次遭遇医疗欺诈，了解一下针对退休者 Medicare 欺诈的常见骗局",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/happens-time-tn-couple-hit-110000285.html",
+          "title_en": "'This happens all the time': TN couple hit twice by medical fraud — what to know about Medicare scams targeting retirees"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-24 03:30:21",
           "title": "一家人21万美元的慈善基金争议案揭示了税收优惠的捐赠可能出错的方式。捐赠者应该知道什么。",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/one-family-21m-charity-fund-111500365.html",
@@ -528,7 +519,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
+          "time": "2026-03-24 03:30:21",
           "title": "一位遭受虐待的退伍军人现在独自抚养四个孩子，离开了虐待婚姻。拉姆齐秀警告人们避免破产。",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/struggling-ne-veteran-now-single-113000891.html",
@@ -537,7 +528,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
+          "time": "2026-03-24 03:30:21",
           "title": "中期看多。",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46505_TechnicalAnalysis_1774265283000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -546,7 +537,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
+          "time": "2026-03-24 03:30:21",
+          "title": "研究显示，美国大学本科毕业生获得的学位回报率最高和最低的领域。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/economy/articles/bachelor-degrees-offering-highest-lowest-103000835.html",
+          "title_en": "Bachelor’s Degrees Offering the Highest and Lowest Return on Investment Revealed"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-24 03:30:21",
           "title": "71岁的母亲10年前因被骗损失了60万美元，随后将财务控制权交给了自己的女儿，但现在女儿拒绝还给母亲。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/crypto/articles/mom-71-lost-600k-scam-114500835.html",
@@ -555,34 +555,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
-          "title": "Salesforce、Adobe等SaaS巨头股价面临2008年式的崩盘，引发\"SaaSpocalypse\"恐慌。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-adobe-stocks-face-2008-100102561.html",
-          "title_en": "Salesforce, Adobe Stocks Face 2008-Style Collapse In 'SaaSpocalypse'"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
-          "title": "“静悄悄的崩溃”仍然影响着美国工人。以下是你需要知道的，以及如何制定一个财务逃生计划。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/economy/articles/quiet-cracking-still-impacting-us-120000835.html",
-          "title_en": "‘Quiet cracking’ is still impacting US workers. Here’s what you should know — and how to build a financial escape plan"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
-          "title": "为你的健康保税：被低估的HSA",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/tax-health-underloved-hsa-120000724.html",
-          "title_en": "For Your (Tax) Health: The Underloved HSA"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
+          "time": "2026-03-24 03:30:21",
           "title": "研究显示，戴夫拉姆西(Dave Ramsey)关于领取社会保障的建议可能是错误的。如何确保自己不会被错误建议所误导",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/data-shows-dave-ramsey-may-120000555.html",
@@ -591,7 +564,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
+          "time": "2026-03-24 03:30:21",
+          "title": "“静悄悄的崩溃”仍然影响着美国工人。以下是你需要知道的，以及如何制定一个财务逃生计划。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/economy/articles/quiet-cracking-still-impacting-us-120000835.html",
+          "title_en": "‘Quiet cracking’ is still impacting US workers. Here’s what you should know — and how to build a financial escape plan"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-24 03:30:21",
+          "title": "为你的健康保税：被低估的HSA",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/tax-health-underloved-hsa-120000724.html",
+          "title_en": "For Your (Tax) Health: The Underloved HSA"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-24 03:30:21",
           "title": "市场摘要：NVO、ACN、AEE、ASH、BDX、CBRL、WTRG",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46503_MarketSummary_1774264647000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -600,7 +591,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
+          "time": "2026-03-24 03:30:21",
           "title": "退休国外：回答读者的大问题",
           "summary": "",
           "url": "https://finance.yahoo.com/news/retiring-overseas-answering-readers-big-questions-143003952.html",
@@ -609,11 +600,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-24 03:02:11",
-          "title": "LAC 股票过去一年上涨32%，但却悄悄积累了大量的股本稀释。",
+          "time": "2026-03-24 03:30:21",
+          "title": "华尔街预计将会发生一场快速的轰炸战，结果却是能源战。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lac-stock-32-over-past-100029250.html",
-          "title_en": "LAC Stock Up 32% Over the Past Year But Share Dilution Is Quietly Piling Up"
+          "url": "https://finance.yahoo.com/news/wall-street-priced-a-swift-bombing-campaign-what-it-got-was-an-energy-war-100009193.html",
+          "title_en": "Wall Street priced a swift bombing campaign. What it got was an energy war."
         }
       ]
     }
