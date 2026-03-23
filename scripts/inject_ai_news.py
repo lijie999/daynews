@@ -28,36 +28,70 @@ def get_latest_ai_news_items(limit=10):
     # 提取新闻条目
     items = []
     
-    # 当前格式: ### 1. emoji 标题 \n **分类**: ... | **来源**: ... \n - 摘要... \n - **链接**: url
-    pattern = r'###\s+(\d+)\.\s+(?:🚀|💰|🛡️|🧠|🤖|⚡|🔧|📱|🐄|🇨🇳|📊)?\s*(.+?)\n\*\*分类\*\*:\s+(.+?)\s+\|\s+\*\*来源\*\*:\s+(.+?)\n(.+?)- \*\*链接\*\*:\s+(.+?)(?=\n\n###|\n\n##|\Z)'
-    matches = list(re.finditer(pattern, content, re.DOTALL))
+    # 当前格式（2026-03-23 23:31 版本）:
+    # ### 1. 标题
+    # - **来源**: Source | 发布于 X天前
+    # - **标签**: #tag1 #tag2
+    # - **摘要**: ...
+    # - **原文链接**: url
+    pattern_new = r'###\s+(\d+)\.\s+(.+?)\n- \*\*来源\*\*:\s+(.+?)\s+\|\s+发布于.+?\n- \*\*标签\*\*:\s+(.+?)\n- \*\*摘要\*\*:\s+(.+?)\n- \*\*原文链接\*\*:\s+(.+?)(?=\n\n###|\n\n##|\Z)'
+    matches = list(re.finditer(pattern_new, content, re.DOTALL))
     
-    for match in matches:
-        num, title, category, source, summary_block, link = match.groups()
+    if matches:
+        for match in matches:
+            num, title, source, tags, summary, link = match.groups()
+            
+            # 从标签中提取 emoji
+            tag_emojis = "🤖"
+            if "#融资" in tags or "#收购" in tags:
+                tag_emojis = "💰"
+            elif "#监管" in tags or "#禁令" in tags or "#争议" in tags:
+                tag_emojis = "🛡️"
+            elif "#大模型" in tags or "#模型" in tags:
+                tag_emojis = "🧠"
+            
+            items.append({
+                "number": num,
+                "tags": tag_emojis,
+                "title": title.strip(),
+                "summary": summary.strip()[:200] + "..." if len(summary.strip()) > 200 else summary.strip(),
+                "link": link.strip()
+            })
+            
+            if len(items) >= limit:
+                break
+    else:
+        # 尝试之前的简报格式: ### 1. emoji 标题 \n **分类**: ... | **来源**: ... \n - ... \n - **链接**: url
+        pattern_prev = r'###\s+(\d+)\.\s+(?:🚀|💰|🛡️|🧠|🤖|⚡|🔧|📱|🐄|🇨🇳|📊)?\s*(.+?)\n\*\*分类\*\*:\s+(.+?)\s+\|\s+\*\*来源\*\*:\s+(.+?)\n(.+?)- \*\*链接\*\*:\s+(.+?)(?=\n\n###|\n\n##|\Z)'
+        matches = list(re.finditer(pattern_prev, content, re.DOTALL))
         
-        # 从摘要块中提取第一行
-        summary_lines = [line.strip('- ').strip() for line in summary_block.split('\n') if line.strip().startswith('- ') and '链接' not in line]
-        summary = summary_lines[0] if summary_lines else title
-        
-        # 从分类中提取 emoji
-        tag_emojis = "🤖"
-        if "融资" in category or "收购" in category:
-            tag_emojis = "💰"
-        elif "监管" in category or "禁令" in category or "争议" in category:
-            tag_emojis = "🛡️"
-        elif "大模型" in category or "模型" in category or "技术" in category:
-            tag_emojis = "🧠"
-        
-        items.append({
-            "number": num,
-            "tags": tag_emojis,
-            "title": title.strip(),
-            "summary": summary[:200] + "..." if len(summary) > 200 else summary,
-            "link": link.strip()
-        })
-        
-        if len(items) >= limit:
-            break
+        if matches:
+            for match in matches:
+                num, title, category, source, summary_block, link = match.groups()
+                
+                # 从摘要块中提取第一行
+                summary_lines = [line.strip('- ').strip() for line in summary_block.split('\n') if line.strip().startswith('- ') and '链接' not in line]
+                summary = summary_lines[0] if summary_lines else title
+                
+                # 从分类中提取 emoji
+                tag_emojis = "🤖"
+                if "融资" in category or "收购" in category:
+                    tag_emojis = "💰"
+                elif "监管" in category or "禁令" in category or "争议" in category:
+                    tag_emojis = "🛡️"
+                elif "大模型" in category or "模型" in category or "技术" in category:
+                    tag_emojis = "🧠"
+                
+                items.append({
+                    "number": num,
+                    "tags": tag_emojis,
+                    "title": title.strip(),
+                    "summary": summary[:200] + "..." if len(summary) > 200 else summary,
+                    "link": link.strip()
+                })
+                
+                if len(items) >= limit:
+                    break
     
     return items
 
