@@ -27,31 +27,59 @@ def get_latest_ai_news_items(limit=10):
     
     # 提取新闻条目
     items = []
-    # 支持两种格式：
-    # 格式1: 1️⃣ 💰🛡️ **标题** \n 摘要 \n 🔗 链接
-    # 格式2: 1. 🤖Agent **标题** \n 摘要 \n 🔗 链接
+    # 支持三种格式：
+    # 格式1（旧）: 1️⃣ 💰🛡️ **标题** \n 摘要 \n 🔗 链接
+    # 格式2（旧）: 1. 🤖Agent **标题** \n 摘要 \n 🔗 链接
+    # 格式3（新）: ### 1. 标题 \n **来源**: ... \n **原文**: [...](url) \n **标签**: ... \n **简介**: ...
     
-    # 尝试格式1（带emoji数字）
-    pattern1 = r'(\d+)️⃣\s+([^\*]+?)\*\*(.+?)\*\*\n(.+?)\n🔗\s+(.+?)(?=\n\n|\n\d+️⃣|$)'
-    matches = list(re.finditer(pattern1, content, re.DOTALL))
+    # 尝试格式3（新的 Markdown H3 格式）
+    pattern3 = r'###\s+(\d+)\.\s+(.+?)\n\*\*来源\*\*:\s+(.+?)\n.*?\*\*原文\*\*:\s+\[.+?\]\((.+?)\).*?\n\*\*标签\*\*:\s+(.+?)\n\*\*简介\*\*:\s+(.+?)(?=\n---|###|\Z)'
+    matches = list(re.finditer(pattern3, content, re.DOTALL))
     
-    if not matches:
-        # 尝试格式2（普通数字）
-        pattern2 = r'(\d+)\.\s+([^\*]+?)\*\*(.+?)\*\*\n\s*(.+?)\n\s*🔗\s+(.+?)(?=\n\n|\n\d+\.|---|\Z)'
-        matches = list(re.finditer(pattern2, content, re.DOTALL))
-    
-    for match in matches:
-        num, tags, title, summary, link = match.groups()
-        items.append({
-            "number": num,
-            "tags": tags.strip(),
-            "title": title.strip(),
-            "summary": summary.strip()[:200] + "..." if len(summary.strip()) > 200 else summary.strip(),
-            "link": link.strip()
-        })
+    if matches:
+        for match in matches:
+            num, title, source, link, tags, summary = match.groups()
+            # 从标签中提取 emoji 或使用默认
+            tag_emojis = "🤖"
+            if "#融资" in tags or "#收购" in tags:
+                tag_emojis = "💰"
+            elif "#监管" in tags or "#禁令" in tags:
+                tag_emojis = "🛡️"
+            elif "#大模型" in tags or "#模型" in tags:
+                tag_emojis = "🧠"
+            
+            items.append({
+                "number": num,
+                "tags": tag_emojis,
+                "title": title.strip(),
+                "summary": summary.strip()[:200] + "..." if len(summary.strip()) > 200 else summary.strip(),
+                "link": link.strip()
+            })
+            
+            if len(items) >= limit:
+                break
+    else:
+        # 尝试格式1（带emoji数字）
+        pattern1 = r'(\d+)️⃣\s+([^\*]+?)\*\*(.+?)\*\*\n(.+?)\n🔗\s+(.+?)(?=\n\n|\n\d+️⃣|$)'
+        matches = list(re.finditer(pattern1, content, re.DOTALL))
         
-        if len(items) >= limit:
-            break
+        if not matches:
+            # 尝试格式2（普通数字）
+            pattern2 = r'(\d+)\.\s+([^\*]+?)\*\*(.+?)\*\*\n\s*(.+?)\n\s*🔗\s+(.+?)(?=\n\n|\n\d+\.|---|\Z)'
+            matches = list(re.finditer(pattern2, content, re.DOTALL))
+        
+        for match in matches:
+            num, tags, title, summary, link = match.groups()
+            items.append({
+                "number": num,
+                "tags": tags.strip(),
+                "title": title.strip(),
+                "summary": summary.strip()[:200] + "..." if len(summary.strip()) > 200 else summary.strip(),
+                "link": link.strip()
+            })
+            
+            if len(items) >= limit:
+                break
     
     return items
 
