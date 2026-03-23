@@ -90,41 +90,291 @@
       <header>
         <div class="k">
           <span class="pill">交易台模式（主线→AI→主题）</span>
-          <span class="pill">最后更新：2026-03-23 15:00:49（北京时间）</span>
+          <span class="pill">最后更新：2026-03-23 15:21:35（北京时间）</span>
           <span class="pill">数据：briefs.json</span>
         </div>
         <h1>DayNews · 2026.03.23</h1>
         <p class="sub">先读主线结论（3秒），再看AI动态（10秒），最后按主题浏览（3分钟）。</p>
       </header>
 
-      <section class="hero"><div class="hero-top"><div class="hero-title">主线结论</div><div class="hero-time">2026-03-23 14:51:28</div></div><div class="hero-body">**市场走势**：美股指数震荡，科技股分化明显<br><br>**核心驱动**：<br>• Fed 政策预期持稳，利率/债券收益率影响估值<br>• 地缘风险（伊朗/能源）推升油价，避险需求抬头<br>• AI/科技板块结构分化，关注头部权重股动向<br><br>**风险提示**：短期波动率可能维持高位，关注宏观数据与油价</div></section>
+      <section class="hero"><div class="hero-top"><div class="hero-title">主线结论</div><div class="hero-time">2026-03-23 15:21:40</div></div><div class="hero-body">**市场走势**：美股指数震荡，科技股分化明显<br><br>**核心驱动**：<br>• Fed 政策预期持稳，利率/债券收益率影响估值<br>• 地缘风险（伊朗/能源）推升油价，避险需求抬头<br>• AI/科技板块结构分化，关注头部权重股动向<br><br>**风险提示**：短期波动率可能维持高位，关注宏观数据与油价</div></section>
 
-      <section class="card"><h2><span>🤖 AI 新闻</span><span class="badge">0</span></h2><div class="tlist"><div class="note">（今日暂无 AI 新闻）</div></div></section>
+      <section class="card ai-news-carousel">
+<h2>
+  <span>🤖 AI 新闻（每30分钟更新）</span>
+  <span class="badge">12</span>
+</h2>
+<div class="ai-carousel-wrapper">
+  <button class="carousel-btn carousel-prev" onclick="aiNewsCarousel.prev()">‹</button>
+  <div class="ai-carousel-container">
+    <div class="ai-carousel-page active" data-page="0">
+      <div class="tlist">
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">融资</div>
+            <div>
+              <a class="ttitle" href="https://www.timesnownews.com/technology-science/openai-code-red-at-peak-sam-altman-to-double-the-workforce-to-8000-for-tackling-competition-article-153893069" target="_blank" rel="noreferrer noopener">OpenAI 融资 1100 亿美元，计划扩充员工至 8000 人</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">OpenAI 最近一轮融资从大科技公司和软银的孙正义处筹集了约 1100 亿美元，估值达到 8400 亿美元。Sam Altman 宣布计划将员工数量翻倍至 8000 人，以应对来自 Anthropic、xAI 等竞争对手的压力。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">融资</div>
+            <div>
+              <a class="ttitle" href="https://www.newsbytesapp.com/news/science/meta-ceo-mark-zuckerberg-builds-ai-assistant-to-streamline-work/story" target="_blank" rel="noreferrer noopener">Meta 收购 Scale AI 花费 145 亿美元组建超级智能实验室</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">Meta 宣布以 145 亿美元收购 Scale AI，用于成立超级智能实验室（MSL）。然而，该实验室首个 AI 模型 Avocado 在内部测试中失败，导致发布延期。Mark Zuckerberg 正在开发个人 AI 助手来协助其工作。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rS" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">监管</div>
+            <div>
+              <a class="ttitle" href="https://www.firstpost.com/tech/russia-may-ban-chatgpt-gemini-claude-under-new-ai-rules-13991977.html" target="_blank" rel="noreferrer noopener">俄罗斯可能禁止 ChatGPT、Gemini、Claude 等外国 AI 模型</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">俄罗斯正在考虑新的 AI 法规，可能禁止所有跨境 AI 技术，包括 ChatGPT、Claude 和 Gemini。专业技术律师 Kirill Dyakov 表示，这些模型会将用户数据、查询和对话传输到俄罗斯境外的开发者服务器，因此可能被禁用。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">融资</div>
+            <div>
+              <a class="ttitle" href="https://thetechcapital.com/nebius-raises-4-3-billion-in-up-sized-convertible-notes-offering/" target="_blank" rel="noreferrer noopener">Nebius 融资 43 亿美元用于 AI 基础设施建设</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">AI 基础设施公司 Nebius 完成了 43 亿美元的可转换票据融资，用于扩展其 AI 云计算和数据中心基础设施，以满足全球对 AI 算力的巨大需求。</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="ai-carousel-page" data-page="1">
+      <div class="tlist">
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">Agent</div>
+            <div>
+              <a class="ttitle" href="https://en.eloutput.com/news/applications/OpenAI-merges-ChatGPT-Codex-and-Atlas-into-a-desktop-superapp-to-compete-in-productivity/" target="_blank" rel="noreferrer noopener">OpenAI 将 ChatGPT、Codex、Atlas 合并为桌面超级应用</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">OpenAI 决定将三个独立应用 ChatGPT（对话）、Codex（编程）和 Atlas（智能浏览器）合并为一个统一的桌面超级应用。此举旨在对抗 Anthropic 的 Claude，后者已在统一平台上提供聊天、编程和桌面代理功能，并在首次采用 AI 工具的企业中获得显著市场份额。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">Agent</div>
+            <div>
+              <a class="ttitle" href="https://www.bluewin.ch/en/news/quitgpt-why-many-people-are-deleting-chatgpt-right-now-but-quitting-is-hard-3155991.html" target="_blank" rel="noreferrer noopener">Claude 在美国下载量短暂超越 ChatGPT</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">分析公司 Sensor Tower 的数据显示，Anthropic 的 Claude 应用短暂在美国下载量上超越了 ChatGPT，部分原因是 OpenAI 与特朗普政府的交易引发了 "QuitGPT" 运动，用户开始转向竞争对手产品。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">Agent</div>
+            <div>
+              <a class="ttitle" href="https://enterpriseai.economictimes.indiatimes.com/news/industry/how-engineers-at-elon-musks-xai-are-becoming-salesmen-to-take-on-openai-and-anthropic/129729667" target="_blank" rel="noreferrer noopener">xAI 工程师采用独特销售策略对抗 OpenAI 和 Anthropic</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">Elon Musk 的 xAI 公司采用了独特的销售策略——让工程师直接参与客户现场合作。据报道，一家公司在与 xAI 工程师的现场协作后，决定放弃 OpenAI 的 ChatGPT，转而使用 xAI 的 Grok。该公司由 NASA 局长和 Musk 盟友 Jared Isaacman 创立。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">Agent</div>
+            <div>
+              <a class="ttitle" href="https://technewsjunkies.com/fundings-and-exits/high-ranking-openai-official-resigns-in-disapproval/" target="_blank" rel="noreferrer noopener">OpenAI 高级官员因军事合作伙伴关系辞职</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">OpenAI 一名高级官员 Kalinowski 因不满公司与国防部的军事合作伙伴关系而辞职。此事引发了关于 AI 在战争和人命场景中部署的担忧。尽管 Anthropic 公开反对国防部合作，但有报道称 Claude 可能参与了美军的目标选择。</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="ai-carousel-page" data-page="2">
+      <div class="tlist">
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">Agent</div>
+            <div>
+              <a class="ttitle" href="https://www.scmp.com/tech/big-tech/article/3347495/how-china-could-dominate-ai-eras-tokenomics-vast-power-grids-and-low-cost-models" target="_blank" rel="noreferrer noopener">中国在 AI "代币经济学" 中可能占据主导地位</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">随着代币被定位为 AI 时代的商品，中国凭借其庞大的能源规模和低成本模型，可能在 AI "代币经济学" 中获得结构性优势。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">Agent</div>
+            <div>
+              <a class="ttitle" href="https://www.libertify.com/interactive-library/iosco-artificial-intelligence-capital-markets/" target="_blank" rel="noreferrer noopener">IOSCO 发布 2025 年资本市场 AI 报告</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">国际证券委员会组织（IOSCO）于 2025 年 3 月发布了关于人工智能在资本市场中作用的里程碑式报告。报告强调了集中风险问题：少数云提供商和 AI 模型开发者在金融行业中造成了系统性依赖风险。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">Agent</div>
+            <div>
+              <a class="ttitle" href="https://itwire.com/business-it-news/data/context,-not-correlation,-is-the-key-to-a-successful-ai-strategy.html" target="_blank" rel="noreferrer noopener">上下文 AI 而非相关性是成功 AI 战略的关键</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">许多组织在展示 AI 投资回报率时，急于推进代理 AI（agentic AI），但却没有打好基础。如果没有上下文 AI 和高质量数据，代理 AI 的努力就是多余的。理解上下文 AI 相对于基于相关性模型的价值应成为核心关注点。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">Agent</div>
+            <div>
+              <a class="ttitle" href="https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/" target="_blank" rel="noreferrer noopener">Anthropic 否认 Claude AI 具有战争破坏能力</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">在五角大楼限制使用 Claude 之际，Anthropic 公司否认其 Claude AI 具有战争破坏能力。国防部长 Hegseth 希望五角大楼停用 Anthropic 的 Claude，但军方用户表示这并不容易。</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-btn carousel-next" onclick="aiNewsCarousel.next()">›</button>
+</div>
+<div class="carousel-dots">
+  <span class="carousel-dot active" data-page="0" onclick="aiNewsCarousel.goTo(0)"></span>
+  <span class="carousel-dot" data-page="1" onclick="aiNewsCarousel.goTo(1)"></span>
+  <span class="carousel-dot" data-page="2" onclick="aiNewsCarousel.goTo(2)"></span>
+</div>
+<script>
+// AI 新闻轮播控制
+const aiNewsCarousel = {
+  currentPage: 0,
+  totalPages: 3,
+  
+  goTo(page) {
+    if (page < 0 || page >= this.totalPages) return;
+    
+    // 隐藏当前页
+    document.querySelectorAll('.ai-carousel-page').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll('.carousel-dot').forEach(d => d.classList.remove('active'));
+    
+    // 显示目标页
+    document.querySelector(`.ai-carousel-page[data-page="${page}"]`).classList.add('active');
+    document.querySelector(`.carousel-dot[data-page="${page}"]`).classList.add('active');
+    
+    this.currentPage = page;
+  },
+  
+  next() {
+    this.goTo((this.currentPage + 1) % this.totalPages);
+  },
+  
+  prev() {
+    this.goTo((this.currentPage - 1 + this.totalPages) % this.totalPages);
+  }
+};
+
+// 键盘快捷键
+document.addEventListener('keydown', (e) => {
+  if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+  if (e.key === 'ArrowLeft') aiNewsCarousel.prev();
+  if (e.key === 'ArrowRight') aiNewsCarousel.next();
+});
+</script>
+<style>
+.ai-news-carousel {
+  position: relative;
+}
+
+.ai-carousel-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ai-carousel-container {
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+.ai-carousel-page {
+  display: none;
+}
+
+.ai-carousel-page.active {
+  display: block;
+}
+
+.carousel-btn {
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  color: var(--text);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+  flex-shrink: 0;
+}
+
+.carousel-btn:hover {
+  background: rgba(255,255,255,0.15);
+  border-color: rgba(255,255,255,0.3);
+  transform: scale(1.05);
+}
+
+.carousel-btn:active {
+  transform: scale(0.95);
+}
+
+.carousel-dots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 0 8px;
+}
+
+.carousel-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.2);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.carousel-dot:hover {
+  background: rgba(255,255,255,0.4);
+  transform: scale(1.2);
+}
+
+.carousel-dot.active {
+  background: rgba(255,176,32,0.8);
+  width: 24px;
+  border-radius: 4px;
+}
+</style>
+</section>
 
       <div class="grid3">
-        <section class="card"><h2><span>📊 指数/科技</span><span class="badge">7</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 15:00:45</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/sectors/technology/articles/amazon-amzn-10-best-ai-200134176.html" target="_blank" rel="noreferrer noopener">亚马逊（AMZN）：未来10年买的10只AI股</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 15:00:45</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/sectors/technology/articles/alphabet-googl-10-best-ai-200323634.html" target="_blank" rel="noreferrer noopener">Alphabet（GOOGL）：未来10年买入的10大AI股</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 15:00:45</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-good-stock-210539222.html" target="_blank" rel="noreferrer noopener">是否应该现在购买 NVIDIA Corporation (NVDA) 的股票？</a></div>
+        <section class="card"><h2><span>📊 指数/科技</span><span class="badge">7</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 15:21:31</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/sectors/technology/articles/amazon-amzn-10-best-ai-200134176.html" target="_blank" rel="noreferrer noopener">亚马逊（AMZN）：未来10年买的10只AI股</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 15:21:31</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/sectors/technology/articles/alphabet-googl-10-best-ai-200323634.html" target="_blank" rel="noreferrer noopener">Alphabet（GOOGL）：未来10年买入的10大AI股</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 15:21:31</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-good-stock-210539222.html" target="_blank" rel="noreferrer noopener">是否应该现在购买 NVIDIA Corporation (NVDA) 的股票？</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 15:21:31</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/meta-stock-slips-below-600-202300840.html" target="_blank" rel="noreferrer noopener">Meta 股价跌破 600 美元。该时机是否适合买入？</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-22 23:24:08</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/22/companies-ai-work-job-skills.html" target="_blank" rel="noreferrer noopener">AI 时代，企业以更少的资源取得更大成就。员工也可以从中受益。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-22 22:18:58</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/22/spotify-apple-amazon-streaming-music-ai.html" target="_blank" rel="noreferrer noopener">史诗级的AI升级将为Spotify带来新的收入来源</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-22 20:00:01</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/22/openai-data-center-pivot-underscores-wall-street-ipo-concerns.html" target="_blank" rel="noreferrer noopener">OpenAI的数据中心转型凸显了华尔街在IPO前对支出忧虑</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-22 03:01:59</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html" target="_blank" rel="noreferrer noopener">OpenClaw的ChatGPT时刻引发了人们对AI模型正在成为商品的担忧。</a></div></div></section>
-        <section class="card"><h2><span>⚡ 能源/地缘</span><span class="badge">11</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 15:00:45</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/one-battle-after-another-iran-war-deals-new-blow-to-europes-industrial-heartland-4574228" target="_blank" rel="noreferrer noopener">欧洲工业核心区遭受又一重击</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-22 20:00:01</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/22/openai-data-center-pivot-underscores-wall-street-ipo-concerns.html" target="_blank" rel="noreferrer noopener">OpenAI的数据中心转型凸显了华尔街在IPO前对支出忧虑</a></div></div></section>
+        <section class="card"><h2><span>⚡ 能源/地缘</span><span class="badge">11</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 15:21:31</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/sectors/energy/articles/goldman-sachs-resets-oil-price-200700499.html" target="_blank" rel="noreferrer noopener">高盛重新调整石油价格预测 俄乌战争持续</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 15:21:31</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/one-battle-after-another-iran-war-deals-new-blow-to-europes-industrial-heartland-4574228" target="_blank" rel="noreferrer noopener">欧洲工业核心区遭受又一重击</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 14:39:02</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/23/cnbc-daily-open-clock-ticks-on-trumps-hormuz-ultimatum-.html" target="_blank" rel="noreferrer noopener">CNBC每日开盘：特朗普对霍尔木兹海峡的最后期限即将到来</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 14:21:36</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/23/european-markets-stoxx-ftse-dax-cac-iran-news-oil-prices.html" target="_blank" rel="noreferrer noopener">欧洲股市料受损为Trump设置霍尔木兹海峡最后期限</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 14:07:10</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/23/oil-prices-trump-iran-strait-of-hormuz-wti-crude-middle-east-lng-gas.html" target="_blank" rel="noreferrer noopener">石油价格剧烈波动，特朗普的霍尔木兹海峡威胁和伊朗威胁使市场处于紧张状态。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 12:41:14</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/23/iran-war-tensions-build-as-conflict-enters-its-fourth-week.html" target="_blank" rel="noreferrer noopener">伊朗和美国以色列继续升高杠杆，霍尔木兹海峡紧张局势加剧。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 11:42:34</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/23/asia-markets-us-iran-threats-strait-of-hormuz-oil-nikkei-kospi-hsi-hang-seng.html" target="_blank" rel="noreferrer noopener">韩国的Kospi和日本的Nikkei暴跌超过5%，随着特朗普-伊朗威胁升级。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 11:13:00</span><span class="tsrc">MarketWatch-Top · RSS</span></div><a class="ttitle" href="https://www.marketwatch.com/story/u-s-stock-futures-sink-as-trump-and-iran-trade-threats-against-civilian-infrastructure-baae06ba?mod=mw_rss_topstories" target="_blank" rel="noreferrer noopener">美国股指期货稳定，特朗普和伊朗之间威胁民用基础设施。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 09:17:01</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/23/cnbc-daily-open-us-iran-hormuz-threats-oil-markets-trump.html" target="_blank" rel="noreferrer noopener">特朗普发表霍尔木兹海峡最后通牒</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 07:11:00</span><span class="tsrc">MarketWatch-Top · RSS</span></div><a class="ttitle" href="https://www.marketwatch.com/story/financial-markets-are-responding-to-the-iran-conflict-in-unexpected-ways-leaving-some-investors-puzzled-0ce070d9?mod=mw_rss_topstories" target="_blank" rel="noreferrer noopener">金融市场对伊朗冲突的反应让一些投资者感到困惑。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 02:44:05</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/22/iran-war-strait-of-hormuz-trump-oil-prices-economy.html" target="_blank" rel="noreferrer noopener">美联储(FOMC)可能在两周内做出决定，是否降息以应对中东局势对全球经济的影响。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-22 19:55:23</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/22/uk-confirms-iran-fired-two-missiles-at-british-american-base.html" target="_blank" rel="noreferrer noopener">英国确认伊朗向印度洋的英国-美国基地发射了两枚导弹，但未能击中目标。</a></div></div></section>
-        <section class="card"><h2><span>💵 美联储/政策</span><span class="badge">6</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 15:00:45</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/1-high-yield-dividend-stock-192000607.html" target="_blank" rel="noreferrer noopener">一只高收益股息股票太便宜了不能忽视</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 15:00:45</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-march-21-2026-100055520.html" target="_blank" rel="noreferrer noopener">今日最佳存款利率，2026年3月21日（最佳账户提供4.15%APY）</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 15:00:45</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-saturday-march-21-2026-100051872.html" target="_blank" rel="noreferrer noopener">今日（2026年3月21日）高收益储蓄利率（最高可达4%APY）</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 15:00:45</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-march-21-2026-100038468.html" target="_blank" rel="noreferrer noopener">截至2026年3月21日，最佳现金市场账户利率（最高4.01%APY）</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 15:00:45</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-march-21-2026-100000265.html" target="_blank" rel="noreferrer noopener">第二套房贷或房屋抵押贷款是许多家庭的理想选择。</a></div>
+        <section class="card"><h2><span>💵 美联储/政策</span><span class="badge">4</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 15:21:31</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-march-21-2026-100055520.html" target="_blank" rel="noreferrer noopener">今日最佳存款利率，2026年3月21日（最佳账户提供4.15%APY）</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 15:21:31</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-saturday-march-21-2026-100051872.html" target="_blank" rel="noreferrer noopener">今日（2026年3月21日）高收益储蓄利率（最高可达4%APY）</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-23 15:21:31</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-march-21-2026-100038468.html" target="_blank" rel="noreferrer noopener">截至2026年3月21日，最佳现金市场账户利率（最高4.01%APY）</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-22 20:00:01</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/22/menstrual-products-tampons-feminine-care-prices-inflation.html" target="_blank" rel="noreferrer noopener">月经用品价格飙升，受通胀和关税影响</a></div></div></section>
       </div>
 
