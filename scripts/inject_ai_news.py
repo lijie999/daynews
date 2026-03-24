@@ -15,8 +15,8 @@ AI_NEWS_DIR = Path.home() / ".openclaw/workspace/skills/ai-news-zh/outputs"
 
 def get_latest_ai_news_items(limit=10):
     """获取最新 AI 新闻条目"""
-    today = datetime.now().strftime("%Y-%m-%d")
-    files = sorted(AI_NEWS_DIR.glob(f"*{today}*.md"), reverse=True)
+    # 获取最新的文件（不限日期）
+    files = sorted(AI_NEWS_DIR.glob("*.md"), reverse=True, key=lambda p: p.stat().st_mtime)
     
     if not files:
         return []
@@ -28,31 +28,30 @@ def get_latest_ai_news_items(limit=10):
     # 提取新闻条目
     items = []
     
-    # 当前格式（2026-03-24 版本）:
-    # ### 🚀 标题
-    # - **分类**: #tag1 #tag2
-    # - **来源**: Source
-    # - **时间**: YYYY-MM-DD
-    # - **简介**: ...
-    # - **链接**: url
-    pattern_new = r'###\s+(?:🚀|💰|🛡️|🧠|🤖|⚡|🔧|📱|🏢|🔬|🎯|📊|📝|💼)?\s*(.+?)\n- \*\*分类\*\*:\s+(.+?)\n- \*\*来源\*\*:\s+(.+?)\n- \*\*时间\*\*:\s+(.+?)\n- \*\*简介\*\*:\s+(.+?)\n- \*\*链接\*\*:\s+(.+?)(?=\n\n###|\n\n---|\n\n##|\Z)'
-    matches = list(re.finditer(pattern_new, content, re.DOTALL))
+    # 当前格式（2026-03-24 新版本）:
+    # ### 标题
+    # **来源**: Source | **发布时间**: Time
+    # 内容...
+    # **标签**: `tag1` `tag2`
+    # **原文**: URL
+    pattern_current = r'###\s+(.+?)\n\*\*来源\*\*:\s+(.+?)\s+\|\s+\*\*发布时间\*\*:\s+(.+?)\n\n(.+?)\n\n\*\*标签\*\*:\s+(.+?)\n\*\*原文\*\*:\s+(.+?)(?=\n\n---|\n\n###|\n\n##|\Z)'
+    matches = list(re.finditer(pattern_current, content, re.DOTALL))
     
     if matches:
-        for match in matches:
-            title, category, source, pub_time, summary, link = match.groups()
+        for idx, match in enumerate(matches):
+            title, source, pub_time, summary, tags, link = match.groups()
             
-            # 从分类中提取 emoji
+            # 从标签中提取 emoji
             tag_emojis = "🤖"
-            if "#融资" in category or "#收购" in category:
+            if "融资" in tags or "收购" in tags:
                 tag_emojis = "💰"
-            elif "#监管" in category or "#禁令" in category or "#争议" in category:
+            elif "监管" in tags or "禁令" in tags or "争议" in tags:
                 tag_emojis = "🛡️"
-            elif "#大模型" in category or "#模型" in category:
+            elif "大模型" in tags or "模型" in tags:
                 tag_emojis = "🧠"
             
             items.append({
-                "number": str(len(items) + 1),
+                "number": str(idx + 1),
                 "tags": tag_emojis,
                 "title": title.strip(),
                 "summary": summary.strip()[:200] + "..." if len(summary.strip()) > 200 else summary.strip(),
@@ -61,14 +60,16 @@ def get_latest_ai_news_items(limit=10):
             
             if len(items) >= limit:
                 break
-    else:
-        # 尝试之前的简报格式: ### 1. emoji 标题 \n **分类**: ... | **来源**: ... \n - ... \n - **链接**: url
-        pattern_prev = r'###\s+(\d+)\.\s+(?:🚀|💰|🛡️|🧠|🤖|⚡|🔧|📱|🐄|🇨🇳|📊)?\s*(.+?)\n\*\*分类\*\*:\s+(.+?)\s+\|\s+\*\*来源\*\*:\s+(.+?)\n(.+?)- \*\*链接\*\*:\s+(.+?)(?=\n\n###|\n\n##|\Z)'
+    
+    # 如果当前格式没匹配到，尝试旧格式...
+    if not items:
+        # 尝试之前的格式: ### emoji 标题 \n **分类**: ... | **来源**: ...
+        pattern_prev = r'###\s+(?:🚀|💰|🛡️|🧠|🤖|⚡|🔧|📱|🐄|🇨🇳|📊)?\s*(.+?)\n\*\*分类\*\*:\s+(.+?)\s+\|\s+\*\*来源\*\*:\s+(.+?)\n(.+?)- \*\*链接\*\*:\s+(.+?)(?=\n\n###|\n\n##|\Z)'
         matches = list(re.finditer(pattern_prev, content, re.DOTALL))
         
         if matches:
-            for match in matches:
-                num, title, category, source, summary_block, link = match.groups()
+            for idx, match in enumerate(matches):
+                title, category, source, summary_block, link = match.groups()
                 
                 # 从摘要块中提取第一行
                 summary_lines = [line.strip('- ').strip() for line in summary_block.split('\n') if line.strip().startswith('- ') and '链接' not in line]
@@ -84,7 +85,7 @@ def get_latest_ai_news_items(limit=10):
                     tag_emojis = "🧠"
                 
                 items.append({
-                    "number": num,
+                    "number": str(idx + 1),
                     "tags": tag_emojis,
                     "title": title.strip(),
                     "summary": summary[:200] + "..." if len(summary) > 200 else summary,
