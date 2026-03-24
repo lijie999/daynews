@@ -1,6 +1,6 @@
 {
   "date": "2026.03.25",
-  "generatedAtBJT": "2026-03-25 06:24:49",
+  "generatedAtBJT": "2026-03-25 06:30:23",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,7 +14,7 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-25 06:24:49",
+          "time": "2026-03-25 06:30:23",
           "title": "主线结论（系统版｜条件触发）",
           "summary": "- 主要驱动因素：10年期利率 + 原油价格风险事件\n- 四大监控指标：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金价格更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回",
           "url": "#",
@@ -29,16 +29,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
-          "title": "亚马逊计划推出智能手机。是否应该先购买AMZN股票？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-planning-smartphone-launch-buy-140732778.html",
-          "title_en": "Amazon Is Planning a Smartphone Launch. Should You Buy AMZN Stock First?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
+          "time": "2026-03-25 06:30:19",
           "title": "里维安CEO谈其与Uber的合作如何形成，以及为什么人工智能\"驾驶员\"是未来交通的未来",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/technology/article/exclusive-rivian-ceo-on-how-its-uber-deal-came-together-and-why-the-ai-driver-is-the-future-of-mobility-141312744.html",
@@ -47,7 +38,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
+          "time": "2026-03-25 06:30:19",
+          "title": "亚马逊计划推出智能手机。是否应该先购买AMZN股票？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-planning-smartphone-launch-buy-140732778.html",
+          "title_en": "Amazon Is Planning a Smartphone Launch. Should You Buy AMZN Stock First?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 06:30:19",
           "title": "当立法者聚焦于Nvidia-Groq交易时，您应该担心NVDA股票吗？",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/lawmakers-zero-nvidia-groq-deal-142319931.html",
@@ -56,7 +56,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
+          "time": "2026-03-25 06:30:19",
           "title": "微软将租用奥瑞利和OpenAI曾计划租用的德克萨斯州数据中心，彭博新闻报道。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/microsoft-to-rent-texas-data-center-dropped-by-oracle-and-openai-bloomberg-news-reports-4578108",
@@ -65,7 +65,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
+          "time": "2026-03-25 06:30:19",
           "title": "OpenAI 停止运营 Sora 视频平台，以集中精力开发企业产品。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/openai-set-to-discontinue-sora-video-platform-app-wsj-reports-4578391",
@@ -74,7 +74,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
+          "time": "2026-03-25 06:30:19",
           "title": "Meta被判赔偿3750万美元，涉及儿童剥削和用户安全指控的新墨西哥州案件",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/jury-orders-meta-to-pay-375-million-in-new-mexico-lawsuit-over-child-sexual-exploitation-user-safety-4578658",
@@ -83,11 +83,21 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
+          "time": "2026-03-25 06:30:19",
           "title": "英伟达的竞争对手Arm推出新一代AI芯片，预计将为公司带来数十亿美元的年收入。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/arm-unveils-new-ai-chip-expects-it-to-add-billions-in-annual-revenue-4578172",
           "title_en": "Arm unveils new AI chip, expects it to add billions in annual revenue"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-25 06:25:53",
+          "title": "OpenAI 增发资金，总融资额达到 1200亿美元，CFO 告诉克雷默。",
+          "summary": "新融资使OpenAI的历史融资总额达到1,200亿美元，超过了ChatGPT创造者的初始目标100亿美元。",
+          "url": "https://www.cnbc.com/2026/03/24/openai-secures-an-extra-10-billion-in-record-funding-round-cfo-friar-says.html",
+          "title_en": "OpenAI raises additional money to bring record funding round to $120 billion, CFO tells Cramer",
+          "summary_en": "The fresh capital brings OpenAI's historic fundraise to $120 billion, exceeding the ChatGPT creator's initial target of $100 billion."
         },
         {
           "source": "CNBC-Top",
@@ -110,16 +120,6 @@
           "summary_en": "The Defense Department designated Anthropic as a risk to U.S. national security, the first time an American company had been hit with that designation."
         },
         {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-25 06:16:28",
-          "title": "OpenAI 增发资金，总融资额达到 1200亿美元，CFO 告诉克雷默。",
-          "summary": "新融资使OpenAI的历史融资总额达到1,200亿美元，超过了ChatGPT创造者的初始目标100亿美元。",
-          "url": "https://www.cnbc.com/2026/03/24/openai-secures-an-extra-10-billion-in-record-funding-round-cfo-friar-says.html",
-          "title_en": "OpenAI raises additional money to bring record funding round to $120 billion, CFO tells Cramer",
-          "summary_en": "The fresh capital brings OpenAI's historic fundraise to $120 billion, exceeding the ChatGPT creator's initial target of $100 billion."
-        },
-        {
           "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-25 06:09:10",
@@ -140,7 +140,7 @@
           "summary_en": "A new release from Anthropic’s AI agent Claude has revived fears that software will no longer be needed to complete certain tasks."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-25 06:06:01",
           "title": "OpenAI关闭短视频应用Sora，公司在控制成本方面取得进展",
@@ -208,7 +208,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
+          "time": "2026-03-25 06:30:19",
           "title": "黄金为什么在通胀恐惧升高时大幅下跌？",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/commodities/articles/easy-come-easy-gold-why-140816099.html",
@@ -217,7 +217,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
+          "time": "2026-03-25 06:30:19",
           "title": "如果你正在寻找stagflation投资机会，以下三只高股息股票值得考虑：\n\n1. 3M (MMM)：该公司以其稳定的股息和强大的财务基础而闻名，能够抵御通胀和经济不确定性。\n2. Realty Income (O)： Realty Income是一家房地产投资信托（REIT），以其稳定的租金收入和高股息率而闻名，能够在经济不确定性时期保持稳定。\n3. National Retail Properties (NNN)：该公司以其稳定的租金收入和高股息率而闻名，能够在经济不确定性时期保持稳定。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-high-yield-stocks-buy-135812394.html",
@@ -242,7 +242,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
+          "time": "2026-03-25 06:30:19",
           "title": "油价预测受战争影响",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46523_MarketOutlook_1774352547000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -251,34 +251,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
-          "title": "股市反弹，原油价格下跌，美国总统特朗普缓和伊朗威胁",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rebound-crude-oil-sinks-140102422.html",
-          "title_en": "Stocks Rebound as Crude Oil Sinks After President Trump Eases Iran Threats"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
-          "title": "高盛提高了石油预测，基于最大规模的供应冲击",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/goldman-raises-oil-forecasts-largest-045537332.html",
-          "title_en": "Goldman raises oil forecasts on largest-ever supply shock"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
-          "title": "如果伊朗战争导致油价上涨100%，历史表明股市将如何变化",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/if-iran-war-sends-oil-prices-up-100-heres-what-history-says-will-happen-to-the-stock-market-142450571.html",
-          "title_en": "If Iran war sends oil prices up 100%, here's what history says will happen to the stock market"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
+          "time": "2026-03-25 06:30:19",
           "title": "股市大涨，石油价格下跌，特朗普推迟了军事袭击。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/market-minute-3-23-26-141500212.html",
@@ -287,7 +260,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
+          "time": "2026-03-25 06:30:19",
+          "title": "如果伊朗战争导致油价上涨100%，历史表明股市将如何变化",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/if-iran-war-sends-oil-prices-up-100-heres-what-history-says-will-happen-to-the-stock-market-142450571.html",
+          "title_en": "If Iran war sends oil prices up 100%, here's what history says will happen to the stock market"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 06:30:19",
+          "title": "股市反弹，原油价格下跌，美国总统特朗普缓和伊朗威胁",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rebound-crude-oil-sinks-140102422.html",
+          "title_en": "Stocks Rebound as Crude Oil Sinks After President Trump Eases Iran Threats"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 06:30:19",
           "title": "高油价可能迫使美联储提高利率",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/high-oil-prices-could-force-143000718.html",
@@ -296,16 +287,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
+          "time": "2026-03-25 06:30:19",
           "title": "美元下跌 股市在希望伊朗战争即将结束的信心中上涨",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-falls-stocks-rally-hopes-143631703.html",
           "title_en": "Dollar Falls as Stocks Rally in Hopes Iran War Will Soon End"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 06:30:19",
+          "title": "美联储官员戈尔斯比(Goolsbee)表示，美联储可能会在伊朗战争的背景下进行加息和降息。",
+          "summary": "",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-23-2026/card/hikes-and-cuts-both-on-the-table-amid-iran-war-fed-s-goolsbee-says-u9JPiKjQFWyw5gHg72cM?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Hikes and Cuts Both on the Table Amid Iran War, Fed's Goolsbee Says"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
+          "time": "2026-03-25 06:30:19",
           "title": "特朗普称与伊朗取得进展，美方拟提议方案结束战争",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/iran-sends-waves-of-missiles-into-israel-dismisses-trumps-talk-of-negotiations-as-fake-news-4576581",
@@ -425,7 +425,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
+          "time": "2026-03-25 06:30:19",
+          "title": "黑石集团CEO拉里·芬克警告称，在市场波动时应避免出售资产。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/blackrock-ceo-larry-fink-warns-141552188.html",
+          "title_en": "BlackRock CEO Larry Fink warns against divestment amid market volatility"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 06:30:19",
           "title": "如果世界上所有的黄金都在明天被卖掉，会发生什么？",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/what-would-happen-if-all-of-the-worlds-gold-were-sold-tomorrow-195737847.html",
@@ -434,7 +443,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
+          "time": "2026-03-25 06:30:19",
           "title": "帕拉尼特股价大涨，美军扩大对Maven战场系统的使用",
           "summary": "",
           "url": "https://www.investors.com/news/technology/palantir-stock-pltr-pentagon-letter-maven-battlefield-system/?src=A00220&yptr=yahoo",
@@ -443,16 +452,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
-          "title": "摩根士丹利认为，黄金进入熊市是对股市的好信号",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/why-gold-plunge-bear-market-140800032.html",
-          "title_en": "Why gold’s plunge into a bear market is a good signal for stocks, according to Morgan Stanley"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
+          "time": "2026-03-25 06:30:19",
           "title": "美元战胜法郎：现在就做这个交易",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-trumps-franc-1-trade-140846474.html",
@@ -461,97 +461,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
-          "title": "WeRide Q4财报电话会议亮点",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/weride-q4-earnings-call-highlights-141246226.html",
-          "title_en": "WeRide Q4 Earnings Call Highlights"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
-          "title": "Arete Research预见Hut 8股价将大幅上涨超过150%",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arete-research-sees-more-150-140600361.html",
-          "title_en": "Arete Research Sees More Than 150% Upside In Hut 8 Stock"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
-          "title": "钢铁动力股票：STLD是否优于基本材料行业？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/steel-dynamics-stock-stld-outperforming-140416726.html",
-          "title_en": "Steel Dynamics Stock: Is STLD Outperforming the Basic Materials Sector?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
-          "title": "分析报告：Bath & Body Works Inc",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3158_AnalystReport_1774350993000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Bath & Body Works Inc"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
-          "title": "卡姆登房产信托（Camden Property Trust）股价是否低于道指（Dow）表现？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/camden-property-trust-stock-underperforming-140125733.html",
-          "title_en": "Is Camden Property Trust Stock Underperforming the Dow?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
-          "title": "霍伯尔(Hubbell)的股价表现如何与其他工业股相比？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hubbells-stock-performance-compared-other-135934441.html",
-          "title_en": "How Is Hubbell's Stock Performance Compared to Other Industrial Stocks?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
-          "title": "市场摘要：BBWI、ES",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46520_MarketSummary_1774350093000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Market Digest: BBWI, ES"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
-          "title": "黄金延续跌势，受\"残酷清洗\"影响。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/gold-extends-losses-amid-brutal-flush-135632457.html",
-          "title_en": "Gold extends losses amid 'brutal flush'"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
-          "title": "EPAM股份是否低于纳斯达克指数表现？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/epam-stock-underperforming-nasdaq-135500250.html",
-          "title_en": "Is EPAM Stock Underperforming the Nasdaq?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
-          "title": "Gamehaus Q2业绩电话会议亮点",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/gamehaus-q2-earnings-call-highlights-141246396.html",
-          "title_en": "Gamehaus Q2 Earnings Call Highlights"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
+          "time": "2026-03-25 06:30:19",
           "title": "诺瓦贝（NovaBay）改名为稳定币开发公司（Stablecoin Development Corp），股价跳涨12%",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/crypto/articles/novabay-rebrands-stablecoin-development-corp-142300645.html",
@@ -560,7 +470,88 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
+          "time": "2026-03-25 06:30:19",
+          "title": "Arete Research预见Hut 8股价将大幅上涨超过150%",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arete-research-sees-more-150-140600361.html",
+          "title_en": "Arete Research Sees More Than 150% Upside In Hut 8 Stock"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 06:30:19",
+          "title": "分析报告：Bath & Body Works Inc",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3158_AnalystReport_1774350993000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Bath & Body Works Inc"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 06:30:19",
+          "title": "DraftKings和Penn Entertainment今天上涨：体育投注行业是否正在转弯？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/draftkings-penn-entertainment-climbing-today-141545993.html",
+          "title_en": "DraftKings and Penn Entertainment Are Climbing Today: Is the Sports Betting Sector Turning a Corner?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 06:30:19",
+          "title": "钢铁动力股票：STLD是否优于基本材料行业？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/steel-dynamics-stock-stld-outperforming-140416726.html",
+          "title_en": "Steel Dynamics Stock: Is STLD Outperforming the Basic Materials Sector?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 06:30:19",
+          "title": "卡姆登房产信托（Camden Property Trust）股价是否低于道指（Dow）表现？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/camden-property-trust-stock-underperforming-140125733.html",
+          "title_en": "Is Camden Property Trust Stock Underperforming the Dow?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 06:30:19",
+          "title": "市场摘要：BBWI、ES",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46520_MarketSummary_1774350093000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Market Digest: BBWI, ES"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 06:30:19",
+          "title": "马克·库班投资现场活动公司，称“我们该离开家了”",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/far-more-important-prompt-mark-141609860.html",
+          "title_en": "'What You Do is Far More Important than What You Prompt.' Mark Cuban Invests In Live Event Company, Says 'It's Time We All …Left The House'"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 06:30:19",
+          "title": "霍伯尔(Hubbell)的股价表现如何与其他工业股相比？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hubbells-stock-performance-compared-other-135934441.html",
+          "title_en": "How Is Hubbell's Stock Performance Compared to Other Industrial Stocks?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 06:30:19",
+          "title": "卡瓦纳股票：CVNA是否优于消费周期行业？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/carvana-stock-cvna-outperforming-consumer-142901994.html",
+          "title_en": "Carvana Stock: Is CVNA Outperforming the Consumer Cyclical Sector?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 06:30:19",
           "title": "2026年3月24日维克氏（Vickers）推荐的内幕交易股",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46518_InsiderActivity_1774347431000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -569,20 +560,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
-          "title": "特姆布尔股价是否低于道指",
+          "time": "2026-03-25 06:30:19",
+          "title": "吉亚尼金属将利用新一轮投资融资推进K.山项目的详细前期工作",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/trimble-stock-underperforming-dow-135245593.html",
-          "title_en": "Is Trimble Stock Underperforming the Dow?"
+          "url": "https://finance.yahoo.com/video/giyani-metals-advance-dfs-k-141444641.html",
+          "title_en": "Giyani Metals to advance DFS for K.Hill project with new IDC funding"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 06:24:45",
-          "title": "大型科技公司的希望之光：Mag 7与S&P 500之间的联系被打破",
+          "time": "2026-03-25 06:30:19",
+          "title": "黄金延续跌势，受\"残酷清洗\"影响。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/big-tech-cause-hope-between-130007636.html",
-          "title_en": "Big Tech’s cause for hope: Link between Mag 7, S&P 500 is broken"
+          "url": "https://finance.yahoo.com/news/gold-extends-losses-amid-brutal-flush-135632457.html",
+          "title_en": "Gold extends losses amid 'brutal flush'"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 06:30:19",
+          "title": "EPAM股份是否低于纳斯达克指数表现？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/epam-stock-underperforming-nasdaq-135500250.html",
+          "title_en": "Is EPAM Stock Underperforming the Nasdaq?"
         }
       ]
     }
