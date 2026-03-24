@@ -28,30 +28,31 @@ def get_latest_ai_news_items(limit=10):
     # 提取新闻条目
     items = []
     
-    # 当前格式（2026-03-23 23:31 版本）:
-    # ### 1. 标题
-    # - **来源**: Source | 发布于 X天前
-    # - **标签**: #tag1 #tag2
-    # - **摘要**: ...
-    # - **原文链接**: url
-    pattern_new = r'###\s+(\d+)\.\s+(.+?)\n- \*\*来源\*\*:\s+(.+?)\s+\|\s+发布于.+?\n- \*\*标签\*\*:\s+(.+?)\n- \*\*摘要\*\*:\s+(.+?)\n- \*\*原文链接\*\*:\s+(.+?)(?=\n\n###|\n\n##|\Z)'
+    # 当前格式（2026-03-24 版本）:
+    # ### 🚀 标题
+    # - **分类**: #tag1 #tag2
+    # - **来源**: Source
+    # - **时间**: YYYY-MM-DD
+    # - **简介**: ...
+    # - **链接**: url
+    pattern_new = r'###\s+(?:🚀|💰|🛡️|🧠|🤖|⚡|🔧|📱|🏢|🔬|🎯|📊|📝|💼)?\s*(.+?)\n- \*\*分类\*\*:\s+(.+?)\n- \*\*来源\*\*:\s+(.+?)\n- \*\*时间\*\*:\s+(.+?)\n- \*\*简介\*\*:\s+(.+?)\n- \*\*链接\*\*:\s+(.+?)(?=\n\n###|\n\n---|\n\n##|\Z)'
     matches = list(re.finditer(pattern_new, content, re.DOTALL))
     
     if matches:
         for match in matches:
-            num, title, source, tags, summary, link = match.groups()
+            title, category, source, pub_time, summary, link = match.groups()
             
-            # 从标签中提取 emoji
+            # 从分类中提取 emoji
             tag_emojis = "🤖"
-            if "#融资" in tags or "#收购" in tags:
+            if "#融资" in category or "#收购" in category:
                 tag_emojis = "💰"
-            elif "#监管" in tags or "#禁令" in tags or "#争议" in tags:
+            elif "#监管" in category or "#禁令" in category or "#争议" in category:
                 tag_emojis = "🛡️"
-            elif "#大模型" in tags or "#模型" in tags:
+            elif "#大模型" in category or "#模型" in category:
                 tag_emojis = "🧠"
             
             items.append({
-                "number": num,
+                "number": str(len(items) + 1),
                 "tags": tag_emojis,
                 "title": title.strip(),
                 "summary": summary.strip()[:200] + "..." if len(summary.strip()) > 200 else summary.strip(),
