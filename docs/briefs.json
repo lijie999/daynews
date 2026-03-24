@@ -1,6 +1,6 @@
 {
   "date": "2026.03.25",
-  "generatedAtBJT": "2026-03-25 02:21:51",
+  "generatedAtBJT": "2026-03-25 02:30:28",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,7 +14,7 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-25 02:21:51",
+          "time": "2026-03-25 02:30:28",
           "title": "主线结论（系统版｜条件触发）",
           "summary": "- 主导因子：10年期利率 + 原油价格风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克指数/标普500承压更明显；美元指数上升→黄金价格更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克指数/标普500先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克指数/标普500修复反弹、黄金价格喘息；操作偏好：回踩参与、避免追高\n- 期权：事件",
           "url": "#",
@@ -29,29 +29,39 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
-          "title": "普华永道推出PwC One平台，推动人工智能驱动的服务模式",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/pwc-launches-pwc-one-platform-091119286.html",
-          "title_en": "PwC launches PwC One platform in push towards AI-led delivery model"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "OpenAI在私募股权融资谈判中提高了筹资金额，据说这是与Anthropic竞争企业客户的战略举措。",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/technology/articles/exclusive-openai-sweetens-private-equity-100049163.html",
           "title_en": "Exclusive-OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 02:30:23",
+          "title": "伯克希尔·哈撒韦公司(Warren Buffett的继任者)格雷格·阿贝尔(Greg Abel)投资的3只不可阻挡的AI股，总价值达64亿美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-successor-greg-abel-092600317.html",
+          "title_en": "Warren Buffett's Successor, Greg Abel, Has $64 Billion of Berkshire Hathaway's Assets Invested in 3 Unstoppable AI Stocks"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "美国立法者询问，Nvidia CEO是否误导监管机构",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-lawmakers-ask-whether-nvidia-ceos-smuggling-remarks-misled-regulators-4578261",
           "title_en": "US lawmakers ask whether Nvidia CEO’s smuggling remarks misled regulators"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-25 02:26:33",
+          "title": "Arm发布首款自主芯片，Meta成为首个客户",
+          "summary": "Arm 正在开发自己的中央处理器（CPU），从仅向苹果、NVIDIA、亚马逊和谷歌等巨头许可其架构转变。CNBC独家首次看到了它。",
+          "url": "https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html",
+          "title_en": "Arm releases first in-house chip, with Meta as debut customer",
+          "summary_en": "Arm is making its first CPU, pivoting from only licensing its architecture to giants like Apple, Nvidia, Amazon and Google. CNBC got an exclusive first look."
         },
         {
           "source": "CNBC-Top",
@@ -62,16 +72,6 @@
           "url": "https://www.cnbc.com/2026/03/24/openai-revamps-shopping-experience-in-chatgpt-after-instant-checkout.html",
           "title_en": "OpenAI revamps shopping experience in ChatGPT after struggling with Instant Checkout offering",
           "summary_en": "OpenAI said the new experience will make it easier for users to find and compare products."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-25 01:22:01",
-          "title": "Arm发布首款自主芯片，Meta成为首个客户",
-          "summary": "Arm 正在开发自己的中央处理器（CPU），从仅向苹果、NVIDIA、亚马逊和谷歌等巨头许可其架构转变。CNBC独家首次看到了它。",
-          "url": "https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html",
-          "title_en": "Arm releases first in-house chip, with Meta as debut customer",
-          "summary_en": "Arm is making its first CPU, pivoting from only licensing its architecture to giants like Apple, Nvidia, Amazon and Google. CNBC got an exclusive first look."
         },
         {
           "source": "MarketWatch-Top",
@@ -202,7 +202,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "你是否想要固定利率或可调利率？",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-march-23-2026-100000632.html",
@@ -211,7 +211,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "截至2026年3月23日，最佳现金市场账户利率（最高可达4.01%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-march-23-2026-100013520.html",
@@ -220,7 +220,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "今日最佳定期存款利率（截至2026年3月23日），最高可锁定4.15%APY",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-march-23-2026-100028338.html",
@@ -229,7 +229,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "截至2026年3月23日，今日高收益储蓄利率（最高可达4%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-monday-march-23-2026-100043794.html",
@@ -238,7 +238,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "本周3月23日，利率低于6%的抵押贷款贷款人：暂时失去",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-march-23-2026-170834739.html",
@@ -247,7 +247,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "今日（3月23日）房贷和再融资利率：三周内上升了0.5个百分点。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-march-23-2026-100000360.html",
@@ -256,7 +256,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
+          "title": "美国国债收益率上升，全球市场风险情绪加剧，股市大幅下挫。",
+          "summary": "",
+          "url": "https://www.wsj.com/finance/commodities-futures/treasury-yields-rise-stocks-tumble-as-risk-off-mood-grips-global-markets-242a3cfc?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Treasury Yields Rise, Stocks Tumble as Risk-Off Mood Grips Global Markets"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 02:30:23",
           "title": "今日（3月24日）HELOC和家庭抵押贷款利率：平均信用额度接近15万美元",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-march-24-2026-100000460.html",
@@ -265,7 +274,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "今日（3月24日）抵押贷款和再融资利率：再次上升",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-march-24-2026-100000603.html",
@@ -274,7 +283,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "截至2026年3月24日，最佳现金市场账户利率（最高可达4.01%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-tuesday-march-24-2026-100004576.html",
@@ -283,11 +292,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "今日最佳定期存款利率（CD），2026年3月24日：今日可锁定最高4.15%年利率（APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-march-24-2026-lock-in-up-to-4-1-5-apy-today-100022097.html",
           "title_en": "Best CD rates today, March 24, 2026: Lock in up to 4.15% APY today"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 02:30:23",
+          "title": "截至2026年3月24日，最高回报高利率储蓄利率（最高可达4%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-tuesday-march-24-2026-100053103.html",
+          "title_en": "Best high-yield savings interest rates today, March 24, 2026 (Earn up to 4% APY)"
         },
         {
           "source": "CNBC-World",
@@ -318,7 +336,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "高盛提高布伦特原油价格预测8美元，提高WTI原油价格预测7美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/commodities/articles/goldman-boosts-oil-price-forecast-091000146.html",
@@ -327,16 +345,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
-          "title": "油价预测受战争影响",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46523_MarketOutlook_1774352547000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily Spotlight: War Roils Oil Price Outlook"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "美国对伊朗的战争与燃料、肥料和食品价格之间的联系是什么？（第一部分）",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/commodities/articles/whats-connection-between-us-war-095340788.html",
@@ -345,25 +354,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
-          "title": "印度维持汽油价格不变，尽管油价篮子突破155美元大关",
+          "time": "2026-03-25 02:30:23",
+          "title": "油价预测受战争影响",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/india-holds-fuel-prices-steady-063054376.html",
-          "title_en": "India Holds Fuel Prices Steady Even as Oil Basket Soars Above $155"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46523_MarketOutlook_1774352547000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily Spotlight: War Roils Oil Price Outlook"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
+          "title": "投资者评估伊朗风险随着特朗普的最后期限逐渐临近",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/investors-game-iran-risk-clock-093000284.html",
+          "title_en": "Investors Game Out Iran Risk as Clock Ticks on Trump’s Deadline"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 02:30:23",
           "title": "股指期货大涨，油价暴跌，美伊谈判引发市场波动。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-rally-oil-103146953.html",
           "title_en": "Stock Index Futures Rally as Oil Prices Tumble on U.S.-Iran Talks"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 02:30:23",
+          "title": "印度维持汽油价格不变，尽管油价篮子突破155美元大关",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/india-holds-fuel-prices-steady-063054376.html",
+          "title_en": "India Holds Fuel Prices Steady Even as Oil Basket Soars Above $155"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "瓦莱罗德克萨斯州炼油厂爆炸未发现有故意行为的证据，警署发言",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/no-evidence-valero-texas-refinery-blast-caused-by-intentional-act-sheriffs-office-4578255",
@@ -372,20 +399,41 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "巴基斯坦愿意主办和平谈判以结束美国以色列对伊朗的战争",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/iran-sends-waves-of-missiles-into-israel-dismisses-trumps-talk-of-negotiations-as-fake-news-4576581",
           "title_en": "Pakistan willing to host peace talks to end US-Israeli war on Iran"
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
-          "title": "周三将公布的经济数据中包括原油库存量。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/crude-oil-inventories-among-economic-data-due-wednesday-93CH-4578243",
-          "title_en": "Crude oil inventories among economic data due Wednesday"
+          "time": "2026-03-25 02:26:00",
+          "title": "巴基斯坦表示愿意促进美国和伊朗的战争谈判，特朗普和德黑兰给出了矛盾的信号。",
+          "summary": "特朗普称，美国和伊朗的谈判代表进行了“非常强烈”的谈判，但伊朗方面否认了这一说法。",
+          "url": "https://www.cnbc.com/2026/03/24/trump-iran-war-pakistan-talks.html",
+          "title_en": "Pakistan offers to facilitate U.S.-Iran war talks as Trump and Tehran give mixed signals",
+          "summary_en": "Trump said top U.S. negotiators and their Iranian counterparts have been engaged in \"very, very strong talks,\" but Tehran has denied that claim."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-25 02:25:00",
+          "title": "石油价格大涨，据报美军计划部署3,000名士兵前往中东。",
+          "summary": "石油期货价格周二大幅上涨，全球价格一度突破每桶104美元，受美国国防部计划部署一支空降部队到中东地区，以支持对伊朗行动的报告影响。",
+          "url": "https://www.marketwatch.com/story/oil-rises-as-saudi-arabia-and-uae-reportedly-weigh-joining-iran-war-d1236604?mod=mw_rss_topstories",
+          "title_en": "Oil prices rally as Pentagon reportedly plans to deploy 3,000 troops to the Middle East",
+          "summary_en": "Oil futures were up sharply Tuesday, with global prices topping $104 a barrel, buoyed by a report that the Pentagon plans to deploy an airborne Army unit to the Middle East to support its operations against Iran, signaling that the situation in the region is poised to intensify."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-25 02:22:49",
+          "title": "科威特称霍尔木兹海峡关闭将是灾难性的，会引发全球经济的连锁反应。",
+          "summary": "伊朗正在以封锁霍尔木兹海峡的方式挟持全球经济，库达斯石油公司首席执行官沙伊赫·纳瓦夫·阿尔-萨巴赫说。",
+          "url": "https://www.cnbc.com/2026/03/24/iran-war-oil-strait-hormuz-kuwait-gulf.html",
+          "title_en": "Kuwait says Strait of Hormuz closure is beyond catastrophic, will trigger domino effect across global economy",
+          "summary_en": "Iran is holding the world economy hostage by blockading the Strait of Hormuz, said Shaikh Nawaf Al-Sabah, the CEO of Kuwait Petroleum Corporation."
         },
         {
           "source": "CNBC-Top",
@@ -416,16 +464,6 @@
           "url": "https://www.cnbc.com/2026/03/24/iran-war-gas-prices-airline-tickets.html",
           "title_en": "As Iran war causes gas and airfares to spike, lawmakers warn of price gouging — but experts point to supply shocks",
           "summary_en": "With airfares and gas prices spiking, some lawmakers are warning of the potential for price gouging, even as experts point to extreme supply shocks."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-25 01:39:00",
-          "title": "巴基斯坦表示愿意为美国和伊朗的战争谈判提供便利条件，特朗普和德黑兰的信号不一致。",
-          "summary": "特朗普称，美国和伊朗的谈判代表进行了“非常强烈”的谈判，但伊朗方面否认了这一说法。",
-          "url": "https://www.cnbc.com/2026/03/24/trump-iran-war-pakistan-talks.html",
-          "title_en": "Pakistan offers to facilitate U.S.-Iran war talks as Trump, Tehran give mixed signals",
-          "summary_en": "Trump said top U.S. negotiators and their Iranian counterparts have been engaged in \"very, very strong talks,\" but Tehran has denied that claim."
         },
         {
           "source": "CNBC-Top",
@@ -466,26 +504,6 @@
           "url": "https://www.cnbc.com/2026/03/24/iran-war-britain-new-homes-solar-heat-pumps-energy-crisis.html",
           "title_en": "Britain responds to Iran war energy shock by requiring solar panels and heat pumps in all new homes",
           "summary_en": "The move comes as part of Britain's response to the Iran war, with the conflict triggering the largest supply disruption in the history of the oil market."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-24 22:14:44",
-          "title": "伊朗在霍尔木兹海峡的袭击是“对每个国家的经济恐怖主义”，阿联酋石油CEO说。",
-          "summary": "阿联酋国有石油公司的首席执行官苏丹阿赫迈德·阿尔·贾伯说，霍尔木兹海峡必须重新开放以解决供应冲击。",
-          "url": "https://www.cnbc.com/2026/03/23/iran-war-strait-hormuz-uae-adnoc.html",
-          "title_en": "Iran attacks in Strait of Hormuz are 'economic terrorism against every nation,' UAE oil CEO says",
-          "summary_en": "Sultan Ahmed Al Jaber, CEO of the UAE's state-owned oil company, said the Strait of Hormuz must reopen to resolve the supply shock."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-24 20:52:29",
-          "title": "电动汽车电池初创公司因伊朗战争和电动汽车市场疲软而转向国防行业。",
-          "summary": "前通用汽车高管首席执行官帕梅拉·弗莱彻在接受CNBC采访时表示：“更快的路径，事实上也是一个大需求，正在这个防御领域。”",
-          "url": "https://www.cnbc.com/2026/03/24/ev-battery-startup-sion-power-defense-drones.html",
-          "title_en": "EV battery startup pivots to defense industry amid Iran war, weak electric vehicle market",
-          "summary_en": "Former GM executive CEO Pamela Fletcher told CNBC \"the faster path, and frankly, a big need, is out there in this defense space.\""
         }
       ]
     },
@@ -501,25 +519,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
-          "title": "德利赫罗将出售台湾业务给Grab",
+          "time": "2026-03-25 02:30:23",
+          "title": "房价中的一个潜在陷阱",
           "summary": "",
-          "url": "https://www.wsj.com/business/deals/delivery-hero-to-sell-taiwan-business-to-grab-3683a359?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Delivery Hero to Sell Taiwan Business to Grab"
+          "url": "https://www.wsj.com/economy/housing/the-housing-bargain-hiding-in-plain-sight-803c73f4?siteid=yhoof2&yptr=yahoo",
+          "title_en": "The Housing Bargain Hiding in Plain Sight"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
-          "title": "咨询师：我49岁，储蓄500万美元，担心退休收入。除了年金外，我还有哪些选择？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/ask-advisor-im-49-500k-130746902.html",
-          "title_en": "Ask an Advisor: I'm 49 With $500k Saved and Concerned About Retirement Income. What Are My Alternatives to Annuities?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "与其他消费周期股相比，特斯派（Tapestry）股价表现如何？",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/tapestry-stock-performance-compared-other-093030828.html",
@@ -528,7 +537,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
+          "title": "咨询师：我49岁，储蓄500万美元，担心退休收入。除了年金外，我还有哪些选择？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/options/articles/ask-advisor-im-49-500k-130746902.html",
+          "title_en": "Ask an Advisor: I'm 49 With $500k Saved and Concerned About Retirement Income. What Are My Alternatives to Annuities?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 02:30:23",
           "title": "英国的Trustpilot因欺骗消费者被意大利监管机构罚款460万美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/italy-fines-trustpilot-4-6-075305441.html",
@@ -537,16 +555,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
-          "title": "日本企业与工会达成5.26%的工资涨幅协议，日本最大工会组织的初步数据显示。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/japanese-firms-agree-5-26-072221720.html",
-          "title_en": "Japanese firms agree to 5.26% wage hike, top union group's preliminary data shows"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "分析报告：Bath & Body Works Inc",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3158_AnalystReport_1774350993000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -555,16 +564,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
-          "title": "我简直傻眼了：我老兄有抵押回购贷款——然而他仍然花光了钱。该帮他吗？",
+          "time": "2026-03-25 02:30:23",
+          "title": "本年尽快获得退税的策略：正确填报税单",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/m-completely-gobsmacked-elderly-brother-113200226.html",
-          "title_en": "‘I’m completely gobsmacked’: My elderly brother has a reverse mortgage — yet he still ran out of money. Do I help?"
+          "url": "https://finance.yahoo.com/economy/policy/articles/tax-refund-filing-strategies-money-093000958.html",
+          "title_en": "Tax Refund Filing Strategies to Get Your Money Faster This Year"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
+          "title": "日本企业与工会达成5.26%的工资涨幅协议，日本最大工会组织的初步数据显示。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/economy/policy/articles/japanese-firms-agree-5-26-072221720.html",
+          "title_en": "Japanese firms agree to 5.26% wage hike, top union group's preliminary data shows"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 02:30:23",
           "title": "我们每月支付500美元购买长期护理保险，累计支付72,000美元。我们该如何决定是否继续购买？",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/options/articles/ask-advisor-long-term-care-170741083.html",
@@ -573,7 +591,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "市场摘要：BBWI、ES",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46520_MarketSummary_1774350093000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -582,16 +600,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
-          "title": "澳大利亚反垄断委员会（ACCC）监测汽油价格  中东紧张局势",
+          "time": "2026-03-25 02:30:23",
+          "title": "欧盟新标准重塑包装设备的合规性",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/australia-accc-monitors-petrol-prices-092022505.html",
-          "title_en": "Australia’s ACCC monitors petrol prices amid Middle East tensions"
+          "url": "https://finance.yahoo.com/economy/policy/articles/eu-standards-reshape-compliance-packaging-092018991.html",
+          "title_en": "New EU standards reshape compliance for packaging equipment"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "罗克威尔上月创下历史新高。准备好再次冲向巅峰吗？",
           "summary": "",
           "url": "https://www.investors.com/news/rockwell-automation-shows-rising-relative-strength-still-shy-of-key-benchmark/?src=A00220&yptr=yahoo",
@@ -600,7 +618,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "福克斯公司股票：FOX是否低于通信行业表现？",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/fox-corporation-stock-foxa-underperforming-064448361.html",
@@ -609,16 +627,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
-          "title": "巴布科克威尔科斯(BW)大涨44%，创历史新高，受评级上调影响",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/babcock-wilcox-bw-soars-44-062226206.html",
-          "title_en": "Babcock & Wilcox (BW) Soars 44%, Hits Record High on PT Upgrade"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "2026年3月24日维克氏（Vickers）推荐的内幕交易股",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46518_InsiderActivity_1774347431000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -627,25 +636,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
-          "title": "美国证券交易委员会（SEC）澄清了加密货币法规——对投资者的影响",
+          "time": "2026-03-25 02:30:23",
+          "title": "印度最大加密货币交易平台CoinDCX创始人被捕，指控可能让你惊讶",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/sec-clarifies-crypto-laws-heres-092000993.html",
-          "title_en": "SEC Clarifies Crypto Laws -- Here's What It Means for Investors"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/indias-largest-crypto-exchange-coindcxs-091715775.html",
+          "title_en": "India's Largest Crypto Exchange CoinDCX's Founders Arrested, the Allegations Might Surprise You"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
-          "title": "SolarEdge (SEDG) 突破38.7%，Jefferies提高了价格目标。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/solaredge-sedg-soars-38-7-061851121.html",
-          "title_en": "SolarEdge (SEDG) Soars 38.7% as Jefferies Hikes Price Target"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "早盘盘点：时炸弹",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/articles/morning-bid-ticking-time-bomb-104105514.html",
@@ -654,11 +654,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 02:21:46",
+          "time": "2026-03-25 02:30:23",
           "title": "如果世界上所有的黄金都在明天被卖掉，会发生什么？",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/what-would-happen-if-all-of-the-worlds-gold-were-sold-tomorrow-195737847.html",
           "title_en": "What would happen if all of the world's gold were sold tomorrow?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 02:30:23",
+          "title": "航班混乱加剧，TSA等待时间长达数小时。旅行取消保险的要点。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/insurance/article/flight-chaos-grows-as-tsa-lines-stretch-for-hours-what-to-know-about-trip-cancellation-insurance-143909492.html",
+          "title_en": "Flight chaos grows as TSA lines stretch for hours. What to know about trip cancellation insurance."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 02:30:23",
+          "title": "税退还比去年增加，会帮助缓解汽油价格上涨带来的压力吗？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refunds-are-up-from-a-year-ago-will-that-help-the-burn-of-higher-gas-prices-152806737.html",
+          "title_en": "Tax refunds are up from a year ago. Will that help the burn of higher gas prices?"
         }
       ]
     }
