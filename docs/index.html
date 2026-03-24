@@ -90,186 +90,14 @@
       <header>
         <div class="k">
           <span class="pill">交易台模式（主线→AI→主题）</span>
-          <span class="pill">最后更新：2026-03-25 03:00:32（北京时间）</span>
+          <span class="pill">最后更新：2026-03-25 03:22:32（北京时间）</span>
           <span class="pill">数据：briefs.json</span>
         </div>
         <h1>DayNews · 2026.03.25</h1>
         <p class="sub">先读主线结论（3秒），再看AI动态（10秒），最后按主题浏览（3分钟）。</p>
       </header>
 
-      <section class="hero"><div class="hero-top"><div class="hero-title">主线结论</div><div class="hero-time">2026-03-25 02:52:25</div></div><div class="hero-body">**市场走势**：美股指数震荡，科技股分化明显<br><br>**核心驱动**：<br>• Fed 政策预期持稳，利率/债券收益率影响估值<br>• 地缘风险（伊朗/能源）推升油价，避险需求抬头<br>• AI/科技板块结构分化，关注头部权重股动向<br><br>**风险提示**：短期波动率可能维持高位，关注宏观数据与油价</div></section>
-
-      <section class="card ai-news-carousel">
-<h2>
-  <span>🤖 AI 新闻（每30分钟更新）</span>
-  <span class="badge">4</span>
-</h2>
-<div class="ai-carousel-wrapper">
-  <button class="carousel-btn carousel-prev" onclick="aiNewsCarousel.prev()">‹</button>
-  <div class="ai-carousel-container">
-    <div class="ai-carousel-page active" data-page="0">
-      <div class="tlist">
-        <div class="titem">
-          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
-            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">融资</div>
-            <div>
-              <a class="ttitle" href="https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/" target="_blank" rel="noreferrer noopener">Mirage融资7500万美元用于AI视频编辑应用Captions</a>
-              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">AI视频编辑应用Captions的母公司Mirage获得7500万美元融资，用于继续开发AI模型。该应用专注于使用AI技术简化视频编辑流程。</div>
-            </div>
-          </div>
-        </div>
-        <div class="titem">
-          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
-            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">Agent</div>
-            <div>
-              <a class="ttitle" href="https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/" target="_blank" rel="noreferrer noopener">Snapchat推出"AI Clips"镜头功能，将照片转为5秒视频</a>
-              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">Snapchat推出新的"AI Clips"镜头格式，可将静态照片转换成5秒短视频。该功能进一步拓展了Snapchat在生成式AI领域的应用。</div>
-            </div>
-          </div>
-        </div>
-        <div class="titem">
-          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
-            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">Agent</div>
-            <div>
-              <a class="ttitle" href="https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/" target="_blank" rel="noreferrer noopener">Google DeepMind与Agile Robots达成合作</a>
-              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">Agile Robots成为最新一家与Google DeepMind合作的机器人公司。此前Google DeepMind已与多家机器人企业建立合作关系，推动AI在机器人领域的应用。</div>
-            </div>
-          </div>
-        </div>
-        <div class="titem">
-          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
-            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">Agent</div>
-            <div>
-              <a class="ttitle" href="https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/" target="_blank" rel="noreferrer noopener">Bernie Sanders AI视频遭遇翻车，引发网友造梗热潮</a>
-              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">美国参议员Bernie Sanders试图通过AI生成视频展示AI的危险性，但视频效果欠佳，反而引发网友大量制作搞笑梗图和模仿内容。</div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <button class="carousel-btn carousel-next" onclick="aiNewsCarousel.next()">›</button>
-</div>
-<div class="carousel-dots">
-  <span class="carousel-dot active" data-page="0" onclick="aiNewsCarousel.goTo(0)"></span>
-</div>
-<script>
-// AI 新闻轮播控制
-const aiNewsCarousel = {
-  currentPage: 0,
-  totalPages: 1,
-  
-  goTo(page) {
-    if (page < 0 || page >= this.totalPages) return;
-    
-    // 隐藏当前页
-    document.querySelectorAll('.ai-carousel-page').forEach(p => p.classList.remove('active'));
-    document.querySelectorAll('.carousel-dot').forEach(d => d.classList.remove('active'));
-    
-    // 显示目标页
-    document.querySelector(`.ai-carousel-page[data-page="${page}"]`).classList.add('active');
-    document.querySelector(`.carousel-dot[data-page="${page}"]`).classList.add('active');
-    
-    this.currentPage = page;
-  },
-  
-  next() {
-    this.goTo((this.currentPage + 1) % this.totalPages);
-  },
-  
-  prev() {
-    this.goTo((this.currentPage - 1 + this.totalPages) % this.totalPages);
-  }
-};
-
-// 键盘快捷键
-document.addEventListener('keydown', (e) => {
-  if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
-  if (e.key === 'ArrowLeft') aiNewsCarousel.prev();
-  if (e.key === 'ArrowRight') aiNewsCarousel.next();
-});
-</script>
-<style>
-.ai-news-carousel {
-  position: relative;
-}
-
-.ai-carousel-wrapper {
-  position: relative;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
-
-.ai-carousel-container {
-  flex: 1;
-  overflow: hidden;
-  position: relative;
-}
-
-.ai-carousel-page {
-  display: none;
-}
-
-.ai-carousel-page.active {
-  display: block;
-}
-
-.carousel-btn {
-  background: rgba(255,255,255,0.1);
-  border: 1px solid rgba(255,255,255,0.2);
-  color: var(--text);
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  font-size: 24px;
-  font-weight: bold;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: all 0.2s;
-  flex-shrink: 0;
-}
-
-.carousel-btn:hover {
-  background: rgba(255,255,255,0.15);
-  border-color: rgba(255,255,255,0.3);
-  transform: scale(1.05);
-}
-
-.carousel-btn:active {
-  transform: scale(0.95);
-}
-
-.carousel-dots {
-  display: flex;
-  justify-content: center;
-  gap: 8px;
-  padding: 12px 0 8px;
-}
-
-.carousel-dot {
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  background: rgba(255,255,255,0.2);
-  cursor: pointer;
-  transition: all 0.2s;
-}
-
-.carousel-dot:hover {
-  background: rgba(255,255,255,0.4);
-  transform: scale(1.2);
-}
-
-.carousel-dot.active {
-  background: rgba(255,176,32,0.8);
-  width: 24px;
-  border-radius: 4px;
-}
-</style>
-</section>
+      <section class="hero"><div class="hero-top"><div class="hero-title">主线结论</div><div class="hero-time">2026-03-25 03:22:40</div></div><div class="hero-body">**市场走势**：美股指数震荡，科技股分化明显<br><br>**核心驱动**：<br>• Fed 政策预期持稳，利率/债券收益率影响估值<br>• 地缘风险（伊朗/能源）推升油价，避险需求抬头<br>• AI/科技板块结构分化，关注头部权重股动向<br><br>**风险提示**：短期波动率可能维持高位，关注宏观数据与油价</div></section>
 
       <section class="card ai-news-carousel">
 <h2>
@@ -444,13 +272,15 @@ document.addEventListener('keydown', (e) => {
 </section>
 
       <div class="grid3">
-        <section class="card"><h2><span>📊 指数/科技</span><span class="badge">18</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/sectors/technology/articles/exclusive-openai-sweetens-private-equity-100049163.html" target="_blank" rel="noreferrer noopener">OpenAI在私募股权融资谈判中提高了筹资金额，据说这是与Anthropic竞争企业客户的战略举措。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/news/3-weeks-of-war-possible-rate-hikes-and-ais-show-me-phase-what-to-watch-this-week-113740150.html" target="_blank" rel="noreferrer noopener">本周要关注的事件包括：</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://www.wsj.com/finance/investing/larry-finks-warning-invest-or-risk-getting-left-behind-by-ai-d2f1d09d?siteid=yhoof2&amp;yptr=yahoo" target="_blank" rel="noreferrer noopener">拉里·芬克的警告：投资或面临被AI抛在后面的风险</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/apple-tests-standalone-siri-app-as-part-of-ai-overhaul--bloomberg-93CH-4578301" target="_blank" rel="noreferrer noopener">苹果测试独立的Siri应用程序作为人工智能重构的一部分。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/us-lawmakers-ask-whether-nvidia-ceos-smuggling-remarks-misled-regulators-4578261" target="_blank" rel="noreferrer noopener">美国立法者询问，Nvidia CEO是否误导监管机构</a></div>
+        <section class="card"><h2><span>📊 指数/科技</span><span class="badge">18</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:22:27</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/news/3-weeks-of-war-possible-rate-hikes-and-ais-show-me-phase-what-to-watch-this-week-113740150.html" target="_blank" rel="noreferrer noopener">本周要关注的事件包括：</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:22:27</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/sectors/technology/articles/exclusive-openai-sweetens-private-equity-100049163.html" target="_blank" rel="noreferrer noopener">OpenAI在私募股权融资谈判中提高了筹资金额，据说这是与Anthropic竞争企业客户的战略举措。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:22:27</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/options/articles/high-probability-iron-condor-trade-110002246.html" target="_blank" rel="noreferrer noopener">苹果股价上涨的高概率铁箕交易，潜在收益22%</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:22:27</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/ciena-corporation-cien-surged-strong-111855094.html" target="_blank" rel="noreferrer noopener">Ciena Corporation (CIEN) 因云服务提供商的强需求大幅上涨</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:22:27</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/coreweave-vs-applied-digital-ai-102200229.html" target="_blank" rel="noreferrer noopener">核心韦夫vs.应用数字：哪家AI数据中心股会让你更富有？</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:22:27</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/apple-tests-standalone-siri-app-as-part-of-ai-overhaul--bloomberg-93CH-4578301" target="_blank" rel="noreferrer noopener">苹果测试独立的Siri应用程序作为人工智能重构的一部分。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:22:27</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/us-lawmakers-ask-whether-nvidia-ceos-smuggling-remarks-misled-regulators-4578261" target="_blank" rel="noreferrer noopener">美国立法者询问，Nvidia CEO是否误导监管机构</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:01:45</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/24/jamie-dimon-ai-job-loss.html" target="_blank" rel="noreferrer noopener">贾马尔·迪蒙警告称人工智能将导致大量失业，呼吁政府和企业联合提供激励措施。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 02:26:33</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html" target="_blank" rel="noreferrer noopener">Arm发布首款自主芯片，Meta成为首个客户</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 02:23:45</span><span class="tsrc">CNBC-Tech · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/24/jamie-dimon-ai-job-loss.html" target="_blank" rel="noreferrer noopener">贾马尔·迪蒙警告称人工智能将导致大量失业，呼吁政府和企业联合提供激励措施。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 01:32:19</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/24/openai-revamps-shopping-experience-in-chatgpt-after-instant-checkout.html" target="_blank" rel="noreferrer noopener">OpenAI重新设计了ChatGPT的购物体验，解决了Instant Checkout功能的使用困难问题。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 01:01:00</span><span class="tsrc">MarketWatch-Top · RSS</span></div><a class="ttitle" href="https://www.marketwatch.com/story/heres-how-coreweave-and-nebius-can-prove-the-ai-doubters-wrong-b7cedd31?mod=mw_rss_topstories" target="_blank" rel="noreferrer noopener">CoreWeave和Nebius如何证明AI的怀疑者是错误的</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 00:35:00</span><span class="tsrc">MarketWatch-Top · RSS</span></div><a class="ttitle" href="https://www.marketwatch.com/story/7-software-stocks-set-to-thrive-in-the-face-of-ai-uncertainty-d810b6d1?mod=mw_rss_topstories" target="_blank" rel="noreferrer noopener">7家软件股料面对AI不确定性而蓬勃发展</a></div>
@@ -459,17 +289,13 @@ document.addEventListener('keydown', (e) => {
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 00:01:39</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/24/fedex-same-day-delivery-onerail.html" target="_blank" rel="noreferrer noopener">联邦快递与OneRail合作推出同日送达服务，亚马逊和沃尔玛加快了送货速度。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-24 23:32:05</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/24/gap-google-gemini-checkout-ai-platform.html" target="_blank" rel="noreferrer noopener">Gap表示将在谷歌的Gemini中推出自助结算功能，这是时尚行业一家主要公司首次采用人工智能技术。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-24 21:23:11</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/24/amazon-zoox-robotaxi-rides-austin-miami.html" target="_blank" rel="noreferrer noopener">亚马逊的Zoox计划今年晚些时候在奥斯汀和迈阿密推出无人出租车。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-24 20:37:37</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/24/alibaba-ai-chip-cpu-agents.html" target="_blank" rel="noreferrer noopener">阿里巴巴公布新一代专为"代理"设计的AI芯片</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-24 20:03:29</span><span class="tsrc">CNBC-Tech · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/24/5-things-to-know-before-the-market-opens.html" target="_blank" rel="noreferrer noopener">特朗普的市场动荡帖子、新的国土安全部长、Gap的AI推动等在早间喷嚏中</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-24 07:36:42</span><span class="tsrc">CNBC-Tech · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/23/openai-risk-factors-microsoft-reliance-elon-musk-and-xai-lawsuits.html" target="_blank" rel="noreferrer noopener">OpenAI 在即将上市前的一份投资者文件中指出，Microsoft 依赖性是其风险之一。</a></div></div></section>
-        <section class="card"><h2><span>⚡ 能源/地缘</span><span class="badge">18</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-68-000-why-094823924.html" target="_blank" rel="noreferrer noopener">比特币持稳68万美元。分析师称，随着特朗普和伊朗紧张局势加剧，比特币价格将“超越其他资产”。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/commodities/articles/whats-connection-between-us-war-095340788.html" target="_blank" rel="noreferrer noopener">美国对伊朗的战争与燃料、肥料和食品价格之间的联系是什么？（第一部分）</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/research/reports/ARGUS_46523_MarketOutlook_1774352547000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei" target="_blank" rel="noreferrer noopener">油价预测受战争影响</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/commodities/articles/goldman-boosts-oil-price-forecast-091000146.html" target="_blank" rel="noreferrer noopener">高盛提高布伦特原油价格预测8美元，提高WTI原油价格预测7美元。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-rally-oil-103146953.html" target="_blank" rel="noreferrer noopener">股指期货大涨，油价暴跌，美伊谈判引发市场波动。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://www.barrons.com/livecoverage/stock-market-news-today-032326/card/markets-on-the-brink-of-a-correction-as-iran-war-rages-on-stock-futures-fall--ap1qEL3dcL68QkCFWjDI?siteid=yhoof2&amp;yptr=yahoo" target="_blank" rel="noreferrer noopener">市场处于调整的边缘，伊朗战争持续发酵。股指期货下跌。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/us-futures-dip-brent-moves-higher-amid-fresh-strikes-across-middle-east-4577142" target="_blank" rel="noreferrer noopener">股市两极分化，特朗普称伊朗同意“永远不会拥有核武器”。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/no-evidence-valero-texas-refinery-blast-caused-by-intentional-act-sheriffs-office-4578255" target="_blank" rel="noreferrer noopener">瓦莱罗德克萨斯州炼油厂爆炸未发现有故意行为的证据，警署发言</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-24 20:37:37</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/24/alibaba-ai-chip-cpu-agents.html" target="_blank" rel="noreferrer noopener">阿里巴巴公布新一代专为"代理"设计的AI芯片</a></div></div></section>
+        <section class="card"><h2><span>⚡ 能源/地缘</span><span class="badge">18</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:22:27</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-rally-oil-103146953.html" target="_blank" rel="noreferrer noopener">股指期货大涨，油价暴跌，美伊谈判引发市场波动。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:22:27</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/research/reports/ARGUS_46523_MarketOutlook_1774352547000?yptr=yahoo&amp;ncid=yahooproperties_plusresear_nm5q6ze1cei" target="_blank" rel="noreferrer noopener">油价预测受战争影响</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:22:27</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/supermicro-accused-smuggling-2-5-101711965.html" target="_blank" rel="noreferrer noopener">超微（Supermicro）被指控将价值25亿美元的Nvidia芯片和服务器偷运到中国，超微在伊朗也曾经出现过类似问题。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:22:27</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/commodities/articles/whats-connection-between-us-war-095340788.html" target="_blank" rel="noreferrer noopener">美国对伊朗的战争与燃料、肥料和食品价格之间的联系是什么？（第一部分）</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:22:27</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/us-futures-dip-brent-moves-higher-amid-fresh-strikes-across-middle-east-4577142" target="_blank" rel="noreferrer noopener">股市两极分化，特朗普称伊朗同意“永远不会拥有核武器”。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:22:27</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/no-evidence-valero-texas-refinery-blast-caused-by-intentional-act-sheriffs-office-4578255" target="_blank" rel="noreferrer noopener">瓦莱罗德克萨斯州炼油厂爆炸未发现有故意行为的证据，警署发言</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 02:54:24</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/24/iran-war-oil-strait-hormuz-kuwait-gulf.html" target="_blank" rel="noreferrer noopener">科威特称霍尔木兹海峡关闭将是灾难性的，会引发全球经济的连锁反应。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 02:26:00</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/24/trump-iran-war-pakistan-talks.html" target="_blank" rel="noreferrer noopener">巴基斯坦表示愿意促进美国和伊朗的战争谈判，特朗普和德黑兰给出了矛盾的信号。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 02:25:00</span><span class="tsrc">MarketWatch-Top · RSS</span></div><a class="ttitle" href="https://www.marketwatch.com/story/oil-rises-as-saudi-arabia-and-uae-reportedly-weigh-joining-iran-war-d1236604?mod=mw_rss_topstories" target="_blank" rel="noreferrer noopener">石油价格大涨，据报美军计划部署3,000名士兵前往中东。</a></div>
@@ -479,18 +305,16 @@ document.addEventListener('keydown', (e) => {
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 01:36:59</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/24/iran-supreme-leader-gets-new-x-premium-account-despite-sanctions.html" target="_blank" rel="noreferrer noopener">伊朗最高领袖穆罕默达·卡梅尼再次在X获得蓝勾，尽管制裁政策</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 01:21:43</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/24/kalshi-polymarket-strait-of-hormuz-traffic-trump-iran.html" target="_blank" rel="noreferrer noopener">霍尔木兹海峡油轮交通将在几个月内恢复正常，卡尔希（Kalshi）赌注者预测。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 01:19:00</span><span class="tsrc">MarketWatch-Top · RSS</span></div><a class="ttitle" href="https://www.marketwatch.com/story/the-iran-crisis-is-making-this-retirement-strategy-look-better-than-it-has-in-decades-43767083?mod=mw_rss_topstories" target="_blank" rel="noreferrer noopener">伊朗危机使这个退休策略看起来比几十年来都好</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 00:55:42</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/24/european-stocks-poised-to-lose-ground-as-iran-war-remains-in-focus-.html" target="_blank" rel="noreferrer noopener">欧洲股市收盘上涨，伊朗战争不确定性持续存在</a></div></div></section>
-        <section class="card"><h2><span>💵 美联储/政策</span><span class="badge">13</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-march-23-2026-100028338.html" target="_blank" rel="noreferrer noopener">今日最佳定期存款利率（截至2026年3月23日），最高可锁定4.15%APY</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-march-23-2026-100013520.html" target="_blank" rel="noreferrer noopener">截至2026年3月23日，最佳现金市场账户利率（最高可达4.01%APY）</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-march-23-2026-100000632.html" target="_blank" rel="noreferrer noopener">你是否想要固定利率或可调利率？</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-monday-march-23-2026-100043794.html" target="_blank" rel="noreferrer noopener">截至2026年3月23日，今日高收益储蓄利率（最高可达4%APY）</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-march-23-2026-170834739.html" target="_blank" rel="noreferrer noopener">本周3月23日，利率低于6%的抵押贷款贷款人：暂时失去</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-march-23-2026-100000360.html" target="_blank" rel="noreferrer noopener">今日（3月23日）房贷和再融资利率：三周内上升了0.5个百分点。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-march-24-2026-100000460.html" target="_blank" rel="noreferrer noopener">今日（3月24日）HELOC和家庭抵押贷款利率：平均信用额度接近15万美元</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-march-24-2026-100000603.html" target="_blank" rel="noreferrer noopener">今日（3月24日）抵押贷款和再融资利率：再次上升</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-tuesday-march-24-2026-100004576.html" target="_blank" rel="noreferrer noopener">截至2026年3月24日，最佳现金市场账户利率（最高可达4.01%APY）</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-march-24-2026-lock-in-up-to-4-1-5-apy-today-100022097.html" target="_blank" rel="noreferrer noopener">今日最佳定期存款利率（CD），2026年3月24日：今日可锁定最高4.15%年利率（APY）</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-tuesday-march-24-2026-100053103.html" target="_blank" rel="noreferrer noopener">截至2026年3月24日，最高回报高利率储蓄利率（最高可达4%APY）</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 00:55:42</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/24/european-stocks-poised-to-lose-ground-as-iran-war-remains-in-focus-.html" target="_blank" rel="noreferrer noopener">欧洲股市收盘上涨，伊朗战争不确定性持续存在</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 00:40:16</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/24/iran-war-britain-new-homes-solar-heat-pumps-energy-crisis.html" target="_blank" rel="noreferrer noopener">英国对伊朗战争能源冲击作出回应，要求所有新建房屋安装太阳能电池板和热泵。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-24 22:14:44</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/23/iran-war-strait-hormuz-uae-adnoc.html" target="_blank" rel="noreferrer noopener">伊朗在霍尔木兹海峡的袭击是“对每个国家的经济恐怖主义”，阿联酋石油CEO说。</a></div></div></section>
+        <section class="card"><h2><span>💵 美联储/政策</span><span class="badge">9</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:22:27</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/currencies/articles/fed-keeping-rates-high-why-101800248.html" target="_blank" rel="noreferrer noopener">美联储仍维持高利率——那么你的银行为什么给你这么低的利息？</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:22:27</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-monday-march-23-2026-100043794.html" target="_blank" rel="noreferrer noopener">截至2026年3月23日，今日高收益储蓄利率（最高可达4%APY）</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:22:27</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-march-23-2026-100028338.html" target="_blank" rel="noreferrer noopener">今日最佳定期存款利率（截至2026年3月23日），最高可锁定4.15%APY</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:22:27</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-march-23-2026-100013520.html" target="_blank" rel="noreferrer noopener">截至2026年3月23日，最佳现金市场账户利率（最高可达4.01%APY）</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:22:27</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-march-23-2026-100000632.html" target="_blank" rel="noreferrer noopener">你是否想要固定利率或可调利率？</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:22:27</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-march-23-2026-170834739.html" target="_blank" rel="noreferrer noopener">本周3月23日，利率低于6%的抵押贷款贷款人：暂时失去</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 03:22:27</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-march-23-2026-100000360.html" target="_blank" rel="noreferrer noopener">今日（3月23日）房贷和再融资利率：三周内上升了0.5个百分点。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 02:52:01</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/24/circle-stock-craters-as-stablecoin-rival-tether-announces-audit-milestone.html" target="_blank" rel="noreferrer noopener">环球环球 (Circle) 正面临着其历史上最差的一天，一个正在酝酿中的法律法案可能会限制稳定币的收益率。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-25 02:44:48</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/03/24/treasury-yields-oil-price-middle-east-risks.html" target="_blank" rel="noreferrer noopener">美国两年期国债收益率大幅上涨，受美国国债拍卖不佳影响。</a></div></div></section>
       </div>
