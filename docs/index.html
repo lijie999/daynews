@@ -99,9 +99,193 @@
 
       <section class="hero"><div class="hero-top"><div class="hero-title">主线结论</div><div class="hero-time">2026-03-26 00:36:38</div></div><div class="hero-body">**市场走势**：美股指数震荡，科技股分化明显<br><br>**核心驱动**：<br>• Fed 政策预期持稳，利率/债券收益率影响估值<br>• 地缘风险（伊朗/能源）推升油价，避险需求抬头<br>• AI/科技板块结构分化，关注头部权重股动向<br><br>**风险提示**：短期波动率可能维持高位，关注宏观数据与油价</div></section>
 
-      <section class="card"><h2><span>🤖 AI 新闻</span><span class="badge">0</span></h2><div class="tlist"><div class="note">（今日暂无 AI 新闻）</div></div></section>
+      <section class="card ai-news-carousel">
+<h2>
+  <span>🤖 AI 新闻（每30分钟更新）</span>
+  <span class="badge">5</span>
+</h2>
+<div class="ai-carousel-wrapper">
+  <button class="carousel-btn carousel-prev" onclick="aiNewsCarousel.prev()">‹</button>
+  <div class="ai-carousel-container">
+    <div class="ai-carousel-page active" data-page="0">
+      <div class="tlist">
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">模型</div>
+            <div>
+              <a class="ttitle" href="https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/" target="_blank" rel="noreferrer noopener">🎵 Google 发布 Lyria 3 Pro 音乐生成模型</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">Google 刚刚发布了 Lyria 3 Pro 音乐生成模型，这是其音乐 AI 系列的最新旗舰版本。该模型能够生成高质量、多风格的音乐作品，支持从流行到古典的广泛音乐类型，并能理解复杂的音乐结构和情感表达。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">其他</div>
+            <div>
+              <a class="ttitle" href="https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/" target="_blank" rel="noreferrer noopener">Granola 融资 1.25 亿美元，估值 15 亿美元，从会议记录工具扩展为企业 AI 应用</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">AI 会议记录应用 Granola 完成 1.25 亿美元融资，估值达到 15 亿美元。公司正从单纯的会议笔记工具扩展为全面的企业 AI 应用平台，计划整合更多办公场景，包括邮件、文档协作和项目管理。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rS" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">监管</div>
+            <div>
+              <a class="ttitle" href="https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/" target="_blank" rel="noreferrer noopener">Reddit 推出"人类验证"新机制，打击机器人滥用</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">Reddit 宣布推出新的"人类验证"要求，针对可疑行为的账号强制进行身份验证。此举旨在遏制 AI 驱动的机器人账号泛滥，这些账号常用于垃圾信息传播、虚假投票和操纵讨论。新系统将使用行为分析和验证码相结合的方式识别真实用户。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">Agent</div>
+            <div>
+              <a class="ttitle" href="https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/" target="_blank" rel="noreferrer noopener">🏢 Meta 启动新计划，支持创业并推动 AI 应用普及</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">Meta 推出新的创业支持计划，旨在帮助创业公司采用 AI 技术并加速 AI 应用在各行业的落地。该计划包括技术资源、培训项目和资金支持，重点关注中小企业和新兴市场的 AI 能力建设。</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="ai-carousel-page" data-page="1">
+      <div class="tlist">
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">模型</div>
+            <div>
+              <a class="ttitle" href="https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/" target="_blank" rel="noreferrer noopener">Google TurboQuant：极致压缩重新定义 AI 效率</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">Google Research 推出 TurboQuant 技术，通过极致压缩技术显著降低 AI 模型的大小和推理成本，同时保持性能水平。该技术有望推动大模型在边缘设备和资源受限环境的广泛部署，特别适合移动端和物联网场景。</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-btn carousel-next" onclick="aiNewsCarousel.next()">›</button>
+</div>
+<div class="carousel-dots">
+  <span class="carousel-dot active" data-page="0" onclick="aiNewsCarousel.goTo(0)"></span>
+  <span class="carousel-dot" data-page="1" onclick="aiNewsCarousel.goTo(1)"></span>
+</div>
+<script>
+// AI 新闻轮播控制
+const aiNewsCarousel = {
+  currentPage: 0,
+  totalPages: 2,
+  
+  goTo(page) {
+    if (page < 0 || page >= this.totalPages) return;
+    
+    // 隐藏当前页
+    document.querySelectorAll('.ai-carousel-page').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll('.carousel-dot').forEach(d => d.classList.remove('active'));
+    
+    // 显示目标页
+    document.querySelector(`.ai-carousel-page[data-page="${page}"]`).classList.add('active');
+    document.querySelector(`.carousel-dot[data-page="${page}"]`).classList.add('active');
+    
+    this.currentPage = page;
+  },
+  
+  next() {
+    this.goTo((this.currentPage + 1) % this.totalPages);
+  },
+  
+  prev() {
+    this.goTo((this.currentPage - 1 + this.totalPages) % this.totalPages);
+  }
+};
 
-      <div class="grid3">
+// 键盘快捷键
+document.addEventListener('keydown', (e) => {
+  if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+  if (e.key === 'ArrowLeft') aiNewsCarousel.prev();
+  if (e.key === 'ArrowRight') aiNewsCarousel.next();
+});
+</script>
+<style>
+.ai-news-carousel {
+  position: relative;
+}
+
+.ai-carousel-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ai-carousel-container {
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+.ai-carousel-page {
+  display: none;
+}
+
+.ai-carousel-page.active {
+  display: block;
+}
+
+.carousel-btn {
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  color: var(--text);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+  flex-shrink: 0;
+}
+
+.carousel-btn:hover {
+  background: rgba(255,255,255,0.15);
+  border-color: rgba(255,255,255,0.3);
+  transform: scale(1.05);
+}
+
+.carousel-btn:active {
+  transform: scale(0.95);
+}
+
+.carousel-dots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 0 8px;
+}
+
+.carousel-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.2);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.carousel-dot:hover {
+  background: rgba(255,255,255,0.4);
+  transform: scale(1.2);
+}
+
+.carousel-dot.active {
+  background: rgba(255,176,32,0.8);
+  width: 24px;
+  border-radius: 4px;
+}
+</style>
+</section>
+
+            <div class="grid3">
         <section class="card"><h2><span>📊 指数/科技</span><span class="badge">18</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-03-26 00:36:24</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://www.investors.com/news/technology/meta-stock-layoffs-reality-labs-metaverse/?src=A00220&amp;yptr=yahoo" target="_blank" rel="noreferrer noopener">Meta计划大规模裁员数百人，原因是其在人工智能领域的投资过于昂贵。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-26 00:36:24</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://www.investors.com/news/technology/micron-stock-mu-sandisk-stock-sndk-memory-chip-stock-pullback/?src=A00220&amp;yptr=yahoo" target="_blank" rel="noreferrer noopener">记忆芯片股是否已经走到尽头？Micron、Sandisk继续下滑</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-03-26 00:36:24</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/prediction-artificial-intelligence-ai-stock-162500656.html" target="_blank" rel="noreferrer noopener">预测：这家人工智能股可能是NVIDIA的1万亿芯片风暴中最大的赢家</a></div>
