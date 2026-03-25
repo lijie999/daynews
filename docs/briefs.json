@@ -1,6 +1,6 @@
 {
   "date": "2026.03.26",
-  "generatedAtBJT": "2026-03-26 05:08:58",
+  "generatedAtBJT": "2026-03-26 05:30:30",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-26 05:08:58",
+          "time": "2026-03-26 05:30:30",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主要驱动因素：10年期国债利率 + 原油价格/风险事件\n- 四大监控指标：10年期国债利率（方向/拐点）｜美元指数（强弱）｜威尔shire指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→纳斯达克指数/标普500指数承压更明显；美元指数上升→黄金价格更易回撤；威尔shire指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且威尔shire指标抬升→偏纳斯达克指数/标普500指数先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且威尔shire指标回落→偏纳斯达克指数/标普500指数修复",
+          "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→NQ/ES承压更明显；美元指数上升→黄金更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Iran says it is reviewing US proposal but has no interest in holding tal…\n- 宏观/Fed线索：Best high-yield savings interest rates today, March 24, 2026 (Earn up to…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：U.S. Postal Service seeks 8% fuel surcharge for package deliveries as Ir…\n- 宏观/Fed线索：As March Madness unfolds, NY Fed highlights sports betting toll on consu…"
         }
       ]
     },
@@ -29,25 +29,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "挪威财富基金开始采用人工智能驱动的决策，但仍由人类控制",
+          "time": "2026-03-26 05:30:25",
+          "title": "苹果股价是否现在买入还是等待下跌？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/norway-wealth-fund-moves-towards-121341485.html",
-          "title_en": "Norway wealth fund moves towards some AI-driven decisions but with humans in control"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-apple-stock-now-wait-132000063.html",
+          "title_en": "Should You Buy Apple Stock Now or Wait for a Dip?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "加拿大皇家银行子公司BMO即将与芝加哥商品交易所（CME）和谷歌云（Google Cloud）合作，推出基于区块链的token化现金平台。",
+          "time": "2026-03-26 05:30:25",
+          "title": "\"房地产兄弟\" 约翰逊·斯科特：人工智能可能带来房地产市场繁荣",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/bmo-launch-tokenized-cash-platform-120402053.html",
-          "title_en": "BMO to launch tokenized cash platform with CME and Google Cloud"
+          "url": "https://finance.yahoo.com/news/property-brothers-jonathan-scott-ai-could-unleash-housing-market-prosperity-133657613.html",
+          "title_en": "'Property Brothers' Jonathan Scott: AI could unleash housing market prosperity"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 05:30:25",
+          "title": "NVIDIA GTC 发展远远大于市场所料。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-gtc-developments-were-far-131614897.html",
+          "title_en": "NVIDIA’s GTC Developments Were Far Bigger Than the Market Realizes"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
+          "time": "2026-03-26 05:30:25",
           "title": "Meta和Google在美国的案件中败诉，指控他们的社交媒体产品对儿童造成了伤害。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/jury-reaches-verdict-in-meta-google-trial-on-social-media-addiction-4580528",
@@ -92,16 +101,6 @@
           "url": "https://www.cnbc.com/2026/03/25/new-mexico-meta-lawsuit-jury-verdict.html",
           "title_en": "New Mexico seeking changes to Meta's platform after jury finds company liable",
           "summary_en": "New Mexico Attorney General Raúl Torrez plans to ask for algorithm and design changes, age verification and independent verification in the trial's next phase."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-26 03:00:00",
-          "title": "微星的股票正在下跌。谷歌是否部分负责？",
-          "summary": "谷歌推出了一个算法，称其改进了人工智能模型的内存使用。是否会实际削弱Micron和其他竞争对手的业务尚不清楚。",
-          "url": "https://www.marketwatch.com/story/microns-stock-is-dropping-is-google-partly-to-blame-d4cad72e?mod=mw_rss_topstories",
-          "title_en": "Micron’s stock is dropping. Is Google partly to blame?",
-          "summary_en": "Google introduced an algorithm that it says improves memory usage in AI models. Whether that will actually eat into business for Micron and rivals is unclear."
         },
         {
           "source": "CNBC-Top",
@@ -210,51 +209,6 @@
       "badge": "Fed / Policy",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "截至2026年3月24日，最高回报高利率储蓄利率（最高可达4%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/article/best-high-yield-savings-interest-rates-today-tuesday-march-24-2026-100053103.html",
-          "title_en": "Best high-yield savings interest rates today, March 24, 2026 (Earn up to 4% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "今日最佳定期存款利率（CD），2026年3月24日：今日可锁定最高4.15%年利率（APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-march-24-2026-lock-in-up-to-4-1-5-apy-today-100022097.html",
-          "title_en": "Best CD rates today, March 24, 2026: Lock in up to 4.15% APY today"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "今日（3月24日）HELOC和家庭抵押贷款利率：平均信用额度接近15万美元",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-march-24-2026-100000460.html",
-          "title_en": "HELOC and home equity loan rates today, March 24, 2026: Tap an average credit limit of nearly $150,000"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "今日（3月24日）抵押贷款和再融资利率：再次上升",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-march-24-2026-100000603.html",
-          "title_en": "Mortgage and refinance interest rates today, March 24, 2026: Higher yet again"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "截至2026年3月24日，最佳现金市场账户利率（最高可达4.01%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-tuesday-march-24-2026-100004576.html",
-          "title_en": "Best money market account rates today, March 24, 2026 (Earn up to 4.01% APY)"
-        },
-        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-03-26 01:57:01",
@@ -320,24 +274,6 @@
       "name": "地缘/能源/避险",
       "badge": "Risk / Oil / Gold",
       "items": [
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "伊朗表示正在审查美国提出的建议，但对举行谈判没有兴趣。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/israel-strikes-tehran-as-trump-says-us-negotiating-to-end-war-4578989",
-          "title_en": "Iran says it is reviewing US proposal but has no interest in holding talks"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "股市收盘高涨，受伊朗对停火协议的反弹影响，尽管仍有降温希望。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/us-futures-tick-higher-amid-hopes-for-potential-iran-war-resolution-4579623",
-          "title_en": "Stocks end higher on de-escalation hopes despite Iran’s pushback against ceasefire"
-        },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
@@ -497,7 +433,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
+          "time": "2026-03-26 05:30:25",
           "title": "Zoox计划扩大美国无人驾驶出租车业务，进入旧金山和拉斯维加斯。",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/technology/articles/zoox-widen-us-robotaxi-footprint-130157570.html",
@@ -512,52 +448,52 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "策略计划筹集42亿美元资金以用于购买比特币",
+          "time": "2026-03-26 05:30:25",
+          "title": "ACME太阳能在印度拉贾斯坦州新增155兆瓦储能电池系统（BESS）",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-plans-42-billion-capital-125500130.html",
-          "title_en": "Strategy Plans $42 Billion Capital Raise To Fund Bitcoin Purchases"
+          "url": "https://finance.yahoo.com/sectors/energy/articles/acme-solar-adds-155mw-bess-132111360.html",
+          "title_en": "ACME Solar adds 155MW BESS in Rajasthan, India"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "康科菲尔斯股票是否已经达到峰值？ - 覆盖期权COP策略看起来很有吸引力",
+          "time": "2026-03-26 05:30:25",
+          "title": "Coupang (CPNG) Q4业绩受损",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-stock-peak-covered-call-130002315.html",
-          "title_en": "Is ConocoPhillips Stock at a Peak? - Covered Call COP Plays Look Attractive"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hurt-coupang-cpng-q4-131917204.html",
+          "title_en": "Here’s What Hurt Coupang (CPNG) in Q4"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "与伴侣共habitat可能会影响税收。 \n\n1. 共同财产：与伴侣共habitat可能会导致共同财产的税收问题。 \n\n2. 共同投资：与伴侣共habitat可能会导致共同投资的税收问题。 \n\n3. 共同债务：与伴侣共habitat可能会导致共同债务的税收问题。",
+          "time": "2026-03-26 05:30:25",
+          "title": "维亚系统股价下跌，受竞争加剧的担忧影响。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/taxes/article/3-ways-your-relationship-status-could-impact-your-tax-bill-130041862.html",
-          "title_en": "3 ways your relationship status could impact your tax bill"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/veeva-systems-veev-fell-due-132504157.html",
+          "title_en": "Veeva Systems (VEEV) Fell Due to Fears of Increased Competition"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "GoDaddy (GDDY) 股票是否低于纳斯达克指数的表现？",
+          "time": "2026-03-26 05:30:25",
+          "title": "帕森斯公司（PSN）股价下跌，因为它未能获得新的联邦航空管理局（FAA）合同。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/godaddy-stock-underperforming-nasdaq-125155013.html",
-          "title_en": "Is GoDaddy Stock Underperforming the Nasdaq?"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/parsons-corporation-psn-fell-couldn-132324098.html",
+          "title_en": "Parsons Corporation (PSN) Fell As It Couldn’t Win a New FAA Contract"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "帕拉马OUNT影业与Skydance股价是否低于道瓊指數？",
+          "time": "2026-03-26 05:30:25",
+          "title": "纽约证券交易所与Securitize合作开发token化证券平台",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/paramount-skydance-stock-underperforming-dow-125700463.html",
-          "title_en": "Is Paramount Skydance Stock Underperforming the Dow?"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/nyse-teams-securitize-develop-tokenized-132726359.html",
+          "title_en": "NYSE teams up with Securitize to develop tokenized securities platform"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
+          "time": "2026-03-26 05:30:25",
           "title": "阿尔戈尔 (ADM) 表示，2023财年第一季度营收为 24.6 亿美元，同比增长 26%。 \n\n澳大利亚能源公司 Origin Energy (OGE) 表示，2023财年第一季度营收为 4.6 亿澳元，同比下降 45%。",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46533_MarketSummary_1774436223000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -566,88 +502,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "科斯塔集团（CSGP）年度业绩受其住宅门户网站投资负面影响",
+          "time": "2026-03-26 05:30:25",
+          "title": "Everpure (PSTG) 在强劲业绩面前仍波动不定",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heavy-investment-residential-portal-weighed-125058333.html",
-          "title_en": "Heavy Investment in Its Residential Portal Weighed on CoStar Group’s (CSGP) Yearly Performance"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/everpure-pstg-volatile-despite-strong-132754552.html",
+          "title_en": "Everpure (PSTG) was Volatile Despite Strong Results"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "戴夫·拉姆齐（Dave Ramsey）直率地说：“你的财务顾问全是废话。”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/moment-brutal-candor-dave-ramsey-125831006.html",
-          "title_en": "In Moment Of Brutal Candor, Dave Ramsey Goes Off “Your financial planner’s full of crap is the problem,”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "Marvel Technology (MRVL) 在执行良好时仍下跌",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-mrvl-traded-lower-124912812.html",
-          "title_en": "Marvell Technology (MRVL) Traded Lower Despite Solid Execution"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "INVESCO股票是否超越S&P 500指数。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-stock-outperforming-p-500-130428829.html",
-          "title_en": "Is Invesco Stock Outperforming the S&P 500?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "维斯特拉公司（VST）受电力需求增加的影响而上涨",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-gained-rise-power-130835649.html",
-          "title_en": "Vistra Corp. (VST) Gained from the Rise in Power Demand"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "2026年3月25日，维克氏（Vickers）推荐的内幕人士首选股。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46531_InsiderActivity_1774432995000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily – Vickers Top Insider Picks for 03/25/2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "豆类价格早盘下滑",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-slipping-early-tuesday-123424081.html",
-          "title_en": "Soybeans Slipping Early on Tuesday"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "联邦快递(FedEx)与OneRail合作，推出2小时、当日最后一小时的送货服务。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/fedex-taps-onerail-offer-2-130300964.html",
-          "title_en": "FedEx taps OneRail to offer 2-hour, end-of-day delivery"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "玉米周二早期出现反弹",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/corn-getting-early-turnaround-tuesday-123424500.html",
-          "title_en": "Corn Getting an Early Turnaround Tuesday Bounce"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
+          "time": "2026-03-26 05:30:25",
           "title": "Comfort Systems (FIX) 因需求增加而大幅上涨",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/comfort-systems-fix-rallied-demand-131016038.html",
@@ -656,20 +520,92 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
-          "title": "环球金融（Circle）支持Sasai fintech扩大在非洲的USDC（美元稳定币）访问。",
+          "time": "2026-03-26 05:30:25",
+          "title": "Paycom软件股是否低于纳斯达克指数的表现？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/circle-backs-sasai-fintech-expand-122900325.html",
-          "title_en": "Circle Backs Sasai Fintech To Expand Access To USDC In Africa"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/paycom-software-stock-underperforming-nasdaq-133023718.html",
+          "title_en": "Is Paycom Software Stock Underperforming the Nasdaq?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 05:08:52",
+          "time": "2026-03-26 05:30:25",
+          "title": "2026年3月25日，维克氏（Vickers）推荐的内幕人士首选股。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46531_InsiderActivity_1774432995000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily – Vickers Top Insider Picks for 03/25/2026"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 05:30:25",
+          "title": "Rivian的股票是否现在应该购买？ \n\nRivian的股票价格在过去的几个月里经历了大幅波动。该公司的股价在2021年11月的首次公开募股（IPO）后迅速上涨，但随后又经历了大幅下跌。目前，Rivian的股价仍然远远低于其IPO时的高点。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-rivian-stock-now-132500229.html",
+          "title_en": "Should You Buy Rivian Stock Right Now?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 05:30:25",
+          "title": "维斯特拉公司（VST）受电力需求增加的影响而上涨",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-gained-rise-power-130835649.html",
+          "title_en": "Vistra Corp. (VST) Gained from the Rise in Power Demand"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 05:30:25",
+          "title": "INVESCO股票是否超越S&P 500指数。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-stock-outperforming-p-500-130428829.html",
+          "title_en": "Is Invesco Stock Outperforming the S&P 500?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 05:30:25",
+          "title": "与伴侣共habitat可能会影响税收。 \n\n1. 共同财产：与伴侣共habitat可能会导致共同财产的税收问题。 \n\n2. 共同投资：与伴侣共habitat可能会导致共同投资的税收问题。 \n\n3. 共同债务：与伴侣共habitat可能会导致共同债务的税收问题。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/3-ways-your-relationship-status-could-impact-your-tax-bill-130041862.html",
+          "title_en": "3 ways your relationship status could impact your tax bill"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 05:30:25",
+          "title": "康科菲尔斯股票是否已经达到峰值？ - 覆盖期权COP策略看起来很有吸引力",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-stock-peak-covered-call-130002315.html",
+          "title_en": "Is ConocoPhillips Stock at a Peak? - Covered Call COP Plays Look Attractive"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 05:30:25",
           "title": "2026年3月25日维克斯高买家和高卖家",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46532_TopBottomInsiderActivity_1774432995000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "title_en": "Daily – Vickers Top Buyers & Sellers for 03/25/2026"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 05:30:25",
+          "title": "家居零售商金士达（Kingfisher）报告利润增长，英国及爱尔兰市场的增长抵消了其他市场的疲软。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/retailer-kingfisher-posts-higher-profit-132124951.html",
+          "title_en": "Retailer Kingfisher posts higher profit as UK&I growth offsets softer markets"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 05:30:25",
+          "title": "帕拉马OUNT影业与Skydance股价是否低于道瓊指數？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/paramount-skydance-stock-underperforming-dow-125700463.html",
+          "title_en": "Is Paramount Skydance Stock Underperforming the Dow?"
         }
       ]
     }
