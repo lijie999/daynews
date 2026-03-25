@@ -1,6 +1,6 @@
 {
   "date": "2026.03.25",
-  "generatedAtBJT": "2026-03-25 13:30:26",
+  "generatedAtBJT": "2026-03-25 14:00:01",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-25 13:30:26",
+          "time": "2026-03-25 14:00:01",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主要驱动因素：10年期国债利率 + 原油价格 + 风险事件\n- 四个关键指标：10年期国债利率（方向/拐点）｜美元指数（强弱）｜VIX指数（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX指数上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免",
+          "summary": "- 主要驱动因素：10年期利率 + 原油价格/风险事件\n- 四个监控指标：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Daily Spotlight: War Roils Oil Price Outlook…\n- 宏观/Fed线索：Mortgage lenders with the best rates this week, March 23, 2026: Sub-6% r…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Cheniere Energy Stock Is Trading at New All-Time Highs as Iran War Threa…\n- 宏观/Fed线索：Circle posts worst day on record as proposed law could limit stablecoin …"
         }
       ]
     },
@@ -29,43 +29,61 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "META和SMCI股票的异常期权活动：下一步该怎么做",
+          "time": "2026-03-25 13:59:56",
+          "title": "JD.com (JD) 在欧洲推出 Joybuy 市场，收购 Ceconomy 以挑战亚马逊。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/unusual-options-activity-flares-meta-173002533.html",
-          "title_en": "Unusual Options Activity Flares in META and SMCI Stock: What to Watch Next"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jd-com-jd-launches-joybuy-181223161.html",
+          "title_en": "JD.com (JD) Launches Joybuy Marketplace in Europe, Acquires Ceconomy to Challenge Amazon"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "亚马逊被认为低估，尽管AI投入担忧：杰弗里斯",
+          "time": "2026-03-25 13:59:56",
+          "title": "Vertiv 股票今天加入 S&P 500。它的 AI 反弹能否持续下去？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-seen-undervalued-despite-ai-173600869.html",
-          "title_en": "Amazon seen as undervalued despite AI capex concerns: Jefferies"
+          "url": "https://www.barrons.com/articles/vertiv-stock-price-sp500-578906f0?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Vertiv Stock Joins the S&P 500 Today. Can Its AI Rally Keep Going?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "一名激进投资者正在关注Nvidia的合作伙伴。该公司股价正在上涨。",
+          "time": "2026-03-25 13:59:56",
+          "title": "Gen数字 (GEN) 收购 Trellis 以增强 AI 驱动的保险市场",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/activist-investor-taking-interest-nvidia-174348084.html",
-          "title_en": "An Activist Investor Is Taking an Interest in This Nvidia Partner. Its Stock Is Rising."
+          "url": "https://finance.yahoo.com/markets/stocks/articles/gen-digital-gen-acquires-trellis-181238463.html",
+          "title_en": "Gen Digital (GEN) Acquires Trellis to Enhance AI-Powered Insurance Marketplace"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
+          "time": "2026-03-25 13:59:56",
           "title": "AI资本交易准备：Centri Business Consulting AI实践领袖Kevin McLaughlin，直播于Nasdaq",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/technology/articles/ai-capital-transaction-readiness-centri-180635483.html",
           "title_en": "AI Capital Transaction Readiness: Centri Business Consulting AI Practice Leader Kevin McLaughlin, Live at Nasdaq"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 13:59:56",
+          "title": "Caris生存科学（CAI）扩大AI见解组合，签署预测卵巢癌铂类耐药性的协议。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/caris-life-sciences-cai-expands-181701299.html",
+          "title_en": "Caris Life Sciences (CAI) Expands AI Insights Portfolio With Signature to Predict Ovarian Cancer Platinum Resistance"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 13:59:56",
+          "title": "Cellebrite (CLBT) 完成收购无人机调查领导者SCG Canada，以增强人工智能平台",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/cellebrite-clbt-completes-acquisition-drone-181829747.html",
+          "title_en": "Cellebrite (CLBT) Completes Acquisition of Drone Forensics Leader SCG Canada to Enhance AI Platform"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
+          "time": "2026-03-25 13:59:56",
           "title": "中国对Manus联合创始人实施出境禁令，审查其出售给Meta的交易，英国金融时报报道。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/china-bars-manus-cofounders-from-leaving-country-as-it-reviews-sale-to-meta-ft-reports-4578993",
@@ -74,7 +92,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
+          "time": "2026-03-25 13:59:56",
           "title": "Meta在人工智能竞争加剧之际为高管加薪，增发股票期权",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/meta-grants-senior-executives-stock-awards-to-retain-talent-4578980",
@@ -83,7 +101,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
+          "time": "2026-03-25 13:59:56",
           "title": "Meta被判赔偿3750万美元，涉及儿童剥削和用户安全指控的新墨西哥州案件",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/jury-orders-meta-to-pay-375-million-in-new-mexico-lawsuit-over-child-sexual-exploitation-user-safety-4578658",
@@ -178,26 +196,6 @@
           "url": "https://www.cnbc.com/2026/03/24/jamie-dimon-ai-job-loss.html",
           "title_en": "Dimon warns on AI job losses, calls for government-business incentives",
           "summary_en": "The potential AI-related disruption of the job market is a critical issue in Washington, with lawmakers trying to curb the amount of displacement."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-25 03:45:47",
-          "title": "谷歌与Agile Robots合作，扩大其人工智能机器人足迹",
-          "summary": "谷歌的DeepMind部门近几个月来与更多的机器人公司合作。",
-          "url": "https://www.cnbc.com/2026/03/24/google-agile-robots-ai-robotics.html",
-          "title_en": "Google partners with Agile Robots, growing its AI robotics footprint",
-          "summary_en": "Google's DeepMind division has been partnering with more robotics companies in recent months."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-25 03:44:40",
-          "title": "OpenAI重新设计了ChatGPT的购物体验，解决了Instant Checkout功能的使用困难问题。",
-          "summary": "OpenAI表示，新体验将使用户更容易找到并比较产品。",
-          "url": "https://www.cnbc.com/2026/03/24/openai-revamps-shopping-experience-in-chatgpt-after-instant-checkout.html",
-          "title_en": "OpenAI revamps shopping experience in ChatGPT after struggling with Instant Checkout offering",
-          "summary_en": "OpenAI said the new experience will make it easier for users to find and compare products."
         }
       ]
     },
@@ -205,15 +203,6 @@
       "name": "美联储与政策",
       "badge": "Fed / Policy",
       "items": [
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "本周3月23日，利率低于6%的抵押贷款贷款人：暂时失去",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-march-23-2026-170834739.html",
-          "title_en": "Mortgage lenders with the best rates this week, March 23, 2026: Sub-6% rates gone for now"
-        },
         {
           "source": "CNBC-World",
           "ticker": "RSS",
@@ -233,25 +222,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "油价预测受战争影响",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46523_MarketOutlook_1774352547000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily Spotlight: War Roils Oil Price Outlook"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
+          "time": "2026-03-25 13:59:56",
           "title": "Cheniere能源股价创下新历史高点，伊朗战争威胁LNG供应。现在是否应该购买股份？",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/energy/articles/cheniere-energy-stock-trading-time-180948538.html",
           "title_en": "Cheniere Energy Stock Is Trading at New All-Time Highs as Iran War Threatens LNG Supply. Should You Buy Shares Now?"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 13:59:56",
+          "title": "油价预测受战争影响",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46523_MarketOutlook_1774352547000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily Spotlight: War Roils Oil Price Outlook"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
+          "time": "2026-03-25 13:59:56",
           "title": "以色列袭击德黑兰  特朗普称美方正在与结束战争",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/israel-strikes-tehran-as-trump-says-us-negotiating-to-end-war-4578989",
@@ -260,20 +249,21 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
+          "time": "2026-03-25 13:59:56",
           "title": "亚洲股市因油价下跌和中东局势缓和的希望而上涨。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/asia-stocks-advance-on-lower-oil-hopes-of-middle-east-deescalation-4578991",
           "title_en": "Asia stocks advance on lower oil, hopes of Middle East de-escalation"
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "特朗普称与伊朗取得进展，美国提出结束战争的计划",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/iran-sends-waves-of-missiles-into-israel-dismisses-trumps-talk-of-negotiations-as-fake-news-4576581",
-          "title_en": "Trump cites progress with Iran, US proposes plan to end war"
+          "time": "2026-03-25 13:49:15",
+          "title": "韩国股市领跑地区涨幅，特朗普的评论表明伊朗战争的降温",
+          "summary": "特朗普表示，他决定放弃最近威胁要对伊朗能源基础设施发动袭击的计划，“基于我们正在谈判的事实”。",
+          "url": "https://www.cnbc.com/2026/03/25/asia-markets-today-nikkei-225-kospi-hang-seng-index.html",
+          "title_en": "South Korea stocks lead regional gains as Trump comments signal Iran war de-escalation",
+          "summary_en": "Trump said he decided to back off from his recent threat to order strikes on Iranian energy infrastructure \"based on the fact we're negotiating.\""
         },
         {
           "source": "CNBC-Tech",
@@ -314,16 +304,6 @@
           "url": "https://www.cnbc.com/2026/03/25/gold-prices-oil-us-iran-talks-goldman-forecast-trimp-middle-east-inflation.html",
           "title_en": "Gold jumps over 2% as oil slump eases inflation fears amid Trump Iran talks",
           "summary_en": "Gold climbed as declining oil prices helped temper worries over persistent inflation following reports that Washington is working on a proposal to bring an end to the Middle East conflict."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-25 10:24:06",
-          "title": "韩国股市跃升3%，领跑地区涨幅，特朗普的评论表明伊朗战争降温",
-          "summary": "特朗普表示，他决定放弃最近威胁要对伊朗能源基础设施发动袭击的计划，“基于我们正在谈判的事实”。",
-          "url": "https://www.cnbc.com/2026/03/25/asia-markets-today-nikkei-225-kospi-hang-seng-index.html",
-          "title_en": "South Korea stocks jump 3%, leading regional gains as Trump comments signal Iran war de-escalation",
-          "summary_en": "Trump said he decided to back off from his recent threat to order strikes on Iranian energy infrastructure \"based on the fact we're negotiating.\""
         },
         {
           "source": "CNBC-World",
@@ -404,6 +384,16 @@
           "url": "https://www.cnbc.com/2026/03/24/jamie-dimon-iran-war-middle-east-peace-prospects-long-term.html",
           "title_en": "Jamie Dimon says Iran war makes Middle East peace prospects better in the long term",
           "summary_en": "JPMorgan Chase CEO Jamie Dimon issued an optimistic viewpoint on Middle East peace, weeks into the war with Iran."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-25 01:55:06",
+          "title": "伊朗战争导致汽油和航空票价大幅上涨，立法者警告价格哄抬，但专家指出供应冲击是主要原因。",
+          "summary": "随着机票和汽油价格大幅上涨，某些立法者警告称可能存在价格哄抬的风险，尽管专家指出存在极端的供应冲击。",
+          "url": "https://www.cnbc.com/2026/03/24/iran-war-gas-prices-airline-tickets.html",
+          "title_en": "As Iran war causes gas and airfares to spike, lawmakers warn of price gouging — but experts point to supply shocks",
+          "summary_en": "With airfares and gas prices spiking, some lawmakers are warning of the potential for price gouging, even as experts point to extreme supply shocks."
         }
       ]
     },
@@ -419,124 +409,88 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "现金余额退休计划：强大的退休储蓄策略",
+          "time": "2026-03-25 13:59:56",
+          "title": "吉姆·克雷默分析Generac Holdings，预计将于周三举行分析师会议。",
           "summary": "",
-          "url": "https://finance.yahoo.com/video/cash-balance-retirement-plans-powerful-174048094.html",
-          "title_en": "Cash Balance Retirement Plans: A Powerful Retirement Savings Strategy"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-analyzes-generac-holdings-181104271.html",
+          "title_en": "Jim Cramer Analyzes Generac Holdings Ahead Of Wednesday Analyst Meeting"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "Hess Midstream 股票RS评级提升",
+          "time": "2026-03-25 13:59:56",
+          "title": "詹姆斯·克雷默（Jim Cramer）谈到卡纳维尔公司（Carnival Corporation）： “似乎街头对游轮行业又开始变得非常乐观了”。",
           "summary": "",
-          "url": "https://www.investors.com/news/hess-midstream-stock-gets-rs-rating-lift/?src=A00220&yptr=yahoo",
-          "title_en": "Hess Midstream Stock Gets RS Rating Lift"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-carnival-corporation-seems-181106716.html",
+          "title_en": "Jim Cramer on Carnival Corporation: “It Seems Like the Street’s Going Very Positive About the Cruise Lines Again”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "今年以来涨幅74%，这家空间股正因全球紧张局势升级而获胜",
+          "time": "2026-03-25 13:59:56",
+          "title": "吉姆·克拉默认为麦克莫里克收购尤尼利弗的食品部门可能会引发包装食品股的反弹。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/74-ytd-space-stock-winning-174157108.html",
-          "title_en": "Up 74% YTD, This Space Stock is Winning as Global Tensions Escalate"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-thinks-mccormick-acquisition-181053236.html",
+          "title_en": "Jim Cramer Thinks A McCormick Acquisition Of Unilever’s Food Division Could Spark A Packaged Food Stock Rally"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "闪电加密股牛市信号从未错过",
+          "time": "2026-03-25 13:59:56",
+          "title": "吉姆·克拉默谈到Chewy, Inc.： “它是一个好公司，但它已经成为一个坏股票”",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/flashing-crypto-stock-bull-signal-173204696.html",
-          "title_en": "Flashing Crypto Stock Bull Signal Has Never Been Wrong"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-chewy-inc-good-181101768.html",
+          "title_en": "Jim Cramer on Chewy , Inc.: “It Is a Good Company, But it’s Been a Bad Stock”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "丰田在肯塔基州和印第安纳州的1亿美元投资",
+          "time": "2026-03-25 13:59:56",
+          "title": "吉姆·克拉默谈到Paychex, Inc.： “长期投资者和短期投资者都在打游击战，这个问题我看不出谁会胜利”",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/toyotas-1-billion-bet-kentucky-173801144.html",
-          "title_en": "Toyota's $1 billion bet on Kentucky and Indiana plants"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-paychex-inc-longs-181100735.html",
+          "title_en": "Jim Cramer on Paychex, Inc.: “The Longs Are Shadow Boxing With the Shorts on This One, I Can’t Tell Who’s Going to Win”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "SanDisk 股票下跌12%，是否应该在此时买入？",
+          "time": "2026-03-25 13:59:56",
+          "title": "吉姆·克拉默（Jim Cramer）谈到杰弗里斯金融集团（Jefferies Financial Group）：我将特别关注电话会议，相信他们会解决问题。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/down-12-highs-buy-sandisk-175147365.html",
-          "title_en": "Down 12% from Its Highs, Should You Buy the Sandisk Stock Dip?"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-jefferies-financial-group-181103216.html",
+          "title_en": "Jim Cramer on Jefferies Financial Group: “I’m Going to Pay Special Attention to the Call and Trust That They Will Address the Issues”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "为 2026 年春季节省钱的清单",
+          "time": "2026-03-25 13:59:56",
+          "title": "吉姆·克雷默解释为什么套利者将Cintas Corporation股票视为一个伟大的投资机会。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/spring-savings-checklist-155118663.html",
-          "title_en": "Your money-saving checklist for spring 2026"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-breaks-down-why-181058912.html",
+          "title_en": "Jim Cramer Breaks Down Why Arbitrageurs Are Making Cintas Corporation Stock A Great Buy"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "联邦太平洋公司（UNP）：亿万富翁塞思·克拉曼喜欢这家铁路股",
+          "time": "2026-03-25 13:59:56",
+          "title": "吉姆·克拉默表示，他希望KB Home能提出解决当前房屋市场现状的方案。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/union-pacific-corporation-unp-billionaire-175556537.html",
-          "title_en": "Union Pacific Corporation (UNP): Billionaire Seth Klarman Likes This Railroad Stock"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-hear-kb-181055280.html",
+          "title_en": "Jim Cramer Says He Would “Like to Hear KB Home Offer a Solution” To the Current Home Business Market Conditions"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "亿万富翁塞思·克拉曼继续持有威斯科国际公司(WCC)的大量股份。",
+          "time": "2026-03-25 13:59:56",
+          "title": "吉姆·克拉默（Jim Cramer）谈到AAR Corp.： “如果该股受到打击，可能会很有吸引力”",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wesco-international-inc-wcc-billionaire-175653833.html",
-          "title_en": "WESCO International Inc. (WCC): Billionaire Seth Klarman Continues to Hold Sizeable Stake"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-aar-corp-stock-181056919.html",
+          "title_en": "Jim Cramer on AAR Corp.: “If the Stock Gets Hit, Could Be Attractive”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "Moody's Corp（MCO）预计2024年将实现收入和利润增长。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3648_AnalystReport_1774374231000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Moody's Corp"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "贝拉里亚集团(Berkshire Hathaway)的投资人塞思·克拉曼(Seth Klarman)突然出手，买入了 Alphabet Inc. (GOOGL) 的股票。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-inc-googl-billionaire-seth-175805204.html",
-          "title_en": "Alphabet Inc. (GOOGL): Billionaire Seth Klarman Springs Major Surprise"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "数字资产与金融科技市场：Centri Business Consulting金融科技实践领导者Mike Andrusko，直播于Nasdaq",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/digital-assets-fintech-markets-centri-175911678.html",
-          "title_en": "Digital Assets & Fintech Markets: Centri Business Consulting Fintech Practice Leader Mike Andrusko, Live at Nasdaq"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "富达国家信息服务（FIS）：亿万富翁塞思克拉曼大幅买入金融股",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fidelity-national-information-services-fis-175914365.html",
-          "title_en": "Fidelity National Information Services (FIS): Billionaire Seth Klarman Loads Up on Financial Stock"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
+          "time": "2026-03-25 13:59:56",
           "title": "分析师报告：阿里巴巴集团控股有限公司",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3758_AnalystReport_1774374231000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -545,38 +499,74 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "Biohaven 股价下跌 70%，但一家基金的新投资 600万美元的信号表明了转折的潜力。",
+          "time": "2026-03-25 13:59:56",
+          "title": "邮政集团的TIM投标其实是一场重建意大利公司的赌注",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/biohaven-stock-down-70-one-173723253.html",
-          "title_en": "Biohaven Stock Down 70% but One Fund's New $6 Million Bet Signals Turnaround Potential"
+          "url": "https://finance.yahoo.com/economy/policy/articles/poste-tim-bid-really-bet-181132902.html",
+          "title_en": "Poste’s TIM Bid Is Really a Bet on Rebuilding Italy Inc"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "130个公寓业主因结构问题被迫撤离建筑。如何应对被迫离家",
+          "time": "2026-03-25 13:59:56",
+          "title": "ImmunityBio (IBRX) 宣布 NCCN 更新临床实践指南，包括 ANKTIVA 用于仅有乳头状的非肌肉侵袭性膀胱癌",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/130-condo-owners-forced-evacuate-180000497.html",
-          "title_en": "130 condo owners forced to evacuate building due to structural issues. How to manage when displaced from your home"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/immunitybio-ibrx-announces-nccn-clinical-181343492.html",
+          "title_en": "ImmunityBio (IBRX) Announces NCCN Update Clinical Practice Guidelines to Include ANKTIVA for Papillary-Only NMIBC"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "今日股市表现优于市场的FirstCash触发买入信号",
+          "time": "2026-03-25 13:59:56",
+          "title": "Moody's Corp（MCO）预计2024年将实现收入和利润增长。",
           "summary": "",
-          "url": "https://www.investors.com/research/ibd-stock-of-the-day/firstcash-stock-buy-signal-pawn-shop/?src=A00220&yptr=yahoo",
-          "title_en": "IBD Stock Of The Day FirstCash Flashes Buy Signal, Outperforming Market"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3648_AnalystReport_1774374231000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Moody's Corp"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 13:30:22",
-          "title": "百利安公司（Dollar General Corporation，代码：DG）：亿万富翁塞思·克拉曼（Seth Klarman）减持股份",
+          "time": "2026-03-25 13:59:56",
+          "title": "摩利纳医疗保健公司(MOH)：亿万富翁塞思·克拉曼(Seth Klarman)新开仓位",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-corporation-dg-billionaire-180008064.html",
-          "title_en": "Dollar General Corporation (DG): Billionaire Seth Klarman Trims Position"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/molina-healthcare-inc-moh-billionaire-180600091.html",
+          "title_en": "Molina Healthcare Inc. (MOH): Billionaire Seth Klarman Opens New Position"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 13:59:56",
+          "title": "Cloudflare 股票上涨，欲延续周度连胜",
+          "summary": "",
+          "url": "https://www.investors.com/research/cloudflare-stock-net-ai-artificial-intelligence-network-cybersecurity/?src=A00220&yptr=yahoo",
+          "title_en": "Cloudflare Stock On The Rise And Looks To Extend Weekly Win Streak"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 13:59:56",
+          "title": "百万富翁塞思·克拉曼(Seth Klarman)持有Herbalife Nutrition Ltd. (HLF)的股份进一步加强。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/herbalife-nutrition-ltd-hlf-billionaire-180453008.html",
+          "title_en": "Herbalife Nutrition Ltd. (HLF): Billionaire Seth Klarman Consolidates Position"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 13:59:56",
+          "title": "亿万富翁塞思·克拉曼(Seth Klarman)减持CRH plc (CRH)股份。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/crh-plc-crh-billionaire-seth-180405550.html",
+          "title_en": "CRH plc (CRH): Billionaire Seth Klarman Trims Holding"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 13:59:56",
+          "title": "华特迪士尼公司（DIS）是否是罗宾汉（Robinhood）高潜力股票之一？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/walt-disney-co-dis-one-181539993.html",
+          "title_en": "Is Walt Disney Co (DIS) One of the Robinhood Stocks with High Potential?"
         }
       ]
     }
