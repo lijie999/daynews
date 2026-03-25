@@ -28,31 +28,34 @@ def get_latest_ai_news_items(limit=10):
     # 提取新闻条目
     items = []
     
-    # 当前格式（2026-03-24 新版本）:
-    # ### 标题
-    # **来源**: Source | **发布时间**: Time
-    # 内容...
-    # **标签**: `tag1` `tag2`
-    # **原文**: URL
-    pattern_current = r'###\s+(.+?)\n\*\*来源\*\*:\s+(.+?)\s+\|\s+\*\*发布时间\*\*:\s+(.+?)\n\n(.+?)\n\n\*\*标签\*\*:\s+(.+?)\n\*\*原文\*\*:\s+(.+?)(?=\n\n---|\n\n###|\n\n##|\Z)'
-    matches = list(re.finditer(pattern_current, content, re.DOTALL))
+    # 最新格式（2026-03-25）:
+    # **序号. emoji 标题**
+    # 🏷️ `标签1` `标签2`
+    # 摘要内容
+    # 🔗 [来源](URL) | 日期
+    pattern_latest = r'\*\*\d+\.\s+((?:🚀|💰|🛡️|🧠|🤖|⚡|🔧|📱|🐄|🇨🇳|📊|🔴|🏦|🔒|🏛️|💳)?)\s*(.+?)\*\*\s*\n🏷️\s+(.+?)\n(.+?)\n🔗\s+\[(.+?)\]\((.+?)\)\s+\|\s+(.+?)(?=\n\n\*\*\d+\.|\n\n---|\n\n##|\Z)'
+    matches = list(re.finditer(pattern_latest, content, re.DOTALL))
     
     if matches:
         for idx, match in enumerate(matches):
-            title, source, pub_time, summary, tags, link = match.groups()
+            emoji, title, tags, summary, source, link, pub_date = match.groups()
             
-            # 从标签中提取 emoji
-            tag_emojis = "🤖"
-            if "融资" in tags or "收购" in tags:
-                tag_emojis = "💰"
-            elif "监管" in tags or "禁令" in tags or "争议" in tags:
-                tag_emojis = "🛡️"
-            elif "大模型" in tags or "模型" in tags:
-                tag_emojis = "🧠"
+            # 从标签中提取 emoji（如果没有emoji前缀）
+            if not emoji:
+                if "融资" in tags or "收购" in tags:
+                    emoji = "💰"
+                elif "监管" in tags or "禁令" in tags or "争议" in tags or "安全" in tags:
+                    emoji = "🛡️"
+                elif "大模型" in tags or "模型" in tags:
+                    emoji = "🧠"
+                elif "Agent" in tags:
+                    emoji = "🤖"
+                else:
+                    emoji = "🤖"
             
             items.append({
                 "number": str(idx + 1),
-                "tags": tag_emojis,
+                "tags": emoji,
                 "title": title.strip(),
                 "summary": summary.strip()[:200] + "..." if len(summary.strip()) > 200 else summary.strip(),
                 "link": link.strip()
@@ -61,7 +64,42 @@ def get_latest_ai_news_items(limit=10):
             if len(items) >= limit:
                 break
     
-    # 如果当前格式没匹配到，尝试旧格式...
+    # 如果最新格式没匹配到，尝试旧格式...
+    if not items:
+        # 格式2（2026-03-24 新版本）:
+        # ### 标题
+        # **来源**: Source | **发布时间**: Time
+        # 内容...
+        # **标签**: `tag1` `tag2`
+        # **原文**: URL
+        pattern_current = r'###\s+(.+?)\n\*\*来源\*\*:\s+(.+?)\s+\|\s+\*\*发布时间\*\*:\s+(.+?)\n\n(.+?)\n\n\*\*标签\*\*:\s+(.+?)\n\*\*原文\*\*:\s+(.+?)(?=\n\n---|\n\n###|\n\n##|\Z)'
+        matches = list(re.finditer(pattern_current, content, re.DOTALL))
+        
+        if matches:
+            for idx, match in enumerate(matches):
+                title, source, pub_time, summary, tags, link = match.groups()
+                
+                # 从标签中提取 emoji
+                tag_emojis = "🤖"
+                if "融资" in tags or "收购" in tags:
+                    tag_emojis = "💰"
+                elif "监管" in tags or "禁令" in tags or "争议" in tags:
+                    tag_emojis = "🛡️"
+                elif "大模型" in tags or "模型" in tags:
+                    tag_emojis = "🧠"
+                
+                items.append({
+                    "number": str(idx + 1),
+                    "tags": tag_emojis,
+                    "title": title.strip(),
+                    "summary": summary.strip()[:200] + "..." if len(summary.strip()) > 200 else summary.strip(),
+                    "link": link.strip()
+                })
+                
+                if len(items) >= limit:
+                    break
+    
+    # 格式3（更早的格式）
     if not items:
         # 尝试之前的格式: ### emoji 标题 \n **分类**: ... | **来源**: ...
         pattern_prev = r'###\s+(?:🚀|💰|🛡️|🧠|🤖|⚡|🔧|📱|🐄|🇨🇳|📊)?\s*(.+?)\n\*\*分类\*\*:\s+(.+?)\s+\|\s+\*\*来源\*\*:\s+(.+?)\n(.+?)- \*\*链接\*\*:\s+(.+?)(?=\n\n###|\n\n##|\Z)'
