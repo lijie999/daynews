@@ -28,34 +28,37 @@ def get_latest_ai_news_items(limit=10):
     # 提取新闻条目
     items = []
     
-    # 最新格式（2026-03-25）:
-    # **序号. emoji 标题**
-    # 🏷️ `标签1` `标签2`
+    # 最新格式（2026-03-26 02:01）:
+    # ### 序号. 标题
+    # **标签**: #标签1 #标签2
+    # **时间**: ...
+    # **来源**: Source
+    # **原文**: URL
+    # 
     # 摘要内容
-    # 🔗 [来源](URL) | 日期
-    pattern_latest = r'\*\*\d+\.\s+((?:🚀|💰|🛡️|🧠|🤖|⚡|🔧|📱|🐄|🇨🇳|📊|🔴|🏦|🔒|🏛️|💳)?)\s*(.+?)\*\*\s*\n🏷️\s+(.+?)\n(.+?)\n🔗\s+\[(.+?)\]\((.+?)\)\s+\|\s+(.+?)(?=\n\n\*\*\d+\.|\n\n---|\n\n##|\Z)'
-    matches = list(re.finditer(pattern_latest, content, re.DOTALL))
+    pattern_new = r'###\s+\d+\.\s+(.+?)\n\*\*标签\*\*:\s+(.+?)\n\*\*时间\*\*:.+?\n\*\*来源\*\*:\s+(.+?)\n\*\*原文\*\*:\s+(.+?)\n\n(.+?)(?=\n\n---|\n\n###|\n\n##|\Z)'
+    matches = list(re.finditer(pattern_new, content, re.DOTALL))
     
     if matches:
         for idx, match in enumerate(matches):
-            emoji, title, tags, summary, source, link, pub_date = match.groups()
+            title, tags, source, link, summary = match.groups()
             
-            # 从标签中提取 emoji（如果没有emoji前缀）
-            if not emoji:
-                if "融资" in tags or "收购" in tags:
-                    emoji = "💰"
-                elif "监管" in tags or "禁令" in tags or "争议" in tags or "安全" in tags:
-                    emoji = "🛡️"
-                elif "大模型" in tags or "模型" in tags:
-                    emoji = "🧠"
-                elif "Agent" in tags:
-                    emoji = "🤖"
-                else:
-                    emoji = "🤖"
+            # 从标签中提取 emoji
+            tag_emojis = "🤖"
+            if any(x in tags for x in ["融资", "收购", "投资"]):
+                tag_emojis = "💰"
+            elif any(x in tags for x in ["监管", "禁令", "政策", "争议"]):
+                tag_emojis = "🛡️"
+            elif any(x in tags for x in ["大模型", "模型", "GPT"]):
+                tag_emojis = "🧠"
+            elif "Agent" in tags or "代理" in tags:
+                tag_emojis = "🤖"
+            elif any(x in tags for x in ["应用", "产品"]):
+                tag_emojis = "🔧"
             
             items.append({
                 "number": str(idx + 1),
-                "tags": emoji,
+                "tags": tag_emojis,
                 "title": title.strip(),
                 "summary": summary.strip()[:200] + "..." if len(summary.strip()) > 200 else summary.strip(),
                 "link": link.strip()
@@ -64,7 +67,44 @@ def get_latest_ai_news_items(limit=10):
             if len(items) >= limit:
                 break
     
-    # 如果最新格式没匹配到，尝试旧格式...
+    # 格式2（2026-03-25旧版）:
+    # **序号. emoji 标题**
+    # 🏷️ `标签1` `标签2`
+    # 摘要内容
+    # 🔗 [来源](URL) | 日期
+    if not items:
+        pattern_latest = r'\*\*\d+\.\s+((?:🚀|💰|🛡️|🧠|🤖|⚡|🔧|📱|🐄|🇨🇳|📊|🔴|🏦|🔒|🏛️|💳)?)\s*(.+?)\*\*\s*\n🏷️\s+(.+?)\n(.+?)\n🔗\s+\[(.+?)\]\((.+?)\)\s+\|\s+(.+?)(?=\n\n\*\*\d+\.|\n\n---|\n\n##|\Z)'
+        matches = list(re.finditer(pattern_latest, content, re.DOTALL))
+        
+        if matches:
+            for idx, match in enumerate(matches):
+                emoji, title, tags, summary, source, link, pub_date = match.groups()
+                
+                # 从标签中提取 emoji（如果没有emoji前缀）
+                if not emoji:
+                    if "融资" in tags or "收购" in tags:
+                        emoji = "💰"
+                    elif "监管" in tags or "禁令" in tags or "争议" in tags or "安全" in tags:
+                        emoji = "🛡️"
+                    elif "大模型" in tags or "模型" in tags:
+                        emoji = "🧠"
+                    elif "Agent" in tags:
+                        emoji = "🤖"
+                    else:
+                        emoji = "🤖"
+                
+                items.append({
+                    "number": str(idx + 1),
+                    "tags": emoji,
+                    "title": title.strip(),
+                    "summary": summary.strip()[:200] + "..." if len(summary.strip()) > 200 else summary.strip(),
+                    "link": link.strip()
+                })
+                
+                if len(items) >= limit:
+                    break
+    
+    # 如果以上格式都没匹配到，尝试更早的格式...
     if not items:
         # 格式2（2026-03-24 新版本）:
         # ### 标题
