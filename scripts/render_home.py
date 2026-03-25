@@ -4,6 +4,7 @@ from __future__ import annotations
 import datetime as dt
 import json
 import subprocess
+import sys
 from pathlib import Path
 
 REPO_DIR = Path("/Users/lijiaolong/.openclaw/workspace/daynews")

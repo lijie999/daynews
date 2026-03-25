@@ -92,6 +92,27 @@ def main():
             
             # 验证输出格式
             if "**市场走势**" in output and "**核心驱动**" in output:
+                # 提取纯净的主线结论（移除额外说明）
+                # 查找 "---" 后的内容，或直接使用包含市场走势的部分
+                if "---" in output:
+                    parts = output.split("---")
+                    for part in parts:
+                        if "**市场走势**" in part:
+                            output = part.strip()
+                            break
+                
+                # 移除开头的说明文字
+                lines = output.split("\n")
+                filtered = []
+                started = False
+                for line in lines:
+                    if "**市场走势**" in line:
+                        started = True
+                    if started:
+                        filtered.append(line)
+                
+                output = "\n".join(filtered).strip()
+                
                 print(output)  # 输出到 stdout
                 print("\n✅ Thesis generated successfully", file=sys.stderr)
                 return 0
