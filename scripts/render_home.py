@@ -259,29 +259,28 @@ def main() -> int:
 
 直接输出内容，不要额外解释。"""
 
-        # 调用 AI 生成
+        # 调用专用的主线结论生成器（使用 web_search）
         analysis = None
         try:
-            # 使用 openclaw agent 调用 AI
             result = subprocess.run(
-                [
-                    "openclaw", "agent",
-                    "--session-id", "daynews-thesis-generator",
-                    "--message", prompt,
-                    "--timeout", "20"
-                ],
+                ["python3", str(REPO_DIR / "scripts" / "generate_thesis.py")],
                 capture_output=True,
                 text=True,
-                timeout=25
+                timeout=70,
+                cwd=str(REPO_DIR)
             )
             
             if result.returncode == 0:
                 output = result.stdout.strip()
-                # 移除可能的 NO_REPLY 或其他控制标记
-                if output and not output.startswith("NO_REPLY") and len(output) > 50:
+                # 移除可能的 markdown 代码块标记
+                output = output.replace("```markdown", "").replace("```", "").strip()
+                # 验证格式
+                if output and "**市场走势**" in output and len(output) > 50:
                     analysis = output
-                
-        except Exception:
+                else:
+                    print(f"warn: thesis generator returned invalid format", file=sys.stderr)
+        except Exception as e:
+            print(f"warn: thesis generator failed: {e}", file=sys.stderr)
             pass
         
         # Fallback 模板
