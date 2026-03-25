@@ -1,6 +1,6 @@
 {
   "date": "2026.03.26",
-  "generatedAtBJT": "2026-03-26 04:08:05",
+  "generatedAtBJT": "2026-03-26 04:30:46",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-26 04:08:05",
+          "time": "2026-03-26 04:30:46",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指数（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX指数上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买",
+          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Oil prices rise as Iran denies US talks, supply fears grow…\n- 宏观/Fed线索：As March Madness unfolds, NY Fed highlights sports betting toll on consu…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Current price of oil as of March 24, 2026…\n- 宏观/Fed线索：As March Madness unfolds, NY Fed highlights sports betting toll on consu…"
         }
       ]
     },
@@ -29,7 +29,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
+          "time": "2026-03-26 04:30:41",
+          "title": "加拿大皇家银行子公司BMO即将与芝加哥商品交易所（CME）和谷歌云（Google Cloud）合作，推出基于区块链的token化现金平台。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bmo-launch-tokenized-cash-platform-120402053.html",
+          "title_en": "BMO to launch tokenized cash platform with CME and Google Cloud"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 04:30:41",
+          "title": "挪威财富基金开始采用人工智能驱动的决策，但仍由人类控制",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/norway-wealth-fund-moves-towards-121341467.html",
+          "title_en": "Norway wealth fund moves towards some AI-driven decisions but with humans in control"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 04:30:41",
           "title": "苹果（AAPL）被评为行业中性，受混合消费趋势影响",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-rated-sector-weight-114402942.html",
@@ -38,16 +56,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "需求“疯狂”：1万亿美元的理由买入Nvidia股票",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/demand-off-charts-1-trillion-113002501.html",
-          "title_en": "Demand Is ‘Off the Charts’: A $1 Trillion Reason to Buy Nvidia Stock Now"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
+          "time": "2026-03-26 04:30:41",
           "title": "马威尔（MRVL）业绩超预期，受强大的AI数据中心需求推动",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-earnings-beat-driven-114429304.html",
@@ -56,61 +65,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "Tigress Financial 对 NVIDIA (NVDA) 的价格目标进行了上调，基于强大的 AI 增长",
+          "time": "2026-03-26 04:30:41",
+          "title": "需求“疯狂”：1万亿美元的理由买入Nvidia股票",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tigress-financial-raises-nvidia-nvda-112714011.html",
-          "title_en": "Tigress Financial Raises NVIDIA (NVDA) Price Target on Strong AI Growth"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/demand-off-charts-1-trillion-113002501.html",
+          "title_en": "Demand Is ‘Off the Charts’: A $1 Trillion Reason to Buy Nvidia Stock Now"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "摩根士丹利重申对IBM股票的买入评级",
+          "time": "2026-03-26 04:30:41",
+          "title": "帕拉丁特股价大幅上涨，人工智能需求加速增长",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-reaffirms-buy-ibm-stock-112712519.html",
-          "title_en": "BofA Reaffirms Buy on IBM Stock Amid Agentic AI Expansion"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-surges-ai-demand-112721701.html",
+          "title_en": "Palantir Stock Surges as AI Demand Accelerates Growth"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "分析师评估 Intuit (INTU) 为买入，因为人工智能威胁仍然有限。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-rate-intuit-intu-buy-112709298.html",
-          "title_en": "Analysts Rate Intuit (INTU) Buy as AI Threats Remain Limited"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "Erste Group 将 Meta (META) 升级为买入，强调该公司的 AI 投资",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/erste-group-upgrades-meta-meta-112716144.html",
-          "title_en": "Erste Group Upgrades Meta (META) to Buy, Highlights the Company’s AI Investments"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "联合健康（UNH）扩大人工智能投资以提高效率",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/unitedhealth-unh-expands-ai-investments-112658049.html",
-          "title_en": "UnitedHealth (UNH) Expands AI Investments to Boost Efficiency"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "思科(CSCO)被评为买入，基于强大的人工智能和数据中心需求",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-rated-buy-strong-112705138.html",
-          "title_en": "Cisco (CSCO) Rated Buy on Strong AI and Data Center Demand"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
+          "time": "2026-03-26 04:30:41",
           "title": "AppLovin (APP) 的增长受益于其人工智能（AI）驱动的广告平台",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-app-growth-driven-ai-112722632.html",
@@ -119,29 +92,49 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "帕拉丁特股价大幅上涨，人工智能需求加速增长",
+          "time": "2026-03-26 04:30:41",
+          "title": "Erste Group 将 Meta (META) 升级为买入，强调该公司的 AI 投资",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-surges-ai-demand-112721701.html",
-          "title_en": "Palantir Stock Surges as AI Demand Accelerates Growth"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/erste-group-upgrades-meta-meta-112716144.html",
+          "title_en": "Erste Group Upgrades Meta (META) to Buy, Highlights the Company’s AI Investments"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 04:30:41",
+          "title": "Tigress Financial 对 NVIDIA (NVDA) 的价格目标进行了上调，基于强大的 AI 增长",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tigress-financial-raises-nvidia-nvda-112714011.html",
+          "title_en": "Tigress Financial Raises NVIDIA (NVDA) Price Target on Strong AI Growth"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
+          "time": "2026-03-26 04:30:41",
           "title": "Meta和Google在美国的案件中败诉，指控他们的社交媒体产品对儿童造成了伤害。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/jury-reaches-verdict-in-meta-google-trial-on-social-media-addiction-4580528",
           "title_en": "Meta, Google lose US case over social media harm to kids"
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "法庭裁决：Meta和Google社交媒体案件结果",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/factboxwhat-did-jury-decide-in-social-media-case-against-meta-and-google-4580645",
-          "title_en": "Factbox-What did jury decide in social media case against Meta and Google?"
+          "time": "2026-03-26 04:11:04",
+          "title": "Arm跳涨16%，公司预计新芯片将带来收入风暴，这被认为是“重大转变”。",
+          "summary": "Arm表示，预计其新芯片将在2031年产生的收入比2025年4亿美元高六倍。",
+          "url": "https://www.cnbc.com/2026/03/25/arm-stock-chip-revenue-agi-cpu.html",
+          "title_en": "Arm jumps 16% as company expects revenue windfall from new chip, a 'significant shift'",
+          "summary_en": "Arm said it expects its new chip to generate six times more revenue in 2031 than the $4 billion it made in 2025."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-26 04:10:07",
+          "title": "洛杉矶陪审团裁定Meta、YouTube在社交媒体成瘾案中负有疏忽之责。",
+          "summary": "一场专注于Meta和YouTube的洛杉矶案件的陪审团做出了裁决，这场案件专家们称之为社交媒体的\"大烟草\"时刻。",
+          "url": "https://www.cnbc.com/2026/03/25/meta-youtube-los-angeles-california-verdict.html",
+          "title_en": "Jury in Los Angeles finds Meta, YouTube negligent in social media addiction trial",
+          "summary_en": "A jury reached a verdict in the LA trial focused on Meta and YouTube, a case that experts have characterized as social media's \"Big Tobacco\" moment."
         },
         {
           "source": "CNBC-Top",
@@ -166,16 +159,6 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-26 02:45:18",
-          "title": "洛杉矶陪审团裁定Meta、YouTube在社交媒体成瘾案中负有疏忽之责。",
-          "summary": "一场专注于Meta和YouTube的洛杉矶案件的陪审团做出了裁决，这场案件专家们称之为社交媒体的\"大烟草\"时刻。",
-          "url": "https://www.cnbc.com/2026/03/25/meta-youtube-los-angeles-california-verdict.html",
-          "title_en": "Jury in Los Angeles finds Meta, YouTube negligent in social media addiction trial",
-          "summary_en": "A jury reached a verdict in the LA trial focused on Meta and YouTube, a case that experts have characterized as social media's \"Big Tobacco\" moment."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
           "time": "2026-03-26 02:08:08",
           "title": "微软的多元化首席官即将离职，公司正在进行“人工智能驱动的转型”。",
           "summary": "微软正致力于开发顶级人工智能模型和产品，吸引和留住顶级人才变得越来越重要。",
@@ -192,6 +175,26 @@
           "url": "https://www.cnbc.com/2026/03/25/the-firm-whose-ai-paper-knocked-the-whole-market-is-out-with-another-big-call.html",
           "title_en": "The research firm whose AI paper knocked the whole stock market is out with another big call",
           "summary_en": "Citrini Research said persistently high energy prices risk weighing on consumers and corporate earnings, creating a tough backdrop for equities."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-25 21:12:34",
+          "title": "法律AI初创公司Harvey在融资轮次中估值11亿美元，投资人在模型公司之外扩大押注。",
+          "summary": "哈维将使用其新资金扩大其人工智能代理和法律工程团队。",
+          "url": "https://www.cnbc.com/2026/03/25/legal-ai-startup-harvey-raises-200-million-at-11-billion-valuation.html",
+          "title_en": "Legal AI startup Harvey valued at $11 billion in funding round, as VCs spread bets beyond model companies",
+          "summary_en": "Harvey will use its fresh capital to expand its AI agents and grow its embedded legal engineering teams."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-25 21:11:46",
+          "title": "马克·扎克伯格重启人工智能计划，前Meta高管巴拉(Hugo Barra)重返公司",
+          "summary": "胡戈·巴拉在第一次加入Meta时，公司正大力推进VR领域。现在他回归，重点转向人工智能代理。",
+          "url": "https://www.cnbc.com/2026/03/25/hugo-barras-return-to-meta-5-years-after-exit-underscores-ai-urgency.html",
+          "title_en": "Hugo Barra's return to Meta 5 years after exit underscores Zuckerberg's AI urgency",
+          "summary_en": "During Hugo Barra's first stint at Meta, the company was pushing heavily into VR. Now, he's back and the focus is AI agents."
         }
       ]
     },
@@ -208,16 +211,6 @@
           "url": "https://www.cnbc.com/2026/03/25/sports-betting-credit-health-ny-fed.html",
           "title_en": "As March Madness unfolds, NY Fed highlights sports betting toll on consumer credit health",
           "summary_en": "As sports gambling becomes more popular and less restricted, consumer credit health is suffering, according to a new report by the New York Fed."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-26 01:35:00",
-          "title": "房贷利率近6个月高点，但如果没有房利房贷的债券购买，情况会更糟。",
-          "summary": "自2月底伊朗战争爆发以来，美国抵押贷款利率大幅上升，打破了春季购房季节前房价便宜化的希望。",
-          "url": "https://www.marketwatch.com/story/mortgage-rates-near-6-month-high-but-heres-how-much-worse-it-would-be-without-freddie-and-fannies-bond-buying-bd7a9a9e?mod=mw_rss_topstories",
-          "title_en": "Mortgage rates near 6-month high — but here’s how much worse it would be without Freddie and Fannie’s bond buying",
-          "summary_en": "The spike in U.S. mortgage rates since the Iran war began in late February has been dashing hopes for an affordability boost ahead of the spring home-buying season."
         },
         {
           "source": "CNBC-Top",
@@ -278,30 +271,59 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "石油价格上涨 因伊朗否认与美国谈判 供应担忧加剧",
+          "time": "2026-03-26 04:30:41",
+          "title": "截至2026年3月24日，石油的当前价格。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/oil-prices-rise-iran-denies-114036922.html",
-          "title_en": "Oil prices rise as Iran denies US talks, supply fears grow"
+          "url": "https://finance.yahoo.com/markets/commodities/articles/current-price-oil-march-24-121107722.html",
+          "title_en": "Current price of oil as of March 24, 2026"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "股市因伊朗对停火协议的反弹而上涨，但仍寄希望于局势的缓和。",
+          "time": "2026-03-26 04:30:41",
+          "title": "伊朗表示正在审查美国提出的建议，但对举行谈判没有兴趣。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/israel-strikes-tehran-as-trump-says-us-negotiating-to-end-war-4578989",
+          "title_en": "Iran says it is reviewing US proposal but has no interest in holding talks"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 04:30:41",
+          "title": "股市收盘高涨，受伊朗对停火协议的反弹影响，尽管仍有降温希望。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-futures-tick-higher-amid-hopes-for-potential-iran-war-resolution-4579623",
-          "title_en": "Stocks higher on de-escalation hopes despite Iran’s pushback against ceasefire"
+          "title_en": "Stocks end higher on de-escalation hopes despite Iran’s pushback against ceasefire"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-26 04:22:33",
+          "title": "美国邮政局寻求对包裹运输的燃油附加费8%，伊朗战争推高了石油价格。",
+          "summary": "石油价格自2月28日美国和以色列对伊朗发动袭击以来已上涨超过40%。",
+          "url": "https://www.cnbc.com/2026/03/25/us-postal-fuel-surcharge-package-deliveries-iran-oil.html",
+          "title_en": "U.S. Postal Service seeks 8% fuel surcharge for package deliveries as Iran war raises oil prices",
+          "summary_en": "Oil prices have jumped more than 40% since Feb. 28, when the U.S. and Israel attacked Iran."
         },
         {
           "source": "CNBC-World",
           "ticker": "RSS",
-          "time": "2026-03-26 04:02:41",
+          "time": "2026-03-26 04:21:43",
           "title": "美国国债收益率大幅下跌，特朗普称赞伊朗停火计划",
           "summary": "美国国债收益率周三下跌，受中东潜在和平计划的影响。",
           "url": "https://www.cnbc.com/2026/03/25/treasury-yields-tumble-as-trump-talks-up-iran-ceasefire-plan.html",
           "title_en": "Treasury yields tumble as Trump talks up Iran ceasefire plan",
           "summary_en": "U.S. Treasury yields ticked lower on Wednesday amid hopes of a potential peace plan in the Middle East."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-26 04:17:58",
+          "title": "伊朗战争可能在冲突结束后长期影响全球经济",
+          "summary": "伊朗对霍尔木兹海峡的有效封锁已经对油轮造成了影响，霍尔木兹海峡重新开放也不会立即恢复到战争前世界的状态。",
+          "url": "https://www.cnbc.com/2026/03/25/the-iran-war-could-rattle-the-global-economy-long-after-hostilities-end.html",
+          "title_en": "How the Iran war could rattle the global economy long after hostilities end",
+          "summary_en": "A reopening of the critical Strait of Hormuz, which Iran has effectively closed to oil tankers, won't immediately restore the world to its pre-conflict state."
         },
         {
           "source": "CNBC-Top",
@@ -332,16 +354,6 @@
           "url": "https://www.cnbc.com/2026/03/25/heres-how-the-iran-war-is-already-hitting-the-us-housing-market.html",
           "title_en": "How the Iran war could crush the U.S. housing recovery, and it's not just about mortgage rates",
           "summary_en": "A combination of higher mortgage rates and economic uncertainty are reversing what was expected to be a recovery year in the housing market."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-26 03:10:58",
-          "title": "伊朗战争可能在冲突结束后长期影响全球经济",
-          "summary": "伊朗对霍尔木兹海峡的有效封锁已经对油轮造成了影响，霍尔木兹海峡重新开放也不会立即恢复到战争前世界的状态。",
-          "url": "https://www.cnbc.com/2026/03/25/the-iran-war-could-rattle-the-global-economy-long-after-hostilities-end.html",
-          "title_en": "How the Iran war could rattle the global economy long after hostilities end",
-          "summary_en": "A reopening of the critical Strait of Hormuz, which Iran has effectively closed to oil tankers, won't immediately restore the world to its pre-conflict state."
         },
         {
           "source": "CNBC-World",
@@ -432,16 +444,6 @@
           "url": "https://www.cnbc.com/2026/03/25/south-korea-iran-oil-shock-middle-east-conflict.html",
           "title_en": "South Korea braces for 'worst-case scenarios' as Iran oil shock deepens",
           "summary_en": "South Korean Prime Minister Kim Min-seok warned the government must prepare for \"worst-case scenarios\" stemming from the Middle East conflict."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-25 18:58:15",
-          "title": "亚洲的乌克兰时刻：伊朗战争如何加速转向可再生能源",
-          "summary": "中东冲突的影响预计将成为能源转型的分水岭。",
-          "url": "https://www.cnbc.com/2026/03/25/iran-war-renewables-solar-wind-oil-gas-energy-strait-of-hormuz.html",
-          "title_en": "‘Asia’s Ukraine moment’: How the Iran war could accelerate a shift into renewables",
-          "summary_en": "The fallout from the sprawling Middle East conflict is expected to represent a watershed moment for the energy transition."
         }
       ]
     },
@@ -457,52 +459,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "Trip.com (TCOM) 业绩超出市场预期，巴克莱维持买入评级",
+          "time": "2026-03-26 04:30:41",
+          "title": "埃斯蒂劳德确认与西班牙香水制造商普伊格举行谈判",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/trip-com-tcom-earnings-beat-114432688.html",
-          "title_en": "Trip.com (TCOM) Earnings Beat Expectations on Strong Travel Demand, Barclays Maintains Overweight"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/estee-lauder-confirms-talks-spanish-120303009.html",
+          "title_en": "Estee Lauder confirms talks with Spanish perfume maker Puig"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "扩张能源股：EXE是否低于能源行业表现？",
+          "time": "2026-03-26 04:30:41",
+          "title": "想在退休时拥有100万美元？投资10万美元在这3只股票上，等待20年。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/expand-energy-stock-exe-underperforming-114236771.html",
-          "title_en": "Expand Energy Stock: Is EXE Underperforming the Energy Sector?"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/want-1-million-retirement-invest-121000752.html",
+          "title_en": "Want $1 Million in Retirement? Invest $10,000 in These 3 Stocks and Wait 20 Years."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "GAM管理团队推动出售Liontrust 股价持续下滑",
+          "time": "2026-03-26 04:30:41",
+          "title": "布朗咨询中型成长策略退出了对BETA技术（BETA）的股份。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/gam-managers-push-liontrust-sale-115259626.html",
-          "title_en": "GAM managers push for Liontrust sale amid stock slide"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/brown-advisory-mid-cap-growth-120629527.html",
+          "title_en": "Brown Advisory Mid-Cap Growth Strategy Exited Its Stake in BETA Technologies (BETA)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "埃隆·马斯克（Elon Musk）表示愿意支付机场安检人员的工资——警告说停工会伤害“那么多美国人”。",
+          "time": "2026-03-26 04:30:41",
+          "title": "Paychex的下一季度财报将带来什么",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/elon-musk-offers-pay-tsa-115300310.html",
-          "title_en": "Elon Musk offers to pay TSA salaries — warns disruption hurts ‘so many Americans.’ Do this now if you get 1 paycheck"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/expect-paychexs-next-quarterly-earnings-120758066.html",
+          "title_en": "What to Expect From Paychex's Next Quarterly Earnings Report"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "布朗咨询中型成长策略在Q4卖出了Autodesk（ADSK）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/brown-advisory-mid-cap-growth-113626623.html",
-          "title_en": "Brown Advisory Mid-Cap Growth Strategy Exited Autodesk (ADSK) in Q4"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
+          "time": "2026-03-26 04:30:41",
           "title": "阿尔戈尔 (ADM) 表示，2023财年第一季度营收为 24.6 亿美元，同比增长 26%。 \n\n澳大利亚能源公司 Origin Energy (OGE) 表示，2023财年第一季度营收为 4.6 亿澳元，同比下降 45%。",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46533_MarketSummary_1774436223000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -511,34 +504,52 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "皇冠城(CCI)在塔楼租赁领域具备长期增长潜力",
+          "time": "2026-03-26 04:30:41",
+          "title": "Chipotle (CMG) 股价下跌，因为同比销售额未达到预期。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/crown-castle-cci-positioned-long-114431317.html",
-          "title_en": "Crown Castle (CCI) Positioned for Long-Term Growth in Tower Leasing"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/chipotle-cmg-slid-comparable-sales-121101292.html",
+          "title_en": "Chipotle (CMG) Slid as Comparable Sales Fell Short of Expectations"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "Netflix (NFLX) 被评为强劲边际增长的超越表现",
+          "time": "2026-03-26 04:30:41",
+          "title": "四个老年人可以利用的不太为人知的税收减免政策以最大化退税",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-rated-outperform-strong-114403939.html",
-          "title_en": "Netflix (NFLX) Rated Outperform on Strong Margin Growth"
+          "url": "https://finance.yahoo.com/economy/policy/articles/4-lesser-known-tax-breaks-120026597.html",
+          "title_en": "4 Lesser-Known Tax Breaks Seniors Can Use To Maximize Refunds"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "纽约证券交易所与Securitize合作开发24小时全天候的token化证券平台。",
+          "time": "2026-03-26 04:30:41",
+          "title": "哈斯博（Hasbro）股票：哈斯博是否优于消费类非必需品行业？",
           "summary": "",
-          "url": "https://www.wsj.com/finance/stocks/nyse-partners-with-securitize-to-develop-24-7-tokenized-securities-platform-871a4c7e?siteid=yhoof2&yptr=yahoo",
-          "title_en": "NYSE Partners With Securitize to Develop 24/7 Tokenized Securities Platform"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hasbro-stock-outperforming-consumer-discretionary-115703313.html",
+          "title_en": "Hasbro Stock: Is HAS Outperforming the Consumer Discretionary Sector?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
+          "time": "2026-03-26 04:30:41",
+          "title": "埃隆·马斯克（Elon Musk）表示愿意支付机场安检人员的工资——警告说停工会伤害“那么多美国人”。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/economy/policy/articles/elon-musk-offers-pay-tsa-115300310.html",
+          "title_en": "Elon Musk offers to pay TSA salaries — warns disruption hurts ‘so many Americans.’ Do this now if you get 1 paycheck"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 04:30:41",
+          "title": "Cintas季度收益预览：你需要知道的",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cintas-quarterly-earnings-preview-know-120035671.html",
+          "title_en": "Cintas' Quarterly Earnings Preview: What You Need to Know"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 04:30:41",
           "title": "2026年3月25日，维克氏（Vickers）推荐的内幕人士首选股。",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46531_InsiderActivity_1774432995000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -547,43 +558,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "MSTR 股票：战略瞄准58亿美元比特币战储。要保持谨慎。",
+          "time": "2026-03-26 04:30:41",
+          "title": "欧洲银行业稳定，尽管中东不确定性，欧洲银行监管局表示。",
           "summary": "",
-          "url": "https://www.investors.com/news/mstr-stock-strategy-58-billion-bitcoin-war-chest/?src=A00220&yptr=yahoo",
-          "title_en": "MSTR Stock: Strategy Eyes $58 Billion Bitcoin War Chest. Be Skeptical."
+          "url": "https://finance.yahoo.com/economy/policy/articles/eu-banks-stable-despite-middle-120043555.html",
+          "title_en": "EU banks stable despite Middle East uncertainties, says EBA"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "萨马拉（IOT）有望演变为多产品增长故事",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/samsara-iot-positioned-evolve-multi-113442694.html",
-          "title_en": "Samsara (IOT) Positioned to Evolve into a Multi-Product Growth Story"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "一位无债务的密苏里州女性，身价300万美元，表示她的家人不断要求她提供经济援助，她想设定界限。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/articles/debt-free-missouri-woman-worth-113000350.html",
-          "title_en": "Debt-free Missouri woman worth $3M says family keeps asking for handouts — and she wants to set boundaries"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "2026年3月25日维克斯高买家和高卖家",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46532_TopBottomInsiderActivity_1774432995000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily – Vickers Top Buyers & Sellers for 03/25/2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
+          "time": "2026-03-26 04:30:41",
           "title": "联邦房地产（Federal Realty）股价是否低于道指（Dow）?",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/federal-realty-stock-underperforming-dow-115137736.html",
@@ -592,29 +576,47 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "布朗咨询中型成长股基金投资者认为Zscaler (ZS) 是一个有潜力的投资机会。",
+          "time": "2026-03-26 04:30:41",
+          "title": "Netflix (NFLX) 被评为强劲边际增长的超越表现",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-brown-advisory-mid-cap-113118032.html",
-          "title_en": "Here’s Why Brown Advisory Mid-Cap Growth Established a Position in Zscaler (ZS)"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-rated-outperform-strong-114403939.html",
+          "title_en": "Netflix (NFLX) Rated Outperform on Strong Margin Growth"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "5种现金股回报率5%或以上的股票，适合现在购买的被动收入来源",
+          "time": "2026-03-26 04:30:41",
+          "title": "2026年3月25日维克斯高买家和高卖家",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-yielding-5-113900842.html",
-          "title_en": "5 Dividend Stocks Yielding 5% or More to Buy Right Now for Passive Income"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46532_TopBottomInsiderActivity_1774432995000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily – Vickers Top Buyers & Sellers for 03/25/2026"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 04:08:00",
-          "title": "帕罗奥图（PANW）买入评级受强大网络安全需求支持",
+          "time": "2026-03-26 04:30:41",
+          "title": "Jefferies可能被日本SMFG收购。对其股票意味着什么。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-panw-buy-rating-112706360.html",
-          "title_en": "Palo Alto (PANW) Buy Rating Backed by Strong Cybersecurity Demand"
+          "url": "https://www.barrons.com/articles/jefferies-stock-price-smfg-takeover-report-deal-japan-8e8956b7?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Jefferies Could Get Taken Over by Japan’s SMFG. What It Means for the Stock."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 04:30:41",
+          "title": "Trip.com (TCOM) 业绩超出市场预期，巴克莱维持买入评级",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/trip-com-tcom-earnings-beat-114432688.html",
+          "title_en": "Trip.com (TCOM) Earnings Beat Expectations on Strong Travel Demand, Barclays Maintains Overweight"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 04:30:41",
+          "title": "扩张能源股：EXE是否低于能源行业表现？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/expand-energy-stock-exe-underperforming-114236771.html",
+          "title_en": "Expand Energy Stock: Is EXE Underperforming the Energy Sector?"
         }
       ]
     }
