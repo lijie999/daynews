@@ -261,9 +261,12 @@ def main() -> int:
 直接输出内容，不要额外解释。"""
 
         # 调用专用的主线结论生成器（使用 web_search）
+        import subprocess as sp
+        import sys as _sys
+        
         analysis = None
         try:
-            result = subprocess.run(
+            result = sp.run(
                 ["python3", str(REPO_DIR / "scripts" / "generate_thesis.py")],
                 capture_output=True,
                 text=True,
@@ -279,9 +282,9 @@ def main() -> int:
                 if output and "**市场走势**" in output and len(output) > 50:
                     analysis = output
                 else:
-                    print(f"warn: thesis generator returned invalid format", file=sys.stderr)
+                    print(f"warn: thesis generator returned invalid format", file=_sys.stderr)
         except Exception as e:
-            print(f"warn: thesis generator failed: {e}", file=sys.stderr)
+            print(f"warn: thesis generator failed: {e}", file=_sys.stderr)
             pass
         
         # Fallback 模板
