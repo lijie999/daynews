@@ -1,6 +1,6 @@
 {
   "date": "2026.03.25",
-  "generatedAtBJT": "2026-03-25 20:30:17",
+  "generatedAtBJT": "2026-03-25 20:34:35",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-25 20:30:17",
+          "time": "2026-03-25 20:34:35",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→NQ/ES承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波",
+          "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜恐惧指数（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→NQ/ES承压更明显；美元指数上升→黄金更易回撤；恐惧指数上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且恐惧指数抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且恐惧指数回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Dow Jones Futures Rise, Oil Prices Tumble On Cautious Hopes For Iran Pea…\n- 宏观/Fed线索：US company CFOs saw a solid economic outlook, at least until war broke o…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Stock market today: Dow, S&P 500, Nasdaq futures jump amid reports US se…\n- 宏观/Fed线索：US company CFOs saw a solid economic outlook, at least until war broke o…"
         }
       ]
     },
@@ -29,7 +29,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
+          "time": "2026-03-25 20:34:31",
+          "title": "AI领域的爆发加速了中国芯片行业的增长，需求紧张供应链",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/ai-boom-accelerates-chinas-chip-122047760.html",
+          "title_en": "AI boom accelerates China's chip industry growth as demand strains supply chain"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 20:34:31",
           "title": "微软股价：如何找到并拥有美国最大的机会",
           "summary": "",
           "url": "https://www.investors.com/how-to-invest/microsoft-msft-stock-americas-greatest-opportunities/?src=A00220&yptr=yahoo",
@@ -38,7 +47,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
+          "time": "2026-03-25 20:34:31",
           "title": "科技股今日：OpenAI关闭Sora，Arm推出数据中心芯片",
           "summary": "",
           "url": "https://finance.yahoo.com/news/live/tech-stocks-today-openai-shuts-down-sora-arm-launches-data-center-chip-144220331.html",
@@ -47,7 +56,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
+          "time": "2026-03-25 20:34:31",
           "title": "Lam Research Corporation（LRCX）有利于受益于芯片复杂性的增长",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-lrcx-positioned-115400829.html",
@@ -56,7 +65,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
+          "time": "2026-03-25 20:34:31",
           "title": "应用材料（AMAT）受益于强劲的AI芯片需求和坚韧的运营表现",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-inc-amat-gained-114523196.html",
@@ -65,7 +74,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
+          "time": "2026-03-25 20:34:31",
           "title": "Alphabet (GOOGL) 成为 Renaissance 投资的最大贡献者是因为其强大的人工智能和云计算增长",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-alphabet-googl-became-largest-114059220.html",
@@ -74,7 +83,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
+          "time": "2026-03-25 20:34:31",
           "title": "Meta在人工智能竞赛加剧之际，为高管加码股权期权",
           "summary": "",
           "url": "https://finance.yahoo.com/news/meta-boosts-top-executives-pay-113940153.html",
@@ -189,16 +198,6 @@
           "url": "https://www.cnbc.com/2026/03/24/openai-shutters-short-form-video-app-sora-as-company-reels-in-costs.html",
           "title_en": "OpenAI shutters short-form video app Sora as company reels in costs",
           "summary_en": "OpenAI said it's closing Sora, the short-form video app that went viral after its launch six months ago"
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-25 03:55:07",
-          "title": "贾马尔·迪蒙警告称人工智能将导致大量失业，呼吁政府和企业联合提供激励措施。",
-          "summary": "华盛顿的立法者正在努力应对人工智能可能对就业市场造成的冲击。",
-          "url": "https://www.cnbc.com/2026/03/24/jamie-dimon-ai-job-loss.html",
-          "title_en": "Dimon warns on AI job losses, calls for government-business incentives",
-          "summary_en": "The potential AI-related disruption of the job market is a critical issue in Washington, with lawmakers trying to curb the amount of displacement."
         }
       ]
     },
@@ -209,7 +208,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
+          "time": "2026-03-25 20:34:31",
           "title": "美联储最新调查显示，美国公司财务长对经济前景的看法是坚实的，至少在战争爆发之前如此。",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/us-company-cfos-saw-solid-113158087.html",
@@ -218,7 +217,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
+          "time": "2026-03-25 20:34:31",
           "title": "巴克莱预计英国通胀稳定在3.0%之前能源冲击",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/barclays-sees-uk-inflation-steady-at-30-before-energy-shock-93CH-4579714",
@@ -273,16 +272,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
-          "title": "道琼斯指数期货上涨，石油价格暴跌，基于对伊朗和平协议的谨慎希望。",
-          "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-trump-iran-talking-sense/?src=A00220&yptr=yahoo",
-          "title_en": "Dow Jones Futures Rise, Oil Prices Tumble On Cautious Hopes For Iran Peace Deal"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
+          "time": "2026-03-25 20:34:31",
           "title": "美国股市今日：道指、标普500指数和纳斯达克期货大幅上涨，据报道美国已将停火计划提交伊朗。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-jump-amid-reports-us-sent-ceasefire-plan-to-iran-230359776.html",
@@ -291,16 +281,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
-          "title": "欧洲股市上涨，油价下跌，市场对特朗普谈判伊朗的言论表示欢迎。",
+          "time": "2026-03-25 20:34:31",
+          "title": "股市今日：道指因特朗普和平计划而上涨；油价大跌（实时报道）",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/stocks-bounce-oil-retreats-mideast-010442099.html",
-          "title_en": "European stocks rise, oil falls, markets cheered by Trump talk of Iran negotiation"
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-peace-plan-oil-prices/?src=A00220&yptr=yahoo",
+          "title_en": "Stock Market Today: Dow Rallies On Trump Peace Plan; Oil Prices Dive (Live Coverage)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
+          "time": "2026-03-25 20:34:31",
+          "title": "道琼斯指数期货上涨，石油价格暴跌，基于对伊朗和平协议的谨慎希望。",
+          "summary": "",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-trump-iran-talking-sense/?src=A00220&yptr=yahoo",
+          "title_en": "Dow Jones Futures Rise, Oil Prices Tumble On Cautious Hopes For Iran Peace Deal"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 20:34:31",
           "title": "油价预测受战争影响",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46523_MarketOutlook_1774352547000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -309,11 +308,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
-          "title": "黄金价格今日，星期三，3月25日：黄金价格上涨，据报有结束伊朗战争的谈判",
+          "time": "2026-03-25 20:34:31",
+          "title": "欧洲股市上涨，油价下跌，市场对特朗普谈判伊朗的言论表示欢迎。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-march-25-gold-rises-after-reports-of-talks-to-end-iran-war-104957705.html",
-          "title_en": "Gold price today, Wednesday, March 25: Gold rises after reports of talks to end Iran war"
+          "url": "https://finance.yahoo.com/news/stocks-bounce-oil-retreats-mideast-010442099.html",
+          "title_en": "European stocks rise, oil falls, markets cheered by Trump talk of Iran negotiation"
         },
         {
           "source": "MarketWatch-Top",
@@ -459,16 +458,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
-          "title": "路孚特加入S&P 500：大涨能持续下去的原因和可能终止它的因素",
+          "time": "2026-03-25 20:34:31",
+          "title": "今日关注股票：PDD、阿里巴巴、KB Home",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lumentum-just-joined-p-500-121028019.html",
-          "title_en": "Lumentum Just Joined the S&P 500: What Could Keep the Huge Rally Going and What Could End It"
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-25-2026/card/stocks-to-watch-today-pdd-alibaba-kb-home-jzvHaFhrdlxHXKYQvpaE?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Stocks to Watch Today: PDD, Alibaba, KB Home"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
+          "time": "2026-03-25 20:34:31",
+          "title": "衰退恐惧再次浮现：这不会改变你的策略",
+          "summary": "",
+          "url": "https://finance.yahoo.com/economy/articles/recession-fears-back-why-not-122000541.html",
+          "title_en": "Recession Fears Are Back: Here Is Why That Should Not Change Your Strategy"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 20:34:31",
           "title": "Coinbase 股价暴跌，Clarity Act 在参议院遇到障碍；Coinbase 股票现在是卖出吗？",
           "summary": "",
           "url": "https://www.investors.com/research/coinbase-stock-coin-march-2026/?src=A00220&yptr=yahoo",
@@ -477,7 +485,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
+          "time": "2026-03-25 20:34:31",
           "title": "美国海军隐形技术合作伙伴瞄准混乱市场的突破",
           "summary": "",
           "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/esco-technolgoies-ese-us-navy/?src=A00220&yptr=yahoo",
@@ -486,16 +494,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
-          "title": "UFP 包装(UFP)推出了新型无钉木箱系统。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/ufp-packaging-introduces-nail-free-120259887.html",
-          "title_en": "UFP Packaging introduces new nail-free crate systems"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
+          "time": "2026-03-25 20:34:31",
           "title": "CNBC主播对美国贸易逆差从1360亿美元降至290亿美元的降幅感到震惊——这是2009年以来最低水平。特朗普关于关税的说法是正确的吗？",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/cnbc-anchor-shocked-us-trade-120000909.html",
@@ -504,16 +503,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
-          "title": "SpaceX可能在本周申请史上最大规模的IPO。",
-          "summary": "",
-          "url": "https://www.investors.com/news/spacex-ipo-elon-musk-space-company-listing/?src=A00220&yptr=yahoo",
-          "title_en": "SpaceX Could File For Mammoth IPO This Week: The Information"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
+          "time": "2026-03-25 20:34:31",
           "title": "Moody's Corp（MCO）预计2024年将实现收入和利润增长。",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3648_AnalystReport_1774374231000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -522,16 +512,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
-          "title": "弗兰克林特默顿称，XRP的“转折点”将在企业开始使用它时到来，价格面临压力。",
+          "time": "2026-03-25 20:34:31",
+          "title": "Netflix放弃了与华纳兄弟的谈判，这是一个明智的决定吗？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-tipping-point-come-firms-120047127.html",
-          "title_en": "XRP’s ‘Tipping Point’ Will Come When Firms Start Using It, Says Franklin Templeton as Price Faces Pressure"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-walked-away-warner-bros-121300801.html",
+          "title_en": "Netflix Walked Away From Warner Bros. Was That a Smart Move?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
+          "time": "2026-03-25 20:34:31",
+          "title": "SpaceX可能在本周申请史上最大规模的IPO。",
+          "summary": "",
+          "url": "https://www.investors.com/news/spacex-ipo-elon-musk-space-company-listing/?src=A00220&yptr=yahoo",
+          "title_en": "SpaceX Could File For Mammoth IPO This Week: The Information"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 20:34:31",
           "title": "Netflix (NFLX) 股价下跌，尽管公司表现出色并有着战略扩张计划。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-slid-despite-strong-115132005.html",
@@ -540,16 +539,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
-          "title": "尽管在VMware的市场份额方面取得了进展，Nutanix (NTNX)仍然低于预期。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-nutanix-inc-ntnx-underperformed-114802299.html",
-          "title_en": "Why Nutanix (NTNX) Underperformed Despite Gaining Market Share from VMware"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
+          "time": "2026-03-25 20:34:31",
           "title": "分析师报告：阿里巴巴集团控股有限公司",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3758_AnalystReport_1774374231000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -558,16 +548,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
-          "title": "三只科技ETF的2026预测：FTEC、IGV和XNTK的故事各不相同",
+          "time": "2026-03-25 20:34:31",
+          "title": "路孚特加入S&P 500：大涨能持续下去的原因和可能终止它的因素",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-tech-etfs-2026-ftec-115713868.html",
-          "title_en": "3 Tech ETFs for 2026: FTEC, IGV, and XNTK Tell Very Different Stories"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lumentum-just-joined-p-500-121028019.html",
+          "title_en": "Lumentum Just Joined the S&P 500: What Could Keep the Huge Rally Going and What Could End It"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
+          "time": "2026-03-25 20:34:31",
+          "title": "尽管在VMware的市场份额方面取得了进展，Nutanix (NTNX)仍然低于预期。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-nutanix-inc-ntnx-underperformed-114802299.html",
+          "title_en": "Why Nutanix (NTNX) Underperformed Despite Gaining Market Share from VMware"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 20:34:31",
           "title": "卡尔德尔健康（CAH）成为药品强度和利润率扩张的关键贡献者。",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/healthcare/articles/cardinal-health-cah-emerged-key-114251700.html",
@@ -576,7 +575,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
+          "time": "2026-03-25 20:34:31",
+          "title": "UFP 包装(UFP)推出了新型无钉木箱系统。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/ufp-packaging-introduces-nail-free-120259887.html",
+          "title_en": "UFP Packaging introduces new nail-free crate systems"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-25 20:34:31",
           "title": "皇家加勒比集团(RCL)售出后，股价大涨，但增长前景减弱",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-group-rcl-sold-113802816.html",
@@ -585,16 +593,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
-          "title": "两只超级增长股已从历史最高点下跌83%和92%，有望在2028年前后翻倍",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-supercharged-growth-stocks-down-115600149.html",
-          "title_en": "2 Supercharged Growth Stocks Down 83% and 92% From Their All-Time Highs That Can Double by (or Before) 2028"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
+          "time": "2026-03-25 20:34:31",
           "title": "Xanadu即将在2026年上市，量子计算股价持续下滑",
           "summary": "",
           "url": "https://www.investors.com/news/technology/quantum-computing-stocks-xanadu-market-debut-spac-merger/?src=A00220&yptr=yahoo",
@@ -603,20 +602,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
-          "title": "摩根士丹利将Intuit (INTU)列为首选股，并维持超重评级",
+          "time": "2026-03-25 20:34:31",
+          "title": "弗兰克林特默顿称，XRP的“转折点”将在企业开始使用它时到来，价格面临压力。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-names-intuit-intu-110343753.html",
-          "title_en": "Morgan Stanley Names Intuit (INTU) a Top Pick and Maintains an Overweight Rating"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-tipping-point-come-firms-120047127.html",
+          "title_en": "XRP’s ‘Tipping Point’ Will Come When Firms Start Using It, Says Franklin Templeton as Price Faces Pressure"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-25 20:30:12",
-          "title": "道奇总部任命杰瑞·弗里曼为下任CEO",
+          "time": "2026-03-25 20:34:31",
+          "title": "摩根士丹利将Intuit (INTU)列为首选股，并维持超重评级",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-appoints-jerry-fleeman-115345346.html",
-          "title_en": "Dollar General appoints Jerry Fleeman Jr as next CEO"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-names-intuit-intu-110343753.html",
+          "title_en": "Morgan Stanley Names Intuit (INTU) a Top Pick and Maintains an Overweight Rating"
         }
       ]
     }
