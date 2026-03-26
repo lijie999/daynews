@@ -14,7 +14,7 @@ INDEX_HTML = DAYNEWS_DOCS / "index.html"
 AI_NEWS_DIR = Path.home() / ".openclaw/workspace/skills/ai-news-zh/outputs"
 
 def get_latest_ai_news_items(limit=10):
-    """获取最新 AI 新闻条目"""
+    """获取最新 AI 新闻条���"""
     # 获取最新的文件（不限日期）
     files = sorted(AI_NEWS_DIR.glob("*.md"), reverse=True, key=lambda p: p.stat().st_mtime)
     
@@ -28,33 +28,21 @@ def get_latest_ai_news_items(limit=10):
     # 提取新闻条目
     items = []
     
-    # 最新格式（2026-03-26 02:01）:
-    # ### 序号. 标题
-    # **标签**: #标签1 #标签2
-    # **时间**: ...
-    # **来源**: Source
-    # **原文**: URL
-    # 
-    # 摘要内容
-    pattern_new = r'###\s+\d+\.\s+(.+?)\n\*\*标签\*\*:\s+(.+?)\n\*\*时间\*\*:.+?\n\*\*来源\*\*:\s+(.+?)\n\*\*原文\*\*:\s+(.+?)\n\n(.+?)(?=\n\n---|\n\n###|\n\n##|\Z)'
-    matches = list(re.finditer(pattern_new, content, re.DOTALL))
+    # 最新格式（2026-03-26 13:02 S/A/B级格式）:
+    # ### 🚀 标题
+    # - **来源**: Source | Author
+    # - **时间**: ...
+    # - **链接**: URL
+    # - **简介**: 摘要
+    pattern_sab = r'###\s+([🚀💼🔬🧠💰🛒🌐🤖📊🏛️🐄]+)\s+(.+?)\n-\s+\*\*来源\*\*:\s+(.+?)\n-\s+\*\*时间\*\*:\s+(.+?)\n-\s+\*\*链接\*\*:\s+(.+?)\n-\s+\*\*简介\*\*:\s+(.+?)(?=\n\n###|\n\n##|\Z)'
+    matches = list(re.finditer(pattern_sab, content, re.DOTALL))
     
     if matches:
         for idx, match in enumerate(matches):
-            title, tags, source, link, summary = match.groups()
+            emoji, title, source, pub_time, link, summary = match.groups()
             
-            # 从标签中提取 emoji
-            tag_emojis = "🤖"
-            if any(x in tags for x in ["融资", "收购", "投资"]):
-                tag_emojis = "💰"
-            elif any(x in tags for x in ["监管", "禁令", "政策", "争议"]):
-                tag_emojis = "🛡️"
-            elif any(x in tags for x in ["大模型", "模型", "GPT"]):
-                tag_emojis = "🧠"
-            elif "Agent" in tags or "代理" in tags:
-                tag_emojis = "🤖"
-            elif any(x in tags for x in ["应用", "产品"]):
-                tag_emojis = "🔧"
+            # 根据 emoji 分类
+            tag_emojis = emoji.strip()
             
             items.append({
                 "number": str(idx + 1),
@@ -66,6 +54,46 @@ def get_latest_ai_news_items(limit=10):
             
             if len(items) >= limit:
                 break
+    
+    # 次新格式（2026-03-26 02:01）:
+    # ### 序号. 标题
+    # **标签**: #标签1 #标签2
+    # **时间**: ...
+    # **来源**: Source
+    # **原文**: URL
+    # 
+    # 摘要内容
+    if not items:
+        pattern_new = r'###\s+\d+\.\s+(.+?)\n\*\*标签\*\*:\s+(.+?)\n\*\*时间\*\*:.+?\n\*\*来源\*\*:\s+(.+?)\n\*\*原文\*\*:\s+(.+?)\n\n(.+?)(?=\n\n---|\n\n###|\n\n##|\Z)'
+        matches = list(re.finditer(pattern_new, content, re.DOTALL))
+        
+        if matches:
+            for idx, match in enumerate(matches):
+                title, tags, source, link, summary = match.groups()
+                
+                # 从标签中提取 emoji
+                tag_emojis = "🤖"
+                if any(x in tags for x in ["融资", "收购", "投资"]):
+                    tag_emojis = "💰"
+                elif any(x in tags for x in ["监管", "禁令", "政策", "争议"]):
+                    tag_emojis = "🛡️"
+                elif any(x in tags for x in ["大模型", "模型", "GPT"]):
+                    tag_emojis = "🧠"
+                elif "Agent" in tags or "代理" in tags:
+                    tag_emojis = "🤖"
+                elif any(x in tags for x in ["应用", "产品"]):
+                    tag_emojis = "🔧"
+                
+                items.append({
+                    "number": str(idx + 1),
+                    "tags": tag_emojis,
+                    "title": title.strip(),
+                    "summary": summary.strip()[:200] + "..." if len(summary.strip()) > 200 else summary.strip(),
+                    "link": link.strip()
+                })
+                
+                if len(items) >= limit:
+                    break
     
     # 格式2（2026-03-25旧版）:
     # **序号. emoji 标题**
