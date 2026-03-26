@@ -1,6 +1,6 @@
 {
   "date": "2026.03.27",
-  "generatedAtBJT": "2026-03-27 03:51:17",
+  "generatedAtBJT": "2026-03-27 04:21:43",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-27 03:51:17",
+          "time": "2026-03-27 04:21:43",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指数（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金价格更易回撤；VIX指数上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金价格喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高",
+          "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→NQ/ES承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：European stocks rise, oil falls, markets cheered by Trump talk of Iran n…\n- 宏观/Fed线索：Peter Schiff Questions Trump 'Market Manipulation,' But Treasury Yields …"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Dow Jones Futures Rise, Oil Prices Tumble On Cautious Hopes For Iran Pea…\n- 宏观/Fed线索：US company CFOs saw a solid economic outlook, at least until war broke o…"
         }
       ]
     },
@@ -29,47 +29,104 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "Arm股份大涨，新一代AI芯片将带来数十亿美元的年度收入",
+          "time": "2026-03-27 04:21:38",
+          "title": "微软股价：如何找到并拥有美国最大的机会",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/arm-jumps-ai-chip-drive-095547968.html",
-          "title_en": "Arm shares rally as new AI chip to drive billions in annual revenue"
+          "url": "https://www.investors.com/how-to-invest/microsoft-msft-stock-americas-greatest-opportunities/?src=A00220&yptr=yahoo",
+          "title_en": "Microsoft Stock: How To Find & Own America's Greatest Opportunities"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "查克纳和Ceto AI在伦敦保险市场推出海上MGA",
+          "time": "2026-03-27 04:21:38",
+          "title": "Lam Research Corporation（LRCX）有利于受益于芯片复杂性的增长",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/chaucer-ceto-ai-introduce-marine-094132155.html",
-          "title_en": "Chaucer and Ceto AI introduce marine MGA at Lloyd’s"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-lrcx-positioned-115400829.html",
+          "title_en": "Lam Research Corporation (LRCX) is Positioned to Benefit from Growing Chip Complexity"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "阿里巴巴刚刚对人工智能投下了1000亿美元的巨额赌注。对于投资者来说，这意味着什么？",
+          "time": "2026-03-27 04:21:38",
+          "title": "应用材料（AMAT）受益于强劲的AI芯片需求和坚韧的运营表现",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/alibaba-just-made-100-billion-094500496.html",
-          "title_en": "Alibaba Just Made a $100 Billion Bet on AI. Here's What It Means for Investors."
+          "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-inc-amat-gained-114523196.html",
+          "title_en": "Applied Materials (AMAT) Gained on Strong AI Chip Demand and Resilient Operating Performance"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "苹果推出地图广告  广告收入增长",
+          "time": "2026-03-27 04:21:38",
+          "title": "Alphabet (GOOGL) 成为 Renaissance 投资的最大贡献者是因为其强大的人工智能和云计算增长",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/apple-rolls-ads-maps-advertising-094000810.html",
-          "title_en": "Apple rolls out ads for Maps as advertising revenue grows"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-alphabet-googl-became-largest-114059220.html",
+          "title_en": "Why Alphabet (GOOGL) Became the Largest Contributor to Renaissance Investment on Strong AI and Cloud Growth"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 04:21:38",
+          "title": "Meta在人工智能竞赛加剧之际，为高管加码股权期权",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/meta-boosts-top-executives-pay-113940153.html",
+          "title_en": "Meta boosts top executives' pay with stock options as AI race heats up"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 04:21:38",
+          "title": "谷歌将在印度标记认证投资应用",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/google-label-verified-investment-apps-121938652.html",
+          "title_en": "Google to label verified investment apps in India amid regulatory crackdown on fraud"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 04:21:38",
+          "title": "AI领域的爆发加速了中国芯片行业的增长，需求紧张供应链",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/ai-boom-accelerates-chinas-chip-122047760.html",
+          "title_en": "AI boom accelerates China's chip industry growth as demand strains supply chain"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "Meta在西德克萨斯州的AI数据中心投资额增至100亿美元，CNBC报道",
+          "time": "2026-03-27 04:21:38",
+          "title": "Meta 将德克萨斯州人工智能数据中心投资额提升至 1000 亿美元",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/meta-boosts-investment-in-west-texas-ai-data-center-to-10-billion-cnbc-reports-4583350",
-          "title_en": "Meta boosts investment in West Texas AI data center to $10 billion, CNBC reports"
+          "title_en": "Meta boosts Texas AI data center investment to $10 billion"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-27 04:10:06",
+          "title": "Meta 股票下跌近 8%，两场法庭败诉加剧扎克伯格近期的困境",
+          "summary": "Meta在涉及儿童安全的两个独立案件中遭遇了严厉的失败，这些失败凸显了公众对社交媒体行业的态度正在发生变化。",
+          "url": "https://www.cnbc.com/2026/03/26/meta-lawsuit-decision-zuckerberg-woes.html",
+          "title_en": "Meta's stock drops almost 8% as 2 court defeats add to Zuckerberg's recent woes",
+          "summary_en": "Meta suffered stinging defeats in two separate trials involving child safety that underscore shifting public sentiment toward the social media industry."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-27 04:04:47",
+          "title": "Meta在西德克萨斯州的AI数据中心投资增加了六倍，达到1000亿美元",
+          "summary": "Meta在得克萨斯州埃尔帕索的数据中心投资将从1.5亿美元增加到100亿美元，公司正在加快人工智能基础设施的支出。",
+          "url": "https://www.cnbc.com/2026/03/26/meta-to-spend-10-billion-on-ai-data-center-in-el-paso-1gw-by-2028.html",
+          "title_en": "Meta boosts investment in West Texas AI data center by over sixfold to $10 billion",
+          "summary_en": "Meta is increasing investment at a data center in El Paso, Texas, to $10 billion from $1.5 billion, as the company ramps up spending on AI infrastructure."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-27 04:00:21",
+          "title": "苹果扩大美国制造承诺，第三个品牌加入旗下",
+          "summary": "Qnity电子公司加入了Broadcom和Corning。",
+          "url": "https://www.cnbc.com/2026/03/26/apple-expands-us-manufacturing-pledge-pulling-in-a-third-portfolio-name.html",
+          "title_en": "Apple expands U.S. manufacturing pledge, putting a third portfolio name under its umbrella",
+          "summary_en": "Qnity Electronics joins Broadcom and Corning."
         },
         {
           "source": "MarketWatch-Top",
@@ -80,16 +137,6 @@
           "url": "https://www.marketwatch.com/story/americas-nuclear-renaissance-has-everything-except-uranium-welders-and-a-plan-0851782d?mod=mw_rss_topstories",
           "title_en": "Big Tech’s AI fantasy hits a nuclear wall: No fuel, no welders — and no Plan B",
           "summary_en": "Big Tech is buying small reactors. Washington is buying time. Russia and China? They rule the nuclear-power world."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-27 03:00:01",
-          "title": "Meta在西德克萨斯州的AI数据中心投资增加了六倍，达到1000亿美元",
-          "summary": "Meta在得克萨斯州埃尔帕索的数据中心投资将从1.5亿美元增加到100亿美元，公司正在加快人工智能基础设施的支出。",
-          "url": "https://www.cnbc.com/2026/03/26/meta-to-spend-10-billion-on-ai-data-center-in-el-paso-1gw-by-2028.html",
-          "title_en": "Meta boosts investment in West Texas AI data center by over sixfold to $10 billion",
-          "summary_en": "Meta is increasing investment at a data center in El Paso, Texas, to $10 billion from $1.5 billion, as the company ramps up spending on AI infrastructure."
         },
         {
           "source": "CNBC-Top",
@@ -144,62 +191,12 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-27 00:22:33",
-          "title": "Meta的法律案件失败进一步加剧了扎克伯格的困境，这被视为社交媒体的\"分水岭事件\"。",
-          "summary": "Meta在涉及儿童安全的两个独立案件中遭遇了严厉的失败，这些失败凸显了公众对社交媒体行业的态度正在发生变化。",
-          "url": "https://www.cnbc.com/2026/03/26/meta-lawsuit-decision-zuckerberg-woes.html",
-          "title_en": "Meta's court defeats add to Zuckerberg's recent woes, represent 'watershed event' for social media",
-          "summary_en": "Meta suffered stinging defeats in two separate trials involving child safety that underscore shifting public sentiment toward the social media industry."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
           "time": "2026-03-26 23:42:45",
           "title": "AI和机器人已经正式占领了互联网，报告指出。",
           "summary": "人工智能流量报告显示，机器人流量已经超过了人类流量，自动流量增长速度是人类流量的8倍。",
           "url": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
           "title_en": "AI and bots have officially taken over the internet, report finds",
           "summary_en": "HUMAN Security's State of AI Traffic report found that bots have eclipsed human users, with automated traffic growing eight times faster than human activity."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-26 20:46:42",
-          "title": "Meta最新裁决，空间股，预测市场立法等在Morning Squawk",
-          "summary": "今天市场投资者需要了解的五个关键信息。",
-          "url": "https://www.cnbc.com/2026/03/26/5-things-to-know-before-the-market-opens.html",
-          "title_en": "Meta's latest verdict, space stocks, prediction market legislation and more in Morning Squawk",
-          "summary_en": "Here are five key things investors need to know to start the trading day."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-26 20:11:06",
-          "title": "谷歌AI突破给内存芯片股价带来压力，涉及三星、微星等公司。",
-          "summary": "SK Hynix、Samsung和Micron的股票价格下跌，投资者担心未来可能需要的内存芯片数量会减少。",
-          "url": "https://www.cnbc.com/2026/03/26/google-ai-turboquant-memory-chip-stocks-samsung-micron.html",
-          "title_en": "A Google AI breakthrough is pressuring memory chip stocks from Samsung to Micron",
-          "summary_en": "SK Hynix, Samsung and Micron shares fell as investors fear fewer memory chips may be required in the future."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-26 04:11:04",
-          "title": "Arm跳涨16%，公司预计新芯片将带来收入风暴，这被认为是“重大转变”。",
-          "summary": "Arm表示，预计其新芯片将在2031年产生的收入比2025年4亿美元高六倍。",
-          "url": "https://www.cnbc.com/2026/03/25/arm-stock-chip-revenue-agi-cpu.html",
-          "title_en": "Arm jumps 16% as company expects revenue windfall from new chip, a 'significant shift'",
-          "summary_en": "Arm said it expects its new chip to generate six times more revenue in 2031 than the $4 billion it made in 2025."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-26 04:10:07",
-          "title": "洛杉矶陪审团裁定Meta、YouTube在社交媒体成瘾案中负有疏忽之责。",
-          "summary": "一场专注于Meta和YouTube的洛杉矶案件的陪审团做出了裁决，这场案件专家们称之为社交媒体的\"大烟草\"时刻。",
-          "url": "https://www.cnbc.com/2026/03/25/meta-youtube-los-angeles-california-verdict.html",
-          "title_en": "Jury in Los Angeles finds Meta, YouTube negligent in social media addiction trial",
-          "summary_en": "A jury reached a verdict in the LA trial focused on Meta and YouTube, a case that experts have characterized as social media's \"Big Tobacco\" moment."
         }
       ]
     },
@@ -210,47 +207,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "彼得·施菲夫(Peter Schiff)质疑特朗普的\"市场操纵\",但国债收益率暗示着更危险的事情",
+          "time": "2026-03-27 04:21:38",
+          "title": "美联储最新调查显示，美国公司财务长对经济前景的看法是坚实的，至少在战争爆发之前如此。",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/peter-schiff-questions-trump-market-094613377.html",
-          "title_en": "Peter Schiff Questions Trump 'Market Manipulation,' But Treasury Yields Hint At Something Even More Dangerous"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "今日最佳定期存款利率（2026年3月25日）（最高4.15%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-cd-rates-today-wednesday-march-25-2026-100000389.html",
-          "title_en": "Best CD rates today, March 25, 2026 (Earn up to 4.15% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "今天，3月25日，HELOC和房屋抵押贷款利率：Calm利率为您购物提供时间",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-march-25-2025-100000765.html",
-          "title_en": "HELOC and home equity loan rates today, March 25, 2026: Calm rates give you time to shop"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "今日最佳货币市场账户利率（2026年3月25日），最高可达4.01%年利率（APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-money-market-account-rates-today-wednesday-march-25-2026-100000424.html",
-          "title_en": "Best money market account rates today, March 25, 2026 (secure up to 4.01% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "截至2026年3月25日，最佳高收益储蓄利率（最高可达4%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-high-yield-savings-interest-rates-today-wednesday-march-25-2026-100000800.html",
-          "title_en": "Best high-yield savings interest rates today, March 25, 2026 (Earn up to 4% APY)"
+          "url": "https://finance.yahoo.com/economy/policy/articles/us-company-cfos-saw-solid-113158087.html",
+          "title_en": "US company CFOs saw a solid economic outlook, at least until war broke out, Fed survey shows"
         },
         {
           "source": "MarketWatch-Top",
@@ -291,44 +252,44 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "欧洲股市上涨，油价下跌，市场对特朗普谈判伊朗的言论表示欢迎。",
+          "time": "2026-03-27 04:21:38",
+          "title": "道琼斯指数期货上涨，石油价格暴跌，基于对伊朗和平协议的谨慎希望。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/stocks-bounce-oil-retreats-mideast-010442099.html",
-          "title_en": "European stocks rise, oil falls, markets cheered by Trump talk of Iran negotiation"
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-trump-iran-talking-sense/?src=A00220&yptr=yahoo",
+          "title_en": "Dow Jones Futures Rise, Oil Prices Tumble On Cautious Hopes For Iran Peace Deal"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
+          "time": "2026-03-27 04:21:38",
+          "title": "股市因伊朗和平谈判希望减弱而下滑；纳斯达克跌入调整区间",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-drop-oil-jumps-as-iran-peace-hopes-appear-to-moderate-4582320",
+          "title_en": "Stocks slip on fading hopes for Iran peace talks; Nasdaq hits correction territory"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 04:21:38",
           "title": "大型石油公司将从伊朗战争带来的能源价格飙升中获得数十亿美元的利益。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/big-oil-to-reap-billions-from-iran-war-windfall-after-a-month-of-soaring-energy-prices-4583356",
           "title_en": "Big Oil to reap billions from Iran war windfall after a month of soaring energy prices"
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "奥克西德نت尔的霍卢布（Hollub）将要交出权力，据说她是美国石油最有权力的女性。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/exclusiveoccidentals-hollub-us-oils-most-powerful-woman-prepares-to-hand-over-reins-sources-say-4583303",
-          "title_en": "Exclusive-Occidental’s Hollub, US oil’s most powerful woman, prepares to hand over reins, sources say"
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-27 03:32:00",
-          "title": "市场面临的巨大风险——除了通胀——是伊朗冲突持续不决",
-          "summary": "美国通胀加速的可能性正在不断增加，中东战争的持续导致全国汽油平均价格飙升至每加仑接近4美元。然而，美国消费者和投资者还应该感到担忧：潜在的衰退。",
-          "url": "https://www.marketwatch.com/story/heres-the-big-risk-facing-markets-besides-inflation-as-the-iran-conflict-drags-on-e9aa7253?mod=mw_rss_topstories",
-          "title_en": "Here’s the big risk facing markets — besides inflation — as the Iran conflict drags on",
-          "summary_en": "The chances of accelerating U.S. inflation are growing with each passing day as the war in the Middle East continues, with the average price of gasoline nationwide spiking to almost $4 a gallon as of Thursday. But there’s another thing American consumers and investors should feel nervous about: the prospect of deflation."
+          "time": "2026-03-27 04:17:08",
+          "title": "特朗普称伊朗允许10艘油轮通过霍尔木兹海峡，这是给美国的礼物。",
+          "summary": "特朗普称美国与伊朗进行了“非常重要”的谈判”，尽管伊朗方面否认了两国之间的直接谈判。",
+          "url": "https://www.cnbc.com/2026/03/26/trump-iran-war-oil-strait-of-hormuz.html",
+          "title_en": "Trump says Iran let 10 oil ships through Strait of Hormuz as a 'present' to U.S.",
+          "summary_en": "Trump said the U.S has \"very substantial talks going on with respect to Iran,\" though Tehran has denied direct talks have taken place."
         },
         {
           "source": "CNBC-World",
           "ticker": "RSS",
-          "time": "2026-03-27 03:27:24",
+          "time": "2026-03-27 04:08:29",
           "title": "美国国债收益率上涨，伊朗停火乐观情绪消退",
           "summary": "美债收益率周四上涨，投资者在美伊谈判进展不明朗的情况下左右观望。",
           "url": "https://www.cnbc.com/2026/03/26/treasury-yields-rise-uncertainty-ceasefire-talks.html",
@@ -338,12 +299,32 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-27 00:59:58",
-          "title": "特朗普称伊朗允许10艘油轮通过霍尔木兹海峡作为\"礼物\"给美国。",
-          "summary": "特朗普称美国与伊朗进行了“非常重要”的谈判”，尽管伊朗方面否认了两国之间的直接谈判。",
-          "url": "https://www.cnbc.com/2026/03/26/trump-iran-war-oil-strait-of-hormuz.html",
-          "title_en": "Trump says Iran let 10 oil ships through Strait of Hormuz as 'present' to U.S.",
-          "summary_en": "Trump said the U.S has \"very substantial talks going on with respect to Iran,\" though Tehran has denied direct talks have taken place."
+          "time": "2026-03-27 04:06:17",
+          "title": "石油价格上涨 因伊朗拒绝与美国直接谈判 尽管美国提出了审查提议",
+          "summary": "石油价格上涨，原因是伊朗表示不打算与美国进行直接谈判。",
+          "url": "https://www.cnbc.com/2026/03/26/oil-price-wti-brent-crude-iran-rejects-direct-us-trump-talks-hormuz.html",
+          "title_en": "Oil prices rise as Iran rejects direct U.S. talks despite proposal review",
+          "summary_en": "Oil prices rose after Iran signaled it had no intention of holding direct talks with the United States."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-27 04:03:00",
+          "title": "市场面临的巨大风险——除了通胀——是伊朗冲突持续不决",
+          "summary": "美国通胀加速的可能性正在不断增加，中东战争的持续导致全国汽油平均价格飙升至每加仑接近4美元。然而，美国消费者和投资者还应该感到担忧：潜在的衰退。",
+          "url": "https://www.marketwatch.com/story/heres-the-big-risk-facing-markets-besides-inflation-as-the-iran-conflict-drags-on-e9aa7253?mod=mw_rss_topstories",
+          "title_en": "Here’s the big risk facing markets — besides inflation — as the Iran conflict drags on",
+          "summary_en": "The chances of accelerating U.S. inflation are growing with each passing day as the war in the Middle East continues, with the average price of gasoline nationwide spiking to almost $4 a gallon as of Thursday. But there’s another thing American consumers and investors should feel nervous about: the prospect of deflation."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-27 03:59:00",
+          "title": "伊朗的“经济脉动”，哈尔格岛，可能成为下一个战场，因为特朗普的5天停火期将于周末结束。",
+          "summary": "美国总统唐纳德·特朗普对计划对伊朗能源基础设施发动五天的停火期将于周末结束，伊朗的关键石油出口中心哈尔格岛（Kharg Island）将成为下一个潜在目标。",
+          "url": "https://www.marketwatch.com/story/irans-economic-heartbeat-kharg-island-may-be-the-next-battleground-as-trumps-5-day-pause-ends-this-weekend-e8917c41?mod=mw_rss_topstories",
+          "title_en": "Iran’s ‘economic heartbeat’, Kharg Island, may be the next battleground as Trump’s 5-day pause ends this weekend",
+          "summary_en": "President Donald Trump’s five-day pause on a planned U.S. attack on Iran’s energy infrastructure ends this weekend — putting Iran’s critical oil-export hub, Kharg Island, in the spotlight as the next potential target."
         },
         {
           "source": "CNBC-World",
@@ -418,16 +399,6 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-26 21:57:14",
-          "title": "石油价格上涨3%，伊朗拒绝与美国直接谈判，尽管美国提出了审查提议。",
-          "summary": "石油价格上涨，原因是伊朗表示不打算与美国进行直接谈判。",
-          "url": "https://www.cnbc.com/2026/03/26/oil-price-wti-brent-crude-iran-rejects-direct-us-trump-talks-hormuz.html",
-          "title_en": "Oil prices rise 3% as Iran rejects direct U.S. talks despite proposal review",
-          "summary_en": "Oil prices rose after Iran signaled it had no intention of holding direct talks with the United States."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
           "time": "2026-03-26 20:41:07",
           "title": "特朗普想通过增加部队来逼迫伊朗参加和平谈判，但分析师认为这可能会反弹。",
           "summary": "特朗普威胁加强军事存在可能是为了压力伊朗谈判，但分析师说这场战斗可能比他预计的更为艰难。",
@@ -454,16 +425,6 @@
           "url": "https://www.cnbc.com/2026/03/26/iran-plans-tolls-on-ships-passing-through-strait-of-hormuz.html",
           "title_en": "Iran plans to charge ships for safe passage through Strait of Hormuz, report says",
           "summary_en": "Officials in Tehran have drafted legislation to create a toll system where ships pay for safe passage through the waterway, Iranian media reported."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-26 17:49:14",
-          "title": "阿拉伯半岛国家表示准备进行“自卫”行动，因为他们的立场在伊朗战争问题上发生了变化。",
-          "summary": "阿拉伯半岛国家在周四发表联合声明，谴责伊朗对他们的“明显”和“犯罪”的攻击。",
-          "url": "https://www.cnbc.com/2026/03/26/gulf-states-ready-for-self-defense-against-iran-as-war-stance-shifts.html",
-          "title_en": "Gulf states say they're ready for 'self defense' as stance shifts on Iran war",
-          "summary_en": "Gulf states have issued a joint statement on Thursday condemning Iran's \"blatant\" and \"criminal\" attacks against them."
         }
       ]
     },
@@ -490,25 +451,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "UPS在台湾开设100亿美元的物流中心以应对科技繁荣的需求",
+          "time": "2026-03-27 04:21:38",
+          "title": "两只超级增长股已从历史最高点下跌83%和92%，有望在2028年前后翻倍",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/ups-opens-100-million-taiwan-094857235.html",
-          "title_en": "UPS opens $100 million Taiwan logistics hub to meet tech boom demand"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-supercharged-growth-stocks-down-115600149.html",
+          "title_en": "2 Supercharged Growth Stocks Down 83% and 92% From Their All-Time Highs That Can Double by (or Before) 2028"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "康乃尔食品（Conagra Brands）2026年第三季度财报：预期",
+          "time": "2026-03-27 04:21:38",
+          "title": "CNBC主播对美国贸易逆差从1360亿美元降至290亿美元的降幅感到震惊——这是2009年以来最低水平。特朗普关于关税的说法是正确的吗？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/conagra-brands-q3-2026-earnings-095835925.html",
-          "title_en": "Conagra Brands’ Q3 2026 Earnings: What to Expect"
+          "url": "https://finance.yahoo.com/economy/policy/articles/cnbc-anchor-shocked-us-trade-120000909.html",
+          "title_en": "CNBC anchor shocked by US trade deficit drop from $136B to $29B — the lowest since 2009. Was Trump right about tariffs?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
+          "time": "2026-03-27 04:21:38",
+          "title": "Coinbase 股价暴跌，Clarity Act 在参议院遇到障碍；Coinbase 股票现在是卖出吗？",
+          "summary": "",
+          "url": "https://www.investors.com/research/coinbase-stock-coin-march-2026/?src=A00220&yptr=yahoo",
+          "title_en": "Coinbase Tumbles As Clarity Act Hits Snag In Senate; Is Coinbase Stock A Sell Now?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 04:21:38",
           "title": "股市可以承受回调",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46550_MarketOutlook_1774524185000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -517,25 +487,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "过去100年中，三大因素导致股市大幅下跌。它们都在发挥作用。",
+          "time": "2026-03-27 04:21:38",
+          "title": "三只科技ETF的2026预测：FTEC、IGV和XNTK的故事各不相同",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/3-factors-have-driven-double-digit-stock-market-losses-in-the-last-100-years-theyre-all-in-play-100007909.html",
-          "title_en": "3 factors have driven double-digit stock market losses in the last 100 years. They're all in play."
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-tech-etfs-2026-ftec-115713868.html",
+          "title_en": "3 Tech ETFs for 2026: FTEC, IGV, and XNTK Tell Very Different Stories"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "早间简报：3个因素导致了历史性的股市大幅下跌",
+          "time": "2026-03-27 04:21:38",
+          "title": "财报预览： Kinder Morgan 的财报将带来什么",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/morning-brief-3-factors-have-made-for-big-historical-stock-market-losses-100036294.html",
-          "title_en": "Morning Brief: 3 factors have made for big historical stock market losses"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-kinder-morgans-115023973.html",
+          "title_en": "Earnings Preview: What To Expect From Kinder Morgan's Report"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
+          "time": "2026-03-27 04:21:38",
+          "title": "Netflix (NFLX) 股价下跌，尽管公司表现出色并有着战略扩张计划。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-slid-despite-strong-115132005.html",
+          "title_en": "Netflix (NFLX) Slid Despite Strong Results and Strategic Expansion Plans"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 04:21:38",
+          "title": "尽管在VMware的市场份额方面取得了进展，Nutanix (NTNX)仍然低于预期。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-nutanix-inc-ntnx-underperformed-114802299.html",
+          "title_en": "Why Nutanix (NTNX) Underperformed Despite Gaining Market Share from VMware"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 04:21:38",
           "title": "中期看多。",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46549_TechnicalAnalysis_1774524030000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -544,88 +532,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "ACCA支持英国政府计划重塑延迟付款规则",
+          "time": "2026-03-27 04:21:38",
+          "title": "弗兰克林特默顿称，XRP的“转折点”将在企业开始使用它时到来，价格面临压力。",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/acca-backs-uk-government-plan-094845259.html",
-          "title_en": "ACCA backs UK Government’s plan to overhaul late payment rules"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-tipping-point-come-firms-120047127.html",
+          "title_en": "XRP’s ‘Tipping Point’ Will Come When Firms Start Using It, Says Franklin Templeton as Price Faces Pressure"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "亚特兰大一位54岁的单亲妈妈，根据前男友的不良建议，提取了8.5万美元的退休金。  The Ramsey Show说",
+          "time": "2026-03-27 04:21:38",
+          "title": "卡尔德尔健康（CAH）成为药品强度和利润率扩张的关键贡献者。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/atlanta-single-mom-54-drained-100000611.html",
-          "title_en": "Atlanta single mom, 54, drained $85K from her retirement based on ex-boyfriend’s bad advice. What The Ramsey Show says"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/cardinal-health-cah-emerged-key-114251700.html",
+          "title_en": "Cardinal Health (CAH) Emerged as a Key Contributor on Pharmaceutical Strength and Margin Expansion"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "银行美邦(Bank of America)下一季度财报将带来什么",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/expect-bank-americas-next-quarterly-100357473.html",
-          "title_en": "What to Expect From Bank of America's Next Quarterly Earnings Report"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "分析报告：太阳生命财务公司",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3394_AnalystReport_1774521714000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Sun Life Financial Inc"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "马可岛海滩 JW 丽水酒店将以 83.5 亿美元的交易价格出售。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jw-marriott-marco-island-beach-094906636.html",
-          "title_en": "JW Marriott Marco Island Beach Resort to sell in $835M deal"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "来自Delta Air Lines的下一份财报将带来什么",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-delta-air-lines-100834527.html",
-          "title_en": "Here's What to Expect From Delta Air Lines’ Next Earnings Report"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "Evercore ISI 将 CSX Corporation (CSX) 下调至中性评级自买超越评级",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-downgrades-csx-corporation-110200281.html",
-          "title_en": "Evercore ISI Downgrades CSX Corporation (CSX) to In Line from Outperform"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "EnQuest持有2026年产量预期 由于东南亚增长带动",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/enquest-holds-2026-output-view-093358900.html",
-          "title_en": "EnQuest Holds 2026 Output View as Southeast Asia Growth Builds"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "布罗德كم（AVGO）宣布推出飞行中网络加密解决方案",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-announces-launch-flight-110145426.html",
-          "title_en": "Broadcom (AVGO) Announces Launch of In-Flight Network Encryption Solution"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
+          "time": "2026-03-27 04:21:38",
           "title": "分析报告：Illumina Inc（ILMN）",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3660_AnalystReport_1774521714000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -634,20 +559,56 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "迪士尼（Disney）将在2024年第四季度结束时将其在Hulu的控制权转让给 Comcast（康卡格）",
+          "time": "2026-03-27 04:21:38",
+          "title": "道奇总部任命杰瑞·弗里曼为下任CEO",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/united-spirits-sell-royal-challengers-095531951.html",
-          "title_en": "United Spirits to sell Royal Challengers Bengaluru stake to consortium"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-appoints-jerry-fleeman-115345346.html",
+          "title_en": "Dollar General appoints Jerry Fleeman Jr as next CEO"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 03:51:12",
-          "title": "摩根士丹利提高CF Industries Holdings（CF）目标价至103美元，原价86美元。",
+          "time": "2026-03-27 04:21:38",
+          "title": "皇家加勒比集团(RCL)售出后，股价大涨，但增长前景减弱",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-raises-price-target-cf-110152743.html",
-          "title_en": "BofA Raises its Price Target on CF Industries Holdings (CF) to $103 from $86"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-group-rcl-sold-113802816.html",
+          "title_en": "Royal Caribbean Group (RCL) Sold After Strong Run as Growth Outlook Weakens"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 04:21:38",
+          "title": "GE Vernova 正在通过机构买盘增长",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-growing-institutional-buys-113047375.html",
+          "title_en": "GE Vernova Growing with Institutional Buys"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 04:21:38",
+          "title": "分析报告：太阳生命财务公司",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3394_AnalystReport_1774521714000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Sun Life Financial Inc"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 04:21:38",
+          "title": "本周三华尔街主要分析师研究报告：Arm Holdings、BorgWarner、Enterprise Products Partners、GM、Mondelez、ONEOK、Vertiv Holdings等",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wednesday-top-wall-street-analyst-115309293.html",
+          "title_en": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Arm Holdings, BorgWarner, Enterprise Products Partners, GM, Mondelez, ONEOK, Vertiv Holdings, and More"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 04:21:38",
+          "title": "Xanadu即将在2026年上市，量子计算股价持续下滑",
+          "summary": "",
+          "url": "https://www.investors.com/news/technology/quantum-computing-stocks-xanadu-market-debut-spac-merger/?src=A00220&yptr=yahoo",
+          "title_en": "Xanadu Set For Market Debut As Quantum Computing Stocks Struggle In 2026"
         }
       ]
     }
