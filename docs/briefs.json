@@ -1,6 +1,6 @@
 {
   "date": "2026.03.27",
-  "generatedAtBJT": "2026-03-27 06:54:06",
+  "generatedAtBJT": "2026-03-27 07:24:32",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-27 06:54:06",
+          "time": "2026-03-27 07:24:32",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动",
+          "summary": "- 主导因素：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Stocks Climb on Hopes of US-Iran Diplomacy…\n- 宏观/Fed线索：Harley-Davidson Slashing Jobs as Tariffs Erase Profits…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Crude Oil Prices Fall on the Outlook for a US-Iran Truce…\n- 宏观/Fed线索：Tom Lee's Ethereum Treasury Firm BitMine Launches 'Made in America' Stak…"
         }
       ]
     },
@@ -29,16 +29,61 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
-          "title": "OpenAI将微软标记为其IPO前文件中的“主要风险”。",
+          "time": "2026-03-27 07:24:26",
+          "title": "Meta裁员报告即将到来，员工正在远程工作",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/openai-flags-microsoft-top-risk-152100320.html",
-          "title_en": "OpenAI Flags Microsoft as ‘Top Risk’ in Pre-IPO Document"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-layoffs-reportedly-imminent-staff-155038885.html",
+          "title_en": "Meta layoffs reportedly imminent as staff work from home"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
+          "time": "2026-03-27 07:24:26",
+          "title": "微软股票现在是否买入？数据告诉我们答案。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-buy-now-heres-155000676.html",
+          "title_en": "Is Microsoft Stock a Buy Right Now? Here's What the Data Says."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 07:24:26",
+          "title": "Salesforce (CRM) 因AI担忧下滑，但仍是企业关键平台",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-declined-ai-concerns-153720254.html",
+          "title_en": "Salesforce (CRM) Declined on AI Concerns but Remains a Mission-Critical Enterprise Platform"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 07:24:26",
+          "title": "ServiceNow (NOW) 因AI恐惧而大幅下跌，但其长期竞争优势仍然存在。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-now-sold-off-ai-153340307.html",
+          "title_en": "ServiceNow (NOW) Sold Off on AI Fears but Long-Term Competitive Edge Remains Intact"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 07:24:26",
+          "title": "强劲的业绩和围绕AI的投资者情绪改善使 Alphabet (GOOG) 在 Q4 获得提升",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/strong-results-improved-investor-sentiment-152718329.html",
+          "title_en": "Strong Results and Improved Investor Sentiment Around AI Lifted Alphabet (GOOG) in Q4"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 07:24:26",
+          "title": "Meta计划大规模裁员数百人，原因是其在人工智能领域的投资过于昂贵。",
+          "summary": "",
+          "url": "https://www.investors.com/news/technology/meta-stock-layoffs-reality-labs-metaverse/?src=A00220&yptr=yahoo",
+          "title_en": "Meta Set To Lay Off 'Hundreds' Amid Expensive AI Push: Report"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 07:24:26",
           "title": "微软 (MSFT) 股价下跌，投资者担心指导方针和资本支出强度。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-declines-amid-investor-151025673.html",
@@ -47,25 +92,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
-          "title": "NVIDIA股票已经取得了巨大的进展。这只熊式卖空策略如果派对结束了，就会给你带来收益。",
+          "time": "2026-03-27 07:24:26",
+          "title": "新一代专门化云服务商进入人工智能基础设施领域",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/nvidia-stock-had-monster-run-145306709.html",
-          "title_en": "Nvidia Stock Has Had a Monster Run. This Bear Call Strategy Pays You If the Party Is Over."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
-          "title": "强劲的业绩和围绕AI的投资者情绪改善使 Alphabet (GOOG) 在 Q4 获得提升",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/strong-results-improved-investor-sentiment-152718329.html",
-          "title_en": "Strong Results and Improved Investor Sentiment Around AI Lifted Alphabet (GOOG) in Q4"
+          "url": "https://finance.yahoo.com/sectors/technology/articles/neoclouds-class-specialised-cloud-providers-155543787.html",
+          "title_en": "Neoclouds: new class of specialised cloud providers entering AI infrastructure scene"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
+          "time": "2026-03-27 07:24:26",
           "title": "OpenAI的美国广告试点在六周内达到每年化$1000万美元的年化收入",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/openais-us-ad-pilot-exceeds-100-million-in-annualized-revenue-in-six-weeks-4583934",
@@ -74,11 +110,21 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
+          "time": "2026-03-27 07:24:26",
           "title": "美国法庭对Meta和谷歌的裁决，预示着技术责任保护壁垒的斗争即将开始。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-jury-verdicts-against-meta-google-tee-up-fight-over-tech-liability-shield-4581778",
           "title_en": "US jury verdicts against Meta, Google tee up fight over tech liability shield"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-27 07:13:51",
+          "title": "美国航空与星链和亚马逊进行Wi-Fi升级谈判，考虑恢复座位背后的屏幕",
+          "summary": "美国航空公司正在考虑对其在飞行中的娱乐和互联网服务进行大幅升级，包括可能恢复座位背后的屏幕。",
+          "url": "https://www.cnbc.com/2026/03/26/american-airlines-starlink-amazon-inflight-entertainment-seatback-screens.html",
+          "title_en": "American Airlines in talks with Starlink and Amazon for Wi-Fi upgrade, weighs return of seatback screens",
+          "summary_en": "American Airlines is considering a big upgrade to its in-flight entertainment and internet providers, including potentially bringing back seatback screens."
         },
         {
           "source": "CNBC-Tech",
@@ -93,16 +139,6 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-03-27 06:28:10",
-          "title": "美国航空与星链、亚马逊举行会谈，考虑升级Wi-Fi，重新引入座位背后的屏幕。",
-          "summary": "美国航空公司正在考虑对其在飞行中的娱乐和互联网服务进行大幅升级，包括可能恢复座位背后的屏幕。",
-          "url": "https://www.cnbc.com/2026/03/26/american-airlines-starlink-amazon-inflight-entertainment-seatback-screens.html",
-          "title_en": "American Airlines in talks with Starlink, Amazon for Wi-Fi upgrade, weighs return of seatback screens",
-          "summary_en": "American Airlines is considering a big upgrade to its in-flight entertainment and internet providers, including potentially bringing back seatback screens."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
           "time": "2026-03-27 06:18:00",
           "title": "Meta在西德克萨斯州的AI数据中心投资增加了六倍，达到1000亿美元",
           "summary": "Meta在得克萨斯州埃尔帕索的数据中心投资将从1.5亿美元增加到100亿美元，公司正在加快人工智能基础设施的支出。",
@@ -111,7 +147,7 @@
           "summary_en": "Meta is increasing investment at a data center in El Paso, Texas, to $10 billion from $1.5 billion, as the company ramps up spending on AI infrastructure."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-27 06:01:53",
           "title": "戴维·萨克斯称，他担任特朗普的加密货币和人工智能顾问的时间已经结束。",
@@ -159,46 +195,6 @@
           "url": "https://www.cnbc.com/2026/03/26/why-memory-chip-stocks-are-getting-hit-hard-for-the-second-day-in-a-row.html",
           "title_en": "Why memory chip stocks are getting hit hard for the second day in a row",
           "summary_en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-27 02:50:37",
-          "title": "克拉默称元宇宙不是新烟草，警告不要因为社交媒体判决而卖出",
-          "summary": "吉姆·克拉默（Jim Cramer）对Meta的业绩下滑表示不在乎，并且考虑是否购买更多的股票。",
-          "url": "https://www.cnbc.com/2026/03/26/cramer-meta-is-not-the-new-tobacco-warns-against-selling-over-court-rulings.html",
-          "title_en": "Cramer says Meta is not the new tobacco, warns against selling over social media court rulings",
-          "summary_en": "Jim Cramer dismisses Meta's underperformance amid child safety litigation — and instead, considers whether to buy more shares."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-27 01:13:24",
-          "title": "近期多家公司的CEO宣布离职，称其决策中考虑了人工智能的因素。",
-          "summary": "可口可乐CEO詹姆斯·昆西(James Quincey)和前沃尔玛CEO道格·麦克米伦(Doug McMillon)告诉CNBC，他们离职的原因之一是人工智能的下一波浪潮。",
-          "url": "https://www.cnbc.com/2026/03/26/coca-cola-james-quincey-walmart-doug-mcmillon-artificial-intelligence-step-down.html",
-          "title_en": "Major outgoing CEOs are citing AI as a factor in their decisions to step down",
-          "summary_en": "Coca-Cola CEO James Quincey and former Walmart CEO Doug McMillon have told CNBC that the next wave of artificial intelligence is a reason for their departures."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-27 00:29:46",
-          "title": "苹果扩大美国制造计划，新增四家合作伙伴",
-          "summary": "苹果公司将Bosch、Cirrus Logic、TDK和Qnity Electronics加入其美国制造计划，到2030年将投资400亿美元。",
-          "url": "https://www.cnbc.com/2026/03/26/apple-american-manufacturing-program-trump.html",
-          "title_en": "Apple expands American manufacturing program with four new partners",
-          "summary_en": "Apple is adding Bosch, Cirrus Logic, TDK, and Qnity Electronics to its American Manufacturing Program, committing $400 million through 2030."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-26 23:42:45",
-          "title": "AI和机器人已经正式占领了互联网，报告指出。",
-          "summary": "人工智能流量报告显示，机器人流量已经超过了人类流量，自动流量增长速度是人类流量的8倍。",
-          "url": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
-          "title_en": "AI and bots have officially taken over the internet, report finds",
-          "summary_en": "HUMAN Security's State of AI Traffic report found that bots have eclipsed human users, with automated traffic growing eight times faster than human activity."
         }
       ]
     },
@@ -209,11 +205,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
+          "time": "2026-03-27 07:24:26",
+          "title": "托马斯·李的以太坊财务公司BitMine推出\"美国制造\"质押网络",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/tom-lees-ethereum-treasury-firm-155149160.html",
+          "title_en": "Tom Lee's Ethereum Treasury Firm BitMine Launches 'Made in America' Staking Network"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 07:24:26",
           "title": "哈雷戴维森大幅裁员，关税消灭利润",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/harley-davidson-slashing-jobs-tariffs-151500928.html",
           "title_en": "Harley-Davidson Slashing Jobs as Tariffs Erase Profits"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 07:24:26",
+          "title": "拥有优异信用记录是找到最佳信用卡利率的关键。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-interest-rates-193519877.html",
+          "title_en": "How to find the best credit card interest rates: Excellent credit is key"
         },
         {
           "source": "CNBC-Top",
@@ -244,7 +258,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
+          "time": "2026-03-27 07:24:26",
+          "title": "原油价格因美伊和解前景而下跌",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-fall-outlook-154623902.html",
+          "title_en": "Crude Oil Prices Fall on the Outlook for a US-Iran Truce"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 07:24:26",
           "title": "美国股市上涨，寄望于美伊外交",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-climb-hopes-us-iran-151926940.html",
@@ -409,16 +432,6 @@
           "url": "https://www.cnbc.com/2026/03/26/iran-plans-tolls-on-ships-passing-through-strait-of-hormuz.html",
           "title_en": "Iran plans to charge ships for safe passage through Strait of Hormuz, report says",
           "summary_en": "Officials in Tehran have drafted legislation to create a toll system where ships pay for safe passage through the waterway, Iranian media reported."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-26 17:49:14",
-          "title": "阿拉伯半岛国家表示准备进行“自卫”行动，因为他们的立场在伊朗战争问题上发生了变化。",
-          "summary": "阿拉伯半岛国家在周四发表联合声明，谴责伊朗对他们的“明显”和“犯罪”的攻击。",
-          "url": "https://www.cnbc.com/2026/03/26/gulf-states-ready-for-self-defense-against-iran-as-war-stance-shifts.html",
-          "title_en": "Gulf states say they're ready for 'self defense' as stance shifts on Iran war",
-          "summary_en": "Gulf states have issued a joint statement on Thursday condemning Iran's \"blatant\" and \"criminal\" attacks against them."
         }
       ]
     },
@@ -426,6 +439,15 @@
       "name": "特斯拉链",
       "badge": "TSLA chain",
       "items": [
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 07:24:26",
+          "title": "埃隆·马斯克刚刚宣布了一项“巨人任务”对特斯拉。TSLA 股票能否存活和茁壮成长？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-just-announced-herculean-161044939.html",
+          "title_en": "Elon Musk Just Announced a ‘Herculean Task’ for Tesla. Can TSLA Stock Survive and Thrive?"
+        },
         {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
@@ -455,25 +477,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
-          "title": "汽油价格上涨可能是好消息对于电动汽车",
+          "time": "2026-03-27 07:24:26",
+          "title": "美国法院维持了对斯蒂夫尔（Stifel）1330万美元的FINRA仲裁奖金",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/article/rising-gas-prices-could-be-good-news-for-evs-151643093.html",
-          "title_en": "Rising gas prices could be good news for EVs"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/court-upholds-133m-finra-award-155205829.html",
+          "title_en": "Court Upholds $133M FINRA Award Against Stifel"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
-          "title": "CoreWeave (CRWV) 下跌，尽管其收入增长超过40%",
+          "time": "2026-03-27 07:24:26",
+          "title": "房地产复苏可能使Floor & Decor Holdings (FND)大幅反弹",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-fell-despite-more-151502543.html",
-          "title_en": "CoreWeave (CRWV) Fell Despite More Than 40% Revenue Growth"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-floor-decor-holdings-fnd-155413564.html",
+          "title_en": "Why Floor & Decor Holdings (FND) Could Rebound Sharply with Housing Recovery"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
+          "time": "2026-03-27 07:24:26",
+          "title": "阿尔伯马勒公司（ALB）被视为锂市场的高回报潜力股",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/albemarle-corporation-alb-seen-high-154901632.html",
+          "title_en": "Albemarle Corporation (ALB) Seen as a High-Upside Bet in the Lithium Market"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 07:24:26",
+          "title": "黄金股价格稳定创造了购买时机，低于市场价格的机会",
+          "summary": "",
+          "url": "https://www.investors.com/research/options/gold-stock-agnico-eagle-mines-aem-options-trade-markets-cash-secured-put/?src=A00220&yptr=yahoo",
+          "title_en": "Gold Stock Stabilization Creates Opening For Ownership At A Discount"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 07:24:26",
           "title": "股市可以承受回调",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46550_MarketOutlook_1774524185000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -482,34 +522,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
-          "title": "自由港和新蒙特矿业股价上涨。为什么矿业股价上涨。",
+          "time": "2026-03-27 07:24:26",
+          "title": "KKR & Co. (KKR) 可能从替代资产周期性上升中受益",
           "summary": "",
-          "url": "https://www.barrons.com/articles/gold-silver-price-mining-stocks-freeport-newmont-d6ca3ea4?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Freeport and Newmont Get a Boost. Why Mining Stocks are Rising."
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-kkr-co-kkr-could-154423512.html",
+          "title_en": "Why KKR & Co. (KKR) Could Benefit from a Cyclical Upswing in Alternative Assets"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
-          "title": "美国银行认为甲骨文股价可以从当前水平上涨超过30%。",
+          "time": "2026-03-27 07:24:26",
+          "title": "Echo Global Logistics扩展平台通过收购ITS",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-oracle-stock-151249136.html",
-          "title_en": "Bank of America Says Oracle Stock Can Gain More Than 30% from Here. Why?"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/echo-global-logistics-expands-platform-155830454.html",
+          "title_en": "Echo Global Logistics expands platform with ITS acquisition"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
-          "title": "比特币徘徊在7.1万美元左右，伯恩斯坦(Bernstein)分析师称其“看起来已经触底”。",
+          "time": "2026-03-27 07:24:26",
+          "title": "芝加哥的预售房源争议受Zillow Preview影响",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/bitcoin-hovers-around-71000-as-bernstein-analysts-say-token-looks-bottomed-151108043.html",
-          "title_en": "Bitcoin hovers around $71,000 as Bernstein analysts say token 'looks bottomed'"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zillow-preview-affects-chicago-battle-160000570.html",
+          "title_en": "How Zillow Preview affects Chicago’s battle over pre-market inventory"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
+          "time": "2026-03-27 07:24:26",
+          "title": "这不是你父亲时代的黄金市场了",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/not-father-gold-market-anymore-154016979.html",
+          "title_en": "This Is Not Your Father’s Gold Market Anymore"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 07:24:26",
           "title": "中期看多。",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46549_TechnicalAnalysis_1774524030000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -518,52 +567,52 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
-          "title": "Alusid CEO谈Tegelgroep Nederland分销协议和扩大欧洲足迹",
+          "time": "2026-03-27 07:24:26",
+          "title": "布莱克斯通（BX）因私人信贷担忧而下滑，尽管长期前景良好。",
           "summary": "",
-          "url": "https://finance.yahoo.com/video/alusid-ceo-tegelgroep-nederland-distribution-151959734.html",
-          "title_en": "Alusid CEO on Tegelgroep Nederland distribution deal and growing European footprint"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/blackstone-bx-slipped-amid-private-154015523.html",
+          "title_en": "Blackstone (BX) Slipped Amid Private Credit Concerns Despite Strong Long-Term Outlook"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
-          "title": "3个被忽视的股息贵族股，股价翻倍近200%",
+          "time": "2026-03-27 07:24:26",
+          "title": "利프트推出司机救助计划随着美国汽油价格上涨",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-aristocrat-stocks-200-145415020.html",
-          "title_en": "3 Dividend Aristocrat Stocks Up 200% That Nobody Is Talking About"
+          "url": "https://finance.yahoo.com/sectors/energy/articles/lyft-rolls-driver-relief-program-155531401.html",
+          "title_en": "Lyft rolls out driver-relief program as US fuel prices climb"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
-          "title": "Citi将Constellation Brands（STZ）的评级从中性改为买入。",
+          "time": "2026-03-27 07:24:26",
+          "title": "Coinbase整合Chainlink，提供机构交易数据在链上",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/citi-updates-constellation-brands-stz-145227380.html",
-          "title_en": "Citi Updates Constellation Brands (STZ) to Buy From Neutral – Here’s Why"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-integrates-chainlink-deliver-institutional-153700667.html",
+          "title_en": "Coinbase Integrates Chainlink to Deliver Institutional Trading Data Onchain"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
-          "title": "摩根士丹利降低了Lamb Weston Holdings（LW）的目标价至49美元，原价53美元。",
+          "time": "2026-03-27 07:24:26",
+          "title": "分析报告：太阳生命财务公司",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-cuts-pt-lamb-weston-145229105.html",
-          "title_en": "BofA Cuts PT on Lamb Weston Holdings (LW) to $49 From $53 – Here’s Why"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3394_AnalystReport_1774521714000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Sun Life Financial Inc"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
-          "title": "ImmunityBio Inc. (IBRX) 宣布ANKTIVA®在中国澳门特别行政区获得批准",
+          "time": "2026-03-27 07:24:26",
+          "title": "全球各地的工人都感到他们的工作安全性很差。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/immunitybio-inc-ibrx-announces-approval-145226136.html",
-          "title_en": "ImmunityBio Inc. (IBRX) Announces Approval for ANKTIVA® in Macau SAR, China"
+          "url": "https://finance.yahoo.com/news/workers-everywhere-feel-very-bad-about-their-job-security-160224025.html",
+          "title_en": "Workers everywhere feel very bad about their job security"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
+          "time": "2026-03-27 07:24:26",
           "title": "分析报告：Illumina Inc（ILMN）",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3660_AnalystReport_1774521714000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -572,47 +621,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
-          "title": "GLD资产规模首次突破1800亿美元。实际上，以下ETF让投资者赚了更多钱。",
+          "time": "2026-03-27 07:24:26",
+          "title": "Ares资本减少回购，私人信贷压力加大",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/gld-just-hit-180-billion-151824478.html",
-          "title_en": "GLD Just Hit $180 Billion in Assets. Here Is the ETF That Actually Made Investors More Money"
+          "url": "https://www.barrons.com/articles/ares-management-private-credit-redemptions-strategic-income-fund-f1b28286?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Ares Caps Redemptions as Private Credit Pressures Build"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
-          "title": "BTG Pactual首次覆盖Pilgrim's Pride Corporation（PPC）股票，给予中性评级。",
+          "time": "2026-03-27 07:24:26",
+          "title": "汽油价格上涨可能是好消息对于电动汽车",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/btg-pactual-initiates-coverage-pilgrim-145303014.html",
-          "title_en": "BTG Pactual Initiates Coverage of Pilgrim’s Pride Corporation (PPC) With a Neutral Rating – Here’s Why"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
-          "title": "渣打银行降低SailPoint, Inc. (SAIL)目标价至16美元，从24美元",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-cuts-pt-sailpoint-inc-145224525.html",
-          "title_en": "Scotiabank Cuts PT on SailPoint, Inc. (SAIL) to $16 From $24 – Here’s Why"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
-          "title": "Ingridion Incorporated（INGR）获得Benchmark的买入评级。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ingredion-incorporated-ingr-gets-initiated-145301921.html",
-          "title_en": "Ingredion Incorporated (INGR) Gets Initiated With a Buy Rating by Benchmark"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 06:54:01",
-          "title": "奥达斯公司（ONDS）将收购世界观企业（World View Enterprises, Inc.）。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-inc-onds-acquire-world-145221285.html",
-          "title_en": "Ondas Inc. (ONDS) to Acquire World View Enterprises, Inc."
+          "url": "https://finance.yahoo.com/economy/policy/article/rising-gas-prices-could-be-good-news-for-evs-151643093.html",
+          "title_en": "Rising gas prices could be good news for EVs"
         }
       ]
     }
