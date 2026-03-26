@@ -94,7 +94,7 @@ echo "   总板块数：$SECTION_COUNT"
 
 for SECTION in "指数/科技" "能源/地缘" "美联储/政策"; do
   if echo "$PAGE_CONTENT" | grep -q "$SECTION"; then
-    COUNT=$(echo "$PAGE_CONTENT" | grep -A 1 "$SECTION" | grep -oP 'badge">\K\d+' | head -1 || echo "0")
+    COUNT=$(echo "$PAGE_CONTENT" | grep -A 1 "$SECTION" | grep -o 'badge">[0-9]*' | grep -o '[0-9]*' | head -1 || echo "0")
     echo "   ✅ $SECTION ($COUNT 条)"
   else
     echo "   ⚠️  $SECTION（未找到）"
