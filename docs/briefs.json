@@ -1,6 +1,6 @@
 {
   "date": "2026.03.26",
-  "generatedAtBJT": "2026-03-26 16:00:31",
+  "generatedAtBJT": "2026-03-26 16:20:48",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-26 16:00:31",
+          "time": "2026-03-26 16:20:48",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期利率 + 原油/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖",
+          "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→NQ/ES承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Why an Oil Export Ban Could Backfire on Fuel Prices…\n- 宏观/Fed线索：Treasury Yields Jump After Weak 2-Year Note Auction…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：As Trump Signals De-Escalation in the Iran War, Should You Buy Nvidia St…\n- 宏观/Fed线索：Belgian drugmaker UCB to invest $2B in suburban Atlanta plant, adding 33…"
         }
       ]
     },
@@ -29,20 +29,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "即将进入四月，以下三家人工智能股看起来很有吸引力。\n\n1. NVIDIA (NVDA) \n   NVIDIA 是人工智能领域的领先者，公司的计算机视觉和深度学习技术广泛应用于自驾车、医疗和游戏等领域。NVDA 股价近期下跌，提供了一个买入的机会。\n\n2. C3.ai (AI) \n   C3.ai 是人工智能领域的领先者，公司的 AI 平台帮助企业解决复杂问题。AI 股价近期下跌，提供了一个买入的机会。\n\n3. Alphabet (GOOGL) \n   Alphabet 是 Alphabet 的母公司，GOOGL 股价近期下跌，提供了一个买入的机会。GOOGL 的人工智能技术广泛应用于 Google 的产品和服务。",
+          "time": "2026-03-26 16:20:43",
+          "title": "BigBear.ai与SoundHound AI：一家存活了AI大幅下跌，另一家没那么幸运。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-artificial-intelligence-ai-stocks-200200891.html",
-          "title_en": "3 Artificial Intelligence (AI) Stocks That Look Like Strong Buys Heading Into April"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bigbear-ai-vs-soundhound-ai-201648337.html",
+          "title_en": "BigBear.ai vs. SoundHound AI: One Is Surviving the AI Sell-Off. The Other Isn't."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
+          "time": "2026-03-26 16:20:43",
           "title": "一家值得投资的公司：在NVIDIA加重铜投资时的首选",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/1-top-stock-buy-nvidia-202634819.html",
           "title_en": "1 Top Stock to Buy as Nvidia Doubles Down on Copper"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 16:20:43",
+          "title": "C3.ai的执行董事长出售价值440万美元的股票。对投资者来说，这意味着什么。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/c3-ais-executive-chairman-dumped-202055923.html",
+          "title_en": "C3.ai's Executive Chairman Dumped Shares Worth $4.4 Million. Here's What That Means for Investors."
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 16:20:43",
+          "title": "摩根士丹利称欧洲芯片股有望乘AI光学热潮东风",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/european-chip-stocks-poised-to-ride-ai-optical-boom-morgan-stanley-says-93CH-4581536",
+          "title_en": "European Chip Stocks Poised to Ride AI Optical Boom, Morgan Stanley Says"
         },
         {
           "source": "MarketWatch-Top",
@@ -85,7 +103,7 @@
           "summary_en": "A jury reached a verdict in the LA trial focused on Meta and YouTube, a case that experts have characterized as social media's \"Big Tobacco\" moment."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-03-26 03:11:20",
           "title": "新墨西哥州寻求修改Meta的平台规则，理由是陪审团裁定该公司有责任。",
@@ -193,11 +211,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "国债收益率大幅上涨，受两年期国债拍卖不佳影响。",
+          "time": "2026-03-26 16:20:43",
+          "title": "比利时制药公司UCB将在亚特兰大郊区投资20亿美元，新增330个工作岗位。",
           "summary": "",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-24-2026/card/treasury-yields-jump-after-weak-two-year-note-auction-lx8Q9lv7jX4XkOnLhVjv?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Treasury Yields Jump After Weak 2-Year Note Auction"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/belgian-drugmaker-ucb-invest-2b-210224070.html",
+          "title_en": "Belgian drugmaker UCB to invest $2B in suburban Atlanta plant, adding 330 jobs"
         },
         {
           "source": "MarketWatch-Top",
@@ -258,25 +276,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "美国能源信息署（EIA）预计，2024年美国石油生产将达到历史新高。然而，美国国会正在考虑对美国石油出口的禁令。该禁令旨在降低国内汽油价格，但专家认为，这一措施可能会产生相反的效果。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/why-oil-export-ban-could-195927648.html",
-          "title_en": "Why an Oil Export Ban Could Backfire on Fuel Prices"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "石油巨头们悄悄地在利比亚再次下大注",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/why-oil-majors-quietly-betting-200000084.html",
-          "title_en": "Why Oil Majors Are Quietly Betting Big on Libya Again"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
+          "time": "2026-03-26 16:20:43",
           "title": "特朗普发信减少伊朗战争的紧张局势，是否应该买入Nvidia股票？",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/trump-signals-escalation-iran-war-203235477.html",
@@ -285,11 +285,30 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
+          "time": "2026-03-26 16:20:43",
           "title": "股市收盘低迷，伊朗战争推升原油价格和债券收益率",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-iran-war-204322105.html",
           "title_en": "Stocks Settle Lower as Iran War Boosts Crude Oil and Bond Yields"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 16:20:43",
+          "title": "资源战争已经到来，石油是首个受害者",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/wars-oil-first-casualty-210000764.html",
+          "title_en": "Resource Wars Are Here and Oil Is the First Casualty"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-26 16:19:57",
+          "title": "欧洲市场开盘低迷，伊朗和平谈判不确定性影响。",
+          "summary": "欧洲股市周四开盘时处于负 Territory，投资者正在权衡中东和平谈判的模糊信息。",
+          "url": "https://www.cnbc.com/2026/03/26/european-markets-stoxx-600-ftse-dax-cac-iran-war-news-oil-prices.html",
+          "title_en": "European markets open lower amid Iran peace talks uncertainty",
+          "summary_en": "European stocks opened in negative territory on Thursday as investors weigh mixed messages on the status of Middle East peace talks."
         },
         {
           "source": "CNBC-Top",
@@ -330,16 +349,6 @@
           "url": "https://www.cnbc.com/2026/03/26/trump-iran-peace-talks-troops-ceasefire-forever-war.html",
           "title_en": "Trump wants to squeeze Iran into peace talks with more troops — but it may backfire, analysts say",
           "summary_en": "Trump's threats to ramp up military presence may be to pressure Iran to negotiate but the battle may be harder than he calculated, say analysts."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-26 14:13:33",
-          "title": "欧洲市场因伊朗和平谈判不确定性而预计将开盘低迷。",
-          "summary": "欧洲股市预计将在周四以负 Territory 开盘，因为投资者在中东和平谈判的状态上权衡了混合信息。",
-          "url": "https://www.cnbc.com/2026/03/26/european-markets-stoxx-600-ftse-dax-cac-iran-war-news-oil-prices.html",
-          "title_en": "European markets head for lower open amid Iran peace talks uncertainty",
-          "summary_en": "European stocks are expected to open in negative territory on Thursday as investors weigh mixed messages on the status of Middle East peace talks."
         },
         {
           "source": "CNBC-Top",
@@ -436,7 +445,17 @@
     {
       "name": "特斯拉链",
       "badge": "TSLA chain",
-      "items": []
+      "items": [
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 16:20:43",
+          "title": "特斯拉欧洲销量终于增加。股价上涨。",
+          "summary": "",
+          "url": "https://www.barrons.com/articles/tesla-stock-price-europe-ev-sales-9775dfdb?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Tesla’s European Sales Finally Increase. The Stock Rises."
+        }
+      ]
     },
     {
       "name": "其他",
@@ -445,151 +464,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "欧罗巴世界公司（EEFT）是否是一个现在值得购买的股票？",
+          "time": "2026-03-26 16:20:43",
+          "title": "长期增长的顶级宽利润股：买入NVDA",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/euronet-worldwide-inc-eeft-good-200634673.html",
-          "title_en": "Is Euronet Worldwide, Inc. (EEFT) A Good Stock To Buy Now?"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/top-wide-moat-stock-buy-201730021.html",
+          "title_en": "Here’s the Top Wide Moat Stock to Buy for Long Term Growth"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "Fiserv (FISV) 股票是否现在是一个好时机购买？",
+          "time": "2026-03-26 16:20:43",
+          "title": "瓦勒罗能源公司（VLO）是否是现在买入的好股票？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fiserv-inc-fisv-good-stock-200725058.html",
-          "title_en": "Is Fiserv, Inc. (FISV) A Good Stock To Buy Now?"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/valero-energy-corporation-vlo-good-202051990.html",
+          "title_en": "Is Valero Energy Corporation (VLO) A Good Stock To Buy Now?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "美微（Micron）股价下跌，竞争对手SK Hynix加大投资",
+          "time": "2026-03-26 16:20:43",
+          "title": "Riot Platforms (RIOT) 是一个好股票吗？",
           "summary": "",
-          "url": "https://www.investors.com/news/technology/micron-stock-mu-sk-hynix-ups-investments/?src=A00220&yptr=yahoo",
-          "title_en": "Micron Stock Falls As Rival SK Hynix Ups Investments"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/riot-platforms-inc-riot-good-202027222.html",
+          "title_en": "Is Riot Platforms, Inc. (RIOT) A Good Stock To Buy Now?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "债券市场即将达到5%的阈值，但这次有一个关键的区别",
-          "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/bond-market-nearing-5-threshold-200000503.html",
-          "title_en": "The bond market is nearing a 5% threshold — but there’s a crucial difference this time"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "荷兰兄弟公司（BROS）是否现在是一个好股票？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dutch-bros-inc-bros-good-200810148.html",
-          "title_en": "Is Dutch Bros Inc. (BROS) A Good Stock To Buy Now?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "检查点软件技术有限公司（CHKP）是否是现在买入的好股票？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/check-point-software-technologies-ltd-200957030.html",
-          "title_en": "Is Check Point Software Technologies Ltd. (CHKP) A Good Stock To Buy Now?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "CBIZ, Inc. (CBZ) 是一个好股票吗？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cbiz-inc-cbz-good-stock-201030209.html",
-          "title_en": "Is CBIZ, Inc. (CBZ) A Good Stock To Buy Now?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "是否应购买Applied Materials, Inc.（AMAT）股票？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-inc-amat-good-201112153.html",
-          "title_en": "Is Applied Materials, Inc. (AMAT) A Good Stock To Buy Now?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "市场动态：HWM、EW、EXC",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46540_MarketUpdate_1774458873000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Market Update: HWM, EW, EXC"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "美国证券交易委员会（SEC）罚款Ally Financial因未披露其从“现金增强”机器人账户中获利",
-          "summary": "",
-          "url": "https://www.barrons.com/advisor/articles/ally-robo-advisor-cash-sec-penalty-cc11cf0b?siteid=yhoof2&yptr=yahoo",
-          "title_en": "SEC Penalizes Ally Financial for Failing to Disclose It Profits From ‘Cash-Enhanced’ Robo Account"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "立法者寻求限制预测市场，DraftKings 股票可能意味着什么？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lawmakers-look-limit-prediction-markets-201122461.html",
-          "title_en": "As Lawmakers Look to Limit Prediction Markets, What Could It Mean for DraftKings Stock?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "INTU是否是现在买入的好股？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intuit-inc-intu-good-stock-201136092.html",
-          "title_en": "Is Intuit Inc. (INTU) A Good Stock To Buy Now?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "克拉公司（KLAC）是否现在是一个好股票？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/kla-corporation-klac-good-stock-201206938.html",
-          "title_en": "Is KLA Corporation (KLAC) A Good Stock To Buy Now?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "Alphabet（GOOGL）：买入的最佳长期增长股？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-best-wide-moat-201458703.html",
-          "title_en": "Alphabet (GOOGL): Best Wide Moat Stock To Buy For Long-Term Growth?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "纳斯达克指数下滑。软件股领衔科技股大跌。",
-          "summary": "",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-032426/card/nasdaq-slides-software-stocks-led-the-tech-rout--4cUrH6qVm0iehUFW0y2p?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Nasdaq Slides. Software Stocks Led the Tech Rout."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "雷·达略表示：“我们处于泡沫中”，但目前还没有什么能“刺破”它，导致股市大幅下跌。那么，什么最终会导致泡沫破裂呢？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-says-bubble-nothing-201607071.html",
-          "title_en": "Ray Dalio Says ‘We’re in a Bubble’ But Nothing Has ‘Pricked’ It to Cause a Stock Market Crash. What Could Finally Trigger a Pop?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
+          "time": "2026-03-26 16:20:43",
           "title": "台积电产能已达到产能极限，布洛姆堡称",
           "summary": "",
           "url": "https://www.investors.com/news/technology/tsm-stock-broadcom-avgo-production-constraints/?src=A00220&yptr=yahoo",
@@ -598,11 +500,128 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-26 16:00:26",
-          "title": "长期增长的顶级宽利润股：买入NVDA",
+          "time": "2026-03-26 16:20:43",
+          "title": "Shift4 Payments（SHIFT）创始人购买了 43,000 股 Shift4 Payments 股票。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-wide-moat-stock-buy-201730021.html",
-          "title_en": "Here’s the Top Wide Moat Stock to Buy for Long Term Growth"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/founder-buys-43k-shares-shift4-201924713.html",
+          "title_en": "Founder Buys 43K Shares of Shift4 Stock"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 16:20:43",
+          "title": "红猫控股公司（RCAT）是否现在是一个好股票？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-inc-rcat-202005285.html",
+          "title_en": "Is Red Cat Holdings, Inc. (RCAT) A Good Stock To Buy Now?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 16:20:43",
+          "title": "XPEL, Inc. (XPEL) 是一个好股票吗？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/xpel-inc-xpel-good-stock-202236529.html",
+          "title_en": "Is XPEL, Inc. (XPEL) A Good Stock To Buy Now?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 16:20:43",
+          "title": "SanDisk Corporation（SNDK）是否是一个现在买入的好股？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-corporation-sndk-good-stock-202307234.html",
+          "title_en": "Is Sandisk Corporation (SNDK) A Good Stock To Buy Now?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 16:20:43",
+          "title": "市场动态：HWM、EW、EXC",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46540_MarketUpdate_1774458873000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Market Update: HWM, EW, EXC"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 16:20:43",
+          "title": "他创立了黑水公司。现在他又支持最新热门无人机股。",
+          "summary": "",
+          "url": "https://www.barrons.com/articles/swarmer-swmr-stock-price-ipo-erik-prince-453ca91e?siteid=yhoof2&yptr=yahoo",
+          "title_en": "He Founded Blackwater. Now He Is Backing the Newest Hot Drone Stock."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 16:20:43",
+          "title": "波士顿科学公司是否是现在买入的好股票？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/boston-scientific-corporation-bsx-good-202156316.html",
+          "title_en": "Is Boston Scientific Corporation (BSX) A Good Stock To Buy Now?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 16:20:43",
+          "title": "OR Royalties, Tops In Gold Group, 获得80以上的股价强度评级",
+          "summary": "",
+          "url": "https://www.investors.com/news/or-royalties-hits-80-plus-relative-strength-rating-benchmark/?src=A00220&yptr=yahoo",
+          "title_en": "OR Royalties, Tops In Gold Group, Hits 80-Plus Stock Strength Rating"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 16:20:43",
+          "title": "VRTX是否是现在买入的好股票？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vertex-pharmaceuticals-incorporated-vrtx-good-202131400.html",
+          "title_en": "Is Vertex Pharmaceuticals Incorporated (VRTX) A Good Stock To Buy Now?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 16:20:43",
+          "title": "黄金价格刚刚进入超卖区域：你应该在这个时候买入吗？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/gold-prices-just-entered-oversold-202753692.html",
+          "title_en": "Gold Prices Just Entered Oversold Territory: Should You Buy the Dip?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 16:20:43",
+          "title": "在不确定的时期购买这两只高股息股票",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-top-dividend-stocks-buy-202600430.html",
+          "title_en": "2 Top Dividend Stocks to Buy for Uncertain Times"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 16:20:43",
+          "title": "股市今日：道指转负，纳斯达克下滑；帕拉丁股价回落（实时报道）",
+          "summary": "",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-palantir/?src=A00220&yptr=yahoo",
+          "title_en": "Stock Market Today: Dow Turns Negative As Nasdaq Slides; Palantir Retreats (Live Coverage)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 16:20:43",
+          "title": "美国政府与华尔街的解码：High Ground Market创始人兼CEO约翰·普莱斯，现场直播在纽约证券交易所",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/decoding-us-gov-wall-st-203906142.html",
+          "title_en": "Decoding US Gov for Wall St: High Ground Market Founder & CEO John Price, Live at NYSE"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-26 16:20:43",
+          "title": "阿尔戈尔 (ADM) 表示，2023财年第一季度营收为 24.6 亿美元，同比增长 26%。 \n\n澳大利亚能源公司 Origin Energy (OGE) 表示，2023财年第一季度营收为 4.6 亿澳元，同比下降 45%。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46533_MarketSummary_1774436223000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Market Digest: ADM, OGE"
         }
       ]
     }
