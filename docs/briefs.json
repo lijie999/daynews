@@ -1,6 +1,6 @@
 {
   "date": "2026.03.27",
-  "generatedAtBJT": "2026-03-27 21:10:32",
+  "generatedAtBJT": "2026-03-27 21:41:08",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-27 21:10:32",
+          "time": "2026-03-27 21:41:08",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜恐惧指数（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；恐惧指数上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且恐惧指数抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且恐惧指数回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、",
+          "summary": "- 主导因子：10年期利率 + 原油/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Gulf ETFs Defy Iran War Fears…\n- 宏观/Fed线索：Fed official issues stark warning on inflation, rate-cut outlook…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Japan shifts focus to oil in unorthodox scramble to talk up yen…\n- 宏观/Fed线索：Fed official issues stark warning on inflation, rate-cut outlook…"
         }
       ]
     },
@@ -29,25 +29,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
-          "title": "1 我绝不会碰的 AI 股票，以及我绝对喜欢的那一个\n\n2. NVIDIA (NVDA)",
+          "time": "2026-03-27 21:41:02",
+          "title": "NVIDIA支持的初创公司寻求挑战中国AI巨头25亿美元估值",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-ai-stock-wouldnt-touch-012000648.html",
-          "title_en": "1 AI Stock I Wouldn't Touch, and 1 I Absolutely Love"
+          "url": "https://www.wsj.com/tech/ai/nvidia-backed-startup-seeking-to-counter-chinese-ai-eyes-25-billion-valuation-3bd8216c?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Nvidia-Backed Startup Seeking to Counter Chinese AI Eyes $25 Billion Valuation"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
-          "title": "ARM肩负更多供应链责任，通过制造芯片",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/arm-shoulders-more-supply-chain-040100586.html",
-          "title_en": "Arm Shoulders More of the Supply Chain by Making a Chip"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
+          "time": "2026-03-27 21:41:02",
           "title": "美国运通不惧AI带来的商业大灾变",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-american-express-doesn-t-040100644.html",
@@ -56,20 +47,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
-          "title": "NVIDIA支持的初创公司寻求挑战中国AI巨头25亿美元估值",
+          "time": "2026-03-27 21:41:02",
+          "title": "ARM肩负更多供应链责任，通过制造芯片",
           "summary": "",
-          "url": "https://www.wsj.com/tech/ai/nvidia-backed-startup-seeking-to-counter-chinese-ai-eyes-25-billion-valuation-3bd8216c?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Nvidia-Backed Startup Seeking to Counter Chinese AI Eyes $25 Billion Valuation"
+          "url": "https://finance.yahoo.com/sectors/technology/articles/arm-shoulders-more-supply-chain-040100586.html",
+          "title_en": "Arm Shoulders More of the Supply Chain by Making a Chip"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 21:41:02",
+          "title": "Gen Digital (GEN) 正在采取措施应对基因AI威胁",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/gen-digital-gen-preparing-itself-055517395.html",
+          "title_en": "How is Gen Digital (GEN) Preparing Itself Against Gen AI Threats"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 21:41:02",
+          "title": "构建以人为中心的 AI 领导文化",
+          "summary": "",
+          "url": "https://finance.yahoo.com/video/building-ai-first-human-centered-025300007.html",
+          "title_en": "Building an AI‑First, Human‑Centered Culture"
         },
         {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
-          "time": "2026-03-27 20:13:00",
-          "title": "大型科技公司值得获得其“大烟草”时刻——社交媒体现在已经成为Meta和谷歌的巨大负担。",
+          "time": "2026-03-27 21:25:00",
+          "title": "社交媒体已成为Meta、谷歌和整个大科技的巨大负担。",
           "summary": "标志性判决打破了230条款的保护屏障，将“有害”的产品设计变成了Meta、Alphabet等公司的法律陷阱。",
           "url": "https://www.marketwatch.com/story/big-tech-deserves-its-big-tobacco-moment-social-media-is-now-a-massive-liability-for-meta-and-google-5d81bd70?mod=mw_rss_topstories",
-          "title_en": "Big Tech deserves its ‘Big Tobacco’ moment — social media is now a massive liability for Meta and Google",
+          "title_en": "Social media is now a massive liability for Meta, Google and the rest of Big Tech",
           "summary_en": "Landmark verdicts shatter the Section 230 shield, turning ‘addictive’ product design into a legal thicket for Meta, Alphabet and others."
         },
         {
@@ -191,11 +200,21 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
+          "time": "2026-03-27 21:41:02",
           "title": "美联储官员发出对通胀的严厉警告，预计利率将下降",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/fed-official-issues-stark-warning-015251099.html",
           "title_en": "Fed official issues stark warning on inflation, rate-cut outlook"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-27 21:31:00",
+          "title": "房贷利率第四周连续上涨——直到发生这一事件，利率才会下降。",
+          "summary": "利率首次自2022年以来跌破6%，仅在“Operation Epic Fury”行动开始前几天。",
+          "url": "https://www.marketwatch.com/story/mortgage-rates-climb-for-the-fourth-week-in-a-row-and-they-wont-drop-back-down-until-this-happens-6b36757b?mod=mw_rss_topstories",
+          "title_en": "Mortgage rates climb for the fourth week in a row — and they won’t drop back down until this happens",
+          "summary_en": "Rates had fallen under 6% for the first time since 2022 just days before the start of Operation Epic Fury."
         },
         {
           "source": "CNBC-Top",
@@ -216,29 +235,58 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
-          "title": "美中海岸ETF反抗伊朗战争恐惧",
+          "time": "2026-03-27 21:41:02",
+          "title": "日本转向石油以非 orthodox 的方式鼓吹日元",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/gulf-etfs-defy-iran-war-012306983.html",
-          "title_en": "Gulf ETFs Defy Iran War Fears"
+          "url": "https://finance.yahoo.com/economy/policy/articles/japan-shifts-focus-oil-unorthodox-043231600.html",
+          "title_en": "Japan shifts focus to oil in unorthodox scramble to talk up yen"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
-          "title": "霍尔木兹海峡关闭对消费类日用品股有何影响？",
+          "time": "2026-03-27 21:41:02",
+          "title": "华尔街股市遭遇自伊朗战争以来最大的跌幅，纳斯达克指数跌幅达10%，低于历史新高。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/7-ways-strait-hormuz-closure-013000777.html",
-          "title_en": "Here Are 7 Ways the Strait of Hormuz Closure Is Affecting Consumer Staples Stocks"
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mostly-fall-oil-043625621.html",
+          "title_en": "Wall Street falls to its worst drop since the Iran war as the Nasdaq sinks 10% below its record"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
-          "title": "美国股指期货小幅下跌，市场对伊朗局势的发展仍然充满了紧张情绪。",
+          "time": "2026-03-27 21:41:02",
+          "title": "华尔街开盘低迷，伊朗袭击延迟带来有限的平静",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/wall-st-opens-lower-as-iran-strike-delays-offers-limited-calm-4585207",
+          "title_en": "Wall St opens lower as Iran strike delays offers limited calm"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 21:41:02",
+          "title": "美国股市开盘低迷，市场仍然对伊朗局势的发展感到紧张。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-trump-postpones-deadline-for-iran-energy-strikes-4584062",
-          "title_en": "U.S. stock futures tick lower as markets remain jittery about developments in Iran"
+          "title_en": "U.S. stocks open lower as markets remain jittery about developments in Iran"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-27 21:30:00",
+          "title": "两大原因：高油价不会像投资者担心的那样触发通胀大幅上升",
+          "summary": "经济更适合承受更高的能源成本，吉姆·保尔森说。",
+          "url": "https://www.marketwatch.com/story/the-two-reasons-higher-oil-prices-may-not-trigger-the-inflationary-spike-that-investors-fear-a807991f?mod=mw_rss_topstories",
+          "title_en": "The two reasons higher oil prices may not trigger the inflationary spike that investors fear",
+          "summary_en": "The economy is better suited to absorb higher energy costs, says Jim Paulsen."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-27 21:00:01",
+          "title": "伊朗战争冲击奢侈品股市，价值1000亿美元的投资被抹去",
+          "summary": "阿联酋的迪拜近年来一直是增长的最大驱动力，而中东紧张局势恰逢奢侈品行业的关键时期。",
+          "url": "https://www.cnbc.com/2026/03/27/iran-war-wipes-out-100-billion-from-luxury-stocks.html",
+          "title_en": "Iran war wipes out $100 billion from luxury stocks",
+          "summary_en": "Dubai in the UAE has been the biggest driver of growth in recent years, and the Middle East tensions come at a critical time in the luxury industry."
         },
         {
           "source": "MarketWatch-Top",
@@ -358,36 +406,6 @@
           "url": "https://www.cnbc.com/2026/03/27/china-industrial-profits-jan-feb-surge-oil-price-shock-threatens-outlook.html",
           "title_en": "China industrial profits surge 15% to start year, but oil price shock threatens outlook",
           "summary_en": "Soaring energy prices are expected to impact China's economy less than most other countries, due to its massive oil reserves and alternative energy sources."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-27 09:29:03",
-          "title": "霍尔木兹海峡可能即将重新开放？市场对此表示怀疑。",
-          "summary": "伊朗战争的影响继续影响全球供应链，经济学家提高了对美国潜在经济衰退的预期。",
-          "url": "https://www.cnbc.com/2026/03/27/cnbc-daily-open-strait-of-hormuz-reopening-markets-cast-doubt.html",
-          "title_en": "CNBC Daily Open: Could the Strait of Hormuz be close to reopening? Markets cast doubt",
-          "summary_en": "The impacts from the Iran war continue to way on global supply chains as economists raise their expectations for a potential recession in the U.S."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-27 06:46:44",
-          "title": "特朗普延长暂停对伊朗能源设施的攻击至4月6日。",
-          "summary": "特朗普宣布美国将继续暂停对伊朗能源设施的行动，随着美国主要股市指数下跌和油价上涨。",
-          "url": "https://www.cnbc.com/2026/03/26/trump-iran-war-oil-energy-pause.html",
-          "title_en": "Trump extends pause on attacking Iran energy facilities to April 6",
-          "summary_en": "Trump announced the U.S. would continue a pause on energy sites in Iran as key stock market indexes fell and oil prices rose."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-27 04:17:08",
-          "title": "特朗普称伊朗允许10艘油轮通过霍尔木兹海峡，这是给美国的礼物。",
-          "summary": "特朗普称美国与伊朗进行了“非常重要”的谈判”，尽管伊朗方面否认了两国之间的直接谈判。",
-          "url": "https://www.cnbc.com/2026/03/26/trump-iran-war-oil-strait-of-hormuz.html",
-          "title_en": "Trump says Iran let 10 oil ships through Strait of Hormuz as a 'present' to U.S.",
-          "summary_en": "Trump said the U.S has \"very substantial talks going on with respect to Iran,\" though Tehran has denied direct talks have taken place."
         }
       ]
     },
@@ -395,15 +413,6 @@
       "name": "特斯拉链",
       "badge": "TSLA chain",
       "items": [
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
-          "title": "亚马逊进入人形机器人市场。关于Fauna Robotics收购的3个重要事项。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/amazon-entering-humanoid-robot-market-012315042.html",
-          "title_en": "Amazon Is Entering the Humanoid Robot Market. 3 Important Things to Know About the Fauna Robotics Acquisition."
-        },
         {
           "source": "CNBC-Tech",
           "ticker": "RSS",
@@ -423,25 +432,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
-          "title": "南亚科技股价大涨10%，后市筹资2.5亿美元",
+          "time": "2026-03-27 21:41:02",
+          "title": "AXT CEO 出售 31,000 股股票价值 140 万美元",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nanya-technology-shares-surge-10-011004932.html",
-          "title_en": "Nanya Technology shares surge 10% after $2.5 billion fundraising"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceo-sells-31-000-shares-014215421.html",
+          "title_en": "CEO Sells 31,000 Shares of AXT Worth $1.4 Million"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
-          "title": "赛瑞普塔 (SRPT) 股价暴涨 35% 因摩根士丹利上调目标价，试验结果出色",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sarepta-srpt-skyrockets-35-morgan-010913945.html",
-          "title_en": "Sarepta (SRPT) Skyrockets 35% on Morgan Stanley PT Hike, Stellar Trial Results"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
+          "time": "2026-03-27 21:41:02",
           "title": "利纳斯扩大稀土金属业务，携手越南",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/energy/articles/lynas-expands-rare-earth-metals-021100007.html",
@@ -450,7 +450,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
+          "time": "2026-03-27 21:41:02",
           "title": "伍德赛德（Woodside）收购了美国德克萨斯州氨气厂的控制权，以推动美国业务扩张。",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/energy/articles/woodside-takes-control-texas-ammonia-030000827.html",
@@ -459,25 +459,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
-          "title": "CDs（存款证书）是FDIC（联邦存款保险公司）保险的，为什么这很重要？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/are-cds-fdic-insured-161815227.html",
-          "title_en": "Are CDs FDIC insured, and why does that matter?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
-          "title": "布雷兹股价今日大幅上涨",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-braze-stock-surged-today-012314513.html",
-          "title_en": "Why Braze Stock Surged Today"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
+          "time": "2026-03-27 21:41:02",
           "title": "现代汽车计划在中国销售量翻倍，并在北美推出36款新车型。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/hyundai-motor-aims-double-china-030802632.html",
@@ -486,25 +468,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
-          "title": "冒险旅游保险：高风险活动和旅行的保障",
+          "time": "2026-03-27 21:41:02",
+          "title": "CDs（存款证书）是FDIC（联邦存款保险公司）保险的，为什么这很重要？",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/insurance/article/adventure-travel-insurance-224933844.html",
-          "title_en": "Adventure travel insurance: Coverage for high-risk activities and trips"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/are-cds-fdic-insured-161815227.html",
+          "title_en": "Are CDs FDIC insured, and why does that matter?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
-          "title": "分析报告：Brighthouse Financial Inc",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3715_AnalystReport_1774544291000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Brighthouse Financial Inc"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
+          "time": "2026-03-27 21:41:02",
           "title": "默克准备好在Keytruda专利期结束后，通过6.7亿美元的交易获得白血病治疗药物",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/healthcare/articles/merck-preps-end-keytruda-exclusivity-040100112.html",
@@ -513,25 +486,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
-          "title": "31岁的 Subway 竞争对手连锁店创始人申请第11章破产保护",
+          "time": "2026-03-27 21:41:02",
+          "title": "冒险旅游保险：高风险活动和旅行的保障",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/articles/31-old-subway-rival-franchisee-012438686.html",
-          "title_en": "31-year-old Subway rival franchisee files Chapter 11 bankruptcy"
+          "url": "https://finance.yahoo.com/personal-finance/insurance/article/adventure-travel-insurance-224933844.html",
+          "title_en": "Adventure travel insurance: Coverage for high-risk activities and trips"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
-          "title": "Revolut计划到2026年将其全球员工40%的基础设在印度。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/revolut-40-global-workforce-india-041645739.html",
-          "title_en": "Revolut to base 40% of its global workforce in India by 2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
+          "time": "2026-03-27 21:41:02",
           "title": "分析报告：CMS能源公司",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_2849_AnalystReport_1774544291000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -540,7 +504,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
+          "time": "2026-03-27 21:41:02",
+          "title": "Revolut计划到2026年将其全球员工40%的基础设在印度。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/revolut-40-global-workforce-india-041645739.html",
+          "title_en": "Revolut to base 40% of its global workforce in India by 2026"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 21:41:02",
           "title": "Morgan Stanley 为 MGE Energy (MGEE) 提高价格目标，Utilities 表现强劲。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/mge-energy-mgee-gets-price-042431115.html",
@@ -549,38 +522,74 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
-          "title": "百万富翁使用信用卡吗？是的，他们也应该这样做。",
+          "time": "2026-03-27 21:41:02",
+          "title": "分析报告：Brighthouse Financial Inc",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/do-millionaires-use-credit-cards-234301938.html",
-          "title_en": "Do millionaires use credit cards? Yes, and so should you."
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3715_AnalystReport_1774544291000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Brighthouse Financial Inc"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
-          "title": "如何要求降低信用卡最低还款额",
+          "time": "2026-03-27 21:41:02",
+          "title": "高管出售 60,000 股 GigaCloud Technology 股票，价值 240 万美元",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-to-lower-minimum-payment-on-credit-card-210604122.html",
-          "title_en": "How to request a lower credit card minimum payment"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ceo-sells-60-000-gigacloud-021425516.html",
+          "title_en": "CEO Sells 60,000 GigaCloud Technology Shares Worth $2.4 Million"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
-          "title": "EverSource能源（ES）价格目标降至BMO Capital根据ROE裁决",
+          "time": "2026-03-27 21:41:02",
+          "title": "H.B. Fuller宣布将于2026年4月起全球价格上涨至少10%。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/eversource-energy-es-price-target-051140911.html",
-          "title_en": "Eversource Energy (ES) Price Target Reduced by BMO Capital on ROE Ruling"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/h-b-fuller-announces-global-044735663.html",
+          "title_en": "H.B. Fuller Announces Global Price Hike of at Least 10% Starting April 2026"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 21:10:25",
+          "time": "2026-03-27 21:41:02",
+          "title": "DA 大卫森下调Marzetti (MZTI)价格目标，指出消费者趋势放缓",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/da-davidson-cuts-marzetti-mzti-044958240.html",
+          "title_en": "DA Davidson Cuts Marzetti (MZTI) Price Target, Flags Slowing Consumer Trends"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 21:41:02",
+          "title": "加拿大皇家银行提高Federal Realty（FRT）的价格目标，认为有超额表现的空间。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-raises-federal-realty-frt-045257947.html",
+          "title_en": "Scotiabank Raises Federal Realty (FRT) Price Target, Sees Room for Outperformance"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 21:41:02",
+          "title": "国家燃气(NFG)价格目标由杰泼摩根(JPMorgan)提高，供应风险增加",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/national-fuel-gas-nfg-price-045506927.html",
+          "title_en": "National Fuel Gas (NFG) Price Target Raised by JPMorgan as Supply Risks Increase"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 21:41:02",
           "title": "市场动态：CMS、BHF",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46556_MarketUpdate_1774543391000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "title_en": "Market Update: CMS, BHF"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 21:41:02",
+          "title": "AT&T客户威胁离开公司",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/t-puts-loyalty-risk-stern-021700893.html",
+          "title_en": "AT&T customers threaten to leave after latest warning"
         }
       ]
     }
