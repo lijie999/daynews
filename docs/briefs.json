@@ -1,6 +1,6 @@
 {
   "date": "2026.03.27",
-  "generatedAtBJT": "2026-03-27 16:01:38",
+  "generatedAtBJT": "2026-03-27 16:32:12",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-27 16:01:38",
+          "time": "2026-03-27 16:32:12",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期利率 + 原油/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带",
+          "summary": "- 主导因子：原油/风险事件 + 权重/财报/监管\n- 四件套监控：10年期国债收益率（方向/拐点）｜美元指数（强弱）｜威尔shire指数（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10年期国债收益率↑→纳斯达克/标普500承压更明显；美元指数↑→黄金更易回撤；威尔shire指数↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债收益率继续上行且威尔shire指数抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债收益率回落且威尔shire指数回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Gas Crisis Dwarfs Oil Shock as LNG Supply Breaks…\n- 宏观/Fed线索：How Fuel Inflation Forced a Reset in Wall Street’s View of American Airl…"
+          "summary_en": "- 主导因子：原油/风险事件 + 权重/财报/监管\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Stocks Finish Higher on US Push to End Iran War…\n- 科技/半导体线索：Is The Party Over For Memory Chip Stocks? Micron, Sandisk Continue Pullb… 关键词:meta,new,amazon,chip"
         }
       ]
     },
@@ -29,74 +29,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "人工智能泡沫已经破裂吗？这位经济学家认为S&P 500已经达到峰值。",
-          "summary": "",
-          "url": "https://www.barrons.com/articles/has-the-ai-bubble-burst-already-a9258f99?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Has the AI Bubble Burst Already? Why This Economist Says the S&P 500 Peak Has Passed."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "Arm预测其新AI服务器芯片的销售将大幅增长",
-          "summary": "",
-          "url": "https://www.investors.com/news/technology/arm-stock-arm-agi-cpu-sales-forecast/?src=A00220&yptr=yahoo",
-          "title_en": "Arm Forecasts Steep Sales Ramp For New AI Server Chip"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "Arm 股价大涨15%，随着AI芯片的问世",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/article/arm-stock-rockets-15-following-ai-chip-debut-205700269.html",
-          "title_en": "Arm stock rockets 15% following AI chip debut"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
+          "time": "2026-03-27 16:32:08",
           "title": "记忆芯片股是否已经走到尽头？Micron、Sandisk继续下滑",
           "summary": "",
           "url": "https://www.investors.com/news/technology/micron-stock-mu-sandisk-stock-sndk-memory-chip-stock-pullback/?src=A00220&yptr=yahoo",
           "title_en": "Is The Party Over For Memory Chip Stocks? Micron, Sandisk Continue Pullback"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 16:32:08",
+          "title": "本月最佳亚马逊购物信用卡：利用有价值的奖励增强亚马逊购买",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-shopping-on-amazon-212142241.html",
+          "title_en": "Best credit cards for shopping on Amazon for March 2026: Boost your Amazon purchases with valuable rewards"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
+          "time": "2026-03-27 16:32:08",
+          "title": "四月即将来临，AI选股的新清单将很快发布",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/five-25-wins-in-march-a-new-list-of-aipicked-stocks-for-april-is-coming-soon-4582831",
+          "title_en": "FIVE 25%+ wins in March: A new list of AI-picked stocks for April is coming SOON"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 16:32:08",
           "title": "华为新一代AI芯片获得字节跳动和阿里巴巴青睐，两家公司计划下单。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/exclusivehuaweis-new-ai-chip-find-favour-with-bytedance-alibaba-which-plan-to-place-orders-sources-say-4584136",
           "title_en": "Huawei’s new AI chip finds favour with ByteDance, Alibaba which plan to place orders, sources say"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "Future Plc降级至“持有”评级，AI风险和预期下降影响其评级。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/future-plc-downgraded-to-hold-as-ai-risks-outlook-cuts-weigh-4584153",
-          "title_en": "Future Plc downgraded to “hold” as AI risks, outlook cuts weigh"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "中国抵制顶级人工智能会议，美国制裁实体论文被拒绝",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/china-boycotts-top-ai-conference-after-ban-on-papers-from-ussanctioned-entities-4584145",
-          "title_en": "China boycotts top AI conference after ban on papers from US-sanctioned entities"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "中国军校背景的大学购买了Super Micro服务器，内置受限AI芯片。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/chinese-universities-with-military-links-bought-super-micro-servers-with-restricted-ai-chips-4584104",
-          "title_en": "Chinese universities with military links bought Super Micro servers with restricted AI chips"
         },
         {
           "source": "MarketWatch-Top",
@@ -197,41 +161,43 @@
           "url": "https://www.cnbc.com/2026/03/26/apple-american-manufacturing-program-trump.html",
           "title_en": "Apple expands American manufacturing program with four new partners",
           "summary_en": "Apple is adding Bosch, Cirrus Logic, TDK, and Qnity Electronics to its American Manufacturing Program, committing $400 million through 2030."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-26 23:42:45",
+          "title": "AI和机器人已经正式占领了互联网，报告指出。",
+          "summary": "人工智能流量报告显示，机器人流量已经超过了人类流量，自动流量增长速度是人类流量的8倍。",
+          "url": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
+          "title_en": "AI and bots have officially taken over the internet, report finds",
+          "summary_en": "HUMAN Security's State of AI Traffic report found that bots have eclipsed human users, with automated traffic growing eight times faster than human activity."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-26 20:46:42",
+          "title": "Meta最新裁决，空间股，预测市场立法等在Morning Squawk",
+          "summary": "今天市场投资者需要了解的五个关键信息。",
+          "url": "https://www.cnbc.com/2026/03/26/5-things-to-know-before-the-market-opens.html",
+          "title_en": "Meta's latest verdict, space stocks, prediction market legislation and more in Morning Squawk",
+          "summary_en": "Here are five key things investors need to know to start the trading day."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-26 20:11:06",
+          "title": "谷歌AI突破给内存芯片股价带来压力，涉及三星、微星等公司。",
+          "summary": "SK Hynix、Samsung和Micron的股票价格下跌，投资者担心未来可能需要的内存芯片数量会减少。",
+          "url": "https://www.cnbc.com/2026/03/26/google-ai-turboquant-memory-chip-stocks-samsung-micron.html",
+          "title_en": "A Google AI breakthrough is pressuring memory chip stocks from Samsung to Micron",
+          "summary_en": "SK Hynix, Samsung and Micron shares fell as investors fear fewer memory chips may be required in the future."
         }
       ]
     },
     {
       "name": "美联储与政策",
       "badge": "Fed / Policy",
-      "items": [
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "燃油通胀迫使华尔街重新评估美国航空公司",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fuel-inflation-forced-reset-wall-195622156.html",
-          "title_en": "How Fuel Inflation Forced a Reset in Wall Street’s View of American Airlines (AAL)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "HELOC利率近7%时，家庭财富贷款利率保持不变。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/heloc-rates-fall-near-7-200736922.html",
-          "title_en": "HELOC rates fall near 7% as home equity loan rates hold the line"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "Jefferies预见Mony Group在AI和FY26预测中将有51%的上涨空间。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/jefferies-sees-51-upside-in-mony-group-on-ai-yield-fy26-outlook-4584126",
-          "title_en": "Jefferies sees 51% upside in Mony Group on AI, yield FY26 outlook"
-        }
-      ]
+      "items": []
     },
     {
       "name": "地缘/能源/避险",
@@ -240,38 +206,39 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "天然气危机远远超过石油危机，LNG供应链断裂",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/gas-crisis-dwarfs-oil-shock-200000481.html",
-          "title_en": "Gas Crisis Dwarfs Oil Shock as LNG Supply Breaks"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "股市今日：道指、标普500指数、纳斯达克指数因美伊谈判希望而上涨，油价跌破100美元。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-on-hopes-of-us-iran-talks-oil-drops-below-100-200158241.html",
-          "title_en": "Stock market today: Dow, S&P 500, Nasdaq rise on hopes of US-Iran talks, oil drops below $100"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "股市反弹，但石油仍在掌控",
-          "summary": "",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-032526/card/stocks-rally-but-oil-is-still-calling-the-shots-WoSh08pVP3EwL6959KWY?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Stocks Rally but Oil Is Still Calling the Shots"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
+          "time": "2026-03-27 16:32:08",
           "title": "美国股市收盘上涨，受美国结束伊朗战争的努力推动。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-finish-higher-us-push-203541408.html",
           "title_en": "Stocks Finish Higher on US Push to End Iran War"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 16:32:08",
+          "title": "管道项目再次上线，作为加拿大能源战略重置的举措。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/pipelines-back-play-canada-eyes-213045761.html",
+          "title_en": "Pipelines back in play as Canada eyes a strategic energy reset: by Oil & Gas 360"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 16:32:08",
+          "title": "欧洲股市低迷，特朗普延长了针对伊朗核电站的最后期限",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/european-stocks-subdued-after-trump-extends-deadline-for-iran-power-plant-attacks-4584253",
+          "title_en": "European stocks subdued after Trump extends deadline for Iran power plant attacks"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-27 16:11:11",
+          "title": "亚洲市场交易波动不定，因为不明朗的美伊和平谈判前景使投资者心情紧张。",
+          "summary": "亚太市场交易呈现出混乱局面，因为美伊之间的和平协议前景仍然不明朗，美伊双方的信息相互矛盾。",
+          "url": "https://www.cnbc.com/2026/03/27/asia-markets-live-updates-hang-seng-index-nikkei-225-kospi.html",
+          "title_en": "Asia markets trade mixed as murkey U.S.-Iran peace talks prospects keep investors on edge",
+          "summary_en": "Asia-Pacific markets traded mixed as the prospect of a peace deal in the Middle East remained murky amid contradictory messaging from the U.S. and Iran."
         },
         {
           "source": "CNBC-Top",
@@ -419,6 +386,15 @@
       "badge": "TSLA chain",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 16:32:08",
+          "title": "SpaceX IPO申报周内？空间股大涨，特斯拉上涨",
+          "summary": "",
+          "url": "https://www.investors.com/news/spacex-ipo-elon-musk-space-company-listing/?src=A00220&yptr=yahoo",
+          "title_en": "SpaceX IPO Filing This Week? Space Stocks Soar, Tesla Rises"
+        },
+        {
           "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-26 17:09:51",
@@ -437,79 +413,88 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "SCHB与VTV：SCHB瞄准广泛市场覆盖，VTV则聚焦价值投资",
+          "time": "2026-03-27 16:32:08",
+          "title": "基本材料周报：市场评论",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/schb-vs-vtv-schb-targets-195708549.html",
-          "title_en": "SCHB vs. VTV: SCHB Targets Broad Market Reach, While VTV Focuses on Value"
+          "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-6fd296d5?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Basic Materials Roundup: Market Talk"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "高昂的喷气燃料成本正在使Delta航空公司(DAL)的短期收益预期蒙上阴影。",
+          "time": "2026-03-27 16:32:08",
+          "title": "ETF联盟表：SPDR ETFs吸收19亿美元的资金",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-higher-jet-fuel-costs-195739527.html",
-          "title_en": "Why Higher Jet-Fuel Costs Are Clouding Delta (DAL)’s Near-Term Earnings Outlook"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-19b-inflows-210004134.html",
+          "title_en": "ETF League Tables: $19B Inflows For SPDR ETFs"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "燃油成本上升推动Frontier Group（ULCC）最新一轮降价",
+          "time": "2026-03-27 16:32:08",
+          "title": "ETF日流通量：BIL SGOV进入流通量排行榜",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/rising-fuel-costs-drove-fresh-195848000.html",
-          "title_en": "How Rising Fuel Costs Drove Fresh Target Cuts on Frontier Group (ULCC)"
+          "url": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-bil-sgov-210003386.html",
+          "title_en": "Daily ETF Flows: BIL SGOV Make The List"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "在今天的市场中，人们如何负担起房子？10位专家推荐的买家建议。",
+          "time": "2026-03-27 16:32:08",
+          "title": "在时间紧迫的清晰法案背景下，凯西伍德投资了下跌的加密名义",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/how-are-people-affording-houses-in-todays-market-195928862.html",
-          "title_en": "How are people affording houses in today's market? 10 expert-backed tips for buyers."
+          "url": "https://www.investors.com/news/clarity-act-stablecoin-deal-yields-reward-payments-circle-stock-coinbase/?src=A00220&yptr=yahoo",
+          "title_en": "As The Clarity Act Clock Ticks, Cathie Wood Buys Diving Crypto Name"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "激进投资者敦促Meineke母公司Driven Brands进行出售探索",
+          "time": "2026-03-27 16:32:08",
+          "title": "3月2026年最佳家装信用卡",
           "summary": "",
-          "url": "https://www.wsj.com/business/deals/activist-pushes-meineke-owner-driven-brands-to-explore-a-sale-a578bb7e?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Activist Pushes Meineke Owner Driven Brands to Explore a Sale"
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-for-home-improvement-214525388.html",
+          "title_en": "Best credit cards for home improvement in March 2026"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "美国海军隐形技术合作伙伴瞄准混乱市场的突破",
+          "time": "2026-03-27 16:32:08",
+          "title": "是否是时候买入科技股的低点——还是应该逃之夭夭？",
           "summary": "",
-          "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/esco-technolgoies-ese-us-navy/?src=A00220&yptr=yahoo",
-          "title_en": "U.S. Navy Partner In Stealth Technology Targets Breakout In Murky Market"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/now-time-buy-tech-dip-210200814.html",
+          "title_en": "Is Now the Time to Buy the Tech Dip -- or Should You Run for the Hills?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "摩根士丹利认为，科尔斯（KSS）面临实现真正转型的更艰难道路。",
+          "time": "2026-03-27 16:32:08",
+          "title": "Paychex, Inc. 2026年第三季度财报电话会议总结",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-bofa-sees-kohl-kss-200016085.html",
-          "title_en": "Why BofA Sees Kohl’s (KSS) Facing a Tougher Road to a Real Turnaround"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/paychex-inc-q3-2026-earnings-204056392.html",
+          "title_en": "Paychex, Inc. Q3 2026 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "道拉特公司（Dollar Tree）利用店铺关闭和价格上调来维护利润率",
+          "time": "2026-03-27 16:32:08",
+          "title": "爱普森能源有限公司2025年第四季度财报电话会议总结",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-tree-dltr-using-store-200213310.html",
-          "title_en": "How Dollar Tree (DLTR) Is Using Store Closures and Higher Price Points to Defend Margins"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/epsilon-energy-ltd-q4-2025-204032854.html",
+          "title_en": "Epsilon Energy Ltd. Q4 2025 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
+          "time": "2026-03-27 16:32:08",
+          "title": "许多房东和租赁公司接受信用卡付款，但可能会收取额外的手续费。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/can-you-pay-rent-with-a-credit-card-000451795.html",
+          "title_en": "Can you pay rent with a credit card?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 16:32:08",
           "title": "分析报告：CMS能源公司",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_2849_AnalystReport_1774544291000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -518,43 +503,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "原油价格下跌超过2%",
+          "time": "2026-03-27 16:32:08",
+          "title": "三分之一的美国人承认他们会负债来应对一千美元的紧急情况——专家说你需要做的就是这样",
           "summary": "",
-          "url": "https://www.wsj.com/livecoverage/iran-war-us-israel-news-updates/card/crude-prices-fall-more-than-2--yEeSY5nMD4tuoEKOw96j?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Crude Prices Fall More Than 2%"
+          "url": "https://finance.yahoo.com/markets/articles/one-third-americans-admit-debt-210111688.html",
+          "title_en": "One-Third of Americans Admit They Would Go Into Debt to Cover a $1,000 Emergency — Here's the Move Experts Say You Need to Make"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "派珀·桑德勒认为道格拉斯百货（DG）的2026年增长布局看起来不如实际情况那么简单。",
+          "time": "2026-03-27 16:32:08",
+          "title": "每年（2026）重置的信用卡福利清单",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-piper-sandler-sees-dollar-200327045.html",
-          "title_en": "Why Piper Sandler Sees Dollar General (DG)’s 2026 Growth Setup as Less Straightforward Than It Looks"
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/credit-card-perks-calendar-year-214541060.html",
+          "title_en": "The complete list of credit card perks that reset each calendar year (2026)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "切尔西·霍尔特（Chelsea Holt）在CNBC上写道，Chipotle Mexican Grill (CMG) 的销售趋势改善使华尔街对该公司的看法发生了变化。",
+          "time": "2026-03-27 16:32:08",
+          "title": "社交媒体审判结果出来后，下一步是什么？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/improving-sales-trends-changed-wall-200439694.html",
-          "title_en": "How Improving Sales Trends Changed Wall Street’s Tone on Chipotle (CMG)"
+          "url": "https://finance.yahoo.com/news/explainer-comes-next-social-media-203049039.html",
+          "title_en": "Explainer-What comes next after the social media trial verdicts?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "戴维森（DA Davidson）认为Target（TGT）的转型案例值得更高的估值。",
+          "time": "2026-03-27 16:32:08",
+          "title": "股市今日：小盘股和科技股领涨；这一核能股大幅上涨，但微芯片股下跌（实时直播）",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-da-davidson-thinks-target-200710379.html",
-          "title_en": "Why DA Davidson Thinks Target (TGT)’s Turnaround Case Deserves a Higher Valuation"
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-peace-plan-oil-prices/?src=A00220&yptr=yahoo",
+          "title_en": "Stock Market Today: Small Caps, Techs Lead Gains; This Nuclear Play Breaks Out But Micron Sinks (Live Coverage)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
+          "time": "2026-03-27 16:32:08",
           "title": "分析报告：Brighthouse Financial Inc",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3715_AnalystReport_1774544291000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -563,38 +548,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "旅行科技公司Navan预计2027年收入强劲，来自新客户的需求增长",
+          "time": "2026-03-27 16:32:08",
+          "title": "医疗保健快讯：市场热点",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/travel-tech-firm-navan-sees-200855800.html",
-          "title_en": "Travel tech firm Navan sees strong 2027 revenue on demand from new customers"
+          "url": "https://www.wsj.com/health/health-care-roundup-market-talk-e07cf090?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Health Care Roundup: Market Talk"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "TD Cowen降低了Macy's (M) 的预期，尽管第四季度业绩超预期",
+          "time": "2026-03-27 16:32:08",
+          "title": "考虑投资黄金的决定取决于多种因素，包括您的投资目标、风险承受能力和市场预测。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-td-cowen-turned-more-200834355.html",
-          "title_en": "Why TD Cowen Turned More Cautious on Macy’s (M) Despite a Fourth-Quarter Beat"
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/should-i-invest-in-gold-in-2026-211543609.html",
+          "title_en": "Should I invest in gold in 2026?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "默克可能会在收购Terns的6.7亿美元交易中遇到挑战",
+          "time": "2026-03-27 16:32:08",
+          "title": "在今天的市场中，人们如何负担起房子？10位专家推荐的买家建议。",
           "summary": "",
-          "url": "https://www.investors.com/news/technology/merck-terns-pharmaceuticals-takeover/?src=A00220&yptr=yahoo",
-          "title_en": "Why Merck Might Have A Fight On Its Hands With Its $6.7 Billion Takeover Of Terns"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 16:01:32",
-          "title": "市场动态：CMS、BHF",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46556_MarketUpdate_1774543391000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Market Update: CMS, BHF"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/how-are-people-affording-houses-in-todays-market-195928862.html",
+          "title_en": "How are people affording houses in today's market? 10 expert-backed tips for buyers."
         }
       ]
     }
