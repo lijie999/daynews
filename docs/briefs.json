@@ -1,6 +1,6 @@
 {
   "date": "2026.03.27",
-  "generatedAtBJT": "2026-03-27 16:32:12",
+  "generatedAtBJT": "2026-03-27 17:02:56",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-27 16:32:12",
+          "time": "2026-03-27 17:02:56",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：原油/风险事件 + 权重/财报/监管\n- 四件套监控：10年期国债收益率（方向/拐点）｜美元指数（强弱）｜威尔shire指数（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10年期国债收益率↑→纳斯达克/标普500承压更明显；美元指数↑→黄金更易回撤；威尔shire指数↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债收益率继续上行且威尔shire指数抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债收益率回落且威尔shire指数回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与",
+          "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高",
           "url": "#",
-          "summary_en": "- 主导因子：原油/风险事件 + 权重/财报/监管\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Stocks Finish Higher on US Push to End Iran War…\n- 科技/半导体线索：Is The Party Over For Memory Chip Stocks? Micron, Sandisk Continue Pullb… 关键词:meta,new,amazon,chip"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Pipelines back in play as Canada eyes a strategic energy reset: by Oil &…\n- 宏观/Fed线索：How to find the best credit card interest rates: Excellent credit is key…"
         }
       ]
     },
@@ -29,38 +29,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "记忆芯片股是否已经走到尽头？Micron、Sandisk继续下滑",
-          "summary": "",
-          "url": "https://www.investors.com/news/technology/micron-stock-mu-sandisk-stock-sndk-memory-chip-stock-pullback/?src=A00220&yptr=yahoo",
-          "title_en": "Is The Party Over For Memory Chip Stocks? Micron, Sandisk Continue Pullback"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
+          "time": "2026-03-27 17:02:51",
           "title": "本月最佳亚马逊购物信用卡：利用有价值的奖励增强亚马逊购买",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-shopping-on-amazon-212142241.html",
           "title_en": "Best credit cards for shopping on Amazon for March 2026: Boost your Amazon purchases with valuable rewards"
         },
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "四月即将来临，AI选股的新清单将很快发布",
+          "time": "2026-03-27 17:02:51",
+          "title": "威廉姆斯-桑纳马公司提高了股息15%。在此时购买蓝筹股是否合适？",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/five-25-wins-in-march-a-new-list-of-aipicked-stocks-for-april-is-coming-soon-4582831",
-          "title_en": "FIVE 25%+ wins in March: A new list of AI-picked stocks for April is coming SOON"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "华为新一代AI芯片获得字节跳动和阿里巴巴青睐，两家公司计划下单。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/exclusivehuaweis-new-ai-chip-find-favour-with-bytedance-alibaba-which-plan-to-place-orders-sources-say-4584136",
-          "title_en": "Huawei’s new AI chip finds favour with ByteDance, Alibaba which plan to place orders, sources say"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/williams-sonoma-just-raised-dividend-233002205.html",
+          "title_en": "Williams-Sonoma Just Raised Its Dividend 15%. Should You Buy the Blue-Chip Stock Here?"
         },
         {
           "source": "MarketWatch-Top",
@@ -197,7 +179,35 @@
     {
       "name": "美联储与政策",
       "badge": "Fed / Policy",
-      "items": []
+      "items": [
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 17:02:51",
+          "title": "拥有优异信用记录是找到最佳信用卡利率的关键。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-interest-rates-193519877.html",
+          "title_en": "How to find the best credit card interest rates: Excellent credit is key"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 17:02:51",
+          "title": "今日最佳定期存款利率（2026年3月26日），最高可锁定4.1%年利率",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-cd-rates-today-thursday-march-26-2026-100000295.html",
+          "title_en": "Best CD rates today, March 26, 2026 (lock in up to 4.1% APY)"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 17:02:51",
+          "title": "巴克莱将3家欧洲化学股降级，通胀冲击再次引发调整",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/barclays-cuts-3-european-chemicals-stocks-as-inflation-shock-forces-another-reset-4584288",
+          "title_en": "Barclays cuts 3 European Chemicals stocks as inflation shock forces another reset"
+        }
+      ]
     },
     {
       "name": "地缘/能源/避险",
@@ -206,16 +216,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "美国股市收盘上涨，受美国结束伊朗战争的努力推动。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-finish-higher-us-push-203541408.html",
-          "title_en": "Stocks Finish Higher on US Push to End Iran War"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
+          "time": "2026-03-27 17:02:51",
           "title": "管道项目再次上线，作为加拿大能源战略重置的举措。",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/energy/articles/pipelines-back-play-canada-eyes-213045761.html",
@@ -224,11 +225,40 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
+          "time": "2026-03-27 17:02:51",
           "title": "欧洲股市低迷，特朗普延长了针对伊朗核电站的最后期限",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/european-stocks-subdued-after-trump-extends-deadline-for-iran-power-plant-attacks-4584253",
           "title_en": "European stocks subdued after Trump extends deadline for Iran power plant attacks"
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-27 16:48:02",
+          "title": "欧洲股市下跌，特朗普延长伊朗袭击暂停，G7部长会议举行",
+          "summary": "",
+          "url": "https://www.cnbc.com/2026/03/27/european-stocks-open-higher-trump-delays-strikes.html",
+          "title_en": "European stocks fall as Trump extends Iran strike hiatus and G7 ministers meet"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-27 16:44:54",
+          "title": "印度因避免因伊朗战争而使汽油价格大幅上涨而损失了大量税收。",
+          "summary": "印度因应伊朗战争导致油价飙升而大幅降低汽油附加税，导致税收大幅下滑。",
+          "url": "https://www.cnbc.com/2026/03/27/india-fuel-tax-cut-oil-prices-iran-war-impact.html",
+          "title_en": "India takes a ‘huge hit’ on tax revenue to keep fuel prices from surging during the Iran war",
+          "summary_en": "India takes a huge tax revenue hit as it cuts fuel excise duties to shield consumers from soaring oil prices caused by the Iran war."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-27 16:35:54",
+          "title": "外资从印度股市撤出创纪录的 1200 亿卢比，受伊朗战争影响",
+          "summary": "外资从印度股市撤出创纪录的 120亿美元，伊朗冲突推高能源成本并引发经济增长的疑虑。",
+          "url": "https://www.cnbc.com/2026/03/27/indian-equities-foreign-investors-sell-12-billion-stocks.html",
+          "title_en": "Foreign investors pull a record $12 billion from Indian stocks, sparked by Iran war",
+          "summary_en": "Foreign investors are pulling out a record $12 billion from Indian equities as the Iran conflict drives up energy costs and raises doubts on economic growth."
         },
         {
           "source": "CNBC-Top",
@@ -249,25 +279,6 @@
           "url": "https://www.cnbc.com/2026/03/27/asia-private-equity-fundraising-tested-middle-east-in-doldrum-deals.html",
           "title_en": "'Not unlike tariffs': Iran war threatens to deepen Asia private equity's worst fundraising slump in a decade",
           "summary_en": "The Middle East war has introduced a new layer of uncertainty for Asia-focused private equity managers already navigating a multiyear fundraising slump."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-27 15:19:43",
-          "title": "欧洲股市预计将以高开的状态开启，因为特朗普延长了罢工的休战期。",
-          "summary": "",
-          "url": "https://www.cnbc.com/2026/03/27/european-stocks-open-higher-trump-delays-strikes.html",
-          "title_en": "European stocks expected to open higher as Trump extends strike hiatus"
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-27 15:14:57",
-          "title": "外资从印度股市撤出创纪录的 1200 亿卢比，受伊朗战争影响",
-          "summary": "外资从印度股市撤出创纪录的 120亿美元，伊朗冲突推高能源成本并引发经济增长的疑虑。",
-          "url": "https://www.cnbc.com/2026/03/27/indian-equities-foreign-investors-sell-12-billion-stocks.html",
-          "title_en": "Foreign investors pull a record $12 billion from Indian stocks, sparked by Iran war",
-          "summary_en": "Foreign investors are pulling out a record $12 billion from Indian equities as the Iran conflict drives up energy costs and raises doubts on economic growth."
         },
         {
           "source": "CNBC-World",
@@ -386,15 +397,6 @@
       "badge": "TSLA chain",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "SpaceX IPO申报周内？空间股大涨，特斯拉上涨",
-          "summary": "",
-          "url": "https://www.investors.com/news/spacex-ipo-elon-musk-space-company-listing/?src=A00220&yptr=yahoo",
-          "title_en": "SpaceX IPO Filing This Week? Space Stocks Soar, Tesla Rises"
-        },
-        {
           "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-03-26 17:09:51",
@@ -413,88 +415,88 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "基本材料周报：市场评论",
+          "time": "2026-03-27 17:02:51",
+          "title": "2026年3月最佳转账无息信用卡：不用到2027年才开始支付利息",
           "summary": "",
-          "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-6fd296d5?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Basic Materials Roundup: Market Talk"
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-balance-transfer-credit-cards-123841213.html",
+          "title_en": "The best balance transfer credit cards for March 2026: Don't pay any interest until 2027"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "ETF联盟表：SPDR ETFs吸收19亿美元的资金",
+          "time": "2026-03-27 17:02:51",
+          "title": "2026年3月无年费最佳信用卡",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-19b-inflows-210004134.html",
-          "title_en": "ETF League Tables: $19B Inflows For SPDR ETFs"
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-with-no-annual-fee-204747522.html",
+          "title_en": "Best credit cards with no annual fee for March 2026"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "ETF日流通量：BIL SGOV进入流通量排行榜",
+          "time": "2026-03-27 17:02:51",
+          "title": "2026年3月最佳0%利率信用卡：避免在购物和余额转账上支付利息，最高可达24个月",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-bil-sgov-210003386.html",
-          "title_en": "Daily ETF Flows: BIL SGOV Make The List"
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/the-best-0-apr-credit-cards-for-march-2026-avoid-paying-interest-for-up-to-24-months-on-purchases-and-balance-transfers-181718599.html",
+          "title_en": "The best 0% APR credit cards for March 2026: Avoid paying interest for up to 24 months on purchases and balance transfers"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "在时间紧迫的清晰法案背景下，凯西伍德投资了下跌的加密名义",
+          "time": "2026-03-27 17:02:51",
+          "title": "最佳汽油卡推荐（2026年3月）",
           "summary": "",
-          "url": "https://www.investors.com/news/clarity-act-stablecoin-deal-yields-reward-payments-circle-stock-coinbase/?src=A00220&yptr=yahoo",
-          "title_en": "As The Clarity Act Clock Ticks, Cathie Wood Buys Diving Crypto Name"
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-for-gas-234013440.html",
+          "title_en": "Best credit cards for gas for March 2026"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "3月2026年最佳家装信用卡",
+          "time": "2026-03-27 17:02:51",
+          "title": "Ally无限现金回报マスターカード评估：现金回报的简单方法",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-for-home-improvement-214525388.html",
-          "title_en": "Best credit cards for home improvement in March 2026"
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/ally-unlimited-cash-back-review-165948540.html",
+          "title_en": "Ally Unlimited Cash Back Mastercard review: A simplistic approach to cash back"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "是否是时候买入科技股的低点——还是应该逃之夭夭？",
+          "time": "2026-03-27 17:02:51",
+          "title": "Wells Fargo Autograph Journey℠卡评测：为常旅客设计的高收益卡",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/now-time-buy-tech-dip-210200814.html",
-          "title_en": "Is Now the Time to Buy the Tech Dip -- or Should You Run for the Hills?"
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/wells-fargo-autograph-journey-card-review-215134623.html",
+          "title_en": "Wells Fargo Autograph Journey℠ Card review: A high-earning card designed for frequent travelers"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "Paychex, Inc. 2026年第三季度财报电话会议总结",
+          "time": "2026-03-27 17:02:51",
+          "title": "适合在沃尔玛购物的最佳信用卡（2026年3月）",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/paychex-inc-q3-2026-earnings-204056392.html",
-          "title_en": "Paychex, Inc. Q3 2026 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-for-walmart-182948137.html",
+          "title_en": "Best credit cards for shopping at Walmart (March 2026)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "爱普森能源有限公司2025年第四季度财报电话会议总结",
+          "time": "2026-03-27 17:02:51",
+          "title": "最佳的带流媒体优惠的信用卡推荐：节省Netflix、Hulu等",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/epsilon-energy-ltd-q4-2025-204032854.html",
-          "title_en": "Epsilon Energy Ltd. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-for-streaming-185209431.html",
+          "title_en": "Best credit cards with streaming perks for March 2026: Save on Netflix, Hulu, and more"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "许多房东和租赁公司接受信用卡付款，但可能会收取额外的手续费。",
+          "time": "2026-03-27 17:02:51",
+          "title": "信用卡利息计算方法：首先计算信用卡欠款的本金；然后根据信用卡的利率计算利息；最后将利息加上本金即可得出信用卡欠款的总金额。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/can-you-pay-rent-with-a-credit-card-000451795.html",
-          "title_en": "Can you pay rent with a credit card?"
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-to-calculate-credit-card-interest-222228806.html",
+          "title_en": "How to calculate credit card interest"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
+          "time": "2026-03-27 17:02:51",
           "title": "分析报告：CMS能源公司",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_2849_AnalystReport_1774544291000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -503,43 +505,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "三分之一的美国人承认他们会负债来应对一千美元的紧急情况——专家说你需要做的就是这样",
+          "time": "2026-03-27 17:02:51",
+          "title": "本月最佳现金返还信用卡",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/articles/one-third-americans-admit-debt-210111688.html",
-          "title_en": "One-Third of Americans Admit They Would Go Into Debt to Cover a $1,000 Emergency — Here's the Move Experts Say You Need to Make"
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-cash-back-credit-cards-182338292.html",
+          "title_en": "The best cash-back credit cards for March 2026"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "每年（2026）重置的信用卡福利清单",
+          "time": "2026-03-27 17:02:51",
+          "title": "威尔士福尔格活期现金卡评测：无限2%现金返还和0%首期年利率",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/credit-card-perks-calendar-year-214541060.html",
-          "title_en": "The complete list of credit card perks that reset each calendar year (2026)"
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/wells-fargo-active-cash-card-180512515.html",
+          "title_en": "Wells Fargo Active Cash Card review: Unlimited 2% cash back and 0% intro APR"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "社交媒体审判结果出来后，下一步是什么？",
+          "time": "2026-03-27 17:02:51",
+          "title": "黄金IRA税规则：黄金IRA的税务",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/explainer-comes-next-social-media-203049039.html",
-          "title_en": "Explainer-What comes next after the social media trial verdicts?"
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-ira-tax-rules-how-gold-iras-are-taxed-145254347.html",
+          "title_en": "Gold IRA tax rules: How gold IRAs are taxed"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "股市今日：小盘股和科技股领涨；这一核能股大幅上涨，但微芯片股下跌（实时直播）",
+          "time": "2026-03-27 17:02:51",
+          "title": "AARP旅行奖励巴克莱卡（Barclays）评估：一个不仅限于老年人的稳固奖励卡",
           "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-peace-plan-oil-prices/?src=A00220&yptr=yahoo",
-          "title_en": "Stock Market Today: Small Caps, Techs Lead Gains; This Nuclear Play Breaks Out But Micron Sinks (Live Coverage)"
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/aarp-travel-rewards-mastercard-191437742.html",
+          "title_en": "AARP® Travel Rewards Mastercard® from Barclays review: A solid rewards card that's not just for seniors"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
+          "time": "2026-03-27 17:02:51",
           "title": "分析报告：Brighthouse Financial Inc",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3715_AnalystReport_1774544291000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -548,29 +550,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "医疗保健快讯：市场热点",
+          "time": "2026-03-27 17:02:51",
+          "title": "Wells Fargo Autograph卡评测：无奢华，高回报",
           "summary": "",
-          "url": "https://www.wsj.com/health/health-care-roundup-market-talk-e07cf090?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Health Care Roundup: Market Talk"
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/wells-fargo-autograph-card-review-174306239.html",
+          "title_en": "Wells Fargo Autograph Card review: No frills and high rewards"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "考虑投资黄金的决定取决于多种因素，包括您的投资目标、风险承受能力和市场预测。",
+          "time": "2026-03-27 17:02:51",
+          "title": "mansion税又称为豪宅税，是一种针对高价值房产的附加税。它通常适用于价值超过某个阈值的房产，例如100万美元或200万美元。 mansion税的具体实施细则可能因地区而异，但一般来说，它会在房产交易时收取。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/should-i-invest-in-gold-in-2026-211543609.html",
-          "title_en": "Should I invest in gold in 2026?"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mansion-taxes-175547491.html",
+          "title_en": "What are mansion taxes, and how do they work?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 16:32:08",
-          "title": "在今天的市场中，人们如何负担起房子？10位专家推荐的买家建议。",
+          "time": "2026-03-27 17:02:51",
+          "title": "三分之一的美国人承认他们会负债来应对一千美元的紧急情况——专家说你需要做的就是这样",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/how-are-people-affording-houses-in-todays-market-195928862.html",
-          "title_en": "How are people affording houses in today's market? 10 expert-backed tips for buyers."
+          "url": "https://finance.yahoo.com/markets/articles/one-third-americans-admit-debt-210111688.html",
+          "title_en": "One-Third of Americans Admit They Would Go Into Debt to Cover a $1,000 Emergency — Here's the Move Experts Say You Need to Make"
         }
       ]
     }
