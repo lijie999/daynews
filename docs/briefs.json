@@ -1,6 +1,6 @@
 {
   "date": "2026.03.27",
-  "generatedAtBJT": "2026-03-27 08:25:12",
+  "generatedAtBJT": "2026-03-27 08:55:33",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-27 08:25:12",
+          "time": "2026-03-27 08:55:33",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主要驱动因素：10年期利率 + 原油价格/风险事件\n- 四大监控指标：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗",
+          "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→NQ/ES承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Trump’s war in Iran threatens to topple the dollar…\n- 宏观/Fed线索：Morning Minute: Circle Plunges 20% Over Clarity Act Yield Changes…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Jim Cramer Says Retailers Like Walmart Would “Do Well If You Think That …\n- 宏观/Fed线索：Jim Cramer Notes That the Charitable Trust Holds On to Home Depot In Cas…"
         }
       ]
     },
@@ -29,29 +29,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
+          "time": "2026-03-27 08:55:28",
           "title": "SLB扩大与Nvidia的合作，共同开发能源行业的AI基础设施。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/slb-expands-nvidia-partnership-develop-125705214.html",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/slb-expands-nvidia-partnership-develop-125705668.html",
           "title_en": "SLB expands Nvidia partnership to develop AI infrastructure for energy sector"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 08:55:28",
+          "title": "2张图解释OpenAI为何突然停止Sora的服务",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/2-charts-explain-why-openai-just-pulled-the-plug-on-sora-133016441.html",
+          "title_en": "2 charts explain why OpenAI just pulled the plug on Sora"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 08:55:28",
+          "title": "心怀机遇价值策略的AI担忧被证明是错误的， Alphabet（GOOGL）股价翻倍",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heartland-opportunistic-value-equity-strategy-134403745.html",
+          "title_en": "Heartland Opportunistic Value Equity Strategy’s AI Concerns Proved Wrong as Alphabet (GOOGL) Shares Doubled"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
+          "time": "2026-03-27 08:55:28",
           "title": "OpenAI的美国广告试点在六周内达到每年化$1000万美元的年化收入",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/openais-us-ad-pilot-exceeds-100-million-in-annualized-revenue-in-six-weeks-4583934",
           "title_en": "OpenAI’s US ad pilot exceeds $100 million in annualized revenue in six weeks"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
-          "title": "美国法庭对Meta和谷歌的裁决，预示着技术责任保护壁垒的斗争即将开始。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/us-jury-verdicts-against-meta-google-tee-up-fight-over-tech-liability-shield-4581778",
-          "title_en": "US jury verdicts against Meta, Google tee up fight over tech liability shield"
         },
         {
           "source": "MarketWatch-Top",
@@ -192,16 +201,6 @@
           "url": "https://www.cnbc.com/2026/03/26/google-ai-turboquant-memory-chip-stocks-samsung-micron.html",
           "title_en": "A Google AI breakthrough is pressuring memory chip stocks from Samsung to Micron",
           "summary_en": "SK Hynix, Samsung and Micron shares fell as investors fear fewer memory chips may be required in the future."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-26 04:11:04",
-          "title": "Arm跳涨16%，公司预计新芯片将带来收入风暴，这被认为是“重大转变”。",
-          "summary": "Arm表示，预计其新芯片将在2031年产生的收入比2025年4亿美元高六倍。",
-          "url": "https://www.cnbc.com/2026/03/25/arm-stock-chip-revenue-agi-cpu.html",
-          "title_en": "Arm jumps 16% as company expects revenue windfall from new chip, a 'significant shift'",
-          "summary_en": "Arm said it expects its new chip to generate six times more revenue in 2031 than the $4 billion it made in 2025."
         }
       ]
     },
@@ -212,20 +211,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
-          "title": "晨间一分钟：环形公司股价暴跌20%，因清晰度法案收益率变化",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/morning-minute-circle-plunges-20-122412098.html",
-          "title_en": "Morning Minute: Circle Plunges 20% Over Clarity Act Yield Changes"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
+          "time": "2026-03-27 08:55:28",
           "title": "吉姆·克雷默注意到慈善信托持有Home Depot的股份，以防利率降低。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-charitable-trust-131337924.html",
           "title_en": "Jim Cramer Notes That the Charitable Trust Holds On to Home Depot In Case the Rates Get Cut"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 08:55:28",
+          "title": "达维·拉姆斯公司员工通过兼职工作四年清偿了118万美元的债务",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/options/articles/dave-ramsey-employee-paid-off-125825704.html",
+          "title_en": "A Dave Ramsey Employee Paid Off $118,000 in Four Years By Working Two Side Jobs"
         },
         {
           "source": "CNBC-Top",
@@ -256,25 +255,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
-          "title": "特朗普对伊朗的战争威胁着美元的霸权",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/currencies/articles/trump-war-iran-threatens-topple-122146761.html",
-          "title_en": "Trump’s war in Iran threatens to topple the dollar"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
+          "time": "2026-03-27 08:55:28",
           "title": "詹姆斯·克拉默表示，如果人们认为油价上涨会导致经济放缓，那么零售商如沃尔玛将会“表现良好”。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-retailers-walmart-131336536.html",
           "title_en": "Jim Cramer Says Retailers Like Walmart Would “Do Well If You Think That We’re Headed Toward a Slowdown Because of Oil Prices”"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 08:55:28",
+          "title": "上一次油价大幅上涨，仅用了60天股市就崩盘了。现在的时钟正在倒计时。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/last-time-oil-prices-spiked-133209867.html",
+          "title_en": "The Last Time Oil Prices Spiked, It Took Just 60 Days for the Stock Market to Crash. The Clock Is Ticking Now"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
+          "time": "2026-03-27 08:55:28",
           "title": "中国顶级芯片制造商向伊朗军方供应芯片制造技术，美国官员称",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/exclusivechinas-top-chipmaker-has-supplied-chipmaking-tech-to-iran-military-us-officials-say-4584039",
@@ -465,43 +464,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
-          "title": "Achieve Life Sciences, Inc. 2025年第四季度财报电话会议总结",
+          "time": "2026-03-27 08:55:28",
+          "title": "黄金缓慢反弹至4,600美元附近。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/achieve-life-sciences-inc-q4-123000458.html",
-          "title_en": "Achieve Life Sciences, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-25-2026/card/gold-claws-its-way-back-toward-4-600-fOvrU9UiafGBsyjWHjvJ?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Gold Claws Its Way Back Toward $4,600"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
-          "title": "ACCESS Newswire Inc. 2025 年第四季度财报电话会议总结",
+          "time": "2026-03-27 08:55:28",
+          "title": "HSBC刚刚将Arm的评级从中性提升到了买入。那么，这是否意味着Arm现在是一个买入机会？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/access-newswire-inc-q4-2025-123000091.html",
-          "title_en": "ACCESS Newswire Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-just-double-upgraded-arm-130002402.html",
+          "title_en": "HSBC Just Double-Upgraded Arm Stock. Does That Make It a Buy Here?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
-          "title": "MaxCyte, Inc.第四季度2025年财报电话会议总结",
+          "time": "2026-03-27 08:55:28",
+          "title": "Bitpanda推出欧洲银行与tokenized资产的连接服务",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/maxcyte-inc-q4-2025-earnings-123000038.html",
-          "title_en": "MaxCyte, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bitpanda-links-european-banks-tokenized-130500971.html",
+          "title_en": "Bitpanda Links European Banks With Tokenized Assets"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
-          "title": "康塞特里克斯公司2026年第一季度财报电话会议总结",
+          "time": "2026-03-27 08:55:28",
+          "title": "阿博特财报前瞻：预期值",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/concentrix-corporation-q1-2026-earnings-123000497.html",
-          "title_en": "Concentrix Corporation Q1 2026 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/abbott-earnings-preview-expect-130616282.html",
+          "title_en": "Abbott Earnings Preview: What to Expect"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
+          "time": "2026-03-27 08:55:28",
           "title": "股市可以承受回调",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46550_MarketOutlook_1774524185000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -510,52 +509,52 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
-          "title": "VALT银行获得条件OCC许可证",
+          "time": "2026-03-27 08:55:28",
+          "title": "为什么Micron是买入的绝佳股票\n\nMicron (MU) 的股价已经从去年的低点大幅上涨，目前仍然有很大的增长空间。",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/valt-bank-receives-conditional-occ-122251433.html",
-          "title_en": "VALT Bank gets conditional OCC charter"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-why-micron-brilliant-125200553.html",
+          "title_en": "3 Reasons Why Micron Is a Brilliant Stock to Buy"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
-          "title": "TELA生物公司2025年第四季度财报电话会议总结",
+          "time": "2026-03-27 08:55:28",
+          "title": "吉姆·克拉默称：“目标公司表现出色”",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/tela-bio-inc-q4-2025-123000403.html",
-          "title_en": "TELA Bio, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-target-standout-131334926.html",
+          "title_en": "Jim Cramer Says “Target Has Been a Standout”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
-          "title": "PaySign, Inc. 2025 年第四季度财报电话会议总结",
+          "time": "2026-03-27 08:55:28",
+          "title": "吉姆·克雷默（Jim Cramer）谈到五下（Five Below）：我认为它会保持强势。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/paysign-inc-q4-2025-earnings-123000997.html",
-          "title_en": "PaySign, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-five-below-think-131333464.html",
+          "title_en": "Jim Cramer on Five Below: “I Think It’s Staying Strong”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
-          "title": "AAR Corp. Q3 2026财报电话会议总结",
+          "time": "2026-03-27 08:55:28",
+          "title": "吉姆·克拉默（Jim Cramer）对Swarmr, Inc.的看法：“让我们称它为一个酷的故事，但不超过那点。”",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aar-corp-q3-2026-earnings-123000449.html",
-          "title_en": "AAR Corp. Q3 2026 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-swarmer-inc-let-131324517.html",
+          "title_en": "Jim Cramer on Swarmer, Inc.: “Let’s Call It a Cool Story, But Not Much More Than That”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
-          "title": "LENZ Therapeutics, Inc. 2025 年第四季度财报电话会议总结",
+          "time": "2026-03-27 08:55:28",
+          "title": "吉姆·克拉默谈到罗斯百货： “那一季度的表现比我多年来看到的罗斯百货强得多”",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/lenz-therapeutics-inc-q4-2025-123000346.html",
-          "title_en": "LENZ Therapeutics, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-ross-stores-last-131331578.html",
+          "title_en": "Jim Cramer on Ross Stores: “That Last Quarter Showed More Strength Than I’ve Seen From That Company in Ages”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
+          "time": "2026-03-27 08:55:28",
           "title": "中期看多。",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46549_TechnicalAnalysis_1774524030000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -564,43 +563,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
-          "title": "Intrusion Inc. 2025年第四季度财报电话会议总结",
+          "time": "2026-03-27 08:55:28",
+          "title": "5 个稳定性最高的州的房屋保险 - 这意味着你的保费将如何",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intrusion-inc-q4-2025-earnings-123000320.html",
-          "title_en": "Intrusion Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/economy/policy/articles/5-states-where-home-insurance-125506882.html",
+          "title_en": "5 States Where Home Insurance Is the Most Stable – and What That Means for Your Premiums"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
-          "title": "芬内克药物公司2025年第四季度财报电话会议总结",
+          "time": "2026-03-27 08:55:28",
+          "title": "吉姆·克拉默（Jim Cramer）强调了ULTA（Ulta Beauty）的高端销售强劲，尽管最近的财报略有失望。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/fennec-pharmaceuticals-inc-q4-2025-123000262.html",
-          "title_en": "Fennec Pharmaceuticals Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-ulta-beauty-131326288.html",
+          "title_en": "Jim Cramer Highlights Ulta Beauty For Its Strong High End Sales Despite A Recent Earnings Miss"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
-          "title": "垂直航空公司2025年第四季度财报电话会议总结",
+          "time": "2026-03-27 08:55:28",
+          "title": "吉姆·克拉默（Jim Cramer）称TJX公司“通过收购受困零售商的过剩库存赚取暴利”。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vertical-aerospace-ltd-q4-2025-123000397.html",
-          "title_en": "Vertical Aerospace Ltd. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-tjx-companies-131330878.html",
+          "title_en": "Jim Cramer Highlights TJX Companies Are “Making a Killing By Scooping Up Excess Inventory From Troubled Retailers”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
-          "title": "KB Home Q1 2026财报电话会议总结： \n\nKB Home Q1 2026财报显示，收入为 2.45 亿美元，同比增长 10%。公司的收入和毛利率均超过预期。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/kb-home-q1-2026-earnings-123000788.html",
-          "title_en": "KB Home Q1 2026 Earnings Call Summary"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
+          "time": "2026-03-27 08:55:28",
           "title": "分析报告：太阳生命财务公司",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3394_AnalystReport_1774521714000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -609,20 +599,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
-          "title": "Bansk Group 将收购 So Good So You 品牌。",
+          "time": "2026-03-27 08:55:28",
+          "title": "拉姆西给54岁的打电话者留下了零存款，但却说：“你将成为百万富翁”。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bansk-group-acquire-wellness-shots-122708408.html",
-          "title_en": "Bansk Group to acquire wellness shots brand So Good So You"
+          "url": "https://finance.yahoo.com/markets/options/articles/ramsey-blesses-54y-old-caller-125814613.html",
+          "title_en": "Ramsey Blesses 54y Old Caller With Zero Savings, Saying “you’re going to be a millionaire”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-27 08:25:08",
-          "title": "沃思顿工业公司第三季度2026年财报电话会议总结",
+          "time": "2026-03-27 08:55:28",
+          "title": "吉姆·克雷默表示他不会对类似道尔树的便利店下注。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/worthington-industries-inc-q3-2026-123000651.html",
-          "title_en": "Worthington Industries, Inc. Q3 2026 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-wouldn-t-131339390.html",
+          "title_en": "Jim Cramer Says He Wouldn’t Bet Against Dollar Stores Like Dollar Tree"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-27 08:55:28",
+          "title": "詹姆斯·克雷默称雅各布解决方案的回调毫无道理。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-pullback-jacobs-131328017.html",
+          "title_en": "Jim Cramer Says the Pullback in Jacobs Solutions Makes No Sense to Him"
         }
       ]
     }
