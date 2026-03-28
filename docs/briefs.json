@@ -1,6 +1,6 @@
 {
   "date": "2026.03.29",
-  "generatedAtBJT": "2026-03-29 04:37:58",
+  "generatedAtBJT": "2026-03-29 05:08:22",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,7 +14,7 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-29 04:37:58",
+          "time": "2026-03-29 05:08:22",
           "title": "主线结论（系统版｜条件触发）",
           "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动",
           "url": "#",
@@ -29,7 +29,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
+          "time": "2026-03-29 05:08:18",
+          "title": "联邦储备委员会（FOMC）会议后，美国股市出现了波动。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/unitedhealth-group-unh-launches-ai-210007765.html",
+          "title_en": "UnitedHealth Group (UNH) Launches AI Companion Avery"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-29 05:08:18",
           "title": "\"7大股\"价值超过8,500亿美元蒸发，人工智能股受股市大跌重创",
           "summary": "",
           "url": "https://finance.yahoo.com/news/magnificent-7-stocks-wipe-more-than-850-billion-in-value-as-stock-market-sell-off-hits-ai-winners-hard-213921360.html",
@@ -38,34 +47,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "奥克罗（Oklo）的AI助力风向渐渐消失，燃料和融资风险增大",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklos-ai-tailwind-fades-fuel-200700729.html",
-          "title_en": "Oklo's AI tailwind fades as fuel and financing risks grow"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "ARM新AI芯片意味着什么",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/ai-chip-means-arm-holdings-151854629.html",
-          "title_en": "Here’s What The New AI Chip Means For Arm Holdings (ARM)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "Shopify (SHOP)成功添加了另一个AI集成",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/shopify-shop-adds-another-ai-151849403.html",
-          "title_en": "Shopify (SHOP) Adds Another AI Integration Successfully"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
+          "time": "2026-03-29 05:08:18",
           "title": "市场摘要：CPB、PAYX、PRGO、DAL、META、BRSL",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46561_MarketSummary_1774608222000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -74,7 +56,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
+          "time": "2026-03-29 05:08:18",
+          "title": "奥克罗（Oklo）的AI助力风向渐渐消失，燃料和融资风险增大",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklos-ai-tailwind-fades-fuel-200700729.html",
+          "title_en": "Oklo's AI tailwind fades as fuel and financing risks grow"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-29 05:08:18",
+          "title": "ARM新AI芯片意味着什么",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/ai-chip-means-arm-holdings-151854629.html",
+          "title_en": "Here’s What The New AI Chip Means For Arm Holdings (ARM)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-29 05:08:18",
+          "title": "Shopify (SHOP)成功添加了另一个AI集成",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/shopify-shop-adds-another-ai-151849403.html",
+          "title_en": "Shopify (SHOP) Adds Another AI Integration Successfully"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-29 05:08:18",
           "title": "台积电（TSM）在紧张的产能条件下继续强劲",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/technology/articles/taiwan-semiconductor-tsm-going-strong-151840195.html",
@@ -83,25 +92,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
+          "time": "2026-03-29 05:08:18",
           "title": "分析师在GTC之后提高了他们对NVIDIA（NVDA）的股价目标",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-nudge-nvidia-nvda-price-151838495.html",
           "title_en": "Analysts Nudge Their Nvidia (NVDA) Price Targets Higher After GTC"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "NVIDIA (NVDA) 股价上涨，Jim Cramer批评卖家",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-shares-higher-jim-134935341.html",
-          "title_en": "NVIDIA (NVDA) Shares Higher After Jim Cramer Criticized Sellers"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
+          "time": "2026-03-29 05:08:18",
           "title": "韩国综合股价指数（KOSPI）进一步下滑；记忆芯片股受谷歌AI突破的打击。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/kospi-slides-further-memory-chip-stocks-battered-by-google-ai-breakthrough-4584088",
@@ -176,7 +176,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
+          "time": "2026-03-29 05:08:18",
           "title": "美国第一信用合作社评估（2026）：符合会员资格的市场领先的CD利率",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/review/america-first-credit-union-review-204737529.html",
@@ -185,20 +185,47 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "房贷利率是否会再次降至3%？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/will-mortgage-rates-ever-be-3-again-183831629.html",
-          "title_en": "Will mortgage rates ever drop to 3% again?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
+          "time": "2026-03-29 05:08:18",
           "title": "今日（3月28日）房贷和再融资利率达到6个月高点。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-march-28-2026-100000155.html",
           "title_en": "Mortgage and refinance interest rates today, March 28, 2026: Rates reach 6-month high"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-29 05:08:18",
+          "title": "今日最佳存款利率（最高4.15% APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-cd-rates-today-saturday-march-28-2026-100000522.html",
+          "title_en": "Best CD rates today, March 28, 2026 (best account provides 4.15% APY)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-29 05:08:18",
+          "title": "截至2026年3月28日，今日高收益储蓄利率最高可达4%APY。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-high-yield-savings-interest-rates-today-saturday-march-28-2026-100000520.html",
+          "title_en": "Best high-yield savings interest rates today, March 28, 2026 (Earn up to 4% APY)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-29 05:08:18",
+          "title": "本周六，HELOC和房屋抵押贷款利率保持在7%以上。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-march-28-2026-100000118.html",
+          "title_en": "HELOC and home equity loan rates Saturday, March 28, 2026: Rates hold above 7%"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-29 05:08:18",
+          "title": "截至2026年3月28日，最佳现金市场账户利率（最高利率账户提供4.01%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-money-market-account-rates-today-saturday-march-28-2026-100000089.html",
+          "title_en": "Best money market account rates today, March 28, 2026 (best account provides 4.01% APY)"
         },
         {
           "source": "CNBC-Top",
@@ -219,7 +246,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
+          "time": "2026-03-29 05:08:18",
           "title": "道琼斯期货：市场暴跌油价触及100美元的伊朗战争；现在该怎么做？",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-near-100-iran-war-drags-tesla-deliveries/?src=A00220&yptr=yahoo",
@@ -353,16 +380,6 @@
           "url": "https://www.cnbc.com/2026/03/27/russia-helium-supply-crunch-iran-war.html",
           "title_en": "The Tech Download: How Russia could profit from Iran war helium supply chain disruption in the chip sector",
           "summary_en": "Helium has emerged as a key focus for the tech sector as industry watchers cast their minds to the implications of a prolonged Iran war."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-27 16:44:54",
-          "title": "印度因避免因伊朗战争而使汽油价格大幅上涨而损失了大量税收。",
-          "summary": "印度因应伊朗战争导致油价飙升而大幅降低汽油附加税，导致税收大幅下滑。",
-          "url": "https://www.cnbc.com/2026/03/27/india-fuel-tax-cut-oil-prices-iran-war-impact.html",
-          "title_en": "India takes a ‘huge hit’ on tax revenue to keep fuel prices from surging during the Iran war",
-          "summary_en": "India takes a huge tax revenue hit as it cuts fuel excise duties to shield consumers from soaring oil prices caused by the Iran war."
         }
       ]
     },
@@ -373,20 +390,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
+          "time": "2026-03-29 05:08:18",
           "title": "巴克莱指出特斯拉(TSLA)资本支出担忧",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/braclays-points-capex-concerns-tesla-151845903.html",
           "title_en": "Braclays Points Out CapEx Concerns for Tesla (TSLA) Stock"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "特斯拉(TSLA)股价上涨，Jim Cramer称其有选股潜力。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-shares-jim-cramer-134928306.html",
-          "title_en": "Tesla (TSLA) Shares Up After Jim Cramer Said It Had Options"
         }
       ]
     },
@@ -397,34 +405,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "杰普摩根的高风险计划：为EA交易融资",
+          "time": "2026-03-29 05:08:18",
+          "title": "TransAlta投资者日：CEO交接，2026 EBITDA预期，数据中心和Centralia增长押注",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/inside-project-eagle-jpmorgan-high-190000250.html",
-          "title_en": "Inside ‘Project Eagle,’ JPMorgan’s high-wire act to fund EA deal"
+          "url": "https://finance.yahoo.com/sectors/energy/articles/transalta-investor-day-ceo-transition-210207523.html",
+          "title_en": "TransAlta Investor Day: CEO Transition, 2026 EBITDA View, and Growth Bets on Data Centers & Centralia"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "汽油价格上涨可能是好消息对于电动汽车",
+          "time": "2026-03-29 05:08:18",
+          "title": "紧缩的信贷条件和演变的监管风向标正在塑造分析师对JPMorgan Chase（JPM）的叙述。",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/article/rising-gas-prices-could-be-good-news-for-evs-151643093.html",
-          "title_en": "Rising gas prices could be good news for EVs"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tightening-credit-conditions-evolving-regulatory-205857075.html",
+          "title_en": "Tightening Credit Conditions and Evolving Regulatory Tailwinds Shaping Analyst Narrative Around JPMorgan Chase (JPM)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "目前市场上几乎所有事情都在不顺利。",
+          "time": "2026-03-29 05:08:18",
+          "title": "Evercore对Union Pacific (UNP)持乐观态度，受益于强劲的货物量增长和坚韧的利润率。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/almost-everything-is-going-wrong-for-markets-right-now-100005327.html",
-          "title_en": "Almost everything is going wrong for markets right now"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/evercore-bullish-union-pacific-unp-205711509.html",
+          "title_en": "Evercore Bullish on Union Pacific (UNP) Amid Strong Volume Growth and Robust Margins"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
+          "time": "2026-03-29 05:08:18",
+          "title": "默克公司（MRK）将以 67 亿美元收购 Terns Pharma",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/merck-co-mrk-acquire-terns-205555495.html",
+          "title_en": "Merck & Co. (MRK) to Acquire Terns Pharma for $6.7 Billion"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-29 05:08:18",
           "title": "分析报告：Paychex Inc",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3608_AnalystReport_1774609122000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -433,34 +450,52 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "我咨询的财务顾问在10年里对我多收费了15万美元，如何才能让我钱回来？",
+          "time": "2026-03-29 05:08:18",
+          "title": "Jefferies对The Home Depot (HD)持乐观态度，随着Mingledorff收购。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/articles/financial-advisor-overcharged-15k-over-162000395.html",
-          "title_en": "My financial advisor overcharged me $15K over 10 years — how can I get my money back?"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-bullish-home-depot-hd-205452289.html",
+          "title_en": "Jefferies Bullish on The Home Depot (HD) Following Mingledorff Acquisition"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "全球各地的工人都感到他们的工作安全性很差。",
+          "time": "2026-03-29 05:08:18",
+          "title": "分析师对麦当劳(MCD)持乐观态度，考虑到其2025年第四季度和全年业绩强劲",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/workers-everywhere-feel-very-bad-about-their-job-security-160224025.html",
-          "title_en": "Workers everywhere feel very bad about their job security"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-remain-constructive-mcdonald-mcd-205402726.html",
+          "title_en": "Analysts Remain Constructive on McDonald’s (MCD) Following Strong Q4 and Full-Year 2025 Performance"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "分析师发出警告信号，出于对高级微电子公司（AMD）的需求担忧",
+          "time": "2026-03-29 05:08:18",
+          "title": "分析师对宝洁公司持有积极态度，尽管消费者情绪疲软。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-signals-caution-amid-demand-151852290.html",
-          "title_en": "Analyst Signals Caution Amid Demand Concerns For Advanced Micro Devices (AMD)"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-constructive-procter-gamble-pg-205256745.html",
+          "title_en": "Analysts Constructive on The Procter & Gamble (PG) Amid Sluggish Consumer Sentiment"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
+          "time": "2026-03-29 05:08:18",
+          "title": "Jefferies对可口可乐公司(COKE)持乐观态度，受益于蛋白质业务强劲的前景。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-bullish-coca-cola-company-205155333.html",
+          "title_en": "Jefferies Bullish on The Coca-Cola Company (KO) Amid Strong Protein Business Outlook"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-29 05:08:18",
+          "title": "百时美施贵宝（BMY）面临分析师的混合预期，尽管医疗保健行业保持强劲动能。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/bristol-myers-squibb-bmy-faces-205109228.html",
+          "title_en": "Bristol-Myers Squibb (BMY) Faces Mixed Analyst Sentiment Despite Strong Momentum in Healthcare Industry"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-29 05:08:18",
           "title": "分析报告：坎贝尔公司/",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_2862_AnalystReport_1774609122000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -469,92 +504,65 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "你的医保费用可能会翻倍的隐秘原因",
+          "time": "2026-03-29 05:08:18",
+          "title": "分析师对BlackRock (BLK) 表示乐观，随着第四季度业绩强劲",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/sneaky-reason-medicare-costs-could-193800269.html",
-          "title_en": "The Sneaky Reason Your Medicare Costs Could Double"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-bullish-blackrock-blk-following-205000960.html",
+          "title_en": "Analysts Bullish on BlackRock (BLK) Following Strong Fourth-Quarter Results"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "罗森布拉特再次确认了Palantir (PLTR)的评级",
+          "time": "2026-03-29 05:08:18",
+          "title": "杰普摩根的高风险计划：为EA交易融资",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-reiterates-palantir-pltr-rating-151850792.html",
-          "title_en": "Rosenblatt Reiterates Palantir (PLTR) Rating After Golden Dome Win"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/inside-project-eagle-jpmorgan-high-190000250.html",
+          "title_en": "Inside ‘Project Eagle,’ JPMorgan’s high-wire act to fund EA deal"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "分析师对AppLovin Corporation (APP) 股票的看法",
+          "time": "2026-03-29 05:08:18",
+          "title": "汽油价格上涨可能是好消息对于电动汽车",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-saying-applovin-corporation-app-151847197.html",
-          "title_en": "Here’s What Analysts Are Saying About AppLovin Corporation (APP) Stock"
+          "url": "https://finance.yahoo.com/economy/policy/article/rising-gas-prices-could-be-good-news-for-evs-151643093.html",
+          "title_en": "Rising gas prices could be good news for EVs"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "甲骨文（ORCL）的订单量推动了分析师的买盘观点。",
+          "time": "2026-03-29 05:08:18",
+          "title": "目前市场上几乎所有事情都在不顺利。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-backlog-drives-bull-151844148.html",
-          "title_en": "Oracle’s (ORCL) Backlog Drives Its Bull Thesis According To Analysts"
+          "url": "https://finance.yahoo.com/news/almost-everything-is-going-wrong-for-markets-right-now-100005327.html",
+          "title_en": "Almost everything is going wrong for markets right now"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "雷·达略（Ray Dalio）称现金“将失去大量购买力”，并解释了他认为比60/40组合更好的“全天候”投资组合。",
+          "time": "2026-03-29 05:08:18",
+          "title": "我咨询的财务顾问在10年里对我多收费了15万美元，如何才能让我钱回来？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/ray-dalio-declares-cash-lose-193147248.html",
-          "title_en": "Ray Dalio Declares Cash Will 'Lose A Lot Of Purchasing Power' And Explains The 'All Weather' Portfolio He Thinks Beats 60/40"
+          "url": "https://finance.yahoo.com/markets/articles/financial-advisor-overcharged-15k-over-162000395.html",
+          "title_en": "My financial advisor overcharged me $15K over 10 years — how can I get my money back?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "布罗德كم（AVGO）再次获得美国政府国防合同",
+          "time": "2026-03-29 05:08:18",
+          "title": "全球各地的工人都感到他们的工作安全性很差。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-bags-another-us-151842270.html",
-          "title_en": "Broadcom (AVGO) Bags Another US Government Defense Deal"
+          "url": "https://finance.yahoo.com/news/workers-everywhere-feel-very-bad-about-their-job-security-160224025.html",
+          "title_en": "Workers everywhere feel very bad about their job security"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
+          "time": "2026-03-29 05:08:18",
           "title": "2026年3月27日威克森日常买卖名单",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46560_TopBottomInsiderActivity_1774606909000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
           "title_en": "Daily – Vickers Top Buyers & Sellers for 03/27/2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "特朗普称预测市场比“假选民调查”更准确——HOOD和CME争夺在此热潮中获利的机会",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/trump-says-prediction-markets-beat-193146312.html",
-          "title_en": "Trump Says Prediction Markets Beat 'Fake Polls'—And HOOD, CME Race To Cash In On The Boom"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "本周市场前瞻：稀缺叙述和海军战术",
-          "summary": "",
-          "url": "https://www.investors.com/research/investing-action-plan/market-week-ahead-scarcity-narratives-and-naval-tactics/?src=A00220&yptr=yahoo",
-          "title_en": "Market Week Ahead: Scarcity Narratives And Naval Tactics"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-29 04:37:54",
-          "title": "佛罗里达州退休夫妇担心失去家园，因为窗户承包商消失了，留下了39,000美元的债务。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/retired-florida-couple-fear-losing-143000642.html",
-          "title_en": "Retired Florida couple fear losing their home after a window contractor vanished and left them with a $39K lien"
         }
       ]
     }
