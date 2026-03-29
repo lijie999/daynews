@@ -1,6 +1,6 @@
 {
   "date": "2026.03.29",
-  "generatedAtBJT": "2026-03-29 13:14:22",
+  "generatedAtBJT": "2026-03-29 13:45:07",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-29 13:14:22",
+          "time": "2026-03-29 13:45:07",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜恐惧指数（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；恐惧指数上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且恐惧指数抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且恐惧指数回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件",
+          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Factbox-How many people have been killed in the US-Israeli war on Iran?…\n- 宏观/Fed线索：Markets now see the Fed's next move as a potential rate hike as inflatio…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Stock market today: S&P 500 clinches longest losing streak since 2022 as…\n- 宏观/Fed线索：Markets now see the Fed's next move as a potential rate hike as inflatio…"
         }
       ]
     },
@@ -29,34 +29,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "HIVE数字（HIVE）在加拿大扩大AI数据中心容量",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/hive-digital-hive-expands-ai-213430368.html",
-          "title_en": "HIVE Digital (HIVE) Expands AI Data Center Capacity in Canada"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "亚马逊股价下跌，人工智能支出加剧利润压力",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-march-27-214140597.html",
-          "title_en": "Stock Market Today, March 27: Amazon Falls as AI Spending Raises Margin Pressure"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "软银新贷款40亿美元指向2026年OpenAI上市",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-softbank-40b-loan-points-214445056.html",
-          "title_en": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
+          "time": "2026-03-29 13:45:03",
           "title": "Outdoor Holding Company（POWW）通过AI创新扩大GunBroker",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/outdoor-holding-company-poww-expands-215938412.html",
@@ -65,11 +38,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "Meta Platforms (META) 的 AI 支出是否已经成瘾？",
+          "time": "2026-03-29 13:45:03",
+          "title": "闪存芯片制造商SanDisk可能即将进行股票分割，受益于人工智能芯片超周期。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-platforms-become-addicted-ai-210222641.html",
-          "title_en": "Has Meta Platforms Become Addicted to AI Spending?"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-stock-split-coming-sandisk-222300177.html",
+          "title_en": "Could a Stock Split Be Coming for Sandisk Amid the AI Memory Chip Supercycle?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-29 13:45:03",
+          "title": "HIVE数字（HIVE）在加拿大扩大AI数据中心容量",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/hive-digital-hive-expands-ai-213430368.html",
+          "title_en": "HIVE Digital (HIVE) Expands AI Data Center Capacity in Canada"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-29 13:45:03",
+          "title": "Meta公司为其位于路易斯安那州农村的Hyperion AI校园订购了10座天然气发电厂，远远超过最初的计划。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/meta-orders-10-gas-fired-215036459.html",
+          "title_en": "Meta orders 10 gas-fired power plants for its Hyperion AI campus in rural Louisiana—more than triple the initial plan"
         },
         {
           "source": "MarketWatch-Top",
@@ -134,9 +125,18 @@
       "badge": "Risk / Oil / Gold",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-29 13:45:03",
+          "title": "股市今日：S&P 500连续下跌最长时间自2022年以来，石油价格大幅上涨，“Magnificent 7”股价蒸发3000亿美元",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-clinches-longest-losing-streak-since-2022-as-oil-surges-magnificent-7-stocks-shed-300-billion-200142689.html",
+          "title_en": "Stock market today: S&P 500 clinches longest losing streak since 2022 as oil surges, 'Magnificent 7' stocks shed $300 billion"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
+          "time": "2026-03-29 13:45:03",
           "title": "美国以色列对伊朗战争中死亡的人数事实简介：",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/factboxhow-many-people-have-been-killed-in-the-usisraeli-war-on-iran-4586333",
@@ -241,7 +241,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
+          "time": "2026-03-29 13:45:03",
+          "title": "HSBC认为特斯拉股价可能下跌65%。原因在于：",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-thinks-tesla-stock-could-220800241.html",
+          "title_en": "HSBC Thinks Tesla Stock Could Fall 65%. Here's Why."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-29 13:45:03",
           "title": "诺斯罗普格鲁曼（NOC）推进无人驾驶飞行能力的Talon IQ",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-advances-autonomous-215658111.html",
@@ -256,151 +265,151 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "Blue Owl和HPS加入受2月份损失影响的私人信贷基金",
+          "time": "2026-03-29 13:45:03",
+          "title": "Equitable和Corebridge公布了全股票重组计划，目标到2028年实现5亿美元的合并效益",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/blue-owl-hps-join-private-213754651.html",
-          "title_en": "Blue Owl, HPS Join Private Credit Funds Stung by February Losses"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/equitable-corebridge-unveil-transformational-stock-220913738.html",
+          "title_en": "Equitable, Corebridge Unveil Transformational All-Stock Merger, Target $500M Synergies by 2028"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "SEALSQ Corp（LAES）：罗宾汉热门的小盘股",
+          "time": "2026-03-29 13:45:03",
+          "title": "4月2026年最佳即时紧急贷款：批准后即可快速获得资金",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sealsq-corp-laes-one-popular-213922301.html",
-          "title_en": "SEALSQ Corp (LAES): One of the Popular Penny Stocks on Robinhood"
+          "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/best-same-day-emergency-loans-220714166.html",
+          "title_en": "Best same-day emergency loans for April 2026: Get fast funding after approval"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "SELLAS生科 (SLS) 将在AACR 2026上呈现SLS009数据。",
+          "time": "2026-03-29 13:45:03",
+          "title": "小麦周五上涨",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/sellas-life-sciences-sls-present-213522313.html",
-          "title_en": "SELLAS Life Sciences (SLS) to Present SLS009 Data at AACR 2026"
+          "url": "https://finance.yahoo.com/markets/commodities/articles/wheat-posts-friday-gains-221001796.html",
+          "title_en": "Wheat Posts Friday Gains"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "TMC金属公司（TMC）深海采矿许可证审批进展",
+          "time": "2026-03-29 13:45:03",
+          "title": "棉花周五大涨",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/tmc-metals-company-tmc-moves-214019482.html",
-          "title_en": "TMC the metals company (TMC) Moves Closer to Deep-Sea Mining Approval"
+          "url": "https://finance.yahoo.com/markets/commodities/articles/cotton-rallies-friday-221001318.html",
+          "title_en": "Cotton Rallies on Friday"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "PBF能源高级副总裁减持了其持仓——恢复的利润环境才是真正的故事",
+          "time": "2026-03-29 13:45:03",
+          "title": "豆粕价格下跌，随着RVO的发布。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pbf-energy-svp-trimmed-position-214005007.html",
-          "title_en": "PBF Energy SVP Trimmed His Position — A Recovering Margin Environment Is the Real Story"
+          "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-sell-fact-following-rvo-221001853.html",
+          "title_en": "Soybeans Sell the Fact Following RVO Release"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "奥库根公司（OCGN）：罗宾汉热门的小盘股之一",
+          "time": "2026-03-29 13:45:03",
+          "title": "玉米价格周末下跌",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/ocugen-inc-ocgn-one-popular-214125188.html",
-          "title_en": "Ocugen Inc. (OCGN): One of the Popular Penny Stocks on Robinhood"
+          "url": "https://finance.yahoo.com/markets/commodities/articles/corn-fades-lower-weekend-221000634.html",
+          "title_en": "Corn Fades Lower into the Weekend"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "美国比特币（ABTC）扩大矿机fleet，新增11,298台矿机。",
+          "time": "2026-03-29 13:45:03",
+          "title": "特克斯特伦公司（TXT）通过结构和动力增强来加强H-1舰队。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/american-bitcoin-abtc-expands-mining-213339799.html",
-          "title_en": "American Bitcoin (ABTC) Expands Mining Fleet With 11,298 New Units"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/textron-inc-txt-strengthens-h-220028308.html",
+          "title_en": "Textron Inc. (TXT) Strengthens H‑1 Fleet Through Structural and Power Enhancements"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "Bitfarms (BITF) 股东批准公司在美国重新登记并更名为 Keel Infrastructure。",
+          "time": "2026-03-29 13:45:03",
+          "title": "金融顾问通过销售年金赚取多少钱？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bitfarms-bitf-shareholders-approve-u-213305583.html",
-          "title_en": "Bitfarms (BITF) Shareholders Approve U.S. Redomiciliation and Rebrand to Keel Infrastructure"
+          "url": "https://finance.yahoo.com/markets/options/articles/financial-advisors-selling-annuities-215852627.html",
+          "title_en": "What Do Financial Advisors Make for Selling Annuities?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "关于Denison Mines（DNN）的2025年第四季度财报需要知道的内容",
+          "time": "2026-03-29 13:45:03",
+          "title": "伦茨治疗股价周内暴跌近20%",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/know-denison-mines-dnn-q4-212921999.html",
-          "title_en": "Here’s What You Need to Know About Denison Mines (DNN)’s Q4 2025 Earnings"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-lenz-therapeutics-stock-plummeted-220726902.html",
+          "title_en": "Why Lenz Therapeutics Stock Plummeted by Almost 20% This Week"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "在当前情况下，Intuitive Surgical是否是买入的好时机？",
+          "time": "2026-03-29 13:45:03",
+          "title": "Clarus Corporation (CLAR) 在成本控制方面应对市场风头。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intuitive-surgical-buy-now-213500084.html",
-          "title_en": "Is Intuitive Surgical a Buy Right Now?"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/clarus-corporation-clar-navigates-market-215835624.html",
+          "title_en": "Clarus Corporation (CLAR) Navigates Market Headwinds With Cost Discipline"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "索尼PS5价格上涨：为什么价格上涨可能是全球经济的一个红旗",
+          "time": "2026-03-29 13:45:03",
+          "title": "汇金基金（Exchange Fund）是什么？投资优势和风险",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sony-ps5-price-hikes-why-212826461.html",
-          "title_en": "Sony PS5 Price Hikes: Why Raised Prices Could Signal a Red Flag for the Global Economy"
+          "url": "https://finance.yahoo.com/markets/options/articles/exchange-fund-investment-benefits-risks-215758232.html",
+          "title_en": "What Is an Exchange Fund? Investment Benefits and Risks"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "高盛维持对Cosan S.A. (CSAN)的持有评级。",
+          "time": "2026-03-29 13:45:03",
+          "title": "Sportsman's Warehouse Holdings (SPWH) 平衡增长与战略简化",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-maintains-hold-rating-212741929.html",
-          "title_en": "Goldman Sachs Maintains a Hold Rating on Cosan S.A. (CSAN)"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sportsman-warehouse-holdings-spwh-balances-215747502.html",
+          "title_en": "Sportsman’s Warehouse Holdings (SPWH) Balances Growth With Strategic Streamlining"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "维普利有限公司（WIT）与哈兰斯（Harness）合作",
+          "time": "2026-03-29 13:45:03",
+          "title": "出售加密货币来支付税款？Coinbase表示还有另一个选择，但X用户指出这些陷阱",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/wipro-limited-wit-partners-harness-212700391.html",
-          "title_en": "Wipro Limited (WIT) Partners With Harness"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/selling-crypto-pay-taxes-coinbase-220118928.html",
+          "title_en": "Selling Crypto To Pay Taxes? Coinbase Says There's Another Option, But X Users Identify These Pitfalls"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "Canaccord Genuity 维持对 Newell Brands (NWL) 的买入评级。",
+          "time": "2026-03-29 13:45:03",
+          "title": "美国户外用品品牌American Outdoor Brands (AOUT)表现出韧性，尽管面临多个类别的不确定性。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/canaccord-genuity-maintains-buy-newell-212618839.html",
-          "title_en": "Canaccord Genuity Maintains a Buy on Newell Brands (NWL)"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/american-outdoor-brands-aout-shows-215604748.html",
+          "title_en": "American Outdoor Brands (AOUT) Shows Resilience Amid Mixed Category Trends"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "CytomX Therapeutics (CTMX) 获得了分析师的信心，基于试验进展",
+          "time": "2026-03-29 13:45:03",
+          "title": "斯图尔姆·鲁格尔公司（RGR）面临股东紧张局势，贝雷塔争端加剧。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/cytomx-therapeutics-ctmx-gains-analyst-215137718.html",
-          "title_en": "CytomX Therapeutics (CTMX) Gains Analyst Confidence on Trial Progress"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sturm-ruger-company-rgr-faces-215450673.html",
+          "title_en": "Sturm, Ruger & Company (RGR) Faces Shareholder Tensions Amid Beretta Dispute"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "Payoneer Global (PAYO) 在Wolfe FinTech Forum上发表演讲，以下是您需要知道的。",
+          "time": "2026-03-29 13:45:03",
+          "title": "史密斯威森品牌（SWBI）是2026年买入的最佳枪支股票之一吗？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/payoneer-global-payo-presented-wolfe-212524632.html",
-          "title_en": "Payoneer Global (PAYO) Presented at Wolfe FinTech Forum, Here’s What You Need to Know"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/smith-wesson-brands-swbi-one-215403842.html",
+          "title_en": "Is Smith & Wesson Brands (SWBI) One of the Best Gun Stocks to Buy in 2026?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
+          "time": "2026-03-29 13:45:03",
           "title": "曼恩金德公司（MNKD）是罗宾汉（Robinhood）上的热门便股之一，值得购买吗？",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/mannkind-corporation-mnkd-one-popular-215233914.html",
@@ -409,11 +418,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-29 13:14:17",
-          "title": "黑莓公司旗下QNX升级在线学习平台",
+          "time": "2026-03-29 13:45:03",
+          "title": "私人信贷问题不是对金融系统的系统性威胁",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/blackberry-bb-qnx-upgrades-online-212434504.html",
-          "title_en": "BlackBerry (BB)’s QNX Upgrades Its Online Learning Platform"
+          "url": "https://www.barrons.com/articles/private-credit-market-economy-d2387514?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Private-Credit Problems Aren’t a Systemic Threat to the Financial System"
         }
       ]
     }
