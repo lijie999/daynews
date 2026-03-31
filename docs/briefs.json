@@ -1,6 +1,6 @@
 {
   "date": "2026.03.31",
-  "generatedAtBJT": "2026-03-31 22:43:18",
+  "generatedAtBJT": "2026-03-31 23:13:59",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-31 22:43:18",
+          "time": "2026-03-31 23:13:59",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主要驱动因素：10年期利率 + 原油价格/风险事件\n- 四大监控指标：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金价格喘息；操作偏好：回踩参与、避免追高\n- 期权",
+          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指数（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金价格更易回撤；VIX指数上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Home prices rose in January, before Iran war pushed mortgage rates highe…\n- 宏观/Fed线索：Retailers warn guaranteed-hours plans could put part-time jobs at risk…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Will Valero's Refinery Explosion and Closure Have Ripple Effects on Oil …\n- 宏观/Fed线索：Citigroup CEO Jane Fraser appointed to NY Fed advisory council…"
         }
       ]
     },
@@ -29,70 +29,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
+          "time": "2026-03-31 23:13:54",
+          "title": "Meta Platforms (META) 计划裁员数百人。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-lay-off-144319124.html",
+          "title_en": "Meta Platforms (META) to Lay off a Few Hundred Employees"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-31 23:13:54",
+          "title": "NVIDIA Corporation (NVDA) 将向 AWS 提供 GPU。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-supply-gpus-144224592.html",
+          "title_en": "NVIDIA Corporation (NVDA) to Supply GPUs to AWS"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-31 23:13:54",
           "title": "科技股今日：大科技股回升，Meta测试Instagram高级订阅",
           "summary": "",
           "url": "https://finance.yahoo.com/news/live/tech-stocks-today-big-tech-stocks-recover-meta-tests-a-premium-instagram-subscription-144220223.html",
           "title_en": "Tech stocks today: Big Tech stocks recover, Meta tests a premium Instagram subscription"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "埃隆·马斯克称，如果人工智能不能解决美国的39万亿美元的困境，那么美国将会“完蛋”——如何保护您的钱。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/elon-musk-says-us-could-135900869.html",
-          "title_en": "Elon Musk says the US could be ‘toast’ if AI doesn’t fix America’s $39T nightmare — how to protect your money"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "纳斯达克一百指数在2026年下跌10%，而NVIDIA的表现将决定接下来的走势。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oneq-down-10-2026-nvidia-143033516.html",
-          "title_en": "ONEQ Is Down 10% in 2026 and Nvidia Holds the Key to What Comes Next"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "微星股价持续下滑，尽管数据中心需求大幅增长",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/article/micron-stock-continues-slide-despite-massive-data-center-demand-134349171.html",
-          "title_en": "Micron stock continues slide, despite massive data center demand"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "纳维达、Facebook等大盘股周二大幅波动",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-facebook-among-market-cap-stock-movers-on-tuesday-93CH-4590882",
-          "title_en": "Nvidia, Facebook among market cap stock movers on Tuesday"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "AI引发的合约研究公司大幅下跌可能低估了颠覆性风险",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/ailed-selloff-in-contract-research-firms-may-be-misjudging-disruption-risk-4590586",
-          "title_en": "AI-led selloff in contract research firms may be misjudging disruption risk"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "Meta推出两款499美元的Ray-Ban智能眼镜，适合佩戴眼镜的用户。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/meta-unveils-two-new-rayban-prescription-smart-glasses-4590587",
-          "title_en": "Meta unveils two $499 Ray-Ban smart glasses for prescription users"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
+          "time": "2026-03-31 23:13:54",
           "title": "Meta将限制PG-13等级的使用，仅用于青少年账户，作为与电影协会的协议。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/meta-to-limit-pg13-rating-use-for-teen-accounts-in-motion-picture-association-deal-4590767",
@@ -101,11 +65,11 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "巴克莱旗下分析师指出，数据中心建设材料股将是人工智能基础设施建设的赢家。",
+          "time": "2026-03-31 23:13:54",
+          "title": "埃里克·杰克逊（Eric Jackson）短卖五家软件公司的股票，称之为“人工智能悖论”。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/data-center-construction-materials-stocks-barclays-flags-winners-of-the-ai-infrastructure-buildout-93CH-4590828",
-          "title_en": "Data Center Construction Materials Stocks: Barclays Flags Winners of the AI Infrastructure Buildout"
+          "url": "https://www.investing.com/news/stock-market-news/eric-jackson-shorts-five-software-stocks-citing-ai-paradox-93CH-4590904",
+          "title_en": "Eric Jackson shorts five software stocks citing ’AI Paradox’"
         },
         {
           "source": "CNBC-Top",
@@ -136,16 +100,6 @@
           "url": "https://www.marketwatch.com/story/amazons-satellite-business-gets-another-win-as-it-seeks-to-challenge-musks-starlink-9ecd6773?mod=mw_rss_topstories",
           "title_en": "Amazon’s satellite business gets another win as it seeks to challenge Musk’s Starlink",
           "summary_en": "Delta Air Lines said it would equip hundreds of aircraft with Amazon’s nascent satellite-internet system."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-03-31 21:36:00",
-          "title": "苹果公司迎来第50个生日。它如何摆脱中年危机？",
-          "summary": "在征服智能手机和PC市场之后，苹果必须证明自己可以为人工智能时代创新。",
-          "url": "https://www.marketwatch.com/story/apple-turns-50-heres-how-it-can-shake-its-midlife-crisis-987cf873?mod=mw_rss_topstories",
-          "title_en": "Apple turns 50. Here’s how it can shake its midlife crisis.",
-          "summary_en": "After successfully conquering the smartphone and PC market, Apple must now prove that it can innovate for the AI era."
         },
         {
           "source": "CNBC-Top",
@@ -196,6 +150,56 @@
           "url": "https://www.cnbc.com/2026/03/31/nebius-finland-ai-factory-europe-compute.html",
           "title_en": "Nebius unveils plans to build one of Europe's largest AI factories as region scrambles for compute",
           "summary_en": "Europe is racing to create the infrastructure needed to power the AI boom."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-31 15:38:49",
+          "title": "三星背后的AI芯片公司Rebellions在IPO前筹集了4亿美元。",
+          "summary": "Rebellions的芯片重点是人工智能推理， 与Nvidia以及Groq至Cerebras等初创公司竞争。",
+          "url": "https://www.cnbc.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-ipo.html",
+          "title_en": "Samsung-backed AI chip firm Rebellions raises $400 million ahead of IPO",
+          "summary_en": "Rebellions' chips are focused on AI inferencing, putting it in competition with Nvidia as well as other startups from Groq to Cerebras."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-31 10:35:44",
+          "title": "CNBC的《中国连接》通讯：中国的AI竞赛进入了一个新的阶段",
+          "summary": "人工智能领域正在开辟新的商业前沿。",
+          "url": "https://www.cnbc.com/2026/03/31/cnbcs-china-connection-newsletter-ai-race-enters-a-new-phase.html",
+          "title_en": "CNBC's The China Connection newsletter: China's AI race enters a new phase",
+          "summary_en": "A new frontier is shaping up for companies that want to make money with artificial intelligence."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-30 17:36:11",
+          "title": "北京对Meta的Manus突然干预震惊了科技创业者和投资人，投资人开始关注\"中国减持\"",
+          "summary": "北京的审查令中国科技创业者和投资者感到担忧和困惑，他们曾经悄悄地接受了所谓的\"新加坡洗白\"模式。",
+          "url": "https://www.cnbc.com/2026/03/27/meta-manus-china-review-singapore-washing-model-regulation-.html",
+          "title_en": "Beijing's surprise intervention on Meta's Manus rattles tech founders, VCs eyeing 'China shedding'",
+          "summary_en": "Beijing's review has fueled concerns and confusion among Chinese tech founders and investors that had quietly embraced the so-called \"Singapore-washing\" model."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-30 15:35:00",
+          "title": "Mistral获得83亿美元债务融资用于资金人工智能数据中心",
+          "summary": "Mistral是欧洲少数几个正在建设基础性AI模型的初创公司之一。",
+          "url": "https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html",
+          "title_en": "Mistral secures $830 million in debt financing to fund AI data center",
+          "summary_en": "Mistral is one of the few European startups building foundational AI models."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-03-30 13:35:02",
+          "title": "埃利利利公司与Insilico达成2.75亿美元协议，推动AI开发的药物进入全球市场。",
+          "summary": "美国制药巨头伊利利公司将向香港上市公司Insilico提供1.15亿美元的现金作为启动资金，以将其AI发现的药物带到全球市场。",
+          "url": "https://www.cnbc.com/2026/03/29/eli-lilly-reaches-deal-to-bring-ai-developed-drugs-to-global-market.html",
+          "title_en": "Eli Lilly reaches $2.75 billion deal with Insilico to bring AI-developed drugs to the global market",
+          "summary_en": "U.S. pharmaceutical giant Eli Lilly will give Hong Kong-listed Insilico $115 million upfront to bring some of its AI-discovered drugs to the global market."
         }
       ]
     },
@@ -204,22 +208,13 @@
       "badge": "Fed / Policy",
       "items": [
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "零售商警告，保证工作小时计划可能会让兼职工作岗位面临风险。",
+          "time": "2026-03-31 23:13:54",
+          "title": "西方银行CEO Jane Fraser被任命为纽约联邦储备银行咨询委员会成员。",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/retailers-warn-guaranteed-hours-plans-143042050.html",
-          "title_en": "Retailers warn guaranteed-hours plans could put part-time jobs at risk"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "Matador Technologies与Galaxy联合推出比特币收益策略",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/matador-technologies-launches-bitcoin-yield-140700090.html",
-          "title_en": "Matador Technologies Launches Bitcoin Yield Strategy With Galaxy"
+          "url": "https://www.investing.com/news/stock-market-news/citigroup-ceo-jane-fraser-appointed-to-ny-fed-advisory-council-93CH-4590945",
+          "title_en": "Citigroup CEO Jane Fraser appointed to NY Fed advisory council"
         },
         {
           "source": "CNBC-World",
@@ -270,20 +265,49 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "1月份，房价上涨，但伊朗战争推高了抵押贷款利率。",
+          "time": "2026-03-31 23:13:54",
+          "title": "瓦雷罗(Valero)炼油厂爆炸和关闭是否会对石油价格产生连锁效应？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/home-prices-rose-in-january-before-iran-war-pushed-mortgage-rates-higher-134329055.html",
-          "title_en": "Home prices rose in January, before Iran war pushed mortgage rates higher"
+          "url": "https://finance.yahoo.com/sectors/energy/articles/valeros-refinery-explosion-closure-ripple-150300609.html",
+          "title_en": "Will Valero's Refinery Explosion and Closure Have Ripple Effects on Oil Prices?"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "纳斯达克指数上涨2%，华尔街股市因伊朗局势缓和的希望而大幅上涨。",
+          "time": "2026-03-31 23:13:54",
+          "title": "自伊朗战争开始以来，海湾地区发生了多少次船只袭击事件？",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-jump-1-on-report-of-trump-weighing-iran-deescalation-4589115",
-          "title_en": "Nasdaq gains 2% as Wall Street soars on renewed Iran de-escalation hopes"
+          "url": "https://www.investing.com/news/stock-market-news/factboxhow-many-ships-have-been-attacked-in-the-gulf-since-start-of-iran-war-4590947",
+          "title_en": "Factbox-How many ships have been attacked in the Gulf since start of Iran war?"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-31 23:13:54",
+          "title": "以色列股市收盘时上涨；TA 35上涨1.90%",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-190-4590924",
+          "title_en": "Israel stocks higher at close of trade; TA 35 up 1.90%"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-03-31 22:45:00",
+          "title": "消费者信心在3月份有所改善，因为更加乐观的就业市场观点超过了因伊朗战争而上涨的成本。",
+          "summary": "消费者预计未来几个月将出现更高的通胀和利率",
+          "url": "https://www.marketwatch.com/story/consumer-confidence-improves-in-march-as-brighter-job-market-view-outweighs-surging-costs-amid-war-c6e9ac7c?mod=mw_rss_topstories",
+          "title_en": "Consumer confidence improves in March as brighter job-market view outweighs surging costs amid Iran war",
+          "summary_en": "Consumers expect higher inflation and interest rates in coming months"
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-03-31 22:44:20",
+          "title": "欧洲股市料将在伊朗战争持续的情况下创下2022年以来最差月度表现。",
+          "summary": "周二上午地区股市波动不定。",
+          "url": "https://www.cnbc.com/2026/03/31/european-stocks-stoxx-600-ftse-cac-dax-iran-news-oil-prices-gold-silver-commodities.html",
+          "title_en": "European stocks head for worst month since 2022 as Iran war drags on",
+          "summary_en": "Regional shares were choppy on Tuesday morning."
         },
         {
           "source": "CNBC-World",
@@ -334,16 +358,6 @@
           "url": "https://www.cnbc.com/2026/03/31/iran-war-stocks-sp500-spx-nasdaq-dow-bonds-treasurys-yields-price-markets-gold-rates.html",
           "title_en": "Stocks, bonds and commodities: How global markets have traded the Iran war",
           "summary_en": "Assets across the board have been turbulent in the month since the war began."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-31 20:25:17",
-          "title": "欧洲股市料将在伊朗战争持续的情况下创下2022年以来最差月度表现。",
-          "summary": "周二上午地区股市波动不定。",
-          "url": "https://www.cnbc.com/2026/03/31/european-stocks-stoxx-600-ftse-cac-dax-iran-news-oil-prices-gold-silver-commodities.html",
-          "title_en": "European stocks head for worst month since 2022 as Iran war drags on",
-          "summary_en": "Regional shares were choppy on Tuesday morning."
         },
         {
           "source": "CNBC-Top",
@@ -424,16 +438,6 @@
           "url": "https://www.cnbc.com/2026/03/28/iran-war-defense-tech-drones-trump-hegseth.html",
           "title_en": "The Iran war is defense tech's chance to shine, but few systems and weapons are ready",
           "summary_en": "Palmer Luckey's Anduril, software AI company Palantir and Elon Musk's SpaceX are getting the lion's share of defense tech dollars from the Pentagon."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-30 20:20:28",
-          "title": "石油的历史月度表现、TSA员工的加薪、皮卡丘卡牌二手市场等在早间时报中",
-          "summary": "今天市场投资者需要了解的五个关键信息。",
-          "url": "https://www.cnbc.com/2026/03/30/5-things-to-know-before-the-market-opens.html",
-          "title_en": "Oil's record month, TSA pay, the Pokémon card resale market and more in Morning Squawk",
-          "summary_en": "Here are five key things investors need to know to start the trading day."
         }
       ]
     },
@@ -460,164 +464,164 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "阿波罗集团成为最新考虑佛罗里达州、德克萨斯州趋势的公司。",
+          "time": "2026-03-31 23:13:54",
+          "title": "RBC Capital将Legend Biotech Corporation（LEGN）的目标价从$66降至$62 – 原因在这里",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apollo-group-latest-consider-florida-143700771.html",
-          "title_en": "Apollo Group is latest to consider Florida, Texas trend"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/rbc-capital-cuts-pt-legend-150624317.html",
+          "title_en": "RBC Capital Cuts PT on Legend Biotech Corporation (LEGN) to $62 From $66 – Here’s Why"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "帕纳斯斯中型股基金因游泳池市场需求疲软而卖出POOL Corp.",
+          "time": "2026-03-31 23:13:54",
+          "title": "摩根大通将Zai Lab Limited（ZLAB）的目标价从39美元降至32美元–原因在这里",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/parnassus-mid-cap-fund-exited-143650052.html",
-          "title_en": "Parnassus Mid Cap Fund Exited Pool Corp. (POOL) Due to Sluggish Demand in the Pool Market"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/jpmorgan-cuts-pt-zai-lab-150626938.html",
+          "title_en": "JPMorgan Cuts PT on Zai Lab Limited (ZLAB) to $32 From $39 – Here’s Why"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "帕纳苏斯中型股基金卖出Guidewire软件（GWRE）后实现了投资目标",
+          "time": "2026-03-31 23:13:54",
+          "title": "Wells Fargo 将 Liquidia Corporation (LQDA) 的目标价提高至 51 美元，原价为 44 美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/parnassus-mid-cap-fund-sold-143331074.html",
-          "title_en": "Parnassus Mid Cap Fund Sold Guidewire Software (GWRE) After Achieving Investment Thesis"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/wells-fargo-lifts-pt-liquidia-150621041.html",
+          "title_en": "Wells Fargo Lifts PT on Liquidia Corporation (LQDA) to $51 From $44 – Here’s Why"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "CMS能源公司（CMS）是什么样的投资机会？",
+          "time": "2026-03-31 23:13:54",
+          "title": "Jefferies 将 Lantheus Holdings (LNTH) 股价目标提升至 110 美元至 105 美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/makes-cms-energy-corp-cms-143149942.html",
-          "title_en": "What Makes CMS Energy Corp. (CMS) an Attractive Investment?"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/jefferies-lifts-pt-lantheus-holdings-150623785.html",
+          "title_en": "Jefferies Lifts PT on Lantheus Holdings (LNTH) to $110 From $105 – Here’s Why"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "华尔街对GE航空的预期存在分歧，代瓦证券设定目标价为301美元，并指出市场对该公司存在高预期。",
+          "time": "2026-03-31 23:13:54",
+          "title": "Guardant健康(GH)和Verana健康宣布新合作",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-split-ge-aerospace-143628303.html",
-          "title_en": "Wall Street Split on GE Aerospace as Daiwa Sets $301 Target and Flags High Expectations"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/guardant-health-gh-verana-health-150618051.html",
+          "title_en": "Guardant Health (GH) and Verana Health Announces New Partnership"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "W.P. Carey Inc. (WPC) 相对合理估值 在稳定的部署下，Citizens表示。",
+          "time": "2026-03-31 23:13:54",
+          "title": "为什么Alnylam Pharmaceuticals Inc. (ALNY)是现在买入的最佳高成长医疗保健股票",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/w-p-carey-inc-wpc-142803813.html",
-          "title_en": "W. P. Carey Inc. (WPC) Fairly Valued Amid Steady Deployment, Says Citizens"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/why-alnylam-pharmaceuticals-inc-alny-150617619.html",
+          "title_en": "Why Alnylam Pharmaceuticals Inc. (ALNY) is One of the Best High Growth Healthcare Stocks to Buy Now"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "Regency Centers Corporation (REG) 正在聚焦",
+          "time": "2026-03-31 23:13:54",
+          "title": "木户证券提高了BridgeBio药业(BBIO)目标价至106美元，原价91美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-regency-centers-corporation-reg-142802571.html",
-          "title_en": "Why Is Regency Centers Corporation (REG) In Focus"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/mizuho-lifts-pt-bridgebio-pharma-150615803.html",
+          "title_en": "Mizuho Lifts PT on BridgeBio Pharma (BBIO) to $106 From $91 – Here’s Why"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "渣打银行调整了Kimco Realty Corporation（KIM）的目标价",
+          "time": "2026-03-31 23:13:54",
+          "title": "Stifel 将 Insmed Incorporated (INSM) 的目标价提高至 208 美元，从 205 美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-adjusts-kimco-realty-corporation-142800504.html",
-          "title_en": "Scotiabank Adjusts Kimco Realty Corporation (KIM)’s Target Amid Retail REIT Repricing"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/stifel-lifts-pt-insmed-incorporated-150614081.html",
+          "title_en": "Stifel Lifts PT on Insmed Incorporated (INSM) to $208 From $205 – Here’s Why"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "为什么街头还不对Omega Healthcare Investors, Inc. (OHI)持有乐观态度",
+          "time": "2026-03-31 23:13:54",
+          "title": "BMO Capital对BioNTech SE（BNTX）下调目标价至128美元，从143美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-street-isn-t-bullish-142759138.html",
-          "title_en": "Why the Street Isn’t Bullish on Omega Healthcare Investors, Inc. (OHI) – Yet"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/bmo-capital-cuts-pt-biontech-150610875.html",
+          "title_en": "BMO Capital Cuts PT on BioNTech SE (BNTX) to $128 From $143 – Here’s Why"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "三十年持有价值的三大零售股： \n\n1.  Target (TGT) \n2.  Costco Wholesale (COST) \n3.  Walmart (WMT)",
+          "time": "2026-03-31 23:13:54",
+          "title": "ImmunityBio Inc. (IBRX) 接到FDA警告信书，针对其癌症治疗广告中宣称的疗效。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/best-3-retail-stocks-buy-143500939.html",
-          "title_en": "The Best 3 Retail Stocks to Buy and Hold for Decades"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/immunitybio-inc-ibrx-receives-fda-150612371.html",
+          "title_en": "ImmunityBio Inc. (IBRX) Receives FDA Warning Letter Over Cancer Therapy Claims in Advertisement"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "华尔街对Gaming and Leisure Properties, Inc. (GLPI)的看法不一。",
+          "time": "2026-03-31 23:13:54",
+          "title": "Wells Fargo 将Venture Global (VG) 的目标价从 $10 提高至 $14 – 这是为什么",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-split-gaming-leisure-142757491.html",
-          "title_en": "Wall Street Split on Gaming and Leisure Properties, Inc. (GLPI)"
+          "url": "https://finance.yahoo.com/sectors/energy/articles/wells-fargo-lifts-pt-venture-150608845.html",
+          "title_en": "Wells Fargo Lifts PT on Venture Global (VG) to $14 From $10 – Here’s Why"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "华尔街对Extra Space Storage Inc.(EXR)的看法不一。",
+          "time": "2026-03-31 23:13:54",
+          "title": "为什么ONEOK（OKE）是NYSE上最具盈利潜力的股票之一？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-wall-street-t-agree-142756971.html",
-          "title_en": "Why Wall Street Can’t Agree on Extra Space Storage Inc. (EXR)"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-oneok-oke-one-most-150605517.html",
+          "title_en": "Why is ONEOK (OKE) One of the Most Profitable NYSE Stocks to Invest In?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "AvalonBay Communities, Inc. (AVB) 面临现实检查：第四季度业绩",
+          "time": "2026-03-31 23:13:54",
+          "title": "Truist对Range Resources Corporation（RRC）启动覆盖，评级为持有。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/avalonbay-communities-inc-avb-faces-142754315.html",
-          "title_en": "AvalonBay Communities, Inc. (AVB) Faces a Reality Check After Q4"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/truist-initiates-coverage-range-resources-150603255.html",
+          "title_en": "Truist Initiates Coverage of Range Resources Corporation (RRC) With a Hold Rating"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "SBA通讯公司（SBAC）即将成为最大的塔台运营商，拥有10000多个站点。",
+          "time": "2026-03-31 23:13:54",
+          "title": "Coeur Mining (CDE) 被ATB Capital从行业表现中等升级为超越行业表现。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sba-communications-corporation-sbac-set-142752694.html",
-          "title_en": "SBA Communications Corporation (SBAC) Set to Become Largest Tower Operator with 10,000+ Sites"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/coeur-mining-cde-gets-upgraded-150602759.html",
+          "title_en": "Coeur Mining (CDE) Gets Upgraded to Outperform From Sector Perform by ATB Capital"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "Constellation Energy 股票今天大幅下跌",
+          "time": "2026-03-31 23:13:54",
+          "title": "Vertiv Holdings (VRT) 宣布在美洲地区四个新或扩张的制造工厂",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-constellation-energy-stock-flopped-143413044.html",
-          "title_en": "Why Constellation Energy Stock Flopped Today"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-vrt-announces-four-150559532.html",
+          "title_en": "Vertiv Holdings (VRT) Announces Four New or Expanding Manufacturing Facilities in the Americas"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "摩根士丹利强调EQUITY RESIDENTIAL（EQR）的增长潜力",
+          "time": "2026-03-31 23:13:54",
+          "title": "BMO资本降低了TPG公司(TPG)的目标价至48美元，原价60美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-highlights-equity-residential-142751402.html",
-          "title_en": "Morgan Stanley Highlights Equity Residential (EQR)’s Emerging Strength"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-cuts-pt-tpg-150557831.html",
+          "title_en": "BMO Capital Cuts PT on TPG Inc. (TPG) to $48 From $60 – Here’s Why"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "分析师对Public Storage (PSA)持乐观态度",
+          "time": "2026-03-31 23:13:54",
+          "title": "Truist首次覆盖EQT Corporation（EQT）并给予买入评级，目标价为74美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-analysts-remain-bullish-public-142749412.html",
-          "title_en": "Why Analysts Remain Bullish on Public Storage (PSA)"
+          "url": "https://finance.yahoo.com/sectors/energy/articles/truist-initiates-coverage-eqt-corporation-150600995.html",
+          "title_en": "Truist Initiates Coverage of EQT Corporation (EQT) With a Buy Rating and $74 PT"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 22:43:13",
-          "title": "美国塔楼公司（AMT）面对拉美地区挑战仍致力于增长",
+          "time": "2026-03-31 23:13:54",
+          "title": "过去一个月，市场错误地将三家科技股卖出。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/american-tower-corporation-amt-targets-142748228.html",
-          "title_en": "American Tower Corporation (AMT) Targets Growth Despite Latin America Headwinds"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-tech-stocks-market-sold-150500692.html",
+          "title_en": "3 Tech Stocks the Market Sold Off for the Wrong Reasons This Past Month"
         }
       ]
     }
