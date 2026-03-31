@@ -1,6 +1,6 @@
 {
   "date": "2026.03.31",
-  "generatedAtBJT": "2026-03-31 10:59:37",
+  "generatedAtBJT": "2026-03-31 11:29:50",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,7 +14,7 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-03-31 10:59:37",
+          "time": "2026-03-31 11:29:50",
           "title": "主线结论（系统版｜条件触发）",
           "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再",
           "url": "#",
@@ -29,16 +29,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
-          "title": "亚马逊芯片部门再遭高管离职",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/amazon-chip-division-hit-second-153208552.html",
-          "title_en": "Amazon Chip Division Hit By Second Senior Exit In Months"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
           "title": "NICE (NICE) 分析师观点强烈，AI推动加速",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/strong-analyst-sentiment-nice-nice-173759502.html",
@@ -47,7 +38,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
           "title": "吉姆·克拉默谈到NVIDIA： “对我来说，你们只被给予了购买高质量股票的机会，但价格比正常期望的低”",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-nvidia-only-being-194121085.html",
@@ -56,7 +47,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
+          "title": "微星的HBM4现已进入了Nvidia下一代平台的大规模生产。这可能是该股的转折点。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microns-hbm4-now-mass-production-155000477.html",
+          "title_en": "Micron's HBM4 Is Now in Mass Production for Nvidia's Next-Gen Platform. This Could Be a Defining Moment for the Stock."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-31 11:29:46",
           "title": "Amentum控股（AMTM）在AI冲击中保持成长势头",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amentum-holdings-amtm-poised-growth-195422741.html",
@@ -65,11 +65,47 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
           "title": "Leidos Holdings (LDOS) 与云巨头合作现代化美国空军云一平台",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/leidos-holdings-ldos-partners-cloud-200014014.html",
           "title_en": "Leidos Holdings (LDOS) Partners With Cloud Giants to Modernize US Air Force Cloud One Platform"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-31 11:29:46",
+          "title": "UBS降低了微软(MSFT)的目标价，维持买入评级。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-lowers-pt-microsoft-msft-201215591.html",
+          "title_en": "UBS Lowers PT on Microsoft (MSFT), Maintains a Buy Rating"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-31 11:29:46",
+          "title": "Alphabet Inc. (GOOGL) 和 Meta 在洛杉矶输掉了一场案件，以下是你需要知道的。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-inc-googl-meta-lost-201314179.html",
+          "title_en": "Alphabet Inc. (GOOGL) And Meta Lost a Case in Los Angeles, Here’s What You Should Know"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-31 11:29:46",
+          "title": "亚马逊芯片部门再遭高管离职",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/amazon-chip-division-hit-second-153208552.html",
+          "title_en": "Amazon Chip Division Hit By Second Senior Exit In Months"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-31 11:29:46",
+          "title": "苹果公司（AAPL）的Siri将获得强大的人工智能功能和独立应用",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/apple-inc-aapl-siri-powerful-201501407.html",
+          "title_en": "Apple Inc.’s (AAPL) Siri to Get Powerful AI Features and a Standalone App"
         },
         {
           "source": "CNBC-Top",
@@ -160,47 +196,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
           "title": "本周市场预期：3月就业报告、零售销售、贸易平衡；耐克和康耐佳的财报公布。",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/articles/expect-markets-week-march-jobs-153822185.html",
           "title_en": "What to Expect in Markets This Week: March Jobs Report, Retail Sales, Trade Balance; Earnings From Nike and Conagra"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
-          "title": "截至2026年3月29日，今日最高回报高利率储蓄利率（最高可达4%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-high-yield-savings-interest-rates-today-sunday-march-29-2026-100000235.html",
-          "title_en": "Best high-yield savings interest rates today, March 29, 2026 (Earn up to 4% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
-          "title": "今日最佳存款利率（最高可锁定4.15%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-cd-rates-today-sunday-march-29-2026-100000730.html",
-          "title_en": "Best CD rates today, March 29, 2026 (lock in up to 4.15% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
-          "title": "今日（3月29日）房贷和再融资利率：30年期利率自上周五以来上涨10个基点。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/copy-mortgage-refinance-interest-rates-today-sunday-march-22-2026-100000398.html",
-          "title_en": "Mortgage and refinance interest rates today, March 29, 2026: 30-year rate increases 10 bps since Friday"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
-          "title": "本周利率变化不大。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-march-29-2026-100000199.html",
-          "title_en": "HELOC and home equity loan rates Sunday, March 29, 2026: Little movement in rates this week"
         },
         {
           "source": "CNBC-World",
@@ -221,7 +221,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
           "title": "菲律宾称伊朗战争构成“迫在眉睫的危险”——现在菲律宾必须依赖煤炭。美国是否会面临同样的冲击波？",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/energy/articles/philippines-declares-iran-war-poses-164500501.html",
@@ -230,7 +230,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
           "title": "本周要关注的重点：伊朗、油价等",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/energy/articles/iran-oil-prices-other-key-170002306.html",
@@ -239,34 +239,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
+          "title": "华尔街称“低迷趋势”交易为风口，伊朗局势拖累股市",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/options/articles/wall-street-touts-grind-lower-140002340.html",
+          "title_en": "Wall Street touts ‘grind lower’ trades as Iran weighs on stocks"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-31 11:29:46",
           "title": "伊朗冲突持续的情况下，黄金和白银采矿股价预期",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/commodities/articles/heres-expect-gold-silver-mining-153500892.html",
           "title_en": "Here's What to Expect for Gold and Silver Mining Stocks as the Iran Conflict Continues"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
-          "title": "高盛认为油价冲击将对全球经济产生重大影响。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/goldman-sachs-draws-3-major-150700610.html",
-          "title_en": "Goldman Sachs draws 3 major conclusions from oil supply shocks"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
-          "title": "伊朗战争使Mag 7股价成为低点买入的目标。但是，尽管华尔街预计美国科技股将表现出色，但仍无人跳入。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/iran-war-turned-mag-7-150950715.html",
-          "title_en": "The Iran war turned Mag 7 stocks into dip-buying bait. But no one is jumping in yet even though Wall Street expects U.S. tech to outperform"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
           "title": "美国股指期货大涨1%，因报道称特朗普考虑缓和伊朗局势。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-jump-1-on-report-of-trump-weighing-iran-deescalation-4589115",
@@ -275,11 +266,21 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
           "title": "美国国防部长赫格塞特的经纪人在伊朗袭击前考虑购买国防基金，FT报道。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-defense-secretary-hegseths-broker-looked-to-buy-defense-fund-before-iran-attack-ft-reports-4589022",
           "title_en": "US Defense Secretary Hegseth’s broker looked to buy defense fund before Iran attack, FT reports"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-31 11:14:40",
+          "title": "亚洲市场交易波动不定，石油市场因报道称特朗普寻求伊朗战事退出而波动不定。",
+          "summary": "亚洲市场周二表现两极分化，投资者正在评估中东冲突和波动的原油价格。",
+          "url": "https://www.cnbc.com/2026/03/31/asia-markets-today-hsi-nikkei-kospi-csi.html",
+          "title_en": "Asia markets trade mixed as oil markets whipsaw on report that Trump is seeking Iran war exit",
+          "summary_en": "Asia-Pacific markets were mixed on Tuesday as investors assesed Mideast conflict and volatile crude oil prices."
         },
         {
           "source": "CNBC-Top",
@@ -290,16 +291,6 @@
           "url": "https://www.cnbc.com/2026/03/31/oil-price-today-wti-brent-trump-energy-sites-water-war-escalation-deal.html",
           "title_en": "Oil prices reverse course to fall as traders assess Trump comments on Iran war",
           "summary_en": "Oil prices fell on Tuesday as President Donald Trump reportedly expressed willingness to end the military hostilities against Iran even if the Strait of Hormuz remains largely shut."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-31 10:18:33",
-          "title": "韩国股市指数（Kospi）领跌亚洲市场，伊朗战争担忧使投资者心神不宁。",
-          "summary": "亚洲市场周二表现两极分化，投资者正在评估中东冲突和波动的原油价格。",
-          "url": "https://www.cnbc.com/2026/03/31/asia-markets-today-hsi-nikkei-kospi-csi.html",
-          "title_en": "South Korea's Kospi leads losses in Asia as Iran war worries keep investors on edge",
-          "summary_en": "Asia-Pacific markets were mixed on Tuesday as investors assesed Mideast conflict and volatile crude oil prices."
         },
         {
           "source": "MarketWatch-Top",
@@ -390,6 +381,16 @@
           "url": "https://www.cnbc.com/2026/03/30/iran-attacks-aluminum-producers-shockwaves-market-metals.html",
           "title_en": "Iran's attacks on aluminum producers are sending 'shockwaves' through the metals market",
           "summary_en": "Aluminum hit prices not seen since 2022 after Iranian attacks on two Middle Eastern producers over the weekend, amid fears of a supply crisis."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-03-30 21:07:30",
+          "title": "特朗普据报想\"夺取伊朗的油\"，因为德黑兰正在瞄准科威特的水和电力设施。",
+          "summary": "中东冲突已经进入第五周，袭击范围扩大，威胁到能源和基础设施安全。",
+          "url": "https://www.cnbc.com/2026/03/30/trump-iran-oil-middle-east-war-israel-us-kuwait-attack-.html",
+          "title_en": "Trump reportedly wants to 'take the oil in Iran' as Tehran targets water, power facilities in Kuwait",
+          "summary_en": "The Middle East conflict has entered its fifth week, with attacks expanding across the region and raising risks to energy and infrastructure."
         }
       ]
     },
@@ -405,7 +406,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
+          "title": "市场崩溃可能会毁灭财富，但投资者行为才是真正的财富杀手。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investor-behavior-destroys-more-wealth-160500262.html",
+          "title_en": "The Investor Behavior That Destroys More Wealth Than Any Market Crash"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-31 11:29:46",
           "title": "市场并没有破裂。你的框架是有问题的。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/market-isn-t-broken-framework-170016064.html",
@@ -414,16 +424,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
-          "title": "Netskope (NTSK)仍被华尔街分析师视为“强买”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/netskope-ntsk-still-seen-strong-173749088.html",
-          "title_en": "Netskope (NTSK) Still Seen As “Strong Buy” By Wall Street Analysts"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
           "title": "NIQ全球智慧（NIQ）推出包装战略规划者全球（SPG）解决方案，简化包装跟踪流程。",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/technology/articles/niq-global-intelligence-niq-launches-173751360.html",
@@ -432,16 +433,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
-          "title": "高盛提高Navan (NAVN)目标价至23美元，维持“买入”评级，随着强劲的Q4业绩。",
+          "time": "2026-03-31 11:29:46",
+          "title": "摩根士丹利对洛克希德马丁股票发出严厉警告",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-pt-navan-173754476.html",
-          "title_en": "Goldman Sachs Raises PT on Navan (NAVN) to $23, Reiterates “Buy” Rating Following Strong Q4 Results"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-stark-message-lockheed-160300160.html",
+          "title_en": "Morgan Stanley has a stark message on Lockheed Martin stock"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
           "title": "分析师对Pattern Group (PTRN)持乐观态度，持续关注公司近期的财报电话会议。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-remain-bullish-pattern-group-173753066.html",
@@ -450,16 +451,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
-          "title": "分析师对SailPoint (SAIL)持乐观态度，理由是公司Q4和全年业绩强劲。",
+          "time": "2026-03-31 11:29:46",
+          "title": "Netskope (NTSK)仍被华尔街分析师视为“强买”",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-remain-bullish-sailpoint-sail-173756699.html",
-          "title_en": "Analysts Remain Bullish on SailPoint. (SAIL) Amid Strong Q4 and Full-Year Results"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/netskope-ntsk-still-seen-strong-173749088.html",
+          "title_en": "Netskope (NTSK) Still Seen As “Strong Buy” By Wall Street Analysts"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
+          "title": "高盛提高Navan (NAVN)目标价至23美元，维持“买入”评级，随着强劲的Q4业绩。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-pt-navan-173754476.html",
+          "title_en": "Goldman Sachs Raises PT on Navan (NAVN) to $23, Reiterates “Buy” Rating Following Strong Q4 Results"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-31 11:29:46",
+          "title": "商业金属股价将在Q3大幅上涨",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/commercial-metals-stock-price-poised-160000382.html",
+          "title_en": "Commercial Metals Stock Price Poised to Slingshot Higher in Q3"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-31 11:29:46",
           "title": "帕森斯（PSN）宣布其iNET智能流动性平台的扩展",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/technology/articles/parsons-psn-announces-expansion-inet-173757014.html",
@@ -468,7 +487,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
+          "title": "分析师对SailPoint (SAIL)持乐观态度，理由是公司Q4和全年业绩强劲。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-remain-bullish-sailpoint-sail-173756699.html",
+          "title_en": "Analysts Remain Bullish on SailPoint. (SAIL) Amid Strong Q4 and Full-Year Results"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-31 11:29:46",
           "title": "一项2011年的市场预测在2026年再次响起",
           "summary": "",
           "url": "https://finance.yahoo.com/news/a-bold-2011-market-call-is-echoed-in-2026-180220110.html",
@@ -477,16 +505,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
-          "title": "以下银行在周日营业：\n\n美国银行（Bank of America）：仅在某些分店营业\n花旗银行（Citi）：仅在某些分店营业\n富国银行（Wells Fargo）：仅在某些分店营业",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/banks-open-on-sunday-170650488.html",
-          "title_en": "Which banks are open on Sunday?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
           "title": "8种理由去借用家里的钱：可以用家产抵押的费用",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/options/articles/7-reasons-home-equity-193400988.html",
@@ -495,7 +514,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
+          "title": "以下银行在周日营业：\n\n美国银行（Bank of America）：仅在某些分店营业\n花旗银行（Citi）：仅在某些分店营业\n富国银行（Wells Fargo）：仅在某些分店营业",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/banks-open-on-sunday-170650488.html",
+          "title_en": "Which banks are open on Sunday?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-03-31 11:29:46",
           "title": "可以用汽车作为抵押品借款。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/options/articles/car-collateral-loan-160951029.html",
@@ -504,7 +532,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
           "title": "泛美银矿业公司 (PAAS) 计划投资 19 亿美元，开启世界上最大的银矿",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/commodities/articles/pan-american-silver-corp-paas-194722007.html",
@@ -513,16 +541,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
-          "title": "维萨与万事达：哪一个适合经济衰退？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/visa-vs-mastercard-one-built-150500775.html",
-          "title_en": "Visa vs. Mastercard: One Is Built for a Recession. Here's Which One to Own."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
           "title": "Halozyme Therapeutics (HALO)任命临时财务长以应对增长计划",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/healthcare/articles/halozyme-therapeutics-halo-appoints-interim-194815553.html",
@@ -531,7 +550,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
           "title": "Super Micro Computer Inc. (SMCI) 声誉和运营面临挑战：巴克莱发出警告",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-inc-smci-195042695.html",
@@ -540,29 +559,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
+          "time": "2026-03-31 11:29:46",
           "title": "Erste Group 警告黄金大幅下跌可能会影响Agnico Eagle Mines Limited（AEM）的利润空间。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/commodities/articles/erste-group-warns-gold-sell-195154641.html",
           "title_en": "Erste Group Warns Gold Sell-Off Could Rattle Agnico Eagle Mines Limited (AEM) Margins"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
-          "title": "阿波罗全球管理（APO）收购日本尼普邦板材公司，受益于建筑玻璃需求大幅增长",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apollo-global-management-apo-acquiring-195313919.html",
-          "title_en": "Apollo Global Management (APO) Acquiring Nippon Sheet Amid Soaring Architectural Glass Demand"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-03-31 10:59:33",
-          "title": "Axos金融服务公司（AX）无分支机构结构加强了成本优势和盈利增长",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/axos-financial-inc-ax-branchless-195603641.html",
-          "title_en": "Axos Financial, Inc. (AX) Branchless Structure Strengthens Cost Advantage and Earnings Growth"
         }
       ]
     }
