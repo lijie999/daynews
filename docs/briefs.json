@@ -1,6 +1,6 @@
 {
   "date": "2026.04.01",
-  "generatedAtBJT": "2026-04-01 07:53:30",
+  "generatedAtBJT": "2026-04-01 08:23:55",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-01 07:53:30",
+          "time": "2026-04-01 08:23:55",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主要驱动因素：10年期利率 + 原油价格/风险事件\n- 四大监控指标：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易出现急剧波动/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏向纳斯达克/标普500先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏向纳斯达克/标普500修复反弹、黄金价格喘息；操作偏好：回踩参与、避免追高",
+          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Gold Price Turns, Oil Rises On Iran War Fallout, Trump Threat…\n- 宏观/Fed线索：Stable inflation expectations enable Fed to hold rates steady: Powell…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Stock market bulls, don't forget this one: Oil price shocks usually lead…\n- 宏观/Fed线索：Texas multifamily loans manageable despite building spree: Dallas Fed…"
         }
       ]
     },
@@ -29,38 +29,83 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "Wedbush认为今年六月将是苹果的巨大月份。您是否应该首先购买AAPL股票？",
+          "time": "2026-04-01 08:23:50",
+          "title": "苹果公司50年：IPO投资的价值",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wedbush-betting-june-huge-month-153353338.html",
-          "title_en": "Wedbush Is Betting That This June Will Be a Huge Month for Apple. Should You Buy AAPL Stock First?"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-50-investment-ipo-become-122500917.html",
+          "title_en": "Apple at 50: What an Investment in the IPO Has Become"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "Rezolve AI 股票今天上涨的原因",
+          "time": "2026-04-01 08:23:50",
+          "title": "Ecolab (ECL)是否是现在最好的低调AI股？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-rezolve-ai-stock-rising-154600236.html",
-          "title_en": "Why Rezolve AI Stock Is Rising Today"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ecolab-ecl-best-under-radar-122347319.html",
+          "title_en": "Is Ecolab (ECL) The Best Under-The-Radar AI Stock to Buy Now?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "由于NVIDIA的股价波动受其半导体芯片业务的影响，因此其股价可以作为全球半导体行业的晴雨表。",
+          "time": "2026-04-01 08:23:50",
+          "title": "超大规模数据中心扩大密歇根州人工智能足迹，收购48.5英亩土地。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/why-nvidia-has-the-important-stock-chart-in-the-world-145416630.html",
-          "title_en": "Why Nvidia has the important stock chart in the world"
+          "url": "https://finance.yahoo.com/sectors/technology/articles/hyperscale-data-expands-michigan-ai-124600591.html",
+          "title_en": "Hyperscale Data Expands Michigan AI Footprint With 48.5 Acre Acquisition"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "预计未来五年房贷利率：专家和AI预测2030年",
+          "time": "2026-04-01 08:23:50",
+          "title": "台湾积体电路公司（TSM）受益于强劲的基础业务增长",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-for-the-next-5-years-what-experts-and-ai-forecast-through-2030-195826147.html",
-          "title_en": "Mortgage rate predictions for the next 5 years: What experts — and AI — forecast through 2030"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-co-tsm-125604873.html",
+          "title_en": "Taiwan Semiconductor Manufacturing Co. (TSM) is Benefiting from Strong Underlying Business Growth"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 08:23:50",
+          "title": "人工智能正在带来对HVAC技术人员、其他专业劳动力的需求大幅增长：Randstad",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/ai-creating-surge-demand-hvac-121955412.html",
+          "title_en": "AI is creating a surge in demand for HVAC technicians, other skilled labor: Randstad"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 08:23:50",
+          "title": "强烈需求推动台积电（TSM）第四季度上涨",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/strong-demand-lifted-taiwan-semiconductor-130106361.html",
+          "title_en": "Strong Demand Lifted Taiwan Semiconductor Manufacturing Company Limited (TSM) Higher in Q4"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 08:23:50",
+          "title": "Keysight Technologies (KEYS)作为人工智能基础设施建设的防御性机会是什么原因?",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/makes-keysight-technologies-keys-defensive-131617928.html",
+          "title_en": "What Makes Keysight Technologies (KEYS) a Defensive Opportunity in AI Infrastructure Build-Out?"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 08:23:50",
+          "title": "微软、雪佛兰和引擎号1签署专有电力供应协议",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/microsoft-chevron-and-engine-no-1-sign-exclusive-deal-for-power-supply-4591917",
+          "title_en": "Microsoft, Chevron and Engine No. 1 sign exclusive deal for power supply"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 08:23:50",
+          "title": "微软与雪佛兰、Engine No.1举行谈判，涉及电力协议。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/microsoft-in-talks-with-chevron-engine-no1-over-power-deal-bloomberg-4591912",
+          "title_en": "Microsoft in talks with Chevron, Engine No.1 over power deal- Bloomberg"
         },
         {
           "source": "MarketWatch-Top",
@@ -151,56 +196,6 @@
           "url": "https://www.cnbc.com/2026/03/31/project-hail-mary-box-office-amazon-mgm.html",
           "title_en": "'Project Hail Mary' is the box office proof point Amazon MGM has been waiting for",
           "summary_en": "Amazon and MGM promised to spend around $1 billion each year on theatrical releases, a figure that would fund between 12 and 15 films annually."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-31 23:31:12",
-          "title": "伯克希尔·哈撒韦公司的首席执行官沃伦·巴菲特表示，他在苹果公司的投资时间太短，应该持有更多的苹果股票，但他不打算在当前市场中购买。",
-          "summary": "苹果仍然是伯克希尔哈撒韦公司(Berkshire Hathaway)的最大持股公司，尽管该公司在去年年底减持了部分股份。",
-          "url": "https://www.cnbc.com/2026/03/31/warren-buffett-says-he-sold-apple-too-soon-and-would-buy-more-of-it-though-not-in-this-market-.html",
-          "title_en": "Warren Buffett says he sold Apple too soon and would buy more of it, though not in this market",
-          "summary_en": "Apple remains Berkshire Hathaway's largest holding even after the conglomerate trimmed its stake at the end of last year."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-31 20:00:01",
-          "title": "华为云计算收入在2025年下降，因为中国的AI落后于美国竞争对手。",
-          "summary": "当包括内部客户在内时，这家电信巨头表示云计算收入比去年增长。",
-          "url": "https://www.cnbc.com/2026/03/31/huawei-annual-report-2025-cloud-computing-revenue.html",
-          "title_en": "Huawei's cloud computing revenue dropped in 2025 as Chinese AI lagged U.S. rivals",
-          "summary_en": "When including internal customers, the telecommunications giant said cloud computing revenue grew from a year ago."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-03-31 19:49:25",
-          "title": "微软面临英国竞争监管机构调查：软件业务",
-          "summary": "英国竞争与市场管理局对微软在云计算领域的许可实践表示了担忧。",
-          "url": "https://www.cnbc.com/2026/03/31/microsoft-cma-investigation-uk-software-business.html",
-          "title_en": "Microsoft hit with UK competition regulator probe over software business",
-          "summary_en": "The U.K.'s Competition and Markets Authority had \"concerns around Microsoft's licensing practices in cloud\", Chief Executive Sarah Cardell, said."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-31 16:15:12",
-          "title": "Nebius公布了在欧洲建立一座规模最大型的AI工厂的计划，欧洲地区正为计算资源而竞争。",
-          "summary": "欧洲正在竞相创建为人工智能大爆炸提供所需基础设施的必要条件。",
-          "url": "https://www.cnbc.com/2026/03/31/nebius-finland-ai-factory-europe-compute.html",
-          "title_en": "Nebius unveils plans to build one of Europe's largest AI factories as region scrambles for compute",
-          "summary_en": "Europe is racing to create the infrastructure needed to power the AI boom."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-31 15:38:49",
-          "title": "三星背后的AI芯片公司Rebellions在IPO前筹集了4亿美元。",
-          "summary": "Rebellions的芯片重点是人工智能推理， 与Nvidia以及Groq至Cerebras等初创公司竞争。",
-          "url": "https://www.cnbc.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-ipo.html",
-          "title_en": "Samsung-backed AI chip firm Rebellions raises $400 million ahead of IPO",
-          "summary_en": "Rebellions' chips are focused on AI inferencing, putting it in competition with Nvidia as well as other startups from Groq to Cerebras."
         }
       ]
     },
@@ -211,29 +206,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "波尔将稳定的通胀预期作为维持利率不变的依据。",
+          "time": "2026-04-01 08:23:50",
+          "title": "德州多户家庭贷款可控，尽管房地产热潮仍在持续：达拉斯联邦储备银行",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/stable-inflation-expectations-enable-fed-153830358.html",
-          "title_en": "Stable inflation expectations enable Fed to hold rates steady: Powell"
+          "url": "https://finance.yahoo.com/economy/policy/articles/texas-multifamily-loans-manageable-despite-123100734.html",
+          "title_en": "Texas multifamily loans manageable despite building spree: Dallas Fed"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "本周3月30日，最佳抵押贷款利率：6.122%的APR是最低的",
+          "time": "2026-04-01 08:23:50",
+          "title": "新西兰的Fonterra承认“草饲养”标签可能会误导消费者，之后遭到绿色和平诉讼",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-march-30-2026-170834936.html",
-          "title_en": "Mortgage lenders with the best rates this week, March 30, 2026: 6.122% APR is the lowest"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "当抵押贷款利率再次降至4%时，会是什么时候？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-to-4-again-203022918.html",
-          "title_en": "When will mortgage rates go down to 4% again?"
+          "url": "https://www.investing.com/news/stock-market-news/new-zealands-fonterra-admits-grassfed-label-may-mislead-shoppers-after-greenpeace-lawsuit-4591915",
+          "title_en": "New Zealand’s Fonterra admits ’grass-fed’ label may mislead shoppers after Greenpeace lawsuit"
         },
         {
           "source": "CNBC-Top",
@@ -274,43 +260,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "黄金价格转向，石油价格上涨，伊朗战争后果和特朗普威胁的影响。",
+          "time": "2026-04-01 08:23:50",
+          "title": "股市牛市的朋友们，不要忘记这一点：石油价格冲击通常会导致经济衰退。",
           "summary": "",
-          "url": "https://www.investors.com/news/gold-price-turns-oil-futures-iran-war-treasury-yields-kharg-island-trump/?src=A00220&yptr=yahoo",
-          "title_en": "Gold Price Turns, Oil Rises On Iran War Fallout, Trump Threat"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "原油价格上涨，受伊朗战争持续化的担忧影响。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/crude-oil-climbs-fears-protracted-153409334.html",
-          "title_en": "Crude Oil Climbs on Fears of a Protracted Iran War"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "当前应采取的交易：为长期伊朗战争做好准备",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/currencies/articles/1-trade-now-position-prolonged-152306303.html",
-          "title_en": "1 Trade to Make Now to Position for a Prolonged Iran War"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "市场转为负面态势，原油价格大幅上涨",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/markets-turn-negative-crude-oil-152055774.html",
-          "title_en": "Markets Turn Negative as Crude Oil Prices Surge"
+          "url": "https://finance.yahoo.com/news/stock-market-bulls-dont-forget-this-one-oil-price-shocks-usually-lead-to-a-recession-131921062.html",
+          "title_en": "Stock market bulls, don't forget this one: Oil price shocks usually lead to a recession"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
+          "time": "2026-04-01 08:23:50",
           "title": "联合利华与麦克米金达成协议，合并成为价值6500亿美元的食品巨头",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/unilever-nears-deal-to-merge-foods-unit-with-spice-maker-mccormick-4589163",
@@ -319,12 +278,22 @@
         {
           "source": "CNBC-World",
           "ticker": "RSS",
-          "time": "2026-04-01 07:51:28",
-          "title": "亚太市场料将反弹，特朗普的评论引发了伊朗战争在几周内结束的希望",
+          "time": "2026-04-01 08:16:23",
+          "title": "亚太市场反弹，韩国Kospi指数大涨5%，特朗普表示伊朗战争可能在几周内结束。",
           "summary": "周二，特朗普表示，美国可能在“两周或三周”内离开伊朗，他说：“我们离开，因为没有理由让我们这样做。”",
           "url": "https://www.cnbc.com/2026/04/01/asia-markets-live-today-nikkei-kospi-boj-tankan-iran-war.html",
-          "title_en": "Asia-Pacific markets set to rebound as Trump comments raise hopes of Iran war ending in weeks",
+          "title_en": "Asia-Pacific markets rebound with Kospi jumping 5% as Trump says Iran war could end in weeks",
           "summary_en": "On Tuesday stateside, Trump said the U.S. could leave Iran in \"two or three weeks,\" adding \"We leave because there's no reason for us to do this.\""
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-01 08:12:49",
+          "title": "特朗普将于周三晚间就伊朗战争发表全国讲话，白宫表示。",
+          "summary": "美国总统唐纳德·特朗普表示，他预计美国军队将在“两到三个星期”内离开伊朗。",
+          "url": "https://www.cnbc.com/2026/03/31/trump-iran-war.html",
+          "title_en": "Trump to address nation on Iran war Wednesday night, White House says",
+          "summary_en": "President Donald Trump said he expected that U.S. military forces will leave Iran in \"two or three weeks.\""
         },
         {
           "source": "CNBC-Top",
@@ -335,15 +304,6 @@
           "url": "https://www.cnbc.com/2026/03/31/jim-cramer-three-ways-the-stock-market-will-flip-if-the-us-iran-war-ends.html",
           "title_en": "Jim Cramer: Three ways the stock market will flip if the U.S.-Iran war ends",
           "summary_en": "Want to know how the market will react when the war's over? CNBC's Jim Cramer says Tuesday's session gives investors a hint."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-01 06:20:00",
-          "title": "特朗普称美国将在“两到三周”内离开伊朗。",
-          "summary": "",
-          "url": "https://www.cnbc.com/2026/03/31/trump-iran-war.html",
-          "title_en": "Trump says U.S. will leave Iran in 'two or three weeks'"
         },
         {
           "source": "CNBC-World",
@@ -424,16 +384,6 @@
           "url": "https://www.cnbc.com/2026/03/28/iran-war-defense-tech-drones-trump-hegseth.html",
           "title_en": "The Iran war is defense tech's chance to shine, but few systems and weapons are ready",
           "summary_en": "Palmer Luckey's Anduril, software AI company Palantir and Elon Musk's SpaceX are getting the lion's share of defense tech dollars from the Pentagon."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-30 20:20:28",
-          "title": "石油的历史月度表现、TSA员工的加薪、皮卡丘卡牌二手市场等在早间时报中",
-          "summary": "今天市场投资者需要了解的五个关键信息。",
-          "url": "https://www.cnbc.com/2026/03/30/5-things-to-know-before-the-market-opens.html",
-          "title_en": "Oil's record month, TSA pay, the Pokémon card resale market and more in Morning Squawk",
-          "summary_en": "Here are five key things investors need to know to start the trading day."
         }
       ]
     },
@@ -441,15 +391,6 @@
       "name": "特斯拉链",
       "badge": "TSLA chain",
       "items": [
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "特斯拉似乎有了新的蓝图计划......并且SpaceX是一个巨大的组成部分。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-appears-master-plan-spacex-150651232.html",
-          "title_en": "Tesla Appears to Have a New Master Plan... and SpaceX Is a Huge Part of It"
-        },
         {
           "source": "CNBC-Tech",
           "ticker": "RSS",
@@ -469,43 +410,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "Trintech的首席产品官如何为核心KPI添加“风味”。",
+          "time": "2026-04-01 08:23:50",
+          "title": "辛普森制造公司（SSD）成为投资热点的原因有哪些？",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/trintech-cpo-adds-flavor-core-154253769.html",
-          "title_en": "How Trintech’s CPO adds ‘flavor’ to core KPIs"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/makes-simpson-manufacturing-co-ssd-122817574.html",
+          "title_en": "What Makes Simpson Manufacturing Co. (SSD) an Investment Bet?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "10家最近分拆公司，投资者正在积极买入：\n\n1.  NVIDIA (NVDA) 的深度学习芯片业务\n2.  Micron Technology (MU) 的闪存业务\n3.  Lam Research (LRCX) 的半导体制造业务\n4.  Applied Materials (AMAT) 的半导体制造业务\n5.  KLA Corp (KLAC) 的半导体制造业务\n6.  ASML Holding (ASML) 的极紫外光光刻业务\n7.  FormFactor (FORM) 的半导体测试业务\n8.  Entegris (ENTG) 的半导体制造辅助业务\n9.  Brooks Automation (BRKS) 的半导体制造辅助业务\n10.  Veeco Instruments (VECO) 的半导体制造辅助业务",
+          "time": "2026-04-01 08:23:50",
+          "title": "ResMed财报预览：预期值",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/10-recent-spin-off-companies-154006956.html",
-          "title_en": "10 Recent Spin-off Companies That Hedge Funds Are Piling Into"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/resmed-earnings-preview-expect-122728833.html",
+          "title_en": "ResMed Earnings Preview: What to Expect"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "意大利数据保护局对意大利最大的银行之一意大利联合银行（Intesa Sanpaolo）处以3.4亿欧元（约合3.6亿美元）罚款，原因是该银行因数据泄露事件而违反了数据保护法。",
+          "time": "2026-04-01 08:23:50",
+          "title": "5种方式让退休者在家赚取额外收入而不需要全职工作",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/italy-data-protection-agency-fines-154427191.html",
-          "title_en": "Italy data protection agency fines Intesa Sanpaolo $36 million over data breach"
+          "url": "https://finance.yahoo.com/markets/articles/5-ways-retirees-earning-extra-123000289.html",
+          "title_en": "5 ways retirees are earning extra income from home without a full-time job"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "康涅狄格州的女性在浪漫诈骗中清空了她的401（k）-她错过了什么红旗和如何保护自己",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/connecticut-woman-empties-her-401-154500659.html",
-          "title_en": "Connecticut woman empties her 401(k) in romance scam — here are the red flags she missed and how to protect yourself"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
+          "time": "2026-04-01 08:23:50",
           "title": "小盘股和中盘股的优势",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46593_MarketOutlook_1774956212000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -514,70 +446,52 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "私人信贷市场遭遇重挫，但新规则可能让其进入401(k)计划",
+          "time": "2026-04-01 08:23:50",
+          "title": "阿尔特利亚口服尼古丁口袋产品将全国推广。2026年该股是否值得买入？",
           "summary": "",
-          "url": "https://www.wsj.com/personal-finance/retirement/private-credit-is-reeling-but-new-rule-may-allow-it-into-401-k-s-0e2e1122?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Private Credit Is Reeling, But New Rule May Allow It Into 401(k)s"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/altrias-oral-nicotine-pouch-product-122500931.html",
+          "title_en": "Altria's Oral Nicotine Pouch Product Is Going Nationwide. Is the Stock a Buy in 2026?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "南方航空即将公布财报，投资者需要关注的关键点包括：",
+          "time": "2026-04-01 08:23:50",
+          "title": "比亚迪提高了对海外销售的预期",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/know-ahead-southwest-airlines-earnings-153155402.html",
-          "title_en": "What You Need to Know Ahead of Southwest Airlines' Earnings Release"
+          "url": "https://www.investors.com/news/byd-exports-tesla-china-evs-electric-vehicles-autos-cars/?src=A00220&yptr=yahoo",
+          "title_en": "BYD Raises Forecasts For Overseas Sales"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "比尔·盖茨2026年的重仓股中是否包括德尔（DE）",
+          "time": "2026-04-01 08:23:50",
+          "title": "棉花价格周一开盘上涨",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/deere-top-stock-pick-bill-152348082.html",
-          "title_en": "Is Deere (DE) a Top Stock Pick of Bill Gates in 2026?"
+          "url": "https://finance.yahoo.com/markets/commodities/articles/cotton-starting-off-monday-gains-123554983.html",
+          "title_en": "Cotton Starting off Monday with Gains"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "分析报告：科泰瓦公司（Corteva Inc）",
+          "time": "2026-04-01 08:23:50",
+          "title": "豆类价格周一早盘小幅上涨",
           "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_5147_AnalystReport_1774955346000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Corteva Inc"
+          "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-seeing-slight-monday-morning-123554885.html",
+          "title_en": "Soybeans Seeing Slight Monday Morning Gains"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "卡纳维拉尔在Q1期间实现了稳定的预订和运营收益，但分析师担心燃油成本的风险上升。",
+          "time": "2026-04-01 08:23:50",
+          "title": "麦类价格周一早盘下跌",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/carnival-delivers-solid-bookings-operational-153900479.html",
-          "title_en": "Carnival delivers solid bookings and operational gains during Q1 amid rising fuel risks: analysts"
+          "url": "https://finance.yahoo.com/markets/commodities/articles/wheat-falling-back-monday-am-123554347.html",
+          "title_en": "Wheat Falling Back on Monday AM Trade"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "如果市场疲软，这个期权套利策略可以赚取最高5,200美元",
-          "summary": "",
-          "url": "https://www.investors.com/research/options/sp-500-etf-spy-stock-exchange-traded-fund-options-put-ratio-spread/?src=A00220&yptr=yahoo",
-          "title_en": "This Options Spread Can Pay Off Up To $5,200 If The Market Weakens"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "在拉斯维加斯，价值1百万美元以上的房屋在短短五年内就开始出现裂缝，引起业主的愤怒。如何保护您的房屋？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/house-tilting-furious-las-vegas-160300674.html",
-          "title_en": "‘My house is tilting’: Furious Las Vegas homeowners say $1M+ homes crumbling in just 5 years. How to protect your home"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
+          "time": "2026-04-01 08:23:50",
           "title": "分析报告：UWM控股公司",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_5978_AnalystReport_1774955346000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -586,47 +500,74 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "Peloton 股票预测：EMJ 创始人能否带来像Opendoor一样的牛市？",
+          "time": "2026-04-01 08:23:50",
+          "title": "玉米周一早晨继续下跌。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/peloton-stock-forecast-emjs-founder-160802617.html",
-          "title_en": "Peloton Stock Forecast: Can EMJ's Founder Help Trigger an Opendoor-Like Rally?"
+          "url": "https://finance.yahoo.com/markets/commodities/articles/corn-slipping-lower-monday-morning-123554091.html",
+          "title_en": "Corn Slipping Lower on Monday Morning"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "2026年买入一只股票，避免一只股票。",
+          "time": "2026-04-01 08:23:50",
+          "title": "如何投资白银：初学者指南",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-stock-buy-1-stay-151551942.html",
-          "title_en": "1 Stock To Buy, 1 To Stay Away From in 2026"
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-silver-for-beginners-120000199.html",
+          "title_en": "How to invest in silver: A beginner's guide"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "中期看多。",
+          "time": "2026-04-01 08:23:50",
+          "title": "查尔斯·施瓦布公司（SCHW）在财富管理增长中的领先地位是什么原因造成的？",
           "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46592_TechnicalAnalysis_1774955242000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Technical Assessment: Bullish in the Intermediate-Term"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/makes-charles-schwab-corporation-schw-124423415.html",
+          "title_en": "What Makes The Charles Schwab Corporation (SCHW) a Leader in Wealth Management Growth?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "财务官应了解的负债管理演练",
+          "time": "2026-04-01 08:23:50",
+          "title": "分析报告：科泰瓦公司（Corteva Inc）",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/cfos-know-liability-management-exercises-154536715.html",
-          "title_en": "What CFOs should know about liability management exercises"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_5147_AnalystReport_1774955346000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Corteva Inc"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 07:53:26",
-          "title": "匹配集团与美国FTC就非法共享OkCupid用户数据达成和解",
+          "time": "2026-04-01 08:23:50",
+          "title": "苏茜·奥曼说，要减少财务压力，专注于你能控制的东西，仅在本周和本期工资周期内。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/match-group-settles-us-ftc-141355641.html",
-          "title_en": "Match Group settles US FTC claims it illegally shared OkCupid user data"
+          "url": "https://finance.yahoo.com/markets/articles/suze-orman-says-reduce-financial-123115134.html",
+          "title_en": "Suze Orman Says To Reduce Financial Stress, Focus Only On What You Can Control This Week And This Paycheck Cycle. 'Nothing Longer Or Bigger'"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 08:23:50",
+          "title": "Sequoia Strategy 对 Formula One Group (FWONK) 的最新评估",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sequoia-strategy-updates-formula-one-124730407.html",
+          "title_en": "Sequoia Strategy’s Updates on Formula One Group (FWONK)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 08:23:50",
+          "title": "雷蒙德詹姆斯金融财报预览：预期情况",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/raymond-james-financial-earnings-preview-125005054.html",
+          "title_en": "Raymond James Financial Earnings Preview: What to Expect"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 08:23:50",
+          "title": "Sequoia Strategy认为Capital One Financial（COF）处于有吸引力的估值水平。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-sequoia-strategy-believes-capital-125017312.html",
+          "title_en": "Here’s Why Sequoia Strategy Believes Capital One Financial (COF) is Trading at an Attractive Valuation"
         }
       ]
     }
