@@ -1,6 +1,6 @@
 {
   "date": "2026.04.01",
-  "generatedAtBJT": "2026-04-01 23:10:02",
+  "generatedAtBJT": "2026-04-01 23:40:37",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-01 23:10:02",
+          "time": "2026-04-01 23:40:37",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主要驱动因素：10年期国债利率 + 原油价格/风险事件\n- 四大监控指标：10年期国债利率（方向/拐点）｜美元指数（强弱）｜波动率指数（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；波动率指数上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且波动率指数抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且波动率指数回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回",
+          "summary": "- 主要驱动因素：10年期利率 + 原油价格/风险事件\n- 四个监控指标：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否上升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金价格更容易回撤；VIX上升→盘中更容易出现急剧波动/假突破\n- 未来90分钟关键窗口：关注是否临近数据发布/讲话/美债拍卖/开盘等事件窗口；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX上升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗口",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Stock market today: Dow S&P 500, Nasdaq climb as deescalation talk in Ir…\n- 宏观/Fed线索：Best CD rates today, April 1, 2026 (Earn up to 4.1% APY)…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Tech stocks today: Anthropic does damage control after Claude leak, Iran…\n- 宏观/Fed线索：Prices may rise more this year than the Fed predicts, global forecasting…"
         }
       ]
     },
@@ -29,29 +29,112 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
+          "time": "2026-04-01 23:40:33",
+          "title": "亿万富翁罗伯·西特隆（Rob Citrone）认为Amkor Technology（AMKR）是芯片股中的一颗明珠。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/amkor-technology-amkr-billionaire-rob-152420111.html",
+          "title_en": "Amkor Technology (AMKR): Billionaire Rob Citrone Is Bullish on This Chip Stock"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 23:40:33",
+          "title": "德普·E·肖公司正在购买德州仪器股份",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-incorporated-txn-d-152216868.html",
+          "title_en": "Texas Instruments Incorporated (TXN): D. E. Shaw Is Buying This Chip Stock"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 23:40:33",
+          "title": "高通量投资公司D.E. Shaw正在大量购买AMD芯片股。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-d-152120534.html",
+          "title_en": "Advanced Micro Devices (AMD): D. E. Shaw Is Loading Up on This Chip Stock"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 23:40:33",
+          "title": "Palantir技术公司（PLTR）：D.E.肖公司赞赏这家AI强国",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-d-152030299.html",
+          "title_en": "Palantir Technologies Inc. (PLTR): D. E. Shaw Admires This AI Powerhouse"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 23:40:33",
+          "title": "亿万富翁保罗·图德尔·琼斯继续对苹果公司持乐观态度",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-billionaire-paul-151529152.html",
+          "title_en": "Apple Inc. (AAPL): Billionaire Paul Tudor Jones Continues to Be Bullish"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 23:40:33",
+          "title": "微软公司（MSFT）：亿万富翁保罗·图德尔·琼斯几乎翻倍持股",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-billionaire-paul-151226933.html",
+          "title_en": "Microsoft Corporation (MSFT): Billionaire Paul Tudor Jones Almost Doubles Stake"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 23:40:33",
+          "title": "亿万富翁保罗·图德尔·琼斯喜欢这个科技股",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-billionaire-151126651.html",
+          "title_en": "Amazon.com, Inc. (AMZN): Billionaire Paul Tudor Jones Likes This Tech Stock"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 23:40:33",
+          "title": "亿万富翁保罗·图德尔·琼斯继续对NVIDIA Corporation (NVDA)持乐观态度。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-billionaire-paul-150755116.html",
+          "title_en": "NVIDIA Corporation (NVDA): Billionaire Paul Tudor Jones Continues to Be Bullish"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 23:40:33",
+          "title": "加拿大货运公司Cargojet在亚马逊合作伙伴21 Air CEO离职事件中扮演了重要角色。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/canada-cargojet-plays-role-ceo-150630408.html",
+          "title_en": "Canada’s Cargojet plays role in CEO exit at Amazon partner 21 Air"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 23:40:33",
           "title": "数据中心和电力基础设施的增长和动力推动了nVent Electric (NVT)在2025年的表现",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/growth-momentum-data-center-power-144211561.html",
           "title_en": "Growth and Momentum in Data Center and Power Utilities Lifted nVent Electric (NVT) in 2025"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "华尔街支持Arista Networks的AI数据中心战略",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-backs-arista-networks-145215608.html",
-          "title_en": "Wall Street Backs Arista Networks as AI Data Center Play"
+          "time": "2026-04-01 23:26:51",
+          "title": "维萨推出新一代人工智能工具来管理收费争议流程",
+          "summary": "维萨公司的新工具是主要银行和金融机构在业务中采用人工智能的更大努力的一部分。",
+          "url": "https://www.cnbc.com/2026/04/01/visa-ai-tools-dispute-management.html",
+          "title_en": "Visa launches new AI tools to manage the charge dispute process",
+          "summary_en": "Visa's new tools are part of a larger push by major banks and financial institutions to incorporate AI into their businesses."
         },
         {
-          "source": "Investing-Markets",
+          "source": "MarketWatch-Top",
           "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "Raymond James升级了UnitedHealth至超越表现，预见人工智能驱动的利润空间",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/raymond-james-upgrades-unitedhealth-to-outperform-sees-aidriven-margin-upside-4593588",
-          "title_en": "Raymond James upgrades UnitedHealth to Outperform, sees AI-driven margin upside"
+          "time": "2026-04-01 23:21:00",
+          "title": "微软持有着一座“宝藏”，这可能会帮助推动股价上涨20%。",
+          "summary": "Benchmark已加入了微软的支持者行列，称其最近的困难为投资的有吸引力的入口。",
+          "url": "https://www.marketwatch.com/story/microsoft-is-sitting-on-a-treasure-chest-that-could-help-lift-the-stock-20-eadef207?mod=mw_rss_topstories",
+          "title_en": "Microsoft is sitting on a ‘treasure chest’ that could help lift the stock 20%",
+          "summary_en": "Benchmark has joined the legions of Microsoft bulls, citing an attractive entry point following the stock’s recent struggles."
         },
         {
           "source": "CNBC-Top",
@@ -72,16 +155,6 @@
           "url": "https://www.cnbc.com/2026/04/01/ai-chatbot-customer-service-complaints-refunds.html",
           "title_en": "'I hate customer-service chatbots': The consumer-AI refund relationship is off to a rocky start",
           "summary_en": "Generative AI is designed to please humans, but maybe not in the case of customer service chatbots dealing with angry consumers looking for refunds."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-01 20:51:58",
-          "title": "维萨推出新一代人工智能工具来管理收费争议流程",
-          "summary": "维萨公司的新工具是主要银行和金融机构在业务中采用人工智能的更大努力的一部分。",
-          "url": "https://www.cnbc.com/2026/04/01/visa-ai-tools-dispute-management.html",
-          "title_en": "Visa launches new AI tools to manage the charge dispute process",
-          "summary_en": "Visa's new tools are part of a larger push by major banks and financial institutions to incorporate AI into their businesses."
         },
         {
           "source": "CNBC-Top",
@@ -122,86 +195,6 @@
           "url": "https://www.cnbc.com/2026/03/31/column-apples-crackdown-on-ai-apps-puts-it-wrong-side-of-history.html",
           "title_en": "Column: Apple's crackdown on AI apps puts it on the wrong side of history",
           "summary_en": "Apple is going against its founding mission from 50 years ago by standing in the way AI coding, or vibe-coding."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-04-01 05:08:30",
-          "title": "OpenAI完成历史性1220亿美元融资轮，市盈率预计将进一步上涨",
-          "summary": "总共募集了1220亿美元的认可资金，高于之前公布的1100亿美元。",
-          "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-          "title_en": "OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO",
-          "summary_en": "The round totaled $122 billion of committed capital, up from the $110 billion figure that was previously announced."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-01 04:55:26",
-          "title": "亚马逊同意与团结工会的案件和解，指控该公司对罢工工人采取报复行动。",
-          "summary": "团体工会称亚马逊非法扣除员工未取的假期时间，称这种做法是“非法胁迫”。",
-          "url": "https://www.cnbc.com/2026/03/31/amazon-settles-teamsters-warehouse-strike.html",
-          "title_en": "Amazon settles Teamsters case alleging it retaliated against striking workers",
-          "summary_en": "The Teamsters alleged Amazon illegally docked employees' unpaid time off after they walked off the job, calling the practice \"unlawfully coercive.\""
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-04-01 04:20:15",
-          "title": "甲骨文公司继续裁员数千人，公司继续增加人工智能支出。",
-          "summary": "甲骨文公司加大了资本支出，以建设能够处理人工智能负载的数据中心基础设施。",
-          "url": "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html",
-          "title_en": "Oracle cutting thousands in latest layoff round as company continues to ramp AI spending",
-          "summary_en": "Oracle has ratcheted up its capital expenditures as it builds data center infrastructure that can handle AI workloads."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-04-01 04:03:50",
-          "title": "Marvel尔股价大涨13%，因Nvidia投资2亿美元，继续类似的押注。",
-          "summary": "近期，Nvidia 在 CoreWeave、Nebius 和 Coherent 等公司投资了 200 亿美元。",
-          "url": "https://www.cnbc.com/2026/03/31/marvell-nvidia-stock-stake.html",
-          "title_en": "Marvell stock pops 13% as Nvidia takes $2 billion stake, continuing run of similar bets",
-          "summary_en": "Nvidia has also made $2 billion investments in CoreWeave, Nebius and Coherent in recent months."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-31 20:00:01",
-          "title": "华为云计算收入在2025年下降，因为中国的AI落后于美国竞争对手。",
-          "summary": "当包括内部客户在内时，这家电信巨头表示云计算收入比去年增长。",
-          "url": "https://www.cnbc.com/2026/03/31/huawei-annual-report-2025-cloud-computing-revenue.html",
-          "title_en": "Huawei's cloud computing revenue dropped in 2025 as Chinese AI lagged U.S. rivals",
-          "summary_en": "When including internal customers, the telecommunications giant said cloud computing revenue grew from a year ago."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-31 19:49:25",
-          "title": "微软面临英国竞争监管机构调查：软件业务",
-          "summary": "英国竞争与市场管理局对微软在云计算领域的许可实践表示了担忧。",
-          "url": "https://www.cnbc.com/2026/03/31/microsoft-cma-investigation-uk-software-business.html",
-          "title_en": "Microsoft hit with UK competition regulator probe over software business",
-          "summary_en": "The U.K.'s Competition and Markets Authority had \"concerns around Microsoft's licensing practices in cloud\", Chief Executive Sarah Cardell, said."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-31 16:15:12",
-          "title": "Nebius公布了在欧洲建立一座规模最大型的AI工厂的计划，欧洲地区正为计算资源而竞争。",
-          "summary": "欧洲正在竞相创建为人工智能大爆炸提供所需基础设施的必要条件。",
-          "url": "https://www.cnbc.com/2026/03/31/nebius-finland-ai-factory-europe-compute.html",
-          "title_en": "Nebius unveils plans to build one of Europe's largest AI factories as region scrambles for compute",
-          "summary_en": "Europe is racing to create the infrastructure needed to power the AI boom."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-31 15:38:49",
-          "title": "三星背后的AI芯片公司Rebellions在IPO前筹集了4亿美元。",
-          "summary": "Rebellions的芯片重点是人工智能推理， 与Nvidia以及Groq至Cerebras等初创公司竞争。",
-          "url": "https://www.cnbc.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-ipo.html",
-          "title_en": "Samsung-backed AI chip firm Rebellions raises $400 million ahead of IPO",
-          "summary_en": "Rebellions' chips are focused on AI inferencing, putting it in competition with Nvidia as well as other startups from Groq to Cerebras."
         }
       ]
     },
@@ -209,78 +202,6 @@
       "name": "美联储与政策",
       "badge": "Fed / Policy",
       "items": [
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "今日最佳定期存款利率（2026年4月1日），最高可达4.1%年利率",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-april-1-2026-100000437.html",
-          "title_en": "Best CD rates today, April 1, 2026 (Earn up to 4.1% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "今日（4月1日）抵押贷款和再融资利率再次下降，第二天连续下降",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-april-1-2026-100000434.html",
-          "title_en": "Mortgage and refinance rates today, April 1, 2026: Lower for the second day"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "今天（4月1日，2026年），HELOC和房屋抵押贷款利率分别为：",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-april-1-2025-100000564.html",
-          "title_en": "HELOC and home equity loan rates today, April 1, 2026: What's your pay-off plan?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "今日最佳短期存款利率（最高可达4.01% APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-april-1-2026-100000183.html",
-          "title_en": "Best money market account rates today, April 1, 2026 (secure up to 4.01% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "今日（2026年4月1日）高收益储蓄利率（最高可达4%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-april-1-2026-100000836.html",
-          "title_en": "Best high-yield savings interest rates today, April 1, 2026 (Earn up to 4% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "通胀如何影响汽车保险——以及你能做什么",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/insurance/article/car-insurance-inflation-151203005.html",
-          "title_en": "How inflation affects car insurance — and what you can do about it"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "截至2026年3月31日，最佳定期存款利率为最高4.15%年利率",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-cd-rates-today-march-31-2026-lock-in-up-to-4-1-5-apy-today-100000313.html",
-          "title_en": "Best CD rates today, March 31, 2026: Lock in up to 4.15% APY today"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "Bank5 Connect评估（2026）：简单的在线银行业务与竞争性利率",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/review/bank5-connect-review-213751126.html",
-          "title_en": "Bank5 Connect review (2026): Simple online banking with competitive interest rates"
-        },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
@@ -310,38 +231,30 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
+          "time": "2026-04-01 23:40:33",
+          "title": "科技股今日：Anthropic进行了对 Claude泄露的应对，伊朗威胁到大型科技公司的运营",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-anthropic-does-damage-control-after-claude-leak-iran-threatens-big-tech-operations-144220238.html",
+          "title_en": "Tech stocks today: Anthropic does damage control after Claude leak, Iran threatens Big Tech operations"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 23:40:33",
           "title": "股市今日：道指、标普500指数、纳斯达克指数上涨，伊朗局势缓和的谈判延续涨势",
           "summary": "",
           "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-as-deescalation-talk-in-iran-extends-rally-133208948.html",
           "title_en": "Stock market today: Dow S&P 500, Nasdaq climb as deescalation talk in Iran extends rally"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "科技股今日：Anthropic进行了 Claude泄露后的大修，伊朗威胁大型科技公司",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-anthropic-does-damage-control-after-claude-leak-iran-threaten-big-tech-operations-144220519.html",
-          "title_en": "Tech stocks today: Anthropic does damage control after Claude leak, Iran threaten Big Tech operations"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "耐克股价暴跌13%以上，创11年新低，中国市场疲软和高油价对公司前景造成压力。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/nike-stock-tumbles-more-than-13-hits-11-year-low-as-weakness-in-china-high-oil-prices-weigh-on-outlook-140026004.html",
-          "title_en": "Nike stock tumbles more than 13%, hits 11-year low as weakness in China, high oil prices weigh on outlook"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "本周三，4月1日，2026年，比特币和以太坊价格：价格因伊朗战争可能在几周内结束的消息而上涨",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-wednesday-april-1-2026-prices-strengthen-on-news-that-iran-war-may-end-in-weeks-120045601.html",
-          "title_en": "Bitcoin and ethereum price today, Wednesday, April 1, 2026: Prices strengthen on news that Iran war may end in weeks"
+          "time": "2026-04-01 23:22:32",
+          "title": "特朗普称伊朗总统要求停火，但美国要求首先打开霍尔木兹海峡",
+          "summary": "美国和以色列在2月底发动对伊朗的袭击，引发了经济混乱和全球能源大规模中断。",
+          "url": "https://www.cnbc.com/2026/04/01/trump-iran-war-ceasefire.html",
+          "title_en": "Trump says Iran's president asked for ceasefire, but U.S. wants Hormuz Strait open first",
+          "summary_en": "The war began in late February when the U.S. and Israel launched strikes on Iran, causing economic turmoil and massive global energy disruptions."
         },
         {
           "source": "MarketWatch-Top",
@@ -352,16 +265,6 @@
           "url": "https://www.marketwatch.com/story/u-s-manufacturers-see-best-month-in-2-1-2-years-but-iran-war-threatens-to-derail-progress-dd0d7b59?mod=mw_rss_topstories",
           "title_en": "U.S. manufacturers see best month in 2 1/2 years, but Iran war threatens to derail progress",
           "summary_en": "American manufacturing grew in March at the fastest pace since mid-2022 by one measure, but the conflict with Iran added a new level of uncertainty just as the effects of the Trump tariffs were fading."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-01 22:55:11",
-          "title": "特朗普称伊朗总统要求停火，但美国要求首先打开霍尔木兹海峡",
-          "summary": "美国和以色列在2月底发动对伊朗的袭击，引发了经济混乱和全球能源大规模中断。",
-          "url": "https://www.cnbc.com/2026/04/01/trump-iran-war-ceasefire.html",
-          "title_en": "Trump says Iran's president asked for ceasefire, but U.S. wants Hormuz Strait open first",
-          "summary_en": "The war began in late February when the U.S. and Israel launched strikes on Iran, causing economic turmoil and massive global energy disruptions."
         },
         {
           "source": "CNBC-World",
@@ -489,24 +392,6 @@
       "badge": "TSLA chain",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "股市今日：道指因特朗普的战争评论上涨；亚马逊、特斯拉上涨（实时报道）",
-          "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-war-jobs-data-nike-stock/?src=A00220&yptr=yahoo",
-          "title_en": "Stock Market Today: Dow Higher On Trump's War Comments; Amazon, Tesla Rise (Live Coverage)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "特斯拉电动汽车交付将在中国竞争对手报告3月份销量回升之后公布。",
-          "summary": "",
-          "url": "https://www.investors.com/news/tesla-ev-deliveries-china-electric-vehicles-li-auto-nio-xpeng-byd-xiaomi/?src=A00220&yptr=yahoo",
-          "title_en": "Tesla EV Deliveries On Tap After China Rivals Report Rebounding Sales In March"
-        },
-        {
           "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-04-01 22:06:23",
@@ -525,70 +410,97 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "老年人在税务方面的四个错误，可能会触发IRS的审计\n\n许多老年人在退休后会遇到税务问题，尤其是在处理退休金和投资收益时。以下是四个可能会触发IRS审计的税务错误。",
+          "time": "2026-04-01 23:40:33",
+          "title": "美洲移动（AMX）：亿万富翁罗伯·西特隆减持持股",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/4-tax-mistakes-seniors-could-150008419.html",
-          "title_en": "4 Tax Mistakes Seniors Make That Could Trigger an IRS Audit"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/am-rica-m-vil-amx-152727158.html",
+          "title_en": "América Móvil (AMX): Billionaire Rob Citrone Trims Holding"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "艺术家中型价值基金因低估值出售LKQ Corp. (LKQ)",
+          "time": "2026-04-01 23:40:33",
+          "title": "美国墨西哥湾沿岸油轮市场紧张加剧，因为亚洲寻求替代供应",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/artisan-mid-cap-value-fund-145616357.html",
-          "title_en": "Artisan Mid Cap Value Fund Sold LKQ Corp. (LKQ) Due to Low Valuation"
+          "url": "https://finance.yahoo.com/sectors/energy/articles/us-gulf-coast-tanker-market-152706675.html",
+          "title_en": "US Gulf Coast tanker market tightens as Asia seeks to replace lost supply"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "Cable One (CABO) 面临着用户增长困难和竞争压力",
+          "time": "2026-04-01 23:40:33",
+          "title": "SpaceX已注册进行史诗级IPO，成为火箭制造商上市公司，布隆伯格新闻报道。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cable-one-cabo-struggles-subscriber-144518161.html",
-          "title_en": "Cable One (CABO) Struggles with Subscriber Growth and Competitive Pressures"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-registers-rocket-maker-public-152655652.html",
+          "title_en": "SpaceX registers to take rocket maker public in blockbuster IPO, Bloomberg News reports"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "耐克股价下跌，公司预期不佳，转型努力继续进行。中国销售lag。",
+          "time": "2026-04-01 23:40:33",
+          "title": "亿万富翁罗伯特·西特伦（Rob Citrone）减持IREN Limited（IREN）股份。",
           "summary": "",
-          "url": "https://www.investors.com/news/nike-stock-earnings-q3-2026-turnaround-dow-jones-nke/?src=A00220&yptr=yahoo",
-          "title_en": "Nike Tumbles On Outlook, Turnaround Efforts Continue. China Sales Lag."
+          "url": "https://finance.yahoo.com/markets/stocks/articles/iren-limited-iren-billionaire-rob-152557720.html",
+          "title_en": "IREN Limited (IREN): Billionaire Rob Citrone Trims Position"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "耐克股价大跌，尽管第三季度业绩符合预期",
+          "time": "2026-04-01 23:40:33",
+          "title": "富兰克林特默顿将收购CoinFund的子公司，扩大其加密投资产品。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nike-shares-tumble-weak-guidance-145600829.html",
-          "title_en": "Nike shares tumble on weak guidance despite in-line Q3"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/franklin-templeton-buy-coinfund-spinoff-153009171.html",
+          "title_en": "Franklin Templeton to Buy CoinFund Spinoff, Build Out Crypto Investment Offering"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "为什么Centene Corporation (CNC) 在Q4下滑",
+          "time": "2026-04-01 23:40:33",
+          "title": "股市今日：道指因特朗普的战争言论上涨；美光大幅上涨（实时报道）",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-centene-corporation-cnc-fell-142129246.html",
-          "title_en": "Here’s Why Centene Corporation (CNC) Fell in Q4"
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-war-jobs-data-nike-stock/?src=A00220&yptr=yahoo",
+          "title_en": "Stock Market Today: Dow Higher On Trump's War Comments; Micron Vaults (Live Coverage)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "比特币指数基金在三月份转折后表现良好，新加密货币SPAC上市",
+          "time": "2026-04-01 23:40:33",
+          "title": "亿万富翁罗伯特·西特伦（Rob Citrone）赞叹这只股票",
           "summary": "",
-          "url": "https://www.investors.com/news/bitcoin-price-bitcoin-etf-flows-march-coinshares-stock-nasdaq/?src=A00220&yptr=yahoo",
-          "title_en": "Bitcoin ETFs Post March Turnaround, New Crypto SPAC Launches"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ramaco-resources-inc-metc-billionaire-152516655.html",
+          "title_en": "Ramaco Resources, Inc. (METC): Billionaire Rob Citrone Admires This Stock"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
+          "time": "2026-04-01 23:40:33",
+          "title": "Booking Holdings Inc. (BKNG) 的旅行股正是 D. E. Shaw 的收购目标。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/booking-holdings-inc-bkng-d-152300286.html",
+          "title_en": "Booking Holdings Inc. (BKNG): D. E. Shaw Is Buying This Travel Stock"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 23:40:33",
+          "title": "2026年挪威郵輪線股票的兩個預測",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-predictions-norwegian-cruise-line-152700878.html",
+          "title_en": "2 Predictions for Norwegian Cruise Line Stock in 2026"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 23:40:33",
+          "title": "今年IRS员工人数下降了27%。这意味着你的税款退款会受到什么影响。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/irs-staffing-is-down-by-27-this-year-what-that-means-for-your-tax-refund-130052892.html",
+          "title_en": "IRS staffing is down by 27% this year. What that means for your tax refund."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 23:40:33",
           "title": "今年的开局并不理想。",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46604_MarketOutlook_1775042837000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -597,43 +509,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "华尔街机构对Datadog进行了首次评级，给予买入评级，预计将于4月3日举行投资者日。",
+          "time": "2026-04-01 23:40:33",
+          "title": "RH 股票大幅下跌，第四季度财报业绩未能达到预期的收入和利润。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-initiates-datadog-buy-145357642.html",
-          "title_en": "Wall Street Initiates Datadog With Buy Rating Ahead of April 3 Investor Day"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rh-stock-tanks-fourth-quarter-152500916.html",
+          "title_en": "RH stock tanks as fourth quarter results miss on the top and bottom lines"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "Pinterest (PINS) 股价下跌，受软的预期影响。",
+          "time": "2026-04-01 23:40:33",
+          "title": "保罗·图德尔·琼斯（Paul Tudor Jones）富豪的亿万富翁在拉斯维加斯沙特集团（Las Vegas Sands Corp.，LVS）投资中超过翻倍。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pinterest-pins-fell-following-softer-141555111.html",
-          "title_en": "Pinterest (PINS) Fell Following Softer Outlook"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/las-vegas-sands-corp-lvs-151926251.html",
+          "title_en": "Las Vegas Sands Corp. (LVS): Billionaire Paul Tudor Jones More Than Doubles Stake"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "CDW (CDW) 在 Q4交易下跌的原因",
+          "time": "2026-04-01 23:40:33",
+          "title": "亿万富翁保罗·图德尔·琼斯正大量购买这一股。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-cdw-cdw-traded-lower-141529999.html",
-          "title_en": "Here’s Why CDW (CDW) Traded Lower in Q4"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-group-incorporated-unh-billionaire-151815780.html",
+          "title_en": "UnitedHealth Group Incorporated (UNH): Billionaire Paul Tudor Jones Is Loading Up on This Stock"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "富兰克林特默顿计划收购CoinFund的子公司以扩大加密货币业务",
+          "time": "2026-04-01 23:40:33",
+          "title": "摩根士丹利：百万富翁保罗都德罗·琼斯对这家银行股市持乐观态度",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/franklin-templeton-acquire-coinfund-spinoff-140252894.html",
-          "title_en": "Franklin Templeton to acquire CoinFund spinoff to expand crypto push"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-billionaire-paul-151707499.html",
+          "title_en": "Morgan Stanley (MS): Billionaire Paul Tudor Jones Is Bullish on This Banking Stock"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
+          "time": "2026-04-01 23:40:33",
           "title": "中期看多。",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46603_TechnicalAnalysis_1775042801000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -642,47 +554,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "美国制造业在3月份增长，但供应商交货绩效恶化。",
+          "time": "2026-04-01 23:40:33",
+          "title": "2027年退休？看看你的第一年提款策略应该是什么样的。",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/articles/us-manufacturing-sector-grows-march-140114096.html",
-          "title_en": "US manufacturing sector grows in March; supplier delivery performance deteriorates"
+          "url": "https://finance.yahoo.com/markets/articles/retiring-2027-heres-first-withdrawal-152200132.html",
+          "title_en": "Retiring in 2027? Here's What Your First-Year Withdrawal Strategy Should Look Like."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "私营雇主就业岗位增长保持稳定，3月份新增62万个工作岗位。",
+          "time": "2026-04-01 23:40:33",
+          "title": "亿万富翁保罗·图德尔·琼斯正大量购买Netflix Inc. (NFLX)。",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/article/private-employer-job-growth-held-steady-with-62000-new-roles-in-march-123158189.html",
-          "title_en": "Private employer job growth held steady with 62,000 new roles in March"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "分析报告：PG&E Corp",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3294_AnalystReport_1775041593000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: PG&E Corp"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "迪士尼公司收到上调评级，甚至在严厉的场景下也历史性地便宜。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/disney-receives-upgrade-historically-cheap-145212185.html",
-          "title_en": "Disney Receives Upgrade and Is Historically Cheap Even in Harsh Scenarios"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 23:09:56",
-          "title": "黄金价格今日，星期三，4月1日：黄金价格上涨，特朗普分享了战争退出时间表",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-april-1-gold-strengthens-after-trump-shares-war-exit-timeline-111116980.html",
-          "title_en": "Gold price today, Wednesday, April 1: Gold strengthens after Trump shares war exit timeline"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-inc-nflx-billionaire-paul-151615363.html",
+          "title_en": "Netflix Inc. (NFLX): Billionaire Paul Tudor Jones Is Buying This Stock"
         }
       ]
     }
