@@ -1,6 +1,6 @@
 {
   "date": "2026.04.02",
-  "generatedAtBJT": "2026-04-02 07:06:54",
+  "generatedAtBJT": "2026-04-02 07:37:18",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-02 07:06:54",
+          "time": "2026-04-02 07:37:18",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主要驱动因素：10年期利率 + 原油价格/风险事件\n- 四个关键指标监控：10年期利率（方向/拐点）｜美元指数（强弱）｜波动率指数（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金更易回撤；波动率指数上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且波动率指数抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且波动率指数回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带",
+          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Stocks Climb on Hopes for an End to Iran War…\n- 宏观/Fed线索：How inflation affects car insurance — and what you can do about it…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Wells Fargo Trims Its S&P 500 Target. ‘Iran War Wasn't Our Base Case.’…\n- 宏观/Fed线索：Wall Street's rough month, Powell's inflation outlook, GLP-1 subscriptio…"
         }
       ]
     },
@@ -29,34 +29,70 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "克拉默：CoreWeave的8.5亿美元融资是“里程碑式”的交易，AI投资者不能忽视。",
+          "time": "2026-04-02 07:37:13",
+          "title": "QUALCOMM（QCOM）是否是现在最便宜的7家AI数据中心股票之一？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cramer-coreweave-8-5b-financing-151210044.html",
-          "title_en": "Cramer: CoreWeave’s $8.5B Financing Is a ‘Landmark’ Deal That AI Investors Can’t Ignore"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-incorporated-qcom-among-7-154538291.html",
+          "title_en": "Is QUALCOMM Incorporated (QCOM) Among the 7 Cheapest AI Data Center Stocks to Buy Now?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "Nvidia投资了2亿美元的Marvell Technology作为人工智能基础设施合作伙伴关系的一部分。",
+          "time": "2026-04-02 07:37:13",
+          "title": "惠普企业（HPE）宣布重大安全更新，保护AI采用和增强企业韧性",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-invests-2b-marvell-technology-151300075.html",
-          "title_en": "Nvidia invests $2B in Marvell Technology as part of AI infrastructure partnership"
+          "url": "https://finance.yahoo.com/sectors/technology/articles/hewlett-packard-enterprise-hpe-announces-154530695.html",
+          "title_en": "Hewlett Packard Enterprise (HPE) Announces Significant Security Updates to Protect AI Adoption and Strengthen Enterprise Resilience"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "苹果成为2026年\"七大奇迹\"中表现最佳的股票。您是否应该在第二季度购买它？",
+          "time": "2026-04-02 07:37:13",
+          "title": "是否Micron Technology（MU）是7家最便宜的AI数据中心股票之一？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-best-performing-magnificent-7-150312736.html",
-          "title_en": "Apple Is the Best-Performing Magnificent 7 Stock in 2026. Should You Buy It for Q2?"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-one-7-154520817.html",
+          "title_en": "Is Micron Technology (MU) one of the 7 Cheapest AI Data Center Stocks to Buy Now?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 07:37:13",
+          "title": "超微计算机公司（SMCI）是否属于7家最便宜的AI数据中心股票之一？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-inc-smci-154520490.html",
+          "title_en": "Is Super Micro Computer, Inc. (SMCI) Among the 7 Cheapest AI Data Center Stocks to Buy Now?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 07:37:13",
+          "title": "NXP半导体(NXPI)宣布与NVIDIA合作开发机器人解决方案。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-announces-collaboration-154606080.html",
+          "title_en": "NXP Semiconductors (NXPI) Announces Collaboration with Nvidia on Robotics Solutions"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 07:37:13",
+          "title": "微软刚刚推出新一代AI工具，包括Critique和Council。现在是买MSFT股票的好时机吗？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-just-unveiled-ai-tools-155916219.html",
+          "title_en": "Microsoft Just Unveiled New AI Tools Critique and Council. Should You Buy MSFT Stock Here?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 07:37:13",
+          "title": "欲求AI增长但风险有限？谨慎投资者3个明智的股票",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/want-ai-growth-limited-risk-153500333.html",
+          "title_en": "Want AI Growth With Limited Risk? 3 Smart Stocks for Cautious Investors."
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
+          "time": "2026-04-02 07:37:13",
           "title": "亚马逊与全球星（Globalstar）9亿美元的卫星业务进行谈判，财富时报报道。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/amazon-in-talks-to-buy-9-billion-satellite-group-globalstar-ft-reports-4594452",
@@ -161,36 +197,6 @@
           "url": "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html",
           "title_en": "Oracle cutting thousands in latest layoff round as company continues to ramp AI spending",
           "summary_en": "Oracle has ratcheted up its capital expenditures as it builds data center infrastructure that can handle AI workloads."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-04-01 04:03:50",
-          "title": "Marvel尔股价大涨13%，因Nvidia投资2亿美元，继续类似的押注。",
-          "summary": "近期，Nvidia 在 CoreWeave、Nebius 和 Coherent 等公司投资了 200 亿美元。",
-          "url": "https://www.cnbc.com/2026/03/31/marvell-nvidia-stock-stake.html",
-          "title_en": "Marvell stock pops 13% as Nvidia takes $2 billion stake, continuing run of similar bets",
-          "summary_en": "Nvidia has also made $2 billion investments in CoreWeave, Nebius and Coherent in recent months."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-31 20:00:01",
-          "title": "华为云计算收入在2025年下降，因为中国的AI落后于美国竞争对手。",
-          "summary": "当包括内部客户在内时，这家电信巨头表示云计算收入比去年增长。",
-          "url": "https://www.cnbc.com/2026/03/31/huawei-annual-report-2025-cloud-computing-revenue.html",
-          "title_en": "Huawei's cloud computing revenue dropped in 2025 as Chinese AI lagged U.S. rivals",
-          "summary_en": "When including internal customers, the telecommunications giant said cloud computing revenue grew from a year ago."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-31 19:49:25",
-          "title": "微软面临英国竞争监管机构调查：软件业务",
-          "summary": "英国竞争与市场管理局对微软在云计算领域的许可实践表示了担忧。",
-          "url": "https://www.cnbc.com/2026/03/31/microsoft-cma-investigation-uk-software-business.html",
-          "title_en": "Microsoft hit with UK competition regulator probe over software business",
-          "summary_en": "The U.K.'s Competition and Markets Authority had \"concerns around Microsoft's licensing practices in cloud\", Chief Executive Sarah Cardell, said."
         }
       ]
     },
@@ -198,24 +204,6 @@
       "name": "美联储与政策",
       "badge": "Fed / Policy",
       "items": [
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "通胀如何影响汽车保险——以及你能做什么",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/insurance/article/car-insurance-inflation-151203005.html",
-          "title_en": "How inflation affects car insurance — and what you can do about it"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "美联储主席鲍威尔警告：又一供应性冲击即将来临",
-          "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/fed-chair-powell-warns-another-151431720.html",
-          "title_en": "Fed Chair Powell Warns: Another Supply Shock Is Coming"
-        },
         {
           "source": "CNBC-Tech",
           "ticker": "RSS",
@@ -235,20 +223,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "股市上涨，寄望伊朗战争结束",
+          "time": "2026-04-02 07:37:13",
+          "title": "富国银行(Wells Fargo)削减了其S&P 500目标。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-climb-hopes-end-iran-151328495.html",
-          "title_en": "Stocks Climb on Hopes for an End to Iran War"
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-033126/card/wells-fargo-trims-its-s-p-500-target-iran-war-wasn-t-our-base-case--wf7ykWpigoeFIdvjIRK0?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Wells Fargo Trims Its S&P 500 Target. ‘Iran War Wasn't Our Base Case.’"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "石油价格：高盛研究揭示霍尔木兹海峡封锁的真实影响",
+          "time": "2026-04-02 07:37:13",
+          "title": "原油价格大涨，霍尔木兹海峡仍未开放",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/oil-prices-goldman-sachs-research-151503808.html",
-          "title_en": "Oil prices: Goldman Sachs research reveals the true impact of Strait of Hormuz blockade"
+          "url": "https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-rally-strait-153132487.html",
+          "title_en": "Crude Oil Prices Rally as Strait of Hormuz Remains Closed"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 07:37:13",
+          "title": "石油价格历史上最大单月涨幅",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/oil-prices-post-biggest-monthly-153000888.html",
+          "title_en": "Oil Prices Post Biggest Monthly Surge in History"
         },
         {
           "source": "CNBC-Top",
@@ -395,115 +392,79 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "Citi将斯太利亚斯(NVDA)的目标价从8欧元降至7欧元。",
+          "time": "2026-04-02 07:37:13",
+          "title": "特朗普要求私募股权、加密货币进入401(k)计划。您是否应该投资？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/citi-cuts-pt-stellantis-n-151623419.html",
-          "title_en": "Citi Cuts PT on Stellantis N.V. (STLA) to EUR 7 From EUR 8 – Here’s Why"
+          "url": "https://finance.yahoo.com/economy/policy/articles/trump-wants-private-equity-crypto-154035058.html",
+          "title_en": "Trump wants private equity, crypto in 401(k)s. Should you invest?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "MAGS ETF：两大信号将决定2026年16%跌幅是否进一步恶化",
+          "time": "2026-04-02 07:37:13",
+          "title": "这3大股可能击败熊市。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mags-etf-two-signals-determine-151557151.html",
-          "title_en": "MAGS ETF: Two Signals Will Determine If the 16% Slide Gets Worse in 2026"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-big-stocks-could-beat-153932338.html",
+          "title_en": "These 3 Big Stocks Could Beat the Bears. Here's Why."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "高盛首次覆盖Smurfit Kappa Plc（SW）的买入评级",
+          "time": "2026-04-02 07:37:13",
+          "title": "牛市狂飙后，牛仔市场是否即将崩溃？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-initiates-coverage-smurfit-151725768.html",
-          "title_en": "Goldman Sachs Initiates Coverage of Smurfit Westrock Plc (SW) With a Buy Rating"
+          "url": "https://finance.yahoo.com/markets/commodities/articles/record-bull-run-cattle-market-153709376.html",
+          "title_en": "After a Record Bull Run, Is the Cattle Market Headed for Collapse?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "凯西伍德增持48万股这家低调的成长股",
+          "time": "2026-04-02 07:37:13",
+          "title": "卡西·伍德开始寻找便宜货：她刚刚购买的3只股票",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/cathie-wood-adds-48k-shares-151831529.html",
-          "title_en": "Cathie Wood Adds 48K Shares to This Under-the-Radar Growth Play"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-goes-bargain-hunting-154200612.html",
+          "title_en": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "摩根大通降低了Centene Corporation (CNC) 的目标价至41美元，原价为45美元。",
+          "time": "2026-04-02 07:37:13",
+          "title": "Evercore ISI 维持对戴尔技术公司（DELL）的超买评级。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-cuts-pt-centene-corporation-151856656.html",
-          "title_en": "JPMorgan Cuts PT on Centene Corporation (CNC) to $41 From $45 – Here’s Why"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-maintains-outperform-rating-154554100.html",
+          "title_en": "Evercore ISI Maintains an Outperform rating on Dell Technologies Inc. (DELL)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "巴思&体验工作周一跃升11%——你是否应该采取激进的买入策略来押注BBWI股票反弹？",
+          "time": "2026-04-02 07:37:13",
+          "title": "KLA宣布额外7亿美元股票回购计划和股息增加",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bath-body-works-jumps-11-151414320.html",
-          "title_en": "Bath & Body Works Jumps 11% Monday — Should You Make an Aggressive Buy to Bet on a BBWI Stock Rebound?"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/kla-klac-announces-additional-7-154617655.html",
+          "title_en": "KLA (KLAC) Announces an Additional $7 Billion Share Buyback and Dividend Increase"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "退伍军人在18个月内花费了4万美元买了很多辆车，德洛尼说明天就卖掉价值76万美元的卡车。",
+          "time": "2026-04-02 07:37:13",
+          "title": "NetApp (NTAP) 宣布与 Elastio 合作",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/veteran-blew-40k-18-months-151533707.html",
-          "title_en": "Veteran Blew $40K in 18 Months on Cars, Delony Says Sell the $76,000 Truck Tomorrow"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/netapp-ntap-announces-partnership-elastio-154546374.html",
+          "title_en": "NetApp (NTAP) Announces a Partnership with Elastio"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "UBS将南方航空公司(LUV)目标价从$59降至$56。",
+          "time": "2026-04-02 07:37:13",
+          "title": "默克公司（MRK）为什么是最好的低成本股之一，具有良好的盈利增长？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-cuts-pt-southwest-airlines-151804592.html",
-          "title_en": "UBS Cuts PT on Southwest Airlines Co. (LUV) to $56 From $59 – Here’s Why"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-merck-co-mrk-one-153059603.html",
+          "title_en": "Why is Merck & Co. (MRK) One of the Best Affordable Stocks to Buy With Good Earnings Growth?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "Republic Services的季度收益预览：你需要知道的",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/republic-services-quarterly-earnings-preview-152039224.html",
-          "title_en": "Republic Services' Quarterly Earnings Preview: What You Need to Know"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "ESAB Corp. (ESAB) 在最近的高级债券发行后看起来很有优势。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/esab-corp-esab-apeears-well-071852185.html",
-          "title_en": "ESAB Corp. (ESAB) Appears Well-Positioned Following Recent Senior Notes Offering"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "2026年上涨53%，世纪铝股有多少空间继续上涨？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/53-2026-does-century-aluminum-152328004.html",
-          "title_en": "Up 53% in 2026, Does Century Aluminum Stock Have Any Room Left to Run?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "BMO Capital对BioNTech SE（BNTX）下调目标价至128美元，从143美元。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/bmo-capital-cuts-pt-biontech-150610875.html",
-          "title_en": "BMO Capital Cuts PT on BioNTech SE (BNTX) to $128 From $143 – Here’s Why"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
+          "time": "2026-04-02 07:37:13",
           "title": "分析报告：火箭公司（Rocket Cos Inc）",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_5979_AnalystReport_1775064049000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -512,47 +473,83 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "Guardant健康(GH)和Verana健康宣布新合作",
+          "time": "2026-04-02 07:37:13",
+          "title": "SpaceX正在考虑IPO，因为市场条件变得更加不确定。图表显示了什么。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/guardant-health-gh-verana-health-150618051.html",
-          "title_en": "Guardant Health (GH) and Verana Health Announces New Partnership"
+          "url": "https://www.barrons.com/articles/spacex-eyes-ipo-as-market-conditions-grow-more-uncertain-b8fbb297?siteid=yhoof2&yptr=yahoo",
+          "title_en": "SpaceX Eyes IPO as Market Conditions Grow More Uncertain. What the Charts Show."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "2026年税日新抵扣：申报“无小费税”和加班费、汽车贷款利息、老年人税收优惠可能节省数千美元",
+          "time": "2026-04-02 07:37:13",
+          "title": "B. Riley将Bitmine Immersion Technologies (BMNR)目标价提高至33美元，原价30美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/tax-day-2026-deductions-filing-151500302.html",
-          "title_en": "Tax day 2026 new deductions: Filing for ‘No tax on tips’ and overtime, car loan interest, senior tax breaks could save you thousands"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/b-riley-lifts-pt-bitmine-153057954.html",
+          "title_en": "B. Riley Lifts PT on Bitmine Immersion Technologies (BMNR) to $33 From $30 – Here’s Why"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "ImmunityBio Inc. (IBRX) 接到FDA警告信书，针对其癌症治疗广告中宣称的疗效。",
+          "time": "2026-04-02 07:37:13",
+          "title": "街头对腾讯音乐娱乐(TME)的盈利报告后的看法",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/immunitybio-inc-ibrx-receives-fda-150612371.html",
-          "title_en": "ImmunityBio Inc. (IBRX) Receives FDA Warning Letter Over Cancer Therapy Claims in Advertisement"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-street-think-tencent-music-153054768.html",
+          "title_en": "What Does the Street Think About Tencent Music Entertainment (TME) Post Earnings?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "为什么Alnylam Pharmaceuticals Inc. (ALNY)是现在买入的最佳高成长医疗保健股票",
+          "time": "2026-04-02 07:37:13",
+          "title": "BMO资本将Blue Owl Capital Inc. (OWL)的目标价从15美元降至11美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/why-alnylam-pharmaceuticals-inc-alny-150617619.html",
-          "title_en": "Why Alnylam Pharmaceuticals Inc. (ALNY) is One of the Best High Growth Healthcare Stocks to Buy Now"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-cuts-pt-blue-153048451.html",
+          "title_en": "BMO Capital Cuts PT on Blue Owl Capital Inc. (OWL) to $11 From $15 – Here’s Why"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 07:06:48",
-          "title": "Cantor Fitzgerald 将 Apellis Pharmaceuticals (APLS) 的目标价从 $35 减至 $31 – 这是为什么",
+          "time": "2026-04-02 07:37:13",
+          "title": "市场动态：RKT",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/cantor-fitzgerald-cuts-pt-apellis-150620052.html",
-          "title_en": "Cantor Fitzgerald Cuts PT on Apellis Pharmaceuticals (APLS) to $31 From $35 – Here’s Why"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46609_MarketUpdate_1775063149000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Market Update: RKT"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 07:37:13",
+          "title": "本月股市最大赢家",
+          "summary": "",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/here-are-the-stock-market-s-biggest-winners-this-month-NalpKXvUAjMLxhLT6b5S?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Here Are The Stock Market’s Biggest Winners This Month"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 07:37:13",
+          "title": "摩根士丹利提高了Unity软件公司(U)的目标价至32美元，原价为30美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-lifts-pt-unity-153049226.html",
+          "title_en": "Morgan Stanley Lifts PT on Unity Software Inc. (U) to $32 From $30 – Here’s Why"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 07:37:13",
+          "title": "索尼集团（SONY）计划提高全球PlayStation 5主机价格，路透社报道。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sony-group-sony-raise-global-153056049.html",
+          "title_en": "Sony Group (SONY) to Raise Global Prices of PlayStation 5 Consoles, Reuters Reports"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 07:37:13",
+          "title": "黄金替代品？如何投资白银、铂金和钯金。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-alternatives-how-to-invest-in-silver-platinum-and-palladium-145904446.html",
+          "title_en": "Gold alternatives? How to invest in silver, platinum, and palladium."
         }
       ]
     }
