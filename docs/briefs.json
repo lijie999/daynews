@@ -1,6 +1,6 @@
 {
   "date": "2026.04.01",
-  "generatedAtBJT": "2026-04-01 20:36:52",
+  "generatedAtBJT": "2026-04-01 21:07:22",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-01 20:36:52",
+          "time": "2026-04-01 21:07:22",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动",
+          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Dow Jones Futures Rise, Oil Prices Fall Below $100; Trump To Speak To Na…\n- 宏观/Fed线索：Best CD rates today, April 1, 2026 (Earn up to 4.1% APY)…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Dow Jones Futures Rise, Oil Prices Fall Below $100; Trump To Speak To Na…\n- 宏观/Fed线索：U.S. Adds 62,000 Private Sector Jobs in March, According to ADP…"
         }
       ]
     },
@@ -29,48 +29,58 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
+          "time": "2026-04-01 21:07:17",
+          "title": "RIA Edge 100: 人工智能不会改变顾问与客户的比例",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/ria-edge-100-ai-won-130010932.html",
+          "title_en": "RIA Edge 100: AI Won’t Alter Client-Advisor Ratios"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 21:07:17",
+          "title": "Atlassian Corp.(TEAM) 下跌，引发人工智能自动化的担忧。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/atlassian-corp-team-fell-amid-124901177.html",
+          "title_en": "Atlassian Corp. (TEAM) Fell Amid Concerns of AI automation"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 21:07:17",
+          "title": "比特数字在2025年实现收入增长，转型为以太坊和人工智能基础设施",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bit-digital-achieves-revenue-growth-125100326.html",
+          "title_en": "Bit Digital achieves revenue growth in 2025 amid pivot toward Ethereum and AI infrastructure"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 21:07:17",
           "title": "KBR投资应用计算以扩大AI能力",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/technology/articles/kbr-kbr-invests-applied-computing-114135106.html",
           "title_en": "KBR (KBR) Invests in Applied Computing to Expand AI Capabilities"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
-          "title": "帕拉尼特的巨大军事AI成绩是否足以在这些价格购买该股票？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/does-palantirs-massive-military-ai-121500100.html",
-          "title_en": "Does Palantir's Massive Military AI Score Justify Buying the Stock at These Prices?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
-          "title": "BigBear.ai Holdings (BBAI) 下跌超过23%自2025年第四季度财报公布以来，以下是您需要了解的内容。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bigbear-ai-holdings-bbai-down-111341456.html",
-          "title_en": "BigBear.ai Holdings (BBAI) Down More Than 23% Since Q4 2025 Earnings, Here’s What You Need to Know"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
-          "title": "一只被打压的AI股值得投资，另一只则避开",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-beaten-down-ai-stock-120500157.html",
-          "title_en": "1 Beaten-Down AI Stock to Buy and 1 to Avoid"
-        },
-        {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
-          "time": "2026-04-01 20:22:00",
+          "time": "2026-04-01 20:52:00",
           "title": "投资者继续低估人工智能。五星经理称，这些是下一个热门的投资机会。",
           "summary": "阿尔杰焦点股权基金共同经理帕特里克凯利表示，投资者不应忽视人工智能的影响，主要的世纪趋势已经形成。",
           "url": "https://www.marketwatch.com/story/investors-continue-to-underestimate-ai-these-are-the-next-hot-plays-says-five-star-manager-23173f22?mod=mw_rss_topstories",
           "title_en": "Investors continue to underestimate AI. These are the next hot plays, says five-star manager",
           "summary_en": "Alger Focus Equity Fund co-manager Patrick Kelly says investors should not lose sight of AI’s impact, with major secular trends in place."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-01 20:51:58",
+          "title": "维萨推出新一代人工智能工具来管理收费争议流程",
+          "summary": "维萨公司的新工具是主要银行和金融机构在业务中采用人工智能的更大努力的一部分。",
+          "url": "https://www.cnbc.com/2026/04/01/visa-ai-tools-dispute-management.html",
+          "title_en": "Visa launches new AI tools to manage the charge dispute process",
+          "summary_en": "Visa's new tools are part of a larger push by major banks and financial institutions to incorporate AI into their businesses."
         },
         {
           "source": "CNBC-Top",
@@ -81,16 +91,6 @@
           "url": "https://www.cnbc.com/2026/04/01/five-key-questions-apple-faces-entering-its-second-half-century.html",
           "title_en": "Five key questions Apple faces entering its second half-century",
           "summary_en": "As Apple turns 50, the iPhone maker faces questions about succession, its role in AI and whether it can maintain a premium brand."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-01 20:00:01",
-          "title": "维萨推出新一代人工智能工具来管理收费争议流程",
-          "summary": "维萨公司的新工具是主要银行和金融机构在业务中采用人工智能的更大努力的一部分。",
-          "url": "https://www.cnbc.com/2026/04/01/visa-ai-tools-dispute-management.html",
-          "title_en": "Visa launches new AI tools to manage the charge dispute process",
-          "summary_en": "Visa's new tools are part of a larger push by major banks and financial institutions to incorporate AI into their businesses."
         },
         {
           "source": "CNBC-World",
@@ -123,7 +123,7 @@
           "summary_en": "Apple is going against its founding mission from 50 years ago by standing in the way AI coding, or vibe-coding."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-04-01 05:08:30",
           "title": "OpenAI完成历史性1220亿美元融资轮，市盈率预计将进一步上涨",
@@ -211,11 +211,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
+          "time": "2026-04-01 21:07:17",
+          "title": "美国私营部门3月份新增62万个就业岗位，根据ADP数据。",
+          "summary": "",
+          "url": "https://www.barrons.com/articles/adp-jobs-march-private-payrolls-753ff517?siteid=yhoof2&yptr=yahoo",
+          "title_en": "U.S. Adds 62,000 Private Sector Jobs in March, According to ADP"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 21:07:17",
           "title": "今日最佳定期存款利率（2026年4月1日），最高可达4.1%年利率",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-april-1-2026-100000437.html",
           "title_en": "Best CD rates today, April 1, 2026 (Earn up to 4.1% APY)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 21:07:17",
+          "title": "房贷利率上升和房屋可负担性问题给春季房屋购买季节带来了挑战。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/economy/policy/articles/rising-mortgage-rates-affordability-present-123453080.html",
+          "title_en": "Rising Mortgage Rates and Affordability present challenges for the Spring Home Buying Season"
         },
         {
           "source": "CNBC-Top",
@@ -256,7 +274,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
+          "time": "2026-04-01 21:07:17",
           "title": "道琼斯指数期货上涨，原油价格跌破100美元；特朗普将与全国人士讨论伊朗战争",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-war-exit-oil-prices-sandisk-stock/?src=A00220&yptr=yahoo",
@@ -265,7 +283,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
+          "time": "2026-04-01 21:07:17",
           "title": "本周三，4月1日，2026年，比特币和以太坊价格：价格因伊朗战争可能在几周内结束的消息而上涨",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-wednesday-april-1-2026-prices-strengthen-on-news-that-iran-war-may-end-in-weeks-120045601.html",
@@ -274,16 +292,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
-          "title": "股市今日：道指、标普500指数、纳斯达克期货上涨，伊朗减少紧张局势的言论推动Q1结束时的反弹。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-de-escalation-talk-in-iran-sparks-rally-to-close-out-q1-224325839.html",
-          "title_en": "Stock market today: Dow S&P 500, Nasdaq futures climb as de-escalation talk in Iran sparks rally to close out Q1"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
+          "time": "2026-04-01 21:07:17",
           "title": "耐克股价大跌，中国市场疲软和高油价影响了公司的前景",
           "summary": "",
           "url": "https://finance.yahoo.com/news/nike-stock-tumbles-as-weakness-in-china-high-oil-prices-weigh-on-outlook-203010566.html",
@@ -292,40 +301,90 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
-          "title": "苏茜·奥曼称股市因油荒“绝对被摧毁”——投资者现在可以做什么",
+          "time": "2026-04-01 21:07:17",
+          "title": "股市今日：道指、标普500指数、纳斯达克期货上涨，伊朗局势缓和的谈判点燃了结束Q1的牛市。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/suze-orman-says-stock-market-111500374.html",
-          "title_en": "Suze Orman says the stock market is ‘absolutely being destroyed’ by oil crisis — what investors can do right now"
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-deescalation-talk-in-iran-sparks-rally-to-close-out-q1-224325760.html",
+          "title_en": "Stock market today: Dow S&P 500, Nasdaq futures climb as deescalation talk in Iran sparks rally to close out Q1"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
-          "title": "智利央行考虑加息在美以伊战争不确定性面前",
+          "time": "2026-04-01 21:07:17",
+          "title": "欧洲股市大涨，石油价格下跌，特朗普称美国将在2-3周内退出伊朗",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/chile-central-bank-mulled-rate-hike-amid-usisraeliran-war-uncertainty-93CH-4592900",
-          "title_en": "Chile central bank mulled rate hike amid U.S.-Israel-Iran war uncertainty"
+          "url": "https://www.investing.com/news/stock-market-news/european-stocks-surge-and-oil-falls-as-trump-says-us-to-exit-iran-in-23-weeks-4592133",
+          "title_en": "European stocks surge and oil falls as Trump says U.S. to exit Iran in 2-3 weeks"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-01 20:35:35",
+          "time": "2026-04-01 21:06:07",
+          "title": "特朗普称伊朗总统要求停火，但美国要求首先打开霍尔木兹海峡",
+          "summary": "美国和以色列在2月底发动对伊朗的袭击，引发了经济混乱和全球能源大规模中断。",
+          "url": "https://www.cnbc.com/2026/04/01/trump-iran-war-ceasefire.html",
+          "title_en": "Trump says Iran's president asked for ceasefire, but U.S. wants Hormuz Strait open first",
+          "summary_en": "The war began in late February when the U.S. and Israel launched strikes on Iran, causing economic turmoil and massive global energy disruptions."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-01 20:56:14",
           "title": "伊朗威胁Nvidia、苹果和其他科技巨头遭受攻击",
-          "summary": "伊朗伊斯兰革命卫队警告中东业务的多家科技公司，若被攻击将视为“合法目标”。",
+          "summary": "伊朗革命卫队警告了多家在中东地区运营的科技公司，称他们将被视为“合法目标”。",
           "url": "https://www.cnbc.com/2026/04/01/iran-irgc-nvidia-appple-attack-threat.html",
           "title_en": "Iran threatens Nvidia, Apple and other tech giants with attacks",
-          "summary_en": "Iran's Islamic Revolutionary Guard Corps (IRGC) has warned a number of tech companies with Middle East operations they'll be considered \"legitimate targets.\""
+          "summary_en": "Iran's Revolutionary Guard has warned a number of tech companies with Middle East operations that they'll be considered \"legitimate targets.\""
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-04-01 20:47:00",
+          "title": "全球石油价格保持在每桶100美元左右，特朗普即将就伊朗战争最新情况向全国发表讲话。",
+          "summary": "美国总统唐纳德·特朗普和伊朗总统马斯乌德·佩泽什基亚都表示冲突可能很快结束",
+          "url": "https://www.marketwatch.com/story/brent-oil-futures-fall-as-low-as-98-ahead-of-trumps-address-on-iran-war-02590d56?mod=mw_rss_topstories",
+          "title_en": "Global oil prices hold around $100 a barrel as Trump is set to address the nation with Iran war update",
+          "summary_en": "President Donald Trump and Iranian President Masoud Pezeshkian both suggested the conflict could end soon"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-01 20:44:35",
+          "title": "石油价格跌至约每桶100美元，特朗普表示战争可能在几周内结束。",
+          "summary": "原油价格周三下跌，因为美国总统唐纳德·特朗普表示愿意退出伊朗战争，即使霍尔木兹海峡仍然基本封闭。",
+          "url": "https://www.cnbc.com/2026/04/01/oil-prices-today-brent-wti.html",
+          "title_en": "Oil prices fall to around $100 after Trump indicates war could end in weeks",
+          "summary_en": "Crude prices fell Wednesday as President Donald Trump signaled a willingness to exit the Iran war even as the Strait of Hormuz remains largely closed."
         },
         {
           "source": "CNBC-World",
           "ticker": "RSS",
-          "time": "2026-04-01 20:27:11",
-          "title": "10年期国债收益率微降，伊朗和平希望推动减压反弹",
-          "summary": "美国10年期国债收益率周三下降，因为伊朗冲突解决的前景提升了投资者情绪。",
+          "time": "2026-04-01 20:43:34",
+          "title": "10年国债收益率保持不变，伊朗和平希望推动减压反弹",
+          "summary": "10年期国债收益率在周三保持相对稳定，因为伊朗冲突解决的前景提升了投资者情绪。",
           "url": "https://www.cnbc.com/2026/04/01/treasury-yields-fall-as-iran-peace-hopes-fuel-relief-rally-.html",
-          "title_en": "10-year Treasury yield edges lower as Iran peace hopes fuel relief rally",
-          "summary_en": "The 10-year Treasury yield moved lower on Wednesday as the prospect of a resolution to the Iran conflict lifted investor sentiment."
+          "title_en": "10-year Treasury yield is little changed as Iran peace hopes fuel relief rally",
+          "summary_en": "The 10-year Treasury yield was relatively unchanged on Wednesday as the prospect of a resolution to the Iran conflict lifted investor sentiment."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-04-01 20:41:00",
+          "title": "波音股价继续反弹，原因是与特朗普政府签署的7年导弹订单。",
+          "summary": "尽管周二可能有反弹，波音的股价仍在3月下跌12.5%。",
+          "url": "https://www.marketwatch.com/story/boeings-stock-extends-bounce-after-7-year-missile-deal-with-the-trump-administration-dd660e7e?mod=mw_rss_topstories",
+          "title_en": "Boeing’s stock extends bounce after 7-year missile deal with the Trump administration",
+          "summary_en": "Even with Tuesday’s likely bounce, Boeing’s stock still dropped 12.5% in March."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-04-01 20:38:00",
+          "title": "零售销售在伊朗战争之前反弹，表明经济一切正常。现在又该怎么办？",
+          "summary": "美国零售商的销售额在二月份反弹，表明尽管新年开始时经济出现波动，但经济仍在稳步扩张。",
+          "url": "https://www.marketwatch.com/story/retail-sales-rebound-in-february-in-a-sign-the-economy-is-all-right-d31862f7?mod=mw_rss_topstories",
+          "title_en": "Retail sales rebounded before Iran war and showed economy was all right. Now what?",
+          "summary_en": "Sales at U.S. retailers bounced back in February after a brief weak spell, suggesting the economy is still expanding at decent speed despite a turbulent start to the new year."
         },
         {
           "source": "CNBC-Top",
@@ -347,17 +406,7 @@
           "title_en": "Europe stocks rebound strongly as Trump says Iran war will end in weeks"
         },
         {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-01 18:20:54",
-          "title": "石油价格在特朗普退出战争言论后波动徘徊在每桶100美元。",
-          "summary": "原油价格在周三波动不定，因为美国总统唐纳德·特朗普表明愿意退出伊朗战争，即使霍尔木兹海峡仍然基本封闭。",
-          "url": "https://www.cnbc.com/2026/04/01/oil-prices-today-brent-wti.html",
-          "title_en": "Oil prices seesaw around $100 in volatile trading after Trump war exit comments",
-          "summary_en": "Crude prices seesawed on Wednesday as President Donald Trump signaled a willingness to exit the Iran war even as the Strait of Hormuz remains largely closed."
-        },
-        {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-04-01 16:44:34",
           "title": "日本大型企业在伊朗战争的阴影下仍保持乐观态度，但这种乐观可能不会持续很久。",
@@ -395,26 +444,6 @@
           "url": "https://www.cnbc.com/2026/03/31/south-korea-budget-energy-costs-iran-war-.html",
           "title_en": "South Korea proposes extra $17 billion budget to cushion energy costs fueled by Iran war",
           "summary_en": "Seoul imports 94% of its energy needs, and almost 72% of its crude oil comes from the Middle East."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-03-31 21:07:33",
-          "title": "全球市场如何对伊朗战争进行交易：股票、债券和商品。",
-          "summary": "自战争爆发以来，各类资产都经历了剧烈的波动。",
-          "url": "https://www.cnbc.com/2026/03/31/iran-war-stocks-sp500-spx-nasdaq-dow-bonds-treasurys-yields-price-markets-gold-rates.html",
-          "title_en": "Stocks, bonds and commodities: How global markets have traded the Iran war",
-          "summary_en": "Assets across the board have been turbulent in the month since the war began."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-03-31 17:18:30",
-          "title": "欧洲防务初创公司瞄准中东商业协议和人才招聘，伊朗战争背景下",
-          "summary": "欧洲新兴防务公司正受到中东军方的日益关注，地区冲突持续。",
-          "url": "https://www.cnbc.com/2026/03/31/european-defense-tech-startups-iran-war-gulf-states.html",
-          "title_en": "European defense startups eye commercial deals and hiring push in the Middle East amid the Iran war",
-          "summary_en": "A crop of emerging defense companies in Europe are fielding increasing interest from Middle East militaries as conflict continues in the region."
         }
       ]
     },
@@ -422,6 +451,15 @@
       "name": "特斯拉链",
       "badge": "TSLA chain",
       "items": [
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 21:07:17",
+          "title": "特斯拉电动汽车交付将在中国竞争对手报告3月份销量回升之后公布。",
+          "summary": "",
+          "url": "https://www.investors.com/news/tesla-ev-deliveries-china-electric-vehicles-li-auto-nio-xpeng-byd-xiaomi/?src=A00220&yptr=yahoo",
+          "title_en": "Tesla EV Deliveries On Tap After China Rivals Report Rebounding Sales In March"
+        },
         {
           "source": "CNBC-Tech",
           "ticker": "RSS",
@@ -441,25 +479,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
-          "title": "买入机会：我刚刚增加了持有份额，投资于一个月度分红股，年收益率16%",
+          "time": "2026-04-01 21:07:17",
+          "title": "Palantir (PLTR) 在价格/销售额比率达到100以上",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bargain-alert-just-doubled-position-122600810.html",
-          "title_en": "Bargain Alert: I Just Doubled My Position in a Monthly Dividend Stock Yielding 16%"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-traded-100-price-125521377.html",
+          "title_en": "Palantir (PLTR) Traded at 100+ Price/Sales Ratio"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
-          "title": "三件事情Nike投资者需要关注：股价暴跌后。",
+          "time": "2026-04-01 21:07:17",
+          "title": "比特币指数基金在三月份转折后表现良好，新加密货币SPAC上市",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/3-things-nike-investors-need-to-watch-with-the-stock-plunging-after-earnings-122317385.html",
-          "title_en": "3 things Nike investors need to watch with the stock plunging after earnings"
+          "url": "https://www.investors.com/news/bitcoin-price-bitcoin-etf-flows-march-coinshares-stock-nasdaq/?src=A00220&yptr=yahoo",
+          "title_en": "Bitcoin ETFs Post March Turnaround, New Crypto SPAC Launches"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
+          "time": "2026-04-01 21:07:17",
+          "title": "Lamb Weston收益超预期，为什么股价几乎没有波动。",
+          "summary": "",
+          "url": "https://www.barrons.com/articles/lamb-weston-earnings-stock-price-260c7447?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Lamb Weston Earnings Top Estimates. Why The Stock Is Barely Budging."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 21:07:17",
           "title": "股市今日：道指上涨，特朗普公布停火时间表；耐克因业绩大跌",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-war-jobs-data-nike-stock/?src=A00220&yptr=yahoo",
@@ -468,16 +515,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
-          "title": "SpaceX将成为超级IPO的试金石",
+          "time": "2026-04-01 21:07:17",
+          "title": "耐克收缩预期，转型努力继续。中国销售滞后。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-seen-break-test-mega-120228923.html",
-          "title_en": "SpaceX seen as make-or-break test for mega IPOs"
+          "url": "https://www.investors.com/news/nike-stock-earnings-q3-2026-turnaround-dow-jones-nke/?src=A00220&yptr=yahoo",
+          "title_en": "Nike Retreats On Outlook, Turnaround Efforts Continue. China Sales Lag."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
+          "time": "2026-04-01 21:07:17",
+          "title": "布朗与布朗股价下跌，原因是该公司的有机增长速度较慢。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/brown-brown-bro-fell-slow-123139896.html",
+          "title_en": "Brown & Brown (BRO) Fell on Slow Organic Growth"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 21:07:17",
+          "title": "B.O.S. Better Online Solutions Ltd.第四季度2025年财报电话会议总结",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/b-o-better-online-solutions-123000094.html",
+          "title_en": "B.O.S. Better Online Solutions Ltd. Q4 2025 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 21:07:17",
           "title": "今年的开局并不理想。",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46604_MarketOutlook_1775042837000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -486,16 +551,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
-          "title": "Netflix下跌30%，3个红旗表明其最佳时光已经过去",
+          "time": "2026-04-01 21:07:17",
+          "title": "三件事情Nike投资者需要关注：股价暴跌后。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/down-30-3-red-flags-122000915.html",
-          "title_en": "Down 30%, 3 Red Flags That Suggest Netflix's Best Days Are Behind It"
+          "url": "https://finance.yahoo.com/news/3-things-nike-investors-need-to-watch-with-the-stock-plunging-after-earnings-122317385.html",
+          "title_en": "3 things Nike investors need to watch with the stock plunging after earnings"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
+          "time": "2026-04-01 21:07:17",
+          "title": "SpaceX将成为超级IPO的试金石",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-seen-break-test-mega-120228923.html",
+          "title_en": "SpaceX seen as make-or-break test for mega IPOs"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 21:07:17",
           "title": "标普500指数投资者在噩梦般的市场中遭受了严重损失",
           "summary": "",
           "url": "https://www.investors.com/etfs-and-funds/etfs/sp-500-index-investors-burned-in-nightmare-scenario-market/?src=A00220&yptr=yahoo",
@@ -504,25 +578,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
-          "title": "天然气领军企业在漏斗市场创造买点。百分百的增长激发了巨大的需求。",
-          "summary": "",
-          "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/antero-stock-natural-gas-stocks-to-watch/?src=A00220&yptr=yahoo",
-          "title_en": "Natural Gas Leader Fuels Buy Point In Leaky Market. Triple-Digit Growth Sparks Big Demand."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
-          "title": "数百万富人却感到不富裕——财务焦虑的巨大问题（以及快速解决方法）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/economy/articles/millions-millionaires-don-t-feel-120000676.html",
-          "title_en": "Millions of millionaires don’t feel rich — the big problem with financial anxiety (and how to solve it quickly"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
+          "time": "2026-04-01 21:07:17",
           "title": "中期看多。",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46603_TechnicalAnalysis_1775042801000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -531,16 +587,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
-          "title": "比Beyond Meat股价暴跌",
+          "time": "2026-04-01 21:07:17",
+          "title": "天然气领军企业在漏斗市场创造买点。百分百的增长激发了巨大的需求。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/beyond-meat-collapses-121822433.html",
-          "title_en": "Beyond Meat Collapses"
+          "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/antero-stock-natural-gas-stocks-to-watch/?src=A00220&yptr=yahoo",
+          "title_en": "Natural Gas Leader Fuels Buy Point In Leaky Market. Triple-Digit Growth Sparks Big Demand."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
+          "time": "2026-04-01 21:07:17",
+          "title": "数百万富人却感到不富裕——财务焦虑的巨大问题（以及快速解决方法）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/economy/articles/millions-millionaires-don-t-feel-120000676.html",
+          "title_en": "Millions of millionaires don’t feel rich — the big problem with financial anxiety (and how to solve it quickly"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-01 21:07:17",
           "title": "Jefferies再次维持Home Depot (HD)的买入评级",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-reiterates-buy-home-depot-114223067.html",
@@ -549,34 +614,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
-          "title": "Enerpac Tool Group (EPAC) 公布 Q2 调整 EPS 39 美分，符合市场预期。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/enerpac-tool-group-epac-reports-114215895.html",
-          "title_en": "Enerpac Tool Group (EPAC) Reports Q2 Adjusted EPS 39c, in Line with Consensus"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
-          "title": "Citi将SL Green Realty (SLG)的目标价降至45美元，原价55美元。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/citi-lowers-price-target-sl-114200744.html",
-          "title_en": "Citi Lowers its Price Target on SL Green Realty (SLG) to $45 from $55"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
-          "title": "Evercore ISI 将 On Holding (ONON) 的股价目标降至 45 美元至 58 美元。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-lowers-price-target-114146306.html",
-          "title_en": "Evercore ISI Lowers its Price Target on On Holding (ONON) to $45 from $58"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
+          "time": "2026-04-01 21:07:17",
           "title": "分析报告：PG&E Corp",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3294_AnalystReport_1775041593000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -585,20 +623,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
-          "title": "一年前，我们重点推荐了3家低估的股息贵族：看看它们的表现和3个新推荐",
+          "time": "2026-04-01 21:07:17",
+          "title": "Enerpac Tool Group (EPAC) 公布 Q2 调整 EPS 39 美分，符合市场预期。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/highlighted-3-undervalued-dividend-aristocrats-121511464.html",
-          "title_en": "We Highlighted 3 Undervalued Dividend Aristocrats a Year Ago: Here’s How They Did and 3 New Picks"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/enerpac-tool-group-epac-reports-114215895.html",
+          "title_en": "Enerpac Tool Group (EPAC) Reports Q2 Adjusted EPS 39c, in Line with Consensus"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-01 20:36:47",
-          "title": "Infosys (INFY) 将以最高 46.5 亿美元收购 Optimum Healthcare IT",
+          "time": "2026-04-01 21:07:17",
+          "title": "Citi将SL Green Realty (SLG)的目标价降至45美元，原价55美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/infosys-infy-acquire-optimum-healthcare-114118567.html",
-          "title_en": "Infosys (INFY) to Acquire Optimum Healthcare IT for Up to $465M"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/citi-lowers-price-target-sl-114200744.html",
+          "title_en": "Citi Lowers its Price Target on SL Green Realty (SLG) to $45 from $55"
         }
       ]
     }
