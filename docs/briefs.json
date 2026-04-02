@@ -1,6 +1,6 @@
 {
   "date": "2026.04.02",
-  "generatedAtBJT": "2026-04-02 17:17:10",
+  "generatedAtBJT": "2026-04-02 17:47:42",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-02 17:17:10",
+          "time": "2026-04-02 17:47:42",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→",
+          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克指数/标普500承压更明显；美元指数上升→黄金价格更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克指数/标普500先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克指数/标普500修复反弹、黄金价格喘息；操作偏好：回踩参与、避免追高\n- 期权：",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Gas tops $4 and diesel is over $5. How an extended war with Iran could p…\n- 宏观/Fed线索：How inflation affects car insurance — and what you can do about it…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Gas tops $4 and diesel is over $5. How an extended war with Iran could p…\n- 宏观/Fed线索：Bank5 Connect review (2026): Simple online banking with competitive inte…"
         }
       ]
     },
@@ -29,25 +29,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
-          "title": "CoreWeave 股票大涨 12%，公司获得 850亿美元的GPU担保贷款",
+          "time": "2026-04-02 17:47:35",
+          "title": "英伟达的20亿美元押注揭示了其下一个大目标",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/coreweave-stock-jumps-12-after-company-secures-85-billion-gpu-backed-loan-173113383.html",
-          "title_en": "CoreWeave stock jumps 12% after company secures $8.5 billion GPU-backed loan"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-2-billion-bet-reveals-214700501.html",
+          "title_en": "Nvidia’s $2 billion bet reveals its next big target"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
-          "title": "OpenAI在最新的融资轮次中估值8500亿美元，预计即将上市IPO。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/article/openai-valued-at-852-billion-in-latest-funding-round-ahead-of-ipo-213943098.html",
-          "title_en": "OpenAI valued at $852 billion in latest funding round ahead of IPO"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "微软公司（MSFT）被评为强买股，华尔街预计其股价将上涨63%。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-strong-buy-223339528.html",
@@ -56,7 +47,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "NVIDIA Corporation (NVDA) 将受益于客户加速人工智能硬件支出",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-positioned-benefit-223549308.html",
@@ -65,16 +56,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "Wedbush再次维持对苹果公司（AAPL）的超额收益预期，预计折叠屏iPhone即将发布。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/wedbush-reiterates-outperform-apple-inc-223751025.html",
           "title_en": "Wedbush Reiterates Outperform on Apple Inc. (AAPL) Amid Anticipation of Foldable iPhone"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 17:47:35",
+          "title": "苹果公司的50年之旅：从车库起家到科技巨人",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/apples-50-journey-garage-tech-003140629.html",
+          "title_en": "Apple's 50-year journey from garage to tech titan"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "亚马逊计划斥资190亿美元收购Globalstar",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/amazon-in-talks-to-buy-9-billion-satellite-group-globalstar-ft-reports-4594452",
@@ -99,6 +99,16 @@
           "url": "https://www.cnbc.com/2026/04/01/globalstar-stock-pops-15percent-on-report-amazon-is-weighing-an-acquisition.html",
           "title_en": "Globalstar stock surges 15% on report Amazon is weighing an acquisition",
           "summary_en": "A deal with Globalstar could bolster Amazon Leo, the company's nascent internet-from-space service, which has about 200 satellites in orbit."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-02 06:50:51",
+          "title": "詹姆斯·克拉默警告称，当前的牛市缺乏真正的领导力，因为依赖人工智能的收益并未能带来信心。",
+          "summary": "克拉默表示，市场的反弹缺乏广泛的领先，主要由一小群与人工智能相关的数据中心股票驱动，而不是多元化的增长。",
+          "url": "https://www.cnbc.com/2026/04/01/cramer-rally-lacks-real-leadership-as-ai-driven-gains-fail-to-inspire-confidence.html",
+          "title_en": "Jim Cramer warns rally lacks real leadership as AI-driven gains fail to inspire confidence",
+          "summary_en": "Cramer says the market's rebound lacks broad leadership, driven mainly by a narrow group of AI-related data center stocks, rather than diversified growth."
         },
         {
           "source": "CNBC-Top",
@@ -159,16 +169,6 @@
           "url": "https://www.cnbc.com/2026/03/31/microsofts-stock-closes-worst-quarter-since-2008-financial-crisis.html",
           "title_en": "Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle'",
           "summary_en": "With Microsoft losing almost a quarter of its value this year, investors have reset the company's earnings multiple to the lowest since late 2022."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-04-01 05:34:37",
-          "title": "苹果对 AI 应用程序的打击让它站在了历史的错误一边",
-          "summary": "苹果公司背离了其50年前创立的使命，阻碍了人工智能编程，或者说是“心灵编程”。",
-          "url": "https://www.cnbc.com/2026/03/31/column-apples-crackdown-on-ai-apps-puts-it-wrong-side-of-history.html",
-          "title_en": "Column: Apple's crackdown on AI apps puts it on the wrong side of history",
-          "summary_en": "Apple is going against its founding mission from 50 years ago by standing in the way AI coding, or vibe-coding."
         }
       ]
     },
@@ -179,16 +179,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
-          "title": "通胀如何影响汽车保险——以及你能做什么",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/insurance/article/car-insurance-inflation-151203005.html",
-          "title_en": "How inflation affects car insurance — and what you can do about it"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "Bank5 Connect评估（2026）：简单的在线银行业务与竞争性利率",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/review/bank5-connect-review-213751126.html",
@@ -197,16 +188,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
-          "title": "截至2026年3月31日，最佳定期存款利率为最高4.15%年利率",
+          "time": "2026-04-02 17:47:35",
+          "title": "通胀如何影响汽车保险——以及你能做什么",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-cd-rates-today-march-31-2026-lock-in-up-to-4-1-5-apy-today-100000313.html",
-          "title_en": "Best CD rates today, March 31, 2026: Lock in up to 4.15% APY today"
+          "url": "https://finance.yahoo.com/personal-finance/insurance/article/car-insurance-inflation-151203005.html",
+          "title_en": "How inflation affects car insurance — and what you can do about it"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "新西兰的Fonterra承认“草饲养”标签可能会误导购物者，之后绿色和平诉讼",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/healthcare/articles/zealands-fonterra-admits-grass-fed-234730289.html",
@@ -215,11 +206,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
-          "title": "HELOC和家庭抵押贷款利率今日（3月31日），报告称，97%的可触摸资产未使用。",
+          "time": "2026-04-02 17:47:35",
+          "title": "截至2026年3月31日，最佳定期存款利率为最高4.15%年利率",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-march-31-2026-100000782.html",
-          "title_en": "HELOC and home equity loan rates today, March 31, 2026: 97% of tappable equity unused, report says"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-cd-rates-today-march-31-2026-lock-in-up-to-4-1-5-apy-today-100000313.html",
+          "title_en": "Best CD rates today, March 31, 2026: Lock in up to 4.15% APY today"
         }
       ]
     },
@@ -230,7 +221,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "天然气价格突破4美元，柴油价格超过5美元。伊朗长期战争如何推高油价。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/gas-tops-4-and-diesel-is-over-5-how-an-extended-war-with-iran-could-push-prices-higher-225053638.html",
@@ -239,16 +230,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
-          "title": "新能源冲击，第一部分：美国伊朗冲突如何影响燃料市场：由Oil & Gas 360",
+          "time": "2026-04-02 17:47:35",
+          "title": "前BP首席执行官接管怀俄明数据中心开发商，首位女性领导人成为新BP首席执行官",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/energy-shock-part-1-u-213049368.html",
-          "title_en": "The new energy shock, Part 1: How the U.S.–Iran conflict is hitting fuel markets: by Oil & Gas 360"
+          "url": "https://finance.yahoo.com/sectors/energy/articles/former-bp-ceo-takes-over-215041585.html",
+          "title_en": "Former BP CEO takes over Wyoming data center developer, as first woman leader of Big Oil giant becomes new BP chief"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "沙特阿拉伯将石油桶换成电池",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/energy/articles/saudi-arabia-trades-oil-barrels-230000513.html",
@@ -257,16 +248,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "大型石油公司重新开始勘探探矿，因为储备日渐减少。",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/energy/articles/big-oil-returns-exploration-reserves-000000303.html",
           "title_en": "Big Oil Returns to Exploration as Reserves Dwindle"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 17:47:35",
+          "title": "全球股市大幅上涨，石油价格因伊朗战争可能结束而放缓",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-jump-wall-street-011611252.html",
+          "title_en": "Stocks rally worldwide as oil prices ease on hopes for a possible end to the Iran war"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
+          "title": "华尔街指数期货下滑，特朗普暗示将对伊朗进行更多的军事打击。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-slide-as-trump-signals-tougher-iran-strikes-oil-jumps-6-4594732",
+          "title_en": "Wall St futures slide as Trump signals more Iran strikes"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 17:47:35",
           "title": "美国股指期货下跌，特朗普称将在两周内推动伊朗战争升级",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-trump-address-iran-ceasefire-in-focus-4594529",
@@ -275,20 +284,31 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
-          "title": "华尔街期货下跌，特朗普暗示对伊朗采取更严厉行动，石油价格跃升6%",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-slide-as-trump-signals-tougher-iran-strikes-oil-jumps-6-4594732",
-          "title_en": "Wall St futures slide as Trump signals tougher Iran strikes, oil jumps 6%"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "欧洲股市开盘低迷，特朗普承诺对伊朗发动新一轮袭击，石油价格大幅上涨。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/europe-stocks-open-lower-as-trump-vows-fresh-iran-strikes-oil-surges-4594710",
           "title_en": "Europe stocks open lower as Trump vows fresh Iran strikes; oil surges"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-04-02 17:37:00",
+          "title": "石油价格上涨7% 由于特朗普演讲导致伊朗战争不确定性上升",
+          "summary": "特朗普总统的讲话让投资者担心冲突的潜在结束点",
+          "url": "https://www.marketwatch.com/story/oil-prices-rise-over-7-as-trump-speech-leads-to-uncertainty-on-iran-war-c544dd6e?mod=mw_rss_topstories",
+          "title_en": "Oil prices rise over 7% as Trump speech leads to uncertainty on Iran war",
+          "summary_en": "President Donald Trump’s address left investors with concerns over a potential endpoint for the conflict"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-02 17:30:55",
+          "title": "石油价格上涨，布伦特油价大涨6%以上，特朗普的伊朗战争演讲加剧了进一步升级的恐惧。",
+          "summary": "石油价格在波动的交易中上涨，因为特朗普在对伊朗战争的讲话中表示，他预计冲突将持续另外两到三个星期。",
+          "url": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html",
+          "title_en": "Oil gains with Brent surging more than 6% as Trump's Iran war speech stokes fears of further escalation",
+          "summary_en": "Oil rose in volatile trading as Trump in his address to the nation on Iran war said that he expected the conflict to last another two to three weeks."
         },
         {
           "source": "CNBC-World",
@@ -309,16 +329,6 @@
           "url": "https://www.cnbc.com/2026/04/02/asia-markets-today-live-trump-address-iran-war.html",
           "title_en": "Asia-Pacific markets plunge as oil surges after Trump's speech on Iran war",
           "summary_en": "During his speech, Trump reiterated that the U.S. objectives in Iran were almost met and said that \"we have all the cards\" in the conflict."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-02 15:17:33",
-          "title": "石油价格上涨，布伦特油价大涨6%以上，特朗普的伊朗战争演讲加剧了进一步升级的恐惧。",
-          "summary": "石油价格在波动的交易中上涨，因为特朗普在对伊朗战争的讲话中表示，他预计冲突将持续另外两到三个星期。",
-          "url": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html",
-          "title_en": "Oil gains with Brent surging more than 6% as Trump's Iran war speech stokes fears of further escalation",
-          "summary_en": "Oil rose in volatile trading as Trump in his address to the nation on Iran war said that he expected the conflict to last another two to three weeks."
         },
         {
           "source": "CNBC-World",
@@ -363,42 +373,22 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
+          "time": "2026-04-02 09:46:03",
+          "title": "特朗普的伊朗演讲忽视了回到70年代的风险：分析",
+          "summary": "石油价格波动曾经摧毁过多位总统的政权。伊朗战争正在将特朗普推入危险地带。",
+          "url": "https://www.cnbc.com/2026/04/01/trump-iran-war-speech-1970s-energy-crisis.html",
+          "title_en": "Trump's Iran speech ignores the risks of a return to the 1970s: Analysis",
+          "summary_en": "Oil shocks crippled past presidencies. The Iran war is putting Trump into the danger zone."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
           "time": "2026-04-02 06:03:58",
           "title": "伊朗的战争宣传重点集中在特朗普身上，使用乐高形象做出嘲讽。",
           "summary": "伊朗宣传机器也开始关注这场战争对全球经济和能源价格的不稳定影响，后者在美国已经大幅上涨。",
           "url": "https://www.cnbc.com/2026/04/01/iran-war-social-media-meme-propaganda.html",
           "title_en": "Iran's war propaganda homes in on Trump with Lego memes",
           "summary_en": "Iranian propaganda is also homing in on the war's destabilizing impact on the global economy and energy prices, which have shot up in the U.S."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-04-02 04:04:31",
-          "title": "10年期国债收益率微升，投资者关注伊朗战争的发展",
-          "summary": "10年期国债收益率周三上涨，投资者正在评估中东冲突的解决方案。",
-          "url": "https://www.cnbc.com/2026/04/01/treasury-yields-fall-as-iran-peace-hopes-fuel-relief-rally-.html",
-          "title_en": "10-year Treasury yield edges higher as investors monitor developments with Iran war",
-          "summary_en": "The 10-year Treasury yield ticked up on Wednesday as investors assessed the prospect of a resolution to the conflict in the Middle East."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-02 02:50:19",
-          "title": "石油价格跌至约每桶100美元，特朗普表示战争可能在几周内结束。",
-          "summary": "原油价格周三下跌，因为美国总统唐纳德·特朗普表示愿意退出伊朗战争，即使霍尔木兹海峡仍然基本封闭。",
-          "url": "https://www.cnbc.com/2026/04/01/oil-prices-today-brent-wti.html",
-          "title_en": "Oil prices fall to around $100 after Trump indicates war could end in weeks",
-          "summary_en": "Crude prices fell Wednesday as President Donald Trump signaled a willingness to exit the Iran war even as the Strait of Hormuz remains largely closed."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-04-02 00:07:48",
-          "title": "欧洲股市强势反弹，特朗普称伊朗战争将在几周内结束",
-          "summary": "欧洲上市的股票开启了新的交易月份，表现强劲。",
-          "url": "https://www.cnbc.com/2026/04/01/europe-stock-markets-price-stoxx-ftse-dax-iran-war-trump.html",
-          "title_en": "Europe stocks rebound strongly as Trump says Iran war will end in weeks",
-          "summary_en": "Shares listed in Europe kicked off the new trading month with a strong bounce."
         }
       ]
     },
@@ -435,16 +425,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
-          "title": "黄金替代品？如何投资白银、铂金和钯金。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-alternatives-how-to-invest-in-silver-platinum-and-palladium-145904446.html",
-          "title_en": "Gold alternatives? How to invest in silver, platinum, and palladium."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "黄金个税可怀疑是一种好投资。黄金个税的优点包括：\n\n*   黄金价格波动较小，相对稳定。\n*   黄金可以作为避险资产。\n*   黄金个税可以帮助分散投资组合。\n\n黄金个税的缺点包括：\n\n*   黄金价格可能会下跌。\n*   黄金个税的管理费可能较高。\n*   黄金个税可能需要存储在特定的机构中。\n\n黄金个税适合：\n\n*   对于希望避险的投资者。\n*   对于希望分散投资组合的投资者。\n*   对于希望投资黄金的投资者。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/is-gold-ira-good-investment-165004455.html",
@@ -453,7 +434,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
+          "title": "黄金替代品？如何投资白银、铂金和钯金。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-alternatives-how-to-invest-in-silver-platinum-and-palladium-145904446.html",
+          "title_en": "Gold alternatives? How to invest in silver, platinum, and palladium."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 17:47:35",
           "title": "投资者应该根据自己的风险承受能力和投资目标来决定在养老基金中持有的黄金比例。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/how-much-gold-should-you-hold-in-a-retirement-portfolio-165308216.html",
@@ -462,7 +452,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "黄金IRA与实物黄金：哪种投资更好？",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-ira-vs-physical-gold-224654072.html",
@@ -471,7 +461,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "黄金 IRA 与传统 IRA 的区别在于投资品种。黄金 IRA 可以投资黄金、白银、贵金属等，而传统 IRA 则通常投资股票、债券、房地产等。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-ira-vs-traditional-ira-whats-the-difference-211000312.html",
@@ -480,7 +470,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "黄金个税优惠账户（Gold IRA）是一种特殊的个税优惠账户，允许投资者将黄金和其他贵金属投资于自助退休计划中。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/what-is-a-gold-ira-163508790.html",
@@ -489,25 +479,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
-          "title": "梅赛德斯-奔驰将在阿拉巴马州工厂投入4亿美元，特朗普关税重塑美国汽车战略",
-          "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/mercedes-benz-pour-4b-alabama-211206842.html",
-          "title_en": "Mercedes-Benz to pour $4B into Alabama plant as Trump tariffs reshape US auto strategy"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
-          "title": "如果被拒绝HELOC或房屋抵押贷款",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/denied-heloc-home-equity-loan-212605533.html",
-          "title_en": "What to do if you are denied a HELOC or home equity loan"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "美国人在申报税务时容易犯的7个常见错误，以及如何避免它们。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/taxes/article/7-common-tax-filing-mistakes-americans-make-and-how-to-avoid-them-205435004.html",
@@ -516,16 +488,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
-          "title": "索菲(SoFi)是金融科技(Fintech)的赢家，还是一个“金融工程”故事？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sofi-fintech-winner-financial-engineering-211300250.html",
-          "title_en": "Is SoFi a Fintech Winner or a 'Financial Engineering' Story?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "豆类价格周二上涨，预计种植面积将减少。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-rally-tuesday-lower-acres-222630671.html",
@@ -534,7 +497,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "玉米价格周二维持高位",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/commodities/articles/corn-holds-higher-tuesday-222630735.html",
@@ -543,16 +506,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
-          "title": "科技、媒体和通信周报：市场谈话",
+          "time": "2026-04-02 17:47:35",
+          "title": "3月份，股市下跌时，以下20只股票逆势上涨，涨幅最高达40%。",
           "summary": "",
-          "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-25c59d5b?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Tech, Media & Telecom Roundup: Market Talk"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/20-stocks-bucked-stock-market-214900820.html",
+          "title_en": "20 stocks that bucked the stock market’s decline in March with gains of up to 40%"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "Needham再次维持对 Alphabet Inc. (GOOGL) 的买入评级，目标价为 400 美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/needham-reiterates-buy-alphabet-inc-223448220.html",
@@ -561,7 +524,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "在市场波动中投资：3个关于逆转的提示",
           "summary": "",
           "url": "https://www.investors.com/how-to-invest/how-to-invest-in-stocks-in-market-correction-follow-through-day/?src=A00220&yptr=yahoo",
@@ -570,7 +533,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "分析师预见 Broadcom Inc. (AVGO) 将上涨 61%",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-see-61-upside-broadcom-223656556.html",
@@ -579,20 +542,47 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
-          "title": "市场简报：市场热点",
+          "time": "2026-04-02 17:47:35",
+          "title": "投资者现在入股Plug Power（PLUG）可能会看到自己的钱翻倍",
           "summary": "",
-          "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-874ce248?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Financial Services Roundup: Market Talk"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-plug-power-plug-now-215000553.html",
+          "title_en": "Investors Who Get In on Plug Power (PLUG) Now Could See Their Money Multiply"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 17:17:04",
+          "time": "2026-04-02 17:47:35",
           "title": "BMO资本将Blackstone (BX)的价格目标降至126美元，维持买入评级。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-cuts-blackstone-bx-223926047.html",
           "title_en": "BMO Capital Cuts Blackstone (BX)’s Price Target to $126, Maintains Outperform Rating"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 17:47:35",
+          "title": "蓝鹰资本公司（OBDC）：前总统唐纳德·特朗普持有的股票之一",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/blue-owl-capital-corporation-obdc-224125366.html",
+          "title_en": "Blue Owl Capital Corporation (OBDC): One of the Stocks Owned by President Donald Trump"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 17:47:35",
+          "title": "机构对特朗普媒体与技术集团(DJT)的兴趣在增长。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/institutional-interest-growing-trump-media-224635782.html",
+          "title_en": "Institutional Interest Growing in Trump Media & Technology Group (DJT)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 17:47:35",
+          "title": "CFTC监管首长称，内幕交易在预测市场中的问题是监管优先事项之一。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/economy/policy/articles/insider-trading-prediction-markets-among-232914945.html",
+          "title_en": "Insider trading in prediction markets is among CFTC priorities, top cop says"
         }
       ]
     }
