@@ -1,6 +1,6 @@
 {
   "date": "2026.04.02",
-  "generatedAtBJT": "2026-04-02 12:10:54",
+  "generatedAtBJT": "2026-04-02 12:41:16",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-02 12:10:54",
+          "time": "2026-04-02 12:41:16",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主要驱动因素：10年期利率 + 原油价格/风险事件\n- 四个关键指标监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否上升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金更容易回撤；VIX上升→盘中更容易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX上升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX",
+          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Sugar Prices Rebound on Strength in the Brazilian Real and Crude Oil…\n- 宏观/Fed线索：As AI threatens to replace tech jobs, startups are desperate for top tal…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Hiring Fell To Lockdown Levels Ahead Of Iran War…\n- 宏观/Fed线索：Bank5 Connect review (2026): Simple online banking with competitive inte…"
         }
       ]
     },
@@ -29,61 +29,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "甲骨文公司（ORCL）面临短期压力，但人工智能和云计算增长保持稳定。",
+          "time": "2026-04-02 12:41:11",
+          "title": "吉姆·克拉默谈到Tempus AI：“这是一个不错的投机品种，我会持有一些，但不是全部。”",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-corporation-orcl-faces-near-160806186.html",
-          "title_en": "Oracle Corporation (ORCL) Faces Near-Term Pressure but AI and Cloud Growth Remain Intact"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tempus-ai-decent-163612528.html",
+          "title_en": "Jim Cramer on Tempus AI: “It’s a Decent Spec, I Would Hold on to Some, But Not All”"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "吉姆·克拉默说：“NVIDIA所做的投资是为了创建一个愿意使用NVIDIA的生态系统。”",
+          "time": "2026-04-02 12:41:11",
+          "title": "纳维达（NVDA）是高盛的最佳人工智能股之一吗？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-investments-nvidia-160502261.html",
-          "title_en": "Jim Cramer Says “The Investments That NVIDIA Makes Are Part of Creating an Ecosystem That Wants to Use NVIDIA”"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-one-best-173736780.html",
+          "title_en": "Is NVIDIA Corporation (NVDA) one of the Best Goldman Sachs AI Stocks: Top 12 Stocks to Buy?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "吉姆·克雷默（Jim Cramer）称康宁公司（Corning Incorporated）为“最好的一个”用于人工智能和数据中心建设。",
+          "time": "2026-04-02 12:41:11",
+          "title": "Micron Technology (MU) 股票下跌，因为巨额支出计划盖过了强大的人工智能驱动的盈利",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-chooses-corning-incorporated-160459806.html",
-          "title_en": "Jim Cramer Chooses Corning Incorporated As “The Best One” for AI and Data Center Buildout"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-inc-mu-shares-173825036.html",
+          "title_en": "Micron Technology, Inc. (MU) Shares Fall as Massive Expenditure Plans Overshadow Solid AI-driven Earnings"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "吉姆·克拉默强调了Meta Platforms的法律纠纷",
+          "time": "2026-04-02 12:41:11",
+          "title": "韩国AI初创公司Upstage正在与韩国AMD分销商进行谈判，计划购买10,000块高端AMD芯片。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-meta-platforms-160446449.html",
-          "title_en": "Jim Cramer Highlights Meta Platforms’ Legal Battles"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "高盛对NVIDIA股价给投资者发出了一个信息。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-message-nvidia-stock-161836247.html",
-          "title_en": "Goldman Sachs has a message on Nvidia stock for investors"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "Datavault AI与Coppercore合作铜元token化",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/datavault-ai-coppercore-tokenize-copper-163400388.html",
-          "title_en": "Datavault AI And Coppercore To Tokenize Copper"
+          "url": "https://finance.yahoo.com/sectors/technology/articles/ai-startup-upstage-talks-purchase-173924600.html",
+          "title_en": "AI Startup “Upstage” in Talks to Purchase 10,000 Advanced Micro Devices (AMD) Chips in Korea"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
+          "time": "2026-04-02 12:41:11",
           "title": "亚马逊计划斥资190亿美元收购Globalstar",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/amazon-in-talks-to-buy-9-billion-satellite-group-globalstar-ft-reports-4594452",
@@ -198,6 +180,16 @@
           "url": "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html",
           "title_en": "Oracle cutting thousands in latest layoff round as company continues to ramp AI spending",
           "summary_en": "Oracle has ratcheted up its capital expenditures as it builds data center infrastructure that can handle AI workloads."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-04-01 04:03:50",
+          "title": "Marvel尔股价大涨13%，因Nvidia投资2亿美元，继续类似的押注。",
+          "summary": "近期，Nvidia 在 CoreWeave、Nebius 和 Coherent 等公司投资了 200 亿美元。",
+          "url": "https://www.cnbc.com/2026/03/31/marvell-nvidia-stock-stake.html",
+          "title_en": "Marvell stock pops 13% as Nvidia takes $2 billion stake, continuing run of similar bets",
+          "summary_en": "Nvidia has also made $2 billion investments in CoreWeave, Nebius and Coherent in recent months."
         }
       ]
     },
@@ -208,11 +200,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "随着人工智能威胁到技术岗位，初创公司渴望顶级人才——一些公司已将技术高材生支付超过30万美元",
+          "time": "2026-04-02 12:41:11",
+          "title": "Bank5 Connect评估（2026）：简单的在线银行业务与竞争性利率",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/ai-threatens-replace-tech-jobs-161227228.html",
-          "title_en": "As AI threatens to replace tech jobs, startups are desperate for top talent—and some firms are paying tech-savvy grads over $300,000"
+          "url": "https://finance.yahoo.com/personal-finance/banking/review/bank5-connect-review-213751126.html",
+          "title_en": "Bank5 Connect review (2026): Simple online banking with competitive interest rates"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 12:41:11",
+          "title": "奥拉克尔(ORCL)计划裁员数千人，因为数据中心费用上升，彭博新闻报道。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-plans-cut-thousands-173850192.html",
+          "title_en": "Oracle (ORCL) Plans to Cut Thousands of Jobs as Data Center Expenses Climb, Bloomberg News Reports"
         }
       ]
     },
@@ -223,16 +224,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "糖价反弹受巴西雷亚尔和原油价格强劲影响",
+          "time": "2026-04-02 12:41:11",
+          "title": "招聘额降至封锁水平前夕，伊朗战争前夕",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/sugar-prices-rebound-strength-brazilian-162429589.html",
-          "title_en": "Sugar Prices Rebound on Strength in the Brazilian Real and Crude Oil"
+          "url": "https://finance.yahoo.com/economy/articles/hiring-fell-lockdown-levels-ahead-164913489.html",
+          "title_en": "Hiring Fell To Lockdown Levels Ahead Of Iran War"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 12:41:11",
+          "title": "凯文·奥莱利警告美国人不要对特朗普、油价和伊朗的局势感到恐慌。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/kevin-o-leary-urges-americans-171500136.html",
+          "title_en": "Kevin O’Leary urges Americans to stop panicking about Trump, oil and Iran. Prepare for 'huge' opportunities"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 12:41:11",
+          "title": "航空公司面临价格上涨和利润下降的压力，伊朗战争对业务产生了影响。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/airlines-face-price-hikes-lower-margins-as-iran-war-pressures-business-171745222.html",
+          "title_en": "Airlines face price hikes, lower margins as Iran war pressures business"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
+          "time": "2026-04-02 12:41:11",
           "title": "亚洲股市下跌，特朗普警告伊朗战争升级；韩国领跌",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/asia-stocks-dip-as-trump-flags-iran-war-escalation-skorea-leads-losses-4594585",
@@ -241,7 +260,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
+          "time": "2026-04-02 12:41:11",
           "title": "韩国3月CPI通胀率上涨2.2%，伊朗战争推动能源成本上升",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/south-korea-cpi-inflation-rises-22-in-march-as-iran-war-drives-energy-costs-93CH-4594583",
@@ -250,7 +269,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
+          "time": "2026-04-02 12:41:11",
           "title": "投资者对特朗普关于伊朗战争的演讲做出了反应",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/instant-view-investor-reactions-to-trumps-speech-on-iran-war-4594574",
@@ -259,7 +278,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
+          "time": "2026-04-02 12:41:11",
           "title": "美股、外汇市场悬于一线等待特朗普就伊朗战争发表讲话",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/stocks-currencies-on-tenterhooks-ahead-of-trump-address-on-iran-war-4594534",
@@ -268,7 +287,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
+          "time": "2026-04-02 12:41:11",
           "title": "美国股指期货下滑，特朗普称将在两周内三周内升级伊朗战争",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-trump-address-iran-ceasefire-in-focus-4594529",
@@ -373,26 +392,6 @@
           "url": "https://www.cnbc.com/2026/04/01/asia-markets-live-today-nikkei-kospi-boj-tankan-iran-war.html",
           "title_en": "South Korea's Kospi leads rebound in Asia markets as Trump says Iran war could end in weeks",
           "summary_en": "On Tuesday stateside, Trump said the U.S. could leave Iran in \"two or three weeks,\" adding \"We leave because there's no reason for us to do this.\""
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-04-01 19:32:00",
-          "title": "国际能源局警告称，4月份石油供应紧张会进一步恶化，考虑释放更多战略储备。",
-          "summary": "国际能源组织的执行总干事Fatih Birol也警告称，伊朗战争造成了历史上最严重的石油危机。",
-          "url": "https://www.cnbc.com/2026/04/01/oil-price-iea-fatih-birol-brent-iran-strait-hormuz.html",
-          "title_en": "Oil supply crunch will worsen in April, IEA warns as it weighs releasing more strategic reserves",
-          "summary_en": "The organization’s Executive Director Fatih Birol also warned that the Iran war had created the worst oil crisis in history."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-04-01 16:44:34",
-          "title": "日本大型企业在伊朗战争的阴影下仍保持乐观态度，但这种乐观可能不会持续很久。",
-          "summary": "分析师表示，积极情绪可能无法完全反映伊朗战争的影响，因为日本的Tankan调查期已于3月结束。",
-          "url": "https://www.cnbc.com/2026/04/01/japan-business-sentiment-improves-in-tankan-survey.html",
-          "title_en": "Big Japanese companies are feeling optimistic despite the Iran war — but it might not last",
-          "summary_en": "The positive sentiment may not fully capture the impact from the Iran war, analysts said, as Japan's Tankan survey period ended in March."
         }
       ]
     },
@@ -400,6 +399,24 @@
       "name": "特斯拉链",
       "badge": "TSLA chain",
       "items": [
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 12:41:11",
+          "title": "特斯拉（TESLA）和SpaceX计划在德克萨斯州建造一家新芯片工厂。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/tesla-tesla-spacex-plan-build-173759944.html",
+          "title_en": "Tesla (TESLA) and SpaceX Plan to Build a New Chip Factory in Texas"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 12:41:11",
+          "title": "Meta (META) CEO Mark Zuckerberg正在开发一个AI助手来帮助他成为CEO。  Tesla和SpaceX计划在德克萨斯州建造一个新的芯片工厂。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-meta-ceo-mark-zuckerberg-173809972.html",
+          "title_en": "Meta’s (META) CEO Mark Zuckerberg is Developing an AI Agent to Help Him be CEO Tesla and SpaceX Plan to Build a New Chip Factory in Texas"
+        },
         {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
@@ -429,164 +446,164 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "Snap 股价上涨，激进投资者增持新股份",
+          "time": "2026-04-02 12:41:11",
+          "title": "美元正在追踪自2024年以来最好的季度",
           "summary": "",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/snap-stock-gains-after-new-activist-investor-takes-stake-y0pnq9GpCryWwrXjnyO4?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Snap Stock Gains After Activist Investor Takes New Stake"
+          "url": "https://www.barrons.com/articles/us-dollar-index-iran-war-42f3e230?siteid=yhoof2&yptr=yahoo",
+          "title_en": "The Dollar Is Tracking Its Best Quarter Since 2024"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "马克ита将收购松下电工的电动工具业务",
+          "time": "2026-04-02 12:41:11",
+          "title": "TD SYNNEX Corporation Q1 2026财报电话会议总结\n\nTD SYNNEX Corporation 公布了 Q1 2026财报，公司报告了收入和利润的增长。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/makita-acquire-panasonics-power-tool-161204021.html",
-          "title_en": "Makita to Acquire Panasonic's Power Tool Business"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/td-synnex-corporation-q1-2026-164559081.html",
+          "title_en": "TD SYNNEX Corporation Q1 2026 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "巴里克矿业公司（B）因强劲黄金价格大幅上涨",
+          "time": "2026-04-02 12:41:11",
+          "title": "豆类价格上涨，预期种植面积低于预期",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/barrick-mining-corporation-b-surged-161659991.html",
-          "title_en": "Barrick Mining Corporation (B) Surged on Strong Gold Prices"
+          "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-rallying-acres-seen-lower-164917509.html",
+          "title_en": "Soybeans Rallying as Acres Seen Lower than Expected"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "Affiliated Managers Group（AMG）股价上涨，受益于替代投资解决方案的强烈需求。",
+          "time": "2026-04-02 12:41:11",
+          "title": "玉米价格反弹，受益于股市数据的好转",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/affiliated-managers-group-amg-advanced-161454502.html",
-          "title_en": "Affiliated Managers Group (AMG) Advanced on Strong Demand for Alternative Investment Solutions"
+          "url": "https://finance.yahoo.com/markets/commodities/articles/corn-bouncing-following-positive-stocks-164917571.html",
+          "title_en": "Corn Bouncing Following Positive Stocks Data"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "莫西克公司（MOS）受益于磷酸盐市场紧张局势，但其财报出色表现未能带动股价上涨",
+          "time": "2026-04-02 12:41:11",
+          "title": "约翰逊&约翰逊终于开始反弹",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mosaic-company-mos-declined-mixed-161404456.html",
-          "title_en": "The Mosaic Company (MOS) Declined on Mixed Earnings Despite Tight Phosphate Market Outlook"
+          "url": "https://www.investors.com/research/ibd-stock-of-the-day/johnson-and-johnson-stock-rebounding-10-week-moving-average/?src=A00220&yptr=yahoo",
+          "title_en": "Why Johnson & Johnson Is Rebounding — Finally"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "旗舰收购的Q4财报电话会议亮点",
+          "time": "2026-04-02 12:41:11",
+          "title": "Changee Holdings Limited美国存托凭证Q4 2025财报电话会议摘要",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/flag-ship-acquisition-q4-earnings-160854466.html",
-          "title_en": "Flag Ship Acquisition Q4 Earnings Call Highlights"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/chagee-holdings-limited-american-depositary-164415700.html",
+          "title_en": "Chagee Holdings Limited American Depositary Shares Q4 2025 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "随着甲骨文面临压力，这种悲观交易可能成为一种选择。",
+          "time": "2026-04-02 12:41:11",
+          "title": "Xtant Medical Holdings, Inc.第四季度2025年财报电话会议总结",
           "summary": "",
-          "url": "https://www.investors.com/research/options/oracle-orcl-stock-bear-put-spread-options/?src=A00220&yptr=yahoo",
-          "title_en": "With Oracle Under Pressure, This Bearish Trade Is One Possibility"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/xtant-medical-holdings-inc-q4-164703488.html",
+          "title_en": "Xtant Medical Holdings, Inc. Q4 2025 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "约翰逊·约翰逊（JNJ）受益于成长管道和各个关键治疗领域的强劲表现。",
+          "time": "2026-04-02 12:41:11",
+          "title": "T1能源公司2025年第四季度财报电话会议总结",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-jnj-benefits-growth-160548994.html",
-          "title_en": "Johnson & Johnson (JNJ) Benefits from Growth Pipeline and Strength Across Key Therapeutic Areas"
+          "url": "https://finance.yahoo.com/sectors/energy/articles/t1-energy-inc-q4-2025-164628470.html",
+          "title_en": "T1 Energy Inc Q4 2025 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "FactSet Research Systems Q2财报电话会议亮点：",
+          "time": "2026-04-02 12:41:11",
+          "title": "麦克莫里克公司2026年第一季度财报电话会议总结",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/factset-research-systems-q2-earnings-160854245.html",
-          "title_en": "FactSet Research Systems Q2 Earnings Call Highlights"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mccormick-company-incorporated-q1-2026-164524749.html",
+          "title_en": "McCormick & Company, Incorporated Q1 2026 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "吉姆·克拉默推荐维京控股(Viking Holdings)比嘉盛集团(Carnival Corporation)和皇家加勒比巡游(Royal Caribbean)更值得投资。",
+          "time": "2026-04-02 12:41:11",
+          "title": "投资者应该根据自己的风险承受能力和投资目标来决定在养老基金中持有的黄金比例。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-recommends-viking-holdings-160457585.html",
-          "title_en": "Jim Cramer Recommends Viking Holdings Over Carnival Corporation and Royal Caribbean"
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/how-much-gold-should-you-hold-in-a-retirement-portfolio-165308216.html",
+          "title_en": "How much gold should you hold in a retirement portfolio?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "詹姆斯·克拉默（Jim Cramer）对Robinhood的看法：“我认为它仍然有下跌的空间，即使我认为它是一个非常好的公司”。",
+          "time": "2026-04-02 12:41:11",
+          "title": "币安的竞争对手 KuCoin 因违反美国证券法规而面临永久禁令和 30 亿美元罚款。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-robinhood-think-still-160452038.html",
-          "title_en": "Jim Cramer on Robinhood: “I Think It Still Has Room to Go Down, Even as I Think It’s a Very Good Company”"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/kucoin-hit-permanent-u-ban-165300493.html",
+          "title_en": "KuCoin Hit with Permanent U.S. Ban and $300M in Penalties"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "詹姆斯·克拉默（Jim Cramer）谈到CoreWeave：“我希望你能坚持下去”。",
+          "time": "2026-04-02 12:41:11",
+          "title": "黄金IRA与实物黄金：哪种投资更好？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-coreweave-want-keep-160451469.html",
-          "title_en": "Jim Cramer on CoreWeave: “I Want You to Keep It”"
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-ira-vs-physical-gold-224654072.html",
+          "title_en": "Gold IRA vs. physical gold: Which is the better investment?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "Aya Gold & Silver Q4 业绩电话会议亮点",
+          "time": "2026-04-02 12:41:11",
+          "title": "黄金个税可怀疑是一种好投资。黄金个税的优点包括：\n\n*   黄金价格波动较小，相对稳定。\n*   黄金可以作为避险资产。\n*   黄金个税可以帮助分散投资组合。\n\n黄金个税的缺点包括：\n\n*   黄金价格可能会下跌。\n*   黄金个税的管理费可能较高。\n*   黄金个税可能需要存储在特定的机构中。\n\n黄金个税适合：\n\n*   对于希望避险的投资者。\n*   对于希望分散投资组合的投资者。\n*   对于希望投资黄金的投资者。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/aya-gold-silver-q4-earnings-160856667.html",
-          "title_en": "Aya Gold & Silver Q4 Earnings Call Highlights"
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/is-gold-ira-good-investment-165004455.html",
+          "title_en": "Is a gold IRA a good investment? Pros, cons, and who it's for."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "吉姆·克拉默称Uber Technologies“长期价值股”。",
+          "time": "2026-04-02 12:41:11",
+          "title": "美国最昂贵的邮政编码区能否负担得起？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-uber-technologies-160455392.html",
-          "title_en": "Jim Cramer on Says Uber Technologies “Represents Long-Term Great Value”"
+          "url": "https://finance.yahoo.com/economy/articles/salary-needed-afford-america-priciest-114900032.html",
+          "title_en": "Salary Needed To Afford America’s Priciest ZIP Codes"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "吉姆·克拉默表示他喜欢AeroVironment，但他们有一个正在争议中的合同。",
+          "time": "2026-04-02 12:41:11",
+          "title": "黄金 IRA 与传统 IRA 的区别在于投资品种。黄金 IRA 可以投资黄金、白银、贵金属等，而传统 IRA 则通常投资股票、债券、房地产等。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-likes-aerovironment-160500061.html",
-          "title_en": "Jim Cramer Says He Likes AeroVironment “But They Have This Contract That’s Being Contested”"
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-ira-vs-traditional-ira-whats-the-difference-211000312.html",
+          "title_en": "Gold IRA vs. traditional IRA: What's the difference?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "吉姆·克雷默说：“我认为如果他们合并，我们会喜欢新麦克莫里克公司。”",
+          "time": "2026-04-02 12:41:11",
+          "title": "FactSet Research Systems Inc. Q2 2026财报电话会议总结",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-think-ll-160436851.html",
-          "title_en": "Jim Cramer Says “I Think That We’ll Like a New McCormick, If They Do Merge”"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/factset-research-systems-inc-q2-164238881.html",
+          "title_en": "FactSet Research Systems Inc. Q2 2026 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "吉姆·克拉默称康耐佳（Conagra Brands）高股息率“历史上是不合理的水平”。",
+          "time": "2026-04-02 12:41:11",
+          "title": "比特农场(Bitfarms Ltd.)2025年第四季度财报电话会议总结",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-conagra-brands-160441806.html",
-          "title_en": "Jim Cramer Says Conagra Brands’ High Dividend Is on “Historically an Unsustainable Level”"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bitfarms-ltd-q4-2025-earnings-164201835.html",
+          "title_en": "Bitfarms Ltd. Q4 2025 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 12:10:49",
-          "title": "吉姆·克拉默谈伯克希尔哈撒韦：\"我会持有它一年\"",
+          "time": "2026-04-02 12:41:11",
+          "title": "汽油价格首次突破4美元自2022年以来—查看您州的油价",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-berkshire-hathaway-hold-160449663.html",
-          "title_en": "Jim Cramer on Berkshire Hathaway: “I Would hold on to It for a Year”"
+          "url": "https://finance.yahoo.com/sectors/energy/articles/gas-prices-cross-4-first-165112629.html",
+          "title_en": "Gas Prices Cross $4 for the First Time Since 2022—See What You’ll Pay at the Pump in Your State"
         }
       ]
     }
