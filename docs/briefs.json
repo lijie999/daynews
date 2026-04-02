@@ -1,6 +1,6 @@
 {
   "date": "2026.04.03",
-  "generatedAtBJT": "2026-04-03 04:32:49",
+  "generatedAtBJT": "2026-04-03 05:04:38",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-03 04:32:49",
+          "time": "2026-04-03 05:04:38",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因素：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再",
+          "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→纳斯达克指数/标普500指数承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且VIX抬升→偏纳斯达克指数/标普500指数先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且VIX回落→偏纳斯达克指数/标普500指数修复反弹、黄金价格喘息；操作",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Dow Jones Futures Rise, Oil Prices Fall Below $100; Trump To Speak To Na…\n- 宏观/Fed线索：The March jobs report will be released on Friday. Here's what to expect…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Factbox-How many people have been killed in the Iran war?…\n- 宏观/Fed线索：Private sector added 62,000 jobs in March, above expectations, ADP says…"
         }
       ]
     },
@@ -29,29 +29,47 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "帕拉尼特的巨大军事AI成绩是否足以在这些价格购买该股票？",
+          "time": "2026-04-03 05:04:33",
+          "title": "西部数码和赛刚在3月份的反弹减弱，但华尔街称AI需求“强劲”。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/does-palantirs-massive-military-ai-121500100.html",
-          "title_en": "Does Palantir's Massive Military AI Score Justify Buying the Stock at These Prices?"
+          "url": "https://www.investors.com/news/technology/seagate-stock-western-digital-stock-pullback-ai-demand-robust/?src=A00220&yptr=yahoo",
+          "title_en": "Seagate And Western Digital Rallies Cooled In March. But Wall Street Says AI Demand 'Robust.'"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-03 05:04:33",
+          "title": "在Meta Platforms股价今天的反弹中，是否应该追赶？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/chase-rally-meta-platforms-stock-130329165.html",
+          "title_en": "Should You Chase the Rally in Meta Platforms Stock Today?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-03 05:04:33",
+          "title": "Atlassian Corp.(TEAM) 下跌，引发人工智能自动化的担忧。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/atlassian-corp-team-fell-amid-124901177.html",
+          "title_en": "Atlassian Corp. (TEAM) Fell Amid Concerns of AI automation"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-03 05:04:33",
+          "title": "NVIDIA即将接近其20日移动平均线。回归的迹象出现了吗？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-fast-approaching-20-day-131328210.html",
+          "title_en": "Nvidia Is Fast Approaching Its 20-Day Moving Average. Is a Comeback Brewing?"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
+          "time": "2026-04-03 05:04:33",
           "title": "美国劳工局（NLRB）表示，亚马逊必须与斯坦顿岛仓库工人进行谈判",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/amazon-must-negotiate-with-statenisland-warehouse-workers-nlrb-says-4596326",
           "title_en": "Amazon must negotiate with Staten Island warehouse workers, NLRB says"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "微软在调整策略后达成Copilot销售目标 - 布隆伯格",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/microsoft-hits-copilot-sales-goals-after-strategy-shift--bloomberg-93CH-4596295",
-          "title_en": "Microsoft hits Copilot sales goals after strategy shift - Bloomberg"
         },
         {
           "source": "MarketWatch-Top",
@@ -72,16 +90,6 @@
           "url": "https://www.cnbc.com/2026/04/02/openai-acquires-tech-podcast-tbpn.html",
           "title_en": "OpenAI acquires popular tech podcast TBPN",
           "summary_en": "OpenAI did not disclose the terms of the deal but said TBPN will be housed within its strategy organization."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-04-03 03:00:00",
-          "title": "这家航天股热火朝天——亚马逊和SpaceX都可能要买它",
-          "summary": "亚马逊收购Globalstar可能会为其与Starlink竞争提供帮助。",
-          "url": "https://www.marketwatch.com/story/this-space-stock-is-hot-and-both-amazon-and-spacex-may-want-to-buy-it-069b541e?mod=mw_rss_topstories",
-          "title_en": "This space stock is hot — and both Amazon and SpaceX may want to buy it",
-          "summary_en": "Acquiring Globalstar could give Amazon a helping hand as it seeks to compete with Starlink."
         },
         {
           "source": "CNBC-Top",
@@ -132,16 +140,6 @@
           "url": "https://www.cnbc.com/2026/04/01/five-key-questions-apple-faces-entering-its-second-half-century.html",
           "title_en": "Five key questions Apple faces entering its second half-century",
           "summary_en": "As Apple turns 50, the iPhone maker faces questions about succession, its role in AI and whether it can maintain a premium brand."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-04-01 17:02:36",
-          "title": "中国人工智能\"老虎\"智普股价暴涨35%，首次财报收入翻倍",
-          "summary": "中国人工智能公司智普股价大涨超过30%，这是该公司在上市后首次发布财报，财报显示其收入增长强劲。",
-          "url": "https://www.cnbc.com/2026/04/01/china-ai-tiger-zhipu-shares-surge-revenue-growth-first-earnings-report.html",
-          "title_en": "Shares of China AI 'tiger' Zhipu surge 35% after revenue doubles in first earnings report",
-          "summary_en": "Shares of Chinese AI company Zhipu surged over 30% in trading, after posting strong revenue growth in its first earnings report since its IPO."
         }
       ]
     },
@@ -149,6 +147,24 @@
       "name": "美联储与政策",
       "badge": "Fed / Policy",
       "items": [
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-03 05:04:33",
+          "title": "私营部门3月份新增62万个工作岗位，超过预期，ADP表示。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/economy/articles/private-sector-added-62-000-130006889.html",
+          "title_en": "Private sector added 62,000 jobs in March, above expectations, ADP says"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-03 05:04:33",
+          "title": "高林纳（High Liner）将裁员以应对第一季度利润率受挫。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/jobs-high-liner-q1-margins-130351248.html",
+          "title_en": "Jobs to go at High Liner as Q1 margins squeezed"
+        },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
@@ -176,22 +192,33 @@
       "badge": "Risk / Oil / Gold",
       "items": [
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "道琼斯指数期货上涨，原油价格跌破100美元；特朗普将与全国人士讨论伊朗战争",
+          "time": "2026-04-03 05:04:33",
+          "title": "伊朗战争中死亡人数统计",
           "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-war-exit-oil-prices-sandisk-stock/?src=A00220&yptr=yahoo",
-          "title_en": "Dow Jones Futures Rise, Oil Prices Fall Below $100; Trump To Speak To Nation On Iran War"
+          "url": "https://www.investing.com/news/stock-market-news/factboxhow-many-people-have-been-killed-in-the-iran-war-4596504",
+          "title_en": "Factbox-How many people have been killed in the Iran war?"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "截至2026年4月1日，石油的当前价格。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/current-price-oil-april-1-121329949.html",
-          "title_en": "Current price of oil as of April 1, 2026"
+          "time": "2026-04-03 04:36:04",
+          "title": "布伦特原油现货价格大幅上涨至每桶141美元，创2008年金融危机以来新高。",
+          "summary": "布伦特原油期货价格给市场造成了一个虚假的安全感，Energy Aspects创始人Amrita Sen说。",
+          "url": "https://www.cnbc.com/2026/04/02/dated-brent-oil-price-actual-cargo-highest-level-2008.html",
+          "title_en": "Brent oil spot price for actual cargo soars to $141, highest level since 2008 financial crisis",
+          "summary_en": "The Brent oil futures price is giving the market a false sense of security, said Amrita Sen, founder of Energy Aspects."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-04-03 04:34:00",
+          "title": "全球石油库存可能很快降至危及运作的水平，从而引发更多的短缺。",
+          "summary": "霍尔木兹海峡重新开放后，预计将需要四个月才能恢复到战争前水平，摩根大通表示。",
+          "url": "https://www.marketwatch.com/story/global-oil-stockpiles-could-sink-to-critically-disruptive-levels-soon-sparking-more-shortages-87a3ff1d?mod=mw_rss_topstories",
+          "title_en": "Global oil stockpiles could sink to critically disruptive levels soon, sparking more shortages",
+          "summary_en": "After the Strait of Hormuz reopens, a full recovery to prewar levels may take about four months, J.P. Morgan says."
         },
         {
           "source": "MarketWatch-Top",
@@ -214,16 +241,6 @@
           "summary_en": "Oil prices are surging as the market prepares for a longer U.S. war with Iran after President Donald Trump's national address."
         },
         {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-04-03 03:06:00",
-          "title": "美国油价首次自2022年以来突破布伦特油价，特朗普承诺对伊朗“极其严厉”",
-          "summary": "特朗普总统周三的讲话让投资者担心伊朗冲突的升级。",
-          "url": "https://www.marketwatch.com/story/oil-prices-rise-over-7-as-trump-speech-leads-to-uncertainty-on-iran-war-c544dd6e?mod=mw_rss_topstories",
-          "title_en": "U.S. oil prices top Brent for the first time since 2022 after Trump vows to hit Iran ‘extremely hard’",
-          "summary_en": "President Donald Trump’s address on Wednesday has left investors with concerns over a potential escalation for the Iran conflict."
-        },
-        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-04-03 02:59:44",
@@ -242,16 +259,6 @@
           "url": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html",
           "title_en": "U.S. oil prices soar 11% as Trump's Iran war speech stokes fears of further escalation",
           "summary_en": "Oil surged as Trump in his address to the nation on Iran war said that he expected the conflict to last another two to three weeks."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-04-03 02:54:00",
-          "title": "霍尔木兹海峡完全恢复通航后，这将对全球石油市场至关重要。",
-          "summary": "霍尔木兹海峡何时完全恢复还不得而知，但重建中东的能源基础设施和恢复生产才是全球石油市场最关心的问题。",
-          "url": "https://www.marketwatch.com/story/when-the-strait-of-hormuz-fully-reopens-this-will-be-crucial-to-global-oil-markets-8f7d2458?mod=mw_rss_topstories",
-          "title_en": "When the Strait of Hormuz fully reopens, this will be crucial to global oil markets",
-          "summary_en": "No one yet knows when the Strait of Hormuz will fully reopen, but rebuilding energy infrastructure and restoring production in the Middle East are what matter most to the global oil market."
         },
         {
           "source": "CNBC-Top",
@@ -352,6 +359,16 @@
           "url": "https://www.cnbc.com/2026/04/02/evs-autos-energy-oil-iran-war-electric-transport-fossil-fuels.html",
           "title_en": "EV demand is getting a boost from the Iran war — just as auto giants pivot back to combustion engines",
           "summary_en": "Various car selling platforms have reported a sharp increase in consumer interest for EVs since the Middle East crisis began."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-04-01 23:22:32",
+          "title": "特朗普称伊朗总统要求停火，但美国要求首先打开霍尔木兹海峡",
+          "summary": "美国和以色列在2月底发动对伊朗的袭击，引发了经济混乱和全球能源大规模中断。",
+          "url": "https://www.cnbc.com/2026/04/01/trump-iran-war-ceasefire.html",
+          "title_en": "Trump says Iran's president asked for ceasefire, but U.S. wants Hormuz Strait open first",
+          "summary_en": "The war began in late February when the U.S. and Israel launched strikes on Iran, causing economic turmoil and massive global energy disruptions."
         }
       ]
     },
@@ -359,15 +376,6 @@
       "name": "特斯拉链",
       "badge": "TSLA chain",
       "items": [
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "特斯拉一季度交付低于预期，销售下滑加剧",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/tesla-firstquarter-deliveries-miss-expectations-as-sales-slump-deepens-4595756",
-          "title_en": "Tesla first-quarter deliveries miss expectations as sales slump deepens"
-        },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
@@ -397,79 +405,79 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "投资银行称联合利华-麦克科米克交易“不具有吸引力价值”但“合理”。",
+          "time": "2026-04-03 05:04:33",
+          "title": "SBA 通信 (SBAC) 盈利电话会议记录",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/unilever-mccormick-deal-not-compelling-121500684.html",
-          "title_en": "Unilever-McCormick deal 'not compelling value' but 'makes sense', say investment banks"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sba-communications-sbac-earnings-call-130143159.html",
+          "title_en": "SBA Communications (SBAC) Earnings Call Transcript"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "SpaceX将成为超级IPO的试金石",
+          "time": "2026-04-03 05:04:33",
+          "title": "在Micron股价下跌32%后，是否应该购买其股票？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-seen-break-test-mega-120228923.html",
-          "title_en": "SpaceX seen as make-or-break test for mega IPOs"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-micron-stock-32-decline-130002439.html",
+          "title_en": "Should You Buy Micron Stock After Its 32% Decline?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "三件事情Nike投资者需要关注：股价暴跌后。",
+          "time": "2026-04-03 05:04:33",
+          "title": "BP新CEO承诺保持一致性，公司试图重建投资者信任",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/3-things-nike-investors-need-to-watch-with-the-stock-plunging-after-earnings-122317385.html",
-          "title_en": "3 things Nike investors need to watch with the stock plunging after earnings"
+          "url": "https://finance.yahoo.com/sectors/energy/articles/bps-ceo-pledges-consistency-company-125938721.html",
+          "title_en": "BP's New CEO Pledges Consistency as Company Tries to Rebuild Investor Trust"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "天然气领军企业在漏斗市场创造买点。百分百的增长激发了巨大的需求。",
+          "time": "2026-04-03 05:04:33",
+          "title": "策略维持STARC股息支付率为11.5%",
           "summary": "",
-          "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/antero-stock-natural-gas-stocks-to-watch/?src=A00220&yptr=yahoo",
-          "title_en": "Natural Gas Leader Fuels Buy Point In Leaky Market. Triple-Digit Growth Sparks Big Demand."
+          "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-holds-strc-dividend-payment-130300178.html",
+          "title_en": "Strategy Holds STRC Dividend Payment At 11.5%"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "数字真实地产(Digital Realty Trust)将于2026年第一季度发布财报，投资者预期公司将发布强劲的财务表现。",
+          "time": "2026-04-03 05:04:33",
+          "title": "BitGo推出对机构的加密货币融资",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/expect-digital-realty-trusts-q1-122537978.html",
-          "title_en": "What to Expect From Digital Realty Trust's Q1 2026 Earnings Report"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bitgo-launches-crypto-financing-institutions-130400583.html",
+          "title_en": "BitGo Launches Crypto Financing For Institutions"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "标普500指数投资者在噩梦般的市场中遭受了严重损失",
+          "time": "2026-04-03 05:04:33",
+          "title": "Alpha Cognition (ACOG) 2025 年第四季度财报电话会议录音",
           "summary": "",
-          "url": "https://www.investors.com/etfs-and-funds/etfs/sp-500-index-investors-burned-in-nightmare-scenario-market/?src=A00220&yptr=yahoo",
-          "title_en": "S&P 500 Index Investors Burned In Nightmare-Scenario Market"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alpha-cognition-acog-q4-2025-125932158.html",
+          "title_en": "Alpha Cognition (ACOG) Q4 2025 Earnings Transcript"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "数百万富人却感到不富裕——财务焦虑的巨大问题（以及快速解决方法）",
+          "time": "2026-04-03 05:04:33",
+          "title": "英特尔将以 1420 亿美元收购爱尔兰工厂Apollo的股份",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/articles/millions-millionaires-don-t-feel-120000676.html",
-          "title_en": "Millions of millionaires don’t feel rich — the big problem with financial anxiety (and how to solve it quickly"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-buy-back-apollo-stake-130343809.html",
+          "title_en": "Intel to buy back Apollo stake in Ireland factory for $14.2 billion"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "预告：T-Mobile财报将带来什么",
+          "time": "2026-04-03 05:04:33",
+          "title": "Expedia Group（EXPE）：Artisan Mid Cap Value基金的总体贡献者",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-t-mobiles-122919587.html",
-          "title_en": "Earnings Preview: What To Expect From T-Mobile's Report"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/expedia-group-expe-artisan-mid-130834590.html",
+          "title_en": "Expedia Group (EXPE): Artisan Mid Cap Value Fund’s Top Overall Contributor"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
+          "time": "2026-04-03 05:04:33",
           "title": "分析报告：BJ的超市俱乐部控股公司",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_2775_AnalystReport_1775148173000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -478,83 +486,83 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "一年前，我们重点推荐了3家低估的股息贵族：看看它们的表现和3个新推荐",
+          "time": "2026-04-03 05:04:33",
+          "title": "Palantir技术公司（PLTR）交易价格/销售额比率已达100+",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/highlighted-3-undervalued-dividend-aristocrats-121511464.html",
-          "title_en": "We Highlighted 3 Undervalued Dividend Aristocrats a Year Ago: Here’s How They Did and 3 New Picks"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-traded-100-price-125521377.html",
+          "title_en": "Palantir Technologies (PLTR) is Trading at 100+ Price/Sales Ratio"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "紫罗兰创新公司2025年第四季度财报电话会议总结",
+          "time": "2026-04-03 05:04:33",
+          "title": "为什么HubSpot (HUBS)股价在2025年暴跌超过40%",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/purple-innovation-inc-q4-2025-123000776.html",
-          "title_en": "Purple Innovation, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-hubspot-hubs-shares-crashed-130016391.html",
+          "title_en": "Here’s Why HubSpot (HUBS) Shares Crashed More Than 40% in 2025"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "BIO-key国际, Inc. 2025年第四季度财报电话会议总结",
+          "time": "2026-04-03 05:04:33",
+          "title": "Healthpeak Properties收益预测：值得期待",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bio-key-international-inc-q4-123000283.html",
-          "title_en": "BIO-key International, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/healthpeak-properties-earnings-preview-expect-130907633.html",
+          "title_en": "Healthpeak Properties Earnings Preview: What to Expect"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "法拉第未来智能电动汽车公司2025年第四季度财报电话会议总结",
+          "time": "2026-04-03 05:04:33",
+          "title": "诺夫 (NOV) 突破高点，业绩超过市场预期",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/faraday-future-intelligent-electric-inc-123000587.html",
-          "title_en": "Faraday Future Intelligent Electric Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nov-nov-surged-following-earnings-131305850.html",
+          "title_en": "NOV (NOV) Surged Following Earnings Exceeding Expectations"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "B.O.S. Better Online Solutions Ltd.第四季度2025年财报电话会议总结",
+          "time": "2026-04-03 05:04:33",
+          "title": "Artisan Mid Cap价值基金对First Citizens BancShares (FCNCA)的看法",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/b-o-better-online-solutions-123000094.html",
-          "title_en": "B.O.S. Better Online Solutions Ltd. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/artisan-mid-cap-value-fund-131615692.html",
+          "title_en": "Artisan Mid Cap Value Fund’s Views on First Citizens BancShares (FCNCA)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "2026年每个人都应该遵循的会计师认可的税务提示有三项。",
+          "time": "2026-04-03 05:04:33",
+          "title": "你是否应该持有Vontier Corporation（VNT）？",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/3-accountant-approved-tax-tips-121204505.html",
-          "title_en": "3 Accountant-Approved Tax Tips Everyone Should Follow in 2026"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hold-vontier-corporation-vnt-132510371.html",
+          "title_en": "Should You Hold Vontier Corporation (VNT)?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "Co-Diagnostics, Inc. 2025年第四季度财报电话会议总结",
+          "time": "2026-04-03 05:04:33",
+          "title": "耐克股价暴跌11%，令人失望的预测：是次时代买点还是陷阱？",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/co-diagnostics-inc-q4-2025-123000631.html",
-          "title_en": "Co-Diagnostics, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nike-plummets-11-disappointing-forecast-130529606.html",
+          "title_en": "Nike Plummets 11% on Disappointing Forecast: Generational Buy or Value Trap?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "KULR技术集团公司2025年第四季度财报电话会议总结",
+          "time": "2026-04-03 05:04:33",
+          "title": "美国汽车制造商在销售下滑的情况下仍推出新一代电动汽车。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/kulr-technology-group-inc-q4-123000053.html",
-          "title_en": "KULR Technology Group, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/sectors/technology/articles/kia-sell-lower-priced-electric-132608783.html",
+          "title_en": "Automakers unveil new EVs for US market despite sales downturn"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:32:45",
-          "title": "奥默斯公司2025年第四季度财报电话会议总结",
+          "time": "2026-04-03 05:04:33",
+          "title": "玉米价格周三回落",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/omeros-corporation-q4-2025-earnings-123000688.html",
-          "title_en": "Omeros Corporation Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/commodities/articles/corn-falling-back-wednesday-123149503.html",
+          "title_en": "Corn Falling Back on Wednesday"
         }
       ]
     }
