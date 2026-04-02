@@ -1,6 +1,6 @@
 {
   "date": "2026.04.02",
-  "generatedAtBJT": "2026-04-02 08:07:39",
+  "generatedAtBJT": "2026-04-02 08:38:04",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-02 08:07:39",
+          "time": "2026-04-02 08:38:04",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→",
+          "summary": "- 主导因素：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Current price of oil as of March 31, 2026…\n- 宏观/Fed线索：Wall Street's rough month, Powell's inflation outlook, GLP-1 subscriptio…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：US stock futures steady with Trump address, Iran ceasefire in focus…\n- 宏观/Fed线索：Best CD rates today, March 31, 2026: Lock in up to 4.15% APY today…"
         }
       ]
     },
@@ -29,38 +29,101 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "Jensen Huang刚刚将Nvidia的订单预测提升至1万亿美元。您是否应该购买该AI股——还是市场已经将其价格包含在内了？",
+          "time": "2026-04-02 08:37:59",
+          "title": "购买低点？这个人工智能代理会为你做这件事",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-just-raised-nvidias-123000939.html",
-          "title_en": "Jensen Huang Just Raised Nvidia's Order Outlook to $1 Trillion. Should You Buy the AI Stock -- or Has the Market Already Priced It in?"
+          "url": "https://www.wsj.com/tech/ai/buying-the-dip-this-ai-agent-will-do-it-for-you-1d2b1658?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Buying the Dip? This AI Agent Will Do It for You"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "Nvidia投入20亿美元押注马威尔，随着人工智能的普及，竞争加剧",
+          "time": "2026-04-02 08:37:59",
+          "title": "台湾积体电路制造股份有限公司（TSM）受强需求和其领先的制造能力带来利益",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-invests-2-billion-marvell-121018092.html",
-          "title_en": "Nvidia bets $2 billion on Marvell as rising AI adoption fuels competition"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-limited-130902244.html",
+          "title_en": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Gains from Strong Demand and Its Industry-Leading Manufacturing Capabilities"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 08:37:59",
+          "title": "Delta Air Lines将与OneWeb合作，提供卫星互联网服务。",
+          "summary": "",
+          "url": "https://www.investors.com/news/technology/amazon-stock-project-leo-satelittes-delta/?src=A00220&yptr=yahoo",
+          "title_en": "Amazon's Starlink Competitor Will Provide Satellite Internet Services To Delta"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 08:37:59",
+          "title": "Nvidia刚刚给Marvell Technology发出了最强的买入信号",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-handed-marvell-technology-130337150.html",
+          "title_en": "Nvidia Just Handed Marvell Technology the Ultimate Buy Signal"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 08:37:59",
+          "title": "CoreWeave获得8.5亿美元贷款以扩大AI基础设施",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/coreweave-secures-8-5-billion-130401875.html",
+          "title_en": "CoreWeave secures $8.5 billion loan to expand AI infrastructure"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 08:37:59",
+          "title": "雅克解决方案（J）正趋利于人工智能革命",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jacobs-solutions-j-poised-thrive-131625842.html",
+          "title_en": "Jacobs Solutions (J) Poised to Thrive Amidst AI Revolution"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 08:37:59",
+          "title": "Generation Investment Management 因为对人工智能冲击的恐惧而出售了 Gartner (IT) 股票。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/generation-investment-management-sold-gartner-132357728.html",
+          "title_en": "Generation Investment Management Sold Gartner (IT) Due to Fear of AI Disruption"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 08:37:59",
+          "title": "我终于在上周买入了Nvidia股票的三个原因",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-why-finally-bought-130200246.html",
+          "title_en": "3 Reasons Why I Finally Bought Nvidia Stock Last Week"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 08:37:59",
+          "title": "伯克希尔的巴菲特谈苹果出售：‘我卖得太早了’",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buffett-apple-sale-sold-too-130203655.html",
+          "title_en": "Buffett on Apple sale: ‘I sold it too soon’"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "全球星股份大涨至18年来新高，据报道亚马逊正在与其进行收购谈判。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/globalstar-shares-surge-to-18yr-high-on-report-of-amazon-takeover-talks-4594477",
-          "title_en": "Globalstar shares surge to 18-yr high on report of Amazon takeover talks"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
+          "time": "2026-04-02 08:37:59",
           "title": "亚马逊与全球星（Globalstar）9亿美元的卫星业务进行谈判，财富时报报道。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/amazon-in-talks-to-buy-9-billion-satellite-group-globalstar-ft-reports-4594452",
           "title_en": "Amazon in talks to buy $9 billion satellite group Globalstar, FT reports"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 08:37:59",
+          "title": "全球星股份大涨至18年来新高，据报道亚马逊正在与其进行收购谈判。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/globalstar-shares-surge-to-18yr-high-on-report-of-amazon-takeover-talks-4594477",
+          "title_en": "Globalstar shares surge to 18-yr high on report of Amazon takeover talks"
         },
         {
           "source": "CNBC-Top",
@@ -131,56 +194,6 @@
           "url": "https://www.cnbc.com/2026/03/31/microsofts-stock-closes-worst-quarter-since-2008-financial-crisis.html",
           "title_en": "Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle'",
           "summary_en": "With Microsoft losing almost a quarter of its value this year, investors have reset the company's earnings multiple to the lowest since late 2022."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-04-01 05:34:37",
-          "title": "苹果对 AI 应用程序的打击让它站在了历史的错误一边",
-          "summary": "苹果公司背离了其50年前创立的使命，阻碍了人工智能编程，或者说是“心灵编程”。",
-          "url": "https://www.cnbc.com/2026/03/31/column-apples-crackdown-on-ai-apps-puts-it-wrong-side-of-history.html",
-          "title_en": "Column: Apple's crackdown on AI apps puts it on the wrong side of history",
-          "summary_en": "Apple is going against its founding mission from 50 years ago by standing in the way AI coding, or vibe-coding."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-04-01 05:08:30",
-          "title": "OpenAI完成历史性1220亿美元融资轮，市盈率预计将进一步上涨",
-          "summary": "总共募集了1220亿美元的认可资金，高于之前公布的1100亿美元。",
-          "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-          "title_en": "OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO",
-          "summary_en": "The round totaled $122 billion of committed capital, up from the $110 billion figure that was previously announced."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-04-01 04:55:26",
-          "title": "亚马逊同意与团结工会的案件和解，指控该公司对罢工工人采取报复行动。",
-          "summary": "团体工会称亚马逊非法扣除员工未取的假期时间，称这种做法是“非法胁迫”。",
-          "url": "https://www.cnbc.com/2026/03/31/amazon-settles-teamsters-warehouse-strike.html",
-          "title_en": "Amazon settles Teamsters case alleging it retaliated against striking workers",
-          "summary_en": "The Teamsters alleged Amazon illegally docked employees' unpaid time off after they walked off the job, calling the practice \"unlawfully coercive.\""
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-04-01 04:20:15",
-          "title": "甲骨文公司继续裁员数千人，公司继续增加人工智能支出。",
-          "summary": "甲骨文公司加大了资本支出，以建设能够处理人工智能负载的数据中心基础设施。",
-          "url": "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html",
-          "title_en": "Oracle cutting thousands in latest layoff round as company continues to ramp AI spending",
-          "summary_en": "Oracle has ratcheted up its capital expenditures as it builds data center infrastructure that can handle AI workloads."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-04-01 04:03:50",
-          "title": "Marvel尔股价大涨13%，因Nvidia投资2亿美元，继续类似的押注。",
-          "summary": "近期，Nvidia 在 CoreWeave、Nebius 和 Coherent 等公司投资了 200 亿美元。",
-          "url": "https://www.cnbc.com/2026/03/31/marvell-nvidia-stock-stake.html",
-          "title_en": "Marvell stock pops 13% as Nvidia takes $2 billion stake, continuing run of similar bets",
-          "summary_en": "Nvidia has also made $2 billion investments in CoreWeave, Nebius and Coherent in recent months."
         }
       ]
     },
@@ -189,14 +202,40 @@
       "badge": "Fed / Policy",
       "items": [
         {
-          "source": "CNBC-Tech",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-03-31 20:16:39",
-          "title": "华尔街的糟糕月份，鲍威尔的通胀预期，GLP-1订阅等在早晨的喷嚏中",
-          "summary": "今天市场投资者需要了解的五个关键信息。",
-          "url": "https://www.cnbc.com/2026/03/31/5-things-to-know-before-the-market-open.html",
-          "title_en": "Wall Street's rough month, Powell's inflation outlook, GLP-1 subscription and more in Morning Squawk",
-          "summary_en": "Here are five key things investors need to know to start the trading day."
+          "time": "2026-04-02 08:37:59",
+          "title": "截至2026年3月31日，最佳定期存款利率为最高4.15%年利率",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-cd-rates-today-march-31-2026-lock-in-up-to-4-1-5-apy-today-100000313.html",
+          "title_en": "Best CD rates today, March 31, 2026: Lock in up to 4.15% APY today"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 08:37:59",
+          "title": "截至2026年3月31日，最佳现金市场账户利率（最高可达4.01%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/copy-best-money-market-account-rates-today-tuesday-march-31-2026-100000721.html",
+          "title_en": "Best money market account rates today, March 31, 2026 (Earn up to 4.01% APY)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 08:37:59",
+          "title": "HELOC和家庭抵押贷款利率今日（3月31日），报告称，97%的可触摸资产未使用。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-march-31-2026-100000782.html",
+          "title_en": "HELOC and home equity loan rates today, March 31, 2026: 97% of tappable equity unused, report says"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 08:37:59",
+          "title": "今日房贷和再融资利率，3月31日，2026年：利率下降，债券受欢迎",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-march-31-2026-100000011.html",
+          "title_en": "Mortgage and refinance interest rates today, March 31, 2026: Lower, as bonds gain favor"
         }
       ]
     },
@@ -205,31 +244,22 @@
       "badge": "Risk / Oil / Gold",
       "items": [
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "截至2026年3月31日，石油的当前价格为。",
+          "time": "2026-04-02 08:37:59",
+          "title": "美国股指期货稳定，特朗普讲话和伊朗停火协议在关注之中。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/current-price-oil-march-31-123234820.html",
-          "title_en": "Current price of oil as of March 31, 2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "伊朗战争尚未影响美国汽车销量预测",
-          "summary": "",
-          "url": "https://finance.yahoo.com/economy/articles/why-iran-war-hasn-t-122500089.html",
-          "title_en": "Why the Iran war hasn’t yet affected US vehicle sales forecasts"
+          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-trump-address-iran-ceasefire-in-focus-4594529",
+          "title_en": "US stock futures steady with Trump address, Iran ceasefire in focus"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-02 07:49:52",
-          "title": "亚太市场料将延续反弹，投资者期待特朗普就伊朗战争发表讲话",
+          "time": "2026-04-02 08:12:58",
+          "title": "亚太市场继续反弹，投资者期待特朗普就伊朗战争发表讲话",
           "summary": "美国总统将在东部时间9点举行全国性讲话，或者在新加坡/香港时间9点。",
           "url": "https://www.cnbc.com/2026/04/02/asia-markets-today-live-trump-address-iran-war.html",
-          "title_en": "Asia-Pacific markets set to extend recovery as investors await Trump address on Iran war",
+          "title_en": "Asia-Pacific markets extend recovery as investors await Trump address on Iran war",
           "summary_en": "The U.S. president will address the nation at 9 p.m. Eastern Time, or 9 a.m. Singapore/Hong Kong time."
         },
         {
@@ -341,7 +371,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
+          "time": "2026-04-02 08:37:59",
           "title": "特斯拉Q1交付预计将在挑战性的电动汽车市场中略有反弹。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/tesla-q1-deliveries-expected-to-rebound-slightly-in-challenging-ev-landscape-123741922.html",
@@ -376,133 +406,142 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "玉米价格继续下滑，等待美国农业部发布的报告",
+          "time": "2026-04-02 08:37:59",
+          "title": "黄金 IRA 转换常见错误和如何避免它们",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/corn-weakness-extending-ahead-usda-123105545.html",
-          "title_en": "Corn Weakness Extending Ahead of USDA Reports"
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-ira-rollover-mistakes-120000806.html",
+          "title_en": "Common gold IRA rollover mistakes and how to avoid them"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "FTX将释放2.2亿美元给债权人，这可能意味着比特币和XRP的什么",
+          "time": "2026-04-02 08:37:59",
+          "title": "计算贷款支付和成本的方法包括：\n\n1. 确定贷款金额、利率和期限。\n2. 使用贷款计算器或手动计算公式计算每月支付。\n3. 考虑贷款的利息、手续费和其他费用。\n4. 计算总贷款成本，包括利息和费用。\n5. 比较不同贷款方案的成本和支付。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-news-ftx-releasing-2-122948241.html",
-          "title_en": "Crypto News: FTX Is Releasing $2.2 Billion to Creditors — Here’s What It Could Mean for Bitcoin and XRP"
+          "url": "https://finance.yahoo.com/markets/options/articles/calculate-loan-payments-costs-225352200.html",
+          "title_en": "How to calculate loan payments and costs"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "豆类价格周二上午略有上涨。",
+          "time": "2026-04-02 08:37:59",
+          "title": "霍利汉洛基（HLI）因重组业务减缓而下跌。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-showing-slight-gains-tuesday-123105718.html",
-          "title_en": "Soybeans Showing Slight Gains on Tuesday Morning"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/houlihan-lokey-hli-fell-slowdown-130321437.html",
+          "title_en": "Houlihan Lokey (HLI) Fell on Slowdown in Restructuring Activity"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "麦克莫里克和联合利华的食品业务刚刚宣布了一项辣得惊人的合并计划",
+          "time": "2026-04-02 08:37:59",
+          "title": "华尔街对麦克莫里克的前景表示谨慎，等待关键财报公布",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/mccormick-and-unilevers-foods-business-just-announced-a-spicy-merger-121657739.html",
-          "title_en": "McCormick and Unilever's foods business just announced a spicy merger"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-turns-cautious-mccormick-130705882.html",
+          "title_en": "Wall Street Turns Cautious on McCormick Ahead of Key Earnings Report"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "Constellation能源公司2025年第四季度财报电话会议总结",
+          "time": "2026-04-02 08:37:59",
+          "title": "BP PLC ADR的看涨期权收益率很高，值得投资者关注。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/constellation-energy-corporation-q4-2025-123000463.html",
-          "title_en": "Constellation Energy Corporation Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/options/articles/bp-plc-adrs-high-call-130003341.html",
+          "title_en": "BP PLC ADRs Have High Call Option Yields for Value Investors"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "zSpace, Inc. 2025年第四季度财报电话会议总结",
+          "time": "2026-04-02 08:37:59",
+          "title": "在美股市场，Good Friday和Easter Monday都是休市日。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/zspace-inc-q4-2025-earnings-123000134.html",
-          "title_en": "zSpace, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/is-the-stock-market-open-on-good-friday-and-easter-monday-210239007.html",
+          "title_en": "Is the stock market open on Good Friday and Easter Monday?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "维珍银河控股公司2025年第四季度财报电话会议总结",
+          "time": "2026-04-02 08:37:59",
+          "title": "投资黄金的7步\n\n1. 确定投资目标：了解黄金投资的目的和风险承受能力。\n2. 选择投资工具：黄金ETF、黄金期货、黄金基金、黄金存款等。\n3. 确定投资金额：根据投资目标和风险承受能力确定投资金额。\n4. 选择交易平台：选择合适的交易平台，例如Binance、eToro等。\n5. 开设交易账户：按照平台要求开设交易账户。\n6. 购买黄金：使用交易账户购买黄金。\n7. 监控投资：定期监控投资表现，调整投资策略。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/virgin-galactic-holdings-inc-q4-123000992.html",
-          "title_en": "Virgin Galactic Holdings, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-gold-181632105.html",
+          "title_en": "How to invest in gold in 7 steps"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "PAVmed Inc. 2025年第四季度财报电话会议总结",
+          "time": "2026-04-02 08:37:59",
+          "title": "Burford Capital价格目标降至7.50美元，原价18美元，B. Riley下调。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/pavmed-inc-q4-2025-earnings-123000747.html",
-          "title_en": "PAVmed Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/burford-capital-price-target-lowered-130529879.html",
+          "title_en": "Burford Capital price target lowered to $7.50 from $18 at B. Riley"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "J.Jill, Inc. 2026年第四季度财报电话会议总结",
+          "time": "2026-04-02 08:37:59",
+          "title": "如何计算你的房屋抵押价值——以及你可以提取的金额",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/j-jill-inc-q4-2026-123000321.html",
-          "title_en": "J.Jill, Inc. Q4 2026 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/options/articles/calculate-home-equity-055505667.html",
+          "title_en": "How to calculate your home equity — and how much you can tap"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "斯普鲁斯电力控股公司第四季度2025年财报电话会议摘要",
+          "time": "2026-04-02 08:37:59",
+          "title": "S&P环球(SPGI)从9月回落后反弹的原因",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/spruce-power-holding-corporation-q4-123000983.html",
-          "title_en": "Spruce Power Holding Corporation Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-p-global-inc-spgi-125720299.html",
+          "title_en": "Here’s Why S&P Global Inc (SPGI) Rebounded from September Pullback"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "金融犯罪的隐秘网络成为行业关注的焦点",
+          "time": "2026-04-02 08:37:59",
+          "title": "高盛建议将欧洲投资组合进行调整，以应对停滞通胀风险。",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/industry-spotlight-financial-crime-hidden-123247093.html",
-          "title_en": "Industry’s spotlight on financial crime’s hidden networks"
+          "url": "https://finance.yahoo.com/news/rotate-your-european-portfolio-to-prepare-for-stagflation-risk-goldman-sachs-says-125522124.html",
+          "title_en": "Rotate your European portfolio to prepare for stagflation risk, Goldman Sachs says"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "Innventure, Inc. Q4 2025年财报电话会议总结",
+          "time": "2026-04-02 08:37:59",
+          "title": "如何申请债务融资贷款的6步\n\n1. 检查您的信用评分：了解您的信用评分有助于您了解您是否符合贷款要求。\n2. 收集所需文件：您需要提供您的收入证明、身份证明、债务清单等文件。\n3. 比较贷款选项：研究不同贷款机构的利率、条件和费用。\n4. 提交贷款申请：填写贷款申请表格并提交所需文件。\n5. 等待批准：贷款机构会审查您的申请并决定是否批准您的贷款。\n6. 签订贷款合同：如果您的贷款被批准，您需要签订贷款合同并了解贷款条款。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/innventure-inc-q4-2025-earnings-123000748.html",
-          "title_en": "Innventure, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/options/articles/qualify-debt-consolidation-loan-221839444.html",
+          "title_en": "How to get a debt consolidation loan in 6 steps"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "Fermi Inc. 2025年第四季度财报电话会议总结",
+          "time": "2026-04-02 08:37:59",
+          "title": "特朗普支持的美国比特币现已持有7,000枚比特币。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fermi-inc-common-stock-q4-123000151.html",
-          "title_en": "Fermi Inc. Common Stock Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/trump-backed-american-bitcoin-now-131100752.html",
+          "title_en": "Trump-Backed American Bitcoin Now Owns 7,000 BTC"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "Progress Software Corporation Q1 2026财报电话会议总结",
+          "time": "2026-04-02 08:37:59",
+          "title": "AppLovin 股票40%的滑落被认为是与基本面不符。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/progress-software-corporation-q1-2026-123000929.html",
-          "title_en": "Progress Software Corporation Q1 2026 Earnings Call Summary"
+          "url": "https://www.investors.com/news/technology/applovin-stock-app-news-analyst/?src=A00220&yptr=yahoo",
+          "title_en": "AppLovin Stock's 40% Slide Called 'Out Of Step' With Fundamentals"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
+          "time": "2026-04-02 08:37:59",
+          "title": "道氏公司(Dow Inc.)下一季度财报将带来什么",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/expect-dow-inc-next-quarterly-124732763.html",
+          "title_en": "What to Expect From Dow Inc.'s Next Quarterly Earnings Report"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-02 08:37:59",
           "title": "分析报告：火箭公司（Rocket Cos Inc）",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_5979_AnalystReport_1775064049000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -511,29 +550,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "索拉纳公司2025年第四季度财报电话会议总结",
+          "time": "2026-04-02 08:37:59",
+          "title": "Robinhood市场（HOOD）因客户参与度软化而下跌。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/solana-company-q4-2025-earnings-123000064.html",
-          "title_en": "Solana Company Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-markets-hood-traded-lower-124540177.html",
+          "title_en": "Robinhood Markets (HOOD) Traded Lower Due to Softening Customer Engagement"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "前a16z加密投资人筹集10亿美元启动稳定币清算中心Better Money",
+          "time": "2026-04-02 08:37:59",
+          "title": "卡莱尔增持MAI资本股份并以多数股权收购",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/exclusive-former-a16z-crypto-investor-123000113.html",
-          "title_en": "Exclusive: Former a16z crypto investor raises $10 million to launch stablecoin clearinghouse Better Money"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-02 08:07:34",
-          "title": "HireQuest, Inc. 2025年第四季度财报电话会议总结",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/hirequest-inc-q4-2025-earnings-123000938.html",
-          "title_en": "HireQuest, Inc. Q4 2025 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/carlyle-ups-stake-mai-capital-130831278.html",
+          "title_en": "Carlyle Ups Stake in MAI Capital with Majority Acquisition"
         }
       ]
     }
