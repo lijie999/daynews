@@ -1,6 +1,6 @@
 {
   "date": "2026.04.03",
-  "generatedAtBJT": "2026-04-03 20:23:40",
+  "generatedAtBJT": "2026-04-03 20:54:32",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-03 20:23:40",
+          "time": "2026-04-03 20:54:32",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因素：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再",
+          "summary": "- 主要驱动因素：10年期利率 + 原油价格/风险事件\n- 四个关键指标监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：The Tech Download: Defense startups eye Iran war windfall as U.S. and Gu…\n- 宏观/Fed线索：The March jobs report will be released on Friday. Here's what to expect…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Royalty Pharma, Johnson & Johnson Strike $500M Autoimmune Drug Deal…\n- 宏观/Fed线索：Deutsche Bank Highlights Inflation and Currency Headwinds for P&G…"
         }
       ]
     },
@@ -26,6 +26,52 @@
       "name": "七姐妹与半导体链",
       "badge": "Mag7 / Semis",
       "items": [
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-03 20:54:25",
+          "title": "霍尼韦尔与Rhombus合作推出人工智能安全平台",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/honeywell-partners-rhombus-launch-ai-012658371.html",
+          "title_en": "Honeywell Partners with Rhombus to Launch AI-Powered Security Platform"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-03 20:54:25",
+          "title": "Truist谨慎看好康宁（GLW），尽管强大的人工智能和云计算支撑",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/truist-cautious-corning-glw-despite-012849072.html",
+          "title_en": "Truist Cautious on Corning (GLW) Despite Strong AI and Cloud Spending Tailwinds"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-03 20:54:25",
+          "title": "IBM与瑞士联邦理工学院（ETH Zurich）合作开展10年人工智能和量子计算研究计划",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/ibm-partners-eth-zurich-10-014432784.html",
+          "title_en": "IBM Partners with ETH Zurich on 10-Year AI and Quantum Computing Initiative"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-03 20:54:25",
+          "title": "NVIDIA高管、工程师和CEO薪酬比例",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-salaries-executives-engineers-ceo-014151814.html",
+          "title_en": "Nvidia salaries: Executives, engineers & CEO pay ratio"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-03 20:30:01",
+          "title": "Meta和Google面临法律挑战，30年前的法律保护被绕过",
+          "summary": "互联网平台长期以来一直可以依赖特殊保护来避免因其网站上发生的事情承担责任。但这可能正在改变。",
+          "url": "https://www.cnbc.com/2026/04/03/meta-google-under-attack-court-cases-bypass-30-year-old-legal-shield.html",
+          "title_en": "Meta, Google under attack as court cases bypass 30-year-old legal shield",
+          "summary_en": "Internet platforms have long been able to rely on special protections to avoid liability for what takes place on their sites. But that may be changing."
+        },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
@@ -83,14 +129,77 @@
       "badge": "Fed / Policy",
       "items": [
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 04:04:41",
-          "title": "即将公布的3月份就业报告将于周五发布。",
-          "summary": "美国经济预计在3月份创造59万个就业岗位，失业率维持在4.4%。",
-          "url": "https://www.cnbc.com/2026/04/02/the-march-jobs-report-will-be-released-on-friday-heres-what-to-expect.html",
-          "title_en": "The March jobs report will be released on Friday. Here's what to expect",
-          "summary_en": "The U.S. economy is projected to show job gains of 59,000 in March, with the unemployment rate holding at 4.4%."
+          "time": "2026-04-03 20:54:25",
+          "title": "德意志银行指出，高通胀和汇率风波对宝洁构成挑战",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-highlights-inflation-currency-013044337.html",
+          "title_en": "Deutsche Bank Highlights Inflation and Currency Headwinds for P&G"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-03 20:54:25",
+          "title": "4月2026年最佳定期存款利率：最高可达4.15%APY",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-201308688.html",
+          "title_en": "The best CD rates for April 2026: Earn up to 4.15% APY"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-03 20:54:25",
+          "title": "4月2026年最佳2年定期存款利率：锁定至2028年最高4.05%",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-2-year-cd-rates-203147337.html",
+          "title_en": "Best 2-year CD rates for April 2026: Lock in up to 4.05% through 2028"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-03 20:54:25",
+          "title": "4月2026年最佳18个月定期存款利率：最高可达4%APY",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-18-month-cd-rates-224504831.html",
+          "title_en": "Best 18-month CD rates for April 2026: Earn up to 4% APY"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-03 20:54:25",
+          "title": "4月2026年最佳1年期定期存款利率：锁定下一年12个月最高4%年利率",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-1-year-cd-rates-211702415.html",
+          "title_en": "Best 1-year CD rates for April 2026: Lock in up to 4% APY for the next 12 months"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-03 20:54:25",
+          "title": "4月2026年最佳6个月定期存款利率：最高可达4.15%年利率",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-6-month-cd-rates-161216488.html",
+          "title_en": "Best 6-month CD rates for April 2026: Earn up to 4.15% APY"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-03 20:54:25",
+          "title": "亚洲股市：韩国、日本股市因科技股上涨而上涨，美国就业数据待定。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/asia-stocks-skorea-japan-stocks-rise-on-tech-gains-us-jobs-data-awaited-4596862",
+          "title_en": "Asia stocks: S.Korea, Japan stocks rise on tech gains; US jobs data awaited"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-04-03 20:34:00",
+          "title": "美国就业报告显示，3月份美国雇用了178万名工人。但是，雇用热潮不太可能持续下去。",
+          "summary": "美国3月份新增就业人数比预期更大，达到178万人，失业率下降至4.3%，表明劳动力市场仍然坚挺，尽管经济因伊朗战争而再次陷入不确定。",
+          "url": "https://www.marketwatch.com/story/u-s-jobs-report-shows-178-000-workers-were-hired-in-march-but-hiring-boomlet-is-unlikely-to-last-547dbe48?mod=mw_rss_topstories",
+          "title_en": "U.S. jobs report shows 178,000 workers were hired in March. But hiring boomlet is unlikely to last.",
+          "summary_en": "The U.S. added a bigger-than-expected 178,000 new jobs in March and the unemployment rate fell to 4.3% last month in a sign the labor market is holding firm even as the economy undergoes another spasm of uncertainty tied to the Iran war."
         }
       ]
     },
@@ -98,6 +207,24 @@
       "name": "地缘/能源/避险",
       "badge": "Risk / Oil / Gold",
       "items": [
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-03 20:54:25",
+          "title": "Royalty Pharma与约翰逊（Johnson & Johnson）达成500亿美元的自身免疫药物交易",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/royalty-pharma-johnson-johnson-strike-013222604.html",
+          "title_en": "Royalty Pharma, Johnson & Johnson Strike $500M Autoimmune Drug Deal"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-03 20:54:25",
+          "title": "伊朗冲突油价飙升50%",
+          "summary": "",
+          "url": "https://www.wsj.com/livecoverage/iran-war-news-trump/card/oil-prices-soar-50-in-march-from-iran-conflict-G9x6cRUeuzLayIHNh3UW?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Oil Prices Soar 50% in March From Iran Conflict"
+        },
         {
           "source": "CNBC-Tech",
           "ticker": "RSS",
@@ -257,16 +384,6 @@
           "url": "https://www.cnbc.com/2026/04/02/cnbc-daily-open-trump-threatens-to-put-iran-in-stone-ages-dampening-ceasefire-hopes-.html",
           "title_en": "CNBC Daily Open: Trump threatens to put Iran in 'stone ages,' dampening ceasefire hopes",
           "summary_en": "Asia-Pacific markets reacted negatively to Trump's speech, while oil prices jumped"
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-04-02 13:00:01",
-          "title": "伊朗战争正给电动汽车需求带来一股新动力 —— 就在汽车巨头们正准备转向汽油发动机的时候。",
-          "summary": "自中东危机爆发以来，多家汽车销售平台都报告了电动汽车（EV）消费者兴趣的急剧增加。",
-          "url": "https://www.cnbc.com/2026/04/02/evs-autos-energy-oil-iran-war-electric-transport-fossil-fuels.html",
-          "title_en": "EV demand is getting a boost from the Iran war — just as auto giants pivot back to combustion engines",
-          "summary_en": "Various car selling platforms have reported a sharp increase in consumer interest for EVs since the Middle East crisis began."
         }
       ]
     },
@@ -291,184 +408,166 @@
       "badge": "Other",
       "items": [
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 20:23:09",
-          "title": "特朗普威胁要摧毁伊朗的基础设施，称其政府\"知道需要做什么\"",
-          "summary": "他在全国广播讲话中说，美国军队将在未来两到三周内对德黑兰进行“极其严厉”的打击。",
-          "url": "https://www.cnbc.com/2026/04/03/trump-iran-threats-un-resolution-blocked-strait-of-hormuz-f35-shot-down.html",
-          "title_en": "Trump threatens to destroy Iranian infrastructure, saying its government 'knows what has to be done'",
-          "summary_en": "The threat comes a day after he said in a nationwide address that the U.S. military will be hitting Tehran \"extremely hard\" for the next two or three weeks."
+          "time": "2026-04-03 20:54:25",
+          "title": "BMO首要资本对埃默生电气（EMR）保持中性评级，尽管自动化转型",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-turns-neutral-emerson-005558972.html",
+          "title_en": "BMO Capital Turns Neutral on Emerson Electric (EMR) Despite Automation Shift"
         },
         {
-          "source": "MarketWatch-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 20:18:00",
-          "title": "星巴克采取了两项大举措来帮助其转型——但这些举措并未帮助咖啡连锁店的股价",
-          "summary": "星巴克周四推出员工奖金和打赏计划，并宣布将把中国门店的大部分业务转让给一家投资公司。",
-          "url": "https://www.marketwatch.com/story/starbucks-made-two-big-moves-to-help-its-turnaround-today-but-they-didnt-help-the-coffee-chains-stock-f8ccd9dc?mod=mw_rss_topstories",
-          "title_en": "Starbucks made two big moves to help its turnaround — but they didn’t help the coffee chain’s stock",
-          "summary_en": "Starbucks on Thursday rolled out a bonus and tipping program for its employees, and announced a deal that hands off a big slice of its store business in China to an investment firm."
+          "time": "2026-04-03 20:54:25",
+          "title": "德意志银行注意到“普遍压力”，降低克劳斯（Clorox）价格预期",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-notes-widespread-pressures-010031348.html",
+          "title_en": "Deutsche Bank Notes “Widespread Pressures,” Cuts Clorox (CLX) Price Outlook"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 20:05:47",
-          "title": "联邦快递宣布将在2024年开始向其高端客舱的商务舱乘客收取基本票价。",
-          "summary": "联航正在重塑其票价分类，提供更便宜的商务舱和高级经济舱票价，但这些票价更具限制性。",
-          "url": "https://www.cnbc.com/2026/04/03/united-base-polaris-business-class.html",
-          "title_en": "United unveils basic Polaris business fare in premium cabin overhaul",
-          "summary_en": "United is overhauling its fare classes, offering cheaper business class and premium economy fares that are more restrictive."
+          "time": "2026-04-03 20:54:25",
+          "title": "这位基金经理每天改变意见10次，使用“忽视特朗普”投资策略，实现了35%的收益 – 来看看他的前三大股 picks",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/changes-opinion-10-times-day-010056090.html",
+          "title_en": "He 'Changes Opinion 10 Times a Day' – This Hedge Fund Boss Used 'Ignore Trump' Portfolio Strategy And Delivered 35% Gains – See His Top 3 Stock Picks"
         },
         {
-          "source": "MarketWatch-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 20:01:00",
-          "title": "复活节变得如此昂贵，以至于一些父母开始在孩子的篮子里放入袜子和剩余的万圣节糖果。",
-          "summary": "糖果价格上涨，人们如何在组装复活节篮子时节省钱。",
-          "url": "https://www.marketwatch.com/story/easter-is-getting-so-expensive-that-some-parents-are-putting-socks-and-leftover-halloween-candy-in-their-kids-baskets-aaab87ec?mod=mw_rss_topstories",
-          "title_en": "Easter is getting so expensive that some parents are putting socks and leftover Halloween candy in their kids’ baskets",
-          "summary_en": "With candy prices up, here’s how people are saving money while putting their Easter baskets together."
+          "time": "2026-04-03 20:54:25",
+          "title": "普罗克特与甘布尔下一季度财报将带来什么",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/expect-procter-gambles-next-quarterly-010952918.html",
+          "title_en": "What to Expect From Procter & Gamble's Next Quarterly Earnings Report"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 19:30:01",
-          "title": "特朗普关税后果：一年后某些行业仍然面临滞后的影响",
-          "summary": "特朗普贸易战一周年后，贸易战已经重塑了零售业和汽车业等行业公司对经济和政策风险的建模。",
-          "url": "https://www.cnbc.com/2026/04/03/trump-tariffs-trade-war-impact.html",
-          "title_en": "Trump tariff fallout: Some industries grapple with lingering effects one year later",
-          "summary_en": "A year after his \"liberation day,\" Trump's trade war has reshaped how companies in industries such as retail and autos are modeling economic and policy risk."
+          "time": "2026-04-03 20:54:25",
+          "title": "BMO资本开始对道弗公司（DOV）进行覆盖，强调其利润率强度和增长暴露",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-begins-coverage-dover-011234690.html",
+          "title_en": "BMO Capital Begins Coverage of Dover (DOV), Highlights Margin Strength and Growth Exposure"
         },
         {
-          "source": "MarketWatch-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 19:00:00",
-          "title": "我妈妈霸凌我奶奶，强迫她改变遗嘱，并对她进行身体虐待。我们能做什么？",
-          "summary": "我相信我的妈妈曾经对她造成了身体伤害，并多次虐待她。",
-          "url": "https://www.marketwatch.com/story/she-has-taken-my-inheritance-my-mom-bullied-my-grandmother-to-change-her-will-and-physically-abused-her-what-can-we-do-2c4ee13f?mod=mw_rss_topstories",
-          "title_en": "‘She has taken my inheritance’: My mom bullied my grandmother to change her will and physically abused her. What can we do?",
-          "summary_en": "“I believe my mom caused her physical injury and abused her on multiple occasions.”"
+          "time": "2026-04-03 20:54:25",
+          "title": "2026年4月3日维克斯高买家和高卖家",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46628_TopBottomInsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily – Vickers Top Buyers & Sellers for 04/03/2026"
         },
         {
-          "source": "MarketWatch-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 18:42:00",
-          "title": "许多美国的证券交易所将在复活节礼拜五（Good Friday）休市，包括纽约证券交易所（NYSE）、美国证券交易所（AMEX）和 NASDAQ。",
-          "summary": "周五4月3日的基督教节日不是联邦假日，但仍有几个关键的关闭。",
-          "url": "https://www.marketwatch.com/story/is-the-stock-market-closed-on-good-friday-will-banks-and-the-post-office-be-open-bc126c1b?mod=mw_rss_topstories",
-          "title_en": "Is the stock market open today for Good Friday? Will banks and the post office be closed?",
-          "summary_en": "The Christian holiday on Friday, April 3, is not a federal holiday, but there are still some key closures. Here’s what you need to know."
+          "time": "2026-04-03 20:54:25",
+          "title": "德国银行升级柯尔盖特-帕尔莫利夫公司（CL）至买入，认为在股价下跌后有投资机会。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-upgrades-colgate-palmolive-011420840.html",
+          "title_en": "Deutsche Bank Upgrades Colgate-Palmolive Company (CL) to Buy, Sees Opportunity after Selloff"
         },
         {
-          "source": "MarketWatch-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 18:00:00",
-          "title": "我父亲去世了。应该在40%的折扣下从我妈妈处购买家庭房产吗？",
-          "summary": "“我在照顾我的母亲，我们各自目前占据了房子的一个单元。”",
-          "url": "https://www.marketwatch.com/story/i-plan-to-take-out-a-mortgage-my-father-died-should-i-buy-the-family-home-from-my-mom-at-a-40-discount-b6a3ac7b?mod=mw_rss_topstories",
-          "title_en": "‘I plan to take out a mortgage’: My father died. Should I buy the family home from my mom at a 40% discount?",
-          "summary_en": "“I’ve been caring for my mother, and we each currently occupy a unit in the house.”"
+          "time": "2026-04-03 20:54:25",
+          "title": "3M与Bain Capital合作收购Madison Fire & Rescue",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3m-partners-bain-capital-acquire-011610878.html",
+          "title_en": "3M Partners with Bain Capital to Acquire Madison Fire & Rescue"
         },
         {
-          "source": "MarketWatch-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 16:57:00",
-          "title": "现实电视明星和前 Playboy 模型肯德拉·威尔金森(Kendra Wilkinson)表示，她卖豪宅的职业生涯已经蓬勃发展",
-          "summary": "凯恩达·威尔金森(Kendra Wilkinson)在2020年进入房地产行业，现在正以她的奢华海滩豪宅为代表，进军洛杉矶马里布的高端房地产市场。几年前的一次偶然邂逅，现在已经让她拥有了数百万美元的豪宅房源。",
-          "url": "https://www.marketwatch.com/story/reality-tv-star-and-former-playboy-model-kendra-wilkinson-says-her-career-selling-luxury-real-estate-has-blossomed-2552504d?mod=mw_rss_topstories",
-          "title_en": "Reality TV star and former Playboy model Kendra Wilkinson says her career selling luxury real estate has blossomed",
-          "summary_en": "Kendra Wilkinson made a move into real estate in 2020 and is now staking her claim to Malibu’s luxury market, where a chance encounter several years ago has now landed her with a “whole portfolio” of multimillion-dollar listings."
+          "time": "2026-04-03 20:54:25",
+          "title": "摩根士丹利对黄金投资者有一个直率的信息：",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/morgan-stanley-blunt-message-gold-010300809.html",
+          "title_en": "Morgan Stanley has a blunt message for gold investors"
         },
         {
-          "source": "MarketWatch-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 10:21:00",
-          "title": "特朗普刚刚解雇了Pam Bondi。我们来看看自她那句臭名昭著的“道指超过50,000”的评论以来，股市的表现如何。",
-          "summary": "不太理想",
-          "url": "https://www.marketwatch.com/story/pam-bondi-was-just-fired-by-trump-heres-how-the-stock-market-has-fared-since-her-infamous-dow-is-over-50-000-comment-694a261c?mod=mw_rss_topstories",
-          "title_en": "Pam Bondi was just fired by Trump. Here’s how the stock market has fared since her infamous ‘Dow is over 50,000’ comment.",
-          "summary_en": "Spoiler: Not great"
+          "time": "2026-04-03 20:54:25",
+          "title": "BMO资本预见AMETEK（AME）将在2025年表现落后后反弹。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-sees-ametek-ame-011753749.html",
+          "title_en": "BMO Capital Sees AMETEK (AME) Rebounding After Lagging 2025 Performance"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 08:55:24",
-          "title": "特雷斯·伍兹在酒后驾车事故后打电话给川普，后者在录像中对警官说",
-          "summary": "特朗普总统称蒂格伍兹是他的好友，称赞他在佛罗里达州的车祸中幸存。",
-          "url": "https://www.cnbc.com/2026/04/02/tiger-woods-trump-call-dui-crash-video.html",
-          "title_en": "Tiger Woods called Trump after DUI crash, he told cop on bodycam video",
-          "summary_en": "President Trump called Tiger Woods a close friend after the golfer's auto crash in Jupiter, Fla., last week. Woods is dating the ex-wife of Donald Trump Jr."
+          "time": "2026-04-03 20:54:25",
+          "title": "BMO资本称帕克汉尼芬（PH）为“最佳类别”，启动出色表现",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-calls-parker-hannifin-012010826.html",
+          "title_en": "BMO Capital Calls Parker-Hannifin (PH) “Best-in-Class,” Initiates with Outperform"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 08:10:52",
-          "title": "华纳和施菲调查政府内部交易",
-          "summary": "立法者还援引了一份最近的报告，称一名与Pete Hegseth有关联的经纪人在二月份试图投资数百万美元于一项与国防有关的ETF。",
-          "url": "https://www.cnbc.com/2026/04/02/hegseth-trump-mark-warner-adam-schiff-insider-trading-probe.html",
-          "title_en": "Warner, Schiff probe potential insider trading in government",
-          "summary_en": "The lawmakers also cited a recent report that a Pete Hegseth-linked broker sought to make a multimillion-dollar investment in a defense-linked ETF in February."
+          "time": "2026-04-03 20:54:25",
+          "title": "今日维克斯首席内部人选推荐：",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46627_InsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily – Vickers Top Insider Picks for 04/03/2026"
         },
         {
-          "source": "MarketWatch-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 07:42:00",
-          "title": "4月2026年，值得流媒体观看的内容包括：",
-          "summary": "Netflix和亚马逊的价格在上涨，而Hulu的《马尔科姆在中间》复兴，HBO Max的《黑客》和《爱尔兰人》有新季。",
-          "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-april-2026-on-netflix-hulu-hbo-max-and-more-e6e085e7?mod=mw_rss_topstories",
-          "title_en": "Here’s what’s worth streaming in April 2026 on Netflix, Hulu, HBO Max and more",
-          "summary_en": "Prices are rising at Netflix and Amazon, while Hulu revives ‘Malcolm in the Middle’ and HBO Max has new seasons of ‘Hacks’ and ‘Euphoria’"
+          "time": "2026-04-03 20:54:25",
+          "title": "德意志银行认为行业压力正在增加，降低百事可乐(PepsiCo, PEP)目标价",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-sees-mounting-industry-012144748.html",
+          "title_en": "Deutsche Bank Sees Mounting Industry Pressures, Trims PepsiCo (PEP) Target"
         },
         {
-          "source": "MarketWatch-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 07:32:00",
-          "title": "黄金的牛市面临障碍，但终点线并非已在视线中，UBS策略师表示。",
-          "summary": "如果美联储决定今年剩余时间维持利率不变，市场已经将此价格计算在内，黄金价格可能会下跌。",
-          "url": "https://www.marketwatch.com/story/golds-bull-run-could-be-nearing-its-finish-line-says-ubs-strategist-0f2d94f8?mod=mw_rss_topstories",
-          "title_en": "Gold’s bull run faces hurdles but finish line is not necessarily in view, according to UBS strategist",
-          "summary_en": "Bullion prices may fall if the Federal Reserve decides to hold interest rates for the rest of the year, which the market has priced in."
+          "time": "2026-04-03 20:54:25",
+          "title": "埃尔斯特集团首次评估RTX为买入，认为引擎业务强大。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/erste-group-initiates-rtx-buy-012455255.html",
+          "title_en": "Erste Group Initiates RTX With Buy, Sees Strength in Engine Business"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 06:23:33",
-          "title": "克拉默本周展望：两项关键经济报告和Levi's、Delta等公司的财报",
-          "summary": "CNBC的吉姆·克雷默(Jim Cramer)概述了投资者在未来一周中应该关注的内容，包括中东发展、重大财报和关键通货膨胀数据。",
-          "url": "https://www.cnbc.com/2026/04/02/cramers-week-ahead-key-economic-reports-earnings-from-levis-delta.html",
-          "title_en": "Cramer’s week ahead: Two key economic reports and earnings from Levi's, Delta",
-          "summary_en": "CNBC's Jim Cramer outlined what investors should watch in the week ahead, including Middle East developments, major earnings and key inflation data."
+          "time": "2026-04-03 20:54:25",
+          "title": "美国金矿公司公布了CK金矿可行性研究报告：11年矿山开采计划，3940万美元投资，具有“蓝天”潜力",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/us-gold-unveils-ck-gold-010325184.html",
+          "title_en": "US Gold Unveils CK Gold Feasibility Study: 11-Year Mine Plan, $394M Capex, “Blue Sky” Upside"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 06:11:06",
-          "title": "联航提高行李托运费10美元，随着燃油价格持续上涨。",
-          "summary": "联邦快递航空公司成为本周第二家在应对燃油成本超过80%大幅上涨的情况下提高行李托运费的美国航空公司。",
-          "url": "https://www.cnbc.com/2026/04/02/united-airlines-raises-checked-bag-fees-fuel-prices-climb.html",
-          "title_en": "United Airlines hikes checked bag fee by $10 as fuel prices continue to climb",
-          "summary_en": "United Airlines became the second U.S. carrier in a week to raise check bag fees as the industry grapples with a more than 80% jump in jet fuel costs."
+          "time": "2026-04-03 20:54:25",
+          "title": "知名有线电视频道警告破产风险",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/iconic-cable-channel-warns-bankruptcy-011843737.html",
+          "title_en": "Iconic cable channel warns of bankruptcy, survival risk"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 05:17:37",
-          "title": "Coinbase获得关键监管许可，以增强其稳定币业务",
-          "summary": "Coinbase收到美国国会预算办公室的条件批准，允许其作为信托银行运营。",
-          "url": "https://www.cnbc.com/2026/04/02/coinbase-clears-key-regulatory-hurdle-in-bid-to-bolster-its-stablecoin-business.html",
-          "title_en": "Coinbase clears key regulatory hurdle in bid to bolster its stablecoin business",
-          "summary_en": "Coinbase has received conditional approval from the U.S. Office of the Comptroller of the Currency to operate as a trust bank, the company said Thursday."
+          "time": "2026-04-03 20:54:25",
+          "title": "4月2026年最佳HELOC贷款商",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/best-heloc-lenders-223619700.html",
+          "title_en": "The best HELOC lenders of April 2026"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-03 05:11:48",
-          "title": "特朗普政府对某些进口药物征收最高100%的关税，许多公司免除征税",
-          "summary": "特朗普政府准备对尚未与总统达成降低美国药品价格协议的制药公司实施新的关税。",
-          "url": "https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html",
-          "title_en": "Trump administration sets up to 100% tariffs on some imported drugs, with many companies exempt",
-          "summary_en": "The Trump administration is preparing to impose new tariffs on drugmakers that have not struck deals with the president to lower their U.S. drug prices."
+          "time": "2026-04-03 20:54:25",
+          "title": "斯普林特(S&P Global)任命Firdaus Bhathena领导技术变革",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/p-global-appoints-firdaus-bhathena-013842572.html",
+          "title_en": "S&P Global Appoints Firdaus Bhathena to Lead Technology Transformation"
         }
       ]
     }
