@@ -1,6 +1,6 @@
 {
   "date": "2026.04.04",
-  "generatedAtBJT": "2026-04-04 14:52:35",
+  "generatedAtBJT": "2026-04-04 15:22:56",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,7 +14,7 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-04 14:52:35",
+          "time": "2026-04-04 15:22:56",
           "title": "主线结论（系统版｜条件触发）",
           "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→纳斯达克指数/标普500指数承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且VIX抬升→偏纳斯达克指数/标普500指数先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且VIX回落→偏纳斯达克指数/标普500指数修复反弹、黄金价格喘息；操作",
           "url": "#",
@@ -27,9 +27,36 @@
       "badge": "Mag7 / Semis",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 15:22:50",
+          "title": "摩根士丹利开始对CoreWeave, Inc. (CRWV)的跟踪，强调人工智能基础设施的机会",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-starts-coverage-coreweave-inc-003003504.html",
+          "title_en": "BofA Starts Coverage of CoreWeave, Inc. (CRWV), Highlights AI Infrastructure Opportunities"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 15:22:50",
+          "title": "美国银行重新评估马威尔股价目标，考虑到NVIDIA交易",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-resets-marvell-stock-013700674.html",
+          "title_en": "Bank of America resets Marvell stock price target after Nvidia deal"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 15:22:50",
+          "title": "NVIDIA的Blackwell和Rubin芯片将实现1万万亿美元的终身销售额。那么这对NVIDIA的股票意味着什么？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidias-blackwell-rubin-chips-1-013500269.html",
+          "title_en": "Nvidia's Blackwell and Rubin Chips Will Have $1 Trillion in Lifetime Sales. What Does That Mean for Nvidia's Stock?"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
+          "time": "2026-04-04 15:22:50",
           "title": "马斯克要求SpaceXIPO银行购买Grok AI订阅，纽约时报报道",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/musk-asks-spacex-ipo-banks-to-buy-grok-ai-subscriptions-nyt-reports-4597196",
@@ -124,16 +151,6 @@
           "url": "https://www.cnbc.com/2026/04/02/microsoft-executive-touts-copilot-traction-after-analyst-pressure.html",
           "title_en": "Microsoft executive touts Copilot sales traction as AI anxiety weighs on stock",
           "summary_en": "Analysts have said adoption of the $30-per-month Microsoft 365 Copilot is in the early stage."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-03 03:06:30",
-          "title": "OpenAI收购了受欢迎的科技播客TBPN",
-          "summary": "OpenAI未披露交易条款，但表示TBPN将在其战略组织内运营。",
-          "url": "https://www.cnbc.com/2026/04/02/openai-acquires-tech-podcast-tbpn.html",
-          "title_en": "OpenAI acquires popular tech podcast TBPN",
-          "summary_en": "OpenAI did not disclose the terms of the deal but said TBPN will be housed within its strategy organization."
         }
       ]
     },
@@ -160,16 +177,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
+          "time": "2026-04-04 15:22:50",
           "title": "戴蒙德贝克能源公司(FANG) Citigroup预期油价上涨后股价目标上调",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/energy/articles/diamondback-energy-inc-fang-pt-003356129.html",
           "title_en": "Diamondback Energy, Inc. (FANG) PT Increased at Citigroup on Higher Oil Price Outlook"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 15:22:50",
+          "title": "美国原油期货价格在特朗普演讲后上涨11.4%",
+          "summary": "",
+          "url": "https://www.wsj.com/livecoverage/iran-war-news-2026/card/u-s-oil-futures-rise-11-4-in-wake-of-trump-address-u7P737ee8jDXcJP7z2eU?siteid=yhoof2&yptr=yahoo",
+          "title_en": "U.S. Oil Futures Rise 11.4% in Wake of Trump Address"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
+          "time": "2026-04-04 15:22:50",
           "title": "伊朗战争中死亡人数统计",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/factboxhow-many-people-have-been-killed-in-the-iran-war-4597441",
@@ -178,7 +204,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
+          "time": "2026-04-04 15:22:50",
           "title": "日本、法国和阿曼的舰船穿越霍尔木兹海峡",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/japanese-french-and-omani-vessels-cross-the-strait-of-hormuz-4597167",
@@ -243,26 +269,6 @@
           "url": "https://www.cnbc.com/2026/04/02/trumps-iran-war-speech-oil-price-strait-hormuz.html",
           "title_en": "Trump's Iran war speech paints a grim picture for oil markets with more than 600 million barrels at risk",
           "summary_en": "Oil prices are surging as the market prepares for a longer U.S. war with Iran after President Donald Trump's national address."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-03 02:59:44",
-          "title": "亚马逊将为卖家加收3.5%的燃油和物流附加费，因为伊朗战争推高了能源价格。",
-          "summary": "亚马逊表示，随着伊朗战争进入第五周，公司将为美国和加拿大的第三方卖家增加3.5%的燃油和物流附加费。",
-          "url": "https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html",
-          "title_en": "Amazon to add 3.5% fuel and logistics surcharge for sellers as Iran war drives up energy prices",
-          "summary_en": "With the Iran war now in its fifth week, Amazon said it's adding a 3.5% fuel and logistics surcharge for third-party sellers in the U.S. and Canada."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-04-03 02:56:19",
-          "title": "美国油价大涨11% 因特朗普伊朗战争演讲加剧了进一步升级的恐惧",
-          "summary": "石油价格大幅上涨，因为特朗普在对伊朗战争的讲话中表示，他预计冲突将持续两到三个星期。",
-          "url": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html",
-          "title_en": "U.S. oil prices soar 11% as Trump's Iran war speech stokes fears of further escalation",
-          "summary_en": "Oil surged as Trump in his address to the nation on Iran war said that he expected the conflict to last another two to three weeks."
         }
       ]
     },
@@ -289,97 +295,97 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
-          "title": "股市周报：连胜被打破",
+          "time": "2026-04-04 15:22:50",
+          "title": "里维恩(Rivian)逆势而上，尽管电动汽车行业面临困难",
           "summary": "",
-          "url": "https://www.barrons.com/articles/review-preview-streak-snapped-a96ee310?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Review & Preview: Streak Snapped"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-defies-expectations-despite-rough-023300613.html",
+          "title_en": "Rivian defies expectations despite rough EV environment"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
-          "title": "美联储即时支付服务（FedNow）是一项由美联储开发的即时支付系统，旨在为美国的银行和金融机构提供快速、安全的支付服务。",
+          "time": "2026-04-04 15:22:50",
+          "title": "银行持有寿险：它是如何运作的、带来的好处和税法规",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/what-is-fednow-173505833.html",
-          "title_en": "What is FedNow, and how does it work?"
+          "url": "https://finance.yahoo.com/economy/policy/articles/bank-owned-life-insurance-works-014651436.html",
+          "title_en": "Bank-Owned Life Insurance: How It Works, Benefits and Tax Rules"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
-          "title": "2026年4月最佳家庭抵押贷款贷款机构",
+          "time": "2026-04-04 15:22:50",
+          "title": "企业拥有的生命保险：类型、利益和税法规",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/best-home-equity-loan-lenders-223817340.html",
-          "title_en": "Best home equity loan lenders of April 2026"
+          "url": "https://finance.yahoo.com/economy/policy/articles/corporate-owned-life-insurance-types-014935067.html",
+          "title_en": "Corporate-Owned Life Insurance: Types, Benefits and Tax Rules"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
-          "title": "2026年4月最佳FHA贷款银行",
+          "time": "2026-04-04 15:22:50",
+          "title": "ZeroStack签下10.7亿美元协议，获得0G代币供应量21%",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/best-fha-loan-lenders-164715819.html",
-          "title_en": "Best FHA loan lenders of April 2026"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/zerostack-inks-107m-deal-21-030800797.html",
+          "title_en": "ZeroStack Inks $107M Deal for 21% of 0G Token Supply"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
-          "title": "Sysco刚刚宣布29.1亿美元的收购计划，华尔街人士开始担忧。3%的股息能否弥补这一风险？",
+          "time": "2026-04-04 15:22:50",
+          "title": "Telsey下调Lands' End, Inc. (LE) 估值目标，考虑到Q4财报略微低于预期。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sysco-just-announced-29-1-233002373.html",
-          "title_en": "Sysco Just Announced a $29.1 Billion Acquisition and Wall Street Is Nervous. Can a 3% Dividend Sweeten the Deal?"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/telsey-lowers-lands-end-inc-004215690.html",
+          "title_en": "Telsey Lowers Lands’ End, Inc. (LE) PT Following Slightly Weaker-Than-Expected Q4 Results"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
-          "title": "IYK与XLP：消费类稳定ETF在风险、收益和费用方面的比较",
+          "time": "2026-04-04 15:22:50",
+          "title": "VTI从高点下滑，但其52周范围的数据却告诉了另一番故事。长期投资者应该如何看待这个情况？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/iyk-vs-xlp-consumer-staples-233521866.html",
-          "title_en": "IYK vs. XLP: How These Consumer Staples ETFs Compare on Risk, Returns, and Fees"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vti-down-high-52-week-023500255.html",
+          "title_en": "VTI Is Down From Its High, but Its 52-Week Range Tells a Different Story. Here Is What Long-Term Investors Should Make of It"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
-          "title": "2026年4月最佳逆向抵押公司",
+          "time": "2026-04-04 15:22:50",
+          "title": "摩根士丹利警告：Arcos Dorados Holdings Inc. (ARCO) 的业绩可能会拖累股价表现。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/best-reverse-mortgage-companies-161204700.html",
-          "title_en": "Best reverse mortgage companies of April 2026"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-warns-arcos-dorados-004156050.html",
+          "title_en": "Morgan Stanley Warns Arcos Dorados Holdings Inc. (ARCO) Earnings Miss Could Weigh on Stock Performance"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
-          "title": "Atara生物治疗公司（ATRA）登记可能出售400万股普通股与HCR期权行权有关",
+          "time": "2026-04-04 15:22:50",
+          "title": "H.C. Wainwright降低了BitFuFu Inc. (FUFU) 的目标价，考虑到比特币矿业背景的弱化。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/atara-biotherapeutics-inc-atra-registers-000234673.html",
-          "title_en": "Atara Biotherapeutics, Inc. (ATRA) Registers Possible Resale of 400K Common Shares Tied to HCR Warrant Exercise"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/h-c-wainwright-lowers-bitfufu-004228940.html",
+          "title_en": "H.C. Wainwright Lowers BitFuFu Inc. (FUFU) PT on Weaker Bitcoin Mining Backdrop"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
-          "title": "ISS建议支持Organigram Global Inc. (OGI)收购Sanity Group GmbH",
+          "time": "2026-04-04 15:22:50",
+          "title": "KeyBanc降低了Worthington钢铁公司(WS)的目标价后，公司Q3业绩不佳。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/iss-recommends-shareholder-support-organigram-000217342.html",
-          "title_en": "ISS Recommends Shareholder Support for Organigram Global Inc. (OGI)’s Acquisition of Sanity Group GmbH"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/keybanc-lowers-worthington-steel-inc-004135314.html",
+          "title_en": "KeyBanc Lowers Worthington Steel, Inc. (WS) PT After Weak Q3 Results"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
-          "title": "巴克莱调整Aveanna Healthcare Holdings Inc. (AVAH)预期，维持买入评级",
+          "time": "2026-04-04 15:22:50",
+          "title": "JPMorgan将TIC Solutions, Inc. (TIC)降为低估值",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/barclays-adjusts-aveanna-healthcare-holdings-000248297.html",
-          "title_en": "Barclays Adjusts Aveanna Healthcare Holdings Inc. (AVAH) Outlook After Q4 Results, Keeps Overweight Rating"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-lowers-tic-solutions-inc-003837508.html",
+          "title_en": "JPMorgan Lowers TIC Solutions, Inc. (TIC) to Underweight on Slower Near-Term Growth Outlook"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
+          "time": "2026-04-04 15:22:50",
           "title": "2026年4月3日维克斯高买家和高卖家",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46628_TopBottomInsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -388,52 +394,52 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
-          "title": "全球星股价今日大涨",
+          "time": "2026-04-04 15:22:50",
+          "title": "挪威邮轮(NCLH)股价在3月下跌24%",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-globalstar-stock-popped-today-235344804.html",
-          "title_en": "Why Globalstar Stock Popped Today"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-norwegian-cruise-line-stock-025000047.html",
+          "title_en": "Why Norwegian Cruise Line Stock Fell 24% in March"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
-          "title": "德意志银行降低了Nomad Foods Limited (NOMD)预期，因为欧洲消费者需求减弱。",
+          "time": "2026-04-04 15:22:50",
+          "title": "Stifel继续对Hillman Solutions Corp. (HLMN)保持买入评级，预计公司在首次投资者日后将呈现积极的前景。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-lowers-nomad-foods-000321329.html",
-          "title_en": "Deutsche Bank Lowers Nomad Foods Limited (NOMD) Outlook as European Consumer Demand Softens"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stifel-keeps-buy-hillman-solutions-003853037.html",
+          "title_en": "Stifel Keeps Buy on Hillman Solutions Corp. (HLMN), Sees Positive Outlook After First Investor Day"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
-          "title": "3D系统公司（DDD）的NextDent喷射式假牙解决方案获得欧盟医疗器械认证",
+          "time": "2026-04-04 15:22:50",
+          "title": "Jefferies公司将Power Solutions International, Inc. (PSIX)目标价格下调，称威斯康星州扩张速度较快",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/3d-systems-corporation-ddd-nextdent-000332518.html",
-          "title_en": "3D Systems Corporation (DDD)’ NextDent Jetted Denture Solution Gains EU Medical Device Approval"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-trims-power-solutions-international-003812771.html",
+          "title_en": "Jefferies Trims Power Solutions International, Inc. (PSIX) Target Following Q4, Cites Wisconsin Expansion Ramp"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
-          "title": "TOYO株式会社（TOYO）公布全年收入427.4亿美元，非GAAP净利润大幅跃升769%",
+          "time": "2026-04-04 15:22:50",
+          "title": "高盛降低了Oddity Tech Ltd. (ODD) 的目标价，原因是成本上升和需求信号变软。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/toyo-co-ltd-toyo-reports-000343695.html",
-          "title_en": "TOYO Co., Ltd. (TOYO) Reports Full-Year Revenue of $427.4M, Non-GAAP Net Income Surges 769%"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-lowers-oddity-tech-ltd-003826537.html",
+          "title_en": "Goldman Lowers Oddity Tech Ltd. (ODD) PT on Rising Costs and Softer Demand Signals"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
-          "title": "Wedbush调整了Burford Capital Limited (BUR)预期，随着上诉法院的决定",
+          "time": "2026-04-04 15:22:50",
+          "title": "Oppenheimer降低了WisdomTree, Inc. (WT) 的目标价，认为大西洋之家交易是战略性的和有利的。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wedbush-adjusts-burford-capital-limited-000413667.html",
-          "title_en": "Wedbush Adjusts Burford Capital Limited (BUR) Outlook Following Appeals Court Decision"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-cuts-wisdomtree-inc-wt-003751613.html",
+          "title_en": "Oppenheimer Cuts WisdomTree, Inc. (WT) Target, Sees Atlantic House Deal as Strategic and Accretive"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
+          "time": "2026-04-04 15:22:50",
           "title": "今日维克斯首席内部人选推荐：",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46627_InsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -442,11 +448,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 14:52:30",
-          "title": "伊里迪움股价在周四大幅上涨",
+          "time": "2026-04-04 15:22:50",
+          "title": "蓝鹰私人信贷公司Blue Owl暂停私人信贷赎回",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-iridium-stock-trounced-market-233139790.html",
-          "title_en": "Why Iridium Stock Trounced the Market on Thursday"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/shadow-bank-blue-owl-caps-021700097.html",
+          "title_en": "Shadow bank Blue Owl caps private credit redemptions after investors try to pull $5.4 billion"
         }
       ]
     }
