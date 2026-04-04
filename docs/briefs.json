@@ -1,6 +1,6 @@
 {
   "date": "2026.04.04",
-  "generatedAtBJT": "2026-04-04 15:22:56",
+  "generatedAtBJT": "2026-04-04 15:54:51",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-04 15:22:56",
+          "time": "2026-04-04 15:54:51",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→纳斯达克指数/标普500指数承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且VIX抬升→偏纳斯达克指数/标普500指数先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且VIX回落→偏纳斯达克指数/标普500指数修复反弹、黄金价格喘息；操作",
+          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金价格更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金价格喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Diamondback Energy, Inc. (FANG) PT Increased at Citigroup on Higher Oil …\n- 宏观/Fed线索：These master's degrees lead to fast-growing, in-demand jobs—but offer lo…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Looming “Oil Cliff” Pinches Airline Profits, Traveler Wallets…\n- 宏观/Fed线索：These master's degrees lead to fast-growing, in-demand jobs—but offer lo…"
         }
       ]
     },
@@ -29,34 +29,52 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
+          "time": "2026-04-04 15:54:20",
+          "title": "亚马逊推出新信用卡",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-makes-move-credit-cards-030700038.html",
+          "title_en": "Amazon makes new move into credit cards"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 15:54:20",
+          "title": "人工智能是否能成为大众养老规划的答案？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/ai-answer-mass-market-retirement-040200093.html",
+          "title_en": "Is AI the Answer for Mass-Market Retirement Advice?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 15:54:20",
+          "title": "这家AI公司有可能在2030年前创造出新的百万富翁",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-could-mint-millionaires-032000906.html",
+          "title_en": "This AI Stock Could Mint New Millionaires by 2030"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 15:54:20",
+          "title": "有1000美元吗？未来十年甚至更长时间内买入并持有的一只人工智能（AI）股票",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/got-1-000-1-artificial-032500460.html",
+          "title_en": "Got $1,000? 1 Artificial Intelligence (AI) Stock to Buy and Hold for the Next Decade and Beyond"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 15:54:20",
           "title": "摩根士丹利开始对CoreWeave, Inc. (CRWV)的跟踪，强调人工智能基础设施的机会",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-starts-coverage-coreweave-inc-003003504.html",
           "title_en": "BofA Starts Coverage of CoreWeave, Inc. (CRWV), Highlights AI Infrastructure Opportunities"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
-          "title": "美国银行重新评估马威尔股价目标，考虑到NVIDIA交易",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-resets-marvell-stock-013700674.html",
-          "title_en": "Bank of America resets Marvell stock price target after Nvidia deal"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
-          "title": "NVIDIA的Blackwell和Rubin芯片将实现1万万亿美元的终身销售额。那么这对NVIDIA的股票意味着什么？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidias-blackwell-rubin-chips-1-013500269.html",
-          "title_en": "Nvidia's Blackwell and Rubin Chips Will Have $1 Trillion in Lifetime Sales. What Does That Mean for Nvidia's Stock?"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
+          "time": "2026-04-04 15:54:20",
           "title": "马斯克要求SpaceXIPO银行购买Grok AI订阅，纽约时报报道",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/musk-asks-spacex-ipo-banks-to-buy-grok-ai-subscriptions-nyt-reports-4597196",
@@ -177,25 +195,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
+          "time": "2026-04-04 15:54:20",
+          "title": "油价悬崖式飙升挤压航空公司利润，游客钱包也受累",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/looming-oil-cliff-pinches-airline-040100383.html",
+          "title_en": "Looming “Oil Cliff” Pinches Airline Profits, Traveler Wallets"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 15:54:20",
           "title": "戴蒙德贝克能源公司(FANG) Citigroup预期油价上涨后股价目标上调",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/energy/articles/diamondback-energy-inc-fang-pt-003356129.html",
           "title_en": "Diamondback Energy, Inc. (FANG) PT Increased at Citigroup on Higher Oil Price Outlook"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
-          "title": "美国原油期货价格在特朗普演讲后上涨11.4%",
-          "summary": "",
-          "url": "https://www.wsj.com/livecoverage/iran-war-news-2026/card/u-s-oil-futures-rise-11-4-in-wake-of-trump-address-u7P737ee8jDXcJP7z2eU?siteid=yhoof2&yptr=yahoo",
-          "title_en": "U.S. Oil Futures Rise 11.4% in Wake of Trump Address"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
+          "time": "2026-04-04 15:54:20",
           "title": "伊朗战争中死亡人数统计",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/factboxhow-many-people-have-been-killed-in-the-iran-war-4597441",
@@ -204,7 +222,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
+          "time": "2026-04-04 15:54:20",
           "title": "日本、法国和阿曼的舰船穿越霍尔木兹海峡",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/japanese-french-and-omani-vessels-cross-the-strait-of-hormuz-4597167",
@@ -249,26 +267,6 @@
           "url": "https://www.cnbc.com/2026/04/03/asia-markets-live-hormuz-iran-oil-prices-nikkei-225.html",
           "title_en": "Asia-Pacific markets mostly rise in Easter trade on hopes for Hormuz reopening",
           "summary_en": "South Korea's Kospi led gains in the region while Japan's Nikkei 225 also opened higher. The Australian and Hong Kong markets were closed for the Easter weekend."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-04-03 04:36:04",
-          "title": "布伦特原油现货价格大幅上涨至每桶141美元，创2008年金融危机以来新高。",
-          "summary": "布伦特原油期货价格给市场造成了一个虚假的安全感，Energy Aspects创始人Amrita Sen说。",
-          "url": "https://www.cnbc.com/2026/04/02/dated-brent-oil-price-actual-cargo-highest-level-2008.html",
-          "title_en": "Brent oil spot price for actual cargo soars to $141, highest level since 2008 financial crisis",
-          "summary_en": "The Brent oil futures price is giving the market a false sense of security, said Amrita Sen, founder of Energy Aspects."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-04-03 03:59:34",
-          "title": "特朗普对伊朗战争的演讲描绘了石油市场的阴暗画面，超过6亿桶石油面临风险。",
-          "summary": "石油价格正在上涨，因为市场预计美国与伊朗的战争将更长时间持续下去，特朗普总统的全国讲话引发了这一预期。",
-          "url": "https://www.cnbc.com/2026/04/02/trumps-iran-war-speech-oil-price-strait-hormuz.html",
-          "title_en": "Trump's Iran war speech paints a grim picture for oil markets with more than 600 million barrels at risk",
-          "summary_en": "Oil prices are surging as the market prepares for a longer U.S. war with Iran after President Donald Trump's national address."
         }
       ]
     },
@@ -295,34 +293,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
-          "title": "里维恩(Rivian)逆势而上，尽管电动汽车行业面临困难",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-defies-expectations-despite-rough-023300613.html",
-          "title_en": "Rivian defies expectations despite rough EV environment"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
-          "title": "银行持有寿险：它是如何运作的、带来的好处和税法规",
-          "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/bank-owned-life-insurance-works-014651436.html",
-          "title_en": "Bank-Owned Life Insurance: How It Works, Benefits and Tax Rules"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
-          "title": "企业拥有的生命保险：类型、利益和税法规",
-          "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/corporate-owned-life-insurance-types-014935067.html",
-          "title_en": "Corporate-Owned Life Insurance: Types, Benefits and Tax Rules"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
+          "time": "2026-04-04 15:54:20",
           "title": "ZeroStack签下10.7亿美元协议，获得0G代币供应量21%",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/crypto/articles/zerostack-inks-107m-deal-21-030800797.html",
@@ -331,61 +302,61 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
-          "title": "Telsey下调Lands' End, Inc. (LE) 估值目标，考虑到Q4财报略微低于预期。",
+          "time": "2026-04-04 15:54:20",
+          "title": "企业拥有的生命保险：类型、利益和税法规",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/telsey-lowers-lands-end-inc-004215690.html",
-          "title_en": "Telsey Lowers Lands’ End, Inc. (LE) PT Following Slightly Weaker-Than-Expected Q4 Results"
+          "url": "https://finance.yahoo.com/economy/policy/articles/corporate-owned-life-insurance-types-014935067.html",
+          "title_en": "Corporate-Owned Life Insurance: Types, Benefits and Tax Rules"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
-          "title": "VTI从高点下滑，但其52周范围的数据却告诉了另一番故事。长期投资者应该如何看待这个情况？",
+          "time": "2026-04-04 15:54:20",
+          "title": "银行持有寿险：它是如何运作的、带来的好处和税法规",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vti-down-high-52-week-023500255.html",
-          "title_en": "VTI Is Down From Its High, but Its 52-Week Range Tells a Different Story. Here Is What Long-Term Investors Should Make of It"
+          "url": "https://finance.yahoo.com/economy/policy/articles/bank-owned-life-insurance-works-014651436.html",
+          "title_en": "Bank-Owned Life Insurance: How It Works, Benefits and Tax Rules"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
-          "title": "摩根士丹利警告：Arcos Dorados Holdings Inc. (ARCO) 的业绩可能会拖累股价表现。",
+          "time": "2026-04-04 15:54:20",
+          "title": "BP任命卡罗尔·豪尔（Carol Howle）为副总裁，负责策略重组",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-warns-arcos-dorados-004156050.html",
-          "title_en": "Morgan Stanley Warns Arcos Dorados Holdings Inc. (ARCO) Earnings Miss Could Weigh on Stock Performance"
+          "url": "https://finance.yahoo.com/sectors/energy/articles/bp-names-carol-howle-deputy-035729557.html",
+          "title_en": "BP Names Carol Howle Deputy CEO to Lead Strategy Overhaul"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
-          "title": "H.C. Wainwright降低了BitFuFu Inc. (FUFU) 的目标价，考虑到比特币矿业背景的弱化。",
+          "time": "2026-04-04 15:54:20",
+          "title": "Blue Owl突然停止两只基金的赎回，私募信贷市场担忧加剧。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/h-c-wainwright-lowers-bitfufu-004228940.html",
-          "title_en": "H.C. Wainwright Lowers BitFuFu Inc. (FUFU) PT on Weaker Bitcoin Mining Backdrop"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/blue-owl-slams-brakes-redemptions-040100495.html",
+          "title_en": "Blue Owl Slams Brakes on Redemptions at Two Funds as Private Credit Worries Mount"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
-          "title": "KeyBanc降低了Worthington钢铁公司(WS)的目标价后，公司Q3业绩不佳。",
+          "time": "2026-04-04 15:54:20",
+          "title": "中国的机器人技术",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/keybanc-lowers-worthington-steel-inc-004135314.html",
-          "title_en": "KeyBanc Lowers Worthington Steel, Inc. (WS) PT After Weak Q3 Results"
+          "url": "https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Under the Skin of America’s Humanoid Robots: Chinese Technology"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
-          "title": "JPMorgan将TIC Solutions, Inc. (TIC)降为低估值",
+          "time": "2026-04-04 15:54:20",
+          "title": "劳动部的新提议不仅仅是关于401(k)中的替代投资",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-lowers-tic-solutions-inc-003837508.html",
-          "title_en": "JPMorgan Lowers TIC Solutions, Inc. (TIC) to Underweight on Slower Near-Term Growth Outlook"
+          "url": "https://finance.yahoo.com/economy/policy/articles/dol-proposal-more-alts-401-040100418.html",
+          "title_en": "The DOL’s New Proposal Is About More Than Alts in 401(k)s"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
+          "time": "2026-04-04 15:54:20",
           "title": "2026年4月3日维克斯高买家和高卖家",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46628_TopBottomInsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -394,7 +365,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
+          "time": "2026-04-04 15:54:20",
+          "title": "中年人更害怕退休",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-gen-x-more-scared-040300626.html",
+          "title_en": "Could Gen X Be More Scared of Retirement?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 15:54:20",
           "title": "挪威邮轮(NCLH)股价在3月下跌24%",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-norwegian-cruise-line-stock-025000047.html",
@@ -403,43 +383,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
-          "title": "Stifel继续对Hillman Solutions Corp. (HLMN)保持买入评级，预计公司在首次投资者日后将呈现积极的前景。",
+          "time": "2026-04-04 15:54:20",
+          "title": "特斯拉和马斯达尔共同推出22亿美元亚洲再生能源合资公司",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stifel-keeps-buy-hillman-solutions-003853037.html",
-          "title_en": "Stifel Keeps Buy on Hillman Solutions Corp. (HLMN), Sees Positive Outlook After First Investor Day"
+          "url": "https://finance.yahoo.com/sectors/energy/articles/totalenergies-masdar-launch-2-2-040300083.html",
+          "title_en": "TotalEnergies and Masdar Launch $2.2 Billion Asia Renewables JV"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
-          "title": "Jefferies公司将Power Solutions International, Inc. (PSIX)目标价格下调，称威斯康星州扩张速度较快",
+          "time": "2026-04-04 15:54:20",
+          "title": "BMO降低了The Carlyle Group Inc. (CG) 的目标价，考虑到BDC的赎回和信贷紧张情况",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-trims-power-solutions-international-003812771.html",
-          "title_en": "Jefferies Trims Power Solutions International, Inc. (PSIX) Target Following Q4, Cites Wisconsin Expansion Ramp"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-lowers-carlyle-group-inc-003600096.html",
+          "title_en": "BMO Lowers The Carlyle Group Inc. (CG) PT Amid Rising BDC Redemptions and Credit Strains"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
-          "title": "高盛降低了Oddity Tech Ltd. (ODD) 的目标价，原因是成本上升和需求信号变软。",
+          "time": "2026-04-04 15:54:20",
+          "title": "J.B. Hunt Transport Services, Inc. (JBHT) 的目标价提高，ISI 分析师预见运输行业反弹",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-lowers-oddity-tech-ltd-003826537.html",
-          "title_en": "Goldman Lowers Oddity Tech Ltd. (ODD) PT on Rising Costs and Softer Demand Signals"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/j-b-hunt-transport-services-003427274.html",
+          "title_en": "J.B. Hunt Transport Services, Inc. (JBHT) PT Increased at ISI as Analyst Sees Transport Sector Rebound"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
-          "title": "Oppenheimer降低了WisdomTree, Inc. (WT) 的目标价，认为大西洋之家交易是战略性的和有利的。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-cuts-wisdomtree-inc-wt-003751613.html",
-          "title_en": "Oppenheimer Cuts WisdomTree, Inc. (WT) Target, Sees Atlantic House Deal as Strategic and Accretive"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
+          "time": "2026-04-04 15:54:20",
           "title": "今日维克斯首席内部人选推荐：",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46627_InsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -448,11 +419,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 15:22:50",
-          "title": "蓝鹰私人信贷公司Blue Owl暂停私人信贷赎回",
+          "time": "2026-04-04 15:54:20",
+          "title": "罗思降低威内博戈工业公司(WGO)估值，维持中性评级后Q2业绩",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/shadow-bank-blue-owl-caps-021700097.html",
-          "title_en": "Shadow bank Blue Owl caps private credit redemptions after investors try to pull $5.4 billion"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/roth-lowers-winnebago-industries-inc-003613878.html",
+          "title_en": "Roth Lowers Winnebago Industries, Inc. (WGO) Valuation While Keeping Neutral After Q2 Results"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 15:54:20",
+          "title": "美国税务局(IRS)将Palantir技术用于查找税务逃漏者",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/irs-adds-palantir-tech-tax-031700683.html",
+          "title_en": "IRS adds Palantir tech to find tax cheats"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 15:54:20",
+          "title": "Oppenheimer降低了WisdomTree, Inc. (WT) 的目标价，认为大西洋之家交易是战略性的和有利的。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-cuts-wisdomtree-inc-wt-003751613.html",
+          "title_en": "Oppenheimer Cuts WisdomTree, Inc. (WT) Target, Sees Atlantic House Deal as Strategic and Accretive"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 15:54:20",
+          "title": "JPMorgan将TIC Solutions, Inc. (TIC)降为低估值",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-lowers-tic-solutions-inc-003837508.html",
+          "title_en": "JPMorgan Lowers TIC Solutions, Inc. (TIC) to Underweight on Slower Near-Term Growth Outlook"
         }
       ]
     }
