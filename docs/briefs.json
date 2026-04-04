@@ -1,6 +1,6 @@
 {
   "date": "2026.04.04",
-  "generatedAtBJT": "2026-04-04 21:00:48",
+  "generatedAtBJT": "2026-04-04 21:31:26",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-04 21:00:48",
+          "time": "2026-04-04 21:31:26",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜波动率指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；波动率指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且波动率指标抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且波动率指标回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n-",
+          "summary": "- 主导因素：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Mortgage and refinance interest rates today, April 3, 2026: The oil shoc…\n- 宏观/Fed线索：Week Ahead for FX, Bonds: U.S. Inflation Data Will Be Watched Alongside …"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Trump tells allies to ‘get your own oil’ — Hormuz tensions could push ga…\n- 宏观/Fed线索：Warsh nomination moves ahead, putting Trump's competing Fed plans on a c…"
         }
       ]
     },
@@ -29,11 +29,30 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "特拉迪恩股价持续受益于AI和机器人技术",
+          "time": "2026-04-04 21:31:21",
+          "title": "亿万富翁比尔·阿克曼旗下投资公司近40%的资金投入于3只AI巨头股。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-robotics-keep-teradyne-shares-100203824.html",
-          "title_en": "AI, Robotics Keep Teradyne Shares in Demand"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nearly-40-billionaire-bill-ackmans-125000992.html",
+          "title_en": "Nearly 40% of Billionaire Bill Ackman's Hedge Fund Is Invested in 3 Monster AI Stocks"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 21:31:21",
+          "title": "AI驱动三人组领衔5只股票观察点靠近买点",
+          "summary": "",
+          "url": "https://www.investors.com/news/ai-fueled-trio-among-top-five-stocks-near-buy-points/?src=A00220&yptr=yahoo",
+          "title_en": "AI-Fueled Trio Leads 5 Stocks To Watch Near Buy Points"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-04-04 21:09:00",
+          "title": "使用AI在Airbnb照片中进行编辑是否不道德？",
+          "summary": "无论我做什么，床铺照上还是看起来有点褶皱和磨损，甚至有点脏。",
+          "url": "https://www.marketwatch.com/story/id-like-to-be-a-superhost-is-it-unethical-to-use-ai-in-my-airbnb-photos-to-market-my-property-67c0db11?mod=mw_rss_topstories",
+          "title_en": "Is it unethical to use AI in my Airbnb photos to market my property to guests?",
+          "summary_en": "“No matter what I do, the beds still look a bit creased and worn, even grubby, in pictures.”"
         },
         {
           "source": "CNBC-Top",
@@ -44,16 +63,6 @@
           "url": "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html",
           "title_en": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win",
           "summary_en": "In dominating consumer devices, Apple sold users on the promise of privacy. To compete in AI, it may have to pivot."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-04-04 19:45:00",
-          "title": "使用AI在Airbnb照片中营销房产是否不道德？",
-          "summary": "无论我做什么，床铺照上还是看起来有点褶皱和磨损，甚至有点脏。",
-          "url": "https://www.marketwatch.com/story/id-like-to-be-a-superhost-is-it-unethical-to-use-ai-in-my-airbnb-photos-to-market-my-property-67c0db11?mod=mw_rss_topstories",
-          "title_en": "‘I’d like to be a superhost’: Is it unethical to use AI in my Airbnb photos to market my property?",
-          "summary_en": "“No matter what I do, the beds still look a bit creased and worn, even grubby, in pictures.”"
         },
         {
           "source": "CNBC-Top",
@@ -122,67 +131,14 @@
       "badge": "Fed / Policy",
       "items": [
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "本周外汇和债券市场将密切关注美国的通胀数据，以及中东的发展情况。",
-          "summary": "",
-          "url": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-inflation-data-will-be-watched-alongside-middle-east-developments-f0a19f52?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Week Ahead for FX, Bonds: U.S. Inflation Data Will Be Watched Alongside Middle East Developments"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "4月3日，2026年当日最佳短期存款利率（最高4.01%年利率）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-friday-april-3-2026-100000123.html",
-          "title_en": "Best money market account rates today, April 3, 2026 (up to 4.01% APY return)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "今天4月3日，HELOC和家庭抵押贷款利率：无剧情第二抵押贷款利率",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-friday-april-3-2026-100000194.html",
-          "title_en": "HELOC and home equity loan rates today, April 3, 2026: Drama-free second mortgage rates"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "截至2026年4月3日，最高回报高利率储蓄利率（最高4%APY回报）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-april-3-2026-100000539.html",
-          "title_en": "Best high-yield savings interest rates today, April 3, 2026 (up to 4% APY return)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "大型科技公司H-1B申请大幅下降，亚马逊、谷歌、Meta和微软裁员大幅增加，随着移民成本上升",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/big-tech-h-1b-filings-113109325.html",
-          "title_en": "Big Tech H-1B Filings Plunge As Amazon, Google, Meta And Microsoft Slash Jobs Amid Rising Immigration Costs"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "今日最佳存款利率（最高4.15% APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-april-3-2026-100000145.html",
-          "title_en": "Best CD rates today, April 3, 2026 (up to 4.15% APY return)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "今日（2026年4月4日）高收益储蓄利率（最高可达4%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-april-4-2026-100000933.html",
-          "title_en": "Best high-yield savings interest rates today, April 4, 2026 (Earn up to 4% APY)"
+          "time": "2026-04-04 21:19:30",
+          "title": "沃什提名通过，推动特朗普的竞争性联邦储备委员会计划发生碰撞",
+          "summary": "参议院委员会将考虑凯文·沃什的提名，尽管其中一名成员仍计划阻止。",
+          "url": "https://www.cnbc.com/2026/04/04/warsh-fed-nomination-hearing-set-for-mid-april.html",
+          "title_en": "Warsh nomination moves ahead, putting Trump's competing Fed plans on a collision course",
+          "summary_en": "A Senate committee will consider Kevin Warsh's nomination even as one of its members still plans to block it."
         },
         {
           "source": "CNBC-Top",
@@ -203,16 +159,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "房贷和再融资利率今日（4月3日）：石油冲击对房市的拖累仍在持续",
+          "time": "2026-04-04 21:31:21",
+          "title": "特朗普告诉盟友“你们自己去拿油”——霍尔木兹海峡紧张局势可能进一步推高汽油价格。如何保护您的钱包",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-april-3-2026-100000359.html",
-          "title_en": "Mortgage and refinance interest rates today, April 3, 2026: The oil shock's 'drag on housing' continues"
+          "url": "https://finance.yahoo.com/sectors/energy/articles/trump-tells-allies-own-oil-123000192.html",
+          "title_en": "Trump tells allies to ‘get your own oil’ — Hormuz tensions could push gas prices even higher. How to protect your wallet"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 21:31:21",
+          "title": "石油价格暴涨12%一天内——今天你应该买的惊喜股票",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oil-spiked-12-one-day-130359187.html",
+          "title_en": "Oil Spiked 12% in One Day — Here Is the Surprise Stock You Should Buy Today"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
+          "time": "2026-04-04 21:31:21",
           "title": "伊朗战争中死亡人数统计",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/factboxhow-many-people-have-been-killed-in-the-iran-war-4597441",
@@ -267,11 +232,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "前特斯拉总裁称，马斯克将特斯拉与太空探索技术合并的可能性超过50%",
+          "time": "2026-04-04 21:31:21",
+          "title": "加文·纽森称赞苹果的\"50年创新\"  特斯拉、雪佛兰、麦凯森离开加利福尼亚",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/former-tesla-president-says-higher-100000517.html",
-          "title_en": "Former Tesla President says ‘higher than 50% chance’ Musk will merge Tesla with SpaceX after IPO"
+          "url": "https://finance.yahoo.com/sectors/technology/articles/gavin-newsom-hails-apples-50-123123702.html",
+          "title_en": "Gavin Newsom Hails Apple's '50 Years Of Innovation' As Tesla, Chevron, McKesson Leave California"
         }
       ]
     },
@@ -282,142 +247,88 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "这一举措可以帮助您在退休期间维持更低的医保费用",
+          "time": "2026-04-04 21:31:21",
+          "title": "我认为这是一场错误的转变。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/move-could-help-keep-medicare-112900663.html",
-          "title_en": "This Move Could Help You Keep Your Medicare Premiums Lower Throughout Retirement"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/growth-stock-down-20-great-132000407.html",
+          "title_en": "This Growth Stock Is Down 20% in the Great Rotation. I Think That's a Mistake."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "NIO今年在中国电动汽车同行中脱颖而出：该股还值得买吗？",
+          "time": "2026-04-04 21:31:21",
+          "title": "道琼斯期货：强劲的一周之后，寻找这个有利市场信号",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nio-standing-among-chinese-ev-113002181.html",
-          "title_en": "NIO Is Standing Out Among Chinese EV Peers This Year: Is the Stock Still a Buy?"
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-tesla-jobs-report/?src=A00220&yptr=yahoo",
+          "title_en": "Dow Jones Futures: After Strong Week, Look For This Bullish Market Signal"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "莫斯科购物者和旅行者因支付系统问题受影响",
+          "time": "2026-04-04 21:31:21",
+          "title": "一名女性陷入了与Airbnb和PayPal一年之久的纠纷，无法收回自己的钱。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/currencies/articles/moscow-shoppers-travellers-hit-payment-111351393.html",
-          "title_en": "Moscow shoppers and travellers hit by payment system problem"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/going-circles-one-woman-got-130000334.html",
+          "title_en": "‘I was going in circles’: How one woman got caught in a year-long struggle with Airbnb and PayPal to get her money back"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "比特币和以太坊价格今日（4月3日，星期五，2026年）：价格呈现出两极化的趋势，交易者正在权衡长期前景。",
+          "time": "2026-04-04 21:31:21",
+          "title": "UBS 将 UniFirst Corporation (UNF) 的股价目标提高至 260 美元，原价为 206 美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-friday-april-3-2026-prices-are-mixed-as-traders-weigh-long-term-outlook-120045802.html",
-          "title_en": "Bitcoin and ethereum price today, Friday, April 3, 2026: Prices are mixed as traders weigh long-term outlook"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-raises-price-target-unifirst-122038329.html",
+          "title_en": "UBS Raises its Price Target on UniFirst Corporation (UNF) to $260 from $206"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "特朗普表示，随着军费开支的增加，华盛顿无法为医疗保险（Medicaid）和医疗补助计划（Medicare）提供资金。",
+          "time": "2026-04-04 21:31:21",
+          "title": "价值83.8亿美元，收费0.25%的黄金ETF仍然受投资者青睐",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/trump-not-possible-washington-fund-113500256.html",
-          "title_en": "Trump: It’s ‘not possible’ for Washington to fund Medicaid, Medicare as military spending rises. How to prepare now"
+          "url": "https://finance.yahoo.com/markets/commodities/articles/gold-etf-83-8-billion-131221384.html",
+          "title_en": "The Gold ETF With $83.8 Billion in Assets and a 0.25% Fee Investors Keep Choosing Over GLD"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "达维·拉姆齐告诉妻子今晚晚上要向债务清零的丈夫坦白她隐藏的18,000美元债务。",
+          "time": "2026-04-04 21:31:21",
+          "title": "摩根大通称Lamb Weston Holdings (LW)第三季度财报结果比预期更好。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/dave-ramsey-tells-wife-hiding-112513521.html",
-          "title_en": "Dave Ramsey Tells Wife Hiding $18K Debt to Confess to Her Debt-Free Husband Tonight"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-says-lamb-weston-holdings-122041893.html",
+          "title_en": "JPMorgan Says Lamb Weston Holdings (LW) Q3 Results Were Better Than Feared"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "卡车载货市场价格重新定价，合同溢价缩小",
+          "time": "2026-04-04 21:31:21",
+          "title": "摩根大通降低麦克科米克公司(MKC)的股价目标至64美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/contract-premium-shrinks-truckload-market-110000390.html",
-          "title_en": "Contract premium shrinks as truckload market reprices higher"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-lowers-price-target-mccormick-122039347.html",
+          "title_en": "JPMorgan Lowers its Price Target on McCormick & Company. (MKC) to $64"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "如何更快地达到100万美元",
+          "time": "2026-04-04 21:31:21",
+          "title": "RBC Capital维持对FactSet Research Systems (FDS)的行业表现评级。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/only-rich-once-first-100k-110000829.html",
-          "title_en": "‘You only have to get rich once’ — but the first $100K is hardest, Charlie Munger once said. How to get there faster"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-maintains-sector-perform-122007123.html",
+          "title_en": "RBC Capital Maintains Sector Perform on FactSet Research Systems (FDS)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "专家财务规划师为孩子教育起诉529账户：\"我们可以做的最好的事情\"",
+          "time": "2026-04-04 21:31:21",
+          "title": "罗森布拉特提高了Penguin Solutions.(PENG)的目标价格至32美元",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/best-thing-why-expert-financial-105000253.html",
-          "title_en": "‘The best thing we can do’: Why an expert financial planner is boycotting 529 accounts for his children’s education"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-raises-price-target-penguin-121936452.html",
+          "title_en": "Rosenblatt Raises its Price Target on Penguin Solutions. (PENG) to $32"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "随着汽油价格飙升，你现在有了一个新的理由要求老板让你远程工作",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/gas-prices-spiking-now-reason-103000672.html",
-          "title_en": "With gas prices spiking, you now have a new reason to ask your boss to work from home"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "今日维克斯首席内部人选推荐：",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46627_InsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily – Vickers Top Insider Picks for 04/03/2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "我才发现我妈妈比我想象的要富有得多，她留给我的钱比我想象的要多。如何管理这么多钱？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/articles/mom-much-richer-realized-left-120000825.html",
-          "title_en": "My mom was much richer than I realized, and left me more than I could have imagined. How do I manage this much money?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "我35岁了，父母还在为我支付70多万美元的学生贷款。妈妈想放弃，但爸爸不愿意。应该我接手吗？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/articles/m-35-parents-still-paying-120000940.html",
-          "title_en": "I’m 35 and my parents are still paying my $70K+ student loans. My mom wants out but dad doesn’t. Should I take it over?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "全球七大科技股暴跌总损失达2.1万亿美元",
-          "summary": "",
-          "url": "https://www.investors.com/etfs-and-funds/sectors/sp500-magnificent-7-stock-crashs-toll-reaches-trillions/?src=A00220&yptr=yahoo",
-          "title_en": "The Magnificent 7 Stock Crash's Toll Reaches $2.1 Trillion"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "ESCO技术公司：2026年牛市中，高防御性收入推动两次突破",
-          "summary": "",
-          "url": "https://www.investors.com/research/the-new-america/esco-stock-esco-technologies-aerospace-defense-utility/?src=A00220&yptr=yahoo",
-          "title_en": "ESCO Technologies: 'Highly Defensive' Revenue Powers Pair Of Breakouts In 2026 Rally"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
+          "time": "2026-04-04 21:31:21",
           "title": "2026年4月3日维克斯高买家和高卖家",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46628_TopBottomInsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -426,20 +337,74 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "股市同时出现四个警示信号。上一次出现这种情况，股市损失了7万亿美元。",
+          "time": "2026-04-04 21:31:21",
+          "title": "美国人每年因税务错误损失500美元至3,200美元",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-flashing-4-warning-112000670.html",
-          "title_en": "The Stock Market Is Flashing 4 Warning Signs at Once. The Last Time This Happened, It Lost $7 Trillion."
+          "url": "https://finance.yahoo.com/economy/policy/articles/5-tax-mistakes-costing-americans-131204727.html",
+          "title_en": "The 5 Tax Mistakes Costing Americans an Extra $500 to $3,200 Per Year"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 21:00:43",
-          "title": "美国塔OWER公司（AMT）股价下跌，尽管公司业绩强劲",
+          "time": "2026-04-04 21:31:21",
+          "title": "巴林顿提高了TD SYNNEX（SNX）的目标价至202美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/american-tower-corporation-amt-traded-120056687.html",
-          "title_en": "American Tower Corporation (AMT) Traded Lower Despite Strong Results"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/barrington-raises-price-target-td-121925465.html",
+          "title_en": "Barrington Raises its Price Target on TD SYNNEX (SNX) to $202"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 21:31:21",
+          "title": "摩根士丹利提高了nCino (NCNO) 的目标价至23美元，原价21美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-raises-price-target-121913310.html",
+          "title_en": "Morgan Stanley Raises its Price Target on nCino (NCNO) to $23 from $21"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 21:31:21",
+          "title": "Alliance Global 维持买入评级和 $13 的目标价（PT）对 Rezolve (RZLV)",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alliance-global-maintains-buy-rating-121904563.html",
+          "title_en": "Alliance Global Maintains Buy Rating and $13 PT on Rezolve (RZLV)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 21:31:21",
+          "title": "Wedbush降低了Progress Software (PRGS)的目标价格至45美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wedbush-lowers-price-target-progress-121854053.html",
+          "title_en": "Wedbush Lowers its Price Target on Progress Software (PRGS) to $45"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 21:31:21",
+          "title": "今日维克斯首席内部人选推荐：",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46627_InsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily – Vickers Top Insider Picks for 04/03/2026"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 21:31:21",
+          "title": "持有500美元？ 这家金融科技公司的股票可能会给长期投资者带来回报。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/got-500-fintech-stock-could-130500697.html",
+          "title_en": "Got $500? This Fintech Stock Could Reward Patient Long-Term Investors."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 21:31:21",
+          "title": "本周股市前瞻：观望之际",
+          "summary": "",
+          "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-watchful-waiting/?src=A00220&yptr=yahoo",
+          "title_en": "Stock Market Week Ahead: Watchful Waiting"
         }
       ]
     }
