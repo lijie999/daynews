@@ -1,6 +1,6 @@
 {
   "date": "2026.04.04",
-  "generatedAtBJT": "2026-04-04 18:27:34",
+  "generatedAtBJT": "2026-04-04 18:58:02",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-04 18:27:34",
+          "time": "2026-04-04 18:58:02",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主要驱动因素：10年期利率 + 原油价格/风险事件\n- 四大监控指标：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密",
+          "summary": "- 主要驱动因素：10年期利率 + 原油价格/风险事件\n- 四大监控指标：10年期利率（方向/拐点）｜美元指数（强弱）｜威尔shire指数（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金价格更易回撤；威尔shire指数上升→盘中更易出现急剧波动/假突破\n- 未来90分钟关键窗口：关注是否临近数据发布/讲话/美债拍卖/开盘等事件窗口；事件前后避免追单\n- 情景A：若10年期利率继续上行且威尔shire指数抬升→偏纳斯达克/标普500先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且威尔shire指数回落→偏纳斯达克/标普500修复反弹、黄金价格喘息；操作偏好：回",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Cheniere Energy Inc (LNG) Sees Huge LNG Growth in Asia as Qatar Struggle…\n- 宏观/Fed线索：Best money market account rates today, April 3, 2026 (up to 4.01% APY re…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Cheniere Energy Inc (LNG) Sees Huge LNG Growth in Asia as Qatar Struggle…\n- 宏观/Fed线索：What We’re Looking For in Today’s Jobs Report…"
         }
       ]
     },
@@ -29,7 +29,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
+          "time": "2026-04-04 18:57:57",
+          "title": "FERC被要求拒绝TeraWulf的电力厂收购，理由是未披露的谷歌控股股份",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/ferc-urged-reject-terawulf-power-093032126.html",
+          "title_en": "FERC urged to reject TeraWulf’s power plant purchase due to undisclosed Google ownership stake"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:57:57",
           "title": "吉姆·克雷默注意到，NVIDIA的市盈率“完全不合理”。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-nvidia-pe-090834786.html",
@@ -38,7 +47,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
+          "time": "2026-04-04 18:57:57",
           "title": "吉姆·克拉默认为\"第一修正案将是Meta所做的一种很好的保护者\"",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-first-amendment-090848008.html",
@@ -47,11 +56,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
-          "title": "MARA控股（MARA）上涨8.3%，受AI-HPC驱动",
+          "time": "2026-04-04 18:57:57",
+          "title": "特拉迪恩股价持续受益于AI和机器人技术",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/mara-holdings-mara-jumps-8-064112649.html",
-          "title_en": "MARA Holdings (MARA) Jumps 8.3% on AI-HPC Drive"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-robotics-keep-teradyne-shares-100203824.html",
+          "title_en": "AI, Robotics Keep Teradyne Shares in Demand"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:57:57",
+          "title": "谷歌母公司 Alphabet 与微软：在大转变期间购买的更好的增长股",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-vs-microsoft-better-growth-092500319.html",
+          "title_en": "Alphabet vs. Microsoft: The Better Growth Stock to Buy During the Great Rotation"
         },
         {
           "source": "CNBC-Top",
@@ -152,7 +170,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
+          "time": "2026-04-04 18:57:57",
+          "title": "今天的就业报告我们关注的是：",
+          "summary": "",
+          "url": "https://www.wsj.com/economy/jobs/what-were-looking-for-in-todays-jobs-report-67a4ec0f?siteid=yhoof2&yptr=yahoo",
+          "title_en": "What We’re Looking For in Today’s Jobs Report"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:57:57",
+          "title": "今天4月3日，HELOC和家庭抵押贷款利率：无剧情第二抵押贷款利率",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-friday-april-3-2026-100000194.html",
+          "title_en": "HELOC and home equity loan rates today, April 3, 2026: Drama-free second mortgage rates"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:57:57",
           "title": "4月3日，2026年当日最佳短期存款利率（最高4.01%年利率）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-friday-april-3-2026-100000123.html",
@@ -161,20 +197,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
+          "time": "2026-04-04 18:57:57",
           "title": "截至2026年4月3日，最高回报高利率储蓄利率（最高4%APY回报）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-april-3-2026-100000539.html",
           "title_en": "Best high-yield savings interest rates today, April 3, 2026 (up to 4% APY return)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
-          "title": "今天4月3日，HELOC和家庭抵押贷款利率：无剧情第二抵押贷款利率",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-friday-april-3-2026-100000194.html",
-          "title_en": "HELOC and home equity loan rates today, April 3, 2026: Drama-free second mortgage rates"
         },
         {
           "source": "CNBC-Top",
@@ -195,7 +222,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
+          "time": "2026-04-04 18:57:57",
           "title": "美国天然气公司Cheniere Energy Inc (LNG)预计亚洲天然气需求将大幅增长，尽管卡塔尔的天然气出口受到影响。",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/energy/articles/cheniere-energy-inc-lng-sees-090619049.html",
@@ -204,7 +231,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
+          "time": "2026-04-04 18:57:57",
           "title": "房贷和再融资利率今日（4月3日）：石油冲击对房市的拖累仍在持续",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-friday-april-3-2026-100000359.html",
@@ -213,11 +240,21 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
+          "time": "2026-04-04 18:57:57",
           "title": "伊朗战争中死亡人数统计",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/factboxhow-many-people-have-been-killed-in-the-iran-war-4597441",
           "title_en": "Factbox-How many people have been killed in the Iran war?"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:29:11",
+          "title": "美国战斗机在伊朗被击落，MS NOW报道称一名机组成员被救出。",
+          "summary": "美国正在寻找F-15飞机的第二名机组人员，目前其下落不明，据MS NOW报道，引述两名美国官员的话。",
+          "url": "https://www.cnbc.com/2026/04/03/us-fighter-jet-downed-in-iran.html",
+          "title_en": "U.S. fighter jet shot down in Iran, one crew member rescued, MS NOW reports",
+          "summary_en": "The U.S. is searching for the second member of the F-15 aircraft's crew, whose whereabouts are unknown, MS NOW reported, citing two U.S. officials."
         },
         {
           "source": "CNBC-Top",
@@ -228,16 +265,6 @@
           "url": "https://www.cnbc.com/2026/04/04/debris-from-interception-strikes-oracle-building-in-dubai-uae-says.html",
           "title_en": "Debris from aerial interception strikes Oracle building in Dubai, UAE says",
           "summary_en": "The damage to Oracle's building comes after Iran warned it would target U.S. tech companies operating in the Middle East."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-04 05:05:30",
-          "title": "美国战斗机在伊朗被击落，MS NOW报道称一名机组成员被救出。",
-          "summary": "飞机是否被击落或是因其他原因坠毁，尚不清楚。",
-          "url": "https://www.cnbc.com/2026/04/03/us-fighter-jet-downed-in-iran.html",
-          "title_en": "U.S. fighter jet shot down in Iran, one crew member rescued, MS NOW reports",
-          "summary_en": "It is unclear if the plane was shot down or went down for another reason."
         },
         {
           "source": "MarketWatch-Top",
@@ -278,7 +305,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
+          "time": "2026-04-04 18:57:57",
           "title": "前特斯拉总裁称，马斯克将特斯拉与太空探索技术合并的可能性超过50%",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/former-tesla-president-says-higher-100000517.html",
@@ -293,142 +320,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
-          "title": "佩里米安资源公司（PR）：这个低成本生产商有哪些优势？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/permian-resources-corp-pr-does-090629909.html",
-          "title_en": "Permian Resources Corp (PR): What Does This Low-Cost Producer Have to Offer?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
-          "title": "Cenovus Energy Incorporation (CVE) 获得信用评级升级",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/cenovus-energy-incorporation-cve-gets-090637338.html",
-          "title_en": "Cenovus Energy Incorporation (CVE) Gets Credit Outlook Upgrade"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
-          "title": "Bunge全球SA (BG) 公布了豪华股东回报计划",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bunge-global-sa-bg-outlines-090650374.html",
-          "title_en": "Bunge Global SA (BG) Outlines Lavish Shareholder Return Plan"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
-          "title": "Vertiv Holdings (VRT) 正在通过ThermoKey收购中获得什么？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-vrt-getting-thermokey-090604398.html",
-          "title_en": "What is Vertiv Holdings (VRT) Getting in the ThermoKey Acquisition?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
-          "title": "巴西石油（PBR）是现在必须购买的非科技股之一吗？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/petroleo-brasileiro-pbr-one-must-090701571.html",
-          "title_en": "Is Petroleo Brasileiro (PBR) One of the Must-Buy Non-Tech Stocks to Invest in Now?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
-          "title": "Diamondback 能源公司 (FANG) 在米德兰和德拉瓦盆地扩大生产",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/diamondback-energy-inc-fang-expands-090551731.html",
-          "title_en": "Diamondback Energy Inc (FANG) Expands Production in Midland and Delaware Basins"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
-          "title": "如果您有SNAP福利，您需要担心税收吗？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/worry-taxes-snap-benefits-090129401.html",
-          "title_en": "Do You Have To Worry About Taxes If You Have SNAP Benefits?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
-          "title": "我60岁，401(k)账户有75万美元。每年转换75,000美元是否能减少未来的RMD？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/im-60-750k-401-k-151349628.html",
-          "title_en": "I'm 60 With $750k in a 401(k). Should I Convert $75,000 Annually to Reduce Future RMDs?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
-          "title": "2026年4月3日维克斯高买家和高卖家",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46628_TopBottomInsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily – Vickers Top Buyers & Sellers for 04/03/2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
-          "title": "吉姆·克拉默（Jim Cramer）强调黑石（Blackstone）股价的波动",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-blackstone-pin-090901709.html",
-          "title_en": "Jim Cramer Highlights Blackstone Pin Action"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
-          "title": "两只值得购买并持有未来的能源股",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/2-energy-stocks-worth-buying-090400592.html",
-          "title_en": "2 Energy Stocks Worth Buying Now and Holding Through Whatever Comes Next"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
-          "title": "吉姆·克拉默（Jim Cramer）对Vertiv Holdings的看法：“它已经太高了，自从它太高了就一直是这样。”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-vertiv-holdings-too-090911659.html",
-          "title_en": "Jim Cramer on Vertiv Holdings: “It’s Been Too High Ever Since It Got Too High”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
-          "title": "吉姆·克雷默称Salesforce“言行一致”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-salesforce-putting-091014345.html",
-          "title_en": "Jim Cramer Says Salesforce “Is Putting Its Money Where Its Mouth Is”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
-          "title": "今日维克斯首席内部人选推荐：",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46627_InsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily – Vickers Top Insider Picks for 04/03/2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
-          "title": "吉姆·克拉默谈到BKV Corporation：“这是一笔好事”",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-bkv-corporation-good-091024121.html",
-          "title_en": "Jim Cramer on BKV Corporation: “This Is a Good One”"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
+          "time": "2026-04-04 18:57:57",
           "title": "吉姆·克雷默谈到威斯特莱克公司：如果战争结束了，我认为这只股票是如此便宜。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-westlake-corporation-war-091034338.html",
@@ -437,20 +329,155 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
-          "title": "纸箱需求下滑预示着衰退",
-          "summary": "",
-          "url": "https://finance.yahoo.com/economy/articles/america-latest-recession-warning-brown-090000933.html",
-          "title_en": "Recession warning seen in demand for cardboard boxes"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 18:27:28",
+          "time": "2026-04-04 18:57:57",
           "title": "詹姆斯·克雷默（Jim Cramer）谈到巴里克矿业公司（Barrick Mining Corporation）：\"我不喜欢它，但我喜欢阿吉科（Agnico)\"",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-barrick-mining-corporation-091044444.html",
           "title_en": "Jim Cramer on Barrick Mining Corporation: “I Don’t Like That, But I Do Like Agnico”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:57:57",
+          "title": "吉姆·克拉默（Jim Cramer）强调黑石（Blackstone）股价的波动",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-blackstone-pin-090901709.html",
+          "title_en": "Jim Cramer Highlights Blackstone Pin Action"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:57:57",
+          "title": "吉姆·克雷默说：“对于Sysco，Jetro收购是非常出色的”。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-sysco-jetro-091120825.html",
+          "title_en": "Jim Cramer Says “For Sysco, the Jetro Acquisition’s Superb”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:57:57",
+          "title": "当资金被锁定时，私人信贷基金的价值如何？",
+          "summary": "",
+          "url": "https://www.wsj.com/finance/investing/whats-a-private-credit-fund-worth-when-the-money-is-locked-up-c93c687d?siteid=yhoof2&yptr=yahoo",
+          "title_en": "What’s a Private-Credit Fund Worth When the Money Is Locked Up?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:57:57",
+          "title": "吉姆·克拉默谈到BKV Corporation：“这是一笔好事”",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-bkv-corporation-good-091024121.html",
+          "title_en": "Jim Cramer on BKV Corporation: “This Is a Good One”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:57:57",
+          "title": "吉姆·克拉默（Jim Cramer）谈到麦克米兰公司（McCormick & Company）：\"这只股票并没有吸引力\"",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-mccormick-company-stock-091106681.html",
+          "title_en": "Jim Cramer on McCormick & Company: “Stock Just Doesn’t Entice”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:57:57",
+          "title": "吉姆·克拉默称他“会买入Okta”",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buyer-okta-091054168.html",
+          "title_en": "Jim Cramer Says He “Would Be a Buyer of Okta”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:57:57",
+          "title": "吉姆·克拉默（Jim Cramer）对Vertiv Holdings的看法：“它已经太高了，自从它太高了就一直是这样。”",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-vertiv-holdings-too-090911659.html",
+          "title_en": "Jim Cramer on Vertiv Holdings: “It’s Been Too High Ever Since It Got Too High”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:57:57",
+          "title": "2026年4月3日维克斯高买家和高卖家",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46628_TopBottomInsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily – Vickers Top Buyers & Sellers for 04/03/2026"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:57:57",
+          "title": "吉姆·克雷默称Salesforce“言行一致”",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-salesforce-putting-091014345.html",
+          "title_en": "Jim Cramer Says Salesforce “Is Putting Its Money Where Its Mouth Is”"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:57:57",
+          "title": "Bunge全球SA (BG) 公布了豪华股东回报计划",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bunge-global-sa-bg-outlines-090650374.html",
+          "title_en": "Bunge Global SA (BG) Outlines Lavish Shareholder Return Plan"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:57:57",
+          "title": "今日维克斯首席内部人选推荐：",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46627_InsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily – Vickers Top Insider Picks for 04/03/2026"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:57:57",
+          "title": "阿拉伯海湾的主权财富基金简介",
+          "summary": "",
+          "url": "https://www.wsj.com/finance/a-guide-to-the-gulfs-trillions-of-dollars-of-sovereign-wealth-c17b505e?siteid=yhoof2&yptr=yahoo",
+          "title_en": "A Guide to the Gulf’s Trillions of Dollars of Sovereign Wealth"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:57:57",
+          "title": "佩里米安资源公司（PR）：这个低成本生产商有哪些优势？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/permian-resources-corp-pr-does-090629909.html",
+          "title_en": "Permian Resources Corp (PR): What Does This Low-Cost Producer Have to Offer?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:57:57",
+          "title": "巴西石油（PBR）是现在必须购买的非科技股之一吗？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/petroleo-brasileiro-pbr-one-must-090701571.html",
+          "title_en": "Is Petroleo Brasileiro (PBR) One of the Must-Buy Non-Tech Stocks to Invest in Now?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:57:57",
+          "title": "Cenovus Energy Incorporation (CVE) 获得信用评级升级",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/cenovus-energy-incorporation-cve-gets-090637338.html",
+          "title_en": "Cenovus Energy Incorporation (CVE) Gets Credit Outlook Upgrade"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 18:57:57",
+          "title": "继承财产时，拒绝接受财产的权利",
+          "summary": "",
+          "url": "https://www.wsj.com/personal-finance/taxes/when-heirs-are-right-to-say-thanks-but-no-thanks-to-an-inheritance-5ea96aac?siteid=yhoof2&yptr=yahoo",
+          "title_en": "When Heirs Are Right to Say ‘Thanks but No Thanks’ to an Inheritance"
         }
       ]
     }
