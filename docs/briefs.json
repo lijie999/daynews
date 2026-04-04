@@ -1,6 +1,6 @@
 {
   "date": "2026.04.04",
-  "generatedAtBJT": "2026-04-04 13:10:22",
+  "generatedAtBJT": "2026-04-04 13:41:40",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-04 13:10:22",
+          "time": "2026-04-04 13:41:40",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动",
+          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克指数/标普500指数承压更明显；美元指数上升→黄金价格更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克指数/标普500指数先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克指数/标普500指数修复反弹、黄金价格喘息；操作偏好：回踩参与、避免追高\n-",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：U.S. Oil Futures Rise 11.4% in Wake of Trump Address…\n- 宏观/Fed线索：These master's degrees lead to fast-growing, in-demand jobs—but offer lo…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Factbox-How many people have been killed in the Iran war?…\n- 宏观/Fed线索：These master's degrees lead to fast-growing, in-demand jobs—but offer lo…"
         }
       ]
     },
@@ -29,16 +29,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
+          "time": "2026-04-04 13:41:36",
           "title": "适合于在亚马逊购物的最佳信用卡：在2026年4月，提升亚马逊购物的有价值奖励",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-shopping-on-amazon-212142241.html",
           "title_en": "Best credit cards for shopping on Amazon for April 2026: Boost your Amazon purchases with valuable rewards"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 13:41:36",
+          "title": "Jensen Huang表示，Nvidia的收入潜力令人惊讶。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-just-said-something-223000951.html",
+          "title_en": "Jensen Huang Just Said Something Astounding About Nvidia's Revenue Potential"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 13:41:36",
+          "title": "亚马逊对卖家征收燃油附加费，随着战争带来的成本不断上升",
+          "summary": "",
+          "url": "https://finance.yahoo.com/economy/policy/articles/amazon-imposes-fuel-surcharge-sellers-223000812.html",
+          "title_en": "Amazon Imposes Fuel Surcharge on Sellers as War-Driven Costs Mount"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
+          "time": "2026-04-04 13:41:36",
           "title": "马斯克要求SpaceXIPO银行购买Grok AI订阅，纽约时报报道",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/musk-asks-spacex-ipo-banks-to-buy-grok-ai-subscriptions-nyt-reports-4597196",
@@ -167,18 +185,9 @@
       "badge": "Risk / Oil / Gold",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
-          "title": "美国原油期货价格在特朗普演讲后上涨11.4%",
-          "summary": "",
-          "url": "https://www.wsj.com/livecoverage/iran-war-news-trump/card/u-s-oil-futures-rise-11-4-in-wake-of-trump-address-18Uq6wkgOIy0QfmeCoQT?siteid=yhoof2&yptr=yahoo",
-          "title_en": "U.S. Oil Futures Rise 11.4% in Wake of Trump Address"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
+          "time": "2026-04-04 13:41:36",
           "title": "伊朗战争中死亡人数统计",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/factboxhow-many-people-have-been-killed-in-the-iran-war-4597441",
@@ -187,7 +196,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
+          "time": "2026-04-04 13:41:36",
           "title": "日本、法国和阿曼的舰船穿越霍尔木兹海峡",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/japanese-french-and-omani-vessels-cross-the-strait-of-hormuz-4597167",
@@ -290,6 +299,15 @@
       "badge": "TSLA chain",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 13:41:36",
+          "title": "特斯拉股价的糟糕一年又更糟了。但是，这是时候买入这家电动汽车制造商的壮丽成长故事吗？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stocks-bad-just-got-224100170.html",
+          "title_en": "Tesla Stock's Bad Year Just Got Even Worse. But Is This the Time to Buy Into the Electric-Car Maker's Spectacular Growth Story?"
+        },
+        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-04-03 04:26:51",
@@ -308,25 +326,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
-          "title": "帕罗奥多CEO10万美元的买盘可能标志着网络安全股价的底部。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-ceos-10-million-220105552.html",
-          "title_en": "Palo Alto CEO's $10 Million Buy May Signal A Bottom In Cybersecurity Stocks"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
-          "title": "燃油价格大幅上涨迫使航空公司进入紧急状态",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/fuel-shock-forces-airlines-emergency-220000159.html",
-          "title_en": "Fuel Shock Forces Airlines Into Emergency Mode"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
+          "time": "2026-04-04 13:41:36",
           "title": "4月2026年最佳转账利率信用卡：不用支付利息直到2027年",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-balance-transfer-credit-cards-123841213.html",
@@ -335,16 +335,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
-          "title": "摩根士丹利和史坦德普（S&P）均对Echo Global收购表示支持。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/two-solid-yes-votes-echo-215518877.html",
-          "title_en": "Two solid ‘yes’ votes for Echo Global’s acquisition: Moody’s and S&P"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
+          "time": "2026-04-04 13:41:36",
           "title": "玉米进入长周末时期波动",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/commodities/articles/corn-heads-long-weekend-mixed-221444555.html",
@@ -353,25 +344,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
-          "title": "低成本航空公司CEO发出关于喷气燃料的严厉警告",
+          "time": "2026-04-04 13:41:36",
+          "title": "燃油价格大幅上涨迫使航空公司进入紧急状态",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/low-cost-airline-ceo-gives-220041575.html",
-          "title_en": "Low-cost airline CEO gives stark warning about jet fuel"
+          "url": "https://finance.yahoo.com/sectors/energy/articles/fuel-shock-forces-airlines-emergency-220000159.html",
+          "title_en": "Fuel Shock Forces Airlines Into Emergency Mode"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
-          "title": "未来将如何？",
+          "time": "2026-04-04 13:41:36",
+          "title": "摩根士丹利和史坦德普（S&P）均对Echo Global收购表示支持。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/predict-spheres-future-214002041.html",
-          "title_en": "Can You Predict The Sphere’s Future?"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/two-solid-yes-votes-echo-215518877.html",
+          "title_en": "Two solid ‘yes’ votes for Echo Global’s acquisition: Moody’s and S&P"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
+          "time": "2026-04-04 13:41:36",
+          "title": "伯克希尔·哈撒韦的沃伦·巴菲特称，投资这个1个投资，月入300美元可以变成100万美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-says-buy-1-225000988.html",
+          "title_en": "Warren Buffett Says Buy This 1 Investment and Turn $300 a Month Into $1 Million"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 13:41:36",
+          "title": "Sysco刚刚宣布29.1亿美元的收购计划，华尔街人士开始担忧。3%的股息能否弥补这一风险？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sysco-just-announced-29-1-233002373.html",
+          "title_en": "Sysco Just Announced a $29.1 Billion Acquisition and Wall Street Is Nervous. Can a 3% Dividend Sweeten the Deal?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 13:41:36",
           "title": "信用卡利息计算方法：首先计算信用卡欠款的本金；然后根据信用卡的利率计算利息；最后将利息加上本金即可得出信用卡欠款的总金额。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-to-calculate-credit-card-interest-222228806.html",
@@ -380,16 +389,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
-          "title": "新能源冲击，第三部分：资本下一步去哪里",
+          "time": "2026-04-04 13:41:36",
+          "title": "未来将如何？",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/energy-shock-part-3-where-213040864.html",
-          "title_en": "The new energy shock, Part 3: Where capital moves next"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/predict-spheres-future-214002041.html",
+          "title_en": "Can You Predict The Sphere’s Future?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
+          "time": "2026-04-04 13:41:36",
           "title": "2026年4月3日维克斯高买家和高卖家",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46628_TopBottomInsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -398,52 +407,52 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
-          "title": "我64岁，持有150万美元的401(k)账户。如何规划我的退休金？",
+          "time": "2026-04-04 13:41:36",
+          "title": "美国禁止加密货币运营商，原因是迪拜发出了停止运营的命令。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/aiming-monthly-income-11-500-091000132.html",
-          "title_en": "‘We’re aiming for a monthly income of $11,500’: I’m 64. I’ve $1.5 million in a 401(k). How do I time my withdrawals?"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/u-bans-crypto-operator-dubai-225301785.html",
+          "title_en": "U.S. bans crypto operator after Dubai cease and desist"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
-          "title": "转账平衡是指将信用卡上的欠款转移到另一张信用卡上，通常是为了避免高利率或获得更好的利率。",
+          "time": "2026-04-04 13:41:36",
+          "title": "美联储即时支付服务（FedNow）是一项由美联储开发的即时支付系统，旨在为美国的银行和金融机构提供快速、安全的支付服务。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-do-balance-transfers-work-204135174.html",
-          "title_en": "What is a balance transfer and how does it work?"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/what-is-fednow-173505833.html",
+          "title_en": "What is FedNow, and how does it work?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
-          "title": "无论是持仓交易还是波动交易，戴尔股票的快速利润都是如此。",
+          "time": "2026-04-04 13:41:36",
+          "title": "2026年4月最佳家庭抵押贷款贷款机构",
           "summary": "",
-          "url": "https://www.investors.com/research/swing-trading/dell-stock-quick-profit-position-trading-swing-trading/?src=A00220&yptr=yahoo",
-          "title_en": "Whether Position Trading Or Swing Trading, Here's Why Dell Stock Was A Quick Profit"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/best-home-equity-loan-lenders-223817340.html",
+          "title_en": "Best home equity loan lenders of April 2026"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
-          "title": "信用卡费用解释：8种类型你应该知道",
+          "time": "2026-04-04 13:41:36",
+          "title": "2026年4月最佳FHA贷款银行",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/types-credit-card-fees-144450351.html",
-          "title_en": "Credit card fees explained: 8 types you should know"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/best-fha-loan-lenders-164715819.html",
+          "title_en": "Best FHA loan lenders of April 2026"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
-          "title": "Plug Power recently签下了一笔新的加拿大订单。现在是买入Plug Power股票的好时机吗？",
+          "time": "2026-04-04 13:41:36",
+          "title": "2026年4月最佳逆向抵押公司",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/plug-power-just-scored-deal-211126010.html",
-          "title_en": "Plug Power Just Scored a New Deal in Canada. Should You Buy Plug Stock Here?"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/best-reverse-mortgage-companies-161204700.html",
+          "title_en": "Best reverse mortgage companies of April 2026"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
+          "time": "2026-04-04 13:41:36",
           "title": "今日维克斯首席内部人选推荐：",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46627_InsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -452,20 +461,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
-          "title": "Nike 股票今日下滑，受多家华尔街分析师降低目标价影响。",
+          "time": "2026-04-04 13:41:36",
+          "title": "今日股市，4月2日：诺基亚因激增的乐观期权活动而上涨",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-april-2-215816916.html",
-          "title_en": "Stock Market Today, April 2: Nike Shares Slide After Numerous Price Target Cuts From Wall Street"
+          "url": "https://finance.yahoo.com/markets/options/articles/stock-market-today-april-2-225459035.html",
+          "title_en": "Stock Market Today, April 2: Nokia Rises on Surge in Bullish Options Activity"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-04 13:10:17",
-          "title": "黄金ETF（GLD）吸收550亿美元",
+          "time": "2026-04-04 13:41:36",
+          "title": "ISS建议支持Organigram Global Inc. (OGI)收购Sanity Group GmbH",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/daily-etf-flows-gld-gathers-210005856.html",
-          "title_en": "Daily ETF Flows: GLD Gathers $550M"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/iss-recommends-shareholder-support-organigram-000217342.html",
+          "title_en": "ISS Recommends Shareholder Support for Organigram Global Inc. (OGI)’s Acquisition of Sanity Group GmbH"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-04 13:41:36",
+          "title": "巴克莱调整Aveanna Healthcare Holdings Inc. (AVAH)预期，维持买入评级",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/barclays-adjusts-aveanna-healthcare-holdings-000248297.html",
+          "title_en": "Barclays Adjusts Aveanna Healthcare Holdings Inc. (AVAH) Outlook After Q4 Results, Keeps Overweight Rating"
         }
       ]
     }
