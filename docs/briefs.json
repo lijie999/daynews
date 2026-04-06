@@ -1,6 +1,6 @@
 {
   "date": "2026.04.06",
-  "generatedAtBJT": "2026-04-06 19:40:24",
+  "generatedAtBJT": "2026-04-06 20:10:48",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-06 19:40:24",
+          "time": "2026-04-06 20:10:48",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期利率 + 原油价格风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金价格更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再",
+          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金价格更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏NQ/ES先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、黄金价格喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且V",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Dow Jones Futures: Trump Threatens 'Hell' Amid Iran Cease-Fire Efforts; …\n- 宏观/Fed线索：Gold price today, Monday, April 6: Gold strengthens after improved jobs …"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Dow Jones Futures Fall, Techs Rise; Trump Threatens 'Hell' Amid Iran Cea…\n- 宏观/Fed线索：Gold price today, Monday, April 6: Gold strengthens after improved jobs …"
         }
       ]
     },
@@ -27,23 +27,42 @@
       "badge": "Mag7 / Semis",
       "items": [
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
-          "title": "摩根士丹利发现人工智能劳动力冲击在早期阶段仍然有限。",
+          "time": "2026-04-06 20:10:44",
+          "title": "魔力拼（Magicpin）推出人工智能助手",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-finds-ai-labor-disruption-remains-limited-in-early-stages-93CH-4598103",
-          "title_en": "Morgan Stanley finds AI labor disruption remains limited in early stages"
+          "url": "https://finance.yahoo.com/sectors/technology/articles/food-delivery-platform-magicpin-rolls-120138002.html",
+          "title_en": "Food delivery platform magicpin rolls out AI assistant"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-06 20:10:44",
+          "title": "布罗德كم公司CEO看到了1000亿美元的AI芯片收入。该股是否买入？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcoms-ceo-line-sight-100-120000962.html",
+          "title_en": "Broadcom's CEO Has Line of Sight to $100 Billion in AI Chip Revenue. Is the Stock a Buy?"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-06 18:49:07",
+          "time": "2026-04-06 19:55:38",
           "title": "贾米·迪蒙(JPMorgan CEO Jamie Dimon)在年度信函中指出，地缘政治、人工智能和私人市场都存在风险。",
           "summary": "杰米·迪蒙在他的年度股东信中提到该国250周年纪念，并呼吁广泛重新承诺美国理念。",
           "url": "https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html",
           "title_en": "JPMorgan CEO Jamie Dimon in annual letter cites risks in geopolitics, AI and private markets",
           "summary_en": "JPMorgan CEO Jamie Dimon in his annual letter to shareholders noted the country's 250th anniversary and called for a broad recommitment to American ideals."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-04-06 19:50:00",
+          "title": "谷歌刚刚狠狠地打了这些高飞的科技股一巴掌——不要被短暂的反弹所欺骗",
+          "summary": "谷歌的TurboQuant打破了内存芯片的垄断 cartel —— 而且现在看来，硬件重的AI理论已经成为昨天的新闻。",
+          "url": "https://www.marketwatch.com/story/google-just-sucker-punched-these-highflying-tech-stocks-dont-let-the-relief-rally-fool-you-951ba552?mod=mw_rss_topstories",
+          "title_en": "Google just sucker-punched these highflying tech stocks — don’t let the relief rally fool you",
+          "summary_en": "Google’s TurboQuant cracks the memory-chip cartel — and the hardware-heavy AI thesis now looks like yesterday’s news."
         },
         {
           "source": "MarketWatch-Top",
@@ -104,7 +123,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
           "title": "金价今日（周一，4月6日）：金价强劲反弹，受就业报告改善和混杂的战争消息影响",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-april-6-gold-strengthens-after-improved-jobs-report-and-mixed-war-news-110339214.html",
@@ -113,16 +132,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
-          "title": "今日（4月6日）房贷和再融资利率下降了四分之一点，五天内下降了四分之一点。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-april-6-2026-100000808.html",
-          "title_en": "Mortgage and refinance rates today, April 6, 2026: Down a quarter point in 5 days"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
           "title": "截至2026年4月6日，今日高收益储蓄利率（最高可达4%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-april-6-2026-100000925.html",
@@ -131,25 +141,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
-          "title": "今日最佳短期存款利率（4月6日，最高4.01%年利率）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-april-6-2026-100000693.html",
-          "title_en": "Best money market account rates today, April 6, 2026 (Earn up to 4.01% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
-          "title": "HELOC和家庭抵押贷款利率 2026年4月6日：选择权在你手中",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-april-6-2026-100000271.html",
-          "title_en": "HELOC and home equity loan rates Monday, April 6, 2026: The choice is yours"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
           "title": "今日最佳定期存款利率（4月6日，锁定至4.15%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-april-6-2026-100000352.html",
@@ -158,16 +150,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
-          "title": "本周日，4月5日，2026年：要记住的一件事",
+          "time": "2026-04-06 20:10:44",
+          "title": "今日最佳短期存款利率（4月6日，最高4.01%年利率）",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-april-5-2026-100000032.html",
-          "title_en": "HELOC and home equity loan rates Sunday, April 5, 2026: One thing to remember"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-april-6-2026-100000693.html",
+          "title_en": "Best money market account rates today, April 6, 2026 (Earn up to 4.01% APY)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
+          "title": "HELOC和家庭抵押贷款利率 2026年4月6日：选择权在你手中",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-april-6-2026-100000271.html",
+          "title_en": "HELOC and home equity loan rates Monday, April 6, 2026: The choice is yours"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-06 20:10:44",
+          "title": "今日（4月6日）房贷和再融资利率下降了四分之一点，五天内下降了四分之一点。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-april-6-2026-100000808.html",
+          "title_en": "Mortgage and refinance rates today, April 6, 2026: Down a quarter point in 5 days"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-06 20:10:44",
           "title": "今日（4月5日）最佳现金市场账户利率（最高利率为4.01% APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-april-5-2026-100000447.html",
@@ -176,25 +186,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
-          "title": "今日（2026年4月5日）高收益储蓄利率（最高可达4%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-sunday-april-5-2026-100000985.html",
-          "title_en": "Best high-yield savings interest rates today, April 5, 2026 (Earn up to 4% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
-          "title": "今日（4月5日）房贷和再融资利率大幅下降",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-april-5-2026-100000350.html",
-          "title_en": "Mortgage and refinance interest rates today, April 5, 2026: Down sharply from last weekend"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
           "title": "今日最佳存款利率（最高可锁定4.15%年利率）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-april-5-2026-100000751.html",
@@ -203,25 +195,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
-          "title": "截至2026年4月4日，最佳现金市场账户利率（最高利率账户为4.01% APY）",
+          "time": "2026-04-06 20:10:44",
+          "title": "本周日，4月5日，2026年：要记住的一件事",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-april-4-2026-100000551.html",
-          "title_en": "Best money market account rates today, April 4, 2026 (best account provides 4.01% APY)"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-april-5-2026-100000032.html",
+          "title_en": "HELOC and home equity loan rates Sunday, April 5, 2026: One thing to remember"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
-          "title": "本周六，4月4日：HELOC和家庭抵押贷款利率低且与首贷利率挂钩。",
+          "time": "2026-04-06 20:10:44",
+          "title": "今日（4月5日）房贷和再融资利率大幅下降",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-april-4-2026-100000113.html",
-          "title_en": "HELOC and home equity loan rates Saturday, April 4, 2026: Low and tied to the prime"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-april-5-2026-100000350.html",
+          "title_en": "Mortgage and refinance interest rates today, April 5, 2026: Down sharply from last weekend"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
+          "title": "今日（2026年4月5日）高收益储蓄利率（最高可达4%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-sunday-april-5-2026-100000985.html",
+          "title_en": "Best high-yield savings interest rates today, April 5, 2026 (Earn up to 4% APY)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-06 20:10:44",
           "title": "今日（4月4日）抵押贷款和再融资利率：自上周末以来下降了四分之一点。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-april-4-2026-100000974.html",
@@ -230,7 +231,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
+          "title": "本周六，4月4日：HELOC和家庭抵押贷款利率低且与首贷利率挂钩。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-april-4-2026-100000113.html",
+          "title_en": "HELOC and home equity loan rates Saturday, April 4, 2026: Low and tied to the prime"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-06 20:10:44",
+          "title": "截至2026年4月4日，最佳现金市场账户利率（最高利率账户为4.01% APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-april-4-2026-100000551.html",
+          "title_en": "Best money market account rates today, April 4, 2026 (best account provides 4.01% APY)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-06 20:10:44",
           "title": "今日（2026年4月4日）高收益储蓄利率（最高可达4%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-april-4-2026-100000933.html",
@@ -239,11 +258,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
           "title": "4月4日，今日最佳CD利率（最高4.15%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-april-4-2026-100000301.html",
           "title_en": "Best CD rates today, April 4, 2026 (best account provides 4.15% APY)"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-06 20:10:44",
+          "title": "雷蒙德詹姆斯认为美联储降息预期的变化为美国银行带来了上涨空间。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/raymond-james-sees-upside-for-us-banks-as-fed-rate-cut-outlook-shifts-93CH-4598159",
+          "title_en": "Raymond James sees upside for US banks as Fed rate cut outlook shifts"
         }
       ]
     },
@@ -254,16 +282,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
-          "title": "道琼斯期货：特朗普威胁“地狱”  伊朗停火努力；Sandisk领跑7只股票关注",
+          "time": "2026-04-06 20:10:44",
+          "title": "道琼斯指数期货下跌，科技股上涨；特朗普威胁“地狱”在伊朗停火努力中",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-threatens-iran-hell-hormuz-oil-prices-sandisk/?src=A00220&yptr=yahoo",
-          "title_en": "Dow Jones Futures: Trump Threatens 'Hell' Amid Iran Cease-Fire Efforts; Sandisk Leads 7 Stocks To Watch"
+          "title_en": "Dow Jones Futures Fall, Techs Rise; Trump Threatens 'Hell' Amid Iran Cease-Fire Efforts"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
+          "title": "今天，4月6日，星期一，比特币和以太坊价格上涨：价格上涨的消息传出伊朗战争停火协议草案",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-6-2026-prices-rise-amid-reports-of-a-proposed-iran-war-ceasefire-113813797.html",
+          "title_en": "Bitcoin and ethereum price today, Monday, April 6, 2026: Prices rise amid reports of a proposed Iran war ceasefire"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-06 20:10:44",
           "title": "摩根大通的迪莫恩警告称伊朗战争可能会推高通胀和利率。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/jpmorgans-dimon-warns-iran-war-100501443.html",
@@ -272,7 +309,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
           "title": "贾米·迪蒙在他的年度信中指出，伊朗战争、民间信贷和人工智能驱动的就业损失是美国面临的重大风险。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/jamie-dimon-highlights-iran-war-private-credit-and-ai-driven-job-losses-as-major-us-risks-in-his-annual-letter-100130113.html",
@@ -281,7 +318,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
           "title": "沙特阿拉伯为旗舰原油设定了历史最高的高级别价格，霍尔木兹危机加剧",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/energy/articles/saudi-arabia-sets-record-premium-093000552.html",
@@ -290,16 +327,16 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
-          "title": "OPEC+宣布象征性的5月产量配额增加，BofA发表评论。",
+          "time": "2026-04-06 20:10:44",
+          "title": "加拿大股市指数期货价格平稳，受伊朗停火的潜在希望影响。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/opec-announces-symbolic-may-quota-increase-amid-hormuz-disruption-bofa-comments-93CH-4598042",
-          "title_en": "OPEC+ announces symbolic May quota increase amid Hormuz disruption, BofA comments"
+          "url": "https://www.investing.com/news/stock-market-news/tsx-futures-subdued-amid-hopes-for-potential-iran-ceasefire-4598244",
+          "title_en": "TSX futures subdued amid hopes for potential Iran ceasefire"
         },
         {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
-          "time": "2026-04-06 19:29:00",
+          "time": "2026-04-06 20:05:00",
           "title": "高盛认为，世界是否将耗尽石油资源，答案有三种：",
           "summary": "分析师由Yulia Zhestkova Grigsby带领，一个商品策略师，研究了产品供应、价格反应和轶事以解决全球经济是否缺乏石油的问题。",
           "url": "https://www.marketwatch.com/story/is-the-world-running-out-of-oil-here-are-three-ways-goldman-sachs-is-answering-that-critical-question-547c111f?mod=mw_rss_topstories",
@@ -307,13 +344,23 @@
           "summary_en": "Analysts led by Yulia Zhestkova Grigsby, a commodities strategist, looked at product supplies, price responses and anecdotes to address the issue of whether the global economy is running short of oil."
         },
         {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-04-06 19:43:34",
+          "title": "美国与伊朗的协议希望，苹果的周年纪念，OpenAI的播客协议等在早间市场简报",
+          "summary": "今天市场投资者需要了解的五个关键信息。",
+          "url": "https://www.cnbc.com/2026/04/06/5-things-to-know-before-the-bell-monday.html",
+          "title_en": "Hope for a U.S.-Iran deal, Apple's anniversary, OpenAI's podcast deal and more in Morning Squawk",
+          "summary_en": "Here are five key things investors need to know to start the trading day."
+        },
+        {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-04-06 17:58:00",
-          "title": "原油价格下跌，跌幅超过11美元，随着谈判人员在伊朗问题上与特朗普的最后期限赛跑。",
+          "title": "原油价格在伊朗谈判的最后时刻下滑，尽管价格曾经创下了11美元的历史新高。",
           "summary": "石油价格周一下跌，美国总统唐纳德·特朗普威胁，如果伊朗不在周二前重新开放霍尔木兹海峡，美国将击毁伊朗的电力厂。",
           "url": "https://www.marketwatch.com/story/crude-oil-dropping-after-historic-11-surge-as-negotiators-race-against-trumps-deadline-for-iran-407a2094?mod=mw_rss_topstories",
-          "title_en": "Crude oil dropping after historic $11 surge, as negotiators race against Trump’s deadline for Iran",
+          "title_en": "Crude oil dropping after historic $11 surge as negotiators race Trump’s deadline for Iran",
           "summary_en": "Oil prices are falling on Monday after President Donald Trump threatened to knock out Iran’s power plants if it doesn’t reopen the Strait of Hormuz by Tuesday."
         },
         {
@@ -395,7 +442,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
           "title": "特斯拉(Tesla)在令人失望的交付数据之后反弹。这对股价来说更重要。",
           "summary": "",
           "url": "https://www.barrons.com/articles/tesla-stock-price-today-robo-taxi-a0163ea7?siteid=yhoof2&yptr=yahoo",
@@ -410,7 +457,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
           "title": "美股期货上涨，中东冲突结束希望升高",
           "summary": "",
           "url": "https://finance.yahoo.com/news/live/stock-market-today-us-stock-futures-rise-as-hopes-emerge-for-a-mideast-end-to-hostilities-002656513.html",
@@ -419,7 +466,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
+          "title": "美国股权基金连续第二周录得资金流入",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/us-equity-funds-see-second-113904571.html",
+          "title_en": "US equity funds see a second successive weekly inflow"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-06 20:10:44",
+          "title": "分析报告：Markel集团公司",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3727_AnalystReport_1775473843000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Markel Group Inc"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-06 20:10:44",
+          "title": "早退休者常报告的6个遗憾 — 并如何避免犯同样的错误",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/6-regrets-early-retirees-commonly-113000487.html",
+          "title_en": "6 regrets early retirees commonly report — and how to avoid making the same mistakes"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-06 20:10:44",
+          "title": "伊丽莎白·沃伦说她有一个问题要问MrBeast：这是她在问什么",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/elizabeth-warren-says-she-mrbeast-120106424.html",
+          "title_en": "Elizabeth Warren Says She Has A 'Question' For MrBeast: Here's What She's Asking"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-06 20:10:44",
           "title": "我是三代人中的中间那一代，已经把父母接到家里，但我却要承担所有的开支。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/articles/m-sandwich-gen-xer-taken-111500658.html",
@@ -428,7 +511,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
           "title": "Neurocrine生物制药将以29亿美元收购Soleno Therapeutics",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/healthcare/articles/neurocrine-buy-soleno-therapeutics-2-110701181.html",
@@ -437,16 +520,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
-          "title": "印度储备银行批准了埃米拉特国家银行（Emirates NBD）在RBL银行（RBL Bank）的股权购买。",
+          "time": "2026-04-06 20:10:44",
+          "title": "分析报告：罗氏控股AG",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/bank-india-clears-emirates-nbd-112706502.html",
-          "title_en": "Reserve Bank of India clears Emirates NBD’s stake purchase in RBL Bank"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_4884_AnalystReport_1775473843000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Roche Holding AG"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
           "title": "问财务顾问：我可以在罗思退休账户（Roth IRA）中投资房地产项目吗？未来增长和收益是否免税？",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/options/articles/ask-advisor-invest-real-estate-110000201.html",
@@ -455,7 +538,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
           "title": "摩根士丹利提高了自疫情以来 Ryder 的债务等级",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/moody-raises-ryder-debt-level-110000375.html",
@@ -464,7 +547,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
           "title": "骗子窃取并篡改了一对夫妇的税款支票——银行的回应使情况更加糟糕",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/currencies/articles/scammers-stole-rewrote-couples-tax-110000842.html",
@@ -473,7 +556,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
           "title": "科技巨头的第二季度刚开始，但已经面临着重大挑战",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/technology/article/big-techs-second-quarter-just-started-and-its-already-facing-major-challenges-103340081.html",
@@ -482,16 +565,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
-          "title": "预测：2026年年底前，Palantir将做出不可思议的事情，跌破100美元。",
+          "time": "2026-04-06 20:10:44",
+          "title": "2026年4月6日威克森日常报告：买家和卖家名单",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantir-unthinkable-fall-below-112600685.html",
-          "title_en": "Prediction: Palantir Will Do the Unthinkable and Fall Below $100 Before 2026 Comes to a Close"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46635_TopBottomInsiderActivity_1775472971000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily – Vickers Top Buyers & Sellers for 04/06/2026"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
           "title": "SpaceX的IPO可能会让整个太空产业大幅提升",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/technology/article/spacexs-ipo-could-supercharge-the-entire-space-industry-101227330.html",
@@ -500,74 +583,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
-          "title": "这家药企股价飙升40%。Neurocrine以29亿美元收购了这家公司。",
+          "time": "2026-04-06 20:10:44",
+          "title": "本周一华尔街主要分析师研究报告：Avis Budget、Carvana、道氏指数、Kratos Defense、Netflix、Northern Trust、PayPay、Twilio、Tyson Foods等",
           "summary": "",
-          "url": "https://www.barrons.com/articles/soleno-neurocrine-deal-obesity-drug-6258c851?siteid=yhoof2&yptr=yahoo",
-          "title_en": "This Pharma Stock Is Surging 40%. Neurocrine Is Buying It in $2.9 Billion Deal."
+          "url": "https://finance.yahoo.com/markets/stocks/articles/monday-top-wall-street-analyst-115428809.html",
+          "title_en": "Here Are Monday’s Top Wall Street Analyst Research Calls: Avis Budget, Carvana, Dow, Kratos Defense, Netflix, Northern Trust, PayPay,Twilio, Tyson Foods and More"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
+          "time": "2026-04-06 20:10:44",
+          "title": "2026年4月6日维克斯高管推荐股票",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46634_InsiderActivity_1775472971000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily – Vickers Top Insider Picks for 04/06/2026"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-06 20:10:44",
+          "title": "市场摘要：MKL、ETR、FDX、GAP、MDT、RHHBY、CLF",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46631_MarketSummary_1775472943000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Market Digest: MKL, ETR, FDX, GAP, MDT, RHHBY, CLF"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-06 20:10:44",
           "title": "这位女性从401(k)和孩子的大学基金中取出钱来启动一家公司，如今它的收入已达数百万美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/woman-raided-her-401-k-100000053.html",
           "title_en": "This woman raided her 401(k) and her kids’ college fund to start a business. It’s now pulling in millions"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
-          "title": "四月份买入的三大核能股： \n\n1. NextEra Energy (NEE) \n2. Exelon (EXC) \n3. Dominion Energy (D)",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/3-powerful-nuclear-energy-stocks-112200703.html",
-          "title_en": "3 Powerful Nuclear Energy Stocks to Buy in April"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
-          "title": "他是前汽车销售员托米·米库拉（Tomi Mikula），通过为人群谈判汽车价格，他每月能赚取20万美元。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meet-tomi-mikula-former-car-094500549.html",
-          "title_en": "Meet Tomi Mikula, a former car salesman who’s pulling in $200,000 a month by negotiating car prices for people"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
-          "title": "自由互保悄悄地将一个陌生人添加到了男子的车险中，这使得他的保费超过了翻倍。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/liberty-mutual-quietly-added-stranger-094500744.html",
-          "title_en": "Liberty Mutual quietly added a stranger to a man’s car insurance, which more than doubled his premiums. He had no idea"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
-          "title": "《拉姆西秀》的一则警醒：被剥夺财务控制权的女性的清晨呼唤",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/articles/dont-know-hes-put-name-093000081.html",
-          "title_en": "'You don't know what he's put in your name': The Ramsey Show's wake-up call for a woman shut out of her own finances"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
-          "title": "意大利对Revolut进行了罚款，原因是违反了消费者代码。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/italy-fines-revolut-over-consumer-112118417.html",
-          "title_en": "Italy fines Revolut over consumer code breaches"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 19:40:20",
-          "title": "你的401(k)账户不够。组合罗思、传统和纳税账户可能能为你节省数千美元的税款。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/401-k-isn-t-enough-090000325.html",
-          "title_en": "Your 401(k) isn’t enough. A mix of Roth, traditional and taxable accounts could save you thousands of dollars in taxes"
         }
       ]
     }
