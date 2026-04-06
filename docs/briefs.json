@@ -1,6 +1,6 @@
 {
-  "date": "2026.04.06",
-  "generatedAtBJT": "2026-04-06 23:48:55",
+  "date": "2026.04.07",
+  "generatedAtBJT": "2026-04-07 00:19:25",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-06 23:48:55",
+          "time": "2026-04-07 00:19:25",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：原油/风险事件 + 权重/财报/监管\n- 四件套监控：10年期国债（方向/拐点）｜美元指数（强弱）｜恐惧指数（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10年期国债上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；恐惧指数上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债继续上行且恐惧指数抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债回落且恐惧指数回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权",
+          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→",
           "url": "#",
-          "summary_en": "- 主导因子：原油/风险事件 + 权重/财报/监管\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Stock Market Today: Dow Up As Chip Stocks, Apple Gain; Iran Impact Shows…\n- 科技/半导体线索：Seagate Tests Breakout After Top Pick Designation By Morgan Stanley, Cal… 关键词:buy,tech,best,big"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Stock market today: US stocks rise, oil falls as hopes emerge for an end…\n- 宏观/Fed线索：Retirees Are Choosing These Monthly Income ETFs Over High-Yield Savings …"
         }
       ]
     },
@@ -29,7 +29,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
+          "time": "2026-04-07 00:19:20",
+          "title": "科技股今日：大型科技公司Q2预期和OpenAI的重大政策提议",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-big-techs-q2-outlook-and-openais-major-policy-proposals-144220403.html",
+          "title_en": "Tech stocks today: Big Tech's Q2 outlook and OpenAI's major policy proposals"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 00:19:20",
+          "title": "OpenAI发布政策建议以应对人工智能驱动的就业损失",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/article/openai-releases-policy-proposals-aimed-at-addressing-fallout-from-ai-driven-job-losses-160912303.html",
+          "title_en": "OpenAI releases policy proposals aimed at addressing fallout from AI-driven job losses"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 00:19:20",
+          "title": "亚马逊 (AMZN) 是长期投资的最佳科技股吗？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-best-tech-154723577.html",
+          "title_en": "Is Amazon.com (AMZN) The Best Tech Stock to Buy For Long-Term Gains?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 00:19:20",
           "title": "西部数码测试突破，摩根士丹利称其为“低估”的AI股",
           "summary": "",
           "url": "https://www.investors.com/news/technology/seagate-stock-stx-morgan-stanley-top-pick/?src=A00220&yptr=yahoo",
@@ -38,16 +65,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
-          "title": "科技股今日：大型科技公司Q2预期，OpenAI的重大政策提议",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-big-techs-q2-outlook-and-openais-major-policy-proposals-144220403.html",
-          "title_en": "Tech stocks today: Big Tech's Q2 outlook, and OpenAI's major policy proposals"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
+          "time": "2026-04-07 00:19:20",
           "title": "布罗德كم(Broadcom)是否是今天最好的AI芯片股之一？",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-best-ai-chip-150156474.html",
@@ -56,7 +74,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
+          "time": "2026-04-07 00:19:20",
           "title": "卡恩特·菲茨杰拉德（Cantor Fitzgerald）保持中立的态度，尽管BBAI在前一季度表现混乱。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-cantor-fitzgerald-stayed-neutral-143747494.html",
@@ -65,7 +83,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
+          "time": "2026-04-07 00:19:20",
           "title": "C3.ai (AI) CEO 股票出售加剧了该公司已经面临的低收入趋势的压力",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/c3-ai-ai-ceo-stock-143645480.html",
@@ -74,7 +92,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
+          "time": "2026-04-07 00:19:20",
           "title": "Veritone（VERI）：Oracle 云服务协议如何符合Veritone扩大企业和政府AI应用的战略",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/technology/articles/veritone-veri-oracle-cloud-deal-143623626.html",
@@ -83,52 +101,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
+          "time": "2026-04-07 00:19:20",
           "title": "英伟达股价下跌，分析师担心内存短缺；英伟达现在是否值得买入？",
           "summary": "",
           "url": "https://www.investors.com/research/nvidia-nvda-stock-buy-now-april-2026/?src=A00220&yptr=yahoo",
           "title_en": "Nvidia Lower As Analysts Mull Over Memory Shortage; Is Nvidia A Buy Now?"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
-          "title": "台积电（TSM）是目前最低估值的AI股之一，值得投资吗？",
+          "time": "2026-04-07 00:19:20",
+          "title": "投资者要求亚马逊、微软和谷歌就美国数据中心的水和电用量透明",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-tsm-best-undervalued-135522775.html",
-          "title_en": "Is Taiwan Semiconductor (TSM) The Best Undervalued AI Stock to Buy Now?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
-          "title": "奥拉克利任命新财务长  在大规模人工智能云扩张中",
-          "summary": "",
-          "url": "https://www.investors.com/news/technology/oracle-stock-orcl-cfo-maxson/?src=A00220&yptr=yahoo",
-          "title_en": "Oracle Names New CFO Amid Massive AI Cloud Build-Out"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
-          "title": "nVent电气 plc (NVT) 因数据中心需求大幅增长而大涨",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvent-electric-plc-nvt-rallied-135102954.html",
-          "title_en": "nVent Electric plc (NVT) Rallied on Surging Data Center Demand"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
-          "title": "百万富翁肯格里芬（Ken Griffin）在2026年的AI股推荐TOP股是 Alphabet（GOOGL）- 你应该买吗？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-top-ai-stock-134721567.html",
-          "title_en": "Alphabet (GOOGL) is a Top AI Stock Pick of Billionaire Ken Griffin in 2026 – Should You Buy?"
+          "url": "https://www.investing.com/news/stock-market-news/analysisinvestors-press-amazon-microsoft-and-google-on-water-power-use-in-us-data-centers-4598459",
+          "title_en": "Investors press Amazon, Microsoft and Google on water, power use in US data centers"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
+          "time": "2026-04-07 00:19:20",
           "title": "调查：近三分之二的零售投资者使用人工智能来指导市场决策",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/survey-nearly-twothirds-of-retail-investors-use-ai-to-inform-market-decisions-4598846",
@@ -199,7 +190,53 @@
     {
       "name": "美联储与政策",
       "badge": "Fed / Policy",
-      "items": []
+      "items": [
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 00:19:20",
+          "title": "退休者选择这些月度收益ETF而不是高收益储蓄账户",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/options/articles/retirees-choosing-monthly-income-etfs-155734550.html",
+          "title_en": "Retirees Are Choosing These Monthly Income ETFs Over High-Yield Savings Accounts"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 00:19:20",
+          "title": "金价今日（周一，4月6日）：金价强劲反弹，受就业报告改善和混杂的战争消息影响",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-april-6-gold-strengthens-after-improved-jobs-report-and-mixed-war-news-110339214.html",
+          "title_en": "Gold price today, Monday, April 6: Gold strengthens after improved jobs report and mixed war news"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 00:19:20",
+          "title": "今日（4月6日）房贷和再融资利率下降了四分之一点，五天内下降了四分之一点。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-april-6-2026-100000808.html",
+          "title_en": "Mortgage and refinance rates today, April 6, 2026: Down a quarter point in 5 days"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 00:19:20",
+          "title": "今日最佳短期存款利率（4月6日，最高4.01%年利率）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-april-6-2026-100000693.html",
+          "title_en": "Best money market account rates today, April 6, 2026 (Earn up to 4.01% APY)"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 00:19:20",
+          "title": "美国财政部将BNY指定为特朗普账户计划的财务代理",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/treasury-designates-bny-as-financial-agent-for-trump-accounts-4598808",
+          "title_en": "Treasury designates BNY as financial agent for Trump Accounts program"
+        }
+      ]
     },
     {
       "name": "地缘/能源/避险",
@@ -208,16 +245,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
-          "title": "股市今日：道指上涨，芯片股和苹果股价上涨；本报告中伊朗影响的迹象开始出现（实时报道）",
-          "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-peace-talks-netflix-nflx-stock/?src=A00220&yptr=yahoo",
-          "title_en": "Stock Market Today: Dow Up As Chip Stocks, Apple Gain; Iran Impact Shows Up In This Report (Live Coverage)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
+          "time": "2026-04-07 00:19:20",
           "title": "美国股市今日上涨，石油价格下跌，中东冲突结束的希望浮现",
           "summary": "",
           "url": "https://finance.yahoo.com/news/live/stock-market-today-us-stock-futures-mixed-oil-dips-as-hopes-emerge-for-an-end-to-middle-east-hostilities-002656744.html",
@@ -226,16 +254,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
+          "time": "2026-04-07 00:19:20",
+          "title": "股市今日：道指上涨，芯片股和苹果股价上涨；本报告中伊朗影响的迹象开始出现（实时报道）",
+          "summary": "",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-peace-talks-netflix-nflx-stock/?src=A00220&yptr=yahoo",
+          "title_en": "Stock Market Today: Dow Up As Chip Stocks, Apple Gain; Iran Impact Shows Up In This Report (Live Coverage)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 00:19:20",
           "title": "美军与伊朗的冲突可能导致内存芯片价格暴涨，威胁消费电子行业。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/consumer-hardware-trade-in-danger-as-iran-war-triggers-memory-chip-pricing-explosion-144857982.html",
           "title_en": "Consumer hardware trade in danger as Iran war triggers memory chip pricing explosion"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 00:19:20",
+          "title": "纳斯达克指数在伊朗紧张局势和油价波动面前继续上涨。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-climb-investors-weigh-121900991.html",
+          "title_en": "Nasdaq powers ahead in the face of Iran tensions and oil volatility"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 00:19:20",
+          "title": "今天，4月6日，星期一，比特币和以太坊价格上涨：价格上涨的消息传出伊朗战争停火协议草案",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-6-2026-prices-rise-amid-reports-of-a-proposed-iran-war-ceasefire-113813797.html",
+          "title_en": "Bitcoin and ethereum price today, Monday, April 6, 2026: Prices rise amid reports of a proposed Iran war ceasefire"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
+          "time": "2026-04-07 00:19:20",
           "title": "特朗普承诺完成对伊朗的美国竞选",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/trump-pledges-to-finish-us-campaign-in-iran-4598859",
@@ -244,7 +299,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
+          "time": "2026-04-07 00:19:20",
           "title": "股市保住涨幅，尽管伊朗被指拒绝休战提议。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-dip-after-trump-gives-iran-tue-deadline-to-open-hormuz-4597675",
@@ -253,7 +308,7 @@
         {
           "source": "CNBC-World",
           "ticker": "RSS",
-          "time": "2026-04-06 23:46:28",
+          "time": "2026-04-06 23:51:50",
           "title": "石油价格微幅波动，市场对特朗普威胁和伊朗战事停火提议进行权衡。",
           "summary": "美国前总统唐纳德·特朗普周日在社交媒体上发出一则带有脏话的帖子，警告伊朗如果不在周二开启霍尔木兹海峡，伊朗将会“生活在地狱中”。",
           "url": "https://www.cnbc.com/2026/04/05/crude-oil-prices-iran-war-strait-hormuz.html",
@@ -289,16 +344,6 @@
           "url": "https://www.marketwatch.com/story/economy-jolted-by-iran-war-inflation-bubbles-up-and-service-companies-reduce-employment-89e21443?mod=mw_rss_topstories",
           "title_en": "Economy jolted by Iran war. Inflation bubbles up and service companies curb employment.",
           "summary_en": "The largest part of the economy grew a bit slower in March as the Iran war drove up oil and other prices and companies responded by reducing employment, suggesting a rockier path for the economy until the conflict ends."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-04-06 22:03:00",
-          "title": "贾米·迪蒙警告称，油价上涨可能会触发2026年的经济衰退和熊市。",
-          "summary": "贾米·迪蒙警告称，2026年将出现一个“破坏者”，即通胀上升导致股市大幅下跌。",
-          "url": "https://www.marketwatch.com/story/jamie-dimon-isnt-too-worried-about-private-credit-but-he-sees-another-problem-for-markets-8ba4aa1a?mod=mw_rss_topstories",
-          "title_en": "Jamie Dimon warns rising oil prices could trigger a recession and a bear market in 2026",
-          "summary_en": "Jamie Dimon warns of a “skunk at the party” in 2026 in the form of rising inflation leading to a selloff in the stock market."
         },
         {
           "source": "CNBC-Top",
@@ -379,11 +424,21 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
-          "title": "苹果创下1430亿美元的季度纪录，暴露了特斯拉的巨大落后",
+          "time": "2026-04-07 00:19:20",
+          "title": "特斯拉Q1交付预计远远低于峰值，电动汽车需求放缓",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-record-143-billion-quarter-152943071.html",
-          "title_en": "Apple’s Record $143 Billion Quarter Exposes Just How Far Tesla Has Fallen"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-q1-deliveries-expected-fall-150000004.html",
+          "title_en": "Tesla Q1 Deliveries Expected to Fall Far Short of Peak as EV Demand Cools"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-04-07 00:16:00",
+          "title": "摩根士丹利分析师警告，特斯拉股价可能再下跌60%。他是什么原因导致了这种高度的谨慎？",
+          "summary": "摩根大通警告称，近年来人们对特斯拉的财务预期持续恶化，尽管股价仍在上涨。",
+          "url": "https://www.marketwatch.com/story/teslas-stock-could-fall-another-60-jpmorgan-analyst-warns-heres-whats-behind-his-high-degree-of-caution-96b862f5?mod=mw_rss_topstories",
+          "title_en": "Tesla’s stock could fall another 60%, JPMorgan analyst warns. Here’s what’s behind his ‘high degree of caution.’",
+          "summary_en": "JPMorgan warns that financial expectations for Tesla have deteriorated over recent years, even as the stock has climbed."
         }
       ]
     },
@@ -394,7 +449,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
+          "time": "2026-04-07 00:19:20",
+          "title": "最好的金属信用卡：既美观又能帮你省钱",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/metal-credit-card-explainer-200039055.html",
+          "title_en": "The best metal credit cards that look great and help you save"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 00:19:20",
+          "title": "在罗思转换过程中，你可能犯下的三个错误",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/options/articles/3-mistakes-might-course-roth-160600632.html",
+          "title_en": "3 Mistakes You Might Make in the Course of a Roth Conversion"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 00:19:20",
+          "title": "2026年税日：7种常见的税务填报错误和如何避免它们",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/tax-day-2026-7-common-tax-filing-mistakes-and-how-to-avoid-them-205435123.html",
+          "title_en": "Tax Day 2026: 7 common tax-filing mistakes and how to avoid them"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 00:19:20",
+          "title": "Visa (V) 是目前最安全的股票吗？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/visa-v-safest-stock-buy-154724945.html",
+          "title_en": "Is Visa (V) the Safest Stock to Buy Now?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 00:19:20",
           "title": "迈克尔·塞勒的策略公司购买了价值330亿美元的比特币，股价上涨",
           "summary": "",
           "url": "https://finance.yahoo.com/news/michael-saylors-strategy-buys-330-million-worth-of-bitcoin-stock-rises-153457420.html",
@@ -403,7 +494,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
+          "time": "2026-04-07 00:19:20",
+          "title": "杰克逊维尔（Jacksonville）佛罗里达（Florida）成为首次购房者最有希望的市场",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/light-end-tunnel-first-time-160501501.html",
+          "title_en": "'Light At The End Of The Tunnel' For First-Time Homebuyers As Jacksonville, Florida, Emerges As The Most Promising Market Right Now"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 00:19:20",
           "title": "税日下周到来之际，平均退税金额达3,500美元",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/taxes/article/with-tax-day-next-week-average-refunds-top-3500-153306729.html",
@@ -412,16 +512,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
-          "title": "亿万富翁们疯狂买入这3只股票",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaires-buying-3-stocks-hot-153033925.html",
-          "title_en": "Billionaires Are Buying up These 3 Stocks Like Hot Cakes"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
+          "time": "2026-04-07 00:19:20",
           "title": "Procore Technologies, Inc. (PCOR) 是否是一个现在值得购买的股票？",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/procore-technologies-inc-pcor-good-150606996.html",
@@ -430,52 +521,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
-          "title": "斯普鲁茨农场市场（Sprouts Farmers Market）是否是现在买入的好股票？",
+          "time": "2026-04-07 00:19:20",
+          "title": "BNY Mellon和Robinhood获得了处理特朗普家族账户的合同。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sprouts-farmers-market-inc-sfm-150539810.html",
-          "title_en": "Is Sprouts Farmers Market, Inc. (SFM) A Good Stock To Buy Now?"
+          "url": "https://www.wsj.com/personal-finance/treasury-taps-bny-robinhood-to-help-run-trump-accounts-for-children-1e9caf92?siteid=yhoof2&yptr=yahoo",
+          "title_en": "BNY, Robinhood Win Contract for Running Trump Accounts"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
-          "title": "威尔斯科特控股公司（WSC）是否现在是一个好股？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/willscot-holdings-corporation-wsc-good-150520343.html",
-          "title_en": "Is WillScot Holdings Corporation (WSC) A Good Stock To Buy Now?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
-          "title": "VNET股价是否现在是一个好的投资机会？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/vnet-group-inc-vnet-good-150447070.html",
-          "title_en": "Is VNET Group, Inc. (VNET) A Good Stock To Buy Now?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
-          "title": "摩根士丹利（MS）是亿万富翁肯格里芬认为的最佳金融股吗？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-best-financial-150157254.html",
-          "title_en": "Is Morgan Stanley (MS) The Best Financial Stock to Buy According to Billionaire Ken Griffin?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
-          "title": "CrowdStrike (CRWD) 在增长与股价之间巨大差距的押注",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-just-bet-big-huge-152731389.html",
-          "title_en": "CrowdStrike Just Bet Big On the Huge Disconnect Between Growth and Its Stock"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
+          "time": "2026-04-07 00:19:20",
           "title": "周股市盘点：\n\n1. 美元指数（DXY）上涨0.1%至96.89。\n2. 道琼斯指数（DJIA）下跌0.3%至33,677.74。\n3. 标准普尔500指数（S&P 500）下跌0.4%至3,956.04。\n4. 纳斯达克指数（COMP）下跌0.5%至12,398.58。\n5. 美元兑欧元汇率（EUR/USD）下跌0.2%至1.065。\n6. 美元兑日元汇率（USD/JPY）上涨0.2%至133.85。\n7. 美元兑英镑汇率（GBP/USD）下跌0.3%至1.325。\n8. 美元兑加元汇率（USD/CAD）上涨0.2%至1.335。\n9. 美元兑瑞士法郎汇率（USD/CHF）上涨0.1%至0.927。\n10. 美元兑瑞典克朗汇率（USD/SEK）上涨0.2%至10.55。\n11. 美元兑新西兰元汇率（USD/N",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46641_StockPicks_1775475287000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -484,34 +539,52 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
-          "title": "高盛对被裁员的科技工人直率警告：找到新工作将需要时间和收入损失",
+          "time": "2026-04-07 00:19:20",
+          "title": "斯普鲁茨农场市场（Sprouts Farmers Market）是否是现在买入的好股票？",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/goldman-sachs-blunt-warning-to-laid-off-tech-workers-it-will-take-time-and-earnings-loss-to-find-a-new-job-143808064.html",
-          "title_en": "Goldman Sachs' blunt warning to laid-off tech workers: It will take time and earnings loss to find a new job"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sprouts-farmers-market-inc-sfm-150539810.html",
+          "title_en": "Is Sprouts Farmers Market, Inc. (SFM) A Good Stock To Buy Now?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
-          "title": "路易德汽车面临最大危机",
+          "time": "2026-04-07 00:19:20",
+          "title": "威尔斯科特控股公司（WSC）是否现在是一个好股？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lucid-faces-biggest-disaster-ever-152247814.html",
-          "title_en": "Lucid Faces Biggest Disaster Ever"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/willscot-holdings-corporation-wsc-good-150520343.html",
+          "title_en": "Is WillScot Holdings Corporation (WSC) A Good Stock To Buy Now?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
-          "title": "斯蒂夫尔（Stifel）对ServiceNow（NOW）保持买入评级，但变得更加谨慎",
+          "time": "2026-04-07 00:19:20",
+          "title": "VNET股价是否现在是一个好的投资机会？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-stifel-turned-more-cautious-143736030.html",
-          "title_en": "Why Stifel Turned More Cautious on ServiceNow (NOW) Despite Keeping a Buy Rating"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vnet-group-inc-vnet-good-150447070.html",
+          "title_en": "Is VNET Group, Inc. (VNET) A Good Stock To Buy Now?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
+          "time": "2026-04-07 00:19:20",
+          "title": "摩根士丹利（MS）是亿万富翁肯格里芬认为的最佳金融股吗？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-best-financial-150157254.html",
+          "title_en": "Is Morgan Stanley (MS) The Best Financial Stock to Buy According to Billionaire Ken Griffin?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 00:19:20",
+          "title": "为了完全依靠股息而不是你的$60,000工资，所需的精确投资组合大小",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/exact-portfolio-size-required-live-155916884.html",
+          "title_en": "The Exact Portfolio Size Required to Live Entirely Off Dividends Instead of Your $60,000 Paycheck"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 00:19:20",
           "title": "中期看多。",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46636_TechnicalAnalysis_1775475262000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -520,38 +593,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
-          "title": "UiPath (PATH)推出新采购到付款功能，进一步推动代理式自动化。",
+          "time": "2026-04-07 00:19:20",
+          "title": "高盛对被裁员的科技工人直率警告：找到新工作将需要时间和收入损失",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/uipath-path-purchase-pay-launch-143655016.html",
-          "title_en": "UiPath (PATH): How Its New Purchase-to-Pay Launch Extends the Agentic Automation Push"
+          "url": "https://finance.yahoo.com/news/goldman-sachs-blunt-warning-to-laid-off-tech-workers-it-will-take-time-and-earnings-loss-to-find-a-new-job-143808064.html",
+          "title_en": "Goldman Sachs' blunt warning to laid-off tech workers: It will take time and earnings loss to find a new job"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
-          "title": "耐克过去五年的增长令人震惊地糟糕，且其利润更是惨淡。",
+          "time": "2026-04-07 00:19:20",
+          "title": "我今天将购买的3个月度收入ETF（Exchange-Traded Fund）用于退休生活的现金流",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nikes-growth-over-past-5-152000617.html",
-          "title_en": "Nike's Growth Over the Past 5 Years Has Been Shockingly Bad, and Its Earnings Are Even Worse"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
-          "title": "XBP全球(XBP)股价下滑的原因是其收入和EBITDA遭遇压力",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-xbp-global-xbp-shares-143635938.html",
-          "title_en": "Why XBP Global (XBP) Shares Have Slumped as Revenue and EBITDA Came Under Pressure"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-06 23:48:50",
-          "title": "分析报告：Markel集团公司",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3727_AnalystReport_1775473843000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Markel Group Inc"
+          "url": "https://finance.yahoo.com/markets/options/articles/3-monthly-income-etfs-buy-155810424.html",
+          "title_en": "The 3 Monthly Income ETFs I Would Buy Today for Retirement Cash Flow"
         }
       ]
     }
