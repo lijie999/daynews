@@ -1,6 +1,6 @@
 {
   "date": "2026.04.07",
-  "generatedAtBJT": "2026-04-07 05:30:11",
+  "generatedAtBJT": "2026-04-07 06:00:29",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,7 +14,7 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-07 05:30:11",
+          "time": "2026-04-07 06:00:29",
           "title": "主线结论（系统版｜条件触发）",
           "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→纳斯达克指数/标普500指数承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且VIX抬升→偏纳斯达克指数/标普500指数先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且VIX回落→偏纳斯达克指数/标普500指数修复反弹、黄金价格喘息；操作",
           "url": "#",
@@ -27,13 +27,23 @@
       "badge": "Mag7 / Semis",
       "items": [
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
-          "title": "3家能源股买入：AI需求大幅上升时的避险选择，2家避免",
+          "time": "2026-04-07 06:00:23",
+          "title": "布罗德كم股价大涨，原因是与谷歌签署了长期的AI芯片和网络协议。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/3-energy-stocks-buy-ai-123200644.html",
-          "title_en": "3 Energy Stocks to Buy as AI Power Demand Surges—and 2 to Avoid"
+          "url": "https://www.investing.com/news/stock-market-news/broadcom-shares-jump-on-longterm-ai-chip-and-networking-deals-with-google-4599461",
+          "title_en": "Broadcom shares jump on long-term AI chip and networking deals with Google"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-07 05:58:23",
+          "title": "布罗德كم公司同意与谷歌、Anthropic公司扩大芯片合作",
+          "summary": "布罗德كم公司(Broadcom)表示同意生产未来版本的谷歌人工智能芯片，并宣布与Anthropic达成扩展协议。",
+          "url": "https://www.cnbc.com/2026/04/06/broadcom-agrees-to-expanded-chip-deals-with-google-anthropic.html",
+          "title_en": "Broadcom agrees to expanded chip deals with Google, Anthropic",
+          "summary_en": "Broadcom said it agreed to produce future versions of Google artificial intelligence chips, and announced an expanded deal with Anthropic."
         },
         {
           "source": "CNBC-Top",
@@ -114,7 +124,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
+          "time": "2026-04-07 06:00:23",
           "title": "摩根大通发出关于下一个美联储利率降低的严厉警告",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/jpmorgan-stark-message-next-fed-180300978.html",
@@ -123,7 +133,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
+          "time": "2026-04-07 06:00:23",
+          "title": "两只高股息率的股票，股息率超过6%，等待即可获得收益",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-high-yield-dividend-stocks-131856694.html",
+          "title_en": "2 High-Yield Dividend Stocks Yielding Over 6% That’ll Pay You to Wait"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 06:00:23",
           "title": "特斯拉(TSLA)股价持续下跌，但10%低于TSLA的期权在一个月内可获得2.0%的收益率。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/options/articles/tesla-stock-keeps-falling-10-143002004.html",
@@ -132,16 +151,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
-          "title": "美联储悄悄调整了3月通胀预测——这意味着美国人还要承受更多的痛苦。",
+          "time": "2026-04-07 06:00:23",
+          "title": "债券市场正在帮助美联储解决利率困境",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/fed-quietly-altered-march-inflation-100000735.html",
-          "title_en": "The Fed quietly altered its March inflation forecast — and it points to more pain for Americans. How to fight back"
+          "url": "https://finance.yahoo.com/economy/article/the-bond-market-is-helping-resolve-the-feds-interest-rate-dilemma-103000702.html",
+          "title_en": "The bond market is helping resolve the Fed's interest rate dilemma"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
+          "time": "2026-04-07 06:00:23",
           "title": "今日最佳短期存款利率（4月6日，最高4.01%年利率）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-april-6-2026-100000693.html",
@@ -150,25 +169,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
-          "title": "HELOC和家庭抵押贷款利率 2026年4月6日：选择权在你手中",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-april-6-2026-100000271.html",
-          "title_en": "HELOC and home equity loan rates Monday, April 6, 2026: The choice is yours"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
-          "title": "截至2026年4月6日，今日高收益储蓄利率（最高可达4%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-april-6-2026-100000925.html",
-          "title_en": "Best high-yield savings interest rates today, April 6, 2026 (Earn up to 4% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
+          "time": "2026-04-07 06:00:23",
           "title": "今日最佳定期存款利率（4月6日，锁定至4.15%APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-april-6-2026-100000352.html",
@@ -177,20 +178,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
-          "title": "金价今日（周一，4月6日）：金价强劲反弹，受就业报告改善和混杂的战争消息影响",
+          "time": "2026-04-07 06:00:23",
+          "title": "HELOC和家庭抵押贷款利率 2026年4月6日：选择权在你手中",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-april-6-gold-strengthens-after-improved-jobs-report-and-mixed-war-news-110339214.html",
-          "title_en": "Gold price today, Monday, April 6: Gold strengthens after improved jobs report and mixed war news"
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-april-6-2026-100000271.html",
+          "title_en": "HELOC and home equity loan rates Monday, April 6, 2026: The choice is yours"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
-          "title": "今日（4月6日）抵押贷款和再融资利率：五天内下降了四分之一点",
+          "time": "2026-04-07 06:00:23",
+          "title": "截至2026年4月6日，今日高收益储蓄利率（最高可达4%APY）",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-april-6-2026-100000808.html",
-          "title_en": "Mortgage and refinance interest rates today, April 6, 2026: Down a quarter point in 5 days"
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-april-6-2026-100000925.html",
+          "title_en": "Best high-yield savings interest rates today, April 6, 2026 (Earn up to 4% APY)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 06:00:23",
+          "title": "金价今日（周一，4月6日）：金价强劲反弹，受就业报告改善和混杂的战争消息影响",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-april-6-gold-strengthens-after-improved-jobs-report-and-mixed-war-news-110339214.html",
+          "title_en": "Gold price today, Monday, April 6: Gold strengthens after improved jobs report and mixed war news"
         }
       ]
     },
@@ -201,7 +211,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
+          "time": "2026-04-07 06:00:23",
           "title": "比尔·阿克曼敦促美国投资者“忽视”媒体的负面预测——他说伊朗战争将对美国收获成功。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-urges-us-investors-110700724.html",
@@ -210,11 +220,21 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
+          "time": "2026-04-07 06:00:23",
           "title": "今天，4月6日，星期一，比特币和以太坊价格上涨：价格上涨的消息传出伊朗战争停火协议草案",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-6-2026-prices-rise-amid-reports-of-a-proposed-iran-war-ceasefire-113813797.html",
           "title_en": "Bitcoin and ethereum price today, Monday, April 6, 2026: Prices rise amid reports of a proposed Iran war ceasefire"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-04-07 05:48:00",
+          "title": "一位高级摩根大通策略师挑战了人们对伊朗战争的几个最大的迷思",
+          "summary": "美国虽然是某些燃料的净出口国，但这并不意味着其经济不会因伊朗冲突导致的全球能源成本上升而受到严重影响。",
+          "url": "https://www.marketwatch.com/story/a-top-j-p-morgan-strategist-tackles-some-of-the-biggest-myths-about-the-war-in-iran-ec30f625?mod=mw_rss_topstories",
+          "title_en": "A top J.P. Morgan strategist tackles some of the biggest myths about the war in Iran",
+          "summary_en": "Just because the U.S. is a net exporter of certain fuels doesn’t mean its economy won’t feel some serious blowback from higher global energy costs driven by the conflict in Iran."
         },
         {
           "source": "MarketWatch-Top",
@@ -340,70 +360,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
-          "title": "中国中产阶级正在“影子储蓄”——囤积现金而不是消费——这可能会对美国造成问题。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/economy/articles/chinas-middle-class-shadow-saving-123000937.html",
-          "title_en": "China's middle class is 'shadow saving' — hoarding cash instead of spending — and it could be a problem for Americans"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
-          "title": "富士康首季收入大幅增长，但公司警告称地缘政治不确定性可能会对业绩产生负面影响。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/foxconn-first-quarter-revenue-jumps-074035924.html",
-          "title_en": "Foxconn first-quarter revenue jumps, company cautions on geopolitics"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
-          "title": "马里奥特和希尔顿欠会员7亿美元的忠诚度账单",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/7-billion-loyalty-iou-marriott-130000589.html",
-          "title_en": "The $7 Billion Loyalty IOU: What Marriott and Hilton Owe Members"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
-          "title": "马克·古班：医疗账单“应该像1955年一样”。他认为保险公司如何剥削医院",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/mark-cuban-health-care-billing-120000363.html",
-          "title_en": "Mark Cuban: Health care billing ‘should look like 1955.’ Why he thinks insurance companies rip off hospitals"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
-          "title": "分析报告：MDU资源集团公司（MDU）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3181_AnalystReport_1775493751000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: MDU Resources Group Inc"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
-          "title": "这只股票在3月底发布了爆发式的盈利预测后股价上涨了12%，但还不算太晚入市",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-soared-12-blowout-earnings-123500719.html",
-          "title_en": "This Stock Soared 12% After Its Blowout Earnings Outlook at the End of March, But It's Not Too Late to Buy"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
-          "title": "查理·芒格（Charlie Munger）曾说过，单身人士不应该买房子——如何投资房产，结婚或不结婚",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/don-t-care-charlie-munger-113900501.html",
-          "title_en": "‘I don’t care’: Charlie Munger once said single people shouldn’t buy homes — how to invest in property, married or not"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
+          "time": "2026-04-07 06:00:23",
           "title": "一名男子通过将SNAP福利兑换成现金赚取了150万美元，结果他要坐牢了。关于EBT卡欺诈的要点。",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/man-made-1-5-million-131500680.html",
@@ -412,7 +369,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
+          "time": "2026-04-07 06:00:23",
+          "title": "马里奥特和希尔顿欠会员7亿美元的忠诚度账单",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/7-billion-loyalty-iou-marriott-130000589.html",
+          "title_en": "The $7 Billion Loyalty IOU: What Marriott and Hilton Owe Members"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 06:00:23",
           "title": "想减少退休后的税负？这5个国家让你实现这一目标——并且一些国家的成本远低于美国。",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/want-slash-taxes-retirement-5-133000621.html",
@@ -421,7 +387,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
+          "time": "2026-04-07 06:00:23",
+          "title": "中国中产阶级正在“影子储蓄”——囤积现金而不是消费——这可能会对美国造成问题。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/economy/articles/chinas-middle-class-shadow-saving-123000937.html",
+          "title_en": "China's middle class is 'shadow saving' — hoarding cash instead of spending — and it could be a problem for Americans"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 06:00:23",
           "title": "过去20年，我学到了10个投资的教训。\n\n1.  **耐心是关键**：投资市场的波动不可避免，但长期持有是成功的关键。\n\n2.  **风险管理至关重要**：投资时要考虑风险和回报的平衡，避免过度风险敞口。\n\n3.  **多样化是必需的**：分散投资可以降低风险，提高回报。\n\n4.  **市场预测是无用的**：预测市场趋势是困难的，甚至是无用的。\n\n5.  **成本是重要的**：交易成本、管理费等都可能影响投资的回报。\n\n6.  **信息是权力**：投资者需要了解市场、公司和经济的信息。\n\n7.  **自我控制是关键**：投资者需要控制自己的情绪和行为。\n\n8.  **学习是终身的**：投资市场不断变化，投资者需要不断学习和更新知识。\n\n9.  **避免情绪投资**：投资者应该基于理性而不是情绪做出投资决策。\n\n10. **投资是长期的**：投资市场的波动不可避免，但长期持有是成功的关键。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/10-investing-lessons-i-learned-over-the-last-20-years-123033012.html",
@@ -430,25 +405,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
-          "title": "分析报告：Humana Inc.",
+          "time": "2026-04-07 06:00:23",
+          "title": "富士康首季收入大幅增长，但公司警告称地缘政治不确定性可能会对业绩产生负面影响。",
           "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3068_AnalystReport_1775493751000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Humana Inc"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/foxconn-first-quarter-revenue-jumps-074035924.html",
+          "title_en": "Foxconn first-quarter revenue jumps, company cautions on geopolitics"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
-          "title": "美国工匠联盟（Mike Rowe）称，存在着一个末日般的数量的人不进入工匠行业。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/economy/articles/existential-alarm-bell-bad-mike-111500195.html",
-          "title_en": "'Existential-alarm bell bad': Mike Rowe says there’s an apocalyptic number of people not getting into the trades"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
+          "time": "2026-04-07 06:00:23",
           "title": "阿拉巴马州一对夫妇称，他们欠了40万美元的车款，但车子仅值27万美元——这是如何发生的？",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/options/articles/couple-alabama-says-owes-40-140000649.html",
@@ -457,7 +423,88 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
+          "time": "2026-04-07 06:00:23",
+          "title": "马克·古班：医疗账单“应该像1955年一样”。他认为保险公司如何剥削医院",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/mark-cuban-health-care-billing-120000363.html",
+          "title_en": "Mark Cuban: Health care billing ‘should look like 1955.’ Why he thinks insurance companies rip off hospitals"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 06:00:23",
+          "title": "分析报告：MDU资源集团公司（MDU）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3181_AnalystReport_1775493751000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: MDU Resources Group Inc"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 06:00:23",
+          "title": "Netflix (NFLX) 最近的价格上涨后是否仍然值得投资？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-buy-most-recent-price-131500507.html",
+          "title_en": "Is Netflix a Buy After Its Most Recent Price Hike?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 06:00:23",
+          "title": "退休的FINRA基金会主管：FOMO是投资者最大的错误",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/retiring-head-of-finra-foundation-fomo-is-investors-biggest-mistake-143053886.html",
+          "title_en": "Retiring head of FINRA foundation: FOMO is investors' biggest mistake"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 06:00:23",
+          "title": "查理·芒格（Charlie Munger）曾说过，单身人士不应该买房子——如何投资房产，结婚或不结婚",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/don-t-care-charlie-munger-113900501.html",
+          "title_en": "‘I don’t care’: Charlie Munger once said single people shouldn’t buy homes — how to invest in property, married or not"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 06:00:23",
+          "title": "一位年轻女性无法负担租金，于是她买了一个双层别墅，结果她的住房成本降低了50%。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/gen-z-woman-couldnt-afford-150000716.html",
+          "title_en": "A Gen Z woman couldn't afford rent, so she bought a duplex instead — and cut her housing costs in half"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 06:00:23",
+          "title": "分析报告：Humana Inc.",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_3068_AnalystReport_1775493751000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Humana Inc"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 06:00:23",
+          "title": "加密货币用户中大多数人对新税法规知之甚少，Coinbase调查发现",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/most-crypto-users-unaware-tax-131627603.html",
+          "title_en": "Most Crypto Users Are Unaware Of New Tax Rules, Coinbase Survey Finds"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 06:00:23",
+          "title": "美国工匠联盟（Mike Rowe）称，存在着一个末日般的数量的人不进入工匠行业。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/economy/articles/existential-alarm-bell-bad-mike-111500195.html",
+          "title_en": "'Existential-alarm bell bad': Mike Rowe says there’s an apocalyptic number of people not getting into the trades"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 06:00:23",
           "title": "墨西哥边境：关税压力在北美海关数据中显现",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/borderlands-mexico-tariff-pressure-shows-110000003.html",
@@ -466,38 +513,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
-          "title": "市场更新：HUM, MDU",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46643_MarketUpdate_1775492851000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Market Update: HUM, MDU"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
-          "title": "华尔街最具影响力的公司——自1999年以来其股价增长了464,000%——今天迎来了33岁生日",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-streets-most-consequential-company-122600288.html",
-          "title_en": "Wall Street's Most Consequential Company -- Whose Shares Have Gained 464,000% Since 1999 -- Turns 33 Today"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
+          "time": "2026-04-07 06:00:23",
           "title": "斯科特·贝森特称，巨额退税即将到来，1500亿美元将流入美国账户。",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-says-very-large-104100775.html",
           "title_en": "Scott Bessent says ‘very large refunds’ are coming, with $150B heading into American accounts. Do this with yours now"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 05:30:07",
-          "title": "退休的FINRA基金会主管：FOMO是投资者最大的错误",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/retiring-head-of-finra-foundation-fomo-is-investors-biggest-mistake-143053886.html",
-          "title_en": "Retiring head of FINRA foundation: FOMO is investors' biggest mistake"
         }
       ]
     }
