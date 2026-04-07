@@ -1,6 +1,6 @@
 {
   "date": "2026.04.08",
-  "generatedAtBJT": "2026-04-08 04:18:42",
+  "generatedAtBJT": "2026-04-08 04:49:14",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,7 +14,7 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-08 04:18:42",
+          "time": "2026-04-08 04:49:14",
           "title": "主线结论（系统版｜条件触发）",
           "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金价格喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密",
           "url": "#",
@@ -29,7 +29,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
+          "time": "2026-04-08 04:49:07",
           "title": "甲骨文任命施耐德电气的Maxson为首席财务官  在人工智能花费大潮中",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-appoints-hilary-maxson-cfo-120445654.html",
@@ -38,7 +38,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
+          "time": "2026-04-08 04:49:07",
+          "title": "布罗德كم公司CEO看到了1000亿美元的AI芯片收入。该股是否买入？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcoms-ceo-line-sight-100-120000962.html",
+          "title_en": "Broadcom's CEO Has Line of Sight to $100 Billion in AI Chip Revenue. Is the Stock a Buy?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-08 04:49:07",
           "title": "Amkor Technology (AMKR) 因增长的AI封装解决方案和复苏信号而受益",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-gained-growing-123050442.html",
@@ -47,38 +56,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
-          "title": "普莱姆Visa卡评测：适合亚马逊购物者的每日优惠",
+          "time": "2026-04-08 04:49:07",
+          "title": "Wedbush：Nvidia未来30-40%的上涨空间",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/amazon-prime-rewards-visa-card-235422013.html",
-          "title_en": "Prime Visa card review: Great everyday savings for Amazon shoppers"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wedbush-nvidia-30-40-upside-120222905.html",
+          "title_en": "Wedbush: Nvidia has 30-40% upside ahead"
         },
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
-          "title": "PIMCO正考虑为Oracle在密歇根州的数据中心提供14亿美元的债务融资，布隆伯格新闻报道。",
+          "time": "2026-04-08 04:49:07",
+          "title": "在2026年，NVIDIA（NVDA）仍然是最好的AI股吗？",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/pimco-weighs-14-billion-debt-deal-for-oracles-michigan-data-center-bloomberg-news-reports-4601321",
-          "title_en": "PIMCO weighs $14 billion debt deal for Oracle’s Michigan data center, Bloomberg News reports"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
-          "title": "X推出AI-powered Grok功能的照片编辑工具",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/x-launches-photo-editing-tools-with-aipowered-grok-features-93CH-4601310",
-          "title_en": "X launches photo editing tools with AI-powered Grok features"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
-          "title": "Anthropic宣布与大型科技公司合作推出人工智能安全项目",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/anthropic-touts-ai-cybersecurity-project-with-big-tech-partners-4601216",
-          "title_en": "Anthropic touts AI cybersecurity project with Big Tech partners"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-still-best-ai-124721952.html",
+          "title_en": "Is NVIDIA (NVDA) Still The Best AI Stock to Buy in 2026?"
         },
         {
           "source": "CNBC-World",
@@ -169,20 +160,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
+          "time": "2026-04-08 04:49:07",
           "title": "摩根大通发出关于下一个美联储利率降低的严厉警告",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/jpmorgan-stark-message-next-fed-180300978.html",
           "title_en": "JPMorgan has a stark message on the next Fed rate cut"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
-          "title": "信用卡利率是固定的还是浮动的？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/are-credit-cards-fixed-or-variable-193544510.html",
-          "title_en": "Are credit card rates fixed or variable?"
         },
         {
           "source": "CNBC-World",
@@ -203,7 +185,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
+          "time": "2026-04-08 04:49:07",
           "title": "道琼斯指数期货下跌，科技股上涨；特朗普威胁“地狱”在伊朗停火努力中",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-threatens-iran-hell-hormuz-oil-prices-sandisk/?src=A00220&yptr=yahoo",
@@ -212,11 +194,31 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
+          "time": "2026-04-08 04:49:07",
           "title": "股市微幅上涨，巴基斯坦要求伊朗延长期限，两周停火",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-tick-down-ahead-of-trumps-strait-of-hormuz-deadline-4599570",
           "title_en": "Stocks eke out gain as Pakistan asks for Iran deadline extension, 2-week ceasefire"
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-04-08 04:44:12",
+          "title": "美债收益率下滑，原油价格在伊朗停火希望的带动下收盘下滑",
+          "summary": "美国国债收益率周二下跌，因为石油价格的反弹动力减弱。",
+          "url": "https://www.cnbc.com/2026/04/07/treasury-yields-rise-as-trump-reiterates-iran-infrastructure-threat.html",
+          "title_en": "Treasury yields slide as oil prices ease at end of day on Iran ceasefire hope",
+          "summary_en": "Treasury yields declined on Tuesday as the rally in oil prices lost momentum."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-08 04:30:56",
+          "title": "伊朗局势：巴基斯坦寻求两周缓冲期，特朗普警告如果不能在截止日期前达成协议，整个文明都会灭亡。",
+          "summary": "伊朗与伊拉克战争爆发后，霍尔木兹海峡近期关闭导致了历史性的石油供应冲击，全球能源价格迅速上涨。",
+          "url": "https://www.cnbc.com/2026/04/07/iran-war-trump-deadline.html",
+          "title_en": "Iran updates: Pakistan seeks 2-week pause after Trump warns 'whole civilization will die' if no deal by deadline",
+          "summary_en": "The near closure of the Strait of Hormuz since the war began has led to a historic oil supply shock, which quickly sent global energy prices soaring."
         },
         {
           "source": "MarketWatch-Top",
@@ -227,16 +229,6 @@
           "url": "https://www.marketwatch.com/story/ray-dalio-says-the-iran-conflict-could-evolve-into-the-next-world-war-fa3045ef?mod=mw_rss_topstories",
           "title_en": "Ray Dalio says the Iran conflict could evolve into the next world war",
           "summary_en": "Hedge-fund founder points out that the conflict between Israel, the U.S. and Iran isn’t happening in a vacuum."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-08 03:53:42",
-          "title": "伊朗局势：巴基斯坦寻求两周缓冲期，特朗普警告如果不能在截止日期前达成协议，整个文明都会灭亡。",
-          "summary": "伊朗与伊拉克战争爆发后，霍尔木兹海峡近期关闭导致了历史性的石油供应冲击，全球能源价格迅速上涨。",
-          "url": "https://www.cnbc.com/2026/04/07/iran-war-trump-deadline.html",
-          "title_en": "Iran updates: Pakistan seeks 2-week pause after Trump warns 'whole civilization will die' if no deal by deadline",
-          "summary_en": "The near closure of the Strait of Hormuz since the war began has led to a historic oil supply shock, which quickly sent global energy prices soaring."
         },
         {
           "source": "CNBC-World",
@@ -257,16 +249,6 @@
           "url": "https://www.marketwatch.com/story/stocks-fall-as-trumps-tuesday-night-deadline-for-iran-looms-the-market-is-certainly-on-edge-35d15659?mod=mw_rss_topstories",
           "title_en": "Stocks fall as Trump’s Tuesday night deadline for Iran looms: ‘The market is certainly on edge’",
           "summary_en": "U.S. stocks were lower Tuesday — but with the S&P 500 still positive in April — as President Donald Trump intensified his threats against Iran to reopen the Strait of Hormuz by this evening."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-04-08 02:17:57",
-          "title": "美债收益率保持不变，特朗普再次重申对伊朗基础设施的威胁，推油价上涨。",
-          "summary": "美国国债收益率周二基本保持不变，因为美国总统唐纳德·特朗普再次警告美国将对伊朗民用和能源基础设施发动袭击。",
-          "url": "https://www.cnbc.com/2026/04/07/treasury-yields-rise-as-trump-reiterates-iran-infrastructure-threat.html",
-          "title_en": "Treasury yields are little changed as Trump reiterates Iran infrastructure threat, sending oil higher",
-          "summary_en": "Treasury yields were relatively unchanged on Tuesday as President Donald Trump again warned the U.S. would strike Iranian civilian and energy infrastructure."
         },
         {
           "source": "CNBC-Top",
@@ -391,124 +373,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
-          "title": "美国股权基金连续第二周录得资金流入",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/us-equity-funds-see-second-113904571.html",
-          "title_en": "US equity funds see a second successive weekly inflow"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
-          "title": "早退休者常报告的6个遗憾 — 并如何避免犯同样的错误",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/6-regrets-early-retirees-commonly-113000487.html",
-          "title_en": "6 regrets early retirees commonly report — and how to avoid making the same mistakes"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
-          "title": "威瑞森通信(Q1 2026财报)将带来什么",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/expect-verizon-communications-q1-2026-111852089.html",
-          "title_en": "What to Expect From Verizon Communications' Q1 2026 Earnings Report"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
-          "title": "我是三代人中的中间那一代，已经把父母接到家里，但我却要承担所有的开支。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/articles/m-sandwich-gen-xer-taken-111500658.html",
-          "title_en": "I’m a sandwich Gen Xer who has taken my parents into my home, but I’m paying all the bills. What can I do?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
-          "title": "第一季度各个行业的表现",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46653_MarketOutlook_1775561093000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily Spotlight: First-Quarter Segment Returns"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
-          "title": "GameStop reportedly正在考虑一项可能对业务具有“转型性”的收购。我们知道什么。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/gamestop-reportedly-considering-acquisition-could-113700664.html",
-          "title_en": "GameStop Is Reportedly Considering an Acquisition That Could be \"Transformational\" for the Business. Here's What We Know."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
-          "title": "Neurocrine生物制药将以29亿美元收购Soleno Therapeutics",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/neurocrine-buy-soleno-therapeutics-2-110701181.html",
-          "title_en": "Neurocrine to buy Soleno Therapeutics for $2.9 billion"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
-          "title": "问财务顾问：我可以在罗思退休账户（Roth IRA）中投资房地产项目吗？未来增长和收益是否免税？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/ask-advisor-invest-real-estate-110000201.html",
-          "title_en": "Ask an Advisor: Can I Invest in a Real Estate Project Within My Roth IRA? Will the Future Growth and Income Be Tax-Free?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
-          "title": "摩根士丹利提高了自疫情以来 Ryder 的债务等级",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/moody-raises-ryder-debt-level-110000375.html",
-          "title_en": "Moody’s raises Ryder’s debt level that had been in place since COVID"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
-          "title": "对高调 Holdings 的乐观情绪？这个牛熊套利交易策略可能非常合适",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/optimistic-hd-bull-put-spread-110002617.html",
-          "title_en": "Optimistic on HD? This Bull Put Spread May Fit Perfectly"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
-          "title": "中期看多。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46652_TechnicalAnalysis_1775560962000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Technical Assessment: Bullish in the Intermediate-Term"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
-          "title": "印度尼西亚计划统一国有银行资产管理部门",
-          "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/indonesia-moves-unify-state-banks-113927732.html",
-          "title_en": "Indonesia moves to unify state banks’ asset management units – report"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
-          "title": "骗子窃取并篡改了一对夫妇的税款支票——银行的回应使情况更加糟糕",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/currencies/articles/scammers-stole-rewrote-couples-tax-110000842.html",
-          "title_en": "Scammers stole and rewrote a couple's tax check — the bank's response made everything worse"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
+          "time": "2026-04-08 04:49:07",
           "title": "根据年龄段，401(k)账户余额的差异，以及如果你落后于他人该如何做。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/options/articles/401-k-balance-compares-generation-120000183.html",
@@ -517,7 +382,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
+          "time": "2026-04-08 04:49:07",
           "title": "道指指数：宏观与技术指标在转折点相遇",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/djia-index-macro-meets-technicals-120002519.html",
@@ -526,7 +391,115 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
+          "time": "2026-04-08 04:49:07",
+          "title": "同步金融财报预览：预期是什么",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/synchrony-financial-earnings-preview-expect-120846258.html",
+          "title_en": "Synchrony Financial Earnings Preview: What to Expect"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-08 04:49:07",
+          "title": "丹哈尔公司(Danaher Corporation)将于2026年第一季度发布财报。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/expect-danaher-corporations-q1-2026-121052705.html",
+          "title_en": "What to Expect From Danaher Corporation's Q1 2026 Earnings Report"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-08 04:49:07",
+          "title": "第一季度各个行业的表现",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46653_MarketOutlook_1775561093000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily Spotlight: First-Quarter Segment Returns"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-08 04:49:07",
+          "title": "伊丽莎白·沃伦说她有一个问题要问MrBeast：这是她在问什么",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/elizabeth-warren-says-she-mrbeast-120106424.html",
+          "title_en": "Elizabeth Warren Says She Has A 'Question' For MrBeast: Here's What She's Asking"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-08 04:49:07",
+          "title": "EVERTEC (EVTC) 在表现出良好业绩的情况下仍下滑",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/evertec-evtc-slid-despite-solid-121458040.html",
+          "title_en": "EVERTEC (EVTC) Slid Despite Solid Results"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-08 04:49:07",
+          "title": "麦类周一早晨价格下滑，预测更为潮湿",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/wheat-fading-lower-monday-morning-121801645.html",
+          "title_en": "Wheat Fading Lower on Monday Morning as Forecasts Look Wetter"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-08 04:49:07",
+          "title": "中期看多。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46652_TechnicalAnalysis_1775560962000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Technical Assessment: Bullish in the Intermediate-Term"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-08 04:49:07",
+          "title": "6个常被忽视的房主税收减免（和3个不算在内的装修项目）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/economy/policy/articles/6-most-overlooked-homeowner-tax-115555584.html",
+          "title_en": "6 of the Most Overlooked Homeowner Tax Breaks (and 3 Renovations That Don’t Count)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-08 04:49:07",
+          "title": "玉米价格周一早期下滑",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/corn-slipping-lower-early-monday-121801765.html",
+          "title_en": "Corn Slipping Lower Early on Monday"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-08 04:49:07",
+          "title": "猪肉价格料将在长周末后回升",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/hogs-look-come-long-weekend-121801311.html",
+          "title_en": "Hogs Look to Come Out of the Long Weekend"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-08 04:49:07",
+          "title": "棉花价格周一早盘保持稳定。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/cotton-holding-steady-monday-am-121801116.html",
+          "title_en": "Cotton Holding Steady on Monday AM Trade"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-08 04:49:07",
+          "title": "豆类价格大幅上涨",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-popping-higher-long-weekend-121801075.html",
+          "title_en": "Soybeans Popping Higher Out of the Long Weekend"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-08 04:49:07",
           "title": "2026年4月7日维克斯高管推荐股票",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46648_InsiderActivity_1775559843000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -535,20 +508,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
-          "title": "美股开盘前5点钟要知道的内容\n\n1. 美联储会议纪要：美联储会议纪要显示，美联储官员们对当前的通胀预期较低，认为今年的CPI增长率将低于3%。\n\n2. 美股指数：S&P 500指数周五收于2975.62点，较前一周下跌0.3%。\n\n3. 道指成分股：道指成分股中，苹果公司（AAPL）周五收于139.46美元，较前一周下跌0.5%。\n\n4. 美元汇率：美元兑欧元汇率周五收于1.0923，较前一周上涨0.2%。\n\n5. 美股交易量：周五，美股交易量较前一周下降了10%。",
+          "time": "2026-04-08 04:49:07",
+          "title": "种业巨头辛伽（Syngenta）准备了一种新武器来对抗超级杂草",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/5-things-know-stock-market-113045466.html",
-          "title_en": "5 Things to Know Before the Stock Market Opens"
+          "url": "https://www.wsj.com/business/pesticide-giant-syngenta-readies-new-weapon-against-superweeds-5fe858be?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Pesticide Giant Syngenta Readies New Weapon Against Superweeds"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-08 04:18:37",
-          "title": "同步金融财报预览：预期是什么",
+          "time": "2026-04-08 04:49:07",
+          "title": "巴思&身体工厂(Q4)表现不佳",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/synchrony-financial-earnings-preview-expect-120846258.html",
-          "title_en": "Synchrony Financial Earnings Preview: What to Expect"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-bath-body-works-bbwi-121922645.html",
+          "title_en": "Here’s Why Bath & Body Works (BBWI) Detracted in Q4"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-08 04:49:07",
+          "title": "美国股权基金连续第二周录得资金流入",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/us-equity-funds-see-second-113904571.html",
+          "title_en": "US equity funds see a second successive weekly inflow"
         }
       ]
     }
