@@ -1,6 +1,6 @@
 {
   "date": "2026.04.07",
-  "generatedAtBJT": "2026-04-07 17:07:15",
+  "generatedAtBJT": "2026-04-07 17:37:29",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-07 17:07:15",
+          "time": "2026-04-07 17:37:29",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金价格喘息；操作偏好：回踩参与、避",
+          "summary": "- 主要驱动因素：10年期利率 + 原油价格/风险事件\n- 四个监控指标：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易急剧波动/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏向纳斯达克/标普500先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏向纳斯达克/标普500修复反弹、黄金价格喘息；操作偏好：回踩参与、避免追高\n-",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：European stocks open slightly higher as Trump’s Iran deadline looms…\n- 宏观/Fed线索：JPMorgan has a stark message on the next Fed rate cut…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：FTSE 100 Live: Builders and gold miners drag as Trump Iran deal awaited…\n- 宏观/Fed线索：JPMorgan has a stark message on the next Fed rate cut…"
         }
       ]
     },
@@ -29,52 +29,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "Nebius 股价大涨 15%，这与其与 Meta 的合作有关。它是否将成为下一个 CoreWeave，还是更好的选择？",
+          "time": "2026-04-07 17:37:24",
+          "title": "EY推出在全球审计业务中使用的代理式AI",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-jumped-15-meta-212000784.html",
-          "title_en": "Nebius Stock Jumped 15% on Its Meta Deal. Is This the Next CoreWeave -- or Something Better?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "吉姆·克拉默（Jim Cramer）指出Atlassian是人工智能替代论的核心",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-identifies-atlassian-ground-034347392.html",
-          "title_en": "Jim Cramer Identifies Atlassian as Ground Zero for the AI Displacement Narrative"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "詹姆斯·克雷默讨论了CoStar Group股价下跌和人工智能威胁。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-costar-group-034410285.html",
-          "title_en": "Jim Cramer Discusses CoStar Group’s Stock Decline and the Threat of AI"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "詹姆斯·克雷默(Jim Cramer)讨论了汤森路透(Thomson Reuters)成为人工智能(AI)受害者的原因。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-why-thomson-034502012.html",
-          "title_en": "Jim Cramer Discusses Why Thomson Reuters Became an AI Casualty"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "吉姆·克雷默说：“我不认为Shopify有一个让人信服的AI颠覆性案例”。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-don-t-034521919.html",
-          "title_en": "Jim Cramer Says “I Don’t Think There’s a Compelling AI Disruption Case Against Shopify”"
+          "url": "https://finance.yahoo.com/sectors/technology/articles/ey-introduces-agentic-ai-assurance-092100787.html",
+          "title_en": "EY introduces agentic AI in assurance for global audit engagements"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
+          "time": "2026-04-07 17:37:24",
+          "title": "布罗德كم股价大涨，原因是与谷歌签署了长期的AI芯片和网络协议。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/broadcom-shares-jump-on-longterm-ai-chip-and-networking-deals-with-google-4599461",
+          "title_en": "Broadcom shares pop on long-term AI chip and networking deals with Google"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 17:37:24",
           "title": "德国银行将Nemetschek升级至“买入”评级，基于其AI增长和Bluebeam动态。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/deutsche-bank-upgrades-nemetschek-to-buy-on-ai-growth-and-bluebeam-momentum-4599768",
@@ -83,11 +56,21 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
+          "time": "2026-04-07 17:37:24",
           "title": "欧洲芯片设备制造商因美国拟议的对中国出口规则的紧缩而下滑",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/european-chip-equipment-makers-slide-on-us-proposal-to-tighten-china-export-rules-4599764",
           "title_en": "European chip equipment makers slide on US proposal to tighten China export rules"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-07 17:09:07",
+          "title": "三星股价上涨，预计利润将因AI芯片热潮而大幅增长8倍",
+          "summary": "三星电子预计将在首季实现历史最高的营业利润，远远超过分析师的预期，这主要是由于人工智能存储芯片的需求大幅增长。",
+          "url": "https://www.cnbc.com/2026/04/07/samsung-shares-rise-nearly-5percent-on-record-breaking-earnings-forecast-buoyed-by-ai-chip-demand.html",
+          "title_en": "Samsung shares rise after profit seen jumping 8-fold on AI chip boom",
+          "summary_en": "Samsung Electronics forecast record first-quarter operating profit that came in far above analyst estimates on booming demand for AI memory chips."
         },
         {
           "source": "MarketWatch-Top",
@@ -98,16 +81,6 @@
           "url": "https://www.marketwatch.com/story/id-like-to-be-a-superhost-is-it-unethical-to-use-ai-in-my-airbnb-photos-to-market-my-property-67c0db11?mod=mw_rss_topstories",
           "title_en": "Is it unethical to use AI in my Airbnb photos to market my property to guests?",
           "summary_en": "“No matter what I do, the beds still look a bit creased and worn, even grubby, in pictures.”"
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-07 16:31:33",
-          "title": "三星股价上涨，预计利润将因AI芯片热潮而大幅增长8倍",
-          "summary": "三星电子预计将在首季实现历史最高的营业利润，远远超过分析师的预期，这主要是由于人工智能存储芯片的需求大幅增长。",
-          "url": "https://www.cnbc.com/2026/04/07/samsung-shares-rise-nearly-5percent-on-record-breaking-earnings-forecast-buoyed-by-ai-chip-demand.html",
-          "title_en": "Samsung shares rise after profit seen jumping 8-fold on AI chip boom",
-          "summary_en": "Samsung Electronics forecast record first-quarter operating profit that came in far above analyst estimates on booming demand for AI memory chips."
         },
         {
           "source": "CNBC-Top",
@@ -160,7 +133,7 @@
           "summary_en": "JPMorgan CEO Jamie Dimon in his annual letter to shareholders noted the country's 250th anniversary and called for a broad recommitment to American ideals."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-04-06 16:18:20",
           "title": "\"沉默杀手\": AI初创公司如何试图解决零售业的一个最大的问题",
@@ -188,14 +161,41 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
+          "time": "2026-04-07 17:37:24",
           "title": "摩根大通发出关于下一个美联储利率降低的严厉警告",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/jpmorgan-stark-message-next-fed-180300978.html",
           "title_en": "JPMorgan has a stark message on the next Fed rate cut"
         },
         {
-          "source": "CNBC-Top",
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 17:37:24",
+          "title": "医疗保险公司股价上涨，美国放弃了2027年 Medicare Advantage 支付率上限",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/health-insurers-rise-us-lifts-091222855.html",
+          "title_en": "Health insurers rise after US lifts 2027 Medicare Advantage payment rates"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 17:37:24",
+          "title": "持有这3只高收益管道股，收入就会不断流入",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/hold-3-high-yield-pipeline-090400424.html",
+          "title_en": "Hold These 3 High-Yield Pipeline Stocks Forever and Let the Income Roll In"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 17:37:24",
+          "title": "医疗保险公司股价上涨，美国放弃了2027年 Medicare Advantage 支付率上限",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/health-insurers-rise-after-us-lifts-2027-medicare-advantage-payment-rates-4599822",
+          "title_en": "Health insurers rise after US lifts 2027 Medicare Advantage payment rates"
+        },
+        {
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-04-07 13:36:46",
           "title": "CNBC的《中国连接》通讯：为什么中国的AI还没有取代工作",
@@ -221,32 +221,68 @@
       "badge": "Risk / Oil / Gold",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 17:37:24",
+          "title": "伦敦富时100指数实时：建筑和黄金矿业股拖累，等待特朗普伊朗协议",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-live-stocks-set-061600866.html",
+          "title_en": "FTSE 100 Live: Builders and gold miners drag as Trump Iran deal awaited"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 17:37:24",
+          "title": "石油价格突破110美元，特朗普威胁将对伊朗下“地狱”令 — 哪些能源股能抓住涨势？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/oil-surges-past-110-trump-090904232.html",
+          "title_en": "Oil Surges Past $110 as Trump Threatens ‘Hell’ for Iran — Which Energy Stocks Could Catch the Rally?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 17:37:24",
+          "title": "波音公司(BOEING)与美国国防部签订了PAC-3导弹防御系统合同",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-enters-pac-3-090132401.html",
+          "title_en": "Boeing (BA) Enters PAC-3 Missile Defense System Deal With U.S. Department of War"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 17:37:24",
+          "title": "美国银行(JPMorgan)警告称，如果霍尔木兹海峡继续关闭，美国汽油价格有可能突破每加仑5美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/news/us-gas-prices-risk-topping-5-per-gallon-if-strait-of-hormuz-stays-closed-jpmorgan-200128577.html",
+          "title_en": "US gas prices risk topping $5 per gallon if Strait of Hormuz stays closed: JPMorgan"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
+          "time": "2026-04-07 17:37:24",
           "title": "欧洲股市开盘轻微上涨，特朗普对伊朗的最后期限临近",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/european-stocks-open-slightly-higher-as-trump-iran-deadline-looms-4599716",
           "title_en": "European stocks open slightly higher as Trump’s Iran deadline looms"
         },
         {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "欧洲股市低迷，投资者在特朗普对伊朗的最后期限前谨慎行事。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/european-shares-muted-as-investors-cautious-ahead-of-trumps-iran-deadline-4599735",
-          "title_en": "European shares muted as investors cautious ahead of Trump’s Iran deadline"
-        },
-        {
           "source": "CNBC-World",
           "ticker": "RSS",
-          "time": "2026-04-07 16:36:33",
-          "title": "欧洲股市上涨，伊朗战争截止日期使市场紧张",
-          "summary": "欧洲股市周二上涨，投资者在伊朗必须在特朗普总统的期限内打开霍尔木兹海峡之前做好准备。",
-          "url": "https://www.cnbc.com/2026/04/07/european-stocks-set-to-rise-as-iran-war-deadline-unsettles-markets.html",
-          "title_en": "European stocks rise as Iran war deadline unsettles markets",
-          "summary_en": "European stocks rose on Tuesday as investors brace themselves ahead of President Trump's deadline for Iran to open the Strait of Hormuz."
+          "time": "2026-04-07 17:17:02",
+          "title": "石油价格不确定，特朗普再次确认对伊朗电力厂和桥梁的轰炸时间表",
+          "summary": "石油价格在特朗普重申对伊朗电力厂和桥梁发动攻击的周二截止期限后出现了混乱。",
+          "url": "https://www.cnbc.com/2026/04/07/crude-oil-prices-today-iran-war-strait-hormuz-tuesday-deadline.html",
+          "title_en": "Oil prices mixed as Trump reaffirms deadline for bombarding Iran's power plants, bridges",
+          "summary_en": "Oil prices were mixed after Trump repeated the Tuesday deadline for escalating attacks on Iran's power plants and bridges."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-07 17:06:55",
+          "title": "国际货币基金组织(IMF)总裁警告称：“所有道路都指向更高的价格和更慢的增长”，伊朗战争打击全球经济。",
+          "summary": "",
+          "url": "https://www.cnbc.com/2026/04/07/higher-prices-slower-growth-warns-imf-.html",
+          "title_en": "‘All roads lead to higher prices and slower growth,' warns IMF chief as Iran war hits global economy"
         },
         {
           "source": "MarketWatch-Top",
@@ -259,7 +295,7 @@
           "summary_en": "Crude-oil futures rose on Tuesday ahead of President Donald Trump’s self-imposed deadline to unleash attacks on Iranian civilian infrastructure."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-04-07 16:24:55",
           "title": "亚太市场波动不定，投资者评估特朗普对伊朗战争的强硬言论",
@@ -267,16 +303,6 @@
           "url": "https://www.cnbc.com/2026/04/07/asia-pacific-markets-toda-kospi-nikkei225-nifty50.html",
           "title_en": "Asia-Pacific markets trade mixed as investors assess Trump's hardened rhetoric on Iran war",
           "summary_en": "Trump renewed threats on targeting Iran's civilian infrastructure if a peace deal is not reached in less than 24 hours, while signaling Iranian leadership is negotiating in earnest."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-07 16:05:38",
-          "title": "石油价格上涨，特朗普再次确认对伊朗电力厂和桥梁进行轰炸的截止日期",
-          "summary": "原油价格继续上涨，因为特朗普重申了对伊朗电力厂和桥梁发起攻击的周二截止日期。",
-          "url": "https://www.cnbc.com/2026/04/07/crude-oil-prices-today-iran-war-strait-hormuz-tuesday-deadline.html",
-          "title_en": "Oil prices rise as Trump reaffirms deadline for bombarding Iran's power plants, bridges",
-          "summary_en": "Crude prices extended gains after Trump repeated the Tuesday deadline for escalating attacks on Iran's power plants and bridges."
         },
         {
           "source": "CNBC-World",
@@ -319,16 +345,6 @@
           "summary_en": "The agreement arrives as Amazon continues to expand its warehouse network and focus on same-day deliveries."
         },
         {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-04-07 05:48:00",
-          "title": "一位高级摩根大通策略师挑战了人们对伊朗战争的几个最大的迷思",
-          "summary": "美国虽然是某些燃料的净出口国，但这并不意味着其经济不会因伊朗冲突导致的全球能源成本上升而受到严重影响。",
-          "url": "https://www.marketwatch.com/story/a-top-j-p-morgan-strategist-tackles-some-of-the-biggest-myths-about-the-war-in-iran-ec30f625?mod=mw_rss_topstories",
-          "title_en": "A top J.P. Morgan strategist tackles some of the biggest myths about the war in Iran",
-          "summary_en": "Just because the U.S. is a net exporter of certain fuels doesn’t mean its economy won’t feel some serious blowback from higher global energy costs driven by the conflict in Iran."
-        },
-        {
           "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-04-07 04:47:02",
@@ -339,7 +355,7 @@
           "summary_en": "Before the U.S and Israel began their war against Iran, about 20% of the world's oil was shipped through the narrow Strait of Hormuz."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-04-07 04:36:24",
           "title": "特朗普称伊朗停火提议“意义重大”但“还不够好”  因为霍尔木兹海峡的最后期限即将到来",
@@ -392,164 +408,164 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "吉姆·克拉默表示有些公司“很难获得尊严”并且“利维斯就是其中之一”。",
+          "time": "2026-04-07 17:37:24",
+          "title": "加通特菲茨杰拉德提高了KLA Corp. (KLAC)的股价目标",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-companies-really-032308705.html",
-          "title_en": "Jim Cramer Says Some Companies “Really Struggle for Respect” and “That’s the Case With Levi’s”"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-raises-price-target-091842122.html",
+          "title_en": "Cantor Fitzgerald Raises Price Target for KLA Corp. (KLAC)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "吉姆·克拉默称达美航空“在一个非常波动的群体中，真正表现出其可靠的收益能力”。",
+          "time": "2026-04-07 17:37:24",
+          "title": "为什么投资者对Texas Instruments (TXN)持有高度偏好",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-delta-air-032319102.html",
-          "title_en": "Jim Cramer Says Delta Air “Truly Distinguished Itself as One of the Most Reliable Earners in a Very Volatile Group”"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-texas-instruments-txn-highly-091840247.html",
+          "title_en": "Here is Why Texas Instruments (TXN) is Highly Favored by Hedge Funds"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "吉姆·克拉默谈到Constellation Brands：“我对这里的可能性很兴奋”",
+          "time": "2026-04-07 17:37:24",
+          "title": "Arete将Analog Devices（ADI）升级至买入",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-constellation-brands-m-032330121.html",
-          "title_en": "Jim Cramer on Constellation Brands: “I’m Excited About the Possibilities Here”"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arete-upgrades-analog-devices-adi-091839004.html",
+          "title_en": "Arete Upgrades Analog Devices (ADI) to Buy"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "吉姆·克拉默（Jim Cramer）对Home Depot的看法：“现在我认为它是我的投资组合中最具挑战性的位置之一”。",
+          "time": "2026-04-07 17:37:24",
+          "title": "Synopsys Inc. (SNPS) 的吸引力在哪里",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-home-depot-regard-032344787.html",
-          "title_en": "Jim Cramer on Home Depot: “I Regard It Now as One of the Most Problematic Positions in My Portfolio”"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/makes-synopsys-inc-snps-appear-091837777.html",
+          "title_en": "What Makes Synopsys Inc. (SNPS) Appear so Attractive"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "华盛顿州的百万富翁税会将富人驱逐出该州吗？",
+          "time": "2026-04-07 17:37:24",
+          "title": "Neurocrine生物技术公司将以29亿美元的交易方式收购Soleno。",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/washingtons-millionaires-tax-drive-rich-213204367.html",
-          "title_en": "Will Washington's Millionaires' Tax Drive The Rich Out Of The State?"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/neurocrine-acquire-soleno-2-9bn-092108991.html",
+          "title_en": "Neurocrine to acquire Soleno in $2.9bn transaction"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "詹姆斯·克雷默表示他更喜欢雪佛兰公司（Chevron）而不是埃克森美孚（Exxon）。",
+          "time": "2026-04-07 17:37:24",
+          "title": "英特尔公司（INTC）将向Samba Nova Systems注资额外15万美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-prefers-chevron-032356847.html",
-          "title_en": "Jim Cramer Notes That He Prefers Chevron Over Exxon"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-corp-intc-inject-additional-091521403.html",
+          "title_en": "Intel Corp. (INTC) to Inject Additional $15 Million in Samba Nova Systems"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "吉姆·克拉默讨论了新蒙特矿业公司和拥有黄金的重要性。",
+          "time": "2026-04-07 17:37:24",
+          "title": "高盛称，抑郁的科技估值可能为投资者提供了进入点。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-newmont-corporation-032408699.html",
-          "title_en": "Jim Cramer Discusses Newmont Corporation and the Importance of Owning Gold"
+          "url": "https://finance.yahoo.com/sectors/technology/articles/depressed-tech-valuations-could-offer-090558854.html",
+          "title_en": "Depressed tech valuations could offer entry point for investors, Goldman Sachs says"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "吉姆·克拉默谈Lockheed Martin：“我会告诉你买它”",
+          "time": "2026-04-07 17:37:24",
+          "title": "Lam研究公司（LRCX）持续保持乐观态度，尽管供应链风险存在。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-lockheed-martin-one-032420451.html",
-          "title_en": "Jim Cramer on Lockheed Martin: “That’s the One I Would Tell You to Buy”"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-lrcx-fuels-bullish-090148926.html",
+          "title_en": "Lam Research (LRCX) Fuels Bullish Sentiment Despite Supply Chain Risks"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "詹姆斯·克拉默（Jim Cramer）谈到Janus Henderson： “这是一个我非常愿意采取的信心投入”",
+          "time": "2026-04-07 17:37:24",
+          "title": "Cantor Fitzgerald再次维持对Applied Materials（AMAT）的超重评级。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-janus-living-leap-032447056.html",
-          "title_en": "Jim Cramer on Janus Living: “It’s a Leap of Faith That I’d Be Very Comfortable Making”"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-reaffirms-overweight-rating-090147000.html",
+          "title_en": "Cantor Fitzgerald Reaffirms Overweight Rating for Applied Materials (AMAT)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "亿万富翁投资者分享两步方法实现正回报：我想我终于解决了股市",
+          "time": "2026-04-07 17:37:24",
+          "title": "Wells Fargo 维持对Advanced Micro Devices（AMD）的超重评级。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-investor-shares-two-step-220156440.html",
-          "title_en": "Billionaire Investor Shares Two-Step Approach To Positive Returns: 'I Think I Finally Solved The Stock Market'"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-maintains-overweight-rating-090145638.html",
+          "title_en": "Wells Fargo Maintains Overweight Rating for Advanced Micro Devices (AMD)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "吉姆·克拉默谈到维塔斯公司： “过去几十年中任何时候都没有如此吸引人的时候了”",
+          "time": "2026-04-07 17:37:24",
+          "title": "美光技术(MU)通过新P5工厂的收购处于有利地位",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-ventas-inc-attractive-032509198.html",
-          "title_en": "Jim Cramer on Ventas, Inc.: “It’s as Attractive Today as It’s Been at Any Point Over the Past Couple of Decades”"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-well-positioned-090144111.html",
+          "title_en": "Micron Technology (MU) Well-Positioned With New P5 Site Acquisition"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "吉姆·克拉默称吉布拉尔特工业为“枯燥的公司”",
+          "time": "2026-04-07 17:37:24",
+          "title": "贝克股份(KE Holdings, BEKE)是何塞基金认为的最佳房产科技股之一",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-gibraltar-industries-032522167.html",
-          "title_en": "Jim Cramer Calls Gibraltar Industries a “Boring Company”"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-ke-holdings-beke-one-090142540.html",
+          "title_en": "Here is Why KE Holdings (BEKE) is One of the Best PropTech Stocks According to Hedge Funds"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "吉姆·克拉默讨论了他为什么拒绝在SoFi Technologies上割肉。",
+          "time": "2026-04-07 17:37:24",
+          "title": "Newmark Group (NMRK) 为 The Artise 筹集了 5.25亿美元的再融资",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-why-refuses-032537033.html",
-          "title_en": "Jim Cramer Discusses Why He Refuses to Cut and Run on SoFi Technologies"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/newmark-group-nmrk-arranges-525-090141389.html",
+          "title_en": "Newmark Group (NMRK) Arranges $525 Million Refinancing of The Artise"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "吉姆·克拉默说，奥克罗（Oklo）\"未来任何时候都很难赚到钱\"。",
+          "time": "2026-04-07 17:37:24",
+          "title": "科斯塔集团（CSGP）是对冲基金的首选",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-oklo-very-032547180.html",
-          "title_en": "Jim Cramer Says Oklo “Has Very Little Prospects for Making Any Money Any Time in the Future”"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-costar-group-csgp-highly-090138560.html",
+          "title_en": "Here is Why CoStar Group (CSGP) is Highly Favored by Hedge Funds"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "吉姆·克拉默谈到巴西石油：\"我希望我能早点推荐它\"",
+          "time": "2026-04-07 17:37:24",
+          "title": "ServiceTitan (TTAN) 将受益于 SPS 池务标准化",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-petrobras-wish-could-032557916.html",
-          "title_en": "Jim Cramer on Petrobras: “I Wish I Could Have Recommended It Earlier”"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/servicetitan-ttan-benefit-sps-poolcare-090139849.html",
+          "title_en": "ServiceTitan (TTAN) to Benefit From SPS PoolCare Standardization"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "吉姆·克拉默表示他愿意在22美元时认可The Trade Desk股票。",
+          "time": "2026-04-07 17:37:24",
+          "title": "Zillow Group (ZG) 与MLB达成长期房地产和房屋租赁协议",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-willing-bless-032715958.html",
-          "title_en": "Jim Cramer Says He is Willing to Bless The Trade Desk Stock at $22"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/zillow-group-zg-establishes-long-090136825.html",
+          "title_en": "Zillow Group (ZG) Establishes Long-Term MLB Real Estate and Home Rentals Deal"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "吉姆·克雷默（Jim Cramer）谈到SanDisk：“我总是告诉你，这是一个内在的繁荣和衰落行业”",
+          "time": "2026-04-07 17:37:24",
+          "title": "Wells Fargo提高了Airbnb (ABNB)的目标价格",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sandisk-always-tell-034208907.html",
-          "title_en": "Jim Cramer on Sandisk: “I Always Tell You This Is Inherently a Boom and Bust Industry”"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-raises-target-price-090135114.html",
+          "title_en": "Wells Fargo Raises Target Price for Airbnb (ABNB)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 17:07:10",
-          "title": "吉姆·克拉默讨论了Lumentum Holdings的90%第一季度大涨",
+          "time": "2026-04-07 17:37:24",
+          "title": "AeroVironment (AVAV) 被美国海军选择为情报、侦察和侦察服务",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-90-first-034219171.html",
-          "title_en": "Jim Cramer Discusses the 90% First Quarter Rally for Lumentum Holdings"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-selected-u-navy-090130807.html",
+          "title_en": "AeroVironment (AVAV) Selected by U.S. Navy for Intelligence, Surveillance, and Reconnaissance Services"
         }
       ]
     }
