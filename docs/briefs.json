@@ -1,6 +1,6 @@
 {
   "date": "2026.04.07",
-  "generatedAtBJT": "2026-04-07 18:08:05",
+  "generatedAtBJT": "2026-04-07 18:38:35",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,7 +14,7 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-07 18:08:05",
+          "time": "2026-04-07 18:38:35",
           "title": "主线结论（系统版｜条件触发）",
           "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金价格喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密",
           "url": "#",
@@ -29,20 +29,30 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
-          "title": "会计们渴望AI能接手的脏活",
+          "time": "2026-04-07 18:38:30",
+          "title": "微软股价已从峰值下跌30%。历史表明，接下来会发生什么。",
           "summary": "",
-          "url": "https://www.wsj.com/lifestyle/careers/accountants-audit-inventory-tax-day-59b1b71f?siteid=yhoof2&yptr=yahoo",
-          "title_en": "The Dirty Job That Accountants Desperately Wish AI Would Take Over"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-down-30-peak-102500269.html",
+          "title_en": "Microsoft Stock Is Down 30% From Its Peak. History Says This Is What Happens Next."
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
           "title": "布罗德كم股价大涨，原因是与谷歌签署了长期的AI芯片和网络协议。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/broadcom-shares-jump-on-longterm-ai-chip-and-networking-deals-with-google-4599461",
           "title_en": "Broadcom shares pop on long-term AI chip and networking deals with Google"
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-04-07 18:30:23",
+          "title": "布罗德كم股份大涨，芯片制造商与谷歌、Anthropic达成协议",
+          "summary": "布罗德كم公司(Broadcom)在周一宣布与谷歌(Google)续签协议，股价在盘前交易中上涨。",
+          "url": "https://www.cnbc.com/2026/04/07/broadcom-shares-jump-before-bell-google-deal.html",
+          "title_en": "Broadcom shares jump before the bell as chipmaker agrees Google and Anthropic deals",
+          "summary_en": "Broadcom shares rose in premarket trading as the chip designer announced an extension to its deal with Google on Monday."
         },
         {
           "source": "CNBC-Top",
@@ -143,7 +153,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
           "title": "摩根大通发出关于下一个美联储利率降低的严厉警告",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/jpmorgan-stark-message-next-fed-180300978.html",
@@ -152,7 +162,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
+          "title": "美国劳动力市场在3月份反弹，新增178万个工作岗位，CNN主播们显然被这一结果震惊。如何利用这一机会。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/economy/articles/cnn-hosts-left-visibly-stunned-101000859.html",
+          "title_en": "CNN hosts left visibly stunned after US labor market bounces back with 178K jobs added in March. How to capitalize"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 18:38:30",
           "title": "今日（4月7日）房贷和再融资利率下降了一些。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-april-7-2026-100000802.html",
@@ -161,34 +180,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
-          "title": "今日最佳短期存款利率（4月7日，最高4.01%年利率）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-tuesday-april-7-2026-100000811.html",
-          "title_en": "Best money market account rates today, April 7, 2026 (Earn up to 4.01% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
-          "title": "今天（4月7日）HELOC和家庭抵押贷款利率：高需求，低利率",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-april-7-2026-100000057.html",
-          "title_en": "HELOC and home equity loan rates today, April 7, 2026: High demand, low rates"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
-          "title": "今日（4月7日）高收益储蓄利率（最高可达4%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-april-7-2026-100000962.html",
-          "title_en": "Best high-yield savings interest rates today, April 7, 2026 (Earn up to 4% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
           "title": "今日最佳定期存款利率（CD），2026年4月7日：今日可锁定最高4.15%年利率（APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-april-7-2026-lock-in-up-to-4-1-5-apy-today-100000909.html",
@@ -197,7 +189,34 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
+          "title": "今日最佳短期存款利率（4月7日，最高4.01%年利率）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-tuesday-april-7-2026-100000811.html",
+          "title_en": "Best money market account rates today, April 7, 2026 (Earn up to 4.01% APY)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 18:38:30",
+          "title": "今天（4月7日）HELOC和家庭抵押贷款利率：高需求，低利率",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-april-7-2026-100000057.html",
+          "title_en": "HELOC and home equity loan rates today, April 7, 2026: High demand, low rates"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 18:38:30",
+          "title": "今日（4月7日）高收益储蓄利率（最高可达4%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-april-7-2026-100000962.html",
+          "title_en": "Best high-yield savings interest rates today, April 7, 2026 (Earn up to 4% APY)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 18:38:30",
           "title": "医疗保险公司股价上涨，美国放弃了2027年 Medicare Advantage 支付率上限",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/healthcare/articles/health-insurers-rise-us-lifts-091222855.html",
@@ -206,7 +225,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
           "title": "医疗保险公司股价上涨，美国放弃了2027年 Medicare Advantage 支付率上限",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/health-insurers-rise-after-us-lifts-2027-medicare-advantage-payment-rates-4599822",
@@ -241,7 +260,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
           "title": "美国股民在伊朗战争波动中独特脆弱，多年来一直在买入股票",
           "summary": "",
           "url": "https://finance.yahoo.com/news/americans-are-uniquely-vulnerable-to-iran-war-volatility-after-years-of-buying-stocks-100044862.html",
@@ -250,7 +269,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
+          "title": "石油价格大幅上涨，美方迫近伊朗重开霍尔木兹海峡的最后期限",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/oil-prices-jump-us-deadline-103347347.html",
+          "title_en": "Oil prices jump as US deadline nears for Iran to reopen Hormuz"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 18:38:30",
           "title": "汽油价格因伊朗战争飙升，电动汽车看起来很诱人。您是否应该切换到电动汽车或等待时机？",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/energy/articles/electric-cars-look-tempting-gas-093000910.html",
@@ -259,7 +287,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
           "title": "波音公司(BOEING)与美国国防部签订了PAC-3导弹防御系统合同",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-enters-pac-3-090132401.html",
@@ -268,20 +296,11 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
           "title": "UBS降低了S&P 500的目标价，预计油价上涨将延缓美联储利率降低。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/ubs-trims-sp-500-targets-as-higher-oil-prices-expected-to-delay-fed-rate-cuts-4599843",
           "title_en": "UBS trims S&P 500 targets as higher oil prices expected to delay Fed rate cuts"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
-          "title": "欧洲股市开盘轻微上涨，特朗普对伊朗的最后期限临近",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/european-stocks-open-slightly-higher-as-trump-iran-deadline-looms-4599716",
-          "title_en": "European stocks open slightly higher as Trump’s Iran deadline looms"
         },
         {
           "source": "CNBC-Top",
@@ -426,7 +445,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
+          "title": "SpaceX的上市可能会让脆弱的IPO市场失去呼吸",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-blockbuster-spacex-listing-could-100746304.html",
+          "title_en": "Analysis-Blockbuster SpaceX listing could suck the oxygen out of fragile IPO market"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 18:38:30",
           "title": "摩根士丹利发出严厉警告",
           "summary": "",
           "url": "https://finance.yahoo.com/news/morning-brief-a-sharp-warning-from-goldman-sachs-100056994.html",
@@ -435,16 +463,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
-          "title": "大短线投资者史蒂夫·艾斯曼称，尽管GameStop现金储备达到90亿美元，但仍不值得押注。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/big-short-steve-eisman-says-094603874.html",
-          "title_en": "Big Short Steve Eisman Says It's 'Not Compelling' To Bet On GameStop Despite Cash Pile Swelling To $9 Billion"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
           "title": "Pershing Square提议64万亿美元的环球音乐合并计划",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/pershing-square-proposes-64-billion-082618864.html",
@@ -453,7 +472,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
+          "title": "印度转向委内瑞拉原油，因为中东供应出现问题",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/india-turns-venezuelan-crude-middle-093000834.html",
+          "title_en": "India Turns to Venezuelan Crude as Middle East Supply Falters"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 18:38:30",
           "title": "贾米·迪蒙表示，杰泼摩根钱伯斯有可能进入预测市场，但将完全排除两大行业。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/options/articles/jamie-dimon-says-jpmorgan-chase-093000860.html",
@@ -462,7 +490,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
+          "title": "孟加拉国针织业创新竞争力提升伙伴关系",
+          "summary": "",
+          "url": "https://finance.yahoo.com/economy/articles/partnership-boost-innovation-led-competitiveness-102213289.html",
+          "title_en": "Partnership to boost innovation-led competitiveness in Bangladesh knitwear"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 18:38:30",
           "title": "加通特菲茨杰拉德提高了KLA Corp. (KLAC)的股价目标",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-raises-price-target-091842122.html",
@@ -471,16 +508,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
-          "title": "马来西亚保险局（MAIB）任命Fineos替换遗留索赔系统。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/maib-appoints-fineos-replace-legacy-094552071.html",
-          "title_en": "MAIB appoints Fineos to replace legacy claims system"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
           "title": "为什么投资者对Texas Instruments (TXN)持有高度偏好",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-texas-instruments-txn-highly-091840247.html",
@@ -489,7 +517,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
           "title": "Arete将Analog Devices（ADI）升级至买入",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/arete-upgrades-analog-devices-adi-091839004.html",
@@ -498,7 +526,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
+          "title": "荷兰兄弟股份（Dutch Bros）过去三个月股价下跌24%。投资者是否应该趁低买入？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dutch-bros-stock-down-24-102200749.html",
+          "title_en": "Dutch Bros Stock Is Down 24% Over the Past Three Months. Should Investors Buy the Dip?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 18:38:30",
           "title": "Synopsys Inc. (SNPS) 的吸引力在哪里",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/makes-synopsys-inc-snps-appear-091837777.html",
@@ -507,7 +544,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
           "title": "英特尔公司（INTC）将向Samba Nova Systems注资额外15万美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-corp-intc-inject-additional-091521403.html",
@@ -516,16 +553,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
-          "title": "贝尔斯登的首席执行官威廉·阿克曼正试图将环球音乐集团（Universal Music Group）强行推入美国市场。",
-          "summary": "",
-          "url": "https://www.barrons.com/articles/universal-music-ackman-bid-64billion-ad7c7b01?siteid=yhoof2&yptr=yahoo",
-          "title_en": "How Ackman Is Trying to Force Universal Music Group Onto the U.S. Market"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
           "title": "高盛称，抑郁的科技估值可能为投资者提供了进入点。",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/technology/articles/depressed-tech-valuations-could-offer-090558854.html",
@@ -534,7 +562,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
+          "title": "切沃石油股价在三月份飙升近11%",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-chevron-stock-surged-nearly-102000415.html",
+          "title_en": "Why Chevron Stock Surged Nearly 11% in March"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 18:38:30",
           "title": "Lam研究公司（LRCX）持续保持乐观态度，尽管供应链风险存在。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-lrcx-fuels-bullish-090148926.html",
@@ -543,7 +580,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
           "title": "Cantor Fitzgerald再次维持对Applied Materials（AMAT）的超重评级。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-reaffirms-overweight-rating-090147000.html",
@@ -552,16 +589,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
-          "title": "如果你现在购买 OLLI 并持有到永远，以下可能会发生。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-olli-now-hold-forever-094000616.html",
-          "title_en": "If You Buy OLLI Right Now and Hold Forever, Here's What Could Happen"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
           "title": "Wells Fargo 维持对Advanced Micro Devices（AMD）的超重评级。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-maintains-overweight-rating-090145638.html",
@@ -570,20 +598,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
+          "time": "2026-04-07 18:38:30",
           "title": "美光技术(MU)通过新P5工厂的收购处于有利地位",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-well-positioned-090144111.html",
           "title_en": "Micron Technology (MU) Well-Positioned With New P5 Site Acquisition"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 18:07:59",
-          "title": "贝克股份(KE Holdings, BEKE)是何塞基金认为的最佳房产科技股之一",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-ke-holdings-beke-one-090142540.html",
-          "title_en": "Here is Why KE Holdings (BEKE) is One of the Best PropTech Stocks According to Hedge Funds"
         }
       ]
     }
