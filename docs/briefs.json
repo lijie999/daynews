@@ -1,6 +1,6 @@
 {
   "date": "2026.04.07",
-  "generatedAtBJT": "2026-04-07 14:05:12",
+  "generatedAtBJT": "2026-04-07 14:35:34",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-07 14:05:12",
+          "time": "2026-04-07 14:35:34",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高",
+          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Iran Wars Fuels RTX Growth Story as Defense Demand Rockets Higher…\n- 宏观/Fed线索：JPMorgan has a stark message on the next Fed rate cut…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Inflation readings, oil volatility, and airline earnings: What to watch …\n- 宏观/Fed线索：JPMorgan has a stark message on the next Fed rate cut…"
         }
       ]
     },
@@ -29,16 +29,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
-          "title": "IQVIA (IQV)推出IQVIA.ai统一代理式人工智能平台，采用Nvidia",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/iqvia-iqv-launches-iqvia-ai-183121755.html",
-          "title_en": "IQVIA (IQV) Launches IQVIA.ai Unified Agentic AI Platform with Nvidia"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
+          "time": "2026-04-07 14:35:29",
           "title": "联合租赁（URI）推出人工智能powered设备代理数字助手",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/technology/articles/united-rentals-uri-launches-ai-183124272.html",
@@ -47,16 +38,52 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
+          "time": "2026-04-07 14:35:29",
+          "title": "一只微小的人工智能（AI）股票，可能让你成为百万富翁",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/1-tiny-artificial-intelligence-ai-192000355.html",
+          "title_en": "1 Tiny Artificial Intelligence (AI) Stock That Could Make You a Millionaire"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 14:35:29",
+          "title": "IQVIA (IQV)推出IQVIA.ai统一代理式人工智能平台，采用Nvidia",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/iqvia-iqv-launches-iqvia-ai-183121755.html",
+          "title_en": "IQVIA (IQV) Launches IQVIA.ai Unified Agentic AI Platform with Nvidia"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 14:35:29",
+          "title": "有5万美元吗？5家前沿AI成长股买入前街头市场发现之前。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/got-5-000-5-agentic-194700470.html",
+          "title_en": "Got $5,000? 5 Agentic AI Growth Stocks to Buy Before Wall Street Catches On."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 14:35:29",
           "title": "我认为现在是投资人工智能的绝佳时机：我正在买入这3只股票",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/generational-investment-opportunity-3-ai-183500913.html",
           "title_en": "A Generational Investment Opportunity: 3 AI Stocks I'm Buying Now"
         },
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 14:35:29",
+          "title": "在OpenAI即将上市IPO前，5件你需要知道的事情",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/5-things-know-openai-ipo-200400215.html",
+          "title_en": "5 Things to Know About OpenAI Before Its IPO"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
+          "time": "2026-04-07 14:35:29",
           "title": "三星预计第一季度利润将大幅增长八倍，受人工智能芯片需求大幅上升的影响。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/samsung-sees-eightfold-increase-in-q1-profit-on-soaring-ai-chip-demand-4599603",
@@ -65,20 +92,11 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
+          "time": "2026-04-07 14:35:29",
           "title": "中国试图通过针对台湾的芯片实力来绕过全球的\"围堵\", 台北政府说。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/china-targets-taiwans-chip-prowess-to-evade-global-containment-taipei-government-says-4599599",
           "title_en": "China targets Taiwan’s chip prowess to evade global ’containment’, Taipei government says"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
-          "title": "苹果折叠屏iPhone面临工程障碍，可能导致交货延迟，日媒 Nikkei Asia 报道。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/apples-foldable-iphone-encounters-engineering-snags-faces-potential-shipment-delays-nikkei-asia-reports-4599594",
-          "title_en": "Apple’s foldable iPhone faces engineering snags, potential shipment delays, Nikkei Asia reports"
         },
         {
           "source": "CNBC-Top",
@@ -169,34 +187,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
+          "time": "2026-04-07 14:35:29",
           "title": "摩根大通发出关于下一个美联储利率降低的严厉警告",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/jpmorgan-stark-message-next-fed-180300978.html",
           "title_en": "JPMorgan has a stark message on the next Fed rate cut"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
-          "title": "RH 首席执行官警告称，房地产市场处于“最危险”的状态，随着利率上升，抵押贷款申请大幅下降。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/economy/articles/rh-ceo-warns-most-dire-180218810.html",
-          "title_en": "RH CEO Warns Of 'Most Dire' Housing Market As Mortgage Applications Tumble On Rising Rates"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
-          "title": "本周要关注的事件包括：美联储会议纪要、通胀、德尔塔变异株、Levi's 等。",
-          "summary": "",
-          "url": "https://www.barrons.com/articles/fed-minutes-inflation-delta-levis-and-more-to-watch-this-week-454b0154?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Fed Minutes, Inflation, Delta, Levi’s, and More to Watch This Week"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
+          "time": "2026-04-07 14:35:29",
           "title": "中国农民开始用国产豆类喂养猪",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/chinese-pigs-fed-new-menu-as-beijing-weans-farmers-off-us-soy-4599601",
@@ -231,16 +231,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
-          "title": "伊朗战争推动RTX增长故事，防务需求大幅上升",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/iran-wars-fuels-rtx-growth-183042113.html",
-          "title_en": "Iran Wars Fuels RTX Growth Story as Defense Demand Rockets Higher"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
+          "time": "2026-04-07 14:35:29",
           "title": "本周要关注的指标包括通胀数据、油价波动和航空股业绩。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/inflation-readings-oil-volatility-and-airline-earnings-what-to-watch-this-week-100027649.html",
@@ -249,7 +240,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
+          "time": "2026-04-07 14:35:29",
           "title": "华尔街预计将对伊朗冲突视而不见",
           "summary": "",
           "url": "https://finance.yahoo.com/news/wouldnt-be-shocked-if-bull-market-continues-wall-street-aims-to-look-past-iran-conflict-150025546.html",
@@ -258,20 +249,21 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
+          "time": "2026-04-07 14:35:29",
           "title": "亚洲股市波动不定，特朗普对伊朗的最后期限临近",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rangebound-as-trumps-iran-deadline-looms-4599658",
           "title_en": "Asia stocks rangebound as Trump’s Iran deadline looms"
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
-          "title": "股市难以振作，石油价格大幅上涨，特朗普对伊朗的最后期限临近。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/stocks-struggle-oil-jumps-as-trumps-iran-deadline-looms-4599591",
-          "title_en": "Stocks struggle, oil jumps as Trump’s Iran deadline looms"
+          "time": "2026-04-07 14:20:08",
+          "title": "欧洲股市预计将开盘升高，伊朗战争截止日期的不确定性搅乱了市场。",
+          "summary": "欧洲股市预计将在周二上涨，因为投资者在伊朗必须在特朗普总统的期限内开放霍尔木兹海峡之前做好准备。",
+          "url": "https://www.cnbc.com/2026/04/07/european-stocks-set-to-rise-as-iran-war-deadline-unsettles-markets.html",
+          "title_en": "European stocks set to open higher as Iran war deadline unsettles markets",
+          "summary_en": "European stocks are set to rise on Tuesday as investors brace themselves ahead of President Trump's deadline for Iran to open the Strait of Hormuz."
         },
         {
           "source": "CNBC-Top",
@@ -417,88 +409,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
-          "title": "PDD控股（PDD）预计2025年收入为人民币431.8亿元；净利润下降12%",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-pdd-reports-2025-183115087.html",
-          "title_en": "PDD Holdings (PDD) Reports 2025 Revenue of RMB431.8B; Net Income Falls 12%"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
-          "title": "通用汽车(GM)将在萨金诺铸造工厂投资超过15亿美元。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/general-motors-gm-invest-over-183118451.html",
-          "title_en": "General Motors (GM) to Invest Over $150M in Saginaw Casting Operations"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
-          "title": "皇家加勒比游轮（RCL）和美国银行推出三重品牌Visa卡",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-rcl-bank-america-183120949.html",
-          "title_en": "Royal Caribbean (RCL) and Bank of America Launch Tri-Branded Visa Cards"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
-          "title": "阿波罗（APO）基金收购了Gatehouse Bank的Gatehouse Living Group。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apollo-apo-funds-acquire-gatehouse-183114049.html",
-          "title_en": "Apollo (APO) Funds Acquire Gatehouse Living Group from Gatehouse Bank"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
-          "title": "Fiserv (FISV) 和 Western Alliance Bank 宣布战略代理银行合作伙伴关系",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fiserv-fisv-western-alliance-bank-183127921.html",
-          "title_en": "Fiserv (FISV) and Western Alliance Bank Announce Strategic Agent Bank Partnership"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
-          "title": "卡尔西尔集团（CG）将以2.8亿美元估值收购MAI资本大部分股份",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/carlyle-group-cg-acquire-majority-183117536.html",
-          "title_en": "Carlyle Group (CG) to Acquire Majority Stake in MAI Capital at $2.8B Valuation"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
-          "title": "GE健康照护（GEHC）获得了光诺瓦光谱CT系统（Photonova Spectra CT System）的FDA批准。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/ge-healthcare-gehc-receives-fda-183123377.html",
-          "title_en": "GE HealthCare (GEHC) Receives FDA Clearance for Photonova Spectra CT System"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
-          "title": "京东方（JD）宣布其境外CNY10亿债券发行价格",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jd-com-jd-announces-pricing-183126246.html",
-          "title_en": "JD.com (JD) Announces Pricing of CNY10B Offshore Notes Offering"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
-          "title": "四家技术股比任何加密货币都有更大的潜力",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/4-tech-stocks-more-potential-182000692.html",
-          "title_en": "4 Tech Stocks With More Potential Than Any Cryptocurrency"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
+          "time": "2026-04-07 14:35:29",
           "title": "收入和成本的影响不同于每个人",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/article/how-income-and-costs-affect-everyone-differently-183751305.html",
@@ -507,7 +418,88 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
+          "time": "2026-04-07 14:35:29",
+          "title": "京东方（JD）宣布其境外CNY10亿债券发行价格",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jd-com-jd-announces-pricing-183126246.html",
+          "title_en": "JD.com (JD) Announces Pricing of CNY10B Offshore Notes Offering"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 14:35:29",
+          "title": "Netflix 正在以不同的方式玩体育权益游戏，以取胜",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-playing-sporting-rights-game-190500365.html",
+          "title_en": "How Netflix Is Playing the Sporting Rights Game to Win, by Playing It Differently"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 14:35:29",
+          "title": "Fiserv (FISV) 和 Western Alliance Bank 宣布战略代理银行合作伙伴关系",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fiserv-fisv-western-alliance-bank-183127921.html",
+          "title_en": "Fiserv (FISV) and Western Alliance Bank Announce Strategic Agent Bank Partnership"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 14:35:29",
+          "title": "GE健康照护（GEHC）获得了光诺瓦光谱CT系统（Photonova Spectra CT System）的FDA批准。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/ge-healthcare-gehc-receives-fda-183123377.html",
+          "title_en": "GE HealthCare (GEHC) Receives FDA Clearance for Photonova Spectra CT System"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 14:35:29",
+          "title": "阿波罗（APO）基金收购了Gatehouse Bank的Gatehouse Living Group。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apollo-apo-funds-acquire-gatehouse-183114049.html",
+          "title_en": "Apollo (APO) Funds Acquire Gatehouse Living Group from Gatehouse Bank"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 14:35:29",
+          "title": "通用汽车(GM)将在萨金诺铸造工厂投资超过15亿美元。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/general-motors-gm-invest-over-183118451.html",
+          "title_en": "General Motors (GM) to Invest Over $150M in Saginaw Casting Operations"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 14:35:29",
+          "title": "PDD控股（PDD）预计2025年收入为人民币431.8亿元；净利润下降12%",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-pdd-reports-2025-183115087.html",
+          "title_en": "PDD Holdings (PDD) Reports 2025 Revenue of RMB431.8B; Net Income Falls 12%"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 14:35:29",
+          "title": "皇家加勒比游轮（RCL）和美国银行推出三重品牌Visa卡",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-rcl-bank-america-183120949.html",
+          "title_en": "Royal Caribbean (RCL) and Bank of America Launch Tri-Branded Visa Cards"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 14:35:29",
+          "title": "卡尔西尔集团（CG）将以2.8亿美元估值收购MAI资本大部分股份",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/carlyle-group-cg-acquire-majority-183117536.html",
+          "title_en": "Carlyle Group (CG) to Acquire Majority Stake in MAI Capital at $2.8B Valuation"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 14:35:29",
           "title": "麻省理工学院背后的新工具显示，你居住的街区电费为什么会不断上涨——你应该关注这个问题。",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/energy/articles/mit-backed-tool-shows-exactly-205500689.html",
@@ -516,7 +508,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
+          "time": "2026-04-07 14:35:29",
           "title": "吉姆·克拉默表示有些公司“很难获得尊严”并且“利维斯就是其中之一”。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-companies-really-032308705.html",
@@ -525,7 +517,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
+          "time": "2026-04-07 14:35:29",
           "title": "吉姆·克拉默称达美航空“在一个非常波动的群体中，真正表现出其可靠的收益能力”。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-delta-air-032319102.html",
@@ -534,7 +526,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
+          "time": "2026-04-07 14:35:29",
           "title": "吉姆·克拉默谈到Constellation Brands：“我对这里的可能性很兴奋”",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-constellation-brands-m-032330121.html",
@@ -543,7 +535,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
+          "time": "2026-04-07 14:35:29",
           "title": "吉姆·克拉默（Jim Cramer）对Home Depot的看法：“现在我认为它是我的投资组合中最具挑战性的位置之一”。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-home-depot-regard-032344787.html",
@@ -552,16 +544,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
-          "title": "太空股争夺战：AST SpaceMobile还是Planet Labs值得你花钱吗？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/space-stock-face-off-ast-180500458.html",
-          "title_en": "Space Stock Face-Off: Is AST SpaceMobile or Planet Labs Worth Your Money Right Now?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
+          "time": "2026-04-07 14:35:29",
           "title": "詹姆斯·克雷默表示他更喜欢雪佛兰公司（Chevron）而不是埃克森美孚（Exxon）。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-prefers-chevron-032356847.html",
@@ -570,11 +553,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-07 14:05:07",
+          "time": "2026-04-07 14:35:29",
           "title": "吉姆·克拉默讨论了新蒙特矿业公司和拥有黄金的重要性。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-newmont-corporation-032408699.html",
           "title_en": "Jim Cramer Discusses Newmont Corporation and the Importance of Owning Gold"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-07 14:35:29",
+          "title": "吉姆·克拉默谈Lockheed Martin：“我会告诉你买它”",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-lockheed-martin-one-032420451.html",
+          "title_en": "Jim Cramer on Lockheed Martin: “That’s the One I Would Tell You to Buy”"
         }
       ]
     }
