@@ -1,6 +1,6 @@
 {
   "date": "2026.04.09",
-  "generatedAtBJT": "2026-04-09 10:23:38",
+  "generatedAtBJT": "2026-04-09 10:54:24",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-09 10:23:38",
+          "time": "2026-04-09 10:54:24",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主要驱动因素：10年期利率 + 原油价格/风险事件\n- 四大监控指标：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳指/标普500承压更明显；美元指数上升→黄金更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳指/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳指/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波",
+          "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→纳斯达克指数/标普500指数承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且VIX抬升→偏纳斯达克指数/标普500指数先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且VIX回落→偏纳斯达克指数/标普500指数修复反弹、黄金价格喘息；操作",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Dollar Slightly Lower Ahead of Tonight’s Iran Deadline…\n- 宏观/Fed线索：Daily Spotlight: Fed's Favorite Inflation Indicator…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Stock Losses Deepen as Iran War Looks to Intensify…\n- 宏观/Fed线索：Does Salesforce pay a dividend? Yield & payouts explained…"
         }
       ]
     },
@@ -29,56 +29,65 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "Meta Platforms (META) 因投资者对人工智能基础设施和员工增加支出的担忧而下滑",
+          "time": "2026-04-09 10:54:18",
+          "title": "Anthropic在收入翻倍的同时锁定了Google和Broadcom的资金。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-slid-investors-144601889.html",
-          "title_en": "Meta Platforms (META) Slid on Investors’ Concerns on Increased Spending on AI Infrastructure and Workers"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-locked-google-broadcom-while-150903630.html",
+          "title_en": "Anthropic Locked In Google & Broadcom While Its Revenue Tripled"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "TCW 相对价值大盘基金预计Meta Platforms Inc (META)将具有巨大的增长潜力。",
+          "time": "2026-04-09 10:54:18",
+          "title": "Anthropic与Google合作增加计算能力，Broadcom达成交易",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tcw-relative-value-large-cap-144125226.html",
-          "title_en": "TCW Relative Value Large Cap Fund is Expecting Substantial Growth Potential for Meta Platforms Inc (META)"
+          "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-adds-compute-power-google-151729696.html",
+          "title_en": "Anthropic adds compute power with Google, Broadcom deals"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "英特尔公司（INTC）股价大涨，原因是该公司宣布与NVIDIA公司（NVDA）达成合作。",
+          "time": "2026-04-09 10:54:18",
+          "title": "布罗德كم股价上涨，受谷歌、Anthropic交易影响",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/intel-corporation-intc-surged-following-143458219.html",
-          "title_en": "Intel Corporation (INTC) Surged Following the Announcement of a Partnership With NVIDIA"
+          "url": "https://finance.yahoo.com/sectors/technology/article/broadcom-stock-rises-on-google-anthropic-deals-150614203.html",
+          "title_en": "Broadcom stock rises on Google, Anthropic deals"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "ARM Holdings 股票大幅下跌。摩根士丹利为什么将该AI芯片玩家评级下调。",
+          "time": "2026-04-09 10:54:18",
+          "title": "Nvidia (NVDA) 与竞争对手 Marvell (MRVL) 的交易只会加强其自身生态系统，以下是如何做到的。",
           "summary": "",
-          "url": "https://www.barrons.com/articles/arm-holdings-stock-morgan-stanley-downgrade-ai-dcb9d888?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Arm Holdings Stock Tumbles. Why Morgan Stanley Downgraded the AI Chip Play."
+          "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-nvda-deal-competitor-marvell-145807589.html",
+          "title_en": "Nvidia’s (NVDA) Deal With Competitor Marvell (MRVL) Only Strengthens Its Own Ecosystem, Here’s How"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "亚马逊 (AMZN) 为何成为一个高回报投资机会？",
+          "time": "2026-04-09 10:54:18",
+          "title": "迈康（Micron）的人工智能（AI）内存（Memory）热潮是真实的——而且分析师们仍在追赶。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/makes-amazon-com-amzn-lucrative-143155199.html",
-          "title_en": "What Makes Amazon.com (AMZN) a Lucrative Investment Opportunity?"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-ai-memory-boom-real-152008823.html",
+          "title_en": "Micron’s AI Memory Boom Is Real—And Analysts Are Still Playing Catch Up"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "退休者：如何在人工智能（AI）抛售中保持投资组合稳定",
+          "time": "2026-04-09 10:54:18",
+          "title": "美国会计准则委员会（FASB）将监控数据中心的复杂趋势",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/retirees-heres-ride-artificial-intelligence-145000022.html",
-          "title_en": "Retirees: Here's How to Ride Out the Artificial Intelligence (AI) Sell-Off Without Wrecking Your Portfolio"
+          "url": "https://finance.yahoo.com/sectors/technology/articles/fasb-monitor-thorny-data-center-150628745.html",
+          "title_en": "FASB to monitor thorny data center trends"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-09 10:54:18",
+          "title": "阿里巴巴股价下跌，杰弗里斯将人工智能支出和非核心损失目标降低",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/alibaba-shares-fall-after-jefferies-cuts-target-on-ai-spending-noncore-losses-4604491",
+          "title_en": "Alibaba shares fall after Jefferies cuts target on AI spending, non-core losses"
         },
         {
           "source": "CNBC-Top",
@@ -189,16 +198,6 @@
           "url": "https://www.cnbc.com/2026/04/07/elon-musk-seeks-ouster-of-openai-ceo-sam-altman-as-part-of-lawsuit.html",
           "title_en": "Elon Musk seeks ouster of OpenAI CEO Sam Altman as part of lawsuit",
           "summary_en": "Elon Musk is seeking to have OpenAI CEO Sam Altman and President Greg Brockman removed from their roles as officers in the company as part of a lawsuit."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-04-08 05:28:17",
-          "title": "苹果股价下跌，据报折叠屏iPhone延迟",
-          "summary": "据报，公司在开发可折叠手机方面面临工程挑战，这些手机预计将于今年晚些时候发布。",
-          "url": "https://www.cnbc.com/2026/04/07/apple-stock-foldable-iphone-report.html",
-          "title_en": "Apple shares sink on report of foldable iPhone delays",
-          "summary_en": "The company is reportedly facing engineering challenges in the development of the foldable phones, which are anticipated to launch later this year."
         }
       ]
     },
@@ -209,7 +208,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
+          "time": "2026-04-09 10:54:18",
+          "title": "Salesforce (CRM) 不支付股息。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-salesforce-pay-dividend-yield-151300506.html",
+          "title_en": "Does Salesforce pay a dividend? Yield & payouts explained"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-09 10:54:18",
           "title": "美联储最喜欢的通胀指标",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46664_MarketOutlook_1775646940000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -218,7 +226,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
+          "time": "2026-04-09 10:54:18",
           "title": "华特迪士尼计划裁员1,000人，华尔街日报报道",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/disney-plans-to-cut-1000-jobs-wsj-reports-4604461",
@@ -243,29 +251,40 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "美元略微下跌，等待今晚的伊朗最后期限",
+          "time": "2026-04-09 10:54:18",
+          "title": "伊朗战争加剧，股市损失加深",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-slightly-lower-ahead-tonight-143605438.html",
-          "title_en": "Dollar Slightly Lower Ahead of Tonight’s Iran Deadline"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "石油市场的最后倒计时",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/final-countdown-oil-markets-143000067.html",
-          "title_en": "The Final Countdown for Oil Markets"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-losses-deepen-iran-war-151217382.html",
+          "title_en": "Stock Losses Deepen as Iran War Looks to Intensify"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
+          "time": "2026-04-09 10:54:18",
           "title": "美国股指期货稳定，随着华尔街对伊朗停火的反应而上涨",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-rallies-on-iran-ceasefire-4604414",
           "title_en": "US stock futures steady after Wall St rallies on Iran ceasefire"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-09 10:44:13",
+          "title": "特朗普再次批评格陵兰岛：这片冰岛管理得很糟糕",
+          "summary": "特朗普再次将目光投向格陵兰岛，同时在发泄对北约的不满之时，伊朗战争的外交后果暴露了安全联盟内部的裂痕。",
+          "url": "https://www.cnbc.com/2026/04/09/trump-greenland-nato-rift-iran-war-deepens.html",
+          "title_en": "'Poorly run, piece of ice': Trump targets Greenland again as Iran war deepens NATO rift",
+          "summary_en": "Trump has set his eyes on Greenland again while venting frustration at NATO, as the diplomatic fallout from Iran war exposed rifts in the security alliance."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-09 10:27:31",
+          "title": "印度内部通讯：关税和伊朗战争威胁印度 garments 出口目标100亿美元",
+          "summary": "美国贸易税和伊朗战争严重打击了印度服装业，导致成本上升、出口减少，挫败了该行业复苏的希望。",
+          "url": "https://www.cnbc.com/2026/04/09/inside-india-newsletter-tariffs-iran-war-india-massive-garments-industry.html",
+          "title_en": "Inside India newsletter: Tariffs and Iran war threaten India's $100 billion garments export goal",
+          "summary_en": "U.S. tariffs and the Iran war have battered India’s garment industry, raising costs, hitting exports, and dashing hopes of a recovery."
         },
         {
           "source": "CNBC-Top",
@@ -280,32 +299,12 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-09 10:10:47",
-          "title": "特朗普再次批评格陵兰岛：这片冰岛管理得很糟糕",
-          "summary": "特朗普再次将目光投向格陵兰岛，同时在发泄对北约的不满之时，伊朗战争的外交后果暴露了安全联盟内部的裂痕。",
-          "url": "https://www.cnbc.com/2026/04/09/trump-greenland-nato-rift-iran-war-deepens.html",
-          "title_en": "'Poorly run, piece of ice': Trump targets Greenland again as Iran war deepens NATO rift",
-          "summary_en": "Trump has set his eyes on Greenland again while venting frustration at NATO, as the diplomatic fallout from Iran war exposed rifts in the security alliance."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
           "time": "2026-04-09 08:40:06",
           "title": "石油价格再次上涨，伊朗指责美国违反停火协议",
           "summary": "石油市场因伊朗指责美国违反了两周的停火协议而上涨。",
           "url": "https://www.cnbc.com/2026/04/09/oil-prices-today-wti-brent-iran-accuse-us-of-ceasefire-breach.html",
           "title_en": "Oil prices resume gains after Iran accuses U.S. of breaching ceasefire deal",
           "summary_en": "Oil markets rose after Iran accused the United States of violating elements of a two-week ceasefire agreement."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-09 08:06:58",
-          "title": "印度内部通讯：关税和伊朗战争威胁印度 garments 出口目标100亿美元",
-          "summary": "美国贸易税和伊朗战争严重打击了印度服装业，导致成本上升、出口减少，挫败了该行业复苏的希望。",
-          "url": "https://www.cnbc.com/2026/04/09/inside-india-newsletter-tariffs-iran-war-india-massive-garments-industry.html",
-          "title_en": "Inside India newsletter: Tariffs and Iran war threaten India's $100 billion garments export goal",
-          "summary_en": "U.S. tariffs and the Iran war have battered India’s garment industry, raising costs, hitting exports, and dashing hopes of a recovery."
         },
         {
           "source": "CNBC-World",
@@ -416,13 +415,33 @@
           "url": "https://www.cnbc.com/2026/04/08/5-things-to-know-before-the-market-opens.html",
           "title_en": "Iran ceasefire, Delta earnings, the Navy's retail woes and more in Morning Squawk",
           "summary_en": "Here are five key things investors need to know to start the trading day."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-08 20:04:30",
+          "title": "美国参议员JD Vance称伊朗停火是“脆弱的休战”，并表示特朗普总统“急切地希望取得进展”。",
+          "summary": "美国副总统表示，伊朗对停火协议的反应各不相同，有些人甚至在撒谎，关于我们已经达成的脆弱停火协议。",
+          "url": "https://www.cnbc.com/2026/04/08/jd-vance-iran-ceasefire-fragile-truce-hungary-trump.html",
+          "title_en": "JD Vance calls Iran ceasefire a 'fragile truce' and says Trump is 'impatient to make progress'",
+          "summary_en": "The U.S. vice president said the response from Iran to the ceasefire had varied, with some 'lying about even the fragile truce that we've already struck.'"
         }
       ]
     },
     {
       "name": "特斯拉链",
       "badge": "TSLA chain",
-      "items": []
+      "items": [
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-09 10:54:18",
+          "title": "2026年可能是特斯拉(TSLA)海外销售回暖的年份。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/could-2026-tesla-tsla-foreign-150650868.html",
+          "title_en": "Could 2026 Be The Year Tesla’s (TSLA) Foreign Sales Recover?"
+        }
+      ]
     },
     {
       "name": "其他",
@@ -431,61 +450,70 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "马特·梅利（Matt Maley）担心私人信贷。",
+          "time": "2026-04-09 10:54:18",
+          "title": "联合保健和其他保险公司股价大涨，原因是 Medicare 明年将恢复支付。",
           "summary": "",
-          "url": "https://finance.yahoo.com/video/why-matt-maley-nervous-private-144507646.html",
-          "title_en": "Why Matt Maley is Nervous about Private Credit"
+          "url": "https://finance.yahoo.com/news/unitedhealth-and-other-insurer-stocks-jump-after-medicare-agrees-to-lift-payments-next-year-151543851.html",
+          "title_en": "UnitedHealth and other insurer stocks jump after Medicare agrees to lift payments next year"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "Alphabet (GOOG) 保护其竞争优势的方法",
+          "time": "2026-04-09 10:54:18",
+          "title": "美国家庭因汽油价格上涨而财务状况恶化",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-protecting-competitive-edge-144814532.html",
-          "title_en": "Here’s How Alphabet (GOOG) is Protecting Its Competitive Edge"
+          "url": "https://finance.yahoo.com/economy/article/us-households-see-their-finances-deteriorating-amid-rising-gas-prices-151638457.html",
+          "title_en": "US households see their finances deteriorating amid rising gas prices"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "TCW相对价值大盘基金出售 Alphabet Inc（GOOG）后， 因为它的估值不符合基金的要求。",
+          "time": "2026-04-09 10:54:18",
+          "title": "行业检查表明，短期交易者对AppLovin (APP) 股票的看法是错误的。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tcw-relative-value-large-cap-143829077.html",
-          "title_en": "TCW Relative Value Large Cap Fund Sold Alphabet Inc (GOOG) After Meeting Valuation Characteristics"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/industry-checks-show-short-term-150733961.html",
+          "title_en": "Industry Checks Show Short Term Traders Are Wrong On AppLovin (APP) Stock"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "芝加哥商品交易所(CME)计划在24/7加密货币衍生品交易模式之前推出Avalanche和Sui期货。",
+          "time": "2026-04-09 10:54:18",
+          "title": "特朗普和参议院希望禁止机构投资者购买单身家庭。他们已经对房地产产生了影响。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/cme-set-launch-avalanche-sui-144259459.html",
-          "title_en": "CME Set to Launch Avalanche, Sui Futures Ahead of 24/7 Crypto Derivatives Trading Shift"
+          "url": "https://www.barrons.com/advisor/articles/trump-senate-institutional-investors-single-family-homes-93d2a827?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Trump, Senate Want to Ban Institutional Investors From Single-Family Homes. They’re Already Having an Impact on Real Estate."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "卡西·伍德在购买奥克洛股价低迷时。您是否应该这样做？",
+          "time": "2026-04-09 10:54:18",
+          "title": "分析师解释了为什么奥诺托格（Ontology）将Palantir（PLTR）与同行区分开来。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buying-oklo-stock-144910292.html",
-          "title_en": "Cathie Wood Is Buying the Oklo Stock Dip. Should You?"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-explains-why-ontology-separates-150759599.html",
+          "title_en": "Analyst Explains Why Ontology Separates Palantir (PLTR) From Peers"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "Netflix (NFLX) 下跌，因为结果低于市场预期。",
+          "time": "2026-04-09 10:54:18",
+          "title": "阿里斯塔网络（Arista Networks）股票当前的低估值有多大？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-slid-results-fell-144956375.html",
-          "title_en": "Netflix (NFLX) Slid as Results Fell Short of Expectations"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/undervalued-arista-networks-anet-stock-150745427.html",
+          "title_en": "How Undervalued Is Arista Networks (ANET) Stock Right Now?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
+          "time": "2026-04-09 10:54:18",
+          "title": "也门伙伴关系意味着什么？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/partnership-means-doordash-dash-stock-150723067.html",
+          "title_en": "Here’s What The ALSO Partnership Means For DoorDash (DASH) Stock"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-09 10:54:18",
           "title": "市场更新：NFLX、DAL",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46668_MarketUpdate_1775669614000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -494,101 +522,92 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "Stifel认为Viridian在Amgen数据发布后有了不同化的路径",
+          "time": "2026-04-09 10:54:18",
+          "title": "TD Cowen降低了其对 Kimberly-Clark (KMB) 的价格目标至 96 美元",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stifel-sees-path-towards-differentiation-144548687.html",
-          "title_en": "Stifel sees path towards differentiation for Viridian after Amgen data"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-lowers-price-target-151933010.html",
+          "title_en": "TD Cowen Lowers its Price Target on Kimberly-Clark (KMB) to $96"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "Craig-Hallum降低了Vital Farms（VITL）的目标价至20美元，维持买入评级。",
+          "time": "2026-04-09 10:54:18",
+          "title": "布罗德柯姆股价上涨的原因",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/craig-hallum-lowers-pt-vital-143259321.html",
-          "title_en": "Craig-Hallum Lowers its PT on Vital Farms (VITL) to $20 Maintains Buy Rating"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-stock-jumped-higher-151200840.html",
+          "title_en": "Why Broadcom Stock Jumped Higher This Morning"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "Jefferies重新确认对Valneva (VALN)的买入评级后期阶段3数据",
+          "time": "2026-04-09 10:54:18",
+          "title": "可口可乐公司（Keurig Dr Pepper Inc.）收购了JDE Peet's 96.22%的股份。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/jefferies-reiterates-buy-rating-valneva-143247013.html",
-          "title_en": "Jefferies Reiterates Buy Rating on Valneva (VALN) After Phase 3 Data"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/keurig-dr-pepper-inc-kdp-151924286.html",
+          "title_en": "Keurig Dr Pepper Inc. (KDP) Acquires 96.22% of JDE Peet’s"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "Citi对Progress Software（PRGS）下调目标价至46美元，并维持买入评级。",
+          "time": "2026-04-09 10:54:18",
+          "title": "分析师预测甲骨文(ORCL)股价将翻倍",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/citi-lowers-pt-progress-software-143233691.html",
-          "title_en": "Citi Lowers its PT on Progress Software (PRGS) to $46 and Maintains Buy Rating"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-sees-oracle-orcl-stock-150711206.html",
+          "title_en": "This Analyst Sees Oracle (ORCL) Stock Doubling From Here"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "AMC股价刚刚突破其50天移动平均线。您是否应该在此时购买股份？",
+          "time": "2026-04-09 10:54:18",
+          "title": "Roth Capital维持对Universal Display（OLED）的买入评级。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amc-stock-just-broke-above-143235563.html",
-          "title_en": "AMC Stock Just Broke Above Its 50-Day Moving Average. Should You Buy Shares Here?"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/roth-capital-maintains-buy-rating-151956364.html",
+          "title_en": "Roth Capital Maintains Buy Rating on Universal Display (OLED)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "T1能源（TE）维持2026年产量和销售指导",
+          "time": "2026-04-09 10:54:18",
+          "title": "Paramount Skydance获得了来自阿拉伯湾地区基金的24亿美元的承诺，为华纳兄弟发现公司的收购做准备。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/t1-energy-te-maintains-2026-143144612.html",
-          "title_en": "T1 Energy (TE) Maintains 2026 Production and Sales Guidance"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/paramount-skydance-secures-24b-commitments-151100061.html",
+          "title_en": "Paramount Skydance secures $24B in commitments from Gulf funds for Warner Bros. Discovery bid"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "Insulet (PODD) 任命Mike Panos为首席商务官",
+          "time": "2026-04-09 10:54:18",
+          "title": "BMO Capital对Hamilton Lane (HLNE)的价格目标降至118美元",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/insulet-podd-appoints-mike-panos-143200001.html",
-          "title_en": "Insulet (PODD) Appoints Mike Panos as Chief Commercial Officer"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-lowers-price-target-151942506.html",
+          "title_en": "BMO Capital Lowers its Price Target on Hamilton Lane (HLNE) to $118"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "Leerink再次维持对Boston Scientific (BSX)的超买评级",
+          "time": "2026-04-09 10:54:18",
+          "title": "布罗德كم (AVGO) 是Oppenheimer的首选股之一",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/leerink-reiterates-outperform-boston-scientific-143133300.html",
-          "title_en": "Leerink Reiterates Outperform on Boston Scientific (BSX) After CHAMPION-AF Readout"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-among-oppenheimer-150701313.html",
+          "title_en": "Here’s Why Broadcom (AVGO) Is Among Oppenheimer’s Top Picks"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "医疗保健优势计划2027年费率上涨率已正式确定为2.48%",
+          "time": "2026-04-09 10:54:18",
+          "title": "Merit Medical Systems (MMSI)收购View Point Medical 140亿美元",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/medicare-advantage-2027-rate-hike-144052776.html",
-          "title_en": "Medicare Advantage 2027 rate hike finalized at 2.48%"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/merit-medical-systems-mmsi-acquires-152019648.html",
+          "title_en": "Merit Medical Systems (MMSI) Acquires View Point Medical for $140M"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "Cantor Fitzgerald降级Gossamer Bio至中性",
+          "time": "2026-04-09 10:54:18",
+          "title": "TPG公司是纳斯达克上52周最低股票中最值得购买的公司之一。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-downgrades-gossamer-bio-143037744.html",
-          "title_en": "Cantor Fitzgerald Downgrades Gossamer Bio (GOSS) to Neutral"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-09 10:23:32",
-          "title": "服务性质（SVC）是为什么服务性质（SVC）是买入的8大超卖低价股之一",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-properties-svc-among-top-143021692.html",
-          "title_en": "Here is why Service Properties (SVC) is Among the Top 8 Oversold Penny Stocks to Buy"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-tpg-inc-tpg-among-152006240.html",
+          "title_en": "Here is why TPG Inc (TPG) is Among the Best 52-Week Low NASDAQ Stocks to Buy Now"
         }
       ]
     }
