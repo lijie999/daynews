@@ -1,6 +1,6 @@
 {
   "date": "2026.04.09",
-  "generatedAtBJT": "2026-04-09 10:54:24",
+  "generatedAtBJT": "2026-04-09 11:25:11",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-09 10:54:24",
+          "time": "2026-04-09 11:25:11",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→纳斯达克指数/标普500指数承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且VIX抬升→偏纳斯达克指数/标普500指数先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且VIX回落→偏纳斯达克指数/标普500指数修复反弹、黄金价格喘息；操作",
+          "summary": "- 主导因素：10年期利率 + 原油/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏NQ/ES先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Stock Losses Deepen as Iran War Looks to Intensify…\n- 宏观/Fed线索：Does Salesforce pay a dividend? Yield & payouts explained…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Borrowing costs jump as Trump threatens to end Iran’s ‘whole civilisatio…\n- 宏观/Fed线索：The dividend yield on the S&P 500 is now at 50-year lows. Here's the big…"
         }
       ]
     },
@@ -29,61 +29,43 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "Anthropic在收入翻倍的同时锁定了Google和Broadcom的资金。",
+          "time": "2026-04-09 11:25:06",
+          "title": "Eightco 正在将自己定位为 OpenAI 的公开市场代理",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-locked-google-broadcom-while-150903630.html",
-          "title_en": "Anthropic Locked In Google & Broadcom While Its Revenue Tripled"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eightco-casts-itself-public-market-154100436.html",
+          "title_en": "Eightco Casts Itself As A Public-Market Proxy For OpenAI"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "Anthropic与Google合作增加计算能力，Broadcom达成交易",
+          "time": "2026-04-09 11:25:06",
+          "title": "华尔街分析师仍然认为这家受打击的人工智能（AI）股票有76%的上涨空间。您是否应该相信他们？",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-adds-compute-power-google-151729696.html",
-          "title_en": "Anthropic adds compute power with Google, Broadcom deals"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-still-see-153500083.html",
+          "title_en": "Wall Street Analysts Still See 76% Upside in This Beaten-Down Artificial Intelligence (AI) Stock. Should You Trust Them?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "布罗德كم股价上涨，受谷歌、Anthropic交易影响",
+          "time": "2026-04-09 11:25:06",
+          "title": "凯西·伍德(Cathie Wood)刚刚买入了230,000股Kodiak AI股票，为什么？你是否应该跟她一样？",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/article/broadcom-stock-rises-on-google-anthropic-deals-150614203.html",
-          "title_en": "Broadcom stock rises on Google, Anthropic deals"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-cathie-wood-just-160422188.html",
+          "title_en": "Why Did Cathie Wood Just Buy 230,000 Shares of Kodiak AI Stock, and Should You?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "Nvidia (NVDA) 与竞争对手 Marvell (MRVL) 的交易只会加强其自身生态系统，以下是如何做到的。",
+          "time": "2026-04-09 11:25:06",
+          "title": "Arista升级为买入，基于Google和Anthropic数据中心订单。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-nvda-deal-competitor-marvell-145807589.html",
-          "title_en": "Nvidia’s (NVDA) Deal With Competitor Marvell (MRVL) Only Strengthens Its Own Ecosystem, Here’s How"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "迈康（Micron）的人工智能（AI）内存（Memory）热潮是真实的——而且分析师们仍在追赶。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-ai-memory-boom-real-152008823.html",
-          "title_en": "Micron’s AI Memory Boom Is Real—And Analysts Are Still Playing Catch Up"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "美国会计准则委员会（FASB）将监控数据中心的复杂趋势",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/fasb-monitor-thorny-data-center-150628745.html",
-          "title_en": "FASB to monitor thorny data center trends"
+          "url": "https://www.investors.com/news/technology/arista-stock-anet-rosenblatt-upgrade-buy-google/?src=A00220&yptr=yahoo",
+          "title_en": "Arista Upgraded To Buy On Google, Anthropic Data Center Orders"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
+          "time": "2026-04-09 11:25:06",
           "title": "阿里巴巴股价下跌，杰弗里斯将人工智能支出和非核心损失目标降低",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/alibaba-shares-fall-after-jefferies-cuts-target-on-ai-spending-noncore-losses-4604491",
@@ -198,6 +180,26 @@
           "url": "https://www.cnbc.com/2026/04/07/elon-musk-seeks-ouster-of-openai-ceo-sam-altman-as-part-of-lawsuit.html",
           "title_en": "Elon Musk seeks ouster of OpenAI CEO Sam Altman as part of lawsuit",
           "summary_en": "Elon Musk is seeking to have OpenAI CEO Sam Altman and President Greg Brockman removed from their roles as officers in the company as part of a lawsuit."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-04-08 05:28:17",
+          "title": "苹果股价下跌，据报折叠屏iPhone延迟",
+          "summary": "据报，公司在开发可折叠手机方面面临工程挑战，这些手机预计将于今年晚些时候发布。",
+          "url": "https://www.cnbc.com/2026/04/07/apple-stock-foldable-iphone-report.html",
+          "title_en": "Apple shares sink on report of foldable iPhone delays",
+          "summary_en": "The company is reportedly facing engineering challenges in the development of the foldable phones, which are anticipated to launch later this year."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-04-08 03:52:22",
+          "title": "Anthropic 因为害怕黑客可能利用其 Mythos AI 模型进行网络攻击而推迟了其发布。",
+          "summary": "微软、亚马逊、苹果、CrowdStrike、Palo Alto Networks等公司将使用该模型作为一项新安全性项目Project Glasswing的一部分。",
+          "url": "https://www.cnbc.com/2026/04/07/anthropic-claude-mythos-ai-hackers-cyberattacks.html",
+          "title_en": "Anthropic limits Mythos AI rollout over fears hackers could use model for cyberattacks",
+          "summary_en": "Microsoft, Amazon, Apple, CrowdStrike, Palo Alto Networks and others will use the model as part of a new cybersecurity initiative called Project Glasswing."
         }
       ]
     },
@@ -208,16 +210,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "Salesforce (CRM) 不支付股息。",
+          "time": "2026-04-09 11:25:06",
+          "title": "S&P 500的股息收益率已经降至50年来的最低点。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/does-salesforce-pay-dividend-yield-151300506.html",
-          "title_en": "Does Salesforce pay a dividend? Yield & payouts explained"
+          "url": "https://finance.yahoo.com/news/the-dividend-yield-on-the-sp-500-is-now-at-50-year-lows-heres-the-biggest-problem-153809624.html",
+          "title_en": "The dividend yield on the S&P 500 is now at 50-year lows. Here's the biggest problem."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
+          "time": "2026-04-09 11:25:06",
           "title": "美联储最喜欢的通胀指标",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46664_MarketOutlook_1775646940000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -226,7 +228,7 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
+          "time": "2026-04-09 11:25:06",
           "title": "华特迪士尼计划裁员1,000人，华尔街日报报道",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/disney-plans-to-cut-1000-jobs-wsj-reports-4604461",
@@ -251,25 +253,61 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "伊朗战争加剧，股市损失加深",
+          "time": "2026-04-09 11:25:06",
+          "title": "美国总统特朗普威胁要摧毁伊朗的整个文明，导致借贷成本大幅上涨。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-losses-deepen-iran-war-151217382.html",
-          "title_en": "Stock Losses Deepen as Iran War Looks to Intensify"
+          "url": "https://finance.yahoo.com/economy/policy/articles/borrowing-costs-jump-trump-threatens-153629627.html",
+          "title_en": "Borrowing costs jump as Trump threatens to end Iran’s ‘whole civilisation’"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-09 11:25:06",
+          "title": "原油价格大幅上涨，伊朗战争升级迹象显现",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/crude-prices-soar-iran-war-153324824.html",
+          "title_en": "Crude Prices Soar as Iran War Looks to Escalate"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-09 11:25:06",
+          "title": "特朗普的伊朗最后期限临近，投资者陷入焦虑",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/deal-delay-strike-investors-edge-155638561.html",
+          "title_en": "Deal, delay or strike? Investors on edge as Trump's Iran deadline nears"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-09 11:25:06",
+          "title": "特朗普刚刚承诺要把伊朗“打回石器时代”。现在是买这两只股票的好时机。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/trump-just-promised-bomb-iran-154336998.html",
+          "title_en": "Trump Just Promised to Bomb Iran Back to the ‘Stone Age.’ These Are 2 Stocks to Buy Now"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-09 11:25:06",
+          "title": "雷神公司在伊朗战争期间是防御股中的首选，但也将从停火中受益。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/raytheon-top-defense-stock-buy-162736111.html",
+          "title_en": "Raytheon Is a Top Defense Stock to Buy Amid the Iran War, But It Will Also Benefit From a Ceasefire. Here’s How."
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "美国股指期货稳定，随着华尔街对伊朗停火的反应而上涨",
+          "time": "2026-04-09 11:25:06",
+          "title": "亚洲股市谨慎行事，美伊停火协议存疑",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-rallies-on-iran-ceasefire-4604414",
-          "title_en": "US stock futures steady after Wall St rallies on Iran ceasefire"
+          "url": "https://www.investing.com/news/stock-market-news/asia-stocks-skittish-amid-doubts-over-usiran-ceasefire-4604493",
+          "title_en": "Asia stocks skittish amid doubts over US-Iran ceasefire"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-09 10:44:13",
+          "time": "2026-04-09 11:05:25",
           "title": "特朗普再次批评格陵兰岛：这片冰岛管理得很糟糕",
           "summary": "特朗普再次将目光投向格陵兰岛，同时在发泄对北约的不满之时，伊朗战争的外交后果暴露了安全联盟内部的裂痕。",
           "url": "https://www.cnbc.com/2026/04/09/trump-greenland-nato-rift-iran-war-deepens.html",
@@ -385,46 +423,6 @@
           "url": "https://www.cnbc.com/2026/04/08/iran-ceasefire-futures-markets-ritchie-torrres.html",
           "title_en": "Rep. Ritchie Torres calls for probe into futures trades placed ahead of March pause on Iran hostilities",
           "summary_en": "Oil and energy futures trading before President Donald Trump announced a pause in Iran attacks in March raises insider trading concerns, Torres told regulators."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-08 23:43:12",
-          "title": "特朗普威胁对向伊朗供应军事武器的国家征收50%的关税",
-          "summary": "美国总统唐纳德·特朗普表示，美国将对任何向伊朗供应军事武器的国家进口商品征收50%的关税。",
-          "url": "https://www.cnbc.com/2026/04/08/trump-threatens-tariffs-countries-supplying-weapons-iran-ceasefire.html",
-          "title_en": "Trump threatens tariffs of 50% on countries 'supplying military weapons to Iran'",
-          "summary_en": "President Donald Trump says the U.S. will impose tariffs of 50% on goods imported to the country from any nation \"supplying military weapons to Iran.\""
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-04-08 21:30:58",
-          "title": "特朗普和伊朗同意两周的停火期，计划开通霍尔木兹海峡",
-          "summary": "巴基斯坦总理谢巴兹·谢里夫曾要求特朗普延迟两周对伊朗的最后期限，并要求霍尔木兹海峡在同一时间段开放。",
-          "url": "https://www.cnbc.com/2026/04/07/trump-iran-ceasefire-hormuz-strait.html",
-          "title_en": "Trump, Iran agree to two-week ceasefire, plan to open Strait of Hormuz",
-          "summary_en": "Pakistan Prime Minister Shehbaz Sharif had asked Trump for a two-week delay of his Iran deadline, and for the Strait of Hormuz to open for the same period."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-04-08 20:22:13",
-          "title": "伊朗停火，Delta财报，海军零售困境等在晨间早报",
-          "summary": "今天市场投资者需要了解的五个关键信息。",
-          "url": "https://www.cnbc.com/2026/04/08/5-things-to-know-before-the-market-opens.html",
-          "title_en": "Iran ceasefire, Delta earnings, the Navy's retail woes and more in Morning Squawk",
-          "summary_en": "Here are five key things investors need to know to start the trading day."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-08 20:04:30",
-          "title": "美国参议员JD Vance称伊朗停火是“脆弱的休战”，并表示特朗普总统“急切地希望取得进展”。",
-          "summary": "美国副总统表示，伊朗对停火协议的反应各不相同，有些人甚至在撒谎，关于我们已经达成的脆弱停火协议。",
-          "url": "https://www.cnbc.com/2026/04/08/jd-vance-iran-ceasefire-fragile-truce-hungary-trump.html",
-          "title_en": "JD Vance calls Iran ceasefire a 'fragile truce' and says Trump is 'impatient to make progress'",
-          "summary_en": "The U.S. vice president said the response from Iran to the ceasefire had varied, with some 'lying about even the fragile truce that we've already struck.'"
         }
       ]
     },
@@ -435,11 +433,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "2026年可能是特斯拉(TSLA)海外销售回暖的年份。",
+          "time": "2026-04-09 11:25:06",
+          "title": "特斯拉下跌4%，因电动汽车需求担忧、SpaceX IPO不确定性和4月22日的财报将带来重大影响。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/could-2026-tesla-tsla-foreign-150650868.html",
-          "title_en": "Could 2026 Be The Year Tesla’s (TSLA) Foreign Sales Recover?"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-drops-4-ev-demand-153424700.html",
+          "title_en": "Tesla Drops 4% as EV Demand Fears, SpaceX IPO Uncertainty, April 22 Earnings Loom Large"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-09 11:25:06",
+          "title": "Pony.ai、Uber和Verne将推出欧洲首个商业无人出租车服务",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/ponyai-uber-verne-to-launch-europes-first-commercial-robotaxi-service-4604494",
+          "title_en": "Pony.ai, Uber, Verne to launch Europe’s first commercial robotaxi service"
         }
       ]
     },
@@ -450,70 +457,61 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "联合保健和其他保险公司股价大涨，原因是 Medicare 明年将恢复支付。",
+          "time": "2026-04-09 11:25:06",
+          "title": "超大规模数据公司Hyperscale Data的资产达到102亿美元，超过了市场价值。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/unitedhealth-and-other-insurer-stocks-jump-after-medicare-agrees-to-lift-payments-next-year-151543851.html",
-          "title_en": "UnitedHealth and other insurer stocks jump after Medicare agrees to lift payments next year"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/hyperscale-data-reports-102m-assets-153500073.html",
+          "title_en": "Hyperscale Data Reports $102M in Assets, Surpassing Market Value"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "美国家庭因汽油价格上涨而财务状况恶化",
+          "time": "2026-04-09 11:25:06",
+          "title": "电子烟制造商转向“美国制造”认证以应对特朗普的关税和打击",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/article/us-households-see-their-finances-deteriorating-amid-rising-gas-prices-151638457.html",
-          "title_en": "US households see their finances deteriorating amid rising gas prices"
+          "url": "https://finance.yahoo.com/economy/policy/articles/vape-makers-turn-made-america-153630917.html",
+          "title_en": "Vape makers turn to 'Made in America' credentials amid Trump's tariffs, crackdown"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "行业检查表明，短期交易者对AppLovin (APP) 股票的看法是错误的。",
+          "time": "2026-04-09 11:25:06",
+          "title": "本周投资必读（2026年4月7日）",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/industry-checks-show-short-term-150733961.html",
-          "title_en": "Industry Checks Show Short Term Traders Are Wrong On AppLovin (APP) Stock"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/10-investment-must-reads-week-153842239.html",
+          "title_en": "10 Investment Must Reads for This Week (April 7, 2026)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "特朗普和参议院希望禁止机构投资者购买单身家庭。他们已经对房地产产生了影响。",
+          "time": "2026-04-09 11:25:06",
+          "title": "摩根大通股民们，记下4月14日。",
           "summary": "",
-          "url": "https://www.barrons.com/advisor/articles/trump-senate-institutional-investors-single-family-homes-93d2a827?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Trump, Senate Want to Ban Institutional Investors From Single-Family Homes. They’re Already Having an Impact on Real Estate."
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-stock-fans-mark-calendars-153315746.html",
+          "title_en": "JPMorgan Stock Fans, Mark Your Calendars for April 14"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "分析师解释了为什么奥诺托格（Ontology）将Palantir（PLTR）与同行区分开来。",
+          "time": "2026-04-09 11:25:06",
+          "title": "2026年全球最好的7大加密货币交易平台：我们的顶级推荐",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-explains-why-ontology-separates-150759599.html",
-          "title_en": "Analyst Explains Why Ontology Separates Palantir (PLTR) From Peers"
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/best-crypto-exchanges-154453640.html",
+          "title_en": "The 7 best crypto exchanges in 2026: Our top picks after hands-on testing"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "阿里斯塔网络（Arista Networks）股票当前的低估值有多大？",
+          "time": "2026-04-09 11:25:06",
+          "title": "Align Technology (ALGN)即将发布2026年第一季度财报，投资者将密切关注公司的收入和利润增长情况。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/undervalued-arista-networks-anet-stock-150745427.html",
-          "title_en": "How Undervalued Is Arista Networks (ANET) Stock Right Now?"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/expect-align-technologys-q1-2026-154609906.html",
+          "title_en": "What to Expect From Align Technology's Q1 2026 Earnings Report"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "也门伙伴关系意味着什么？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/partnership-means-doordash-dash-stock-150723067.html",
-          "title_en": "Here’s What The ALSO Partnership Means For DoorDash (DASH) Stock"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
+          "time": "2026-04-09 11:25:06",
           "title": "市场更新：NFLX、DAL",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_46668_MarketUpdate_1775669614000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -522,92 +520,101 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "TD Cowen降低了其对 Kimberly-Clark (KMB) 的价格目标至 96 美元",
+          "time": "2026-04-09 11:25:06",
+          "title": "盖莱德(Gilead)出资50亿美元收购ADC专家公司Tubulis",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-lowers-price-target-151933010.html",
-          "title_en": "TD Cowen Lowers its Price Target on Kimberly-Clark (KMB) to $96"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/gilead-outlays-5bn-acquire-adc-153854016.html",
+          "title_en": "Gilead outlays $5bn to acquire ADC specialist Tubulis"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "布罗德柯姆股价上涨的原因",
+          "time": "2026-04-09 11:25:06",
+          "title": "马威尔内部人士大卫·卡斯珀(David Casper)近期出售了约18,000股MRVL股票。您是否也应该卖出？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-stock-jumped-higher-151200840.html",
-          "title_en": "Why Broadcom Stock Jumped Higher This Morning"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-insider-david-casper-just-154901837.html",
+          "title_en": "Marvell Insider David Casper Just Sold Nearly 18,000 Shares of MRVL Stock. Should You Sell Too?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "可口可乐公司（Keurig Dr Pepper Inc.）收购了JDE Peet's 96.22%的股份。",
+          "time": "2026-04-09 11:25:06",
+          "title": "霍姆特航空器（HWM）是目前最好的航空器股吗？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/keurig-dr-pepper-inc-kdp-151924286.html",
-          "title_en": "Keurig Dr Pepper Inc. (KDP) Acquires 96.22% of JDE Peet’s"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/howmet-aerospace-inc-hwm-best-155024575.html",
+          "title_en": "Is Howmet Aerospace Inc. (HWM) the Best Aerospace Stock to Buy Right Now?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "分析师预测甲骨文(ORCL)股价将翻倍",
+          "time": "2026-04-09 11:25:06",
+          "title": "Wells Fargo和Daiwa启动GE Aerospace（GE）的覆盖。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-sees-oracle-orcl-stock-150711206.html",
-          "title_en": "This Analyst Sees Oracle (ORCL) Stock Doubling From Here"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-daiwa-initiate-coverage-155046377.html",
+          "title_en": "Wells Fargo and Daiwa Initiate Coverage on GE Aerospace (GE)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "Roth Capital维持对Universal Display（OLED）的买入评级。",
+          "time": "2026-04-09 11:25:06",
+          "title": "华尔街对波音公司（BA）持乐观态度，尽管最近价格目标被降低。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/roth-capital-maintains-buy-rating-151956364.html",
-          "title_en": "Roth Capital Maintains Buy Rating on Universal Display (OLED)"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-boeing-company-155105547.html",
+          "title_en": "Wall Street Bullish on The Boeing Company (BA) Despite Recent Price Target Cuts"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "Paramount Skydance获得了来自阿拉伯湾地区基金的24亿美元的承诺，为华纳兄弟发现公司的收购做准备。",
+          "time": "2026-04-09 11:25:06",
+          "title": "黑石和国泰申报首只ETF挑战Invesco QQQ",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/paramount-skydance-secures-24b-commitments-151100061.html",
-          "title_en": "Paramount Skydance secures $24B in commitments from Gulf funds for Warner Bros. Discovery bid"
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-07-2026/card/blackrock-state-street-file-for-first-etfs-to-challenge-invesco-s-qqq-hd22LTZkkAtVGkkxNwk1?siteid=yhoof2&yptr=yahoo",
+          "title_en": "BlackRock, State Street File for First ETFs to Challenge Invesco’s QQQ"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "BMO Capital对Hamilton Lane (HLNE)的价格目标降至118美元",
+          "time": "2026-04-09 11:25:06",
+          "title": "RTX公司（RTX）获得了F135发动机的批次18-19合同修改，金额为38亿美元。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-lowers-price-target-151942506.html",
-          "title_en": "BMO Capital Lowers its Price Target on Hamilton Lane (HLNE) to $118"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rtx-corporation-rtx-secures-3-155133808.html",
+          "title_en": "RTX Corporation (RTX) Secures $3.8 Billion Contract Modification for Lots 18-19 of F135 Engine"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "布罗德كم (AVGO) 是Oppenheimer的首选股之一",
+          "time": "2026-04-09 11:25:06",
+          "title": "机构对HEICO Corporation(HEI)的兴趣在增长",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-among-oppenheimer-150701313.html",
-          "title_en": "Here’s Why Broadcom (AVGO) Is Among Oppenheimer’s Top Picks"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/institutional-interest-growing-heico-corporation-155242839.html",
+          "title_en": "Institutional Interest Growing in HEICO Corporation (HEI)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "Merit Medical Systems (MMSI)收购View Point Medical 140亿美元",
+          "time": "2026-04-09 11:25:06",
+          "title": "伍德沃德公司(WWD)完成了对阀门研究与制造公司的收购",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/merit-medical-systems-mmsi-acquires-152019648.html",
-          "title_en": "Merit Medical Systems (MMSI) Acquires View Point Medical for $140M"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/woodward-inc-wwd-completes-acquisition-155253946.html",
+          "title_en": "Woodward, Inc. (WWD) Completes Acquisition of Valve Research & Manufacturing Company"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-09 10:54:18",
-          "title": "TPG公司是纳斯达克上52周最低股票中最值得购买的公司之一。",
+          "time": "2026-04-09 11:25:06",
+          "title": "花旗集团提高诺斯罗普格鲁曼公司(NOC)的股价目标至807美元，维持买入评级。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-tpg-inc-tpg-among-152006240.html",
-          "title_en": "Here is why TPG Inc (TPG) is Among the Best 52-Week Low NASDAQ Stocks to Buy Now"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-lifts-price-target-northrop-155313506.html",
+          "title_en": "Citigroup Lifts Price Target on Northrop Grumman Corporation (NOC) to $807, Maintains Buy Rating"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-09 11:25:06",
+          "title": "首季预测：花旗维持洛克希德马丁(LMT)中性评级",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/q1-preview-citigroup-remains-neutral-155324840.html",
+          "title_en": "Q1 Preview: Citigroup Remains Neutral on Lockheed Martin Corporation (LMT)"
         }
       ]
     }
