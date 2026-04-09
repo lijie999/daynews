@@ -20,7 +20,11 @@ def _load_cache() -> dict[str, str]:
         return {}
     try:
         return json.loads(CACHE_PATH.read_text(encoding="utf-8"))
-    except Exception:
+    except (json.JSONDecodeError, ValueError) as e:
+        # Corrupt cache: rename bad file and start fresh
+        import shutil
+        bak = CACHE_PATH.with_suffix(".json.bad")
+        shutil.move(str(CACHE_PATH), str(bak))
         return {}
 
 

@@ -15,14 +15,20 @@ if not files:
 content = files[0].read_text(encoding='utf-8')
 items = []
 
-# 通用解析器 - 支持最新格式
+# 通用解析器 - 支持 ## 或 ### 标题格式，支持 S/A/B 级标记
 matches = list(re.finditer(
-    r'###\s+(.+?)\n\*\*(.+?)\*\*\n-\s+🔗\s+来源：\[(.+?)\]\((.+?)\)\n-\s+📅\s+时间：(.+?)\n\n(.+?)(?:\n\n\*\*标签\*\*：(.+?))?(?=\n\n---|\n\n###|\n\n##|\Z)',
+    r'(?:###|##)\s+(?:[🔥⚡📋]\s+)?(?:S级|A级|B级\s+)?(.+?)\n\*\*(.+?)\*\*\n-\s+🔗\s+来源：\[(.+?)\]\((.+?)\)\n-\s+📅\s+时间：(.+?)\n\n(.+?)(?=\n\n(?:---|#)|\Z)',
     content, re.DOTALL
 ))
 
 for idx, m in enumerate(matches):
-    title, keywords, source, link, time, summary, tags = m.groups()
+    groups = m.groups()
+    # Handle both 6-group (no tags) and 7-group (with tags) formats
+    if len(groups) == 7:
+        title, keywords, source, link, time, summary, tags = groups
+    else:
+        title, keywords, source, link, time, summary = groups
+        tags = ""
     combined = ((tags or "") + " " + keywords + " " + summary).lower()
     
     # 智能分类
