@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-生成主线结论：基于多个大站头条 + AI 智能分析
+生成主线结论：基于多个大站头条 + 政治人物表态 + AI 智能分析
 使用 web_search 工具（更可靠）
 """
 import json
@@ -10,18 +10,26 @@ from datetime import datetime, timezone, timedelta
 
 def main():
     print("🚀 Generating market thesis with AI analysis...", file=sys.stderr)
-    
+
     # 构建 AI 任务：让 AI 自己搜索并分析
     task = """你是专业的金融市场分析师。请执行以下任务：
 
 1. 使用 web_search 工具搜索今日（过去 24 小时）美股市场新闻头条，关键词：
    - "US stock market today"
-   - "S&P 500 Nasdaq Dow Jones"  
+   - "S&P 500 Nasdaq Dow Jones"
    - "market news today"
-   
+
    从 Yahoo Finance、CNBC、MarketWatch、Bloomberg 等主流媒体获取 10-15 条头条新闻。
 
-2. 基于搜索到的头条新闻，生成简洁、专业的市场主线结论（150-200字）。
+2. **特别搜索政治人物最新表态**（至少搜索以下关键词组合）：
+   - "Powell Fed statement today" 或 "Fed Chair Powell"
+   - "Trump tariff announcement today"
+   - "Treasury Secretary Bessent"
+   - " tariff ceasefire trade deal"
+   
+   如果找到重要表态，翻译并简化为1-2句中文摘要（保留人物名和关键数字）。
+
+3. 基于搜索到的头条新闻，生成简洁、专业的市场主线结论（150-200字）。
 
 要求格式（Markdown，不要代码块）：
 **市场走势**：指数/板块表现（1-2句，基于头条推断大方向，不虚构具体涨跌幅）
@@ -31,14 +39,18 @@ def main():
 • 驱动因子2
 • 驱动因子3
 
+**政治人物表态**：（如无相关表态则写"无"）
+• [人物名]：[简化为1-2句，要包含具体观点/数字，不超过50字]
+
 **风险提示**：前瞻/风险点（1句）
 
 注意：
-1. 先调用 web_search 搜索新闻
+1. 先调用 web_search 搜索新闻（市场头条 + 政治人物表态）
 2. 分析头条内容，提取市场主线
 3. 不要虚构具体数据
 4. 聚焦宏观驱动和板块主线
-5. 语言简洁、信息密度高
+5. 语言简洁，信息密度高
+6. 政治人物表态必须具体：包含人物名、核心观点、关键数字（如有）
 
 直接输出最终的主线结论内容，不要解释搜索过程。"""
 
@@ -49,7 +61,7 @@ def main():
         try:
             briefs = json.loads(briefs_path.read_text(encoding="utf-8"))
             sections = briefs.get("sections", [])
-            
+
             key_news = []
             for sec in sections:
                 name = sec.get("name", "")
@@ -59,15 +71,15 @@ def main():
                         title = it.get("title", "")
                         if title:
                             key_news.append(f"- {title[:80]} ({name})")
-            
+
             if key_news:
                 internal_context = "\n\n【可选参考：内部RSS数据】\n" + "\n".join(key_news[:10])
         except Exception:
             pass
-    
+
     if internal_context:
         task += internal_context
-    
+
     # 调用 openclaw agent（让 AI 自己搜索并分析）
     import subprocess
     try:
@@ -83,24 +95,23 @@ def main():
             text=True,
             timeout=65
         )
-        
+
         if result.returncode == 0:
             output = result.stdout.strip()
-            
+
             # 移除可能的 markdown 代码块标记
             output = output.replace("```markdown", "").replace("```", "").strip()
-            
+
             # 验证输出格式
             if "**市场走势**" in output and "**核心驱动**" in output:
                 # 提取纯净的主线结论（移除额外说明）
-                # 查找 "---" 后的内容，或直接使用包含市场走势的部分
                 if "---" in output:
                     parts = output.split("---")
                     for part in parts:
                         if "**市场走势**" in part:
                             output = part.strip()
                             break
-                
+
                 # 移除开头的说明文字
                 lines = output.split("\n")
                 filtered = []
@@ -110,9 +121,9 @@ def main():
                         started = True
                     if started:
                         filtered.append(line)
-                
+
                 output = "\n".join(filtered).strip()
-                
+
                 print(output)  # 输出到 stdout
                 print("\n✅ Thesis generated successfully", file=sys.stderr)
                 return 0
@@ -122,11 +133,11 @@ def main():
         else:
             print(f"❌ AI call failed: {result.stderr}", file=sys.stderr)
             raise RuntimeError("AI call failed")
-            
+
     except Exception as e:
         print(f"❌ Error: {e}", file=sys.stderr)
         # Fallback: 使用简单模板
-        print("**市场走势**：美股震荡，关注科技股表现<br><br>**核心驱动**：<br>• Fed 政策预期持稳<br>• 科技板块结构分化<br>• 地缘与能源风险抬头<br><br>**风险提示**：短期波动率维持高位")
+        print("**市场走势**：美股震荡，关注科技股表现\n\n**核心驱动**：\n• Fed 政策预期持稳\n• 科技板块结构分化\n• 地缘与能源风险抬头\n\n**政治人物表态**：\n• 无\n\n**风险提示**：短期波动率维持高位")
         return 1
 
 
