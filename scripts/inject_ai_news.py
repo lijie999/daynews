@@ -1,10 +1,36 @@
 #!/usr/bin/env python3
 """AI News Injection with Carousel - supports all formats"""
+import os
 import re
+import plistlib
 from pathlib import Path
 
 AI_NEWS_DIR = Path.home() / ".openclaw/workspace/skills/ai-news-zh/outputs"
 INDEX_HTML = Path.home() / ".openclaw/workspace/daynews/docs/index.html"
+
+# Load NVIDIA_API_KEY from LaunchAgent plist
+if not os.environ.get("NVIDIA_API_KEY"):
+    try:
+        p = Path("~/Library/LaunchAgents/ai.openclaw.daynews.update.plist").expanduser()
+        if p.exists():
+            obj = plistlib.loads(p.read_bytes())
+            key = (obj.get("EnvironmentVariables") or {}).get("NVIDIA_API_KEY")
+            if isinstance(key, str) and key:
+                os.environ["NVIDIA_API_KEY"] = key
+    except Exception:
+        pass
+
+# Load translator
+translate_zh = None
+if os.environ.get("NVIDIA_API_KEY"):
+    try:
+        import sys
+        sys.path.insert(0, str(Path(__file__).parent))
+        from translate_nvidia import translate_zh as _tz
+        translate_zh = _tz
+        print("✅ NVIDIA translation loaded")
+    except Exception as e:
+        print(f"⚠️  NVIDIA translation unavailable: {e}")
 
 # 获取最新文件
 files = sorted(AI_NEWS_DIR.glob("*.md"), reverse=True, key=lambda p: p.stat().st_mtime)
@@ -57,9 +83,25 @@ for idx, m in enumerate(matches):
         badge_type = "rB"
         badge_text = "应用"
     
+    title_str = title.strip()
+    summary_str = summary.strip()[:200] + ("..." if len(summary.strip()) > 200 else "")
+
+    # Translate if NVIDIA is available
+    if translate_zh is not None:
+        try:
+            title_str = translate_zh(title_str)
+        except Exception:
+            pass
+        try:
+            summary_str = translate_zh(summary_str)
+            if summary_str and not summary_str.endswith("...") and len(summary.strip()) > 200:
+                summary_str = summary_str[:200] + "..."
+        except Exception:
+            pass
+
     items.append({
-        "title": title.strip(),
-        "summary": summary.strip()[:200] + ("..." if len(summary.strip()) > 200 else ""),
+        "title": title_str,
+        "summary": summary_str,
         "link": link.strip(),
         "emoji": emoji,
         "badge_type": badge_type,
