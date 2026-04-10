@@ -1,6 +1,6 @@
 {
   "date": "2026.04.10",
-  "generatedAtBJT": "2026-04-10 19:41:28",
+  "generatedAtBJT": "2026-04-10 20:42:26",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-10 19:41:28",
+          "time": "2026-04-10 20:42:26",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜恐惧指数（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；恐惧指数上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且恐惧指数抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且恐惧指数回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件",
+          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Shares gain as investor nerves ease before U.S.-Iran talks; oil set for …\n- 宏观/Fed线索：Disney plans to cut 1,000 jobs, WSJ reports…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Lufthansa strike disrupts tens of thousands of passengers as City Airlin…\n- 宏观/Fed线索：Disney plans to cut 1,000 jobs, WSJ reports…"
         }
       ]
     },
@@ -29,7 +29,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
+          "time": "2026-04-10 20:42:21",
           "title": "DMG Blockchain 开始在 Christina Lake 设施推出数据中心",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/crypto/articles/dmg-blockchain-begins-data-center-005400470.html",
@@ -38,30 +38,78 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
-          "title": "英伟达与美光：哪只AI芯片股有更大的上涨潜力？",
+          "time": "2026-04-10 20:42:21",
+          "title": "NVIDIA支持的Firmus获得505亿美元融资，人工智能数据中心热潮加速",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-micron-ai-chip-233100467.html",
-          "title_en": "Nvidia vs. Micron: Which AI Chip Stock Has More Upside Potential?"
+          "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-backed-firmus-raises-505-003105406.html",
+          "title_en": "Nvidia-Backed Firmus Raises $505 Million As AI Data Center Boom Accelerates"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
-          "title": "Tempus AI 股票因与吉利德合作协议而上涨",
+          "time": "2026-04-10 20:42:21",
+          "title": "Snap的子公司将使用高通芯片为即将推出的AI智能眼镜",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/tempus-ai-stock-rises-on-gilead-collaboration-deal-93CH-4607499",
-          "title_en": "Tempus AI stock rises on Gilead collaboration deal"
+          "url": "https://www.investing.com/news/stock-market-news/snap-unit-to-use-qualcomm-chips-for-upcoming-ai-smart-glasses-4607650",
+          "title_en": "Snap unit to use Qualcomm chips for upcoming AI smart glasses"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-10 20:42:21",
+          "title": "CoreWeave在前市上涨， Claude 机器人制造商 Anthropic 同意租用其 AI 能力",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/coreweave-jumps-premarket-after-claudemaker-anthropic-agrees-to-rent-ai-capacity-4607613",
+          "title_en": "CoreWeave jumps premarket after Claude-maker Anthropic agrees to rent AI capacity"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-10 20:42:21",
+          "title": "CoreWeave股份上涨，受新Anthropic云协议影响",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/coreweave-shares-gain-on-new-anthropic-cloud-deal-93CH-4607606",
+          "title_en": "CoreWeave shares gain on new Anthropic cloud deal"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-10 20:38:44",
+          "title": "鲍威尔与贝森特讨论了Anthropic的Mythos AI对美国主要银行的网络威胁",
+          "summary": "Anthropic推出了新型Mythos人工智能模型，仅向一小群公司开放，出于担忧黑客可能会利用其能力。",
+          "url": "https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html",
+          "title_en": "Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major U.S. banks",
+          "summary_en": "Anthropic rolled out the new Mythos AI model to a select group of companies over concerns that hackers could exploit its capabilities."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-10 20:31:51",
+          "title": "在人工智能大潮中，Salesforce不会被抛弃，但公司的需求正在发生变化。",
+          "summary": "尽管存在风险，许多主要银行的分析师仍对Salesforce持乐观态度。",
+          "url": "https://www.cnbc.com/2026/04/09/salesforce-wont-be-discarded-in-the-ai-boom-but-what-companies-want-is-changing.html",
+          "title_en": "Salesforce won't be discarded in the AI boom, but what companies want is changing",
+          "summary_en": "Despite the risks, many analysts at major banks remain bullish on Salesforce."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-04-10 19:50:00",
+          "title": "人工智能将带来生产力大幅提升。但是，首先它会拖累经济增长。",
+          "summary": "公司和投资者可以期待一个漫长几个月的痛苦转型过程，哪怕是最高效的公司也会看起来像懒虫。",
+          "url": "https://www.marketwatch.com/story/ai-will-boost-productivity-but-first-it-will-drag-the-economy-down-283e3c16?mod=mw_rss_topstories",
+          "title_en": "AI will boost productivity. But first it will drag the economy down.",
+          "summary_en": "Companies and investors can expect a painful monthslong transformation that makes even the most efficient firms look like slackers."
         },
         {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-04-10 18:19:00",
-          "title": "台积电报告超预期收入，AI芯片需求逆全球地缘紧张局势而行",
-          "summary": "高端芯片用于人工智能计算的需求仍然强劲，第一季度的销售数据将为投资者带来倍受欢迎的安慰",
+          "title": "台积电报告超预期收入，AI芯片需求抵消地缘政治紧张",
+          "summary": "高端芯片用于人工智能计算的需求仍然强劲，第一季度的销售数据将为投资者带来极大的安慰。",
           "url": "https://www.marketwatch.com/story/tsmc-reports-forecast-beating-revenue-with-the-message-that-war-isnt-denting-ai-chip-demand-6bd25a27?mod=mw_rss_topstories",
-          "title_en": "TSMC reports forecast-beating revenue, as AI chip demand defies geopolitical tensions",
-          "summary_en": "Sterling sales figures for the first three months will provide much-need reassurance to investors that demand for high-end chips for use in AI compute is still robust"
+          "title_en": "TSMC reports forecast-beating revenue as AI chip demand defies geopolitical tensions",
+          "summary_en": "Sterling sales figures for the first three months will provide much-need reassurance to investors that demand for high-end chips for use in AI compute is still robust."
         },
         {
           "source": "CNBC-Top",
@@ -144,17 +192,7 @@
           "summary_en": "Google has committed to using multiple generations of Intel chips to power its AI data centers, in an expansion of an existing partnership."
         },
         {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-10 03:12:43",
-          "title": "在人工智能大潮中，Salesforce不会被抛弃，但公司的需求正在发生变化。",
-          "summary": "尽管存在风险，许多主要银行的分析师仍对Salesforce持乐观态度。",
-          "url": "https://www.cnbc.com/2026/04/09/salesforce-wont-be-discarded-in-the-ai-boom-but-what-companies-want-is-changing.html",
-          "title_en": "Salesforce won't be discarded in the AI boom, but what companies want is changing",
-          "summary_en": "Despite the risks, many analysts at major banks remain bullish on Salesforce."
-        },
-        {
-          "source": "CNBC-Top",
+          "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-04-10 03:06:41",
           "title": "OpenAI计划与Anthropic竞争，推出每月100美元的ChatGPT Pro订阅服务。",
@@ -162,26 +200,6 @@
           "url": "https://www.cnbc.com/2026/04/09/openai-chatgpt-pro-subscription-anthropic-claude-code.html",
           "title_en": "OpenAI looks to take on Anthropic with $100 per month ChatGPT Pro subscriptions",
           "summary_en": "The new ChatGPT plan expands access to OpenAI's AI-powered coding assistant Codex."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-04-10 01:22:01",
-          "title": "亚马逊CEO安迪·贾西强调放弃亚马逊股票将是一个昂贵的错误",
-          "summary": "吉姆·克雷默（Jim Cramer）周四表示，亚马逊的股票表现最终会改善。",
-          "url": "https://www.cnbc.com/2026/04/09/andy-jassy-makes-it-clear-giving-up-on-amazons-stock-would-be-an-expensive-mistake.html",
-          "title_en": "Andy Jassy makes it clear giving up on Amazon's stock would be an expensive mistake",
-          "summary_en": "Amazon's stock underperformance is eventually going to change, Jim Cramer argued Thursday."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-04-09 19:42:23",
-          "title": "OpenAI暂停了英国的星门项目，出于监管和能源价格的担忧。",
-          "summary": "在9月份，Nvidia和Nscale与合作宣布了主要的AI基础设施。",
-          "url": "https://www.cnbc.com/2026/04/09/openai-halts-uk-stargate-project.html",
-          "title_en": "OpenAI halts UK stargate project amid regulatory and energy price concerns",
-          "summary_en": "The major AI infrastructure was announced in September in partnership was with Nvidia and Nscale."
         }
       ]
     },
@@ -192,29 +210,30 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
+          "time": "2026-04-10 20:42:21",
           "title": "华特迪士尼计划裁员1,000人，华尔街日报报道",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/disney-plans-cut-1-000-003401037.html",
           "title_en": "Disney plans to cut 1,000 jobs, WSJ reports"
         },
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
-          "title": "今日（4月8日）房贷和再融资利率：小幅下降累积",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-april-8-2026-100000542.html",
-          "title_en": "Mortgage and refinance interest rates today, April 8, 2026: Small moves down are adding up"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
-          "title": "加密巨头克拉肯的联邦储备支付账户引发了人们对风险的担忧。",
+          "time": "2026-04-10 20:42:21",
+          "title": "美国股指期货微幅波动，投资者期待关键的消费者通胀数据",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/analysiscrypto-giant-krakens-fed-payment-account-sparks-concerns-about-risks-4607302",
-          "title_en": "Analysis-Crypto giant Kraken’s Fed payment account sparks concerns about risks"
+          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-iran-ceasefire-talks-cpi-data-in-focus-4607013",
+          "title_en": "U.S. stock futures little changed as investors await key consumer inflation data"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-10 19:59:47",
+          "title": "凯文·沃什的联邦储备委员会主席确认计划遇到障碍，因为提名听证会被延迟。",
+          "summary": "特朗普总统提名凯文·沃什（Kevin Warsh）为美联储主席的提名已面临参议员汤姆·蒂利斯（Sen. Thom Tillis）的阻力，原因是对现任主席杰罗姆·鲍威尔（Chair Jerome Powell）进行的调查。",
+          "url": "https://www.cnbc.com/2026/04/10/warsh-fed-nomination-hearing-delayed.html",
+          "title_en": "Kevin Warsh Fed chair confirmation plan hits snag as nomination hearing is delayed",
+          "summary_en": "President Trump's nomination of Kevin Warsh as Federal Reserve chair already faced a hurdle by Sen. Thom Tillis over a probe of current Chair Jerome Powell."
         },
         {
           "source": "CNBC-Top",
@@ -225,16 +244,6 @@
           "url": "https://www.cnbc.com/2026/04/09/keir-starmer-fed-up-trump-putin-uk-energy-costs.html",
           "title_en": "Keir Starmer: 'I'm fed up' with Trump and Putin affecting UK energy costs",
           "summary_en": "Iran has effectively closed the Strait of Hormuz in the war with the U.S. and Israel, creating an oil supply crunch and sending global energy prices soaring."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-10 10:55:07",
-          "title": "凯文·沃什的联邦储备委员会主席确认计划遇到障碍，因为提名听证会被延迟。",
-          "summary": "特朗普总统提名凯文·沃什（Kevin Warsh）为美联储主席的提名已面临来自参议员汤姆·蒂利斯（Sen. Thom Tillis）的障碍，这是因为蒂利斯对现任主席杰罗姆·鲍威尔（Jerome Powell）进行调查。",
-          "url": "https://www.cnbc.com/2026/04/10/warsh-fed-nomination-hearing-delayed.html",
-          "title_en": "Kevin Warsh Fed chair confirmation plan hits snag as nomination hearing is delayed",
-          "summary_en": "President Trump's nomination of Kevin Warsh as Federal Reserve chair already faced a hurdle by Sen. Thom Tillis over a probe of current chair Jerome Powell."
         }
       ]
     },
@@ -245,20 +254,61 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
-          "title": "股市上涨，投资者在美伊谈判前心态放松；油价周线下跌",
+          "time": "2026-04-10 20:42:21",
+          "title": "路德斯汉莎航空罢工影响数十万名乘客，城市航空公司与工会达成工资协议",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/stocks-shaky-as-israeli-attacks-on-lebanon-tests-iran-ceasefire-4607026",
-          "title_en": "Shares gain as investor nerves ease before U.S.-Iran talks; oil set for weekly drop"
+          "url": "https://www.investing.com/news/stock-market-news/lufthansa-strike-disrupts-tens-of-thousands-of-passengers-as-city-airlines-secures-pay-deal-4607684",
+          "title_en": "Lufthansa strike disrupts tens of thousands of passengers as City Airlines secures pay deal"
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
-          "title": "美国股指期货低迷，伊朗停火谈判和CPI数据引关注",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-iran-ceasefire-talks-cpi-data-in-focus-4607013",
-          "title_en": "U.S. stock futures subdued with Iran ceasefire talks, CPI data in focus"
+          "time": "2026-04-10 20:39:53",
+          "title": "消费者价格指数在3月份上涨3.3%，主要是由于伊朗冲突导致的能源价格大幅上涨。",
+          "summary": "消费者价格指数预计将在3月份同比增长3.3%，根据道琼斯指数的共识。",
+          "url": "https://www.cnbc.com/2026/04/10/cpi-inflation-report-march-2026.html",
+          "title_en": "Consumer prices rose 3.3% in March, as energy prices spiked due to Iran conflict",
+          "summary_en": "The consumer price index was expected to show a 3.3% year-over-year gain in March, according to the Dow Jones consensus."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-10 20:14:38",
+          "title": "伊朗袭击关键的沙特输油管道和生产设施，导致沙特石油产量大幅下降",
+          "summary": "沙特基础设施受损将进一步加剧由伊朗袭击霍尔木兹海峡油轮所触发的全球石油供应混乱。",
+          "url": "https://www.cnbc.com/2026/04/09/iran-war-oil-saudi-arabia-east-west-pipeline.html",
+          "title_en": "Iran attacks on crucial Saudi pipeline and production facilities slash kingdom's oil output",
+          "summary_en": "The damage to Saudi infrastructure will only compound the disruption to global oil supplies trigged by Iran's attacks on tankers in the Strait of Hormuz."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-04-10 20:10:25",
+          "title": "霍尔木兹海峡停滞，新通胀数据，沃什参议院听证会等更多新闻。",
+          "summary": "今天市场投资者需要了解的五个关键信息。",
+          "url": "https://www.cnbc.com/2026/04/10/5-things-to-know-before-the-market-opens.html",
+          "title_en": "Standstill in the Strait of Hormuz, new inflation data, Warsh's Senate hearing and more in Morning Squawk",
+          "summary_en": "Here are five key things investors need to know to start the trading day."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-04-10 19:58:00",
+          "title": "布伦特原油面临自2022年以来最差的周度跌幅，随着美国和伊朗周末的谈判即将开始。",
+          "summary": "美国代表团将于周六与伊朗举行谈判作为停火的一部分。但是，以色列继续袭击黎巴嫩，威胁着协议。",
+          "url": "https://www.marketwatch.com/story/oil-prices-struggle-for-gains-ahead-of-talks-between-u-s-and-iran-with-cease-fire-on-the-line-a99cacd1?mod=mw_rss_topstories",
+          "title_en": "Brent oil faces its worst weekly drop since 2022, as weekend talks loom between U.S. and Iran",
+          "summary_en": "A U.S. delegation is set for talks with Iran on Saturday as part of the cease-fire. But Israel has continued to attack Lebanon, endangering the agreement."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-10 19:44:39",
+          "title": "爱尔兰因燃料抗议陷入瘫痪，伊朗战争推动价格上涨",
+          "summary": "抗议者对政府对燃油价格飙升的反应表示不满，尤其是在伊朗战争爆发后。",
+          "url": "https://www.cnbc.com/2026/04/10/ireland-fuel-prices-protest-blockade-cork-galway.html",
+          "title_en": "Ireland gridlocked by fuel protests as Iran War drives prices higher",
+          "summary_en": "Protestors are taking issue with the government's response to the spike in fuel prices since the onset of the Iran war."
         },
         {
           "source": "CNBC-Top",
@@ -269,16 +319,6 @@
           "url": "https://www.cnbc.com/2026/04/10/oil-price-wti-brent-saudi-pipeline-attack-middle-east-war.html",
           "title_en": "U.S. oil slips below $100 as Trump demands reopening of Strait of Hormuz",
           "summary_en": "U.S. President Donald Trump on Thursday warned Iran to \"stop now\" if it was charging tankers to transit the Strait of Hormuz."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-04-10 18:54:00",
-          "title": "石油价格难以上涨，美伊谈判即将开始，停火协议岌岌可危。",
-          "summary": "美国代表团将于周六与伊朗举行谈判作为停火的一部分，但以色列继续攻击黎巴嫩，威胁着协议。",
-          "url": "https://www.marketwatch.com/story/oil-prices-struggle-for-gains-ahead-of-talks-between-u-s-and-iran-with-cease-fire-on-the-line-a99cacd1?mod=mw_rss_topstories",
-          "title_en": "Oil prices struggle for gains ahead of talks between U.S. and Iran, with cease-fire on the line",
-          "summary_en": "A U.S. delegation is set for talks with Iran on Saturday as part of the cease-fire, however Israel has continued to attack Lebanon, endangering the agreement"
         },
         {
           "source": "CNBC-Top",
@@ -321,7 +361,7 @@
           "summary_en": "China faces possible inflationary spillovers, though its massive strategic stockpiling onshore and diversified sources of energy provided some cushion."
         },
         {
-          "source": "CNBC-World",
+          "source": "CNBC-Top",
           "ticker": "RSS",
           "time": "2026-04-10 06:41:02",
           "title": "特朗普称，如果伊朗对通过霍尔木兹海峡的油轮征收费用，伊朗就要“停止”",
@@ -339,16 +379,6 @@
           "url": "https://www.cnbc.com/2026/04/09/jeffrey-epstein-melania-trump.html",
           "title_en": "Melania Trump blasts claims about Jeffrey Epstein and her",
           "summary_en": "The first lady acknowledged writing an email to Jeffrey Epstein's accomplice, Ghislaine Maxwell, in 2002, referencing a New York magazine profile about him."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-10 04:44:10",
-          "title": "伊朗袭击关键的沙特输油管道和生产设施，导致沙特石油产量大幅下降",
-          "summary": "沙特基础设施受损将进一步加剧由伊朗袭击霍尔木兹海峡油轮所触发的全球石油供应混乱。",
-          "url": "https://www.cnbc.com/2026/04/09/iran-war-oil-saudi-arabia-east-west-pipeline.html",
-          "title_en": "Iran attacks on crucial Saudi pipeline and production facilities slash kingdom's oil output",
-          "summary_en": "The damage to Saudi infrastructure will only compound the disruption to global oil supplies trigged by Iran's attacks on tankers in the Strait of Hormuz."
         },
         {
           "source": "CNBC-World",
@@ -369,16 +399,6 @@
           "url": "https://www.cnbc.com/2026/04/09/iran-war-oil-strait-hormuz-tanker-ship-uae.html",
           "title_en": "The Strait of Hormuz is not open as Iran controls access after ceasefire, UAE oil CEO says",
           "summary_en": "Sultan Ahmed Al Jaber demanded a full reopening of the strait, warning that the oil supply disruption will increase if Iran maintains control of the passage."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-09 22:38:23",
-          "title": "通胀率在美国与伊朗开战前保持坚挺，美联储的关键指标显示为3%。",
-          "summary": "美联储周四发布的指标提供了伊朗战争前美国经济状况的napshot。",
-          "url": "https://www.cnbc.com/2026/04/09/core-inflation-was-3percent-in-february-as-expected-key-fed-gauge-shows.html",
-          "title_en": "Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows",
-          "summary_en": "The gauge released Thursday offers the Federal Reserve a snapshot of conditions leading into the Iran war."
         },
         {
           "source": "CNBC-Tech",
@@ -414,7 +434,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
+          "time": "2026-04-10 20:42:21",
           "title": "高盛私人信贷基金险些陷入赎回危机",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-private-credit-fund-011036832.html",
@@ -423,70 +443,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
-          "title": "今年黄金会达到6,000美元吗？关于黄金价格的前三大预测。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/will-gold-hit-6000-this-year-top-3-predictions-about-gold-prices-150000340.html",
-          "title_en": "Will gold hit $6,000 this year? Top 3 predictions about gold prices."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
-          "title": "如果你无法支付税款，以下五种方法可以帮助你应对税单。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/taxes/article/what-if-i-cant-pay-my-taxes-215416984.html",
-          "title_en": "What if I can't pay my taxes? 5 ways to tackle your bill."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
-          "title": "需要一个偿债计划？试试这个7步预算指南。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/plan-to-pay-off-debt-budget-guide-192902261.html",
-          "title_en": "Need a plan to pay off debt? Try this 7-step budget guide."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
-          "title": "4月2026年最佳0%利率信用卡：无息期限长达24个月",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/the-best-0-apr-credit-cards-for-april-2026-pay-no-interest-for-up-to-24-months-181718424.html",
-          "title_en": "The best 0% APR credit cards for April 2026: Pay no interest for up to 24 months"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
-          "title": "霍华德汉纳首席执行官面对住房市场崩溃的担忧",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/howard-hanna-ceo-confronts-housing-200049242.html",
-          "title_en": "Howard Hanna CEO confronts housing crash fears"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
-          "title": "房价为什么这么高？今天的市场如何影响房价？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/why-are-home-prices-so-high-factors-contributing-to-current-housing-costs-184935469.html",
-          "title_en": "Why are home prices so high? How today's market impacts housing costs."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
-          "title": "马克思斯（Marcus）由高盛（Goldman Sachs）提供的储蓄账户。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/review/marcus-by-goldman-sachs-savings-account-171750316.html",
-          "title_en": "Everything you need to know about the Marcus by Goldman Sachs savings account"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
+          "time": "2026-04-10 20:42:21",
           "title": "Compass Inc（COMP）反映了华尔街的牛市，涨幅11.4%",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/compass-inc-comp-mirrors-wall-004402148.html",
@@ -495,25 +452,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
-          "title": "分析报告：Alliant Energy Corp",
+          "time": "2026-04-10 20:42:21",
+          "title": "马克思斯（Marcus）由高盛（Goldman Sachs）提供的储蓄账户。",
           "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3152_AnalystReport_1775732892000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Alliant Energy Corp"
+          "url": "https://finance.yahoo.com/personal-finance/banking/review/marcus-by-goldman-sachs-savings-account-171750316.html",
+          "title_en": "Everything you need to know about the Marcus by Goldman Sachs savings account"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
-          "title": "Nexus Mutual希望成为您的加密货币从未有的保险政策。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/nexus-mutual-wants-insurance-policy-214900982.html",
-          "title_en": "Nexus Mutual wants to be the insurance policy your crypto never had"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
+          "time": "2026-04-10 20:42:21",
           "title": "英特尔（INTC）加入埃隆·马斯克（Elon Musk）在Terafab的希望之中，股价大涨11.4%",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/intel-corp-intc-joins-elon-004623535.html",
@@ -522,7 +470,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
+          "time": "2026-04-10 20:42:21",
+          "title": "财经焦点：下周将迎来业绩季",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46696_MarketOutlook_1775820682000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily Spotlight: Earnings Season Starts Next Week"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-10 20:42:21",
+          "title": "Nexus Mutual希望成为您的加密货币从未有的保险政策。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/nexus-mutual-wants-insurance-policy-214900982.html",
+          "title_en": "Nexus Mutual wants to be the insurance policy your crypto never had"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-10 20:42:21",
           "title": "Teradyne (TER) 突破历史新高 — 是时候赚钱了吗？",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-soars-time-high-004820906.html",
@@ -531,7 +497,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
+          "time": "2026-04-10 20:42:21",
           "title": "Applied Optoelectronics (AAOI)创下历史新高，股价大涨近十倍",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-hits-time-005057485.html",
@@ -540,25 +506,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
-          "title": "2026年4月9日威克森日常报告：买家和卖家名单",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46674_TopBottomInsiderActivity_1775729778000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Daily – Vickers Top Buyers & Sellers for 04/09/2026"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
-          "title": "稳定币持有者$3500亿无利可得。OpenEden想改变这一局面。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/350-billion-stablecoins-earn-nothing-205400834.html",
-          "title_en": "$350 billion in stablecoins earn nothing for holders. OpenEden wants to change that."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
+          "time": "2026-04-10 20:42:21",
           "title": "奥斯卡健康（OSCR）股价大涨12.88%，因医疗保险赔付金额大幅增加",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/healthcare/articles/oscar-health-oscr-soars-12-005400879.html",
@@ -567,11 +515,83 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-10 19:41:23",
+          "time": "2026-04-10 20:42:21",
+          "title": "中期看多。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46695_TechnicalAnalysis_1775820612000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Technical Assessment: Bullish in the Intermediate-Term"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-10 20:42:21",
+          "title": "霍华德汉纳首席执行官面对住房市场崩溃的担忧",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/howard-hanna-ceo-confronts-housing-200049242.html",
+          "title_en": "Howard Hanna CEO confronts housing crash fears"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-10 20:42:21",
           "title": "Riot Platforms (RIOT) 上涨13.5%，因为从比特币中赚取了1.02亿美元。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/riot-platforms-riot-soars-13-005704772.html",
           "title_en": "Riot Platforms (RIOT) Soars 13.5% After Cashing In $102M From Bitcoin"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-10 20:42:21",
+          "title": "美国USA Rare Earth (USAR)股价暴涨14.6%，投资者押注于战略矿物推动",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/usa-rare-earth-usar-rockets-010109237.html",
+          "title_en": "USA Rare Earth (USAR) Rockets 14.6% as Traders Bet on Critical Minerals Push"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-10 20:42:21",
+          "title": "Hut 8 (HUT) 股价大涨16.65%，经济恐惧情绪缓解",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hut-8-hut-soars-16-010426260.html",
+          "title_en": "Hut 8 (HUT) Soars 16.65% as Economy Fears Subside"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-10 20:42:21",
+          "title": "AXT Inc.(AXTI) 股价大涨17%，公司表示对Q1表现感到乐观。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/axt-inc-axti-soars-17-010637951.html",
+          "title_en": "AXT Inc. (AXTI) Soars 17% Ahead of Earnings, Firm ‘Upbeat’ for Q1"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-10 20:42:21",
+          "title": "今日维克氏（Vickers）推荐的内幕人士首选股（04/10/2026）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46693_InsiderActivity_1775819659000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily – Vickers Top Insider Picks for 04/10/2026"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-10 20:42:21",
+          "title": "稳定币持有者$3500亿无利可得。OpenEden想改变这一局面。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/350-billion-stablecoins-earn-nothing-205400834.html",
+          "title_en": "$350 billion in stablecoins earn nothing for holders. OpenEden wants to change that."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-10 20:42:21",
+          "title": "Aehr测试系统（AEHR）创下历史新高，受强需求推动",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/aehr-test-systems-aehr-hits-010849335.html",
+          "title_en": "Aehr Test Systems (AEHR) Hits All-Time High on Strong Demand"
         }
       ]
     }
