@@ -1,6 +1,6 @@
 {
   "date": "2026.04.13",
-  "generatedAtBJT": "2026-04-13 15:19:54",
+  "generatedAtBJT": "2026-04-13 16:20:15",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-13 15:19:54",
+          "time": "2026-04-13 16:20:15",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再",
+          "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Mortgage and refinance interest rates today, April 11, 2026: Rates conti…\n- 宏观/Fed线索：HELOC and home equity loan rates Saturday, April 11, 2026: Rates shift s…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Artifical Intelligence (AI) Stocks Are Rising on the News of an Iran War…\n- 宏观/Fed线索：HELOC and home equity loan rates Saturday, April 11, 2026: Rates shift s…"
         }
       ]
     },
@@ -29,16 +29,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
-          "title": "目前仅需500美元就能购买的最聪明的人工智能（AI）股票是哪一家？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/smartest-artificial-intelligence-ai-stock-195000329.html",
-          "title_en": "This Is the Smartest Artificial Intelligence (AI) Stock to Buy With $500 Right Now"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
           "title": "Cipher Digital (CIFR) 突飞猛进，股价上涨28.9%，受AI技术热潮的推动。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-cifr-soars-28-215622399.html",
@@ -47,7 +38,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
           "title": "Nebius (NBIS)瞄准全栈式AI，股价暴涨33%",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-nbis-eyes-foray-full-215937824.html",
@@ -56,7 +47,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
           "title": "Hut 8 (HUT) 飙升 37.3%，受 AI 提升影响",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/hut-8-hut-soars-37-220224917.html",
@@ -65,7 +56,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
           "title": "Applied Optoelectronics (AAOI) 突破45% 由AI带动",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-soars-45-220652242.html",
@@ -74,7 +65,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
           "title": "N-able Inc. (NABL) 扩大技术联盟和 AI SoC 能力",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/technology/articles/n-able-inc-nabl-expands-220735508.html",
@@ -83,16 +74,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
-          "title": "亚马逊 (AMZN) 股东们收到好消息",
+          "time": "2026-04-13 16:20:11",
+          "title": "预测：2026年第二季度表现最佳的人工智能（AI）股不是Nvidia，而是这个公司。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/andy-jassy-just-announced-wonderful-202000813.html",
-          "title_en": "Andy Jassy Just Announced Wonderful News for Amazon Stock Investors"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-best-performing-artificial-intelligence-203500779.html",
+          "title_en": "Prediction: The Best-Performing Artificial Intelligence (AI) Stock of Q2 2026 Isn't Nvidia. It's This One."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
           "title": "Aehr测试（AEHR）飙升59%，受强劲芯片需求的推动",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/aehr-test-aehr-soars-59-220847295.html",
@@ -101,29 +92,30 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
-          "title": "预测：2026年第二季度表现最佳的人工智能（AI）股不是Nvidia，而是这个公司。",
+          "time": "2026-04-13 16:20:11",
+          "title": "苹果公司可能是目前最值得投资的人工智能股之一，原因在于其2.5万亿美元的市值。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-best-performing-artificial-intelligence-203500779.html",
-          "title_en": "Prediction: The Best-Performing Artificial Intelligence (AI) Stock of Q2 2026 Isn't Nvidia. It's This One."
+          "url": "https://finance.yahoo.com/sectors/technology/articles/2-5-billion-reasons-apple-213900527.html",
+          "title_en": "2.5 Billion Reasons Apple Might Be the Best Artificial Intelligence (AI) Stock to Buy Today"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
           "title": "中国AI初创公司StepFun计划解除海外结构以便于IPO。",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/chinese-ai-startup-stepfun-to-unwind-offshore-structure-to-pave-way-for-ipo-sources-say-4609269",
           "title_en": "Chinese AI startup StepFun to unwind offshore structure to pave way for IPO, sources say"
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
-          "title": "RBC将WH Smith降级至“行业表现中等”，英国旅行受地缘政治风险影响",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/rbc-slashes-wh-smith-to-sector-perform-as-geopolitical-risks-cloud-uk-travel-4609250",
-          "title_en": "RBC slashes WH Smith to “sector perform” as geopolitical risks cloud UK travel"
+          "time": "2026-04-13 16:04:04",
+          "title": "OpenAI宣布在英国伦敦开设首个永久办公室，结束了英国Stargate项目",
+          "summary": "该公司在2月表示，将伦敦设为其在美国以外的最大研究中心。",
+          "url": "https://www.cnbc.com/2026/04/13/openai-london-office-sam-altman-uk-stargate.html",
+          "title_en": "OpenAI announces first permanent London office after halting UK Stargate project",
+          "summary_en": "In February, the company said it would make London its largest research hub outside of the U.S."
         }
       ]
     },
@@ -134,7 +126,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
           "title": "本周利率有所波动。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-april-11-2026-100000794.html",
@@ -143,7 +135,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
+          "title": "今日（2026年4月11日）高收益储蓄利率（最高可达4%APY）",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-april-11-2026-100000704.html",
+          "title_en": "Best high-yield savings interest rates today, April 11, 2026 (Earn up to 4% APY)"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-13 16:20:11",
           "title": "今日最佳存款利率（最高4.05% APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-april-11-2026-100000837.html",
@@ -152,20 +153,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
           "title": "截至2026年4月11日，最佳现金市场账户利率（最高利率为4.01% APY）",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-april-11-2026-100000364.html",
           "title_en": "Best money market account rates today, April 11, 2026 (best account provides 4.01% APY)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
-          "title": "今日（2026年4月11日）高收益储蓄利率（最高可达4%APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-april-11-2026-100000704.html",
-          "title_en": "Best high-yield savings interest rates today, April 11, 2026 (Earn up to 4% APY)"
         }
       ]
     },
@@ -176,16 +168,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
-          "title": "今日（4月11日）房贷和再融资利率：利率持续下降，伊朗停火",
+          "time": "2026-04-13 16:20:11",
+          "title": "人工智能（AI）股价在伊朗停火消息的推动下上涨。以下是现在可以购买的3个好股。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-april-11-2026-100000657.html",
-          "title_en": "Mortgage and refinance interest rates today, April 11, 2026: Rates continue dropping amid Iran ceasefire"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/artifical-intelligence-ai-stocks-rising-212000231.html",
+          "title_en": "Artifical Intelligence (AI) Stocks Are Rising on the News of an Iran War Ceasefire. Here Are 3 Great Ones to Pick Up Now."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
           "title": "韩国即将从哈萨克斯坦确保石油供应，韩国能源部长表示。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/south-korea-close-securing-oil-045306517.html",
@@ -194,11 +186,78 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
+          "title": "今日（4月11日）房贷和再融资利率：利率持续下降，伊朗停火",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-april-11-2026-100000657.html",
+          "title_en": "Mortgage and refinance interest rates today, April 11, 2026: Rates continue dropping amid Iran ceasefire"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-13 16:20:11",
           "title": "沙特阿拉伯恢复东西油管运输能力至每日700万桶，恢复正常运输。",
           "summary": "",
           "url": "https://finance.yahoo.com/news/saudi-arabia-restores-full-capacity-071614305.html",
           "title_en": "Saudi Arabia restores full capacity on East-West oil pipeline to 7 million bpd after attacks"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-13 16:20:11",
+          "title": "欧洲股市因特朗普对霍尔木兹海峡的封锁威胁和中东谈判失败而下跌。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/european-stocks-dip-amid-trumps-hormuz-blockade-threat-failed-mideast-talks-4609286",
+          "title_en": "European stocks dip amid Trump’s Hormuz blockade threat, failed Mideast talks"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-13 16:06:46",
+          "title": "石油价格飙升至100美元以上，美国海军将封锁伊朗港口，和平谈判破裂",
+          "summary": "美国前总统唐纳德·特朗普称，他下令美国海军在国际水域中找到并拦截任何向伊朗支付通行费的船只。",
+          "url": "https://www.cnbc.com/2026/04/12/oil-prices-iran-war-strait-hormuz-blockade.html",
+          "title_en": "Oil prices surge above $100 as U.S. Navy to blockade Iran's ports after peace talks fail",
+          "summary_en": "President Donald Trump said he ordered the U.S. Navy to find and interdict any ship in international waters that has paid a toll to Iran to transit the strait."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-04-13 16:05:06",
+          "title": "美国国债收益率上升，伊朗谈判破裂加剧通胀预期不确定性",
+          "summary": "",
+          "url": "https://www.cnbc.com/2026/04/13/treasury-yields-up-as-collapse-of-iran-talks-clouds-inflation-outlook.html",
+          "title_en": "Treasury yields rise as collapse of Iran talks clouds inflation outlook"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-13 16:03:40",
+          "title": "特朗普威胁对中国征收50%关税  一份报告称美国计划向伊朗运送武器",
+          "summary": "美国总统唐纳德·特朗普威胁要对中国征收50%的关税，原因是周日的一份报告称北京正在准备向伊朗运送武器。",
+          "url": "https://www.cnbc.com/2026/04/13/trump-threatens-50percent-tariffs-on-china-as-report-suggests-plans-for-arms-shipment-to-iran.html",
+          "title_en": "Trump threatens 50% tariffs on China as report suggests plans for arms shipment to Iran",
+          "summary_en": "U.S. President Donald Trump has threatened to impose a 50% tariff on China, after a report on Sunday that Beijing was preparing a weapons shipment to Iran."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-04-13 15:48:37",
+          "title": "欧洲市场周一开盘低迷，旅行股大幅下跌，伊朗和平希望消失",
+          "summary": "欧洲股市在新的一周开盘时表现低迷，全球投资者正在评估中东局势的发展。",
+          "url": "https://www.cnbc.com/2026/04/13/european-markets-stoxx-600-ftse-dax-iran-latest-hungary-election.html",
+          "title_en": "European markets open the week lower and travel stocks plunge as Iran peace hopes fade",
+          "summary_en": "European stocks started the new trading week on a somber note as global traders assess developments in the Middle East."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-13 15:38:54",
+          "title": "亚洲市场下跌，油价大幅上涨，美国对伊朗港口实施封锁",
+          "summary": "石油价格因美伊谈判破裂和华盛顿向海上封锁迈出一步而飙升至100美元以上，亚洲市场开盘时呈现谨慎的态势。",
+          "url": "https://www.cnbc.com/2026/04/13/asia-pacific-market-us-iran-talks-blockade-oil-prices.html",
+          "title_en": "Asia markets trade lower as oil surges after U.S. moves to blockade Iran ports",
+          "summary_en": "Oil prices surged past $100 after U.S.-Iran talks collapsed and Washington moved toward a naval blockade, setting a cautious tone for Asia markets at the open."
         },
         {
           "source": "CNBC-World",
@@ -219,16 +278,6 @@
           "url": "https://www.cnbc.com/2026/04/13/trump-hormuz-blockade-oil-shock-china-iran-india-vessels-peace-talks.html",
           "title_en": "Hormuz blockade could deepen world’s worst energy crisis — and risk a dangerous misstep",
           "summary_en": "The U.S. naval blockade of the Strait of Hormuz threatens to halt more tanker traffic, sending oil surging and risks drawing China into a widening confrontation with Washington."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-13 14:54:17",
-          "title": "亚洲市场下跌，油价大幅上涨，美国对伊朗港口实施封锁",
-          "summary": "石油价格因美伊谈判破裂和华盛顿向海上封锁迈出一步而飙升至100美元以上，亚洲市场开盘时呈现谨慎的态势。",
-          "url": "https://www.cnbc.com/2026/04/13/asia-pacific-market-us-iran-talks-blockade-oil-prices.html",
-          "title_en": "Asia markets trade lower as oil surges after U.S. moves to blockade Iran ports",
-          "summary_en": "Oil prices surged past $100 after U.S.-Iran talks collapsed and Washington moved toward a naval blockade, setting a cautious tone for Asia markets at the open."
         },
         {
           "source": "CNBC-Top",
@@ -261,16 +310,6 @@
           "summary_en": "Oil giant BP is bracing for a possible shareholder revolt at its upcoming annual general meeting."
         },
         {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-13 12:57:22",
-          "title": "石油价格飙升至100美元以上，美国海军将封锁伊朗港口，和平谈判破裂",
-          "summary": "美国前总统唐纳德·特朗普称，他下令美国海军在国际水域中找到并拦截任何向伊朗支付通行费的船只。",
-          "url": "https://www.cnbc.com/2026/04/12/oil-prices-iran-war-strait-hormuz-blockade.html",
-          "title_en": "Oil prices surge above $100 as U.S. Navy to blockade Iran's ports after peace talks fail",
-          "summary_en": "President Donald Trump said he ordered the U.S. Navy to find and interdict any ship in international waters that has paid a toll to Iran to transit the strait."
-        },
-        {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
           "time": "2026-04-13 10:11:00",
@@ -299,36 +338,6 @@
           "url": "https://www.marketwatch.com/story/trump-says-hes-closing-the-strait-of-hormuz-has-he-been-reading-marketwatch-e059dd07?mod=mw_rss_topstories",
           "title_en": "Trump says he’s closing the Strait of Hormuz. Has he been reading MarketWatch?",
           "summary_en": "News over the weekend illustrates once again the advantage of having oil stocks in your retirement accounts."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-13 06:19:12",
-          "title": "特朗普称美国将封锁霍尔木兹海峡  美伊和谈破裂",
-          "summary": "特朗普表示，美国的封锁将阻止伊朗在海峡进行巡逻，并从经济上受益，而世界其他地区则因其关闭而受苦。",
-          "url": "https://www.cnbc.com/2026/04/12/trump-iran-war-strait-of-hormuz.html",
-          "title_en": "Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail",
-          "summary_en": "Trump said the U.S. blockade will stop Iran from policing the strait and benefiting economically while the rest of the world suffers from its closure."
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-04-13 05:22:00",
-          "title": "特朗普宣布封锁霍尔木兹海峡，万斯离开巴基斯坦谈判无果。财经市场如何反应。",
-          "summary": "美国与伊朗在巴基斯坦的谈判结束没有达成协议，美国股指期货下滑，石油价格上涨，基于加密货币交易平台的交易。",
-          "url": "https://www.marketwatch.com/story/vance-leaves-pakistan-talks-with-no-deal-how-financial-markets-are-reacting-ef6916b3?mod=mw_rss_topstories",
-          "title_en": "Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting.",
-          "summary_en": "As U.S.-Iran talks in Pakistan ended without a deal, U.S. stock futures were sliding and oil was climbing, based on trading via a crypto-based trading platform."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-13 03:40:10",
-          "title": "尽管伊朗战争和软件股市暴跌，股市仍然保持了韧性。",
-          "summary": "在他的周日专栏中，吉姆·克雷默（Jim Cramer）探讨了股市的关键战场问题，如伊朗战争和软件大幅下跌。",
-          "url": "https://www.cnbc.com/2026/04/12/jim-cramer-iran-war-software-stock-selloff-earnings-season-investing-club.html",
-          "title_en": "Why the stock market has stayed resilient despite the Iran war and software stock rout",
-          "summary_en": "In his Sunday column, Jim Cramer explored key battleground issues for the stock market such as the Iran war and software sell-off."
         }
       ]
     },
@@ -344,16 +353,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
-          "title": "当前真正重要的三条能源新闻是：",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/three-energy-stories-actually-matter-210000535.html",
-          "title_en": "Three Energy Stories That Actually Matter Right Now"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
           "title": "Bitwise最新的Hyperliquid ETF文件使得Spot HYPE市场的竞争接近市场",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/crypto/articles/bitwise-latest-hyperliquid-etf-filing-212400239.html",
@@ -362,7 +362,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
+          "title": "当前真正重要的三条能源新闻是：",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/three-energy-stories-actually-matter-210000535.html",
+          "title_en": "Three Energy Stories That Actually Matter Right Now"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-13 16:20:11",
           "title": "AXT公司（AXT）股价上涨21.5%，在财报前大涨",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/axt-inc-axt-21-5-214412877.html",
@@ -371,7 +380,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
           "title": "Bloom能量（BE）股价大涨22.9%，因财务长任命和业绩预告",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-surges-22-9-214644881.html",
@@ -380,16 +389,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
-          "title": "你的房子是否负担得起？这些简单的测试可以告诉你",
+          "time": "2026-04-13 16:20:11",
+          "title": "你是否应该投资比特币... 或是多元化的加密货币篮子？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/articles/simple-tests-reveal-whether-home-200000247.html",
-          "title_en": "Simple Tests That Reveal Whether Your Home Is Affordable or If You're 'House Poor'"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/investing-bitcoin-basket-diversified-cryptocurrencies-210100293.html",
+          "title_en": "Should You Be Investing in Bitcoin... or a Basket of Diversified Cryptocurrencies?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
           "title": "CoreWeave (CRWV)签下亿级合同，股价攀升24%",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-bags-billion-dollar-214859274.html",
@@ -398,7 +407,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
           "title": "Astera Labs (ALAB) 目标实现\"高两位数增长\",股价暴涨27%",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-alab-eyes-high-215323317.html",
@@ -407,16 +416,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
-          "title": "cryptocurrency的真正主流化不是通过比特币指数基金，而是通过以下方式。",
+          "time": "2026-04-13 16:20:11",
+          "title": "50岁以上个人在2026年期望的养老金账户余额：您需要知道的",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/forget-bitcoin-etfs-crypto-really-200700541.html",
-          "title_en": "Forget Bitcoin ETFs; This Is How Crypto Is Really Going Mainstream"
+          "url": "https://finance.yahoo.com/markets/options/articles/ira-balance-expectations-individuals-50s-210000017.html",
+          "title_en": "IRA Balance Expectations for Individuals in Their 50s by 2026: What You Need to Know"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
           "title": "Organon (OGN) 突破39%，因$12亿美元并购传闻",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/organon-ogn-climbs-39-12-220504580.html",
@@ -425,16 +434,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
-          "title": "这是为什么CI&T Inc（CINT）不是骗局，而是最好的便宜的便士股票之一。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-ci-t-inc-cint-220744617.html",
-          "title_en": "This is why CI&T Inc (CINT) is not a Scam but one of the Best Cheap Penny Stocks to Buy"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
           "title": "为什么Burford Capital Limited（BUR）被认为是便宜的低价股值得买入，而不是骗局？",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-burford-capital-limited-bur-220729281.html",
@@ -443,7 +443,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
+          "title": "退休收入的税收政策悄然发生了变化——谁现在支付更多税款",
+          "summary": "",
+          "url": "https://finance.yahoo.com/economy/policy/articles/taxes-retirement-income-quietly-shifted-205545059.html",
+          "title_en": "How Taxes on Retirement Income Have Quietly Shifted — and Who Pays More Now"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-13 16:20:11",
+          "title": "这是为什么CI&T Inc（CINT）不是骗局，而是最好的便宜的便士股票之一。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-ci-t-inc-cint-220744617.html",
+          "title_en": "This is why CI&T Inc (CINT) is not a Scam but one of the Best Cheap Penny Stocks to Buy"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-13 16:20:11",
           "title": "UBS升高了Petco Health and Wellness Company, Inc. (WOOF)目标价，考虑其增长战略。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-raises-petco-health-wellness-220804234.html",
@@ -452,25 +470,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
-          "title": "Clarivate Plc (CLVT) 在监管流程中推广智能自动化",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/clarivate-plc-clvt-expands-intelligent-220814839.html",
-          "title_en": "Clarivate Plc (CLVT) Expands Intelligent Automation across Regulatory Workflows"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
-          "title": "WLFI代币跌至历史新低，世界自由的DeFi贷款争议爆发",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/wlfi-token-hits-time-low-202036676.html",
-          "title_en": "WLFI Token Hits All-Time Low Amid World Liberty’s DeFi Lending Controversy"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
           "title": "前线集团控股公司（ULCC）推迟飞机交付并终止租赁协议，作为重组的一部分。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/frontier-group-holdings-inc-ulcc-220823137.html",
@@ -479,7 +479,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
+          "title": "Clarivate Plc (CLVT) 在监管流程中推广智能自动化",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/clarivate-plc-clvt-expands-intelligent-220814839.html",
+          "title_en": "Clarivate Plc (CLVT) Expands Intelligent Automation across Regulatory Workflows"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-13 16:20:11",
           "title": "DT Midstream是否是现在最有利可图的天然气股票？",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/dt-midstream-most-profitable-natural-031642244.html",
@@ -488,7 +497,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
+          "time": "2026-04-13 16:20:11",
           "title": "为什么Vista Energy（VIST）是现在最有利可图的天然气股之一",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/energy/articles/why-vista-energy-vist-among-031652963.html",
@@ -497,11 +506,11 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-13 15:19:49",
-          "title": "我改变了对Palantir股票的看法。巨大的重估使其成为买入对象。",
+          "time": "2026-04-13 16:20:11",
+          "title": "富国银行对大型银行股有一个明确的信息：",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ive-changed-mind-palantir-stock-193500694.html",
-          "title_en": "I've Changed My Mind on Palantir Stock. The Great Repricing Makes It a Buy."
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-stark-message-big-203300909.html",
+          "title_en": "Wells Fargo has a stark message on big bank stocks"
         }
       ]
     }
