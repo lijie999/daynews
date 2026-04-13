@@ -1,6 +1,6 @@
 {
   "date": "2026.04.14",
-  "generatedAtBJT": "2026-04-14 03:30:13",
+  "generatedAtBJT": "2026-04-14 04:31:05",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-14 03:30:13",
+          "time": "2026-04-14 04:31:05",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因素：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指数（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克指数/标普500指数承压更明显；美元指数上升→黄金价格更易回撤；VIX指数上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克指数/标普500指数先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克指数/标普500指数修复反弹、黄金价格喘息；操作偏好：回踩参与、避免追高",
+          "summary": "- 主要影响因素：10年期利率 + 原油价格/风险事件\n- 四个监控指标：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指数（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金价格更易回撤；VIX指数上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且V",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Is Chewy Inc (CHWY) One Of The Stocks That Will Skyrocket On Falling Oil…\n- 宏观/Fed线索：These cofounders quit corporate jobs, took on $100K in credit card debt,…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Sea Limited (SE) Stock Could Be A Winner If Oil Prices Fall…\n- 宏观/Fed线索：Fed nominee Warsh clears a hurdle to Senate hearing…"
         }
       ]
     },
@@ -29,7 +29,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
+          "time": "2026-04-14 04:31:01",
+          "title": "迈克尔·布里是仍然持有对帕拉特尔的空头看法，并称Anthropic是更大的AI赢家",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-still-shorting-palantir-120000841.html",
+          "title_en": "Michael Burry is still shorting Palantir — and says Anthropic is the bigger AI winner"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-14 04:31:01",
           "title": "阿里巴巴（BABA）的新AI模型Qwen 3.6意味着什么？",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-baba-improved-ai-model-103559570.html",
@@ -38,20 +47,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
+          "time": "2026-04-14 04:31:01",
+          "title": "两只人工智能股股价可能翻倍：一家分析师预测将上涨35%和62%",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-artificial-intelligence-ai-stocks-113500318.html",
+          "title_en": "2 Artificial Intelligence (AI) Stocks to Buy Before They Soar 35% and 62%, According to 1 Wall Street Analyst"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-14 04:31:01",
           "title": "贝森特召集了顶级银行CEO参加紧急会议，讨论一项AI发现了几千个之前不知道存在的漏洞。",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/technology/articles/bessent-pulled-top-bank-ceos-101500660.html",
           "title_en": "Bessent pulled top bank CEOs into an emergency meeting over an AI that found thousands of flaws no one knew existed"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "迈克尔·布里是仍然持有对帕拉特尔的空头看法，并称Anthropic是更大的AI赢家",
+          "time": "2026-04-14 04:31:01",
+          "title": "Nvidia否认了与PC制造商谈判收购的报告。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-still-shorting-palantir-120000841.html",
-          "title_en": "Michael Burry is still shorting Palantir — and says Anthropic is the bigger AI winner"
+          "url": "https://www.investing.com/news/stock-market-news/is-nvidia-buying-a-major-pc-maker-why-dell-and-hpq-stocks-are-rallying-today-4610815",
+          "title_en": "Nvidia denies reports of PC manufacturer acquisition talks"
         },
         {
           "source": "CNBC-Top",
@@ -94,7 +112,7 @@
           "summary_en": "Anthropic rolled out the new Mythos AI model to a select group of companies over concerns that hackers could exploit its capabilities."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-04-13 17:03:40",
           "title": "OpenAI宣布在英国伦敦开设首个永久办公室，结束了英国Stargate项目",
@@ -110,13 +128,14 @@
       "badge": "Fed / Policy",
       "items": [
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "这两位联合创始人放弃了公司工作，负债100万美元，住在丹尼斯餐厅（Denny’s）——现在他们的1.2亿美元公司得到了塞莱娜威廉姆斯（Serena Williams）的支持。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cofounders-quit-corporate-jobs-took-102900245.html",
-          "title_en": "These cofounders quit corporate jobs, took on $100K in credit card debt, and slept in a Denny’s—now their $1.2B company is backed by Serena Williams"
+          "time": "2026-04-14 04:09:11",
+          "title": "联邦储备委员会提名人沃什克服了一道障碍，进入参议院听证会",
+          "summary": "凯文·沃什（Kevin Warsh）周一递交了向参议院提交的必要的伦理文件。",
+          "url": "https://www.cnbc.com/2026/04/13/fed-chair-nominee-kevin-warsh-senate-confirmation-hearing.html",
+          "title_en": "Fed nominee Warsh clears a hurdle to Senate hearing",
+          "summary_en": "Kevin Warsh submitted required ethics paperwork to the Senate Monday."
         }
       ]
     },
@@ -127,16 +146,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "当石油价格下跌时，Chewy Inc（CHWY）是否会是股价大幅上涨的股票之一？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chewy-inc-chwy-one-stocks-103556505.html",
-          "title_en": "Is Chewy Inc (CHWY) One Of The Stocks That Will Skyrocket On Falling Oil Prices?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
+          "time": "2026-04-14 04:31:01",
           "title": "海上集团（SE）股价有望上涨，如果油价下跌",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/sea-limited-se-stock-could-103554656.html",
@@ -145,7 +155,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
+          "time": "2026-04-14 04:31:01",
           "title": "当石油价格下跌时，阿拉斯加航空（ALK）是否将是10只将大幅上涨的股票之一？",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/alaska-air-alk-one-10-103604500.html",
@@ -154,16 +164,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "墨西哥航空集团（AERO）是如果石油价格下降可能上涨的航空股。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/grupo-aeromexico-aero-airline-stock-103553833.html",
-          "title_en": "Grupo Aeromexico (AERO) Is An Airline Stock That Could Rise If Oil Prices Fall"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
+          "time": "2026-04-14 04:31:01",
           "title": "下油价可能对Mobileye Global (MBLY)股价有利",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/falling-oil-prices-could-bullish-103601024.html",
@@ -172,7 +173,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
+          "time": "2026-04-14 04:31:01",
+          "title": "墨西哥航空集团（AERO）是如果石油价格下降可能上涨的航空股。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/grupo-aeromexico-aero-airline-stock-103553833.html",
+          "title_en": "Grupo Aeromexico (AERO) Is An Airline Stock That Could Rise If Oil Prices Fall"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-14 04:31:01",
+          "title": "当石油价格下跌时，Chewy Inc（CHWY）是否会是股价大幅上涨的股票之一？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/chewy-inc-chwy-one-stocks-103556505.html",
+          "title_en": "Is Chewy Inc (CHWY) One Of The Stocks That Will Skyrocket On Falling Oil Prices?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-14 04:31:01",
           "title": "伯克希尔·哈撒韦公司(Berkshire Hathaway)首席执行官沃伦·巴菲特(Warren Buffett)表示，伊朗战争市场的下跌是“没有意义的”。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/arent-5-6-warren-buffett-100700705.html",
@@ -181,21 +200,40 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "华尔街上涨，受软件股的推动；关注美方对霍尔木兹海峡的封锁。",
+          "time": "2026-04-14 04:31:01",
+          "title": "华尔街收盘上涨1%，抹去自伊朗战争开始以来所有的损失",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-slide-over-1-after-iran-ceasefire-talks-fall-through-4609123",
-          "title_en": "Wall Street gains on boost from software stocks; focus on U.S. blockade of Hormuz"
+          "title_en": "Wall Street ends up 1%, erases all losses since the start of the Iran war"
+        },
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-14 04:31:01",
+          "title": "华尔街公司，石油价格维持高位，投资者寄希望于美伊解决",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/dollar-jumps-as-failed-usiran-peace-talks-spark-safehaven-push-4609115",
+          "title_en": "Wall Street firms, oil stays higher as investors hope for US-Iran resolution"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-14 03:10:19",
-          "title": "石油价格近100美元 美军封锁伊朗港口后和平谈判失败",
-          "summary": "美国中央司令部表示，封锁不会阻碍前往和离开非伊朗港口的船只。",
-          "url": "https://www.cnbc.com/2026/04/12/oil-prices-iran-war-strait-hormuz-blockade.html",
-          "title_en": "Oil prices near $100 as U.S. Navy blockades Iran's ports after peace talks fail",
-          "summary_en": "The blockade took effect Monday at 10 a.m. ET. U.S. Central Command said it will not impede vessels transiting to and from non-Iranian ports."
+          "time": "2026-04-14 04:02:59",
+          "title": "美国国债收益率微幅下降，投资者寄希望于美伊达成协议",
+          "summary": "美国国债收益率周一微幅下降，投资者仍对中东冲突解决持乐观态度。",
+          "url": "https://www.cnbc.com/2026/04/13/treasury-yields-up-as-collapse-of-iran-talks-clouds-inflation-outlook.html",
+          "title_en": "Treasury yields edge lower as investors hope for U.S.-Iran deal",
+          "summary_en": "Treasury yields edged lower on Monday as investors remained optimistic that a resolution for the conflict in the Middle East would be achieved."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-14 03:51:45",
+          "title": "伊朗战争加剧了加利福尼亚的能源紧张局势",
+          "summary": "美国正在加紧国内原油生产，而加利福尼亚州却被抛在了后面。",
+          "url": "https://www.cnbc.com/2026/04/13/the-iran-war-is-compounding-californias-energy-crunch.html",
+          "title_en": "The Iran war is compounding California's energy crunch",
+          "summary_en": "While the United States leans into its domestic crude oil production, one state is being left out to dry, California."
         },
         {
           "source": "CNBC-Top",
@@ -206,16 +244,6 @@
           "url": "https://www.cnbc.com/2026/04/13/trump-iran-war-strait-of-hormuz-blockade.html",
           "title_en": "U.S. begins blockade in Strait of Hormuz; Trump warns Iran 'attack ships' to stay away",
           "summary_en": "The U.S. blockade would apply to \"any and all Ships trying to enter, or leave, the Strait of Hormuz,\" President Donald Trump said."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-14 02:47:37",
-          "title": "美国国债收益率微幅下降，投资者寄希望于美伊达成协议",
-          "summary": "美债收益率周一微幅上升，全球原油基准价格上涨约7%，再次使美国通胀预期蒙上阴影。",
-          "url": "https://www.cnbc.com/2026/04/13/treasury-yields-up-as-collapse-of-iran-talks-clouds-inflation-outlook.html",
-          "title_en": "Treasury yields edge lower as investors hope for U.S.-Iran deal",
-          "summary_en": "Treasury yields rose fractionally Monday as the price of global crude oil benchmarks climbed about 7%, once again clouding the U.S. inflation outlook."
         },
         {
           "source": "CNBC-Top",
@@ -286,16 +314,6 @@
           "url": "https://www.cnbc.com/2026/04/13/asia-pacific-market-us-iran-talks-blockade-oil-prices.html",
           "title_en": "Asia markets trade lower as oil surges after U.S. moves to blockade Iran ports",
           "summary_en": "Oil prices surged past $100 after U.S.-Iran talks collapsed and Washington moved toward a naval blockade, setting a cautious tone for Asia markets at the open."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-04-13 22:12:42",
-          "title": "特朗普称美国将封锁霍尔木兹海峡  美伊和谈破裂",
-          "summary": "特朗普表示，美国的封锁将阻止伊朗在海峡进行巡逻，并从经济上受益，而世界其他地区则因其关闭而受苦。",
-          "url": "https://www.cnbc.com/2026/04/12/trump-iran-war-strait-of-hormuz.html",
-          "title_en": "Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail",
-          "summary_en": "Trump said the U.S. blockade will stop Iran from policing the strait and benefiting economically while the rest of the world suffers from its closure."
         }
       ]
     },
@@ -322,52 +340,88 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "分析师为什么降低Quaker Chemical（KWR）股票评级？",
+          "time": "2026-04-14 04:31:01",
+          "title": "我出生在一家企业家家庭。要建立一个价值100亿美元的企业，我必须放弃一些东西。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-analysts-lowering-rating-quaker-103605966.html",
-          "title_en": "Why Are Analysts Lowering Their Rating On Quaker Chemical (KWR) Stock?"
+          "url": "https://finance.yahoo.com/sectors/technology/articles/grew-family-entrepreneurs-had-unlearn-113000284.html",
+          "title_en": "I grew up in a family of entrepreneurs. Here’s what I had to unlearn to build a $1 billion business"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "全球E在线（GLBE）股价稳定，近期分析师报告未带来显著波动。",
+          "time": "2026-04-14 04:31:01",
+          "title": "从5万美元到500万美元的路上有三个巨大的障碍——迅速击倒它们才能过上好生活。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/global-e-online-glbe-stock-103557167.html",
-          "title_en": "Global-E Online (GLBE) Stock Steady After Recent Analyst Coverage"
+          "url": "https://finance.yahoo.com/markets/articles/3-massive-roadblocks-path-5-112500624.html",
+          "title_en": "3 massive roadblocks on your path from $5,000 to $5,000,000 — knock them down quick for a good life"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "如果社会保障上限定在50万美元，需要多节省多少",
+          "time": "2026-04-14 04:31:01",
+          "title": "55岁，退休储蓄为零，未来充满恐惧？为最佳回归做好准备，执行这6个简单的步骤",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/much-more-save-social-security-103104929.html",
-          "title_en": "Here’s How Much More Would You Need to Save if Social Security Is Capped at $50K"
+          "url": "https://finance.yahoo.com/markets/articles/55-years-old-0-retirement-111000792.html",
+          "title_en": "55 years old, $0 in retirement savings and terrified of the future? Make these 6 easy moves for the best comeback ever"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "QXO Inc收购Kodiak Building Partners的意义在哪里",
+          "time": "2026-04-14 04:31:01",
+          "title": "贾米·迪蒙说美国梦正\"逐渐失去触手\" — 所以他要发起一场价值8000亿美元的攻势，涵盖6个战线。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/qxo-inc-qxo-acquisition-kodiak-103602589.html",
-          "title_en": "Here’s What QXO Inc’s (QXO) Acquisition Of Kodiak Building Partners Means For Shareholders"
+          "url": "https://finance.yahoo.com/economy/policy/articles/jamie-dimon-says-american-dream-111000024.html",
+          "title_en": "Jamie Dimon says American dream is 'slipping out of reach' — so he's launching an $80B blitz across 6 fronts"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "分析师对MercadoLibre的新增长战略持乐观态度",
+          "time": "2026-04-14 04:31:01",
+          "title": "边境墨西哥：中国汽车制造商在美国出口放缓时获得了进展",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-optimistic-mercadolibre-meli-growth-103551969.html",
-          "title_en": "Analysts Optimistic About MercadoLibre’s (MELI) New Growth Initiatives"
+          "url": "https://finance.yahoo.com/economy/policy/articles/borderlands-mexico-china-automakers-gain-110000477.html",
+          "title_en": "Borderlands Mexico: China automakers gain ground as U.S. exports soften"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
+          "time": "2026-04-14 04:31:01",
+          "title": "SpaceX可能成为最终的 meme 股票。投资者应该避免这个前所未有的 IPO。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-could-ultimate-meme-stock-112600482.html",
+          "title_en": "SpaceX Could Be the Ultimate Meme Stock. Investors Should Avoid This Unprecedented IPO."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-14 04:31:01",
+          "title": "中年人十大税务错误，千万不能错过",
+          "summary": "",
+          "url": "https://finance.yahoo.com/economy/policy/articles/gen-x-workers-making-10-120000811.html",
+          "title_en": "Gen X workers are making 10 tax mistakes that can cost them thousands. How to fix them fast before retirement"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-14 04:31:01",
+          "title": "沃伦·巴菲特曾说过，美国经济的“不可思议时期”即将结束。他的预测在2026年是否会实现？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/economy/articles/incredible-period-us-economy-ending-120000150.html",
+          "title_en": "The ‘incredible period’ for the US economy is ending, Warren Buffett once said. Is his prediction coming true in 2026?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-14 04:31:01",
+          "title": "有结构化票据 ETFs 是否能帮助退休者入睡？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/options/articles/structured-note-etfs-help-retirees-120000174.html",
+          "title_en": "Can Structured Note ETFs Help Retirees Sleep at Night?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-14 04:31:01",
           "title": "分析报告：公共服务企业集团公司（Public Service Enterprise Group Inc）",
           "summary": "",
           "url": "https://finance.yahoo.com/research/reports/ARGUS_3301_AnalystReport_1776101526000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -376,34 +430,16 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "为何在4月15日前贡献给你的退休储蓄计划（IRA）可能会降低你的2025年税单",
+          "time": "2026-04-14 04:31:01",
+          "title": "帕拉特尔是否是百万富翁制造的股票？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/why-contributing-ira-april-15-103600017.html",
-          "title_en": "Why Contributing to Your IRA Before April 15 Could Lower Your 2025 Tax Bill"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-millionaire-maker-stock-112000335.html",
+          "title_en": "Is Palantir a Millionaire-Maker Stock?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "时租投资买家有85%的人后悔购买——这只是5种“安全”投资中的一种，可能会毁掉你的退休生活。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/85-timeshare-buyers-regret-just-101500240.html",
-          "title_en": "85% of timeshare buyers regret it — and it's just 1 of 5 'safe' investments that can wreck your retirement."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "市场动态：PEG比率\n\nPEG比率是衡量股票估值合理性的一个重要指标。PEG比率 = 股票价格增长率 / 年均股息增长率。PEG比率越低，表示股票估值越合理。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46714_MarketUpdate_1776101526000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Market Update: PEG"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
+          "time": "2026-04-14 04:31:01",
           "title": "五十岁的美国人净值为94,000美元，低于六十岁的人。您是否能在退休前缩小差距？",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/articles/americans-50s-net-worth-94-104500740.html",
@@ -412,74 +448,56 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "CoStar集团财报预览：预期是什么",
+          "time": "2026-04-14 04:31:01",
+          "title": "分析师对MercadoLibre的新增长战略持乐观态度",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/costar-group-earnings-preview-expect-100758382.html",
-          "title_en": "CoStar Group Earnings Preview: What to Expect"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-optimistic-mercadolibre-meli-growth-103551969.html",
+          "title_en": "Analysts Optimistic About MercadoLibre’s (MELI) New Growth Initiatives"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "股市大跌：在折扣价下，这只股息股成为明智的买入对象",
+          "time": "2026-04-14 04:31:01",
+          "title": "市场动态：PEG比率\n\nPEG比率是衡量股票估值合理性的一个重要指标。PEG比率 = 股票价格增长率 / 年均股息增长率。PEG比率越低，表示股票估值越合理。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/market-crash-dividend-stock-becomes-101500311.html",
-          "title_en": "Market Crash: This Dividend Stock Becomes a No-Brainer Buy at a Discount"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46714_MarketUpdate_1776101526000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Market Update: PEG"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "雪reen-威廉姆斯(Q1 2026财报): investors期待什么",
+          "time": "2026-04-14 04:31:01",
+          "title": "为实现每年70,000美元的股息收入，需要数百万美元的投资。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sherwin-williams-q1-2026-earnings-100522639.html",
-          "title_en": "Sherwin-Williams’ Q1 2026 Earnings: What to Expect"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-70-000-dividend-income-112544344.html",
+          "title_en": "Why a $70,000 Dividend Income Goal Requires Millions, and Which ETF Gets You There Fastest"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "预告：阿彻-丹尼尔斯-米德兰的财报将带来什么",
+          "time": "2026-04-14 04:31:01",
+          "title": "分析师为什么降低Quaker Chemical（KWR）股票评级？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-archer-daniels-100014924.html",
-          "title_en": "Earnings Preview: What to Expect From Archer-Daniels-Midland’s Report"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-analysts-lowering-rating-quaker-103605966.html",
+          "title_en": "Why Are Analysts Lowering Their Rating On Quaker Chemical (KWR) Stock?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "财务专家警告：一项错误的IRA转换行为可能会让你损失“每美元超过30%”",
+          "time": "2026-04-14 04:31:01",
+          "title": "QXO Inc收购Kodiak Building Partners的意义在哪里",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/options/articles/financial-expert-warns-one-ira-100000048.html",
-          "title_en": "Financial expert warns of the one IRA conversion mistake that could cost you ‘well over 30% of every dollar'"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qxo-inc-qxo-acquisition-kodiak-103602589.html",
+          "title_en": "Here’s What QXO Inc’s (QXO) Acquisition Of Kodiak Building Partners Means For Shareholders"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "本周市场要闻：大银行业报告; 业绩季节加速",
+          "time": "2026-04-14 04:31:01",
+          "title": "全球E在线（GLBE）股价稳定，近期分析师报告未带来显著波动。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/watch-markets-week-big-banks-101500604.html",
-          "title_en": "What to Watch in Markets This Week: Big Banks Report; Earnings Season Ramps Up"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "帕卡尔(PACCAR)即将发布下一期财报",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-paccar-next-earnings-095637367.html",
-          "title_en": "Here's What to Expect From PACCAR’s Next Earnings Report"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-14 03:30:09",
-          "title": "Veralto即将发布2026年第一季度财报，投资者期待公司的财务表现和管理层的财务预测。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/expect-veralto-q1-2026-earnings-095321390.html",
-          "title_en": "What to Expect From Veralto’s Q1 2026 Earnings Report"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/global-e-online-glbe-stock-103557167.html",
+          "title_en": "Global-E Online (GLBE) Stock Steady After Recent Analyst Coverage"
         }
       ]
     }
