@@ -99,6 +99,178 @@
 
       <section class="hero"><div class="hero-top"><div class="hero-title">主线结论</div><div class="hero-time">2026-04-14 11:36:17</div></div><div class="hero-body">**市场走势**：美股在能源价格暴涨与AImemory芯片强势间撕裂，油价大涨7%重返供给冲击叙事，但SK Hynix受AI乐观情绪推动创历史新高；澳央行官员对当前利率能否抑制通胀表示不确定，叠加Fed提名人Kashwari首关通过，高利率环境延续的确定性进一步强化。<br><br>**核心驱动**：<br>• SK Hynix创历史新高显示AImemory芯片需求持续井喷，HBM与高带宽存储赛道高景气未被伊朗地缘破坏，半导体设备与材料环节持续受益<br>• 油价大涨7%并有霍尔木兹海峡封锁持续，Mideast油轮涌入墨西哥湾显示全球能源贸易路线正在被迫调整，物流与能源基础设施受益<br>• AI热潮的"隐形瓶颈"浮出水面——不再是芯片算力，而是电力、冷却与数据中心容量，这将成为下一阶段AI投资新方向<br><br>**政治人物表态**：<br>• 澳央行官员Hauser：对当前利率能否控制通胀表示不确定<br><br>**风险提示**：油价若在$100+基础上涨至$110+，全球通胀将面临第二轮传导，Q2企业盈利下修幅度或超预期，标普500能源密集型板块调整或扩大。</div></section>
 
+      <section class="card ai-news-carousel">
+<h2>
+  <span>🤖 AI 新闻（每30分钟更新）</span>
+  <span class="badge">4</span>
+</h2>
+<div class="ai-carousel-wrapper">
+  <button class="carousel-btn carousel-prev" onclick="aiNewsCarousel.prev()">‹</button>
+  <div class="ai-carousel-container">
+    <div class="ai-carousel-page active" data-page="0">
+      <div class="tlist">
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="https://features.financialjuice.com/2026/04/13/as-oil-surpasses-100-stocks-decline-and-yields-rise-europe-market-wrap/" target="_blank" rel="noreferrer noopener">石油价格突破100美元，股市下跌，收益率上升——欧洲市场周报</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">霍尔木兹海峡封锁引发市场抛售，油价飙升...</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="https://features.financialjuice.com/2026/04/10/week-ahead-economic-indicators-13th-17th-april-us/" target="_blank" rel="noreferrer noopener">本周欧洲经济指标</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">2026年股市转正，达成协议预期抵消地缘风险...</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack" target="_blank" rel="noreferrer noopener">丹尼尔·莫雷诺-加马面临联邦指控，指控他袭击了萨姆·阿尔特曼的家和OpenAI总部。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">**Unitree R1人形机器人即将在AliExpress发售，售价4,370美元**...</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="https://features.financialjuice.com/2026/04/13/morning-juice-us-session-prep-13th-april/" target="_blank" rel="noreferrer noopener">### 美股盘前快讯 - 美会话准备（4月13日）</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">### 欧洲交易时段准备晨报
+- 来源：[Financial Juice](https://features.financialjuice.com/2026/04/10/morning-juice-europe-session-prep-534/)
+- 时间：2026-04-13 05:20</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-btn carousel-next" onclick="aiNewsCarousel.next()">›</button>
+</div>
+<div class="carousel-dots">
+  <span class="carousel-dot active" data-page="0" onclick="aiNewsCarousel.goTo(0)"></span>
+</div>
+<script>
+const aiNewsCarousel = {
+  currentPage: 0,
+  totalPages: 1,
+  
+  goTo(page) {
+    if (page < 0 || page >= this.totalPages) return;
+    
+    document.querySelectorAll('.ai-carousel-page').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll('.carousel-dot').forEach(d => d.classList.remove('active'));
+    
+    document.querySelector(`.ai-carousel-page[data-page="${page}"]`).classList.add('active');
+    document.querySelector(`.carousel-dot[data-page="${page}"]`).classList.add('active');
+    
+    this.currentPage = page;
+  },
+  
+  next() {
+    this.goTo((this.currentPage + 1) % this.totalPages);
+  },
+  
+  prev() {
+    this.goTo((this.currentPage - 1 + this.totalPages) % this.totalPages);
+  }
+};
+
+document.addEventListener('keydown', (e) => {
+  if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+  if (e.key === 'ArrowLeft') aiNewsCarousel.prev();
+  if (e.key === 'ArrowRight') aiNewsCarousel.next();
+});
+</script>
+<style>
+.ai-news-carousel {
+  position: relative;
+}
+
+.ai-carousel-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ai-carousel-container {
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+.ai-carousel-page {
+  display: none;
+}
+
+.ai-carousel-page.active {
+  display: block;
+}
+
+.carousel-btn {
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  color: var(--text);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+  flex-shrink: 0;
+}
+
+.carousel-btn:hover {
+  background: rgba(255,255,255,0.15);
+  border-color: rgba(255,255,255,0.3);
+  transform: scale(1.05);
+}
+
+.carousel-btn:active {
+  transform: scale(0.95);
+}
+
+.carousel-dots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 0 8px;
+}
+
+.carousel-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.2);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.carousel-dot:hover {
+  background: rgba(255,255,255,0.4);
+  transform: scale(1.2);
+}
+
+.carousel-dot.active {
+  background: rgba(255,176,32,0.8);
+  width: 24px;
+  border-radius: 4px;
+}
+</style>
+</section>
+
+
+
       <div class="grid3">
         <section class="card"><h2><span>📊 指数/科技</span><span class="badge">11</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-04-14 11:36:03</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/sectors/technology/articles/why-salesforce-crm-betting-ai-181544922.html" target="_blank" rel="noreferrer noopener">Salesforce (CRM) 正在押注人工智能（AI）来推动其下一个增长阶段。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-14 11:36:03</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/sectors/technology/articles/sector-hidden-bottleneck-ai-boom-153500096.html" target="_blank" rel="noreferrer noopener">这是否是人工智能热潮的隐形瓶颈？(提示：不是半导体。)</a></div>
