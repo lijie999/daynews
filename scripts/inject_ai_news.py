@@ -41,26 +41,21 @@ if not files:
 content = files[0].read_text(encoding='utf-8')
 items = []
 
-# 通用解析器 - 支持 ## 或 ### 标题格式，支持 S/A/B 级标记
+# 通用解析器 - 支持编号列表格式（1. **Title** + 📍）
 matches = list(re.finditer(
-    r'(?:###|##)\s+(?:[🔥⚡📋]\s+)?(?:S级|A级|B级\s+)?(.+?)\n\*\*(.+?)\*\*\n-\s+🔗\s+来源：\[(.+?)\]\((.+?)\)\n-\s+📅\s+时间：(.+?)\n\n(.+?)(?=\n\n(?:---|#)|\Z)',
-    content, re.DOTALL
+    r'(?:^|\n)(\d+)\.\s+\*\*([^\n]+)\*\*\n\s+-\s+📍\s+\[([^\]]+)\]\(([^)]+)\)\n\s+-\s+([^\n]+)',
+    content, re.MULTILINE
 ))
 
 for idx, m in enumerate(matches):
     groups = m.groups()
-    # Handle both 6-group (no tags) and 7-group (with tags) formats
-    if len(groups) == 7:
-        title, keywords, source, link, time, summary, tags = groups
-    else:
-        title, keywords, source, link, time, summary = groups
-        tags = ""
-    combined = ((tags or "") + " " + keywords + " " + summary).lower()
+    num, title, source, link, summary = groups
     
     # 智能分类
     emoji = "🤖"
     badge_type = "rB"
     badge_text = "AI"
+    combined = (title + " " + summary).lower()
     
     if "融资" in combined or "funding" in combined or "投资" in combined:
         emoji = "💰"
