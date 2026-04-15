@@ -487,7 +487,7 @@ def main() -> int:
         unique_earnings = []
         for item in all_earnings:
             # 从 "Company (TICKER)" 格式提取 ticker
-            ticker = item.get("ticker") or (item[1].split("(")[-1].rstrip(")") if isinstance(item, tuple) else "")
+            ticker = item.get("ticker") if isinstance(item, dict) else (item[1].split("(")[-1].rstrip(")") if isinstance(item, tuple) else "")
             if ticker and ticker not in seen_tickers:
                 seen_tickers.add(ticker)
                 if isinstance(item, tuple):
