@@ -1,6 +1,6 @@
 {
   "date": "2026.04.15",
-  "generatedAtBJT": "2026-04-15 21:09:55",
+  "generatedAtBJT": "2026-04-15 22:11:20",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-15 21:09:55",
+          "time": "2026-04-15 22:11:20",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主要驱动因素：10年期利率 + 原油价格/风险事件\n- 四个关键指标监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否上升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易出现急剧波动/假突破\n- 未来90分钟关键窗口：关注是否临近数据发布/讲话/美债拍卖/开盘等事件窗口；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX指标上升→偏向纳斯达克/标普500先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX指标回落→偏向纳斯达克/标普500修复反弹、黄金价格喘息；操作偏好：回踩",
+          "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜波动率指数（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→纳斯达克指数/标普500指数承压更明显；美元指数上升→黄金价格更易回撤；波动率指数上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且波动率指数抬升→偏纳斯达克指数/标普500指数先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且波动率指数回落→偏纳斯达克指数/标普500指数修复反弹、黄金价格",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Stock Market Today: Dow Wavers After Trump's Latest Iran Comments; ASML …\n- 宏观/Fed线索：Trump threatens to fire Powell if the Fed chair doesn't leave office on …"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：European stocks subdued as Trump signals more Iran talks ahead…\n- 宏观/Fed线索：U.S. Treasury yields hold steady as markets eye Middle East resolution…"
         }
       ]
     },
@@ -27,94 +27,33 @@
       "badge": "Mag7 / Semis",
       "items": [
         {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "Jane Street与CoreWeave签署6亿美元AI云服务协议，增持CoreWeave股份。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/jane-street-signs-6-billion-125224786.html",
-          "title_en": "Jane Street signs $6 billion AI cloud deal with CoreWeave, boosts stake"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "布罗德كم股价上涨，受Meta AI芯片合作伙伴关系影响",
-          "summary": "",
-          "url": "https://www.investors.com/news/technology/broadcom-stock-avgo-meta-ai-chip-partnership/?src=A00220&yptr=yahoo",
-          "title_en": "Broadcom Stock Rises On Meta AI Chip Partnership"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "人工智能的冲击会毁灭微软吗？",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-disruption-crush-microsoft-msft-123533138.html",
-          "title_en": "Will AI Disruption Crush Microsoft (MSFT)?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "APi集团（APG）致力于人工智能相关的倡议",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/api-group-apg-shows-commitment-121221940.html",
-          "title_en": "APi Group (APG) Shows Commitment Towards AI-Related Initiatives"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "NVIDIA竞争对手闪烁着破裂的迹象",
-          "summary": "",
-          "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/broadcom-stock-nvidia-rival-avgo-nvda-tech-flashes-telltale-clues-markets/?src=A00220&yptr=yahoo",
-          "title_en": "Nvidia Rival Flashes Telltale Clues As Breakout Nears"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "微软跳跃至关键水平在衰退的图表中；该股票现在是买入还是卖出？",
-          "summary": "",
-          "url": "https://www.investors.com/research/microsoft-msft-stock-april-2026-buy-now/?src=A00220&yptr=yahoo",
-          "title_en": "Microsoft Jumps To Key Level In Bearish Chart; Is The Stock A Buy Or Sell Now?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "英伟达股价突然大涨",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/nvidia-stock-is-suddenly-on-a-roll-114721332.html",
-          "title_en": "Nvidia stock is suddenly on a roll"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "华尔街对亚马逊收购卫星公司Globalstar的交易表示喜爱",
-          "summary": "",
-          "url": "https://finance.yahoo.com/news/why-wall-street-loves-amazons-deal-to-buy-satellite-firm-globalstar-112914748.html",
-          "title_en": "Why Wall Street loves Amazon's deal to buy satellite firm Globalstar"
-        },
-        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "Jane Street与CoreWeave签署6亿美元AI云服务协议，增持CoreWeave股份。",
+          "time": "2026-04-15 22:11:05",
+          "title": "在AI打击ServiceNow股票时，是否应该买入？",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/jane-street-signs-6-billion-ai-cloud-deal-with-coreweave-boosts-stake-4615477",
-          "title_en": "Jane Street signs $6 billion AI cloud deal with CoreWeave, boosts stake"
+          "url": "https://www.investing.com/news/stock-market-news/should-you-buy-the-dip-in-the-aihit-servicenow-stock-4615629",
+          "title_en": "Should you buy the dip in the AI-hit ServiceNow stock?"
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "ASML在韩国销售大幅增长，受内存芯片需求的推动，成为中国最大的半导体设备供应商。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/asmls-south-korea-sales-surge-on-memory-chip-demand-top-china-93CH-4615440",
-          "title_en": "ASML’s South Korea sales surge on memory chip demand, top China"
+          "time": "2026-04-15 22:07:35",
+          "title": "鞋履零售商Allbirds遭遇困境，突然转变从鞋履到人工智能，股价暴涨超过300%",
+          "summary": "Allbirds宣布与美国交易集团达成协议，将其知识产权和其他资产以39万美元的价格出售。",
+          "url": "https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html",
+          "title_en": "Struggling shoe retailer Allbirds makes bizarre pivot from shoes to AI, stock explodes more than 300%",
+          "summary_en": "Allbirds announced a deal with American Exchange Group to sell its intellectual property and other assets for $39 million in March."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-15 22:00:16",
+          "title": "Snap的股票价格上涨，公司计划裁员16%，称其是为了提高AI效率。",
+          "summary": "Snap在周三的前市交易中上涨，公司宣布计划裁员全球员工16%的比例，称其是由人工智能驱动的效率提高",
+          "url": "https://www.cnbc.com/2026/04/15/snap-stock-layoffs-16-percent-workforce.html",
+          "title_en": "Snap's stock jumps on plans to axe 16% of its workforce citing AI efficiencies",
+          "summary_en": "Snap was up in premarket trading on Wednesday after announcing plans to lay off up to 16% of its global workforce citing AI-driven efficiencies"
         },
         {
           "source": "CNBC-Top",
@@ -129,32 +68,12 @@
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-15 20:39:23",
-          "title": "Snap的股票价格上涨，公司计划裁员16%，称其是为了提高AI效率。",
-          "summary": "Snap在周三的前市交易中上涨，公司宣布计划裁员全球员工16%的比例，称其是由人工智能驱动的效率提高",
-          "url": "https://www.cnbc.com/2026/04/15/snap-stock-layoffs-16-percent-workforce.html",
-          "title_en": "Snap's stock jumps on plans to axe 16% of its workforce citing AI efficiencies",
-          "summary_en": "Snap was up in premarket trading on Wednesday after announcing plans to lay off up to 16% of its global workforce citing AI-driven efficiencies"
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
           "time": "2026-04-15 20:29:04",
           "title": "OpenAI暂停与Stargate Norway数据中心协议，Microsoft接管",
           "summary": "该人工智能初创公司正在与微软进行关于租用计算能力的谈判。",
           "url": "https://www.cnbc.com/2026/04/15/openai-stargate-norway-project-microsoft.html",
           "title_en": "OpenAI pulls back from Stargate Norway data center deal as Microsoft takes over",
           "summary_en": "The AI startup is now in discussions with Microsoft about renting compute capacity"
-        },
-        {
-          "source": "MarketWatch-Top",
-          "ticker": "RSS",
-          "time": "2026-04-15 20:10:00",
-          "title": "大型科技公司的巨大头痛：数十亿美元的AI投资意味着投资者要求结果",
-          "summary": "实施人工智能带来了许多风险——大多数风险都源自其巨大的潜力。",
-          "url": "https://www.marketwatch.com/story/big-techs-giant-headache-billions-in-ai-capital-spending-means-investors-demand-results-451fd572?mod=mw_rss_topstories",
-          "title_en": "Big Tech’s giant headache: billions in AI capital spending means investors demand results",
-          "summary_en": "Implementing AI carries plenty of risks — most of which stem from its tremendous potential."
         },
         {
           "source": "CNBC-Tech",
@@ -195,6 +114,46 @@
           "url": "https://www.cnbc.com/2026/04/14/meta-commits-to-one-gigawatt-of-custom-chips-with-broadcom-as-hock-tan-agrees-to-leave-board.html",
           "title_en": "Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan decides to leave board",
           "summary_en": "Meta commits to deploying 1 GW of custom in-house MTIA chips codesigned with Broadcom in sweeping new multiyear deal announced Tuesday"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-15 07:12:08",
+          "title": "NAACP对Elon Musk的x.ai公司提起诉讼，指控其位于孟菲斯的数据中心空气污染问题。",
+          "summary": "埃隆·穆斯克，世界上最富有的人，依赖孟菲斯大区为xAI的扩张提供基础。",
+          "url": "https://www.cnbc.com/2026/04/14/elon-musk-xai-memphis-data-centers.html",
+          "title_en": "NAACP sues Elon Musk's xAI over Memphis data center air pollution",
+          "summary_en": "Elon Musk, who is the world's richest person, has been counting on the greater Memphis area to serve as the backbone for xAI's buildout."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-04-15 05:01:37",
+          "title": "Nvidia股票连续10天上涨，涨幅达18%",
+          "summary": "Nvidia否认了自己正在与一家大型PC公司谈判的传闻，称在CNBC发表声明时表示“没有参与讨论”。",
+          "url": "https://www.cnbc.com/2026/04/14/nvidia-stock-nvda-ai-streak.html",
+          "title_en": "Nvidia stock is on a 10-day winning streak and up 18% over that stretch",
+          "summary_en": "Nvidia denied rumors that it's in talks to buy a large PC company, telling CNBC in a statement that it's \"not engaged in discussions.\""
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-04-15 04:17:38",
+          "title": "奥拉克尔第二天再次上涨，布鲁姆能源股价暴涨22%，因其与人工智能数据中心电力合作的协议",
+          "summary": "甲骨文股票反弹，因为软件股继续恢复并与Bloom Energy扩大了容量协议。",
+          "url": "https://www.cnbc.com/2026/04/14/oracle-orcl-bloom-energy-be-stock-data-center-ai-power.html",
+          "title_en": "Oracle jumps for a second day, Bloom Energy soars 22% on AI data center power deal",
+          "summary_en": "Oracle stocks bounced as software shares continued to recover and the company expanded a capacity deal with Bloom Energy."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-04-15 00:10:22",
+          "title": "亚马逊计划以约116亿美元的价格收购Globalstar，增强Leo卫星业务。",
+          "summary": "亚马逊称将收购Globalstar，给其初生的卫星互联网业务带来一股新动力，亚马逊正试图与SpaceX的埃隆·马斯克竞争。",
+          "url": "https://www.cnbc.com/2026/04/14/amazon-globalstar-satellite-leo-internet.html",
+          "title_en": "Amazon to buy Globalstar to bolster Leo satellite business in deal worth about $11.6 billion",
+          "summary_en": "Amazon said it would acquire Globalstar, giving its nascent satellite internet business a boost as it vies to compete with Elon Musk's SpaceX."
         }
       ]
     },
@@ -202,6 +161,36 @@
       "name": "美联储与政策",
       "badge": "Fed / Policy",
       "items": [
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-04-15 22:09:07",
+          "title": "美国国债收益率保持稳定，市场关注中东局势解决",
+          "summary": "美国国债收益率周三保持不变，因为投资者正在权衡中东局势的最新发展。",
+          "url": "https://www.cnbc.com/2026/04/15/us-treasury-yields-hold-steady-as-markets-eye-middle-east-resolution.html",
+          "title_en": "U.S. Treasury yields hold steady as markets eye Middle East resolution",
+          "summary_en": "U.S. Treasury yields were unchanged Wednesday as investors weighed the latest developments in the Middle East."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-04-15 21:36:00",
+          "title": "那些新毕业生可以找到好工作并且还能买得起房子的不那么出名的城市",
+          "summary": "最新的排名列出了城市，拥有最佳的就业机会、可负担的住房和生活质量，适合刚毕业的大学生。以下是如何在远程工作中脱颖而出的方法。",
+          "url": "https://www.marketwatch.com/story/the-under-the-radar-cities-where-new-college-grads-can-get-a-good-job-and-even-afford-to-buy-a-house-d750bba8?mod=mw_rss_topstories",
+          "title_en": "The under-the-radar cities where new college grads can get good jobs — and even afford to buy a house",
+          "summary_en": "A new ranking highlights cities with the best job opportunities, affordable housing, and quality of life for recent college grads. Here’s how today’s young workers can stand out in a remote job search."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-15 21:31:35",
+          "title": "克利夫兰联邦储备银行总裁哈马克预计利率将在“一段时间”内保持不变。",
+          "summary": "央行官员呼吁采取耐心的方法，因为官员们正在等待数据以了解美国经济的走向。",
+          "url": "https://www.cnbc.com/2026/04/15/cleveland-fed-president-hammack-expects-interest-rates-to-stay-on-hold-for-a-good-while.html",
+          "title_en": "Cleveland Fed President Hammack expects interest rates to stay on hold 'for a good while'",
+          "summary_en": "The central bank official advocated a patient approach as officials watch incoming data for clues about where the U.S. economy is heading."
+        },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
@@ -211,16 +200,6 @@
           "url": "https://www.cnbc.com/2026/04/15/trump-threatens-to-fire-powell-if-the-fed-chair-doesnt-leave-office-on-his-own.html",
           "title_en": "Trump threatens to fire Powell if the Fed chair doesn't leave office on his own",
           "summary_en": "Though most Fed chairs in the past have left after being replaced, Powell has demurred on what he plans to do."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-04-15 20:44:06",
-          "title": "美国国债收益率保持稳定，市场关注中东局势解决",
-          "summary": "美国国债收益率周三保持不变，因为投资者正在权衡中东局势的最新发展。",
-          "url": "https://www.cnbc.com/2026/04/15/us-treasury-yields-hold-steady-as-markets-eye-middle-east-resolution.html",
-          "title_en": "U.S. Treasury yields hold steady as markets eye Middle East resolution",
-          "summary_en": "U.S. Treasury yields were unchanged Wednesday as investors weighed the latest developments in the Middle East."
         },
         {
           "source": "CNBC-Top",
@@ -239,40 +218,42 @@
       "badge": "Risk / Oil / Gold",
       "items": [
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "股市今日波动：特朗普最新的伊朗评论引发波动；ASML因业绩下滑",
+          "time": "2026-04-15 22:11:05",
+          "title": "欧股低迷，特朗普暗示将再次与伊朗进行谈判",
           "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-peace-talks/?src=A00220&yptr=yahoo",
-          "title_en": "Stock Market Today: Dow Wavers After Trump's Latest Iran Comments; ASML Falls On Earnings (Live Coverage)"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "美股今日：标普500、纳斯达克、道指期货在美伊谈判希望下暂停靠近纪录高点",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/article/stock-market-today-sp-500-nasdaq-dow-futures-hit-pause-near-records-amid-hopes-for-us-iran-talks-231104398.html",
-          "title_en": "Stock market today: S&P 500, Nasdaq, Dow futures hit pause near records amid hopes for US-Iran talks"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "道琼斯期货：纳斯达克连续10天上涨，伊朗希望带动；Nvidia、Google进入买点",
-          "summary": "",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-nvidia-win-streaks-asml-bank-of-america/?src=A00220&yptr=yahoo",
-          "title_en": "Dow Jones Futures: Nasdaq Rides 10-Day Win Streak On Iran Hopes; Nvidia, Google In Buy Areas"
+          "url": "https://www.investing.com/news/stock-market-news/european-stocks-open-mostly-higher-as-trump-signals-more-iran-talks-ahead-4614381",
+          "title_en": "European stocks subdued as Trump signals more Iran talks ahead"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "美国期货价格微幅波动，投资者密切关注伊朗外交努力",
+          "time": "2026-04-15 22:11:05",
+          "title": "股市在开盘时微幅上涨，交易员密切关注伊朗外交努力",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-after-sp-500-nears-record-high-on-usiran-diplomacy-hopes-4614153",
-          "title_en": "U.S. futures little changed as traders keep a close eye on Iran diplomacy efforts"
+          "title_en": "Stocks inch up at the open as traders keep a close eye on Iran diplomacy efforts"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-04-15 21:54:00",
+          "title": "通胀观察：高油价再次抬高进口成本，持续多久？",
+          "summary": "美国3月进口商品价格大幅上涨，连续第三个月出现上涨，预示着未来几个月美国通胀率将进一步上涨，主要原因是油价上涨。",
+          "url": "https://www.marketwatch.com/story/inflation-watch-high-oil-prices-boost-the-cost-of-imports-again-how-long-will-the-pain-last-8202054a?mod=mw_rss_topstories",
+          "title_en": "Inflation watch: High oil prices boost the cost of imports again. How long will the pain last?",
+          "summary_en": "The cost of imported goods rose sharply in March for the third month in a row, heralding further increases in U.S. inflation in the next few months, mostly due to higher oil prices."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-15 21:28:53",
+          "title": "特朗普称伊朗战争“非常接近尾声”，并称股市“将会大幅上涨”。",
+          "summary": "特朗普称，美国已经在军事上击败伊朗，战争“非常接近结束”，并表示可能达成和平协议。",
+          "url": "https://www.cnbc.com/2026/04/15/iran-war-trump-peace-deal-us-talks-stock-market-oil-prices-.html",
+          "title_en": "Iran war 'very close to over,' Trump says — and the stock market 'is going to boom'",
+          "summary_en": "The U.S. has beaten Iran \"militarily\" and that the war is \"very close to over,\" Trump said, claiming a peace deal likely."
         },
         {
           "source": "CNBC-World",
@@ -293,16 +274,6 @@
           "url": "https://www.marketwatch.com/story/the-strait-of-hormuz-could-matter-a-lot-less-in-the-future-heres-how-c3a0cbac?mod=mw_rss_topstories",
           "title_en": "The Strait of Hormuz could matter a lot less in the future — here’s how",
           "summary_en": "Iran played it’s trump card by shutting down oil tanker traffic. It likely won’t be able to use it again."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-15 20:29:00",
-          "title": "特朗普称伊朗战争“非常接近尾声”，并称股市“将会大幅上涨”。",
-          "summary": "特朗普称，美国已经在军事上击败伊朗，战争“非常接近结束”，并表示可能达成和平协议。",
-          "url": "https://www.cnbc.com/2026/04/15/iran-war-trump-peace-deal-us-talks-stock-market-oil-prices-.html",
-          "title_en": "Iran war 'very close to over,' Trump says — and the stock market 'is going to boom'",
-          "summary_en": "The U.S. has beaten Iran \"militarily\" and that the war is \"very close to over,\" Trump said, claiming a peace deal likely."
         },
         {
           "source": "CNBC-Top",
@@ -405,197 +376,208 @@
           "summary_en": "The U.S. blockade of the Strait of Hormuz risks ratcheting up pressure on two of its most consequential relationships in Asia — India and China."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
-          "time": "2026-04-15 03:06:48",
-          "title": "股市继续走强，油价大跌。我们有理由感到担忧。",
-          "summary": "每个工作日，投资俱乐部都会发布Homestretch；一个适时的下午更新，正好赶上交易最后一小时。",
-          "url": "https://www.cnbc.com/2026/04/14/stocks-keep-the-rally-going-and-oil-tumbles-heres-why-we-have-some-trepidation-.html",
-          "title_en": "Stocks keep the rally going and oil tumbles. Here's why we have some trepidation",
-          "summary_en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading."
+          "time": "2026-04-15 01:33:46",
+          "title": "白宫称，美国与伊朗和平协议谈判正在进行中。",
+          "summary": "霍尔木兹海峡的交通仍然处于停滞状态，尽管美国总统唐纳德·特朗普宣称，伊朗与美国的停火协议取决于霍尔木兹海峡重新开放。",
+          "url": "https://www.cnbc.com/2026/04/14/trump-iran-war-strait-of-hormuz-negotiations.html",
+          "title_en": "More U.S.-Iran peace deal talks are in discussion, White House says",
+          "summary_en": "Traffic through the Strait of Hormuz remains at a trickle, despite President Donald Trump proclaiming that a ceasefire with Iran depended on it reopening."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-04-14 17:56:21",
+          "title": "美国对霍尔木兹海峡的封锁刚好碰上印度俄罗斯石油购买豁免期限结束，进一步加剧了能源紧张局势。",
+          "summary": "美国采取行动封锁伊朗，放弃俄罗斯石油豁免，挤压印度的能源供应，暴露其在美方压力下脆弱的状态。",
+          "url": "https://www.cnbc.com/2026/04/14/us-hormuz-blockade-hits-india-just-as-russian-oil-purchase-waiver-expires-deepening-energy-worries.html",
+          "title_en": "U.S. Hormuz blockade hits India just as Russian oil purchase waiver expires, deepening energy worries",
+          "summary_en": "U.S. moves to blockade Iran, and let a Russian oil waiver lapse, squeeze India’s energy supplies, exposing its vulnerability under rising U.S. pressure."
         }
       ]
     },
     {
       "name": "特斯拉链",
       "badge": "TSLA chain",
-      "items": [
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "特斯拉股价：Q1财报三大关注点",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/tesla-stock-3-key-things-to-watch-into-q1-earnings-4615229",
-          "title_en": "Tesla stock: 3 key things to watch into Q1 earnings"
-        }
-      ]
+      "items": []
     },
     {
       "name": "其他",
       "badge": "Other",
       "items": [
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "世界上最大的黄金持有者推出自有保管钱包",
+          "time": "2026-04-15 22:11:05",
+          "title": "Webull 股票大幅上涨，因为SEC批准了对日内交易规则的重大改革",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/major-gold-holder-launches-self-174018917.html",
-          "title_en": "Major gold holder launches self-custody wallet"
+          "url": "https://www.investing.com/news/stock-market-news/webull-shares-surge-as-sec-approves-overhaul-of-pattern-daytrading-rule-4615719",
+          "title_en": "Webull shares surge as SEC approves overhaul of pattern day-trading rule"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "摩根大通给投资者发出一个严厉的警告：市场的弱势可能会持续很长时间。",
+          "time": "2026-04-15 22:11:05",
+          "title": "美国鹰再次上涨，推出第二个西恩妮·苏恩尼（Sydney Sweeney）广告活动后。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-stark-message-investors-market-174700070.html",
-          "title_en": "JPMorgan has stark message for investors on market weakness"
+          "url": "https://www.investing.com/news/stock-market-news/american-eagle-rallies-again-after-launching-second-sydney-sweeney-campaign-4615607",
+          "title_en": "American Eagle rallies again after launching second Sydney Sweeney campaign"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "智能合约（Smart Contract）是指在区块链上自执行的程序，根据预设的条件自动执行一系列的操作。",
+          "time": "2026-04-15 22:11:05",
+          "title": "摩根士丹利交易业务增强，监管放松释放资本",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/what-is-a-smart-contract-130000305.html",
-          "title_en": "What is a smart contract, and how does it work?"
+          "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-boosts-trading-as-deregulation-frees-up-capital-93CH-4615698",
+          "title_en": "Morgan Stanley boosts trading as deregulation frees up capital"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "黄金预测跟踪器：黄金2026年将达到多少高点？",
+          "time": "2026-04-15 22:11:05",
+          "title": "摩根士丹利利润超预期，交易业务和并购业务创下历史新高",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/how-high-will-gold-go-130000257.html",
-          "title_en": "Gold forecast and tracker: How high will gold go in 2026?"
+          "url": "https://www.investing.com/news/stock-market-news/morgan-stanleys-profit-rises-on-dealmaking-trading-boost-4615137",
+          "title_en": "Morgan Stanley’s profit beats estimates on record trading revenue, dealmaking boost"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "中期看多。",
+          "time": "2026-04-15 22:11:05",
+          "title": "华尔街开盘高涨，业绩报告成为关注点",
           "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46736_TechnicalAnalysis_1776250883000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Technical Assessment: Bullish in the Intermediate-Term"
+          "url": "https://www.investing.com/news/stock-market-news/wall-street-opens-higher-with-earnings-in-focus-4615673",
+          "title_en": "Wall Street opens higher with earnings in focus"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "库存克罗斯（Costco）披露消费者支出行为的转变",
+          "time": "2026-04-15 22:11:05",
+          "title": "航空公司应对燃油成本飙升的措施：",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/articles/costco-reveals-shift-shopper-spending-180800970.html",
-          "title_en": "Costco reveals shift in shopper spending behavior"
+          "url": "https://www.investing.com/news/stock-market-news/factboxprice-hikes-outlook-cuts--what-airlines-are-doing-as-fuel-costs-surge-4615670",
+          "title_en": "Factbox-Price hikes, outlook cuts - What airlines are doing as fuel costs surge"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "比特矿业报告38亿美元亏损，随着以太坊价格下滑",
+          "time": "2026-04-15 22:11:05",
+          "title": "瑞士银行(UBS)承诺捍卫其业务模式，因为瑞士资本论的辩论加剧。",
           "summary": "",
-          "url": "https://finance.yahoo.com/news/bitmine-reports-3-8-billion-125000138.html",
-          "title_en": "Bitmine Reports $3.8 Billion Loss As Ethereum Sinks"
+          "url": "https://www.investing.com/news/stock-market-news/ubs-chairman-says-key-business-decisions-may-soon-become-unavoidable-4614544",
+          "title_en": "UBS vows to fight for business model as Swiss capital debate heats up"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "市场摘要：IART、LEN、WFC、BLK、SOFI",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_46733_MarketSummary_1776250228000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Market Digest: IART, LEN, WFC, BLK, SOFI"
+          "time": "2026-04-15 22:04:57",
+          "title": "Kalshi和Polymarket被视为非法内幕交易和赌博，受到国会关注",
+          "summary": "预测市场的热潮引发了监管机构和国会的关注。",
+          "url": "https://www.cnbc.com/2026/04/15/kalshi-and-polymarket-congress-regulation-washington-influence.html",
+          "title_en": "Kalshi, Polymarket lobby as insider trading, betting eyed by Congress",
+          "summary_en": "Prediction markets have boomed, inviting increased scrutiny from regulators and Congress."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "银行美国表示消费者仍然坚固，ASML股价下跌",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/article/earnings-live-updates-bank-of-america-says-consumer-still-solid-asml-stock-drops-104416903.html",
-          "title_en": "Earnings live updates: Bank of America says consumer still solid, ASML stock drops"
+          "time": "2026-04-15 21:52:03",
+          "title": "联航CEO在去年秋天就曾考虑过合并，事实上是在考虑合并几个月后才将此事提给了特朗普政府。",
+          "summary": "美国联合航空公司(UA)CEO斯科特·基里比(Scott Kirby)表示，美国航空公司的下一阶段是如何更好地在全球竞争。",
+          "url": "https://www.cnbc.com/2026/04/15/united-ceo-kirby-american-airlines-potential-merger.html",
+          "title_en": "United CEO had been considering a merger last fall, months before bringing it up to the Trump administration",
+          "summary_en": "United Airlines CEO Scott Kirby has said the next phase for U.S. carriers is figuring out how to better compete on a global stage."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "MarketWatch-Top",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "美国买房：\"我买房的钱被挤压得很紧。\"他可能会自己盖一栋。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/economy/articles/homebuying-america-m-kind-squeezed-121500629.html",
-          "title_en": "Homebuying in America: “I’m kind of squeezed out of buying a house.” He might build one instead"
+          "time": "2026-04-15 21:45:00",
+          "title": "美国银行股价攀升至两个月新高，主要受其股权业务收入大幅增长（30%）所推动。",
+          "summary": "美国银行的强劲季度业绩得益于市场波动和更容易的监管环境。",
+          "url": "https://www.marketwatch.com/story/bank-of-americas-30-jump-in-equities-revenue-helps-power-an-earnings-beat-ed68c336?mod=mw_rss_topstories",
+          "title_en": "Bank of America’s 30% jump in equities revenue pushes stock toward a two-month high",
+          "summary_en": "Bank of America’s strong quarterly results were helped by market volatility and an easier regulatory environment."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "MarketWatch-Top",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "密歇根州一位女性不愿放弃她所渴望的2.8%的抵押贷款利率。  The Ramsey Show 告诉她这根本不是一个问题。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/michigan-woman-reluctant-bail-coveted-121300740.html",
-          "title_en": "Michigan woman reluctant to bail on coveted 2.8% mortgage rate. The Ramsey Show tells her it’s not even a real question"
+          "time": "2026-04-15 21:44:00",
+          "title": "4月15日是纳税申报截止日——而这也对股市来说是一个重要的日子",
+          "summary": "策略斯研究人员警告说，投资者即将失去一个几个月来支撑股市的财务缓冲。",
+          "url": "https://www.marketwatch.com/story/april-15-is-tax-deadline-day-but-heres-why-its-also-important-for-the-stock-market-3eeea6a8?mod=mw_rss_topstories",
+          "title_en": "April 15 is tax deadline day — and here’s why it’s also important for the stock market",
+          "summary_en": "Investors are about to lose a financial cushion that’s been supporting the stock market for months, warns Strategas researchers."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "MarketWatch-Top",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "分析报告：Lennar Corp",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3141_AnalystReport_1776250228000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Lennar Corp"
+          "time": "2026-04-15 21:37:00",
+          "title": "荷兰是最有可能赢得世界杯的国家。",
+          "summary": "荷兰队的风险需要被理解。",
+          "url": "https://www.marketwatch.com/story/the-netherlands-is-the-best-bet-to-win-the-fifa-world-cup-32ec7460?mod=mw_rss_topstories",
+          "title_en": "This financial model says the Netherlands is the best bet to win the FIFA World Cup",
+          "summary_en": "The man who predicted the tournament’s last three winners says you need to understand the risks of gambling on the Dutch."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "Dycom Industries (DY) 提供了一个有吸引力的进入点，随着股价下跌。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dycom-industries-dy-offers-attractive-121226226.html",
-          "title_en": "Dycom Industries (DY) Offers Attractive Entry Point Following Stock Selloff"
+          "time": "2026-04-15 21:35:58",
+          "title": "美国银行首席执行官布莱恩·莫伊尼汉称，消费者银行业务“健康”。",
+          "summary": "美国第二大银行资产银行美银(Bank of America)连续23个季度都超过了每股收益预期。",
+          "url": "https://www.cnbc.com/2026/04/15/bank-of-america-bac-earnings-q1-2026.html",
+          "title_en": "Bank of America tops estimates as CEO Brian Moynihan says consumer banking is 'healthy'",
+          "summary_en": "Bank of America, the second-largest U.S. bank by assets, has topped expectations for earnings per share for 23 consecutive quarters."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "MarketWatch-Top",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "摩根士丹利首季营收创历史新高",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-posts-record-q1-125018962.html",
-          "title_en": "Morgan Stanley posts record Q1 2026 revenue on trading gains"
+          "time": "2026-04-15 21:34:00",
+          "title": "大盘股市指数接近“超买”区域。上一次达到这些水平发生了什么？",
+          "summary": "上一次动量指标达到如此高的水平，指数在接下来的几周内都出现了显著的回调。",
+          "url": "https://www.marketwatch.com/story/major-stock-market-indexes-approach-overbought-territory-after-swift-rally-8a2536e7?mod=mw_rss_topstories",
+          "title_en": "Major stock-market indexes approach ‘overbought’ territory. What happened the last time they were at these levels.",
+          "summary_en": "Last time momentum measures were this high indices saw notable pullbacks in the next few weeks"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "Stantec Inc. (STN) 被欧洲投资银行选为气候适应咨询服务供应商",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/stantec-inc-stn-selected-european-121227400.html",
-          "title_en": "Stantec Inc. (STN) Selected by European Investment Bank for Climate Adaption Advisory"
+          "time": "2026-04-15 21:29:10",
+          "title": "美国众议员埃里克·斯瓦威尔（Eric Swalwell）被指控犯有强奸罪，洛杉矶县警署（LA County Sheriff's Dept.）正在调查此事。",
+          "summary": "埃里克·斯瓦威尔已经面临曼哈顿地区检察官办公室对他性侵指控的刑事调查。",
+          "url": "https://www.cnbc.com/2026/04/14/eric-swalwell-accuser-rape-california.html",
+          "title_en": "Eric Swalwell investigated for alleged rape of Lonna Drewes, LA County Sheriff's Dept. says",
+          "summary_en": "Eric Swalwell already faced a pending criminal investigation by the Manhattan DA's office over an allegation of sexual assault by another woman."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-World",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "为什么Construction Partners（ROAD）是投资的最佳建筑与工程公司",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-construction-partners-road-one-121224105.html",
-          "title_en": "Here is Why Construction Partners (ROAD) is One of the Best Construction & Engineering Names to Invest in"
+          "time": "2026-04-15 21:27:07",
+          "title": "欧洲股市走势不一，奢侈品业衰退影响市场情绪",
+          "summary": "欧洲股市周三开盘呈现两极分化的态势，地区交易员正在评估美伊战争的走向。",
+          "url": "https://www.cnbc.com/2026/04/15/european-markets-stox-600-ftse-dax-cac-iran-latest-oil-prices.html",
+          "title_en": "European stocks mixed as luxury slump weighs on sentiment",
+          "summary_en": "European stocks opened in mixed territory on Wednesday as regional traders assess the trajectory of the U.S.-Iran war."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "WillScot Holdings (WSC) 提供了潜在的上涨空间，尽管租赁单位表现平淡。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/willscot-holdings-wsc-offers-upside-121223134.html",
-          "title_en": "WillScot Holdings (WSC) Offers Upside Despite Subdued Rental Units"
+          "time": "2026-04-15 21:24:39",
+          "title": "摩根士丹利超越预期，交易收入超过预期近10亿美元",
+          "summary": "摩根士丹利在季度的表现得益于该公司的固定收益和股票交易业务，后者产生了约850亿美元的收入。",
+          "url": "https://www.cnbc.com/2026/04/15/morgan-stanley-ms-earnings-1q-2026.html",
+          "title_en": "Morgan Stanley tops estimates as trading revenue exceeds expectations by nearly $1 billion",
+          "summary_en": "Morgan Stanley's results in the quarter were powered by the firm's fixed income and equities trading operations, which produced about $8.5 billion in revenue."
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-15 21:09:51",
-          "title": "分析报告：Wells Fargo & Co",
-          "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3519_AnalystReport_1776250228000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Wells Fargo & Co"
+          "time": "2026-04-15 21:11:20",
+          "title": "特朗普账户注册5百万名儿童，其中1.2百万名儿童符合资格获得1000美元的启动资金，贝森特说。",
+          "summary": "特朗普账户已经注册了5000万名孩子，根据财政部长斯科特·贝森特的说法。以下是家庭需要了解的内容。",
+          "url": "https://www.cnbc.com/2026/04/15/trump-accounts.html",
+          "title_en": "Trump accounts sign up 5 million kids, with 1.2 million eligible for $1,000 seed money, Bessent says",
+          "summary_en": "Trump accounts have signed up 5 million kids, according to Treasury Secretary Scott Bessent. Here's what families need to know."
         }
       ]
     }
