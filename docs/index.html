@@ -99,6 +99,167 @@
 
       <section class="hero"><div class="hero-top"><div class="hero-title">主线结论</div><div class="hero-time">2026-04-16 12:26:27</div></div><div class="hero-body">**市场走势**：美股与亚洲股市在日本日经指数创历史新高的带动下大涨，特朗普宣称伊朗战争"非常接近尾声"并预测股市"将大幅上涨"，美伊协议希望推动全球风险偏好；亚马逊115亿美元Globalstar协议正式向SpaceX Starlink宣战，太空互联网战役正式打响，华尔街押注数十亿美元于低调AI股。<br><br>**核心驱动**：<br>• 特朗普宣称伊朗战争"非常接近尾声"是本周最明确的政策转向信号，若证实将改写全球地缘格局，油价下行+风险偏好回暖双轮驱动<br>• 亚马逊115亿美元攻击SpaceX Starlink显示太空互联网竞争进入大厂资本对抗时代，低调AI股获华尔街数十亿美元押注显示资金正在分散布局<br>• 美伊协议希望推动日经指数创历史新高，亚洲股市跟涨，全球股市风险偏好处于数月来最强状态<br><br>**政治人物表态**：<br>• 特朗普：伊朗战争"非常接近尾声"，股市"将会大幅上涨"<br>• Jeneane Piro：正就Powell调查上诉期限采取紧急法律行动<br>• 财长Bessent：正在为银行收集公民身份数据做准备<br><br>**风险提示**：Trump"大幅上涨"预言若兑现，标普500或突破7000创历史新高；但"时日无多"的Powell若在本周被解雇，Fed政策框架崩塌将令所有看涨预测失效。</div></section>
 
+      <section class="card ai-news-carousel">
+<h2>
+  <span>🤖 AI 新闻（每30分钟更新）</span>
+  <span class="badge">3</span>
+</h2>
+<div class="ai-carousel-wrapper">
+  <button class="carousel-btn carousel-prev" onclick="aiNewsCarousel.prev()">‹</button>
+  <div class="ai-carousel-container">
+    <div class="ai-carousel-page active" data-page="0">
+      <div class="tlist">
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="https://features.financialjuice.com/2026/04/15/hope-over-talks-is-causing-stocks-to-erase-war-losses-asia-market-wrap/" target="_blank" rel="noreferrer noopener">美伊谈判的乐观情绪推动全球股市收复战争失地，MSCI指数连续9日上涨。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">美伊重启谈判希望推动全球市场上涨，中美印三大MSCI指数均已收复中东战争以来全部跌幅。标普500逼近1月底历史高位，布伦特原油维持100美元/桶下方，铜价升至逾一个月高位。MSCI全球指数连涨第九日，为去年9月以来最长连胜。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="https://features.financialjuice.com/2026/04/14/stocks-turn-positive-for-2026-as-deal-hopes-offset-geopolitical-risks-us-market-wrap-2/" target="_blank" rel="noreferrer noopener">标普500指数转正，美伊停火希望抵消地缘风险，油价单日暴跌4%。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">标普500指数涨1.2%，纳指100飙升1.8%，连续第10日上涨（2021年以来最长）。布伦特原油价格单日大跌4%至95美元/桶，国际能源署（IEA）警告冲突可能导致全球石油需求增长自疫情以来首次归零。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">融资</div>
+            <div>
+              <a class="ttitle" href="https://features.financialjuice.com/2026/04/15/stocks-drop-as-investors-await-details-of-the-peace-talks-europe-market-wrap/" target="_blank" rel="noreferrer noopener">美股市场周二下跌，投资者等待美伊和平谈判的细节落地。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">此前乐观情绪推动的涨幅出现获利了结，股市小幅回落，投资者等待美伊谈判的具体细节以确认地缘风险是否真正缓解。</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-btn carousel-next" onclick="aiNewsCarousel.next()">›</button>
+</div>
+<div class="carousel-dots">
+  <span class="carousel-dot active" data-page="0" onclick="aiNewsCarousel.goTo(0)"></span>
+</div>
+<script>
+const aiNewsCarousel = {
+  currentPage: 0,
+  totalPages: 1,
+  
+  goTo(page) {
+    if (page < 0 || page >= this.totalPages) return;
+    
+    document.querySelectorAll('.ai-carousel-page').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll('.carousel-dot').forEach(d => d.classList.remove('active'));
+    
+    document.querySelector(`.ai-carousel-page[data-page="${page}"]`).classList.add('active');
+    document.querySelector(`.carousel-dot[data-page="${page}"]`).classList.add('active');
+    
+    this.currentPage = page;
+  },
+  
+  next() {
+    this.goTo((this.currentPage + 1) % this.totalPages);
+  },
+  
+  prev() {
+    this.goTo((this.currentPage - 1 + this.totalPages) % this.totalPages);
+  }
+};
+
+document.addEventListener('keydown', (e) => {
+  if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+  if (e.key === 'ArrowLeft') aiNewsCarousel.prev();
+  if (e.key === 'ArrowRight') aiNewsCarousel.next();
+});
+</script>
+<style>
+.ai-news-carousel {
+  position: relative;
+}
+
+.ai-carousel-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ai-carousel-container {
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+.ai-carousel-page {
+  display: none;
+}
+
+.ai-carousel-page.active {
+  display: block;
+}
+
+.carousel-btn {
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  color: var(--text);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+  flex-shrink: 0;
+}
+
+.carousel-btn:hover {
+  background: rgba(255,255,255,0.15);
+  border-color: rgba(255,255,255,0.3);
+  transform: scale(1.05);
+}
+
+.carousel-btn:active {
+  transform: scale(0.95);
+}
+
+.carousel-dots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 0 8px;
+}
+
+.carousel-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.2);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.carousel-dot:hover {
+  background: rgba(255,255,255,0.4);
+  transform: scale(1.2);
+}
+
+.carousel-dot.active {
+  background: rgba(255,176,32,0.8);
+  width: 24px;
+  border-radius: 4px;
+}
+</style>
+</section>
+
+
+
       <div class="grid3">
         <section class="card"><h2><span>📊 指数/科技</span><span class="badge">18</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-04-16 12:26:05</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/why-wall-street-betting-billions-163000497.html" target="_blank" rel="noreferrer noopener">华尔街押注数十亿美元在这个低调的AI股上</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-16 12:26:05</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/amazon-declares-war-starlink-11-163700357.html" target="_blank" rel="noreferrer noopener">亚马逊宣布对StarLink发起攻击：$115亿全球星协议点燃太空互联网战役</a></div>
