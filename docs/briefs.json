@@ -1,6 +1,6 @@
 {
   "date": "2026.04.17",
-  "generatedAtBJT": "2026-04-17 18:01:38",
+  "generatedAtBJT": "2026-04-17 19:02:18",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,7 +14,7 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-17 18:01:38",
+          "time": "2026-04-17 19:02:18",
           "title": "主线结论（系统版｜条件触发）",
           "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克指数/标普500指数承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克指数/标普500指数先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克指数/标普500指数修复反弹、黄金价格喘息；操作偏好：回踩参与、避免",
           "url": "#",
@@ -29,16 +29,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
-          "title": "前苹果高管离开福特公司的技术重组",
-          "summary": "",
-          "url": "https://www.barrons.com/articles/former-apple-exec-to-leave-ford-stock-is-down-ab1e3ee4?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Former Apple Exec Leaves Ford in Tech Reorganization"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
+          "time": "2026-04-17 19:02:14",
           "title": "台积电提高收入预测，承诺增加资本支出以满足AI芯片需求",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-set-post-50-quarterly-000551299.html",
@@ -47,20 +38,40 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
-          "title": "股市今日，4月15日：D-Wave Quantum Inc.大幅上涨，Nvidia的Ising模型推动量子股的反弹",
+          "time": "2026-04-17 19:02:14",
+          "title": "Allbirds的奇怪转变：从鞋子到AI，市场的疯狂仍在继续",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-april-15-220624090.html",
-          "title_en": "Stock Market Today, April 15: D-Wave Quantum Inc. Surges as Nvidia’s Ising Models Fuel Rally in Quantum Stocks"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/allbirds-bizarre-pivot-shoes-ai-230714084.html",
+          "title_en": "Allbirds' bizarre pivot from shoes to AI: The market's madness continues"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
-          "title": "股市今日，4月15日：Eos Energy Enterprises因与人工智能数据中心电力合作伙伴关系而大幅上涨",
+          "time": "2026-04-17 19:02:14",
+          "title": "Rigetti (RGTI) 与量子股价大幅上涨，得益于Nvidia的支持",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-april-15-220657501.html",
-          "title_en": "Stock Market Today, April 15: Eos Energy Enterprises Jumps on AI Data Center Power Partnership"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rigetti-rgti-quantum-stocks-climb-010835750.html",
+          "title_en": "Rigetti (RGTI), Quantum Stocks Climb ‘Double-Digits’ on Nvidia Support"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-04-17 19:00:00",
+          "title": "这两个行业因AI的希望而受到了推动。投资者应该买入其中一个行业，调整对另一个行业的暴露。",
+          "summary": "研究机构Ned Davis Research表示，技术领域的发展使市场上涨空间更大。",
+          "url": "https://www.marketwatch.com/story/these-two-sectors-have-been-boosted-by-ai-hopes-why-investors-should-buy-one-and-trim-exposure-to-the-other-55f7a34a?mod=mw_rss_topstories",
+          "title_en": "These two sectors have been boosted by AI hopes. Why investors should buy one, and trim exposure to the other.",
+          "summary_en": "Technology has lifted the market higher and has further to go, says Ned Davis Research"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-17 18:54:58",
+          "title": "一些杂货店正在使用人工智能来减少食品浪费并提高利润率。",
+          "summary": "超市开始使用人工智能定价以减少浪费、保护利润并竞争价格敏感的顾客——瞄准动态定价折扣。",
+          "url": "https://www.cnbc.com/2026/04/17/some-grocers-are-using-ai-to-cut-food-waste-and-boost-profit-margins.html",
+          "title_en": "Some grocers are using AI to cut food waste and boost profit margins",
+          "summary_en": "Grocers turn to AI pricing to cut waste, protect margins and compete for deal-seeking shoppers—targeting dynamic pricing discounts."
         },
         {
           "source": "CNBC-Top",
@@ -161,16 +172,6 @@
           "url": "https://www.cnbc.com/2026/04/15/public-opinion-ai-data-centers-anthropic-openai-ipo.html",
           "title_en": "The public sours on AI and data centers as Anthropic, OpenAI look to IPO and tech keeps spending",
           "summary_en": "Negativity around AI could be a drag on OpenAI and Anthropic as the startups look to go public, and will likely be a major issue in the midterm elections."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-04-16 06:41:59",
-          "title": "鞋履零售商Allbirds面临困境，突然转变为人工智能公司，股价增值1270万美元。",
-          "summary": "Allbirds宣布与美国交易集团达成协议，将其知识产权和其他资产以39万美元的价格出售。",
-          "url": "https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html",
-          "title_en": "Struggling shoe retailer Allbirds makes bizarre pivot to AI, adds $127 million in value",
-          "summary_en": "Allbirds announced a deal with American Exchange Group to sell its intellectual property and other assets for $39 million in March."
         }
       ]
     },
@@ -181,11 +182,20 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
+          "time": "2026-04-17 19:02:14",
           "title": "预计房贷利率何时降至5%",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-to-5-201806162.html",
           "title_en": "When will mortgage rates go down to 5%?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-17 19:02:14",
+          "title": "白宫分析称，禁止稳定币收益几乎不会增加贷款",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/banks-wont-white-house-analysis-230103504.html",
+          "title_en": "Banks Won't Like This: White House Analysis Says Banning Stablecoin Yield Barely Boosts Lending"
         },
         {
           "source": "MarketWatch-Top",
@@ -228,7 +238,7 @@
           "summary_en": "Treasury Secretary Scott Bessent says the Trump administration expects banks to comply in collecting citizenship information from customers."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-04-16 21:58:42",
           "title": "纽约联邦储备银行总裁威廉斯担忧战争会减缓增长，恶化通胀",
@@ -256,7 +266,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
+          "time": "2026-04-17 19:02:14",
           "title": "石油价格的50%上涨引发超周期讨论，但风险仍存在",
           "summary": "",
           "url": "https://finance.yahoo.com/sectors/energy/articles/oil-50-surge-sparks-supercycle-230000067.html",
@@ -265,7 +275,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
+          "time": "2026-04-17 19:02:14",
           "title": "更多日本企业反对加息，伊朗战争阴影笼罩经济前景：路透社调查",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/policy/articles/more-japanese-firms-no-rate-230215716.html",
@@ -274,7 +284,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
+          "time": "2026-04-17 19:02:14",
           "title": "国际货币基金组织(IMF)警告称，高油价可能导致全球经济衰退",
           "summary": "",
           "url": "https://finance.yahoo.com/economy/articles/imf-warns-potential-global-recession-000000844.html",
@@ -283,29 +293,40 @@
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
-          "title": "德国敦促欧洲利用jet燃料储备应对伊朗战争",
+          "time": "2026-04-17 19:02:14",
+          "title": "杰弗里斯称油价回落缓解加拿大加息预期",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/germany-urges-europe-to-tap-jet-fuel-reserves-amid-iran-war-93CH-4619821",
-          "title_en": "Germany urges Europe to tap jet fuel reserves amid Iran war"
+          "url": "https://www.investing.com/news/stock-market-news/jefferies-says-oil-pullback-eases-canada-ratehike-bets-93CH-4619972",
+          "title_en": "Jefferies says oil pullback eases Canada rate-hike bets"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
-          "title": "全球股市保持接近历史新高，油价维持在100美元以下，基于和平协议的希望。",
+          "time": "2026-04-17 19:02:14",
+          "title": "美国股指期货周末料保持涨势，受伊朗和平希望的推动。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/stocks-set-for-weekly-gain-oil-below-100-on-peace-deal-hopes-4619687",
-          "title_en": "World stocks hold near record highs, oil keeps below $100 on peace deal hopes"
+          "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-after-record-highs-on-iran-talks-hopes-netflix-shares-drop-4619640",
+          "title_en": "U.S. stock futures on track for weekly gains amid Iran peace hopes"
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
-          "title": "特朗普暗示将在周末与伊朗举行会谈，因为以色列-黎巴嫩停火似乎已经维持。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/trump-hints-at-weekend-iran-talks-as-israellebanon-ceasefire-appears-to-hold-4619814",
-          "title_en": "Trump hints at weekend Iran talks as Israel-Lebanon ceasefire appears to hold"
+          "time": "2026-04-17 18:51:01",
+          "title": "特朗普面临着从哈瓦那到霍尔木兹的挑战。",
+          "summary": "从古巴到波斯湾，特朗普将面临新的挑战。",
+          "url": "https://www.cnbc.com/2026/04/17/trump-tanker-diplomacy-hormuz-cuba-iran-war.html",
+          "title_en": "Tanker diplomacy: Trump faces tests from Havana to Hormuz",
+          "summary_en": "From Cuba to the Persian Gulf, Trump is expected to face fresh challenges across a new arc of tanker diplomacy."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-04-17 18:06:00",
+          "title": "石油价格下跌，特朗普称伊朗战争应该很快结束",
+          "summary": "美国西得克萨斯轻质原油和布伦特原油价格下跌，因为美国总统唐纳德·特朗普表示，和平协议有望实现。",
+          "url": "https://www.marketwatch.com/story/oil-prices-dropping-after-trump-says-iran-war-should-end-pretty-soon-da53676a?mod=mw_rss_topstories",
+          "title_en": "Oil prices dropping after Trump says Iran war should end ‘pretty soon’",
+          "summary_en": "West Texas Intermediate and Brent crude fell after U.S. President Donald Trump said it’s looking ‘very good’ that a truce will be made"
         },
         {
           "source": "CNBC-Top",
@@ -316,16 +337,6 @@
           "url": "https://www.cnbc.com/2026/04/17/israel-lebanon-ceasefire-interest-rates-iran-inflation.html",
           "title_en": "Israel's central bank chief pins hopes on peace as economic shock looms",
           "summary_en": "Israel's central bank governor hopes a swift resolution to the wars in Lebanon and Iran can ease a growth shock."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-04-17 16:37:21",
-          "title": "欧洲股市走势不一，伊朗战争持续受到关注",
-          "summary": "尽管美国总统唐纳德·特朗普（Donald Trump）表示战争“很快就会结束”，但持续的冲突仍然影响着全球情绪。",
-          "url": "https://www.cnbc.com/2026/04/17/europe-stock-market-stoxx-600-ftse-100-trump-iran-war-oil.html",
-          "title_en": "European stocks mixed as Iran war stays in focus",
-          "summary_en": "The ongoing conflict is weighing on global sentiment despite assurances from U.S. President Donald Trump that the war “should be ending pretty soon.”"
         },
         {
           "source": "CNBC-Top",
@@ -402,7 +413,17 @@
     {
       "name": "特斯拉链",
       "badge": "TSLA chain",
-      "items": []
+      "items": [
+        {
+          "source": "Investing-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-17 19:02:14",
+          "title": "高盛提高了中国机器人出租车车队预测，并称购买这两只股票。",
+          "summary": "",
+          "url": "https://www.investing.com/news/stock-market-news/goldman-raises-china-robotaxi-fleet-forecast-and-says-buy-these-2-stocks-4619942",
+          "title_en": "Goldman raises China robotaxi fleet forecast and says buy these 2 stocks"
+        }
+      ]
     },
     {
       "name": "其他",
@@ -411,7 +432,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
+          "time": "2026-04-17 19:02:14",
           "title": "127岁零售商确认2026年将有更多裁员",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/127-old-retailer-confirms-more-231700401.html",
@@ -420,52 +441,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
-          "title": "税款返还抵免是指政府从您的退税中扣除欠税或其他债务的过程。以下是五种情况下，IRS可能会扣除您的退税：\n\n1. 未缴税款：如果您欠税款，IRS可能会扣除退税以抵消欠税。\n2. 债务：如果您欠政府债务，例如学生贷款或联邦政府贷款，IRS可能会扣除退税以抵消债务。\n3. 支付延误：如果您未按时支付税款或其他债务，IRS可能会扣除退税以抵消欠款。\n4. 税款抵押：如果您欠税款并且没有支付，IRS可能会扣除退税以抵消欠税。\n5. 刑事罚款：如果您因犯罪行为被判罚款，IRS可能会扣除退税以抵消罚款。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refund-offset-201937068.html",
-          "title_en": "What is a tax refund offset? 5 reasons the IRS can seize your refund."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
-          "title": "银行赚钱的方式有很多。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/how-do-banks-make-money-192517968.html",
-          "title_en": "How do banks make money?"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
-          "title": "今年IRS员工人数下降了27%。这意味着你的税款退款会受到什么影响。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/taxes/article/irs-staffing-is-down-by-27-this-year-what-that-means-for-your-tax-refund-130052892.html",
-          "title_en": "IRS staffing is down by 27% this year. What that means for your tax refund."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
-          "title": "在下一个十年里，银价预测如下：\n\n1. 银价将持续上涨，达到每盎司100美元以上。\n2. 银价将受到供应和需求的影响，特别是新能源汽车和电子产品的需求增加。\n3. 银价将受到美元指数的影响，美元指数的波动将对银价产生重大影响。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/3-predictions-about-silver-prices-in-the-next-decade-130000313.html",
-          "title_en": "3 predictions about silver prices in the next decade"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
-          "title": "美国人在申报税务时容易犯的7个常见错误，以及如何避免它们。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/taxes/article/7-common-tax-filing-mistakes-americans-make-and-how-to-avoid-them-205435004.html",
-          "title_en": "7 common tax-filing mistakes Americans make and how to avoid them"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
+          "time": "2026-04-17 19:02:14",
           "title": "首都银行推出新款商务卡Venture Business卡，暂时限时提供150,000英里入门奖励",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/capital-one-venture-business-card-193020902.html",
@@ -474,52 +450,25 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
-          "title": "今天是纳税日，仍有时间申请IRS税延期。",
+          "time": "2026-04-17 19:02:14",
+          "title": "今年IRS员工人数下降了27%。这意味着你的税款退款会受到什么影响。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/taxes/article/its-tax-day-you-still-have-time-to-file-an-irs-tax-extension-220004581.html",
-          "title_en": "It's Tax Day. You still have time to file an IRS tax extension."
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/irs-staffing-is-down-by-27-this-year-what-that-means-for-your-tax-refund-130052892.html",
+          "title_en": "IRS staffing is down by 27% this year. What that means for your tax refund."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
-          "title": "7年汽车贷款正变得越来越流行。以下是所有隐含的成本。",
+          "time": "2026-04-17 19:02:14",
+          "title": "银行赚钱的方式有很多。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/7-year-car-loans-are-gaining-popularity-here-are-all-the-hidden-costs-150735153.html",
-          "title_en": "7-year car loans are gaining popularity. Here are all the hidden costs."
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/how-do-banks-make-money-192517968.html",
+          "title_en": "How do banks make money?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
-          "title": "如何投资加密货币：初学者的指南",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-cryptocurrency-for-beginners-155910593.html",
-          "title_en": "How to invest in cryptocurrency: A beginner's guide"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
-          "title": "纳税日救援忽视了以比特币为投资的用户们被资本利得申报表埋没",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/tax-day-relief-skips-bitcoin-215325851.html",
-          "title_en": "Tax Day Relief Skips Bitcoin Users Buried in Capital Gains Paperwork"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
-          "title": "美国是对能源冲击最具韧性的国家，直到它不是。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/u-most-resilient-energy-shock-220000195.html",
-          "title_en": "U.S. Is Most Resilient to the Energy Shock, Until It Isn’t"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
+          "time": "2026-04-17 19:02:14",
           "title": "53万纳税人索取了特朗普的新税法。四项关键变化带来更大的退税。",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/taxes/article/53-million-filers-claimed-trumps-new-tax-cuts-4-key-changes-that-boosted-refunds-130013823.html",
@@ -528,34 +477,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
-          "title": "豆类价格周三走强",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-post-strength-wednesday-221019743.html",
-          "title_en": "Soybeans Post Strength on Wednesday"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
-          "title": "棉花周三大涨",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/cotton-rallying-wednesday-221019135.html",
-          "title_en": "Cotton Rallying on Wednesday"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
-          "title": "玉米价格周三上涨",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/corn-rallies-wednesday-221019938.html",
-          "title_en": "Corn Rallies on Wednesday"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
+          "time": "2026-04-17 19:02:14",
           "title": "这个股息股票变得太便宜了，不得不考虑买入：你该买吗？",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-stock-becoming-too-cheap-233002411.html",
@@ -564,11 +486,110 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-17 18:01:34",
-          "title": "索拉纳在第一季度占链上交易市场份额达41%",
+          "time": "2026-04-17 19:02:14",
+          "title": "有10,000美元吗？ 3只增长股已经证明它们可以击败市场。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/solana-captures-41-onchain-trading-220000709.html",
-          "title_en": "Solana captures 41% onchain trading market share in Q1"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/got-10-000-3-growth-230500775.html",
+          "title_en": "Got $10,000? 3 Growth Stocks That Have Already Proved They Can Crush the Market."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-17 19:02:14",
+          "title": "J.B. Hunt Transport Services, Inc. Q1 2026财报电话会议总结",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/j-b-hunt-transport-services-001927279.html",
+          "title_en": "J.B. Hunt Transport Services, Inc. Q1 2026 Earnings Call Summary"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-17 19:02:14",
+          "title": "税款返还抵免是指政府从您的退税中扣除欠税或其他债务的过程。以下是五种情况下，IRS可能会扣除您的退税：\n\n1. 未缴税款：如果您欠税款，IRS可能会扣除退税以抵消欠税。\n2. 债务：如果您欠政府债务，例如学生贷款或联邦政府贷款，IRS可能会扣除退税以抵消债务。\n3. 支付延误：如果您未按时支付税款或其他债务，IRS可能会扣除退税以抵消欠款。\n4. 税款抵押：如果您欠税款并且没有支付，IRS可能会扣除退税以抵消欠税。\n5. 刑事罚款：如果您因犯罪行为被判罚款，IRS可能会扣除退税以抵消罚款。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/personal-finance/taxes/article/tax-refund-offset-201937068.html",
+          "title_en": "What is a tax refund offset? 5 reasons the IRS can seize your refund."
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-17 19:02:14",
+          "title": "摩根士丹利降低Cheniere Energy (LNG)股价目标 尽管Q1表现强劲",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-lowers-cheniere-energy-lng-004311061.html",
+          "title_en": "JPMorgan Lowers Cheniere Energy (LNG) Price Target Despite Strong Q1 Expectations"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-17 19:02:14",
+          "title": "分析师提高威廉姆斯公司（WMB）的股价目标，维持“买入”评级",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-raises-williams-companies-wmb-004347131.html",
+          "title_en": "Analyst Raises The Williams Companies (WMB) Price Target, Maintains ‘Buy’ Rating"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-17 19:02:14",
+          "title": "Kinder Morgan (KMI) 获得能源部批准增加液化天然气出口",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/kinder-morgan-kmi-receives-doe-004448822.html",
+          "title_en": "Kinder Morgan (KMI) Receives DoE Approval for Additional LNG Exports"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-17 19:02:14",
+          "title": "ONEOK (OKE) 价格目标上调 $1，维持“超越表现”评级",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/oneok-oke-price-target-raised-004518496.html",
+          "title_en": "ONEOK (OKE) Price Target Raised by $1, ‘Outperform’ Rating Maintained"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-17 19:02:14",
+          "title": "Targa资源 (TRGP) 的价格目标由Scotiabank提高，维持“超越表现”评级",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-trgp-price-target-004555136.html",
+          "title_en": "Targa Resources (TRGP) Price Target Raised at Scotiabank, ‘Outperform’ Rating Maintained"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-17 19:02:14",
+          "title": "TC 能源（TRP）——购买现在的最佳基础设施股票之一",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/tc-energy-trp-among-best-004707098.html",
+          "title_en": "TC Energy (TRP) – Among the Best Infrastructure Stocks to Buy Now"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-17 19:02:14",
+          "title": "杰米·迪蒙出售了4亿美元的JPMorgan股票。",
+          "summary": "",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-15-2026/card/jamie-dimon-sells-40-million-of-jpmorgan-stocks-MWyLG50rut4LheBuU4XO?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Jamie Dimon Sells $40 Million of JPMorgan Stock"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-17 19:02:14",
+          "title": "企业产品合作伙伴（EPD）宣布每股季度股息0.55美元",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/enterprise-products-partners-epd-announces-004808878.html",
+          "title_en": "Enterprise Products Partners (EPD) Announces Quarterly Dividend of $0.55 per Share"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-17 19:02:14",
+          "title": "Credo Technology (CRDO) 得到升级，股价跳涨6%",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-crdo-gets-upgrade-004811269.html",
+          "title_en": "Credo Technology (CRDO) Gets Upgrade, Jumps 6%"
         }
       ]
     }
