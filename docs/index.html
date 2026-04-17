@@ -99,6 +99,176 @@
 
       <section class="hero"><div class="hero-top"><div class="hero-title">主线结论</div><div class="hero-time">2026-04-17 22:08:22</div></div><div class="hero-body">**市场走势**：美元因伊朗战争大幅上涨，房贷利率跌至4周低点，但"全球最稳定资产正在失控"——工资与退休金面临通胀威胁；零售投资者AI采用率达极端水平、Alphabet/Meta等AI巨头继续加码投资，与美元避险需求飙升形成"追逐风险+规避风险同时爆发"的极度分裂格局。<br><br>**核心驱动**：<br>• 美元大幅上涨+美债收益率飙升，显示地缘风险正在驱动全球美元回流，与标普7000创新高形成"美元强+股市强"的历史罕见组合<br>• 零售投资者AI采用率极端化+Alphabet/Meta加码AI投资，AI democratization通常是市场接近顶部的反向指标，这与Burry做空NVIDIA形成呼应<br>• Bessent称Fed"做正确的事"对利率保持沉默，显示决策者已放弃前瞻指引，市场正在失去政策锚<br><br>**政治人物表态**：<br>• Bessent（财长）：称美联储"正在做正确的事情"，对利率保持沉默，观察伊朗战争不确定性<br><br>**风险提示**：美元+美股双强罕见组合往往发生在QE尾声或危机前，当前AI零售化+AI民主化极端化+伊朗战争升级，标普7000或面临方向选择，下周若破6850或测试6700。</div></section>
 
+      <section class="card ai-news-carousel">
+<h2>
+  <span>🤖 AI 新闻（每30分钟更新）</span>
+  <span class="badge">4</span>
+</h2>
+<div class="ai-carousel-wrapper">
+  <button class="carousel-btn carousel-prev" onclick="aiNewsCarousel.prev()">‹</button>
+  <div class="ai-carousel-container">
+    <div class="ai-carousel-page active" data-page="0">
+      <div class="tlist">
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast" target="_blank" rel="noreferrer noopener">AI不可避免陷阱：Allbirds转型AI公司股价单日暴涨7倍</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">鞋企Allbirds宣布成为AI公司，股价单日暴涨7倍。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="https://features.financialjuice.com/2026/04/17/stocks-increase-as-sp-500-aims-for-third-week-of-3-gain-europe-market-wrap/" target="_blank" rel="noreferrer noopener">S&P 500有望实现连续第三周3%涨幅。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">美伊可能达成永久停火协议，布伦特原油大跌3.1%至96美元。标普500期货小幅走高，10年期美债收益率跌2bp至4.30%。S&P 500从超卖到超买仅用11天（创1982年以来最快），对冲基金平仓+空头回补驱动涨势。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="https://features.financialjuice.com/2026/04/17/morning-juice-us-session-prep-17th-april/" target="_blank" rel="noreferrer noopener">美股盘前快讯（17日）</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">特朗普称美伊停火协议"很快"宣布，美元和美债收益率下跌。晚间Fed官员Daly、Barkin、Waller发表讲话；BoC行长Macklem出席IMF会议。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="https://features.financialjuice.com/2026/04/17/awaiting-a-peace-deal-record-stock-rally-stalls-asia-market-wrap/" target="_blank" rel="noreferrer noopener">全球股市在停火预期的推动下高位徘徊。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">亚洲市场等待美伊和平协议细节，风险情绪改善但获利了结压力显现。</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-btn carousel-next" onclick="aiNewsCarousel.next()">›</button>
+</div>
+<div class="carousel-dots">
+  <span class="carousel-dot active" data-page="0" onclick="aiNewsCarousel.goTo(0)"></span>
+</div>
+<script>
+const aiNewsCarousel = {
+  currentPage: 0,
+  totalPages: 1,
+  
+  goTo(page) {
+    if (page < 0 || page >= this.totalPages) return;
+    
+    document.querySelectorAll('.ai-carousel-page').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll('.carousel-dot').forEach(d => d.classList.remove('active'));
+    
+    document.querySelector(`.ai-carousel-page[data-page="${page}"]`).classList.add('active');
+    document.querySelector(`.carousel-dot[data-page="${page}"]`).classList.add('active');
+    
+    this.currentPage = page;
+  },
+  
+  next() {
+    this.goTo((this.currentPage + 1) % this.totalPages);
+  },
+  
+  prev() {
+    this.goTo((this.currentPage - 1 + this.totalPages) % this.totalPages);
+  }
+};
+
+document.addEventListener('keydown', (e) => {
+  if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+  if (e.key === 'ArrowLeft') aiNewsCarousel.prev();
+  if (e.key === 'ArrowRight') aiNewsCarousel.next();
+});
+</script>
+<style>
+.ai-news-carousel {
+  position: relative;
+}
+
+.ai-carousel-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ai-carousel-container {
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+.ai-carousel-page {
+  display: none;
+}
+
+.ai-carousel-page.active {
+  display: block;
+}
+
+.carousel-btn {
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  color: var(--text);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+  flex-shrink: 0;
+}
+
+.carousel-btn:hover {
+  background: rgba(255,255,255,0.15);
+  border-color: rgba(255,255,255,0.3);
+  transform: scale(1.05);
+}
+
+.carousel-btn:active {
+  transform: scale(0.95);
+}
+
+.carousel-dots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 0 8px;
+}
+
+.carousel-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.2);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.carousel-dot:hover {
+  background: rgba(255,255,255,0.4);
+  transform: scale(1.2);
+}
+
+.carousel-dot.active {
+  background: rgba(255,176,32,0.8);
+  width: 24px;
+  border-radius: 4px;
+}
+</style>
+</section>
+
+
+
       <div class="grid3">
         <section class="card"><h2><span>📊 指数/科技</span><span class="badge">18</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-04-17 22:05:01</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/most-retail-investors-using-ai-040100900.html" target="_blank" rel="noreferrer noopener">大多数零售投资者正在使用人工智能。顾问们开始担心。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-17 22:05:01</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/sectors/technology/articles/alphabet-targets-higher-ai-capex-064555752.html" target="_blank" rel="noreferrer noopener">Alphabet 将为 2026 年提高 AI 投资，是否使其成为买入对象？</a></div>
