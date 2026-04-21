@@ -41,9 +41,11 @@ if not files:
 content = files[0].read_text(encoding='utf-8')
 items = []
 
-# 通用解析器 - 支持编号列表格式（1. **Title** + 📍）
+# 通用解析器 - 支持两种格式
+# 格式1: 1. **Title** | 📍: [阅读](url)\n   - description
+# 格式2: 1. **Title** | 📍: [阅读](url)\n   description (no leading -)
 matches = list(re.finditer(
-    r'(?:^|\n)(\d+)\.\s+\*\*([^\n]+)\*\*[^\n]*\n\s+-\s+📍:?\s+\[([^\]]+)\]\(([^)]+)\)\n\s+-\s+([^\n]+)',
+    r'(\d+)\.\s+\*\*([^\*]+)\*\*[^\n]*\n\s+([^\n]+)',
     content, re.MULTILINE
 ))
 
