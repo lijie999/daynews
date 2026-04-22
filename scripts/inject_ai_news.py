@@ -51,7 +51,8 @@ matches = list(re.finditer(
 
 for idx, m in enumerate(matches):
     groups = m.groups()
-    num, title, source, link, summary = groups
+    num, title, summary = groups[:3]
+    link = ""  # not captured in this format
     
     # 智能分类
     emoji = "🤖"
