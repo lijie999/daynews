@@ -13,6 +13,21 @@ BRIEFS = DOCS / "briefs.json"
 OUT = DOCS / "index.html"
 MARKET_PULSE_CACHE = DOCS / ".market_pulse_cache.json"
 
+# ── 本周财报日历（手动维护，每周一更新）────────────────────
+EARNINGS_CALENDAR = [
+    ("Apr 21 Tue", "AT&T (T)",              "AMC",   "Q1 2026", ""),
+    ("Apr 21 Tue", "Interactive Brokers (IBKR)", "16:49 ET", "Q1 2026", "已发布"),
+    ("Apr 22 Wed", "Boeing (BA)",            "AMC",   "Q1 2026", ""),
+    ("Apr 22 Wed", "Tesla (TSLA)",           "5:30 PM ET", "Q1 2026", "⭐ 今日盘后"),
+    ("Apr 24 Fri", "Intel (INTC)",           "AMC",   "Q1 2026", ""),
+    ("Apr 29 Wed", "Microsoft (MSFT)",       "AMC",   "Q3 FY2026", "BigTech密集"),
+    ("Apr 29 Wed", "Amazon (AMZN)",         "AMC",   "Q1 2026",  "BigTech密集"),
+    ("Apr 29 Wed", "Alphabet (GOOGL)",      "AMC",   "Q1 2026",  "BigTech密集"),
+    ("Apr 29 Wed", "Meta (META)",            "AMC",   "Q1 2026",  "BigTech密集"),
+    ("Apr 30 Thu", "Apple (AAPL)",           "AMC",   "Q2 FY2026",""),
+    ("May  27 Wed", "Nvidia (NVDA)",         "AMC",   "Q1 FY2027",""),
+]
+
 
 def _now_bjt() -> dt.datetime:
     return dt.datetime.now(dt.timezone(dt.timedelta(hours=8)))
@@ -404,127 +419,33 @@ def main() -> int:
         if not today_events and not tomorrow_events:
             html_parts.append('<div class="note">（今明两日无⭐⭐⭐级数据发布）</div>')
         
-        # 本周财报提醒
-        # 策略1：从现有新闻中提取
-        earnings_from_news = []
-        important_tickers = {
-            "AAPL", "MSFT", "GOOGL", "GOOG", "AMZN", "NVDA", "META", "TSLA",
-            "JPM", "BAC", "WFC", "GS", "MS", "UNH", "JNJ", "PG", "XOM", "CVX",
-            "NFLX", "AMD", "INTC", "ORCL", "CRM", "SHOP", "SQ", "COIN",
-            "BABA", "JD", "PDD", "BIDU", "NIO", "XPEV"
-        }
-        
-        for sec in sections:
-            items = sec.get("items", [])
-            for it in items[:20]:
-                title = (it.get("title") or "").lower()
-                ticker = (it.get("ticker") or "").upper()
-                
-                if ("earnings" in title or "报告" in title or "财报" in title) and ticker in important_tickers:
-                    company_map = {
-                        "AAPL": "Apple", "MSFT": "Microsoft", "NVDA": "Nvidia",
-                        "TSLA": "Tesla", "AMZN": "Amazon", "META": "Meta",
-                        "GOOGL": "Google", "GOOG": "Google"
-                    }
-                    company_name = company_map.get(ticker, ticker)
-                    
-                    time_hint = "盘前" if any(k in title for k in ["before market", "盘前"]) else \
-                                "盘后" if any(k in title for k in ["after hours", "after market", "盘后"]) else \
-                                "本周"
-                    
-                    earnings_from_news.append({
-                        "company": f"{company_name} ({ticker})",
-                        "time": time_hint,
-                        "ticker": ticker
-                    })
-        
-        # 策略2：硬编码财报季（Q1: 4月中下旬, Q2: 7月中下旬, Q3: 10月中下旬, Q4: 1月下旬-2月初）
-        # 当前是否在财报季窗口
-        month = today.month
-        day = today.day
-        
-        earnings_season_companies = []
-        
-        # Q4 财报季（1月20日-2月15日）
-        if (month == 1 and day >= 20) or (month == 2 and day <= 15):
-            earnings_season_companies = [
-                ("本周", "Apple (AAPL)"),
-                ("本周", "Microsoft (MSFT)"),
-                ("本周", "Alphabet (GOOGL)"),
-                ("本周", "Amazon (AMZN)"),
-                ("本周", "Meta (META)"),
-            ]
-        
-        # Q1 财报季（4月15日-5月5日）
-        elif (month == 4 and day >= 15) or (month == 5 and day <= 5):
-            earnings_season_companies = [
-                ("本周", "Tesla (TSLA)"),
-                ("本周", "Netflix (NFLX)"),
-                ("本周", "Microsoft (MSFT)"),
-            ]
-        
-        # Q2 财报季（7月15日-8月5日）
-        elif (month == 7 and day >= 15) or (month == 8 and day <= 5):
-            earnings_season_companies = [
-                ("本周", "Apple (AAPL)"),
-                ("本周", "Amazon (AMZN)"),
-                ("本周", "Meta (META)"),
-            ]
-        
-        # Q3 财报季（10月15日-11月5日）
-        elif (month == 10 and day >= 15) or (month == 11 and day <= 5):
-            earnings_season_companies = [
-                ("本周", "Alphabet (GOOGL)"),
-                ("本周", "Microsoft (MSFT)"),
-                ("本周", "Amazon (AMZN)"),
-            ]
-        
-        # 合并新闻提取 + 硬编码季节
-        all_earnings = earnings_from_news[:] if earnings_from_news else earnings_season_companies
-        
-        # 去重
-        seen_tickers = set()
+        # 本周财报提醒：直接遍历 EARNINGS_CALENDAR
         unique_earnings = []
-        for item in all_earnings:
-            # 从 "Company (TICKER)" 格式提取 ticker
-            ticker = item.get("ticker") if isinstance(item, dict) else (item[1].split("(")[-1].rstrip(")") if isinstance(item, tuple) else "")
-            if ticker and ticker not in seen_tickers:
-                seen_tickers.add(ticker)
-                if isinstance(item, tuple):
-                    unique_earnings.append({"time": item[0], "company": item[1]})
-                else:
-                    unique_earnings.append(item)
-        
-        # 如果有财报，追加到HTML
+        for row in EARNINGS_CALENDAR:
+            unique_earnings.append({
+                "time": row[0], "company": row[1],
+                "release": row[2], "period": row[3], "note": row[4]
+            })
+
+        # 生成财报 HTML
         if unique_earnings:
             html_parts.append('<div class="calendar-day" style="margin-top:16px"><strong>📊 本周财报：</strong></div>')
-            for item in unique_earnings[:6]:
-                time_str = item["time"]
+            for item in unique_earnings[:8]:
+                time_str = item.get("time", "本周")
+                company = esc(item.get("company", ""))
+                release = item.get("release", "")
+                note = item.get("note", "")
+                note_html = f' <span style="color:#f97316;font-size:12px">{esc(note)}</span>' if note else ""
+                detail = f' <span style="color:var(--muted);font-size:12px">{esc(release)}</span>' if release else ""
                 html_parts.append(
                     f'<div class="calendar-item earnings-item">'
-                    f'<span class="cal-time">{time_str}</span> {esc(item["company"])}'
+                    f'<span class="cal-time">{esc(time_str)}</span> {company}{detail}{note_html}'
                     f'</div>'
                 )
-        else:
-            # 非财报季时显示占位提示
-            next_season = ""
-            if month <= 3:
-                next_season = "4月中旬起Q1财报季"
-            elif month <= 6:
-                next_season = "7月中旬起Q2财报季"
-            elif month <= 9:
-                next_season = "10月中旬起Q3财报季"
-            else:
-                next_season = "次年1月下旬起Q4财报季"
-            
-            html_parts.append(
-                '<div class="calendar-day" style="margin-top:16px"><strong>📊 本周财报：</strong></div>'
-                f'<div class="note" style="padding:10px 12px">（本周无重点财报，{next_season}）</div>'
-            )
-        
+
         html_parts.append('</div></div>')
-        
         return '\n'.join(html_parts)
+
 
     def render_radar() -> str:
         pool = pick_items("美联储与政策", "地缘/能源/避险", "七姐妹与半导体链", "特斯拉链")
