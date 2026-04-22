@@ -92,6 +92,91 @@ TICKERS = [
     "tsm",
 ]
 
+# ── 本周财报日历（美东时间，手动维护，每周一更新）───────────
+# 格式：(公司名, 代码, 日期, 发布时刻_ET, 财报期, 备注)
+# 发布时刻留空表示"after market close"（通常 16:00-17:30 ET）
+EARNINGS_CALENDAR = [
+    ("AT&T",             "T",    "Apr 21 Tue", "",       "Q1 2026", ""),
+    ("Interactive Brokers","IBKR","Apr 21 Tue", "16:49 ET","Q1 2026", "已发布"),
+    ("Boeing",           "BA",   "Apr 22 Wed", "",       "Q1 2026", ""),
+    ("Tesla",            "TSLA", "Apr 22 Wed", "5:30 PM ET","Q1 2026", "今日盘后焦点"),
+    ("Intel",            "INTC", "Apr 24 Fri", "",       "Q1 2026", ""),
+    ("Microsoft",        "MSFT", "Apr 29 Wed", "",       "Q3 FY2026", "BigTech密集"),
+    ("Amazon",           "AMZN", "Apr 29 Wed", "",       "Q1 2026",  "BigTech密集"),
+    ("Alphabet",         "GOOGL","Apr 29 Wed", "",       "Q1 2026",  "BigTech密集 + Cloud Next 4/22-24"),
+    ("Meta",             "META", "Apr 29 Wed", "",       "Q1 2026",  "BigTech密集"),
+    ("Apple",            "AAPL", "Apr 30 Thu", "",       "Q2 FY2026",""),
+    ("Nvidia",           "NVDA", "May  27 Wed", "",       "Q1 FY2027",""),
+]
+
+
+def _bjt_from_et(date_et: str, time_et: str = "") -> str:
+    """把美东日期+时刻转成北京时间描述（简化估算）。
+    - 有明确时刻：显示原样（用户自己换算，或次日 BJT）
+    - 无时刻（AMC）：估算为次日 BJT 早晨
+    """
+    import datetime as dt
+    month_map = {"Jan":1,"Feb":2,"Mar":3,"Apr":4,"May":5,"Jun":6,
+                 "Jul":7,"Aug":8,"Sep":9,"Oct":10,"Nov":11,"Dec":12}
+    parts = date_et.strip().split()
+    if len(parts) < 2:
+        return date_et
+    m = month_map.get(parts[0], 1)
+    day_str = parts[1].rstrip(" TueWedThuFriSatSunMon")
+    try:
+        d = int(day_str)
+    except ValueError:
+        return date_et
+
+    # 有具体时刻 → 直接返回，方便用户自己查
+    if time_et:
+        return f"次日 BJT 05:30 左右"
+
+    # 无时刻（盘后 AMC）→ 估算次日 BJT 早晨
+    return f"Apr {d+1} BJT左右"
+
+
+def _render_earnings_section() -> str:
+    """生成财报日历 HTML 片段。"""
+    rows = []
+    for company, ticker, date_et, time_et, period, note in EARNINGS_CALENDAR:
+        bjt = _bjt_from_et(date_et, time_et)
+        note_html = f'<span style="color:#f97316">{note}</span>' if note else ""
+        rows.append(
+            f'<tr>'
+            f'<td style="padding:4px 8px;font-family:var(--mono);font-size:12px">{company}</td>'
+            f'<td style="padding:4px 8px;font-family:var(--mono);font-size:12px;color:#60a5fa">{ticker}</td>'
+            f'<td style="padding:4px 8px;font-family:var(--mono);font-size:12px">{date_et}</td>'
+            f'<td style="padding:4px 8px;font-family:var(--mono);font-size:12px">{time_et or "AMC"}</td>'
+            f'<td style="padding:4px 8px;font-family:var(--mono);font-size:12px">{bjt}</td>'
+            f'<td style="padding:4px 8px;font-size:12px;color:var(--muted)">{period}</td>'
+            f'<td style="padding:4px 8px;font-size:12px">{note_html}</td>'
+            f'</tr>'
+        )
+    rows_html = "\n".join(rows)
+    return (
+        '<section class="card" id="earnings">'
+        '<h2><span>📅 本周财报日历</span><span class="badge">Earnings</span></h2>'
+        '<div style="overflow-x:auto;padding:12px 14px 16px">'
+        f'<table style="width:100%;border-collapse:collapse;font-size:12px;color:var(--text)">'
+        f'<thead>'
+        f'<tr style="border-bottom:1px solid var(--stroke)">'
+        f'<th style="text-align:left;padding:4px 8px;color:var(--faint);font-weight:normal">公司</th>'
+        f'<th style="text-align:left;padding:4px 8px;color:var(--faint);font-weight:normal">代码</th>'
+        f'<th style="text-align:left;padding:4px 8px;color:var(--faint);font-weight:normal">日期(ET)</th>'
+        f'<th style="text-align:left;padding:4px 8px;color:var(--faint);font-weight:normal">时刻</th>'
+        f'<th style="text-align:left;padding:4px 8px;color:var(--faint);font-weight:normal">北京时间</th>'
+        f'<th style="text-align:left;padding:4px 8px;color:var(--faint);font-weight:normal">财报期</th>'
+        f'<th style="text-align:left;padding:4px 8px;color:var(--faint);font-weight:normal">备注</th>'
+        f'</tr></thead>'
+        f'<tbody>{rows_html}</tbody>'
+        f'</table>'
+        f'<p style="margin:8px 0 0;font-family:var(--mono);font-size:11px;color:var(--faint)">'
+        f"* AMC = After Market Close（盘后） · 北京时间 = ET+13（夏令时）"
+        f'</p>'
+        f'</div></section>'
+    )
+
 
 def _now_bjt() -> dt.datetime:
     return dt.datetime.now(dt.timezone(dt.timedelta(hours=8)))
@@ -408,7 +493,8 @@ def main() -> int:
       <p class=\"sub\">自动生成版本：主线结论 → 七姐妹/半导体 → 美联储/政策 → 地缘/避险 → 特斯拉链。规则：同URL去重，按时间倒序；每个板块最多18条。</p>
     </header>
 
-    {sec('主线结论','Summary',buckets['主线结论'])}
+        {sec('主线结论','Summary',buckets['主线结论'])}
+    {_render_earnings_section()}
     {sec('七姐妹与半导体链','Mag7 / Semis',buckets['七姐妹与半导体链'])}
     {sec('美联储与政策','Fed / Policy',buckets['美联储与政策'])}
     {sec('地缘/能源/避险','Risk / Oil / Gold',buckets['地缘/能源/避险'])}
