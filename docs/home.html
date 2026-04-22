@@ -90,51 +90,343 @@
       <header>
         <div class="k">
           <span class="pill">交易台模式（主线→AI→主题）</span>
-          <span class="pill">最后更新：2026-04-22 16:50:25（北京时间）</span>
+          <span class="pill">最后更新：2026-04-22 18:00:32（北京时间）</span>
           <span class="pill">数据：briefs.json</span>
         </div>
         <h1>DayNews · 2026.04.22</h1>
         <p class="sub">先读主线结论（3秒），再看AI动态（10秒），最后按主题浏览（3分钟）。</p>
       </header>
 
-      <section class="hero"><div class="hero-top"><div class="hero-title">主线结论</div><div class="hero-time">2026-04-22 16:59:48</div></div><div class="hero-body">**市场走势**：美股分化，亚洲日经新高但欧股谨慎，Warsh今日确认听证会成Fed独立性历史性考验；Lumentum光纤AI网络+ Cisco AI数据中心+ Bloom Energy AI电力成新三剑客，与Marvel撤离剥夺工人医保+United航空谨慎构成"AI狂热vs滞胀代价"极致分裂；伊朗停火延长但封锁持续，油价高位侵蚀消费，企业财报季真正考验将于明日开始。<br><br>**核心驱动**：<br>• Warsh今日确认听证会是Fed独立性历史性转折——若通过"政权转变"计划完整，Fed将成政治化机构，美元信用面临系统性重估，10年期美债6%+或成新常态<br>• Lumentum/Cisco/Bloom三剑客代表AI投资从GPU向"光网络+电力+基础设施"扩散，但Microsoft强但跌已显示这些标的已在历史高估值<br>• Marvel+航空业"医疗/就业/利润"三重冲击正从预期变为现实，Q2财报季企业盈利下修幅度或超20%，但市场仍在7100高位徘徊<br><br>**政治人物表态**：<br>• 特朗普：延长伊朗停火，拒绝解除霍尔木兹封锁<br>• Warsh（Fed候选人）：今日确认听证会，"政权转变"计划完整<br><br>**风险提示**：Warsh今夜结果+Amazon/Meta明日财报+Q2财报季正式开启，标普7100今夜若破将测试6850-6900；AI+地缘+Fed三主线共振，波动率或飙升至次贷危机以来最高。</div></section>
+      <section class="hero"><div class="hero-top"><div class="hero-title">主线结论</div><div class="hero-time">2026-04-22 18:01:54</div></div><div class="hero-body">**市场走势**：Warsh今日确认听证会举行+Apple CEO库克宣布辞职成双重重磅事件，$4万亿苹果进入后库克时代；Microsoft因"AI冲击恐惧"被质疑是否该卖出；高盛回顾Warsh在参议院为Fed独立性辩护，$100万与伊朗战争相关的精心赌注引发质疑，Saipem Q1核心利润增长但股价大涨显示地缘投机已极端化。<br><br>**核心驱动**：<br>• 库克辞职是苹果历史的分水岭——后库克时代能否重塑AI战略将决定$4万亿市值去向，新CEO若无法在AI时代拿出清晰路线图，苹果或从"必须持有"降级为"可选持有"<br>• Microsoft"AI冲击恐惧"与"强财报但股价跌"形成共振，显示AI替代威胁已从概念变为企业高管真实担忧，Q2财报季将是AI冲击的第一次集中检验<br>• Warsh今日参议院确认听证会——Fed独立性历史性考验，若"政权转变"计划完整通过，美元信用+美债6%+将成新常态，全球资产定价将被重构<br><br>**政治人物表态**：<br>• Warsh（Fed候选人）：今日参议院确认听证会，为Fed独立性辩护<br>• 特朗普：延长伊朗停火，拒绝解除霍尔木兹封锁<br><br>**风险提示**：Warsh今夜结果+Amazon/Meta明日财报+Q2财报季正式开启，标普7100今夜面临重大考验；若财报+Fed结果双重利空，6850-6900将成下方关键支撑。</div></section>
+
+      <section class="card ai-news-carousel">
+<h2>
+  <span>🤖 AI 新闻（每30分钟更新）</span>
+  <span class="badge">15</span>
+</h2>
+<div class="ai-carousel-wrapper">
+  <button class="carousel-btn carousel-prev" onclick="aiNewsCarousel.prev()">‹</button>
+  <div class="ai-carousel-container">
+    <div class="ai-carousel-page active" data-page="0">
+      <div class="tlist">
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="" target="_blank" rel="noreferrer noopener">美股期货上涨，美元下跌。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">特朗普宣布延长伊朗停火协议，推动美股期货上涨0.5-0.6%。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="" target="_blank" rel="noreferrer noopener">股市出现波动，主要原因是油价大幅上涨，引发人们对停火的担忧。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">标普500指数结束了五天的连续上涨，地缘政治紧张局势再次升温。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="" target="_blank" rel="noreferrer noopener">[市场反弹] 美股和全球市场反弹，油价下跌。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">MSCI ACWI上涨0.1%，AI板块回暖。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="" target="_blank" rel="noreferrer noopener">欧洲股市上涨，受益于伊朗核谈判的进展。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">标普500期货涨0.3%</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="ai-carousel-page" data-page="1">
+      <div class="tlist">
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="" target="_blank" rel="noreferrer noopener">欧洲交易会话前盘点： 
+
+欧洲市场预计将在美股大幅上涨的基础上继续上涨。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">- 今日关注：英国CPI、前美联储官员Kevin Warsh出席听证会</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="" target="_blank" rel="noreferrer noopener">欧洲交易会话前盘点： 
+
+欧洲市场预计将在美股大幅上涨的基础上继续上涨。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">新西兰通胀高企，日本央行6月加息预期增强。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="" target="_blank" rel="noreferrer noopener">美国市场准备</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">关注美国零售销售数据（预期+1.4%）</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">模型</div>
+            <div>
+              <a class="ttitle" href="" target="_blank" rel="noreferrer noopener">Anthropic Mythos模型遭受未授权访问</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">- 强大的网络安全AI模型落入"错误手中"</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="ai-carousel-page" data-page="2">
+      <div class="tlist">
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">融资</div>
+            <div>
+              <a class="ttitle" href="" target="_blank" rel="noreferrer noopener">Railway宣布获得1亿美元融资，挑战AWS的AI原生云基础设施。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">- 价值数十亿美元的挑战者，正在颠覆传统的云服务供应商。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="" target="_blank" rel="noreferrer noopener">SpaceX计划以约600亿美元的价格收购Cursor AI，后者是一家编程平台公司。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">- 在IPO前，公司进行了战略布局，目标是与Anthropic和Claude Code等竞争对手对标。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">模型</div>
+            <div>
+              <a class="ttitle" href="" target="_blank" rel="noreferrer noopener">OpenAI ChatGPT Images 2.0 现已支持网络搜索。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">- 增强推理能力，能够从网络获取信息生成图片。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rS" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">监管</div>
+            <div>
+              <a class="ttitle" href="" target="_blank" rel="noreferrer noopener">YouTube宣布，将其人工智能（AI）深伪检测技术扩展到好莱坞名人和其他知名个人账户。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">- 公众人物可以追踪并要求删除由 AI 生成的内容。</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="ai-carousel-page" data-page="3">
+      <div class="tlist">
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">应用</div>
+            <div>
+              <a class="ttitle" href="" target="_blank" rel="noreferrer noopener">OpenAI高管Kevin Weil离职</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">曾任Instagram高级副总裁，负责AI科学应用的他，加入了Microsoft的Codex项目。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">应用</div>
+            <div>
+              <a class="ttitle" href="" target="_blank" rel="noreferrer noopener">Mozilla利用Anthropic Mythos修复271个Firefox漏洞。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">- AI安全工具的实际应用案例</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="" target="_blank" rel="noreferrer noopener">Yelp 正式推出升级版的 AI 助手，新增可预约服务功能。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">- 转型为"数字礼宾"服务</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-btn carousel-next" onclick="aiNewsCarousel.next()">›</button>
+</div>
+<div class="carousel-dots">
+  <span class="carousel-dot active" data-page="0" onclick="aiNewsCarousel.goTo(0)"></span>
+  <span class="carousel-dot" data-page="1" onclick="aiNewsCarousel.goTo(1)"></span>
+  <span class="carousel-dot" data-page="2" onclick="aiNewsCarousel.goTo(2)"></span>
+  <span class="carousel-dot" data-page="3" onclick="aiNewsCarousel.goTo(3)"></span>
+</div>
+<script>
+const aiNewsCarousel = {
+  currentPage: 0,
+  totalPages: 4,
+  
+  goTo(page) {
+    if (page < 0 || page >= this.totalPages) return;
+    
+    document.querySelectorAll('.ai-carousel-page').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll('.carousel-dot').forEach(d => d.classList.remove('active'));
+    
+    document.querySelector(`.ai-carousel-page[data-page="${page}"]`).classList.add('active');
+    document.querySelector(`.carousel-dot[data-page="${page}"]`).classList.add('active');
+    
+    this.currentPage = page;
+  },
+  
+  next() {
+    this.goTo((this.currentPage + 1) % this.totalPages);
+  },
+  
+  prev() {
+    this.goTo((this.currentPage - 1 + this.totalPages) % this.totalPages);
+  }
+};
+
+document.addEventListener('keydown', (e) => {
+  if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+  if (e.key === 'ArrowLeft') aiNewsCarousel.prev();
+  if (e.key === 'ArrowRight') aiNewsCarousel.next();
+});
+</script>
+<style>
+.ai-news-carousel {
+  position: relative;
+}
+
+.ai-carousel-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ai-carousel-container {
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+.ai-carousel-page {
+  display: none;
+}
+
+.ai-carousel-page.active {
+  display: block;
+}
+
+.carousel-btn {
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  color: var(--text);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+  flex-shrink: 0;
+}
+
+.carousel-btn:hover {
+  background: rgba(255,255,255,0.15);
+  border-color: rgba(255,255,255,0.3);
+  transform: scale(1.05);
+}
+
+.carousel-btn:active {
+  transform: scale(0.95);
+}
+
+.carousel-dots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 0 8px;
+}
+
+.carousel-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.2);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.carousel-dot:hover {
+  background: rgba(255,255,255,0.4);
+  transform: scale(1.2);
+}
+
+.carousel-dot.active {
+  background: rgba(255,176,32,0.8);
+  width: 24px;
+  border-radius: 4px;
+}
+</style>
+</section>
+
+
 
       <div class="grid3">
-        <section class="card"><h2><span>📊 指数/科技</span><span class="badge">18</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 16:50:20</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/lumentum-holdings-inc-lite-light-210500443.html" target="_blank" rel="noreferrer noopener">Lumentum Holdings Inc. (LITE)：光纤AI网络新热点</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 16:50:20</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-one-best-210153189.html" target="_blank" rel="noreferrer noopener">柯睿士（Cisco Systems，CSCO）是目前最好的人工智能（AI）数据中心股票之一吗？</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 16:50:20</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/bloom-energy-corporation-ai-power-210405152.html" target="_blank" rel="noreferrer noopener">布鲁姆能量公司(BE):吸引精英投资者的AI电力</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 16:50:20</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/equinix-inc-eqix-ai-data-205553303.html" target="_blank" rel="noreferrer noopener">Equinix Inc. (EQIX)：AI数据中心的宠儿，富裕投资者的首选</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 16:50:20</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/apple-names-next-ceo-tim-210245475.html" target="_blank" rel="noreferrer noopener">苹果任命硬件首席为新CEO，蒂姆库克退居幕后</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 16:50:20</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/celestica-inc-cls-one-best-210007279.html" target="_blank" rel="noreferrer noopener">Celestica Inc.(CLS)：目前最好的AI数据中心股票之一</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 16:50:20</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/tim-cook-stepping-down-apple-205445049.html" target="_blank" rel="noreferrer noopener">苹果CEO库克将卸任，AAPL股价在盘后交易中下跌</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 16:50:20</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/arista-networks-inc-anet-potential-210607093.html" target="_blank" rel="noreferrer noopener">Arista Networks Inc.(ANET):人工智能网络战的潜在赢家</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 16:50:20</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-vrt-best-ai-210822513.html" target="_blank" rel="noreferrer noopener">VERT是否是当前最好的AI数据中心股票？</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 16:50:20</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-mature-growth-210929461.html" target="_blank" rel="noreferrer noopener">NVIDIA Corporation (NVDA)：百分百增长后的成熟成长阶段</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 16:50:20</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/apple-ceo-cook-lauded-investors-212412193.html" target="_blank" rel="noreferrer noopener">苹果CEO库克受到投资者的赞誉，他即将进入新角色</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 16:50:20</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/apple-ceo-tim-cook-stepping-210444574.html" target="_blank" rel="noreferrer noopener">苹果CEO蒂姆库克将卸任，硬件负责人约翰特纳斯将成为新CEO</a></div>
+        <section class="card"><h2><span>📊 指数/科技</span><span class="badge">18</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 18:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://www.investors.com/news/technology/apple-stock-ceo-tim-cook-to-step-down/?src=A00220&amp;yptr=yahoo" target="_blank" rel="noreferrer noopener">苹果CEO蒂姆·库克将辞职。苹果手机制造商重组高管层。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 18:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/article/tim-cook-is-stepping-down-as-apples-ceo-investors-are-4-trillion-richer-because-of-him-230325543.html" target="_blank" rel="noreferrer noopener">蒂姆·库克将辞去苹果CEO职位。他的继任者将继承价值4万亿美元的财富。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 18:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/sell-microsoft-msft-ai-disruption-230227049.html" target="_blank" rel="noreferrer noopener">你应该在人工智能冲击恐惧中卖出微软（MSFT）吗？</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 18:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/apple-aapl-motley-fool-asset-224827752.html" target="_blank" rel="noreferrer noopener">苹果公司（AAPL）：摩根士丹利资产管理的首选科技股</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 18:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/ai-wave-boosts-lightwave-logic-010807500.html" target="_blank" rel="noreferrer noopener">AI浪潮推动Lightwave Logic (LWLG) 股价达4年新高</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 18:00:28</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/consumer-watchdog-group-files-suit-alleging-meta-profited-on-ads-for-scams-4627715" target="_blank" rel="noreferrer noopener">消费者监督组织起诉Meta，指控其在广告中获利。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 18:00:28</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/openai-briefs-us-agencies-five-eyes-on-new-cyber-product-axios-reports-4628333" target="_blank" rel="noreferrer noopener">OpenAI向美国机构、五眼联盟介绍新一代网络产品</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 18:00:28</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/hsbc-upgrades-sap-to-buy-on-valuation-reset-dismisses-ai-threat-to-erp-systems-4628308" target="_blank" rel="noreferrer noopener">HSBC将SAP的评级从“中性”提升至“买入”，理由是估值重置；同时认为人工智能对ERP系统的威胁不大。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 08:01:00</span><span class="tsrc">MarketWatch-Top · RSS</span></div><a class="ttitle" href="https://www.marketwatch.com/story/what-is-cursor-spacex-could-buy-the-ai-company-for-a-whopping-60-billion-97cc4c16?mod=mw_rss_topstories" target="_blank" rel="noreferrer noopener">SpaceX可能以惊人的600亿美元价格收购Cursor。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 07:00:01</span><span class="tsrc">CNBC-Tech · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/21/cramer-tim-cook-accomplished-something-almost-impossible-apple-ceo.html" target="_blank" rel="noreferrer noopener">吉姆·克拉默称蒂姆·库克在苹果CEO任内完成了"几乎不可能"的事情</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 06:34:27</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/20/apple-new-ceo-john-ternus-faces-defining-challenge-fixing-ai-strategy.html" target="_blank" rel="noreferrer noopener">苹果新CEO约翰·特纳斯面临着一个定义性的挑战：修复公司的AI战略</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 06:30:40</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/21/john-ternus-apple-ceo.html" target="_blank" rel="noreferrer noopener">苹果新CEO约翰·特纳斯在开始时曾怀疑自己："我不确定自己是否适合"</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 06:28:30</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/21/apple-promotes-chip-lead-srouji-as-it-corners-silicon-in-iphones-macs.html" target="_blank" rel="noreferrer noopener">苹果提升硅头约尼·斯劳吉，标志着苹果加速为所有设备自行设计芯片的步伐。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 05:28:00</span><span class="tsrc">MarketWatch-Top · RSS</span></div><a class="ttitle" href="https://www.marketwatch.com/story/this-is-what-apple-investors-need-to-know-about-whats-next-for-the-company-and-its-new-ceo-9997df15?mod=mw_rss_topstories" target="_blank" rel="noreferrer noopener">苹果投资者需要了解公司的下一步行动和新CEO的计划</a></div></div></section>
-        <section class="card"><h2><span>⚡ 能源/地缘</span><span class="badge">14</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 16:50:20</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/united-airlines-sees-weak-q2-fullyear-profit-as-fuel-shock-squeezes-margins-4627334" target="_blank" rel="noreferrer noopener">美国联合航空公司（United Airlines）呼应了航空业的谨慎态度，伊朗战争加剧的燃油价格上涨使其利润空间受压。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 15:55:38</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/asia-pacific-markets-today-live-updates-nikkei-225-kospi-hang-seng-index.html" target="_blank" rel="noreferrer noopener">日本日经指数(Nikkei 225)在亚洲市场波动中创下历史新高，随着特朗普延长伊朗停火。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 15:52:49</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/european-markets-stoxx-600-ftse-dax-iran-latest-news-oil-price.html" target="_blank" rel="noreferrer noopener">欧股开盘升高，特朗普延长伊朗停火期限</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 04:20:07</span><span class="tsrc">CNBC-Tech · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/20/tim-cook-apple-reactions-ceo.html" target="_blank" rel="noreferrer noopener">特斯拉 CEO 埃隆·马斯克称苹果 CEO库克的决定是"非常有趣"。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 03:49:17</span><span class="tsrc">CNBC-Tech · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/21/microsoft-game-pass-ultimate-subscription-price-cut.html" target="_blank" rel="noreferrer noopener">微软削减游戏通行证订阅价格，新任Xbox CEO承诺“重新致力于玩家”。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 02:36:31</span><span class="tsrc">CNBC-Tech · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/21/why-tim-cook-stepping-down-as-ceo-isnt-shaking-cramers-faith-in-apple.html" target="_blank" rel="noreferrer noopener">蒂姆·库克（Tim Cook）不再担任苹果CEO并没有动摇吉姆·克雷默（Jim Cramer）对苹果的信心。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 02:27:58</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/21/amazon-glp-1-weight-loss-program.html" target="_blank" rel="noreferrer noopener">亚马逊推出GLP-1减肥计划，承诺“快速、便捷”的访问</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 01:39:41</span><span class="tsrc">CNBC-Tech · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html" target="_blank" rel="noreferrer noopener">硅谷的AI代理出现了问题：浪费的令牌和“混乱”的系统</a></div></div></section>
+        <section class="card"><h2><span>⚡ 能源/地缘</span><span class="badge">18</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 18:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/commodities/articles/perfectly-timed-1-billion-wagers-230000670.html" target="_blank" rel="noreferrer noopener">一项1亿美元的精心打造的赌注与伊朗战争的爆发有关，引发了人们的怀疑</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 18:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/nervous-iran-war-uncertainty-stock-233312395.html" target="_blank" rel="noreferrer noopener">担心伊朗战争不确定性？这个股票在过去两个月里表现坚如磐石</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 18:00:28</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/saipem-stock-rises-after-first-quarter-earnings-report-93CH-4628193" target="_blank" rel="noreferrer noopener">Saipem 股票大幅上涨，第一季度核心利润增长，尽管霍尔木兹海峡风险存在，预期保持不变。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 18:00:28</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/japex-aims-to-quadruple-oil-and-gas-output-in-10-years-eyes-us-expansion-4628377" target="_blank" rel="noreferrer noopener">日本石油天然气公司（Japex）计划在10年内将石油和天然气产量翻倍，并瞄准美国扩张。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 18:00:28</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/usiran-peace-talks-in-question-after-trump-extends-ceasefire-4628328" target="_blank" rel="noreferrer noopener">美国与伊朗和平谈判面临挑战，特朗普延长停火期</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 18:00:28</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/us-stock-index-futures-climb-after-trump-extends-iran-truce-4628311" target="_blank" rel="noreferrer noopener">美国股指期货上涨，随着特朗普延长伊朗停火</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 17:14:32</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/strait-of-hormuz-ships-attacked-iran-war.html" target="_blank" rel="noreferrer noopener">英国称霍尔木兹海峡发生两艘船被攻击事件，美国延长伊朗停火期。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 17:01:05</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/oil-price-wti-brent-iran-ceasefire-extension-clouds-outlook.html" target="_blank" rel="noreferrer noopener">石油价格在特朗普延长与伊朗的停火但保留禁运措施后波动。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 15:55:38</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/asia-pacific-markets-today-live-updates-nikkei-225-kospi-hang-seng-index.html" target="_blank" rel="noreferrer noopener">日本日经指数(Nikkei 225)在亚洲市场波动中创下历史新高，随着特朗普延长伊朗停火。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 14:28:29</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/uk-inflation-jumps-to-3point3percent-in-march-as-fuel-prices-surge.html" target="_blank" rel="noreferrer noopener">英国3月通胀率跃升至3.3%，燃油价格因伊朗战争而大幅上涨。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 14:18:17</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/oil-price-wti-brent-iran-ceasefire-extension-clouds-outlook.html" target="_blank" rel="noreferrer noopener">石油价格小幅下滑，特朗普延长了与伊朗的停火协议。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 12:53:30</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/cnbc-converge-live-hormuz-singapore-fm-vivian-iran-war.html" target="_blank" rel="noreferrer noopener">霍尔木兹海峡只是中国和美国在太平洋发生战争的“试点”如果发生，新加坡外长警告</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 06:04:00</span><span class="tsrc">MarketWatch-Top · RSS</span></div><a class="ttitle" href="https://www.marketwatch.com/story/airlines-cut-flights-as-fuel-costs-surge-an-economic-fallout-from-the-iran-war-that-markets-may-be-missing-8b92f5ff?mod=mw_rss_topstories" target="_blank" rel="noreferrer noopener">航空公司因燃油成本大幅上涨而削减航班，市场可能忽视了伊朗战争带来的经济后果。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 05:13:47</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/21/trump-iran-war-ceasefire.html" target="_blank" rel="noreferrer noopener">特朗普延长伊朗停火期，称伊朗政府“严重分裂”</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 05:13:47</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/21/trump-iran-war-ceasefire.html" target="_blank" rel="noreferrer noopener">特朗普延长伊朗停火期，称伊朗政府“严重分裂”</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 02:57:42</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/21/oil-price-iran-war-strait-hormuz-tanker-ceasefire-peace-talks.html" target="_blank" rel="noreferrer noopener">布伦特原油接近100美元，伊朗和平谈判的信心在即将到来的停火期结束前不断下降。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-21 23:48:31</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/21/trump-iran-war-ceasefire-peace-talks.html" target="_blank" rel="noreferrer noopener">特朗普对CNBC表示，他预计美国将与伊朗达成“伟大的交易”。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-21 23:48:31</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/21/trump-iran-war-ceasefire-peace-talks.html" target="_blank" rel="noreferrer noopener">特朗普对CNBC表示，他预计美国将与伊朗达成“伟大的交易”。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-21 23:46:33</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/21/oil-price-iran-war-middle-east.html" target="_blank" rel="noreferrer noopener">伊朗战争如何影响石油价格的时间线——以及接下来会发生什么</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-21 19:16:56</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/21/new-cards-on-the-battlefield-us-iran-ratchet-up-rhetoric-with-peace-talks-in-limbo.html" target="_blank" rel="noreferrer noopener">美国和伊朗在和平谈判陷入僵局时，两国的言论变得更加激进。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-21 15:34:59</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/21/global-stocks-iran-conflict-ai-rally.html" target="_blank" rel="noreferrer noopener">全球股市已经弥补了伊朗战争的损失，创下新高，但中东冲突的阴影仍然笼罩着。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-21 06:24:28</span><span class="tsrc">CNBC-Tech · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/20/jim-cramer-explains-why-the-market-keeps-shrugging-off-the-iran-war.html" target="_blank" rel="noreferrer noopener">吉姆·克拉默指出四个原因，市场为什么能忽视伊朗战争</a></div></div></section>
-        <section class="card"><h2><span>💵 美联储/政策</span><span class="badge">5</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 16:50:20</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/sectors/healthcare/articles/georgias-film-boom-made-75-210500598.html" target="_blank" rel="noreferrer noopener">乔治亚州的电影热潮使得75,000个工作岗位成为可能——现在漫威的撤离正在剥夺工人医疗保险</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 16:50:20</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/economy/policy/article/central-bank-independence-in-focus-as-fed-chair-nominee-kevin-warsh-faces-confirmation-hearing-112647540.html" target="_blank" rel="noreferrer noopener">联邦储备委员会主席候选人凯文·沃什面临确认听证会，中央银行独立性备受关注</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 04:06:04</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/21/how-warsh-can-give-trump-rate-cuts-keep-fed-independent-and-make-the-market-happy.html" target="_blank" rel="noreferrer noopener">沃什如何为特朗普提供利率降低，保持美联储独立性，并让市场高兴？</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-21 15:34:59</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/21/global-stocks-iran-conflict-ai-rally.html" target="_blank" rel="noreferrer noopener">全球股市已经弥补了伊朗战争的损失，创下新高，但中东冲突的阴影仍然笼罩着。</a></div></div></section>
+        <section class="card"><h2><span>💵 美联储/政策</span><span class="badge">5</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 18:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-april-20-2026-170834027.html" target="_blank" rel="noreferrer noopener">本周最低利率的5家贷款机构：5家贷款机构提供低于6%的年利率</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 18:00:28</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://www.wsj.com/economy/new-zealand-first-quarter-inflation-higher-than-expected-d324a547?siteid=yhoof2&amp;yptr=yahoo" target="_blank" rel="noreferrer noopener">新西兰第一季度通胀率高于预期</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 18:00:28</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/goldman-sachs-recaps-warsh-defense-of-fed-independence-at-senate-hearing-93CH-4628353" target="_blank" rel="noreferrer noopener">高盛回顾了沃什对美联储独立性的辩护在参议院听证会上的表述。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 03:57:56</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/21/kevin-warsh-fed-regime-change-senate-confirmation-hearing.html" target="_blank" rel="noreferrer noopener">沃什从艰难的听证会中走出，联邦储备委员会的"政权转变"计划仍然完整。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 01:29:36</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/21/tim-cook-apple-steve-jobs-legacy.html" target="_blank" rel="noreferrer noopener">蒂姆·库克通过不试图成为史蒂夫·乔布斯，将苹果变成了一家价值4万亿美元的巨头。</a></div></div></section>
       </div>
