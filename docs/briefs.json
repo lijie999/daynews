@@ -1,6 +1,6 @@
 {
   "date": "2026.04.22",
-  "generatedAtBJT": "2026-04-22 19:02:33",
+  "generatedAtBJT": "2026-04-22 20:03:42",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-22 19:02:33",
+          "time": "2026-04-22 20:03:42",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金价格喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密",
+          "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→NQ/ES承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Dow Jones Futures Rise As Trump Extends Iran Ceasefire; Tesla Earnings D…\n- 宏观/Fed线索：Analysis: Warsh emerges from a difficult hearing with his Fed 'regime-ch…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Dow Jones Futures Rise As Trump Extends Iran Ceasefire; Tesla Earnings D…\n- 宏观/Fed线索：Meta seeks workers with no experience for data center jobs amid AI-drive…"
         }
       ]
     },
@@ -29,47 +29,66 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "Nvidia合作伙伴超越预期，收益增长加速。但AI股价下跌。",
+          "time": "2026-04-22 20:03:38",
+          "title": "英国监管机构FCA公布了8家银行将参与人工智能测试。",
           "summary": "",
-          "url": "https://www.investors.com/news/vertiv-stock-vertiv-earnings-nvidia-partner-data-centers/?src=A00220&yptr=yahoo",
-          "title_en": "Nvidia Partner Beats Views With Accelerating Earnings Growth. But AI Stock Falls."
+          "url": "https://finance.yahoo.com/sectors/technology/articles/uk-fca-names-eight-banks-115428708.html",
+          "title_en": "UK’s FCA names eight banks for AI testing"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "ASML表示公司将不会成为芯片行业的瓶颈",
+          "time": "2026-04-22 20:03:38",
+          "title": "苹果任命约翰·特纳斯（John Ternus）为CEO，告诉我们公司未来的发展方向。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/asml-says-firm-not-chip-102215600.html",
-          "title_en": "ASML says firm will not be chip industry's bottleneck"
+          "url": "https://finance.yahoo.com/sectors/technology/article/what-apples-naming-of-john-ternus-as-ceo-tells-us-about-the-future-of-the-company-113817040.html",
+          "title_en": "What Apple's naming of John Ternus as CEO tells us about the future of the company"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "AI浪潮推动Lightwave Logic (LWLG) 股价达4年新高",
+          "time": "2026-04-22 20:03:38",
+          "title": "BENCHMARK对Broadcom（AVGO）的看法是积极的，公司对Meta交易持乐观态度。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-wave-boosts-lightwave-logic-010807500.html",
-          "title_en": "AI Wave Boosts Lightwave Logic (LWLG) Shares to 4-Year High"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/benchmark-bullish-broadcom-avgo-firm-113447424.html",
+          "title_en": "Benchmark Bullish on Broadcom (AVGO), Here’s What the Firm Thinks About Meta Deal"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-22 20:03:38",
+          "title": "Cadence设计与Nvidia (NVDA) 合作加速AI机器人开发",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-nvidia-nvda-partnering-113440416.html",
+          "title_en": "Cadence Design And Nvidia (NVDA) Partnering to Boost AI Robo Development"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-22 20:03:38",
+          "title": "Recursion Pharmaceuticals Inc (RXRX) 的 AI 战略是否有效？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/recursion-pharmaceuticals-inc-rxrx-ai-112559046.html",
+          "title_en": "Recursion Pharmaceuticals Inc (RXRX): Is AI Strategy Working?"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "OpenAI向美国政府机构、五眼联盟成员通报新一代网络安全产品。",
+          "time": "2026-04-22 20:03:38",
+          "title": "威洛兰收购公司股价大涨，原因是达尔公司达成14亿美元的AI业务交易。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/openai-briefs-us-agencies-five-eyes-on-new-cyber-product-axios-reports-4628333",
-          "title_en": "OpenAI briefs US agencies, Five Eyes on new cybersecurity product, Axios reports"
+          "url": "https://www.investing.com/news/stock-market-news/willow-lane-acquisition-stock-jumps-on-144b-dell-ai-deal-93CH-4628939",
+          "title_en": "Willow Lane Acquisition stock jumps on $1.44B Dell AI deal"
         },
         {
-          "source": "Investing-Markets",
+          "source": "MarketWatch-Top",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "GE Vernova提高了年度收入预测，受数据中心需求的推动。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/ge-vernova-lifts-annual-revenue-forecast-on-data-center-demand-4628562",
-          "title_en": "GE Vernova lifts annual revenue forecast on data center demand"
+          "time": "2026-04-22 19:50:00",
+          "title": "苹果新CEO是一位硬件传奇。然而，这并不能拯救英特尔投资者，也不能保证苹果在AI领域的胜利。",
+          "summary": "微软的表现或英特尔的失利？苹果的4万亿美元CEO赌注依赖于一个巨大的转变。",
+          "url": "https://www.marketwatch.com/story/apples-new-ceo-is-a-hardware-legend-that-didnt-save-intel-investors-and-it-wont-guarantee-an-ai-win-c9a0911a?mod=mw_rss_topstories",
+          "title_en": "Apple’s new CEO is a hardware legend. That didn’t save Intel investors — and it won’t guarantee an AI win.",
+          "summary_en": "Microsoft score or Intel fumble? Apple’s $4 trillion CEO bet rests on one massive pivot."
         },
         {
           "source": "CNBC-Tech",
@@ -82,7 +101,7 @@
           "summary_en": "CNBC's Jim Cramer reflects on Apple CEO Tim Cook's legacy building the \"greatest consumer-based enterprise in history.\""
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-04-22 06:34:27",
           "title": "苹果新CEO约翰·特纳斯面临着一个定义性的挑战：修复公司的AI战略",
@@ -92,7 +111,7 @@
           "summary_en": "Tim Cook had a highly successful tenure as Apple's CEO, but he leaves his successor with a big gap to fill when it comes to the company's position in AI."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-Tech",
           "ticker": "RSS",
           "time": "2026-04-22 06:30:40",
           "title": "苹果新CEO约翰·特纳斯在开始时曾怀疑自己：\"我不确定自己是否适合\"",
@@ -180,26 +199,6 @@
           "url": "https://www.cnbc.com/2026/04/20/california-da-amazon-price-fixing-walmart-target.html",
           "title_en": "Amazon 'strong-armed' Levi's, Hanes to hike prices on rival sites, California AG says",
           "summary_en": "Amazon allegedly coerced major vendors into convincing rival retailers like Walmart, Target and Home Depot to raise prices"
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-04-21 20:22:54",
-          "title": "苹果下一任CEO、沃什确认听证会、精神药物股价大涨等早间市场热点。",
-          "summary": "今天市场投资者需要了解的五个关键信息。",
-          "url": "https://www.cnbc.com/2026/04/21/5-things-to-know-before-the-market-opens.html",
-          "title_en": "Apple's next CEO, Warsh's confirmation hearing, the psychedelic stock surge and more in Morning Squawk",
-          "summary_en": "Here are five key things investors need to know to start the trading day."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-04-21 20:08:45",
-          "title": "亚马逊将从Einride公司引进重型电动卡车，以扩大其在货运去碳化的押注。",
-          "summary": "亚马逊正在将Einride的重型电动卡车加入与Rivian、梅赛德斯-奔驰的现有货运电气化协议中，以扩大其气候投资。",
-          "url": "https://www.cnbc.com/2026/04/21/amazon-einride-ev-trucks-freight-electrification.html",
-          "title_en": "Amazon adding heavy-duty EV trucks from Einride as it spreads bets on freight decarbonization",
-          "summary_en": "Amazon is adding heavy-duty EV trucks from Einride to existing deals for freight electrification with Rivian, Mercedes, as it spreads its climate bets."
         }
       ]
     },
@@ -207,6 +206,25 @@
       "name": "美联储与政策",
       "badge": "Fed / Policy",
       "items": [
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-22 20:03:38",
+          "title": "Meta寻找无经验工人来填补数据中心岗位空缺",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/meta-seeks-workers-no-experience-114500395.html",
+          "title_en": "Meta seeks workers with no experience for data center jobs amid AI-driven shortage"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-22 19:00:01",
+          "title": "房贷利率再次下降，购房者重新上阵",
+          "summary": "抵押贷款需求继续反弹，随着利率略微下降。",
+          "url": "https://www.cnbc.com/2026/04/22/mortgage-rates-sink-again-and-home-buyers-jump-back-in.html",
+          "title_en": "Mortgage rates sink again, and home buyers jump back in",
+          "summary_en": "Mortgage demand continues to rebound as rates sink slightly lower."
+        },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
@@ -236,47 +254,79 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
+          "time": "2026-04-22 20:03:38",
           "title": "道琼斯指数期货上涨，特朗普延长伊朗停火；特斯拉将公布财报。",
           "summary": "",
           "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-extends-iran-ceasefire-tesla-earnings/?src=A00220&yptr=yahoo",
           "title_en": "Dow Jones Futures Rise As Trump Extends Iran Ceasefire; Tesla Earnings Due"
         },
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "霍尔木兹海峡三艘船被攻击， ceasefire延长后",
+          "time": "2026-04-22 20:03:38",
+          "title": "美股期货今日上涨，道指、标普500指数和纳斯达克期货价格升高，随着特朗普延长美伊停火协议。",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/usiran-peace-talks-in-question-after-trump-extends-ceasefire-4628328",
-          "title_en": "Three ships attacked in Hormuz after ceasefire extension"
+          "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-after-trump-extends-us-iran-ceasefire-230429647.html",
+          "title_en": "Stock market today: Dow, S&P 500, Nasdaq futures rise after Trump extends US-Iran ceasefire"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "S&P 500 的市盈率看起来便宜，但高油价仍然构成威胁。",
+          "time": "2026-04-22 20:03:38",
+          "title": "美国股指期货上涨，随着特朗普延长伊朗停火",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/sp-500-pe-looks-cheap-but-high-oil-prices-still-pose-a-threat-4628475",
-          "title_en": "S&P 500 PE looks cheap, but high oil prices still pose a threat"
+          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-trump-extends-iran-ceasefire-4627987",
+          "title_en": "U.S. stock index futures climb after Trump extends Iran ceasefire"
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "TE预测利润将上升，但警告称伊朗战争将导致价格上涨。",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/te-projects-forecasts-higher-profit-but-warns-of-price-hikes-due-to-iran-war-4628515",
-          "title_en": "TE forecasts higher profit but warns of price hikes due to Iran war"
+          "time": "2026-04-22 19:57:37",
+          "title": "伊朗局势的混乱可能会更糟糕，如何仍然赚钱",
+          "summary": "布莱恩·萨利文的消息来源告诉他，目前还不清楚谁实际上在控制伊朗，特朗普在周二晚间的发言中也间接确认了这一点。",
+          "url": "https://www.cnbc.com/2026/04/22/power-insider-why-the-confusion-around-the-iran-situation-could-get-worse-how-to-profit-anyway.html",
+          "title_en": "Why the confusion around the Iran situation could get worse. How to profit anyway",
+          "summary_en": "Brian Sullivan's sources tell him it is not clear who is actually \"running\" Iran, which Trump essentially confirmed Tuesday night."
         },
         {
-          "source": "Investing-Markets",
+          "source": "CNBC-World",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "美国转向乌克兰反无人机技术，来源称",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/exclusiveus-turns-to-ukrainian-counterdrone-tech-after-iran-attacks-sources-say-4628563",
-          "title_en": "Exclusive-US turns to Ukrainian counter-drone tech after Iran attacks, sources say"
+          "time": "2026-04-22 19:39:54",
+          "title": "美债收益率未受影响，投资者正在消化美伊停火协议的延长",
+          "summary": "10年期美国国债收益率（美国政府借款的关键基准）基本持平，约为4.297%。",
+          "url": "https://www.cnbc.com/2026/04/22/treasury-yields-unchanged-investors-digest-us-iran-ceasefire-extension.html",
+          "title_en": "Treasury yields unmoved as investors digest U.S.-Iran ceasefire extension",
+          "summary_en": "The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — was largely flat at 4.297%."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-22 19:25:53",
+          "title": "伊朗称在霍尔木兹海峡拦截并扣押了两艘船只，美国延长停火期后。",
+          "summary": "美国总统特朗普刚刚表示美国将延长与伊朗的停火期，以便和平谈判继续进行。",
+          "url": "https://www.cnbc.com/2026/04/22/strait-of-hormuz-ships-attacked-iran-war.html",
+          "title_en": "Iran says it has seized two ships in Strait of Hormuz after U.S. extends ceasefire",
+          "summary_en": "The attacks come shortly after President Donald Trump said the U.S. would extend the ceasefire with Iran to allow peace talks to continue."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-04-22 19:19:00",
+          "title": "美国油价飙升将比中国更为严重",
+          "summary": "中国有多个能源进口来源，已经为长期高油价做好准备。与美国不同。",
+          "url": "https://www.marketwatch.com/story/why-a-global-oil-spike-will-hit-the-u-s-harder-than-china-902b0d13?mod=mw_rss_topstories",
+          "title_en": "Why a spike in oil prices will hurt the U.S. more than China",
+          "summary_en": "China has multiple sources of energy imports and it has prepared well for a sustained period of high oil prices. Unlike America."
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-22 19:00:01",
+          "title": "华伦要求川普政府解释美国人撤离的做法在伊朗战争中",
+          "summary": "数千名美国人在伊朗战争爆发初期被困在中东地区; 有些人表示他们没有从美国政府获得他们所需的支持。",
+          "url": "https://www.cnbc.com/2026/04/22/warren-trump-iran-war-evacuations.html",
+          "title_en": "Warren presses Trump administration for answers on evacuation of Americans amid Iran war",
+          "summary_en": "Thousands of Americans were stuck in the Middle East at the start of the Iran war; some said they did not receive support they needed from the U.S. government."
         },
         {
           "source": "MarketWatch-Top",
@@ -291,32 +341,12 @@
         {
           "source": "CNBC-World",
           "ticker": "RSS",
-          "time": "2026-04-22 18:52:53",
-          "title": "石油价格在特朗普延长与伊朗的停火但保留禁运措施后波动。",
-          "summary": "周三石油价格波动不定，因为美伊冲突的走向仍存在不确定性。",
-          "url": "https://www.cnbc.com/2026/04/22/oil-price-wti-brent-iran-ceasefire-extension-clouds-outlook.html",
-          "title_en": "Oil prices whipsaw after Trump extends ceasefire with Iran but keeps blockade in place",
-          "summary_en": "Oil prices were volatile on Wednesday as uncertainty lingered over the trajectory of the U.S.-Iran conflict."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
           "time": "2026-04-22 18:37:32",
           "title": "特朗普延长伊朗停火，但市场关注已经转移到其他地方。",
           "summary": "伊朗和华盛顿关于停火状态的信号相互矛盾，进一步谈判的前景仍不明朗。",
           "url": "https://www.cnbc.com/2026/04/22/markets-shrug-at-trumps-iran-ceasefire-extension.html",
           "title_en": "Trump extends Iran ceasefire — but market focus has already drifted elsewhere",
           "summary_en": "Prospects for further negotiations remain uncertain, with Tehran and Washington offering conflicting signals on the ceasefire's status."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-22 18:18:56",
-          "title": "英国称霍尔木兹海峡发生两艘船被攻击事件，美国延长伊朗停火期。",
-          "summary": "美国总统特朗普刚刚表示美国将延长与伊朗的停火期，以便和平谈判继续进行。",
-          "url": "https://www.cnbc.com/2026/04/22/strait-of-hormuz-ships-attacked-iran-war.html",
-          "title_en": "Two ships attacked in Strait of Hormuz, UK says, after U.S. extends Iran ceasefire",
-          "summary_en": "The attacks come shortly after President Donald Trump said the U.S. would extend the ceasefire with Iran to allow peace talks to continue."
         },
         {
           "source": "CNBC-World",
@@ -339,7 +369,7 @@
           "summary_en": "Fuel prices saw their largest increase for over three years, the ONS' chief economist said."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-04-22 12:53:30",
           "title": "霍尔木兹海峡只是中国和美国在太平洋发生战争的“试点”如果发生，新加坡外长警告",
@@ -369,7 +399,7 @@
           "summary_en": "President Donald Trump has repeatedly said he expects the U.S. and Israel war against Iran to end soon since it began in late February."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-04-21 23:46:33",
           "title": "伊朗战争如何影响石油价格的时间线——以及接下来会发生什么",
@@ -377,16 +407,6 @@
           "url": "https://www.cnbc.com/2026/04/21/oil-price-iran-war-middle-east.html",
           "title_en": "A timeline of how the Iran war shook oil prices — and what comes next",
           "summary_en": "Oil markets have whipsawed since the start of the Iran war, with supply risks around the Strait of Hormuz driving extreme price swings and historic volatility."
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-04-21 19:16:56",
-          "title": "美国和伊朗在和平谈判陷入僵局时，两国的言论变得更加激进。",
-          "summary": "美国谈判代表可能在谈判桌上被伊朗经验丰富的外交团队所匹敌，分析师称，随着潜在的高风险会议的召开。",
-          "url": "https://www.cnbc.com/2026/04/21/new-cards-on-the-battlefield-us-iran-ratchet-up-rhetoric-with-peace-talks-in-limbo.html",
-          "title_en": "‘New cards on the battlefield’: U.S., Iran ratchet up rhetoric with peace talks in limbo",
-          "summary_en": "American negotiators may be outmatched at the negotiating table by Iran's experienced diplomatic delegation, says analyst, ahead of potential high-stakes meeting."
         },
         {
           "source": "CNBC-World",
@@ -403,17 +423,7 @@
     {
       "name": "特斯拉链",
       "badge": "TSLA chain",
-      "items": [
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "Autonomous Research启动对UMB Financial（UMBF）的覆盖，评级为买入。",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/autonomous-research-initiates-coverage-umb-104103408.html",
-          "title_en": "Autonomous Research Initiates Coverage of UMB Financial (UMBF) with Outperform"
-        }
-      ]
+      "items": []
     },
     {
       "name": "其他",
@@ -422,7 +432,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
+          "time": "2026-04-22 20:03:38",
           "title": "美国主要银行指出，美国加密货币投资者正在经历一个令人惊讶的趋势。",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/crypto/articles/major-bank-identifies-surprising-trend-003444154.html",
@@ -431,155 +441,155 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "Robinhood（HOOD）：投资的最佳快速增长金融股",
+          "time": "2026-04-22 20:03:38",
+          "title": "比特币和以太坊价格今日（星期三，2026年4月22日）：价格上涨随着停火延长",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-hood-best-fast-growing-104112439.html",
-          "title_en": "Robinhood (HOOD): The Best Fast-Growing Financial Stock to Invest In"
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-april-22-2026-prices-rising-following-ceasefire-extension-114636596.html",
+          "title_en": "Bitcoin and ethereum prices today, Wednesday, April 22, 2026: Prices rising following ceasefire extension"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "Cantor Fitzgerald 维持对Kinsale (KNSL)的中性评级。",
+          "time": "2026-04-22 20:03:38",
+          "title": "波音大幅超出预期，联邦航空局看到通往关键认证的道路",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-maintains-neutral-rating-104052743.html",
-          "title_en": "Cantor Fitzgerald Maintains Neutral Rating on Kinsale (KNSL)"
+          "url": "https://www.investors.com/news/boeing-earnings-737-deliveries-boeing-stock/?src=A00220&yptr=yahoo",
+          "title_en": "Boeing Trounces Estimates, FAA Sees Path To Key Certifications"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "BHP报告FY26年3月截至目前铜产量同比下降3%",
+          "time": "2026-04-22 20:03:38",
+          "title": "波音首季业绩超预期，改善的客机交付减少亏损",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/bhp-reports-3-dip-ytd-105448911.html",
-          "title_en": "BHP reports 3% dip in YTD March FY26 copper output"
+          "url": "https://finance.yahoo.com/markets/stocks/article/boeing-q1-results-top-estimates-as-improving-jet-deliveries-cut-losses-173026652.html",
+          "title_en": "Boeing Q1 results top estimates as improving jet deliveries cut losses"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "摩根士丹利维持了RenaissanceRe Holdings（RNR）的买入评级。",
+          "time": "2026-04-22 20:03:38",
+          "title": "消费者表现出韧性",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-maintains-buy-rating-renaissancere-104043577.html",
-          "title_en": "BofA Maintains Buy Rating on RenaissanceRe Holdings (RNR)"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46811_MarketOutlook_1776856050000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Daily Spotlight: Consumers Remain Resilient"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "Keefe Bruyette维持对First Citizens (FCNCA)的超额收益评级。",
+          "time": "2026-04-22 20:03:38",
+          "title": "AT&T收益超出预期，收入符合预期，推动“融合”战略",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/keefe-bruyette-maintains-outperform-rating-104025758.html",
-          "title_en": "Keefe Bruyette Maintains Outperform Rating on First Citizens (FCNCA)"
+          "url": "https://www.investors.com/news/technology/att-stock-att-earnings-news-q12026/?src=A00220&yptr=yahoo",
+          "title_en": "AT&T Earnings Top Views, Revenue In-Line Amid 'Convergence' Push"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "AXOS（AX）是为什么被列为投资的10家最快增长的金融股之一",
+          "time": "2026-04-22 20:03:38",
+          "title": "Upstart Holdings（UPST）能否在未来五年内翻倍？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-axos-ax-among-10-104016909.html",
-          "title_en": "Here is why Axos (AX) is Among the 10 Fastest-Growing Financial Stocks to Invest In"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/upstart-holdings-upst-double-next-113631489.html",
+          "title_en": "Can Upstart Holdings (UPST) Double in the Next 5 Years?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "Keefe Bruyette重新开启对Interactive Brokers (IBKR)的覆盖。",
+          "time": "2026-04-22 20:03:38",
+          "title": "中期看多。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/keefe-bruyette-resumes-coverage-interactive-104004155.html",
-          "title_en": "Keefe Bruyette Resumes Coverage of Interactive Brokers (IBKR)"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46810_TechnicalAnalysis_1776856017000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Technical Assessment: Bullish in the Intermediate-Term"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "意大利食品集团Granarolo主席将辞职",
+          "time": "2026-04-22 20:03:38",
+          "title": "被激进投资者疯狂抢购的6%股息股票",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/granarolo-chairman-step-down-italian-105052099.html",
-          "title_en": "Granarolo chairman to step down from Italian food group"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/passive-income-investors-grabbing-6-114935807.html",
+          "title_en": "Passive Income Investors Are Grabbing These 6% Dividend Stocks Hand-Over-Fist"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "派珀桑德勒提高了Coinbase（COIN）的目标价格至180美元。",
+          "time": "2026-04-22 20:03:38",
+          "title": "巴尔德认为Affirm Holdings（AFRM）如何",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/piper-sandler-raises-price-target-103957301.html",
-          "title_en": "Piper Sandler Raises its Price Target on Coinbase (COIN) to $180"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/baird-thinks-affirm-holdings-afrm-113622022.html",
+          "title_en": "Here’s What Baird Thinks About ​Affirm Holdings (AFRM)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "TD Cowen维持了Apollo Global(APO)的买入评级。",
+          "time": "2026-04-22 20:03:38",
+          "title": "摩根大通和摩根士丹利对西部数据（WDC）持乐观态度。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-maintains-buy-rating-103950498.html",
-          "title_en": "TD Cowen Maintains Buy Rating on Apollo Global (APO)"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-morgan-stanley-bullish-western-113613236.html",
+          "title_en": "JPMorgan and Morgan Stanley Bullish on Western Digital (WDC)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "摩根大通提高了利兹银行(Lloyds Banking)的目标价至121英镑",
+          "time": "2026-04-22 20:03:38",
+          "title": "美团点评的竞争对手在中国的市场份额已经超过了美团点评。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-raises-price-target-lloyds-103942583.html",
-          "title_en": "JPMorgan Raises its Price Target on Lloyds Banking (LYG) to 121 GBp"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-mizuho-lowered-price-target-113604668.html",
+          "title_en": "Here’s Why Mizuho Lowered Price Target on Palantir Technologies (PLTR)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "有2000美元吗？这些金融股值得长期考虑。",
+          "time": "2026-04-22 20:03:38",
+          "title": "华尔街对英特尔公司(INTC)谨慎原因",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/got-2-000-financial-stocks-105000977.html",
-          "title_en": "Got $2,000? These Financial Stocks Are Worth Considering for the Long Term."
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-wall-street-cautious-intel-113556693.html",
+          "title_en": "Here’s Why Wall Street is Cautious on Intel Corporation (INTC)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "AT&T 增加了比预期更多的无线用户，捆绑服务带来了收益。",
+          "time": "2026-04-22 20:03:38",
+          "title": "分析报告：汤森路透公司",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/t-adds-more-wireless-subscribers-103121911.html",
-          "title_en": "AT&T adds more wireless subscribers than expected as bundling pays off"
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_5121_AnalystReport_1776855767000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "title_en": "Analyst Report: Thomson-Reuters Corp"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "Sigma Lithium (SGML)创下两年新高，中东紧张局势带来乐观前景",
+          "time": "2026-04-22 20:03:38",
+          "title": "FL Putnam收购了密歇根州的独立投资咨询公司Arcadia。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sigma-lithium-sgml-hits-2-010334094.html",
-          "title_en": "Sigma Lithium (SGML) Hits 2-Year High as MidEast Tensions Spark Rosy Prospects"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/fl-putnam-buys-michigan-ria-114653838.html",
+          "title_en": "FL Putnam buys Michigan RIA Arcadia"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "退休者：在波动市场中，我会优先持有SCHD而不是债券",
+          "time": "2026-04-22 20:03:38",
+          "title": "Lumentum控股（LITE）产品需求高涨，预计销售额将持续至2027年。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/retirees-heres-why-id-own-103500147.html",
-          "title_en": "Retirees: Here's Why I'd Own SCHD Over Bonds in a Volatile Market"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lumentum-holdings-lite-sold-2027-113548514.html",
+          "title_en": "​Lumentum Holdings (LITE) Sold Out Through 2027 on High Demand"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "巴克莱将Smucker (SJM)目标价降至103美元，出于成本担忧; BTIG以120美元启动买入",
+          "time": "2026-04-22 20:03:38",
+          "title": "Shopify (SHOP) 的股价在未来五年内是否能翻倍？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-cuts-smucker-sjm-target-003054457.html",
-          "title_en": "Barclays Cuts Smucker (SJM) Target to $103 on Cost Concerns; BTIG Starts With Buy at $120"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/shopify-inc-shop-double-next-113540624.html",
+          "title_en": "Can Shopify Inc. (SHOP) Double in the Next 5 Years?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-22 19:02:29",
-          "title": "美国Rare Earth (USAR) 在巴西扩张，股价攀升13%",
+          "time": "2026-04-22 20:03:38",
+          "title": "Argus研究认为，AppLovin (APP)的表现令人期待。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/usa-rare-earth-usar-expands-011357473.html",
-          "title_en": "USA Rare Earth (USAR) Expands in Brazil, Climbs 13%"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/argus-research-thinks-applovin-app-113516689.html",
+          "title_en": "Here’s What Argus Research Thinks About ​AppLovin (APP)"
         }
       ]
     }
