@@ -99,6 +99,149 @@
 
       <section class="hero"><div class="hero-top"><div class="hero-title">主线结论</div><div class="hero-time">2026-04-22 08:32:59</div></div><div class="hero-body">**市场走势**：标普守住7100，但油价暴涨+霍尔木兹紧张显示停火延长未能解决根本供给问题；Adobe企业级AI代理+TSM Q1 EPS超预期，但"半导体自dot-com泡沫以来最火热"的警告与"可能以惨痛结局收场"并置——AI狂潮顶峰与崩盘警报同时存在；航空公司因燃油成本削减航班+市场忽视伊朗战争经济后果，滞胀已进入需求破坏阶段。<br><br>**核心驱动**：<br>• 标普7100守住，但油价暴涨+霍尔木兹紧张——停火延长只是暂停而非解决，伊朗封锁结构性问题未化解，$100+油价对消费的第二轮冲击仍在传导中<br>• 航空公司削减航班是需求破坏的明确信号——当商务出行因成本放弃，休闲出行也会随后收缩，这是经济放缓的第二波滞后效应，往往比第一波更严重<br>• TSM EPS超预期+Adobe企业AI代理发布，AI需求仍然真实，但"dot-com最热+惨痛结局"警告意味着高估值已完全脱离基本面，财报季或成拐点<br><br>**政治人物表态**：<br>• 特朗普：延长伊朗停火期，称伊朗政府"严重分裂"<br>• Warsh（Fed候选人）：从艰难听证会走出，Fed"政权转变"计划仍完整<br><br>**风险提示**：标普7100若今夜失守，下方6800-6850成关键支撑；Tesla明日财报+财报季下周开启，AI消费需求+企业盈利下修双重考验，纳指明日面临方向选择。</div></section>
 
+      <section class="card ai-news-carousel">
+<h2>
+  <span>🤖 AI 新闻（每30分钟更新）</span>
+  <span class="badge">1</span>
+</h2>
+<div class="ai-carousel-wrapper">
+  <button class="carousel-btn carousel-prev" onclick="aiNewsCarousel.prev()">‹</button>
+  <div class="ai-carousel-container">
+    <div class="ai-carousel-page active" data-page="0">
+      <div class="tlist">
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="" target="_blank" rel="noreferrer noopener">SpaceX可能收购Cursor，估值达到600亿美元。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">SpaceX宣布将要么收购AI编程平台Cursor的价值600亿美元，要么支付100亿美元违约金。</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-btn carousel-next" onclick="aiNewsCarousel.next()">›</button>
+</div>
+<div class="carousel-dots">
+  <span class="carousel-dot active" data-page="0" onclick="aiNewsCarousel.goTo(0)"></span>
+</div>
+<script>
+const aiNewsCarousel = {
+  currentPage: 0,
+  totalPages: 1,
+  
+  goTo(page) {
+    if (page < 0 || page >= this.totalPages) return;
+    
+    document.querySelectorAll('.ai-carousel-page').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll('.carousel-dot').forEach(d => d.classList.remove('active'));
+    
+    document.querySelector(`.ai-carousel-page[data-page="${page}"]`).classList.add('active');
+    document.querySelector(`.carousel-dot[data-page="${page}"]`).classList.add('active');
+    
+    this.currentPage = page;
+  },
+  
+  next() {
+    this.goTo((this.currentPage + 1) % this.totalPages);
+  },
+  
+  prev() {
+    this.goTo((this.currentPage - 1 + this.totalPages) % this.totalPages);
+  }
+};
+
+document.addEventListener('keydown', (e) => {
+  if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+  if (e.key === 'ArrowLeft') aiNewsCarousel.prev();
+  if (e.key === 'ArrowRight') aiNewsCarousel.next();
+});
+</script>
+<style>
+.ai-news-carousel {
+  position: relative;
+}
+
+.ai-carousel-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ai-carousel-container {
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+.ai-carousel-page {
+  display: none;
+}
+
+.ai-carousel-page.active {
+  display: block;
+}
+
+.carousel-btn {
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  color: var(--text);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+  flex-shrink: 0;
+}
+
+.carousel-btn:hover {
+  background: rgba(255,255,255,0.15);
+  border-color: rgba(255,255,255,0.3);
+  transform: scale(1.05);
+}
+
+.carousel-btn:active {
+  transform: scale(0.95);
+}
+
+.carousel-dots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 0 8px;
+}
+
+.carousel-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.2);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.carousel-dot:hover {
+  background: rgba(255,255,255,0.4);
+  transform: scale(1.2);
+}
+
+.carousel-dot.active {
+  background: rgba(255,176,32,0.8);
+  width: 24px;
+  border-radius: 4px;
+}
+</style>
+</section>
+
+
+
       <div class="grid3">
         <section class="card"><h2><span>📊 指数/科技</span><span class="badge">18</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 08:32:29</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://www.wsj.com/cio-journal/adobe-unveils-agents-for-businesses-amid-threat-of-ai-disruption-d3cf479c?siteid=yhoof2&amp;yptr=yahoo" target="_blank" rel="noreferrer noopener">Adobe推出企业级AI代理</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 08:32:29</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-reports-131144249.html" target="_blank" rel="noreferrer noopener">台湾半导体制造公司(TSM)公布第一季度EPS超出预期</a></div>
