@@ -99,6 +99,149 @@
 
       <section class="hero"><div class="hero-top"><div class="hero-title">主线结论</div><div class="hero-time">2026-04-23 07:42:09</div></div><div class="hero-body">**市场走势**：标普/纳指收盘创历史新高，伊朗停火延长提供支撑，但Intel财报将揭示是否因供应链问题放弃AI计划；ServiceNow暴跌14%+IBM CEO警告伊朗不确定性影响前景，与Veritone迁移Oracle Cloud+Hive争夺$25亿AI收入形成"企业软件需求收缩vs AI基础设施持续扩张"的最极端分裂。<br><br>**核心驱动**：<br>• Intel财报是今夜最重要检验——若因供应链问题放弃AI计划，将是AI芯片竞争分化的首个龙头公司级证据，与NVIDIA一枝独秀形成对比<br>• ServiceNow暴跌14%+IBM警告伊朗不确定性，AI企业软件支出已开始削减，与NVIDIA/TSM业绩验证的AI基础设施需求形成"企业软件收缩vs芯片需求强劲"的结构性分化<br>• 比特币或突破$80,000——伊朗停火希望+避险需求推动，但若停火再度破裂，$80,000将成为年内顶部<br><br>**政治人物表态**：<br>• DOJ：将就法官阻止Powell解雇裁决提起上诉，Fed独立性问题进入最高法院阶段<br><br>**风险提示**：标普/纳指新高与ServiceNow暴跌+IBM警告形成最大背离，Intel今夜财报若不及预期，明日财报季或触发连锁调整，7100若失守测试6850-6900。</div></section>
 
+      <section class="card ai-news-carousel">
+<h2>
+  <span>🤖 AI 新闻（每30分钟更新）</span>
+  <span class="badge">1</span>
+</h2>
+<div class="ai-carousel-wrapper">
+  <button class="carousel-btn carousel-prev" onclick="aiNewsCarousel.prev()">‹</button>
+  <div class="ai-carousel-container">
+    <div class="ai-carousel-page active" data-page="0">
+      <div class="tlist">
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="" target="_blank" rel="noreferrer noopener">美股创下新高，伊朗停火延续加上财报强劲，风险偏好再次上升。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">美国标普500指数创下历史新高，特朗普宣布延长伊朗停火协议，布伦特原油价格跌破100美元/桶。</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-btn carousel-next" onclick="aiNewsCarousel.next()">›</button>
+</div>
+<div class="carousel-dots">
+  <span class="carousel-dot active" data-page="0" onclick="aiNewsCarousel.goTo(0)"></span>
+</div>
+<script>
+const aiNewsCarousel = {
+  currentPage: 0,
+  totalPages: 1,
+  
+  goTo(page) {
+    if (page < 0 || page >= this.totalPages) return;
+    
+    document.querySelectorAll('.ai-carousel-page').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll('.carousel-dot').forEach(d => d.classList.remove('active'));
+    
+    document.querySelector(`.ai-carousel-page[data-page="${page}"]`).classList.add('active');
+    document.querySelector(`.carousel-dot[data-page="${page}"]`).classList.add('active');
+    
+    this.currentPage = page;
+  },
+  
+  next() {
+    this.goTo((this.currentPage + 1) % this.totalPages);
+  },
+  
+  prev() {
+    this.goTo((this.currentPage - 1 + this.totalPages) % this.totalPages);
+  }
+};
+
+document.addEventListener('keydown', (e) => {
+  if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+  if (e.key === 'ArrowLeft') aiNewsCarousel.prev();
+  if (e.key === 'ArrowRight') aiNewsCarousel.next();
+});
+</script>
+<style>
+.ai-news-carousel {
+  position: relative;
+}
+
+.ai-carousel-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ai-carousel-container {
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+.ai-carousel-page {
+  display: none;
+}
+
+.ai-carousel-page.active {
+  display: block;
+}
+
+.carousel-btn {
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  color: var(--text);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+  flex-shrink: 0;
+}
+
+.carousel-btn:hover {
+  background: rgba(255,255,255,0.15);
+  border-color: rgba(255,255,255,0.3);
+  transform: scale(1.05);
+}
+
+.carousel-btn:active {
+  transform: scale(0.95);
+}
+
+.carousel-dots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 0 8px;
+}
+
+.carousel-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.2);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.carousel-dot:hover {
+  background: rgba(255,255,255,0.4);
+  transform: scale(1.2);
+}
+
+.carousel-dot.active {
+  background: rgba(255,176,32,0.8);
+  width: 24px;
+  border-radius: 4px;
+}
+</style>
+</section>
+
+
+
       <div class="grid3">
         <section class="card"><h2><span>📊 指数/科技</span><span class="badge">18</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-04-23 07:41:39</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/sectors/technology/articles/why-veritone-inc-veri-moving-155804803.html" target="_blank" rel="noreferrer noopener">Veritone Inc（VERI）将其AI服务迁移到Oracle Cloud</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-23 07:41:39</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/sectors/technology/articles/hive-digital-technologies-hive-race-155919407.html" target="_blank" rel="noreferrer noopener">Hive数字技术（HIVE）：2026年争夺25亿美元AI收入</a></div>
