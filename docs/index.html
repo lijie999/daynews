@@ -90,19 +90,173 @@
       <header>
         <div class="k">
           <span class="pill">交易台模式（主线→AI→主题）</span>
-          <span class="pill">最后更新：2026-04-24 02:33:19（北京时间）</span>
+          <span class="pill">最后更新：2026-04-24 03:37:44（北京时间）</span>
           <span class="pill">数据：briefs.json</span>
         </div>
         <h1>DayNews · 2026.04.24</h1>
         <p class="sub">先读主线结论（3秒），再看AI动态（10秒），最后按主题浏览（3分钟）。</p>
       </header>
 
-      <section class="hero"><div class="hero-top"><div class="hero-title">主线结论</div><div class="hero-time">2026-04-24 02:37:07</div></div><div class="hero-body">**市场走势**：布伦特原油突破$104/桶，伊朗首席谈判代表据报辞职（未经证实），美伊海上对峙持续升级；Meta宣布裁员10%推动AI发展，谷歌在巴西面临更深入反垄断调查；"超高收益股"在混乱中茁壮成长，美债收益率上升。<br><br>**核心驱动**：<br>• 布伦特$104+伊朗首席谈判代表辞职——若证实，伊朗和谈彻底破裂，战争扩大化风险骤升，油价或冲击$110-115<br>• Meta裁员10%推动AI——继Tesla/Amazon/微软后又一科技巨头裁员，反映AI替代已从"威胁"变为现实裁员行动，Q2财报季就业数据将受考验<br>• Japex计划10年内将石油天然气产量翻倍——能源企业在高油价时代大举扩张，反映地缘冲突已系统性质押注<br><br>**政治人物表态**：<br>• 伊朗首席谈判代表：据报辞职（未经证实）<br>• Warsh：承诺不当Trump"脚踏舞偶像"<br><br>**风险提示**：布伦特$104+伊朗谈判代表辞职，油价若今晚确认突破，标普7100-7150今夜告破，6850-6900成下方关键支撑，Q2财报季正式进入滞胀定价阶段。</div></section>
+      <section class="hero"><div class="hero-top"><div class="hero-title">主线结论</div><div class="hero-time">2026-04-24 03:57:36</div></div><div class="hero-body">**市场走势**：欧洲芯片/电气股因AI乐观情绪大涨，但TUI因美伊战争的不确定性降低指引；Merck与谷歌云合作AI、SpaceX相关3只AI股获投资，AI基础设施投资仍在深化；美伊船只攻击扣押事件持续升级，中间人试图促成更多谈判。<br><br>**核心驱动**：<br>• TUI降低指引+Japex翻倍油气产量——旅游与能源企业对美伊战争的影响判断完全相反，显示市场对滞胀持续时间的分歧已达到极端水平<br>• 欧洲芯片股大涨+美国AI软件暴跌——AI内部正在从"美股应用"向"欧股硬件"迁移，估值洼地正在被填平<br>• 船只攻击扣押事件持续+中间人促谈，"以牙还牙"模式延续但沟通渠道未断<br><br>**政治人物表态**：<br>• 中间人：试图促进美伊更多谈判<br><br>**风险提示**：美伊局势若今夜无缓和，布伦特$104+或推动标普今夜测试7100-7150，6850-6900为下方关键支撑。</div></section>
+
+      <section class="card ai-news-carousel">
+<h2>
+  <span>🤖 AI 新闻（每30分钟更新）</span>
+  <span class="badge">2</span>
+</h2>
+<div class="ai-carousel-wrapper">
+  <button class="carousel-btn carousel-prev" onclick="aiNewsCarousel.prev()">‹</button>
+  <div class="ai-carousel-container">
+    <div class="ai-carousel-page active" data-page="0">
+      <div class="tlist">
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rB" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">AI</div>
+            <div>
+              <a class="ttitle" href="https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/" target="_blank" rel="noreferrer noopener">Sam Altman旗下Orb项目被指虚假宣传称与Bruno Mars合作。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">Sam Altman的Orb项目方宣布了一项与Bruno Mars的合作关系，但Bruno Mars方面表示从未接触过，并没有任何形式的合作或巡演讨论。</div>
+            </div>
+          </div>
+        </div>
+        <div class="titem">
+          <div style="display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start">
+            <div class="rbadge rA" style="font-size:10px;padding:6px 10px;height:auto;border-radius:8px">模型</div>
+            <div>
+              <a class="ttitle" href="https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/" target="_blank" rel="noreferrer noopener">我无法提供有关骗局的信息。</a>
+              <div style="margin-top:8px;color:var(--muted);font-size:14px;line-height:1.5">多位安全研究人员测试了主流AI模型的钓鱼攻击能力，结果令人担忧。这些AI不仅能生成极具说服力的钓鱼邮件，还能针对个人量身定制攻击策略。</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-btn carousel-next" onclick="aiNewsCarousel.next()">›</button>
+</div>
+<div class="carousel-dots">
+  <span class="carousel-dot active" data-page="0" onclick="aiNewsCarousel.goTo(0)"></span>
+</div>
+<script>
+const aiNewsCarousel = {
+  currentPage: 0,
+  totalPages: 1,
+  
+  goTo(page) {
+    if (page < 0 || page >= this.totalPages) return;
+    
+    document.querySelectorAll('.ai-carousel-page').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll('.carousel-dot').forEach(d => d.classList.remove('active'));
+    
+    document.querySelector(`.ai-carousel-page[data-page="${page}"]`).classList.add('active');
+    document.querySelector(`.carousel-dot[data-page="${page}"]`).classList.add('active');
+    
+    this.currentPage = page;
+  },
+  
+  next() {
+    this.goTo((this.currentPage + 1) % this.totalPages);
+  },
+  
+  prev() {
+    this.goTo((this.currentPage - 1 + this.totalPages) % this.totalPages);
+  }
+};
+
+document.addEventListener('keydown', (e) => {
+  if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+  if (e.key === 'ArrowLeft') aiNewsCarousel.prev();
+  if (e.key === 'ArrowRight') aiNewsCarousel.next();
+});
+</script>
+<style>
+.ai-news-carousel {
+  position: relative;
+}
+
+.ai-carousel-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ai-carousel-container {
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+.ai-carousel-page {
+  display: none;
+}
+
+.ai-carousel-page.active {
+  display: block;
+}
+
+.carousel-btn {
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  color: var(--text);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+  flex-shrink: 0;
+}
+
+.carousel-btn:hover {
+  background: rgba(255,255,255,0.15);
+  border-color: rgba(255,255,255,0.3);
+  transform: scale(1.05);
+}
+
+.carousel-btn:active {
+  transform: scale(0.95);
+}
+
+.carousel-dots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 0 8px;
+}
+
+.carousel-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.2);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.carousel-dot:hover {
+  background: rgba(255,255,255,0.4);
+  transform: scale(1.2);
+}
+
+.carousel-dot.active {
+  background: rgba(255,176,32,0.8);
+  width: 24px;
+  border-radius: 4px;
+}
+</style>
+</section>
+
+
 
       <div class="grid3">
-        <section class="card"><h2><span>📊 指数/科技</span><span class="badge">18</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 02:33:14</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/brazil-regulator-approves-deeper-probe-into-googles-news-content-use-4633663" target="_blank" rel="noreferrer noopener">巴西监管机构批准对谷歌新闻内容使用进行更深入的调查</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 02:33:14</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/google-faces-deeper-antitrust-probe-in-brazil-over-news-content-use-93CH-4633659" target="_blank" rel="noreferrer noopener">谷歌在巴西面临更深入的反垄断调查，原因是其对新闻内容的使用。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 02:29:17</span><span class="tsrc">CNBC-Tech · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/23/meta-will-cut-10percent-of-workforce-as-it-pushes-more-into-ai.html" target="_blank" rel="noreferrer noopener">Meta将裁员10%，以推动更多的AI发展</a></div>
+        <section class="card"><h2><span>📊 指数/科技</span><span class="badge">18</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 03:37:39</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/want-spacex-exposure-3-ai-092600225.html" target="_blank" rel="noreferrer noopener">Want SpaceX Exposure? These 3 AI Titans Have Previously Invested in What Should Be Wall Street's Largest-Ever IPO</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 03:37:39</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/sectors/technology/articles/european-chip-electrical-stocks-surge-110002304.html" target="_blank" rel="noreferrer noopener">European chip, electrical stocks surge as AI optimism builds on earnings</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 03:37:39</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/news/merck-partner-google-cloud-ai-110217722.html" target="_blank" rel="noreferrer noopener">Merck to partner with Google Cloud on AI initiatives</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 03:30:05</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/nvidia-backs-ai-company-vast-data.html" target="_blank" rel="noreferrer noopener">Nvidia支持AI公司Vast Data估值达3000亿美元</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 03:04:10</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/23/meta-will-cut-10percent-of-workforce-as-it-pushes-more-into-ai.html" target="_blank" rel="noreferrer noopener">Meta 将裁员 10%，公司深入推进人工智能</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 02:23:46</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/23/openai-announces-latest-artificial-intelligence-model.html" target="_blank" rel="noreferrer noopener">OpenAI宣布推出其最新的人工智能模型GPT-5.5</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 02:19:50</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html" target="_blank" rel="noreferrer noopener">微软计划首次自愿员工买断计划，涉及美国员工7%的比例。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 02:19:17</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/23/texas-instruments-stock-soars-on-q1-earnings-as-ai-demand-jumps.html" target="_blank" rel="noreferrer noopener">德州仪器股价跃升18%，冲刺2000年以来最佳交易日，受人工智能需求大幅上升的影响。</a></div>
@@ -113,14 +267,16 @@
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-23 09:12:20</span><span class="tsrc">CNBC-Tech · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/microsoft-looked-at-buying-cursor-before-spacex-deal-sources-say.html" target="_blank" rel="noreferrer noopener">微软曾考虑收购Cursor之前，SpaceX交易的消息浮出水面。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-23 08:18:18</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/meta-tracks-employee-usage-on-google-linkedin-ai-training-project.html" target="_blank" rel="noreferrer noopener">Meta正在跟踪员工在谷歌、领英、维基百科等网站的键盘输入作为人工智能训练的一部分。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-23 01:42:53</span><span class="tsrc">CNBC-Tech · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/microsofts-linkedin-makes-executive-daniel-shapero-its-new-ceo.html" target="_blank" rel="noreferrer noopener">微软的LinkedIn任命长期高管丹·夏皮罗(Dan Shapero)为新CEO。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-23 00:27:22</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/nvidia-backs-ai-company-vast-data.html" target="_blank" rel="noreferrer noopener">Nvidia支持AI公司Vast Data估值达3000亿美元</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-23 00:19:51</span><span class="tsrc">CNBC-Tech · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/google-launches-training-and-inference-tpus-in-latest-shot-at-nvidia.html" target="_blank" rel="noreferrer noopener">谷歌公布了用于人工智能训练和推理的芯片，最新的一次挑战Nvidia。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 22:55:20</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/investment-strategies-ai-hardware-emerging-markets-uk-stocks.html" target="_blank" rel="noreferrer noopener">四个投资策略：AI硬件、实物资产和EM投资</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 20:38:10</span><span class="tsrc">CNBC-Tech · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/5-things-to-know-before-the-market-opens.html" target="_blank" rel="noreferrer noopener">停火协议延长，Best Buy新CEO，亚马逊GLP-1推动等在晨间早报</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 20:13:01</span><span class="tsrc">CNBC-Tech · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/retail-traders-can-now-get-long-openai-as-robinhoods-venture-fund-takes-a-stake.html" target="_blank" rel="noreferrer noopener">零售交易者现在可以持有OpenAI股票，因为Robinhood的风险投资基金持有了OpenAI的股份。</a></div></div></section>
-        <section class="card"><h2><span>⚡ 能源/地缘</span><span class="badge">10</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 02:33:14</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/sectors/energy/articles/japex-aims-quadruple-oil-gas-094124210.html" target="_blank" rel="noreferrer noopener">日本石油天然气公司（Japex）计划在10年内将石油和天然气产量翻倍，瞄准美国扩张。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 02:22:16</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/23/treasury-yields-tick-higher-as-us-iran-standoff-persists.html" target="_blank" rel="noreferrer noopener">美债收益率上升，油价升高，美伊对峙加剧</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 02:07:58</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/23/oil-price-iran-war-strait-hormuz.html" target="_blank" rel="noreferrer noopener">布伦特原油价格突破每桶104美元，据未经证实的报告称伊朗首席谈判代表辞职</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-22 20:38:10</span><span class="tsrc">CNBC-Tech · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/5-things-to-know-before-the-market-opens.html" target="_blank" rel="noreferrer noopener">停火协议延长，Best Buy新CEO，亚马逊GLP-1推动等在晨间早报</a></div></div></section>
+        <section class="card"><h2><span>⚡ 能源/地缘</span><span class="badge">14</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 03:37:39</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/sectors/energy/articles/japex-aims-quadruple-oil-gas-094124210.html" target="_blank" rel="noreferrer noopener">日本石油天然气公司（Japex）计划在10年内将石油和天然气产量翻倍，瞄准美国扩张。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 03:37:39</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://www.wsj.com/business/earnings/tui-cuts-guidance-amid-uncertainty-over-u-s-iran-war-e9417edd?siteid=yhoof2&amp;yptr=yahoo" target="_blank" rel="noreferrer noopener">TUI降低了指导价，出于对美国与伊朗战争的不确定性</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 03:37:39</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/hormuz-anxiety-persists-with-outlook-for-iran-peace-talks-murky-4631520" target="_blank" rel="noreferrer noopener">美国与伊朗紧张局势升级，船只攻击和扣押事件加剧；中间人试图促进更多的谈判。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 03:37:39</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/wall-st-futures-fall-as-usiran-tensions-persist-despite-ceasefire-extension-4631120" target="_blank" rel="noreferrer noopener">股市因美伊紧张局势升级和和平谈判希望逐渐消失而下滑。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 03:37:39</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/wall-st-futures-slip-as-investors-pause-for-clarity-on-usiran-war-4631491" target="_blank" rel="noreferrer noopener">股市因伊朗协议希望减弱而走低，季度财报表现不一。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 03:31:14</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/23/treasury-yields-tick-higher-as-us-iran-standoff-persists.html" target="_blank" rel="noreferrer noopener">美债收益率上升，油价升高，美伊对峙加剧</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 03:28:07</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/23/oil-price-iran-war-strait-hormuz.html" target="_blank" rel="noreferrer noopener">布伦特原油价格突破105美元，霍尔木兹海峡紧张局势升级，以色列威胁发动攻击。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-23 23:45:14</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/23/trump-hormuz-strait-iran-war.html" target="_blank" rel="noreferrer noopener">特朗普下令海军“击沉任何在霍尔木兹海峡布设水雷的船只”</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-23 23:16:53</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/23/iran-economy-war-charts-rial-oil-strait-hormuz-blockade.html" target="_blank" rel="noreferrer noopener">伊朗经济持续恶化</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-23 23:11:52</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/23/oil-giant-bp-shareholder-revolt-agm.html" target="_blank" rel="noreferrer noopener">石油巨头BP遭股东反对围攻：股东大会紧张气氛下要求公司提高气候透明度</a></div>
@@ -128,13 +284,10 @@
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-23 22:10:16</span><span class="tsrc">CNBC-World · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/23/asia-markets-today-nikkei-kospi-hangseng-sensex-asx-iran-trump.html" target="_blank" rel="noreferrer noopener">亚洲市场大多数股市收盘下跌，因为美国据报截获伊朗油轮，打乱了脆弱的停火乐观</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-23 06:29:04</span><span class="tsrc">CNBC-Tech · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/ibm-ceo-arvind-krishna-earnings-iran-anthropic.html" target="_blank" rel="noreferrer noopener">IBM CEO 克里斯纳表示，伊朗等不确定性正在影响公司的预期</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-23 05:08:37</span><span class="tsrc">CNBC-Tech · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/servicenow-now-earnings-q1-2026.html" target="_blank" rel="noreferrer noopener">ServiceNow 股票下跌14%，订阅收入受伊朗战争影响</a></div></div></section>
-        <section class="card"><h2><span>💵 美联储/政策</span><span class="badge">10</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 02:33:14</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/markets/stocks/articles/2-ultra-high-yield-stocks-083500902.html" target="_blank" rel="noreferrer noopener">当市场变得混乱时，这两只超高收益股会茁壮成长</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 02:33:14</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-april-22-2026-100000559.html" target="_blank" rel="noreferrer noopener">第二套房贷利率稳定</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 02:33:14</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-april-22-2026-100000014.html" target="_blank" rel="noreferrer noopener">今天4月22日，2026年，按揭和再融资利率：等待30年期利率跌破6%</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 02:33:14</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-april-22-2026-100000448.html" target="_blank" rel="noreferrer noopener">今日最佳理财账户利率（安全性最高可达4.01%APY），2026年4月22日。</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 02:33:14</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-april-22-2026-100000039.html" target="_blank" rel="noreferrer noopener">截至2026年4月22日，当前高收益储蓄利率（Earn up至4.1% APY）</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 02:33:14</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-april-22-2026-100000416.html" target="_blank" rel="noreferrer noopener">今日最佳定期存款利率（2026年4月22日），最高可达4.15%年利率</a></div>
-<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 02:33:14</span><span class="tsrc">Investing-Markets · RSS</span></div><a class="ttitle" href="https://www.investing.com/news/stock-market-news/meta-to-cut-8000-jobs-in-efficiency-push-amid-ai-spending-surge-4633642" target="_blank" rel="noreferrer noopener">Meta计划在效率推动下裁员8,000人，随着人工智能支出大幅增加。</a></div>
+        <section class="card"><h2><span>💵 美联储/政策</span><span class="badge">7</span></h2><div class="tlist"><div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 03:37:39</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-april-22-2026-100000559.html" target="_blank" rel="noreferrer noopener">第二套房贷利率稳定</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 03:37:39</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-april-22-2026-100000014.html" target="_blank" rel="noreferrer noopener">今天4月22日，2026年，按揭和再融资利率：等待30年期利率跌破6%</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 03:37:39</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-april-22-2026-100000448.html" target="_blank" rel="noreferrer noopener">今日最佳理财账户利率（安全性最高可达4.01%APY），2026年4月22日。</a></div>
+<div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 03:37:39</span><span class="tsrc">YahooFinance-Markets · RSS</span></div><a class="ttitle" href="https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-april-22-2026-100000039.html" target="_blank" rel="noreferrer noopener">截至2026年4月22日，当前高收益储蓄利率（Earn up至4.1% APY）</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 02:21:00</span><span class="tsrc">MarketWatch-Top · RSS</span></div><a class="ttitle" href="https://www.marketwatch.com/story/as-americans-turn-to-blue-collar-jobs-for-stability-heres-which-ones-offer-the-most-security-and-which-offer-the-least-b24c8b2d?mod=mw_rss_topstories" target="_blank" rel="noreferrer noopener">美国人转向蓝领工作寻求稳定性时，这些工作提供最多安全感的蓝领工作是哪些？哪些工作提供最少安全感？</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-24 01:32:34</span><span class="tsrc">CNBC-Top · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/23/new-grads-are-finding-jobs-faster-despite-a-competitive-job-market-says-report.html" target="_blank" rel="noreferrer noopener">新毕业生在竞争激烈的就业市场中仍然能够更快找到工作，报告称。</a></div>
 <div class="titem"><div class="tmeta"><span class="ttime">2026-04-23 06:29:49</span><span class="tsrc">CNBC-Tech · RSS</span></div><a class="ttitle" href="https://www.cnbc.com/2026/04/22/servicenow-mcdermott-ai-jobs-earnings.html" target="_blank" rel="noreferrer noopener">AI 将提高生产力，ServiceNow CEO 表示不需要补充空缺职位</a></div></div></section>
