@@ -1,6 +1,6 @@
 {
   "date": "2026.04.24",
-  "generatedAtBJT": "2026-04-24 04:58:20",
+  "generatedAtBJT": "2026-04-24 05:59:16",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-24 04:58:20",
+          "time": "2026-04-24 05:59:16",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→NQ/ES承压更明显；美元指数上升→黄金更易回撤；VIX上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再",
+          "summary": "- 主导因子：10年期国债利率 + 原油价格/风险事件\n- 四件套监控：10年期国债利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期国债利率上升→纳斯达克指数/标普500指数承压更明显；美元指数上升→黄金价格更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期国债利率继续上行且VIX抬升→偏纳斯达克指数/标普500指数先空后看、黄金价格偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期国债利率回落且VIX回落→偏纳斯达克指数/标普500指数修复反弹、黄金价格喘息；操作",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Trump says doesn’t want to ’rush’ on Iran deal, says Tehran is under tim…\n- 宏观/Fed线索：Nike to cut 1,400 jobs…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Stocks Advance as US Extends Iran Ceasefire…\n- 宏观/Fed线索：Treasury Wine Estates moves to “regional operating model”…"
         }
       ]
     },
@@ -29,47 +29,76 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "夜视基金对NVIDIA（NVDA）的看法",
+          "time": "2026-04-24 05:59:12",
+          "title": "Nvidia合作伙伴超出预期的业绩增长，但AI股价下跌。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nightview-fund-views-nvidia-nvda-123946393.html",
-          "title_en": "Here’s Nightview Fund’s Views on NVIDIA (NVDA)"
+          "url": "https://www.investors.com/news/vertiv-stock-vertiv-earnings-nvidia-partner-data-centers/?src=A00220&yptr=yahoo",
+          "title_en": "Nvidia Partner Beats Views With Accelerating Earnings Growth, But AI Stock Falls."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "阿道夫斯（ADSK）因转型为云平台的订阅模式而增强",
+          "time": "2026-04-24 05:59:12",
+          "title": "布罗德كم公司分拆：AVGO股票下跌，谷歌考虑与其竞争对手达成协议。是否应该在低点买入？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/autodesk-adsk-strengthened-transition-subscription-124341419.html",
-          "title_en": "Autodesk (ADSK) Strengthened from Its Transition to a Subscription-Based Cloud Platform"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-breakup-avgo-stock-slumps-140002944.html",
+          "title_en": "Broadcom Breakup: AVGO Stock Slumps as Google Considers Its Rival for a Deal. Should You Buy the Dip?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "Meta因欺诈性Facebook和Instagram广告而赚取数十亿美元：诉讼",
+          "time": "2026-04-24 05:59:12",
+          "title": "苹果股价在蒂姆·库克的重组背景下：巴克哈特选项数据显示苹果股价在4月30日前将如何走势",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/consumer-federation-america-sues-meta-123725834.html",
-          "title_en": "Meta made billions from scam Facebook and Instagram ads: lawsuit"
+          "url": "https://finance.yahoo.com/markets/options/articles/amidst-tim-cook-shake-barchart-140201391.html",
+          "title_en": "Amidst Tim Cook Shake-Up, Here Is What Barchart Options Data Shows for Apple Stock Ahead of April 30"
         },
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "埃隆·马斯克公布了Terafab AI芯片项目计划",
+          "time": "2026-04-24 05:59:12",
+          "title": "Ares管理公司(ARES)Q1下滑31.6%主要原因是人工智能恐惧",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/factboxelon-musk-lays-out-terafab-ai-chip-project-plan-4634120",
-          "title_en": "Factbox-Elon Musk lays out Terafab AI chip project plan"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ares-management-corporation-ares-fell-134436312.html",
+          "title_en": "Ares Management Corporation (ARES) Fell 31.6% in Q1 Due to AI Fears"
         },
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "NextEra预计在三个月内与日本支持的天然气发电数据中心项目达成协议。",
+          "time": "2026-04-24 05:59:12",
+          "title": "微软公司（MSFT）成为强有力的长期投资的原因有哪些？",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/nextera-energy-beats-profit-estimates-on-renewables-strength-higher-power-demand-4632164",
-          "title_en": "NextEra expects agreements on Japan-backed gas-fired data center projects within three months"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/makes-microsoft-corporation-msft-strong-134029149.html",
+          "title_en": "What Makes Microsoft Corporation (MSFT) a Strong Long-Term Bet?"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-24 05:59:12",
+          "title": "苹果即将推出全新Siri助手，是否将成为苹果股价的关键驱动力？",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ready-siri-assistant-game-changer-133002359.html",
+          "title_en": "Get Ready for a New Siri: Will a New Assistant Be a Game-Changer for Apple Stock?"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-24 05:20:51",
+          "title": "德州仪器股价跃升19%，创2000年以来最大单日涨幅，受人工智能需求大幅上升的影响。",
+          "summary": "德州仪器的利润和收入超出预期，并给出了乐观的指导。",
+          "url": "https://www.cnbc.com/2026/04/23/texas-instruments-stock-soars-on-q1-earnings-as-ai-demand-jumps.html",
+          "title_en": "Texas Instruments' stock jumps 19% for best day since 2000 as AI demand soars",
+          "summary_en": "Texas Instruments beat on earnings and revenue and gave upbeat guidance."
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-04-24 05:12:00",
+          "title": "员工收购如微软的可能变得更加常见。以下是员工需要了解的内容。",
+          "summary": "在今天的就业市场中，像微软正在 reportedly 提议的收购可能会变得更加常见。",
+          "url": "https://www.marketwatch.com/story/employee-buyouts-like-microsofts-could-become-more-common-heres-what-workers-need-to-know-2b439281?mod=mw_rss_topstories",
+          "title_en": "Employee buyouts like Microsoft’s could become more common. Here’s what workers need to know.",
+          "summary_en": "In today’s job market, buyouts like what Microsoft is reportedly proposing might become more common."
         },
         {
           "source": "CNBC-Top",
@@ -90,16 +119,6 @@
           "url": "https://www.cnbc.com/2026/04/23/meta-will-cut-10percent-of-workforce-as-it-pushes-more-into-ai.html",
           "title_en": "Meta will cut 10% of workforce as company pushes deeper into AI",
           "summary_en": "Meta plans to lay off 10% of its workforce, about 8,000 employees, as the company continues to ramp up investments in artificial intelligence."
-        },
-        {
-          "source": "CNBC-Top",
-          "ticker": "RSS",
-          "time": "2026-04-24 04:11:09",
-          "title": "德州仪器股价跃升19%，创2000年以来最大单日涨幅，受人工智能需求大幅上升的影响。",
-          "summary": "德州仪器的利润和收入超出预期，并给出了乐观的指导。",
-          "url": "https://www.cnbc.com/2026/04/23/texas-instruments-stock-soars-on-q1-earnings-as-ai-demand-jumps.html",
-          "title_en": "Texas Instruments' stock jumps 19% for best day since 2000 as AI demand soars",
-          "summary_en": "Texas Instruments beat on earnings and revenue and gave upbeat guidance."
         },
         {
           "source": "CNBC-World",
@@ -180,26 +199,6 @@
           "url": "https://www.cnbc.com/2026/04/22/meta-tracks-employee-usage-on-google-linkedin-ai-training-project.html",
           "title_en": "Meta is tracking employee keystrokes on Google, LinkedIn, Wikipedia as part of AI training initiative",
           "summary_en": "As part of an AI initiative that tracks employee keystrokes and mouse clicks, Meta is monitoring use of popular sites like Google, LinkedIn and Wikipedia."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-04-23 01:42:53",
-          "title": "微软的LinkedIn任命长期高管丹·夏皮罗(Dan Shapero)为新CEO。",
-          "summary": "微软宣布丹尼尔·沙佩罗(Daniel Shapero)将成为LinkedIn的新CEO，直接向Ryan Roslansky汇报，后者自2020年起担任CEO职务，并现已获得更多职责。",
-          "url": "https://www.cnbc.com/2026/04/22/microsofts-linkedin-makes-executive-daniel-shapero-its-new-ceo.html",
-          "title_en": "Microsoft's LinkedIn names longtime exec Dan Shapero its new CEO",
-          "summary_en": "Microsoft said Daniel Shapero will be the new CEO of LinkedIn, reporting to Ryan Roslansky, who held the job since 2020 and now has added responsibility."
-        },
-        {
-          "source": "CNBC-Tech",
-          "ticker": "RSS",
-          "time": "2026-04-23 00:19:51",
-          "title": "谷歌公布了用于人工智能训练和推理的芯片，最新的一次挑战Nvidia。",
-          "summary": "谷歌正在为运行人工智能模型而打包大量静态随机存取存储器，遵循Nvidia的计划。",
-          "url": "https://www.cnbc.com/2026/04/22/google-launches-training-and-inference-tpus-in-latest-shot-at-nvidia.html",
-          "title_en": "Google unveils chips for AI training and inference in latest shot at Nvidia",
-          "summary_en": "Google is packing ample amounts of static random access memory into a dedicated chip for running artificial intelligence models, following Nvidia's plans."
         }
       ]
     },
@@ -208,13 +207,32 @@
       "badge": "Fed / Policy",
       "items": [
         {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-24 05:59:12",
+          "title": "Treasury Wine Estates转向“区域运营模型”。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/treasury-wine-estates-moves-regional-133112684.html",
+          "title_en": "Treasury Wine Estates moves to “regional operating model”"
+        },
+        {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "耐克计划裁员1,400人",
+          "time": "2026-04-24 05:59:12",
+          "title": "耐克将裁员约1,400人，推动效率提升",
           "summary": "",
           "url": "https://www.investing.com/news/stock-market-news/nike-to-cut-1400-jobs-4634137",
-          "title_en": "Nike to cut 1,400 jobs"
+          "title_en": "Struggling Nike will cut around 1,400 jobs in efficiency push"
+        },
+        {
+          "source": "MarketWatch-Top",
+          "ticker": "RSS",
+          "time": "2026-04-24 05:22:00",
+          "title": "耐克将裁员1,400人——公司的变革还未结束",
+          "summary": "耐克周四表示，将在全球业务中裁员约1,400人，这是该公司试图在产品更快上市的同时，继续减少员工的最新努力。",
+          "url": "https://www.marketwatch.com/story/nike-is-cutting-1-400-more-jobs-the-companys-shakeup-is-not-done-yet-2851f3b8?mod=mw_rss_topstories",
+          "title_en": "Nike is cutting 1,400 more jobs — and the company’s shake-up is not done yet",
+          "summary_en": "Nike on Thursday said it would cut around 1,400 jobs in its global operations, the latest efforts to shrink staff as the sneaker-maker’s turnaround efforts remain in flux and as it tries to bring new products to shelves more quickly."
         },
         {
           "source": "MarketWatch-Top",
@@ -253,22 +271,32 @@
       "badge": "Risk / Oil / Gold",
       "items": [
         {
-          "source": "Investing-Markets",
+          "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "特朗普称不愿意急于与伊朗达成协议，称德黑兰面临着时间压力。",
+          "time": "2026-04-24 05:59:12",
+          "title": "美国股市上涨，美国延长伊朗停火",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/hormuz-anxiety-persists-with-outlook-for-iran-peace-talks-murky-4631520",
-          "title_en": "Trump says doesn’t want to ’rush’ on Iran deal, says Tehran is under time pressure"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-advance-us-extends-iran-140853510.html",
+          "title_en": "Stocks Advance as US Extends Iran Ceasefire"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "特朗普否认将使用核武器对抗伊朗",
+          "time": "2026-04-24 05:59:12",
+          "title": "股市收盘下跌，伊朗协议希望减弱，季度财报表现不一",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/trump-rules-out-nuclear-weapon-use-against-iran-93CH-4634070",
-          "title_en": "Trump rules out nuclear weapon use against Iran"
+          "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-slip-as-investors-pause-for-clarity-on-usiran-war-4631491",
+          "title_en": "Stocks close lower on fading hopes for quick Iran deal, mixed quarterly earnings"
+        },
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-24 05:46:58",
+          "title": "特朗普称以色列和黎巴嫩停火协议延长三周",
+          "summary": "以色列和黎巴嫩同意在白宫与美国高级官员会面后，延长停火期三周，美国总统唐纳德·特朗普表示。",
+          "url": "https://www.cnbc.com/2026/04/23/trump-israel-lebanon-ceasefire-iran-war.html",
+          "title_en": "Trump says Israel-Lebanon ceasefire extended by three weeks",
+          "summary_en": "Israel and Lebanon agreed to extend their ceasefire by three weeks following a meeting in the White House with top U.S. officials, President Donald Trump said."
         },
         {
           "source": "CNBC-World",
@@ -369,39 +397,21 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "特斯拉财报：投资者关注的点",
+          "time": "2026-04-24 05:59:12",
+          "title": "特斯拉的业务正处于历史性的十字路口，但其股价又如何？",
           "summary": "",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-22-2026/card/tesla-earnings-what-investors-are-watching-xoZz7fR0h5ySPNMsAgU1?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Tesla Earnings: What Investors Are Watching"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "特斯拉股价将会上涨还是下跌？ 选项市场的看法",
-          "summary": "",
-          "url": "https://www.barrons.com/livecoverage/tesla-earnings-stock-price-elon-musk-evs-ai-spacex/card/will-tesla-stock-rise-or-fall-after-earnings-what-options-markets-say--cqNX0aYATQodoHU0gjVp?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Will Tesla Stock Rise or Fall After Earnings? What Options Markets Say."
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "Ross Gerber 重申了FSD退款要求，称Elon Musk的特斯拉需要让人们获得补偿：\"从未如期实现\"",
-          "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ross-gerber-reiterates-fsd-refund-123344034.html",
-          "title_en": "Ross Gerber Reiterates FSD Refund Demand, Says Elon Musk's Tesla Needs To Make People Whole: 'Never Worked As Promised'"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-business-historic-crossroads-stock-133002066.html",
+          "title_en": "Tesla’s Business Is at a Historic Crossroads, but What About Its Stock Price?"
         },
         {
           "source": "MarketWatch-Top",
           "ticker": "RSS",
-          "time": "2026-04-24 04:27:00",
-          "title": "特斯拉面临着早期客户的愤怒，陷入了无论如何都难以脱身的困境。",
-          "summary": "该公司计划更换旧车辆计算机，这一计划被一位分析师形容为“昂贵且可能不合理”。",
-          "url": "https://www.marketwatch.com/story/tesla-is-in-a-no-win-situation-as-it-faces-the-ire-of-its-earliest-customers-ae4bb958?mod=mw_rss_topstories",
-          "title_en": "Tesla is in a no-win situation as it faces the ire of its earliest customers",
-          "summary_en": "The company plans to replace old vehicle computers in a plan that one analyst said seemed “expensive and perhaps not even sensible.”"
+          "time": "2026-04-24 05:02:00",
+          "title": "Mobileye的无人车出租车计划取得了“显著进展”，该股大幅上涨。",
+          "summary": "一家重要的合作伙伴也宣布了扩张计划，这让Mobileye可以展示其技术。",
+          "url": "https://www.marketwatch.com/story/mobileyes-robotaxi-ambitions-have-progressed-significantly-and-the-stock-surges-971fb467?mod=mw_rss_topstories",
+          "title_en": "Mobileye’s robotaxi ambitions have ‘progressed significantly,’ and the stock surges",
+          "summary_en": "A key partner also announced expansion plans, which Mobileye said can show off its technology."
         },
         {
           "source": "CNBC-Tech",
@@ -452,7 +462,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
+          "time": "2026-04-24 05:59:12",
           "title": "凯西伍德投资近900万美元于大幅上涨的超大市值股",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-900-000-021700179.html",
@@ -461,155 +471,155 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "Ameren公司的季度收益预览：你需要知道的",
+          "time": "2026-04-24 05:59:12",
+          "title": "波音首季亏损少于预期，收获良好。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ameren-corporations-quarterly-earnings-preview-124524610.html",
-          "title_en": "Ameren Corporation's Quarterly Earnings Preview: What You Need to Know"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-lost-less-money-expected-135704182.html",
+          "title_en": "Boeing Lost Less Money Than Expected in Q1, Will Take It."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "Coinbase全球将发布财报前您需要了解的内容",
+          "time": "2026-04-24 05:59:12",
+          "title": "埃克森电力公司（Exelon Corporation）下一期财报将带来什么",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/know-ahead-coinbase-globals-earnings-124421630.html",
-          "title_en": "What You Need to Know Ahead of Coinbase Global's Earnings Release"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-exelon-corporations-next-135800615.html",
+          "title_en": "Here's What to Expect From Exelon Corporation's Next Earnings Report"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "分析报告：Annaly Capital Management Inc",
+          "time": "2026-04-24 05:59:12",
+          "title": "斯蒂夫尔（Stifel）刚刚将AMD股票价格目标提高了14%。",
           "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_5946_AnalystReport_1776963615000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: Annaly Capital Management Inc"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-stifel-just-raised-amd-140002626.html",
+          "title_en": "Why Stifel Just Raised Its AMD Stock Price Target by 14%"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "Gnosis Freight bổ sung Walmart老兵Gary Adams至其董事会",
+          "time": "2026-04-24 05:59:12",
+          "title": "摩根大通发出警告，投资者转向安全资产",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/gnosis-freight-adds-walmart-veteran-123500260.html",
-          "title_en": "Gnosis Freight adds Walmart veteran Gary Adams to its board"
+          "url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-issues-blunt-warning-investors-193000280.html",
+          "title_en": "JPMorgan issues blunt warning as investors move to safety"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "卡θι伍德：比特币的大崩盘时代已经过去",
+          "time": "2026-04-24 05:59:12",
+          "title": "西蒙地产集团(Q1 2026财报): investors期待什么",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/cathie-wood-days-big-crashes-124600630.html",
-          "title_en": "Cathie Wood: The Days of Big Crashes in Bitcoin Are Over"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/simon-property-groups-q1-2026-135423336.html",
+          "title_en": "Simon Property Group's Q1 2026 Earnings: What to Expect"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "玉米价格周三继续上涨",
+          "time": "2026-04-24 05:59:12",
+          "title": "Citi和UBS对Micron Technology（MU）的看法",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/corn-pushing-higher-wednesday-123129390.html",
-          "title_en": "Corn Pushing Higher on Wednesday"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/citi-ubs-think-micron-technology-135535187.html",
+          "title_en": "Here’s What Citi and UBS Think About Micron Technology (MU)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "豆类价格继续上涨至周三",
+          "time": "2026-04-24 05:59:12",
+          "title": "WTI股刚刚收到一份新的超越预期报告——以下是关键点",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-extending-gains-wednesday-123129631.html",
-          "title_en": "Soybeans Extending Gains to Wednesday"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wti-stock-just-got-fresh-135100485.html",
+          "title_en": "WTI Stock Just Got A Fresh Outperform Call — Here’s What Stands Out"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "分析报告：国际商业机器公司（IBM）",
+          "time": "2026-04-24 05:59:12",
+          "title": "Ultra Clean Holdings (UCTT) Q1收益达141.5%",
           "summary": "",
-          "url": "https://finance.yahoo.com/research/reports/ARGUS_3073_AnalystReport_1776963615000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-          "title_en": "Analyst Report: International Business Machine"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ultra-clean-holdings-uctt-surged-140338351.html",
+          "title_en": "Ultra Clean Holdings (UCTT) Delivered a 141.5% Return in Q1"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "制造商花费约320亿美元培训工人：MI调查",
+          "time": "2026-04-24 05:59:12",
+          "title": "波音首季业绩超预期，改善的客机交付减少亏损",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/manufacturers-spent-32b-training-workers-123818707.html",
-          "title_en": "Manufacturers spent about $32B training workers: MI survey"
+          "url": "https://finance.yahoo.com/markets/stocks/article/boeing-q1-results-top-estimates-as-improving-jet-deliveries-cut-losses-173026652.html",
+          "title_en": "Boeing Q1 results top estimates as improving jet deliveries cut losses"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "EQT公司2026年第一季度财报电话会议总结",
+          "time": "2026-04-24 05:59:12",
+          "title": "在约会中如何避免“财务未来捏造”",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/eqt-corporation-q1-2026-earnings-123000132.html",
-          "title_en": "EQT Corporation Q1 2026 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/articles/financial-future-faking-avoid-while-140107515.html",
+          "title_en": "What is 'financial future faking' and how do you avoid it while dating?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "查伯有限责任公司2026年第一季度财报电话会议总结",
+          "time": "2026-04-24 05:59:12",
+          "title": "中小企业抛弃“观望”态度，关税迫使供应链重构",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/chubb-limited-q1-2026-earnings-123000542.html",
-          "title_en": "Chubb Limited Q1 2026 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/economy/policy/articles/smbs-ditch-wait-see-tariffs-140000027.html",
+          "title_en": "SMBs ditch ‘wait-and-see’ as tariffs force supply chain overhaul"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "布里奇沃特银行控股公司2026年第一季度财报电话会议总结",
+          "time": "2026-04-24 05:59:12",
+          "title": "德莱克美国（DK）正在经历快速的情绪转变。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bridgewater-bancshares-inc-q1-2026-123000191.html",
-          "title_en": "Bridgewater Bancshares, Inc. Q1 2026 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/sectors/energy/articles/why-delek-us-dk-seeing-135011786.html",
+          "title_en": "Why Delek US (DK) Is Seeing A Rapid Shift In Sentiment"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "TrustCo银行corp. NY 2026年第一季度财报电话会议总结",
+          "time": "2026-04-24 05:59:12",
+          "title": "联邦快递Q1财报超预期，但燃油价格飙升影响指导",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/trustco-bank-corp-ny-q1-123000690.html",
-          "title_en": "TrustCo Bank Corp NY Q1 2026 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/stocks/article/united-q1-earnings-beat-but-fuel-price-surge-hits-guidance-200241530.html",
+          "title_en": "United Q1 earnings beat, but fuel price surge hits guidance"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "安纳利资本管理公司Q1 2026财报电话会议摘要",
+          "time": "2026-04-24 05:59:12",
+          "title": "分析师认为帕拉太平洋（PARR）有可能在此时出乎意料",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/annaly-capital-management-inc-q1-123000622.html",
-          "title_en": "Annaly Capital Management, Inc. Q1 2026 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/sectors/energy/articles/why-analysts-think-par-pacific-134921878.html",
+          "title_en": "Why Analysts Think Par Pacific (PARR) Could Surprise From Here"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "国家银行控股公司2026年第一季度财报电话会议总结",
+          "time": "2026-04-24 05:59:12",
+          "title": "抵押贷款REIT ETF REM的收益率高于国债，但要注意细节。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/national-bank-holdings-corporation-q1-123000205.html",
-          "title_en": "National Bank Holdings Corporation Q1 2026 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mortgage-reit-etf-rem-yields-135412396.html",
+          "title_en": "Mortgage REIT ETF REM yields more than Treasuries, but watch the fine print"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "阿米奈尔制药公司2026年第一季度财报电话会议总结",
+          "time": "2026-04-24 05:59:12",
+          "title": "策略继续推动比特币的上涨，通过MSTR股票发行。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/healthcare/articles/amneal-pharmaceuticals-inc-q1-2026-123000705.html",
-          "title_en": "Amneal Pharmaceuticals, Inc. Q1 2026 Earnings Call Summary"
+          "url": "https://www.investors.com/news/mstr-stock-strategy-interest-costs-jump-bitcoin-price-biggest-buy-since-2024/?src=A00220&yptr=yahoo",
+          "title_en": "Strategy Keeps Powering Bitcoin With MSTR Stock Issuance"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-24 04:58:15",
-          "title": "格鲁波航空公司第一季度2026年财报电话会议总结",
+          "time": "2026-04-24 05:59:12",
+          "title": "AMC 股票在过去的三个星期里几乎翻倍了。现在是时候买入了吗？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/grupo-aerom-xico-b-c-123000338.html",
-          "title_en": "Grupo Aeroméxico, S.A.B. de C.V. Q1 2026 Earnings Call Summary"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amc-stock-nearly-doubled-over-141120826.html",
+          "title_en": "AMC Stock Has Nearly Doubled Over the Past 3 Weeks. Should You Buy Shares Here?"
         }
       ]
     }
