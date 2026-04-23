@@ -1,6 +1,6 @@
 {
   "date": "2026.04.23",
-  "generatedAtBJT": "2026-04-23 15:05:21",
+  "generatedAtBJT": "2026-04-23 16:36:51",
   "translation": {
     "enabled": true,
     "provider": "nvidia",
@@ -14,11 +14,11 @@
         {
           "source": "DayNews",
           "ticker": "SUMMARY",
-          "time": "2026-04-23 15:05:21",
+          "time": "2026-04-23 16:36:51",
           "title": "主线结论（系统版｜条件触发）",
-          "summary": "- 主导因素：10年期利率 + 原油/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜恐惧指数（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；恐惧指数上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且恐惧指数抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且恐惧指数回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度",
+          "summary": "- 主导因子：10年期利率 + 原油价格/风险事件\n- 四件套监控：10年期利率（方向/拐点）｜美元指数（强弱）｜VIX指标（是否抬升）｜原油价格/风险事件（是否升级）\n- 跨资产联动：10年期利率上升→纳斯达克/标普500承压更明显；美元指数上升→黄金更易回撤；VIX指标上升→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10年期利率继续上行且VIX抬升→偏纳斯达克/标普500先空后看、黄金偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10年期利率回落且VIX回落→偏纳斯达克/标普500修复反弹、黄金喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→",
           "url": "#",
-          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Nat-Gas Prices Recover on Carry Over Support from Crude Oil…\n- 宏观/Fed线索：Mortgage rate predictions for the next 5 years: Where experts — and AI —…"
+          "summary_en": "- 主导因子：10Y/利率 + 原油/风险事件\n- 四件套监控：10Y（方向/拐点）｜DXY（强弱）｜VIX（是否抬升）｜原油/风险事件（是否升级）\n- 跨资产联动：10Y↑→NQ/ES承压更明显；DXY↑→GC更易回撤；VIX↑→盘中更易急拉急杀/假突破\n- 未来90分钟关键窗口：关注是否临近数据/讲话/美债拍卖/开盘等事件窗；事件前后避免追单\n- 情景A：若10Y继续上行且VIX抬升→偏NQ/ES先空后看、GC偏弱震荡；操作偏好：等确认后顺势\n- 情景B：若10Y回落且VIX回落→偏NQ/ES修复反弹、GC喘息；操作偏好：回踩参与、避免追高\n- 期权：事件密度高→偏买波动/带保护；事件窗过去且VIX回落→再考虑卖波动\n- ——\n- 地缘/避险线索：Stocks Fall as Iran Refuses to Attend Peace Talks…\n- 宏观/Fed线索：Kevin Warsh's Fed Record: What It Signals for Interest Rates…"
         }
       ]
     },
@@ -29,7 +29,7 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
+          "time": "2026-04-23 16:36:47",
           "title": "伯克希尔哈撒韦公司大幅减持亚马逊股份",
           "summary": "",
           "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-dumped-77-amazon-003700673.html",
@@ -38,47 +38,38 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "道琼斯指数AI巨头Nvidia、英镑、维京在买入区或附近",
+          "time": "2026-04-23 16:36:47",
+          "title": "中国iPhone出货量跃升20%，你是否应该买苹果股票？",
           "summary": "",
-          "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-nvidia-nvda-stock-buy-zone-strl-vik-xpo-markets/?src=A00220&yptr=yahoo",
-          "title_en": "Dow Jones AI Giant Nvidia, Sterling, Viking In Or Near Buy Zones"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/china-iphone-shipments-jump-20-204638686.html",
+          "title_en": "As China iPhone Shipments Jump 20%, Should You Buy Apple Stock?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "错过了NVIDIA？AMD可能是你第二次机会赚取巨额AI收益",
+          "time": "2026-04-23 16:36:47",
+          "title": "Astera Labs 股价大幅上涨，受益于与 Anthropic 的重大 Amazon 合作。是否在此时购买 ALAB？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/missed-nvidia-amd-could-second-190131129.html",
-          "title_en": "Missed Nvidia? AMD Could Be Your Second Chance to Earn Massive AI Gains"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-stock-jumps-major-205744542.html",
+          "title_en": "Astera Labs Stock Jumps on Major Amazon-Anthropic Deal. Should You Buy ALAB Here?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "为什么JPMorgan认为AI股有动力。",
+          "time": "2026-04-23 16:36:47",
+          "title": "在蒂姆·库克担任CEO期间，苹果公司及其股票表现如何",
           "summary": "",
-          "url": "https://www.investors.com/news/technology/jpmorgan-ai-stocks-momentum-back/?src=A00220&yptr=yahoo",
-          "title_en": "What AI Bubble? Why JPMorgan Says AI Stocks Have Momentum Back."
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-performed-during-tim-204600020.html",
+          "title_en": "How Apple and Its Stock Performed During Tim Cook's Time as CEO"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "亚马逊计划在这家人工智能初创公司投资25亿美元。",
+          "time": "2026-04-23 16:36:47",
+          "title": "消费者监督组织起诉Meta，指控其在广告中获利。",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/amazon-invest-25-billion-ai-190228730.html",
-          "title_en": "Amazon to Invest $25 Billion in This AI Start-Up"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "蒂姆·库克的苹果遗产从股价开始，远远不止于此。数字告诉了我们什么。",
-          "summary": "",
-          "url": "https://www.barrons.com/articles/tim-cook-apple-stock-ae2b98ac?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Tim Cook’s Apple Legacy Starts With the Stock, and Goes Way Beyond. The Story the Numbers Tell."
+          "url": "https://finance.yahoo.com/markets/stocks/articles/consumer-watchdog-group-files-suit-211300106.html",
+          "title_en": "Consumer watchdog group files suit alleging Meta profited on ads for scams"
         },
         {
           "source": "CNBC-World",
@@ -199,6 +190,16 @@
           "url": "https://www.cnbc.com/2026/04/22/retail-traders-can-now-get-long-openai-as-robinhoods-venture-fund-takes-a-stake.html",
           "title_en": "Retail traders can now get long OpenAI as Robinhood's venture fund takes a stake",
           "summary_en": "Robinhood's proprietary investment vehicle has taken a $75 million stake in OpenAI, the trading company announced Wednesday."
+        },
+        {
+          "source": "CNBC-Tech",
+          "ticker": "RSS",
+          "time": "2026-04-22 07:00:01",
+          "title": "吉姆·克拉默称蒂姆·库克在苹果CEO任内完成了\"几乎不可能\"的事情",
+          "summary": "CNBC的吉姆·克雷默(Jim Cramer)回顾了苹果CEO蒂姆·库克(Tim Cook)在建立\"历史上最伟大的消费者企业\"方面的遗产。",
+          "url": "https://www.cnbc.com/2026/04/21/cramer-tim-cook-accomplished-something-almost-impossible-apple-ceo.html",
+          "title_en": "Jim Cramer says Tim Cook accomplished something 'almost impossible' as Apple CEO",
+          "summary_en": "CNBC's Jim Cramer reflects on Apple CEO Tim Cook's legacy building the \"greatest consumer-based enterprise in history.\""
         }
       ]
     },
@@ -209,38 +210,29 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
+          "time": "2026-04-23 16:36:47",
+          "title": "凯文·沃什的联邦储备委员会记录：这意味着利率会如何变化",
+          "summary": "",
+          "url": "https://finance.yahoo.com/economy/policy/articles/kevin-warshs-fed-record-signals-203914796.html",
+          "title_en": "Kevin Warsh's Fed Record: What It Signals for Interest Rates"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-23 16:36:47",
           "title": "预测未来五年房贷利率：专家和AI认为2030年利率会是多少",
           "summary": "",
           "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-for-the-next-5-years-rates-by-2030-195826846.html",
           "title_en": "Mortgage rate predictions for the next 5 years: Where experts — and AI — think rates will be by 2030"
         },
         {
-          "source": "YahooFinance-Markets",
+          "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "今日房贷和再融资利率，2026年4月21日：利率保持大致稳定",
+          "time": "2026-04-23 16:36:47",
+          "title": "海内根公司表示，能源成本和通胀可能会削弱啤酒销量。",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-april-21-2026-100000413.html",
-          "title_en": "Mortgage and refinance rates today, April 21, 2026: Rates hold mostly firm"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "今天，4月21日，2026年：HELOC和家庭抵押贷款利率",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-april-21-2026-100000548.html",
-          "title_en": "HELOC and home equity loan rates today, April 21, 2026: Understand which option is best for you"
-        },
-        {
-          "source": "YahooFinance-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "今日最佳短期存款利率（2026年4月21日），最高可达4.01%年利率（APY）",
-          "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-tuesday-april-21-2026-100000828.html",
-          "title_en": "Best money market account rates today, April 21, 2026 (Earn up to 4.01% APY)"
+          "url": "https://www.investing.com/news/stock-market-news/heinekens-q1-revenue-beats-forecasts-4631181",
+          "title_en": "Energy costs, inflation could sap beer sales, Heineken says"
         },
         {
           "source": "CNBC-Top",
@@ -301,90 +293,66 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "天然气价格反弹，受原油价格的继承性支撑",
+          "time": "2026-04-23 16:36:47",
+          "title": "股市下跌，伊朗拒绝参加和平谈判",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-recover-carry-191744179.html",
-          "title_en": "Nat-Gas Prices Recover on Carry Over Support from Crude Oil"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-iran-refuses-attend-204015075.html",
+          "title_en": "Stocks Fall as Iran Refuses to Attend Peace Talks"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "原油价格大涨 美伊谈判暂停",
+          "time": "2026-04-23 16:36:47",
+          "title": "股市今日：道指下跌，油价上涨，特朗普延长停火令；这些金矿股跌落（实时报道）",
           "summary": "",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-rally-us-191916863.html",
-          "title_en": "Crude Oil Prices Rally as US-Iran Talks on Hold"
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-warsh-hearing/?src=A00220&yptr=yahoo",
+          "title_en": "Stock Market Today: Dow Falls As Oil Prices Rise, Trump Extends Ceasefire; These Gold Miners Fall (Live Coverage)"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "LSB Industries (LXU) 被下调至行业表现水平 由于伊朗冲突",
+          "time": "2026-04-23 16:36:47",
+          "title": "RTX股票飙升，随后下跌，业绩超出预期。为何在伊朗战争背景下提高预期？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lsb-industries-lxu-downgraded-sector-192647394.html",
-          "title_en": "LSB Industries (LXU) Downgraded to Sector Perform Amid Iran Conflict"
+          "url": "https://www.barrons.com/articles/rtx-earnings-stock-price-8b619caf?siteid=yhoof2&yptr=yahoo",
+          "title_en": "RTX Stock Pops, Then Drops, as Earnings Beat. Why It Raised Guidance Amid Iran War."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "美元升值，美伊谈判陷入僵局",
+          "time": "2026-04-23 16:36:47",
+          "title": "美国股市今日：道指、标普500指数、纳斯达克指数因美伊和谈不确定性而下滑。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-advances-us-iran-talks-193955825.html",
-          "title_en": "Dollar Advances with US-Iran Talks in Limbo"
+          "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-dow-sp-500-nasdaq-slide-amid-us-iran-peace-talk-uncertainty-231748032.html",
+          "title_en": "Stock market today: Dow, S&P 500, Nasdaq slide amid US-Iran peace talk uncertainty"
+        },
+        {
+          "source": "YahooFinance-Markets",
+          "ticker": "RSS",
+          "time": "2026-04-23 16:36:47",
+          "title": "伊朗战争至今已使全球损失了50亿美元的石油供应。",
+          "summary": "",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/iran-war-cost-world-50-220000257.html",
+          "title_en": "Iran War Has Cost The World $50 Billion of Lost Oil Supply, So Far"
         },
         {
           "source": "Investing-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "涅斯莱（Nestle）维持全年预期，伊朗局势对公司影响有限。",
+          "time": "2026-04-23 16:36:47",
+          "title": "欧洲股市整体小幅下滑，霍尔木兹海峡紧张局势持续",
           "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/nestle-beats-firstquarter-sales-estimates-4631178",
-          "title_en": "Nestle maintains full-year outlook as Iran war has limited impact so far"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "三星员工抗议与SK Hynix巨大工资差距，威胁长期罢工",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/samsung-workers-protest-over-huge-pay-gap-with-sk-hynix-threaten-long-strike-4631232",
-          "title_en": "Samsung workers protest over huge pay gap with SK Hynix, threaten long strike"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "Heineken warns of impact of Iran war after first-quarter beat",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/heinekens-q1-revenue-beats-forecasts-4631181"
-        },
-        {
-          "source": "Investing-Markets",
-          "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "Iran war boosts European logistics profits as shipping chaos persists",
-          "summary": "",
-          "url": "https://www.investing.com/news/stock-market-news/iran-war-boosts-european-logistics-profits-as-shipping-chaos-persists-4631206"
+          "url": "https://www.investing.com/news/stock-market-news/european-stocks-inch-broadly-lower-as-hormuz-tensions-remain-4631273",
+          "title_en": "European stocks inch broadly lower as Hormuz tensions remain"
         },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
-          "time": "2026-04-23 14:57:17",
-          "title": "Asia stocks pare gains amid reports U.S. intercepted Iranian oil tankers, rattling fragile ceasefire optimism",
-          "summary": "Asian equities retreated after reports of U.S. tanker interceptions raised doubts over the durability of an Iran ceasefire and risk sentiment.",
-          "url": "https://www.cnbc.com/2026/04/23/asia-markets-today-nikkei-kospi-hangseng-sensex-asx-iran-trump.html"
-        },
-        {
-          "source": "CNBC-World",
-          "ticker": "RSS",
-          "time": "2026-04-23 13:23:05",
-          "title": "欧洲股市开盘时将处于负 Territory，石油价格上涨",
-          "summary": "欧洲股市预计将在周四以负面开盘，因为地区市场情绪下降。",
-          "url": "https://www.cnbc.com/2026/04/23/european-markets-stoxx-600-ftse-dax-cac-iran-latest-oil-prices.html",
-          "title_en": "European stocks to open in negative territory as oil prices gain",
-          "summary_en": "European stocks are expected to open in negative territory on Thursday as regional market sentiment declines."
+          "time": "2026-04-23 15:54:39",
+          "title": "亚洲市场大多数股市收盘低迷，因为美国据报截获伊朗油轮，打乱了脆弱的停火乐观",
+          "summary": "亚洲股市回落，美国对伊朗油轮拦截的报告引发了对伊朗停火持久性的疑虑。",
+          "url": "https://www.cnbc.com/2026/04/23/asia-markets-today-nikkei-kospi-hangseng-sensex-asx-iran-trump.html",
+          "title_en": "Asia markets mostly end lower as U.S. reportedly intercepts Iranian oil tankers, rattling fragile ceasefire optimism",
+          "summary_en": "Asian equities retreated after reports of U.S. tanker interceptions raised doubts over the durability of an Iran ceasefire."
         },
         {
           "source": "CNBC-Top",
@@ -427,7 +395,7 @@
           "summary_en": "The United Arab Emirates has engineered one of the world's most resilient travel and tourism economies. This Mideast war may be its biggest rebound test."
         },
         {
-          "source": "CNBC-Top",
+          "source": "CNBC-World",
           "ticker": "RSS",
           "time": "2026-04-23 03:48:16",
           "title": "霍尔木兹海峡基本上仍然关闭，伊朗在特朗普暂停军事行动后扣押了更多船只。",
@@ -465,6 +433,26 @@
           "url": "https://www.cnbc.com/2026/04/22/strait-of-hormuz-ships-attacked-iran-war.html",
           "title_en": "Iran says it has seized two ships in Strait of Hormuz after U.S. extends ceasefire",
           "summary_en": "The attacks come shortly after President Donald Trump said the U.S. would extend the ceasefire with Iran to allow peace talks to continue."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-04-22 18:37:32",
+          "title": "特朗普延长伊朗停火，但市场关注已经转移到其他地方。",
+          "summary": "伊朗和华盛顿关于停火状态的信号相互矛盾，进一步谈判的前景仍不明朗。",
+          "url": "https://www.cnbc.com/2026/04/22/markets-shrug-at-trumps-iran-ceasefire-extension.html",
+          "title_en": "Trump extends Iran ceasefire — but market focus has already drifted elsewhere",
+          "summary_en": "Prospects for further negotiations remain uncertain, with Tehran and Washington offering conflicting signals on the ceasefire's status."
+        },
+        {
+          "source": "CNBC-World",
+          "ticker": "RSS",
+          "time": "2026-04-22 12:53:30",
+          "title": "霍尔木兹海峡只是中国和美国在太平洋发生战争的“试点”如果发生，新加坡外长警告",
+          "summary": "巴拉克里希南与CNBC的史蒂夫·塞德威克在CONVERGE LIVE活动上讨论了新加坡对美中关系的复杂性。",
+          "url": "https://www.cnbc.com/2026/04/22/cnbc-converge-live-hormuz-singapore-fm-vivian-iran-war.html",
+          "title_en": "Hormuz is just a ‘dry run’ if China and U.S. go to war in the Pacific, Singapore foreign minister warns",
+          "summary_en": "Balakrishnan was discussing the complexities of the U.S.- China relationship from Singapore's perspective with CNBC's Steve Sedgwick at the CONVERGE LIVE event."
         }
       ]
     },
@@ -472,6 +460,16 @@
       "name": "特斯拉链",
       "badge": "TSLA chain",
       "items": [
+        {
+          "source": "CNBC-Top",
+          "ticker": "RSS",
+          "time": "2026-04-23 15:53:01",
+          "title": "空中力量的未来是无人驾驶的，美国并没有领先的优势，飞机开发商CEO警告。",
+          "summary": "当前伊朗和乌克兰的战争已经表明，小型和中型自主平台占据了主导地位。",
+          "url": "https://www.cnbc.com/2026/04/23/the-future-of-air-power-is-autonomous-and-the-us-is-not-in-the-lead-aircraft-developer-merlin-labs.html",
+          "title_en": "The future of air power is autonomous and the U.S. is not in the lead, aircraft developer CEO warns",
+          "summary_en": "The current wars in Iran and Ukraine have shown that small and medium sized autonomous platforms have dominated."
+        },
         {
           "source": "CNBC-Top",
           "ticker": "RSS",
@@ -501,158 +499,164 @@
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "Small-Cap Stock FormFactor Is Surging On A.I. Demand",
+          "time": "2026-04-23 16:36:47",
+          "title": "丹哈尔公司2026年第一季度财报电话会议总结",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/small-cap-stock-formfactor-surging-190300646.html"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/danaher-corporation-q1-2026-earnings-204358274.html",
+          "title_en": "Danaher Corporation Q1 2026 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "Five Star (FSBC) Q4 2025 Earnings Transcript",
+          "time": "2026-04-23 16:36:47",
+          "title": "维科尔公司2026年第一季度财报电话会议总结",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/five-star-fsbc-q4-2025-190149964.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/vicor-corporation-q1-2026-earnings-204432696.html",
+          "title_en": "Vicor Corporation Q1 2026 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "尽管发出警告，提高加州快餐店工资到20美元并没有导致就业岗位减少、价格上涨。那么，什么变化了？",
+          "time": "2026-04-23 16:36:47",
+          "title": "MSCI Inc. Q1 2026财报电话会议总结",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/despite-dire-warnings-raising-california-191500990.html",
-          "title_en": "Despite dire warnings, raising California fast-food wages to $20 didn’t end in job losses, price hikes. What did change"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/msci-inc-q1-2026-earnings-204411761.html",
+          "title_en": "MSCI Inc. Q1 2026 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "RBC资本持乐观态度，提高PPG Industries (PPG)股价目标",
+          "time": "2026-04-23 16:36:47",
+          "title": "纽约州立法者复活了旨在限制债权人对债务困难主权国家提起诉讼的法案。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-bullish-ppg-industries-192654765.html",
-          "title_en": "RBC Capital Bullish on PPG Industries (PPG) – Raises Price Target"
+          "url": "https://finance.yahoo.com/economy/policy/articles/ny-state-lawmakers-revive-bill-204127623.html",
+          "title_en": "NY State lawmakers revive bill to curb distressed sovereign debt lawsuits"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "Citi 对 Olin (OLN) 的价格目标提高了 4 美元 – 这是为什么",
+          "time": "2026-04-23 16:36:47",
+          "title": "诺斯伦特公司2026年第一季度财报电话会议总结",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/citi-raises-olin-oln-price-192641145.html",
-          "title_en": "Citi Raises Olin (OLN) Price Target by $4 – Here’s Why"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/northern-trust-corporation-q1-2026-204348357.html",
+          "title_en": "Northern Trust Corporation Q1 2026 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "Eastman化学公司（EMN）收到Citi的1美元价格目标降低",
+          "time": "2026-04-23 16:36:47",
+          "title": "联邦储备委员会（FOMC）上周三的会议决定维持利率不变。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eastman-chemical-emn-gets-1-192650421.html",
-          "title_en": "Eastman Chemical (EMN) Gets a $1 Price Target Cut from Citi"
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/unitedhealth-group-incorporated-q1-2026-204427430.html",
+          "title_en": "UnitedHealth Group Incorporated Q1 2026 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "ASP Isotopes (ASPI) Announces New Business Update",
+          "time": "2026-04-23 16:36:47",
+          "title": "比亚迪（BYD）股价大涨，短期内可能会有短queeze现象。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/asp-isotopes-aspi-announces-business-192649946.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/short-squeeze-breaking-beyond-meat-204243458.html",
+          "title_en": "Is a Short Squeeze Breaking Out in Beyond Meat Stock Now?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "Dow (DOW) Price Target Elevated to $47 at RBC Capital",
+          "time": "2026-04-23 16:36:47",
+          "title": "在投资美国以外的股票时，Vanguard（VXUS）和iShares（EEM）哪个ETF更好？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dow-dow-price-target-elevated-192644711.html"
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/vanguard-vxus-vs-ishares-eem-203925222.html",
+          "title_en": "Vanguard (VXUS) vs. iShares (EEM): Which ETF Is Better For Investing in Stocks Outside the U.S.?"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "Ezcorp (EZPW) Q4 2025 Earnings Call Transcript",
+          "time": "2026-04-23 16:36:47",
+          "title": "联邦储备委员会（FOMC）上周三决定将联邦基金利率维持在4.25%至4.5%之间，市场预期利率将在今年下半年开始下降。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ezcorp-ezpw-q4-2025-earnings-190124633.html"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/united-community-banks-inc-q1-204417072.html",
+          "title_en": "United Community Banks, Inc. Q1 2026 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "LyondellBasell (LYB) Price Target Sees an Upward Momentum at RBC Capital",
+          "time": "2026-04-23 16:36:47",
+          "title": "每次经济复苏都像是一个买卡车的好时机。那么，如何判断这是真正的好时机呢？",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lyondellbasell-lyb-price-target-sees-192639802.html"
+          "url": "https://finance.yahoo.com/markets/commodities/articles/every-recovery-looks-time-add-204513967.html",
+          "title_en": "Every Recovery Looks Like the Right Time to Add a Truck. Here Is How to Tell If It Actually Is."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "Wells Fargo 将 Sherwin-Williams (SHW) 的评级调整为中性。",
+          "time": "2026-04-23 16:36:47",
+          "title": "3M公司2026年第一季度财报电话会议总结\n\n3M公司首席财务官表示，公司第一季度营收为134亿美元，同比增长3.4%。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-adjusts-sherwin-williams-192646708.html",
-          "title_en": "Wells Fargo Adjusts Sherwin-Williams (SHW) Outlook to Equal Weight"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3m-company-q1-2026-earnings-204341088.html",
+          "title_en": "3M Company Q1 2026 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "威斯莱克（WLK）同意在一项诉讼中支付67亿美元的和解金额。",
+          "time": "2026-04-23 16:36:47",
+          "title": "消费者持续花钱。Deckers和6家零售股为你的购物清单。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/westlake-wlk-agrees-67m-settlement-192652280.html",
-          "title_en": "Westlake (WLK) Agrees to a $67M Settlement in a Lawsuit"
+          "url": "https://www.barrons.com/articles/consumers-just-keep-spending-deckers-other-retail-stocks-buy-now-ba02c880?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Consumers Just Keep Spending. Deckers And 6 Other Retail Stocks for Your Shopping List."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "Home Bancorp (HBCP) 2025年第四季度财报电话会议录音",
+          "time": "2026-04-23 16:36:47",
+          "title": "阿拉巴马联盟银行股份公司2026年第一季度财报电话会议总结",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/home-bancorp-hbcp-q4-2025-190311753.html",
-          "title_en": "Home Bancorp (HBCP) Q4 2025 Earnings Transcript"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/atlantic-union-bankshares-corporation-q1-204332611.html",
+          "title_en": "Atlantic Union Bankshares Corporation Q1 2026 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "UBS 对Corteva (CTVA) 的预期提高至8美元，价格目标上调",
+          "time": "2026-04-23 16:36:47",
+          "title": "Valmont Industries, Inc. 2026年第一季度财报电话会议总结",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-heightens-expectations-corteva-ctva-192643319.html",
-          "title_en": "UBS Heightens Expectations for Corteva (CTVA) with an $8 Price Target Raise"
+          "url": "https://finance.yahoo.com/markets/stocks/articles/valmont-industries-inc-q1-2026-204436115.html",
+          "title_en": "Valmont Industries, Inc. Q1 2026 Earnings Call Summary"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "即将退休的你，值得再次关注的5项投资",
+          "time": "2026-04-23 16:36:47",
+          "title": "RTX、诺斯罗普格鲁曼(Northrop)和GE航空航天(GE Aerospace)的业绩超过了市场预期，但股价却分道扬镳。国防部详细披露了预算请求。",
           "summary": "",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/youre-10-years-retirement-5-193500170.html",
-          "title_en": "You're 10 years from retirement — here are 5 investments worth a second look before it's too late"
+          "url": "https://www.investors.com/news/rtx-lockheed-martin-defense-earnings-ge-aerospace-northrop-grumman-pentagon-budget-rtx-stock-lmt-iran-war-missiles-munitions/?src=A00220&yptr=yahoo",
+          "title_en": "RTX, Northrop, GE Aerospace Beat Views, But Stocks Diverge. Pentagon Details Budget Request."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "一些夫妇每月从社会保障中收到10万美元的收入——他们符合资格是什么？以及要达到这一点需要什么？",
+          "time": "2026-04-23 16:36:47",
+          "title": "北方格鲁曼公司（Northrop Grumman）制造的隐形轰炸机的制造商北方格鲁曼公司（Northrop Grumman）发布了强劲的财报，但股价下跌。",
           "summary": "",
-          "url": "https://finance.yahoo.com/economy/policy/articles/couples-collecting-10-000-month-194500752.html",
-          "title_en": "Some couples are collecting $10,000 a month from Social Security — here's who qualifies and what it takes to get there"
+          "url": "https://www.barrons.com/articles/northrop-grumman-earnings-stock-price-fc66ac39?siteid=yhoof2&yptr=yahoo",
+          "title_en": "Stealth Bomber Maker Northrop Grumman Delivers Strong Earnings. The Stock Is Down."
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "五大财经事件：美联储会议",
+          "time": "2026-04-23 16:36:47",
+          "title": "罗库股价已达4年高点，等待Q1财报",
           "summary": "",
-          "url": "https://www.wsj.com/arts-culture/books/five-best-on-the-federal-reserve-1fdd97f6?siteid=yhoof2&yptr=yahoo",
-          "title_en": "Five Best: On the Federal Reserve"
+          "url": "https://www.investors.com/news/technology/roku-stock-4-year-high-q1-earnings-preview/?src=A00220&yptr=yahoo",
+          "title_en": "Why Roku Stock Is At A 4-Year High Ahead Of Its Q1 Report"
         },
         {
           "source": "YahooFinance-Markets",
           "ticker": "RSS",
-          "time": "2026-04-23 15:05:17",
-          "title": "丢了钱包？立即做这8件事。",
+          "time": "2026-04-23 16:36:47",
+          "title": "CBOX收到800亿美元的流入",
           "summary": "",
-          "url": "https://finance.yahoo.com/personal-finance/banking/article/lost-wallet-what-to-do-140054838.html",
-          "title_en": "Lost your wallet? Do these 8 things right now."
+          "url": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-800m-flows-210028970.html",
+          "title_en": "Daily ETF Flows: $800M Flows Into CBOX"
         }
       ]
     }
