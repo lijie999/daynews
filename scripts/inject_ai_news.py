@@ -41,18 +41,45 @@ if not files:
 content = files[0].read_text(encoding='utf-8')
 items = []
 
-# 通用解析器 - 支持两种格式
+# 通用解析器 - 支持三种格式
 # 格式1: 1. **Title** | 📍: [阅读](url)\n   - description
 # 格式2: 1. **Title** | 📍: [阅读](url)\n   description (no leading -)
+# 格式3: ### N. Title (markdown with ### headings and bullet descriptions)
 matches = list(re.finditer(
     r'(\d+)\.\s+\*\*([^\*]+)\*\*[^\n]*\n\s+([^\n]+)',
     content, re.MULTILINE
 ))
 
+# 如果上面没匹配，尝试格式3：### N. Title 后跟 - **摘要**: 或 - **来源**:
+if not matches:
+    # Match ### N. Title followed by bullet lines containing 摘要 or description
+    matches = list(re.finditer(
+        r'(\d+)\.\s+(.+?)(?:\n|$)',
+        content, re.MULTILINE
+    ))
+
 for idx, m in enumerate(matches):
     groups = m.groups()
-    num, title, summary = groups[:3]
-    link = ""  # not captured in this format
+    num, title = groups[:2]
+    summary = ""
+    link = ""
+    
+    # Try to find link from nearby lines
+    pos = m.end()
+    snippet = content[pos:pos+500]
+    link_match = re.search(r'https?://[^\s\)>"\']+', snippet)
+    if link_match:
+        link = link_match.group(0)
+    
+    # Try to extract summary from bullet points
+    summary_match = re.search(r'\*\*摘要\*\*[:：]\s*(.+)', snippet)
+    if summary_match:
+        summary = summary_match.group(1).strip()
+    else:
+        # Use next non-heading line as summary
+        next_line = re.search(r'\n(?!###|\s*$)(\S.+)', snippet)
+        if next_line:
+            summary = next_line.group(1).strip().lstrip('-*').strip()
     
     # 智能分类
     emoji = "🤖"
