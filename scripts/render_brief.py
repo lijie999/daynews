@@ -220,29 +220,14 @@ def _bucket(items: list[dict[str, Any]]) -> dict[str, list[dict[str, Any]]]:
 
     b: dict[str, list[dict[str, Any]]] = {
         "主线结论": [],
-        "七姐妹与半导体链": [],
-        "美联储与政策": [],
-        "地缘/能源/避险": [],
-        "特斯拉链": [],
-        "其他": [],
     }
 
+    # All items go to 主线结论
     for it in items:
-        h = it.get("headline") or ""
-        if geo.search(h):
-            b["地缘/能源/避险"].append(it)
-        elif macro.search(h):
-            b["美联储与政策"].append(it)
-        elif tsla.search(h):
-            b["特斯拉链"].append(it)
-        elif ai.search(h):
-            b["七姐妹与半导体链"].append(it)
-        else:
-            b["其他"].append(it)
+        b["主线结论"].append(it)
 
-    # Trim for readability
-    for k in ("七姐妹与半导体链", "美联储与政策", "地缘/能源/避险", "特斯拉链", "其他"):
-        b[k] = b[k][:18]
+    # Trim 主线结论 to 18 items
+    b["主线结论"] = b["主线结论"][:18]
 
     return b
 
@@ -490,15 +475,11 @@ def main() -> int:
       </div>
       <div class=\"nav\"><a class=\"back\" href=\"./\">← 返回首页</a></div>
       <h1>每日财经早报{now.strftime('%Y.%m.%d')}</h1>
-      <p class=\"sub\">自动生成版本：主线结论 → 七姐妹/半导体 → 美联储/政策 → 地缘/避险 → 特斯拉链。规则：同URL去重，按时间倒序；每个板块最多18条。</p>
+      <p class=\"sub\">每日财经早报 · 主线结论</p>
     </header>
 
         {sec('主线结论','Summary',buckets['主线结论'])}
     {_render_earnings_section()}
-    {sec('七姐妹与半导体链','Mag7 / Semis',buckets['七姐妹与半导体链'])}
-    {sec('美联储与政策','Fed / Policy',buckets['美联储与政策'])}
-    {sec('地缘/能源/避险','Risk / Oil / Gold',buckets['地缘/能源/避险'])}
-    {sec('特斯拉链','TSLA chain',buckets['特斯拉链'])}
   </div>
 </body>
 </html>
@@ -507,13 +488,9 @@ def main() -> int:
     OUT_PATH.write_text(page, encoding="utf-8")
 
     # Write briefs.json for the redesigned homepage/list view.
+    # Only keep 主线结论 — all other sections removed from data layer
     sections_meta = [
         ("主线结论", "Summary"),
-        ("七姐妹与半导体链", "Mag7 / Semis"),
-        ("美联储与政策", "Fed / Policy"),
-        ("地缘/能源/避险", "Risk / Oil / Gold"),
-        ("特斯拉链", "TSLA chain"),
-        ("其他", "Other"),
     ]
 
     def _item_to_brief(it: dict[str, Any], *, translate: bool = False) -> dict[str, Any]:
