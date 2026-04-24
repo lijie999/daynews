@@ -14,18 +14,14 @@ from datetime import datetime, timezone, timedelta
 REPO_DIR = Path("/Users/lijiaolong/.openclaw/workspace/daynews")
 OUTPUT_JSON = REPO_DIR / "docs" / "us_breakout.json"
 
-# NASDAQ 100 成分股（主要权重）
+# NASDAQ 100 成分股（主要权重，限制数量以保证执行时间）
 NASDAQ_100_COMPONENTS = [
+    # Top 50 by weight/cruise
     "AAPL", "MSFT", "GOOGL", "AMZN", "NVDA", "META", "TSLA", "AVGO", "COST",
-    "AMD", "NFLX", "ASML", "HON", "ADBE", "INTU", "AMAT", "KLAC", "PANW",
-    "SNPS", "MRVL", "CRWD", "MELI", "COP", "CSX", "NXPI", "BKR", "FAST",
-    "CTAS", "LRCX", "ORLY", "BKNG", "ANSS", "CDW", "ROST", "QCOM",
-    "AZN", "TEAM", "ADI", "FANG", "LULU", "BIIB", "ISRG", "IDXX",
-    "VRTX", "CMCSA", "PYPL", "INTC", "TXN", "AMGN", "MU", "SBUX", "ADP",
-    "GILD", "MDLZ", "REGN", "VRSK", "MCHP", "FISV", "PAYX",
-    "ON", "WBA", "EXC", "EBAY", "EA", "NTAP", "DLR",
-    "STX", "ANET", "FTNT", "HPQ", "KEYS", "SWKS", "ZS", "OKTA", "DDOG",
-    "CPRT", "CBOE", "GEHC", "HUB", "MP", "COIN", "ARM"
+    "AMD", "NFLX", "ASML", "ADBE", "CRM", "HON", "INTU", "AMAT", "KLAC", "PANW",
+    "SNPS", "MRVL", "CRWD", "MELI", "CSX", "NXPI", "LRCX", "ORLY", "BKNG",
+    "QCOM", "ABNB", "TXN", "INTC", "AMGN", "MU", "SBUX", "ADP", "VRTX", "REGN",
+    "CMCSA", "PYPL", "ISRG", "ATVI", "MDLZ", "GILD", "BIIB", "ADI", "FANG", "LULU"
 ]
 NASDAQ_100_COMPONENTS = list(dict.fromkeys(NASDAQ_100_COMPONENTS))
 

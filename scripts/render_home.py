@@ -747,13 +747,89 @@ def main() -> int:
             out.append(it)
         return out
 
-    pool_macro = pick_items("美联储与政策", "地缘/能源/避险")
-    pool_equity = pick_items("七姐妹与半导体链", "特斯拉链")
+    # A-share breakouts (loaded from JSON)
+    def render_breakout_us() -> str:
+        path = DOCS / "us_breakout.json"
+        if not path.exists():
+            body = '<div class="note">等待 09:00 / 21:00 分析...</div>'
+            count = 0
+            total = 0
+            ts = ""
+        else:
+            try:
+                data = json.loads(path.read_text(encoding="utf-8"))
+            except Exception:
+                body = '<div class="note">读取失败</div>'
+                count, total, ts = 0, 0, ""
+            else:
+                breakouts = data.get("breakouts", [])
+                ts = data.get("generatedAt", "")
+                total = data.get("total_scanned", 0)
+                count = len(breakouts)
+                if not breakouts:
+                    body = '<div class="note">今日暂无突破信号</div>'
+                else:
+                    rows = []
+                    for it in breakouts[:10]:
+                        rows.append(
+                            f'<div class="bitem">'
+                            f'<span class="bticker">{esc(it.get("ticker",""))}</span>'
+                            f'<span class="bprice">${it.get("price","")}</span>'
+                            f'<span class="bgain">+{it.get("gain_pct","")}%</span>'
+                            f'<span class="bvol">量{it.get("vol_ratio","")}x</span>'
+                            f'</div>'
+                        )
+                    body = '\n'.join(rows)
+        ts_html = f'<span class="btime">{esc(ts)}</span>' if ts else '<span class="btime">—</span>'
+        return (
+            f'<section class="card breakout-card">'
+            f'<h2><span>📈 美股日线突破</span><span class="badge">{count} 只</span></h2>'
+            f'<div class="breakout-meta">{ts_html}<span>扫描 {total} 只成分股</span></div>'
+            f'<div class="bheader"><span>股票</span><span>价格</span><span>涨幅</span><span>量比</span></div>'
+            f'<div class="blist">{body}</div>'
+            f'</section>'
+        )
 
-    # 新板块划分（方案A）
-    zone_index_tech = pick_items("七姐妹与半导体链")  # 指数/科技：FAANG + 半导体
-    zone_energy_geo = pick_items("地缘/能源/避险")    # 能源/地缘：黄金 + 油价 + 地缘冲突
-    zone_fed_policy = pick_items("美联储与政策")      # 美联储/政策：利率 + CPI + 财政
+    def render_breakout_cn() -> str:
+        path = DOCS / "cn_breakout.json"
+        if not path.exists():
+            body = '<div class="note">等待 09:00 / 21:00 分析...</div>'
+            count, total, ts = 0, 0, ""
+        else:
+            try:
+                data = json.loads(path.read_text(encoding="utf-8"))
+            except Exception:
+                body = '<div class="note">读取失败</div>'
+                count, total, ts = 0, 0, ""
+            else:
+                breakouts = data.get("breakouts", [])
+                ts = data.get("generatedAt", "")
+                total = data.get("total_found", 0)
+                count = len(breakouts)
+                if not breakouts:
+                    body = '<div class="note">今日暂无涨停突破</div>'
+                else:
+                    rows = []
+                    for it in breakouts[:10]:
+                        name = it.get("name", it.get("code", ""))
+                        rows.append(
+                            f'<div class="bitem">'
+                            f'<span class="bticker">{esc(name)}</span>'
+                            f'<span class="bprice">¥{it.get("price","")}</span>'
+                            f'<span class="bgain">+{it.get("gain_pct","")}%</span>'
+                            f'<span class="bvol">盘整{int(it.get("prev_range_pct",0))}%</span>'
+                            f'</div>'
+                        )
+                    body = '\n'.join(rows)
+        ts_html = f'<span class="btime">{esc(ts)}</span>' if ts else '<span class="btime">—</span>'
+        return (
+            f'<section class="card breakout-card">'
+            f'<h2><span>🏠 A股日线突破</span><span class="badge">{count} 只</span></h2>'
+            f'<div class="breakout-meta">{ts_html}<span>分析当日涨停股前50只</span></div>'
+            f'<div class="bheader"><span>名称</span><span>价格</span><span>涨幅</span><span>盘整</span></div>'
+            f'<div class="blist">{body}</div>'
+            f'</section>'
+        )
 
     def sec_html(sec: dict) -> str:
         # Legacy raw view (compact)
@@ -849,7 +925,7 @@ def main() -> int:
     .rsumm{{margin-top:6px;color:var(--muted);font-size:14px;line-height:1.5}}
 
     /* GRID (2列优化：从3列改为2列，增加卡片宽度) */
-    .grid3{{display:grid;grid-template-columns: repeat(3, minmax(0, 1fr));gap:16px}}
+    .grid3{{display:grid;grid-template-columns: repeat(2, minmax(0, 1fr));gap:16px}}
     @media (max-width: 880px){{.grid3{{grid-template-columns: 1fr;}}}}
 
     /* ZONES (按品种 - 2列优化：增大字号与间距) */
@@ -900,13 +976,10 @@ def main() -> int:
 
       {render_thesis()}
 
-      <div class=\"grid3\">
-        {render_zone('📊 指数/科技',zone_index_tech)}
-        {render_zone('⚡ 能源/地缘',zone_energy_geo)}
-        {render_zone('💵 美联储/政策',zone_fed_policy)}
+      <div class="grid3">
+        {render_breakout_us()}
+        {render_breakout_cn()}
       </div>
-
-      <section class=\"card\"><h2><span>其他</span><span class=\"badge\">{len((sec_by.get('其他') or {}).get('items') or [])}</span></h2><div class=\"tlist\">{('<div class="note">（暂无）</div>' if not (sec_by.get('其他') or {}).get('items') else '')}</div></section>
     </main>
 
     <aside class=\"side\">
