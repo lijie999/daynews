@@ -62,7 +62,7 @@ def main() -> int:
     sections = data.get("sections") or []
 
     # Keep only known sections
-    allow = {"主线结论", "七姐妹与半导体链", "美联储与政策", "地缘/能源/避险", "特斯拉链", "其他"}
+    allow = {"主线结论"}
     sections = [s for s in sections if (s.get("name") in allow)]
 
     # Index by name
@@ -447,6 +447,108 @@ def main() -> int:
         return '\n'.join(html_parts)
 
 
+    def render_breakout_us() -> str:
+        """美股日线突破卡片"""
+        path = DOCS / "us_breakout.json"
+        if not path.exists():
+            return (
+                '<section class="card breakout-card">'
+                '<h2><span>📈 美股日线突破</span><span class="badge">N/A</span></h2>'
+                '<div class="blist"><div class="note">等待 09:00/21:00 分析...</div></div>'
+                '</section>'
+            )
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except Exception:
+            return (
+                '<section class="card breakout-card">'
+                '<h2><span>📈 美股日线突破</span><span class="badge">err</span></h2>'
+                '</section>'
+            )
+        breakouts = data.get("breakouts", [])
+        timestamp = data.get("generatedAt", "")
+        total = data.get("total_scanned", 0)
+        if not breakouts:
+            body = '<div class="note">今日暂无突破信号</div>'
+        else:
+            rows = []
+            for item in breakouts[:10]:
+                ticker = item.get("ticker", "")
+                price = item.get("price", 0)
+                gain_pct = item.get("gain_pct", 0)
+                vol_ratio = item.get("vol_ratio", 0)
+                rows.append(
+                    f'<div class="bitem">'
+                    f'<div class="bticker">{esc(ticker)}</div>'
+                    f'<div class="bprice">${price}</div>'
+                    f'<div class="bgain">+{gain_pct}%</div>'
+                    f'<div class="bvol">量{vol_ratio}x</div>'
+                    f'</div>'
+                )
+            body = '\n'.join(rows)
+        count = len(breakouts)
+        time_str = f'<span class="btime">{esc(timestamp)}</span>' if timestamp else ''
+        return (
+            f'<section class="card breakout-card">'
+            f'<h2><span>📈 美股日线突破</span><span class="badge">{count} 只</span></h2>'
+            f'<div class="breakout-meta">{time_str}<span>扫描 {total} 只</span></div>'
+            f'<div class="bheader"><span>股票</span><span>价格</span><span>涨幅</span><span>量比</span></div>'
+            f'<div class="blist">{body}</div>'
+            f'</section>'
+        )
+
+    def render_breakout_cn() -> str:
+        """A股日线突破卡片"""
+        path = DOCS / "cn_breakout.json"
+        if not path.exists():
+            return (
+                '<section class="card breakout-card">'
+                '<h2><span>🇨🇳 A股日线突破</span><span class="badge">N/A</span></h2>'
+                '<div class="blist"><div class="note">等待 09:00/21:00 分析...</div></div>'
+                '</section>'
+            )
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except Exception:
+            return (
+                '<section class="card breakout-card">'
+                '<h2><span>🇨🇳 A股日线突破</span><span class="badge">err</span></h2>'
+                '</section>'
+            )
+        breakouts = data.get("breakouts", [])
+        timestamp = data.get("generatedAt", "")
+        total_found = data.get("total_found", 0)
+        if not breakouts:
+            body = '<div class="note">今日暂无突破信号</div>'
+        else:
+            rows = []
+            for item in breakouts[:10]:
+                code = item.get("code", "")
+                name = item.get("name", "")
+                price = item.get("price", 0)
+                gain_pct = item.get("gain_pct", 0)
+                vol_ratio = item.get("vol_ratio", 0)
+                prev_range = item.get("prev_range_pct", 0)
+                rows.append(
+                    f'<div class="bitem">'
+                    f'<div class="bticker">{esc(code)} {esc(name)}</div>'
+                    f'<div class="bprice">¥{price}</div>'
+                    f'<div class="bgain">+{gain_pct}%</div>'
+                    f'<div class="bvol">幅{prev_range}%</div>'
+                    f'</div>'
+                )
+            body = '\n'.join(rows)
+        count = len(breakouts)
+        time_str = f'<span class="btime">{esc(timestamp)}</span>' if timestamp else ''
+        return (
+            f'<section class="card breakout-card">'
+            f'<h2><span>🇨🇳 A股日线突破</span><span class="badge">{count} 只</span></h2>'
+            f'<div class="breakout-meta">{time_str}<span>涨停 {total_found} 只</span></div>'
+            f'<div class="bheader"><span>股票</span><span>价格</span><span>涨幅</span><span>5日振幅</span></div>'
+            f'<div class="blist">{body}</div>'
+            f'</section>'
+        )
+
     def render_radar() -> str:
         pool = pick_items("美联储与政策", "地缘/能源/避险", "七姐妹与半导体链", "特斯拉链")
         
@@ -770,6 +872,17 @@ def main() -> int:
     .hgo{{font-family:var(--mono);font-size:12px;color:var(--muted)}}
     .navrow{{padding:10px 10px 12px;display:flex;gap:8px;flex-wrap:wrap}}
     .btn{{display:inline-flex;align-items:center;gap:8px;border:1px solid rgba(255,255,255,.14);background:rgba(255,255,255,.06);padding:8px 12px;border-radius:999px;font-family:var(--mono);font-size:12px;color:var(--muted)}}
+
+    /* BREAKOUT CARDS */
+    .breakout-card .breakout-meta{{font-family:var(--mono);font-size:12px;color:var(--muted);padding:10px 14px 0;border-bottom:1px solid rgba(255,255,255,.06);display:flex;justify-content:space-between}}
+    .breakout-meta .btime{{color:var(--faint)}}
+    .bheader{{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:8px;padding:8px 14px;font-family:var(--mono);font-size:12px;color:var(--muted);border-bottom:1px solid rgba(255,255,255,.08)}}
+    .blist{{padding:10px 14px;display:flex;flex-direction:column;gap:6px}}
+    .bitem{{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:8px;padding:10px 12px;background:rgba(0,0,0,.18);border-radius:12px;border:1px solid rgba(255,255,255,.08);font-size:14px}}
+    .bticker{{font-family:var(--mono);font-weight:800;color:var(--text)}}
+    .bprice{{font-family:var(--mono);color:var(--muted)}}
+    .bgain{{color:#4ade80;font-weight:700}}
+    .bvol{{color:var(--faint);font-size:13px}}
   </style>
 </head>
 <body>
