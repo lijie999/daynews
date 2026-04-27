@@ -128,12 +128,14 @@ def _bjt_from_et(date_et: str, time_et: str = "") -> str:
     except ValueError:
         return date_et
 
-    # 有具体时刻 → 直接返回，方便用户自己查
+    # 有具体时刻 → 估算为次日 BJT 05:30（通用估算，不纠结分钟）
     if time_et:
-        return f"次日 BJT 05:30 左右"
+        base = dt.date(2026, m, d) + dt.timedelta(days=1)
+        return f"{base.strftime('%b %d')} BJT左右"
 
     # 无时刻（盘后 AMC）→ 估算次日 BJT 早晨
-    return f"Apr {d+1} BJT左右"
+    base = dt.date(2026, m, d) + dt.timedelta(days=1)
+    return f"{base.strftime('%b %d')} BJT左右"
 
 
 def _render_earnings_section() -> str:
