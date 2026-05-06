@@ -13,19 +13,18 @@ BRIEFS = DOCS / "briefs.json"
 OUT = DOCS / "index.html"
 MARKET_PULSE_CACHE = DOCS / ".market_pulse_cache.json"
 
-# ── 本周财报日历（手动维护，每周一更新）────────────────────
+# ── 本周财报日历（每周一更新）────────────────────────────
 EARNINGS_CALENDAR = [
-    ("Apr 21 Tue", "AT&T (T)",              "AMC",   "Q1 2026", ""),
-    ("Apr 21 Tue", "Interactive Brokers (IBKR)", "16:49 ET", "Q1 2026", "已发布"),
-    ("Apr 22 Wed", "Boeing (BA)",            "AMC",   "Q1 2026", ""),
-    ("Apr 22 Wed", "Tesla (TSLA)",           "5:30 PM ET", "Q1 2026", "⭐ 今日盘后"),
-    ("Apr 24 Fri", "Intel (INTC)",           "AMC",   "Q1 2026", ""),
-    ("Apr 29 Wed", "Microsoft (MSFT)",       "AMC",   "Q3 FY2026", "BigTech密集"),
-    ("Apr 29 Wed", "Amazon (AMZN)",         "AMC",   "Q1 2026",  "BigTech密集"),
-    ("Apr 29 Wed", "Alphabet (GOOGL)",      "AMC",   "Q1 2026",  "BigTech密集"),
-    ("Apr 29 Wed", "Meta (META)",            "AMC",   "Q1 2026",  "BigTech密集"),
-    ("Apr 30 Thu", "Apple (AAPL)",           "AMC",   "Q2 FY2026",""),
-    ("May  27 Wed", "Nvidia (NVDA)",         "AMC",   "Q1 FY2027",""),
+    ("May  4 Mon", "SoFi Technologies (SOFI)",  "AMC",   "Q1 2026", ""),
+    ("May  5 Tue", "Palantir (PLTR)",            "AMC",   "Q1 2026", ""),
+    ("May  5 Tue", "Robinhood (HOOD)",           "AMC",   "Q1 2026", ""),
+    ("May  6 Wed", "ARM Holdings (ARM)",          "AMC",   "Q1 FY2026", ""),
+    ("May  6 Wed", "DoorDash (DASH)",            "AMC",   "Q1 2026", ""),
+    ("May  7 Thu", "The Trade Desk (TTD)",       "AMC",   "Q1 2026", ""),
+    ("May  7 Thu", "Roku (ROKU)",                "AMC",   "Q1 2026", ""),
+    ("May  8 Fri", "Western Digital (WDC)",      "AMC",   "Q3 FY2026", ""),
+    ("May 27 Wed", "Nvidia (NVDA)",              "AMC",   "Q1 FY2027", ""),
+    ("Jun  4 Thu", "Broadcom (AVGO)",            "AMC",   "Q2 FY2026", "AI基础设施密集"),
 ]
 
 

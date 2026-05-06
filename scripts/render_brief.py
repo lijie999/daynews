@@ -96,17 +96,16 @@ TICKERS = [
 # 格式：(公司名, 代码, 日期, 发布时刻_ET, 财报期, 备注)
 # 发布时刻留空表示"after market close"（通常 16:00-17:30 ET）
 EARNINGS_CALENDAR = [
-    ("AT&T",             "T",    "Apr 21 Tue", "",       "Q1 2026", ""),
-    ("Interactive Brokers","IBKR","Apr 21 Tue", "16:49 ET","Q1 2026", "已发布"),
-    ("Boeing",           "BA",   "Apr 22 Wed", "",       "Q1 2026", ""),
-    ("Tesla",            "TSLA", "Apr 22 Wed", "5:30 PM ET","Q1 2026", "今日盘后焦点"),
-    ("Intel",            "INTC", "Apr 24 Fri", "",       "Q1 2026", ""),
-    ("Microsoft",        "MSFT", "Apr 29 Wed", "",       "Q3 FY2026", "BigTech密集"),
-    ("Amazon",           "AMZN", "Apr 29 Wed", "",       "Q1 2026",  "BigTech密集"),
-    ("Alphabet",         "GOOGL","Apr 29 Wed", "",       "Q1 2026",  "BigTech密集 + Cloud Next 4/22-24"),
-    ("Meta",             "META", "Apr 29 Wed", "",       "Q1 2026",  "BigTech密集"),
-    ("Apple",            "AAPL", "Apr 30 Thu", "",       "Q2 FY2026",""),
-    ("Nvidia",           "NVDA", "May  27 Wed", "",       "Q1 FY2027",""),
+    ("SoFi Technologies",  "SOFI", "May  4 Mon", "", "Q1 2026", ""),
+    ("Palantir",           "PLTR", "May  5 Tue", "", "Q1 2026", ""),
+    ("Robinhood",          "HOOD", "May  5 Tue", "", "Q1 2026", ""),
+    ("ARM Holdings",        "ARM",  "May  6 Wed", "", "Q1 FY2026", ""),
+    ("DoorDash",           "DASH", "May  6 Wed", "", "Q1 2026", ""),
+    ("The Trade Desk",      "TTD",  "May  7 Thu", "", "Q1 2026", ""),
+    ("Roku",               "ROKU", "May  7 Thu", "", "Q1 2026", ""),
+    ("Western Digital",    "WDC",  "May  8 Fri", "", "Q3 FY2026", ""),
+    ("Nvidia",             "NVDA", "May 27 Wed", "", "Q1 FY2027", ""),
+    ("Broadcom",           "AVGO", "Jun  4 Thu", "", "Q2 FY2026", "AI基础设施密集"),
 ]
 
 
