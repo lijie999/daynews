@@ -1,13 +1,22 @@
 #!/usr/bin/env python3
 """
 生成主线结论：数据驱动的市场分析
-直接从 yfinance 获取实时行情 + RSS 头条
+直接从 yfinance 获取实时行情 + RSS 头条 + 翻译
 """
 import json
 import sys
 from pathlib import Path
 
-REPO_DIR = Path("/Users/lijiaolong/.openclaw/workspace/daynews")
+REPO_DIR = Path(__file__).resolve().parent.parent
+
+# 翻译支持
+try:
+    sys.path.insert(0, str(REPO_DIR / "scripts"))
+    from translate_mt import translate_zh, translate_batch
+except Exception:
+    translate_zh = lambda t: t
+    translate_batch = lambda l: l
+
 
 def get_market_data():
     """获取关键市场数据"""
@@ -110,7 +119,6 @@ def generate_thesis(mdata, headlines, cats):
     tnx_price = tnx.get('price', 0)
     tnx_chg = tnx.get('chg', 0)
 
-    # 市场方向判断
     if spy_chg > 0.5 and qqq_chg > 0.5:
         direction = f"美股强势上涨，标普{spy_chg:+.2f}% 纳指{qqq_chg:+.2f}%"
     elif spy_chg > 0:
@@ -120,7 +128,6 @@ def generate_thesis(mdata, headlines, cats):
     else:
         direction = f"美股震荡整理，标普{spy_chg:+.2f}% 纳指{qqq_chg:+.2f}%"
 
-    # VIX 判断
     if vix_price > 25:
         vix_stmt = f"VIX {vix_price:.1f}({vix_chg:+.1f}%)偏高，市场紧张"
     elif vix_price > 18:
@@ -139,26 +146,24 @@ def generate_thesis(mdata, headlines, cats):
         else:
             drivers.append(f"10Y美债收益率{tnx_price:.2f}%({tnx_chg:+.1f}%)回落，宽松预期升温")
 
+    # 翻译标题后再展示
     if cats['fed']:
-        drivers.append(f"美联储/宏观：{cats['fed'][0][:75]}")
-
+        drivers.append(f"美联储/宏观：{translate_zh(cats['fed'][0])[:75]}")
     if cats['geo']:
-        drivers.append(f"地缘/能源：{cats['geo'][0][:75]}")
-
+        drivers.append(f"地缘/能源：{translate_zh(cats['geo'][0])[:75]}")
     if cats['tech']:
-        drivers.append(f"科技/AI：{cats['tech'][0][:75]}")
-
+        drivers.append(f"科技/AI：{translate_zh(cats['tech'][0])[:75]}")
     if cats['earnings']:
-        drivers.append(f"财报动态：{cats['earnings'][0][:75]}")
+        drivers.append(f"财报动态：{translate_zh(cats['earnings'][0])[:75]}")
 
     lines.append("")
     lines.append("**核心驱动**：")
     for d in drivers[:4]:
         lines.append(f"• {d}")
 
-    # ── 3. 今日重大事件 ───────────────────────────────────
+    # ── 3. 今日重大事件 ────────────────────────────────────
     lines.append("")
-    lines.append("**今日重大事件**（来源 RSS）：")
+    lines.append("**今日重大事件**：")
 
     key_events = []
     for h in headlines:
@@ -167,16 +172,16 @@ def generate_thesis(mdata, headlines, cats):
         if any(k in lower for k in ['surge', 'plunge', 'soar', 'jump', 'break',
                                       'record', 'deal', 'agreement', 'announcement',
                                       'ban ', 'block', 'investigation', 'selloff']):
-            key_events.append(txt[:90])
+            key_events.append(translate_zh(txt)[:90])
 
     for ev in key_events[:4]:
         lines.append(f"• {ev}")
 
     if not key_events:
-        for h in headlines[:3]:
-            lines.append(f"• {h['headline'][:90]}")
+        sample = [translate_zh(h['headline'])[:90] for h in headlines[:3]]
+        lines.extend([f"• {s}" for s in sample])
 
-    # ── 4. 风险提示 ───────────────────────────────────────
+    # ── 4. 风险提示 ────────────────────────────────────────
     lines.append("")
     lines.append("**风险提示**：")
 
@@ -199,7 +204,7 @@ def generate_thesis(mdata, headlines, cats):
 
 
 def main():
-    print("📊 Generating market thesis (data-driven)...", file=sys.stderr)
+    print("📊 Generating market thesis (data-driven, Chinese)...", file=sys.stderr)
 
     mdata = get_market_data()
     headlines = get_rss_headlines()
