@@ -209,7 +209,8 @@ def main() -> int:
         缓存 30 分钟
         """
         import time
-        
+        VENV = REPO_DIR / ".venv" / "bin" / "python3"
+
         THESIS_CACHE = DOCS / ".thesis_cache.json"
         
         # 检查缓存
@@ -307,7 +308,7 @@ def main() -> int:
         analysis = None
         try:
             result = sp.run(
-                ["python3", str(REPO_DIR / "scripts" / "generate_thesis.py")],
+                [str(VENV), str(REPO_DIR / "scripts" / "generate_thesis.py")],
                 capture_output=True,
                 text=True,
                 timeout=70,

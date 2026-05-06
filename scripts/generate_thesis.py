@@ -1,144 +1,213 @@
 #!/usr/bin/env python3
 """
-生成主线结论：基于多个大站头条 + 政治人物表态 + AI 智能分析
-使用 web_search 工具（更可靠）
+生成主线结论：数据驱动的市场分析
+直接从 yfinance 获取实时行情 + RSS 头条
 """
 import json
 import sys
 from pathlib import Path
-from datetime import datetime, timezone, timedelta
 
-def main():
-    print("🚀 Generating market thesis with AI analysis...", file=sys.stderr)
+REPO_DIR = Path("/Users/lijiaolong/.openclaw/workspace/daynews")
 
-    # 构建 AI 任务：让 AI 自己搜索并分析
-    task = """你是专业的金融市场分析师。请执行以下任务：
+def get_market_data():
+    """获取关键市场数据"""
+    import yfinance as yf
 
-1. 使用 web_search 工具搜索今日（过去 24 小时）美股市场新闻头条，关键词：
-   - "US stock market today"
-   - "S&P 500 Nasdaq Dow Jones"
-   - "market news today"
+    result = {}
+    tickers_map = {
+        'SPY': '^SPX',
+        'QQQ': '^NDX',
+        'VIX': '^VIX',
+        'TNX': '^TNX',
+        'UUP': 'UUP',
+        'GCF': 'GC=F',
+        'CLF': 'CL=F'
+    }
 
-   从 Yahoo Finance、CNBC、MarketWatch、Bloomberg 等主流媒体获取 10-15 条头条新闻。
-
-2. **特别搜索政治人物最新表态**（至少搜索以下关键词组合）：
-   - "Powell Fed statement today" 或 "Fed Chair Powell"
-   - "Trump tariff announcement today"
-   - "Treasury Secretary Bessent"
-   - " tariff ceasefire trade deal"
-   
-   如果找到重要表态，翻译并简化为1-2句中文摘要（保留人物名和关键数字）。
-
-3. 基于搜索到的头条新闻，生成简洁、专业的市场主线结论（150-200字）。
-
-要求格式（Markdown，不要代码块）：
-**市场走势**：指数/板块表现（1-2句，基于头条推断大方向，不虚构具体涨跌幅）
-
-**核心驱动**：
-• 驱动因子1（简洁描述）
-• 驱动因子2
-• 驱动因子3
-
-**政治人物表态**：（如无相关表态则写"无"）
-• [人物名]：[简化为1-2句，要包含具体观点/数字，不超过50字]
-
-**风险提示**：前瞻/风险点（1句）
-
-注意：
-1. 先调用 web_search 搜索新闻（市场头条 + 政治人物表态）
-2. 分析头条内容，提取市场主线
-3. 不要虚构具体数据
-4. 聚焦宏观驱动和板块主线
-5. 语言简洁，信息密度高
-6. 政治人物表态必须具体：包含人物名、核心观点、关键数字（如有）
-
-直接输出最终的主线结论内容，不要解释搜索过程。"""
-
-    # 加载内部 RSS 数据作为补充上下文
-    internal_context = ""
-    briefs_path = Path("/Users/lijiaolong/.openclaw/workspace/daynews/docs/briefs.json")
-    if briefs_path.exists():
+    for label, sym in tickers_map.items():
         try:
-            briefs = json.loads(briefs_path.read_text(encoding="utf-8"))
-            sections = briefs.get("sections", [])
-
-            key_news = []
-            for sec in sections:
-                name = sec.get("name", "")
-                if name in ["美联储与政策", "地缘/能源/避险", "七姐妹与半导体链"]:
-                    items = sec.get("items", [])[:3]
-                    for it in items:
-                        title = it.get("title", "")
-                        if title:
-                            key_news.append(f"- {title[:80]} ({name})")
-
-            if key_news:
-                internal_context = "\n\n【可选参考：内部RSS数据】\n" + "\n".join(key_news[:10])
+            t = yf.Ticker(sym)
+            h = t.history(period='2d')
+            if h.empty or len(h) < 2:
+                continue
+            cur = float(h['Close'].iloc[-1])
+            prev = float(h['Close'].iloc[-2])
+            chg = (cur - prev) / prev * 100
+            result[label] = {'price': cur, 'chg': chg}
         except Exception:
             pass
 
-    if internal_context:
-        task += internal_context
+    return result
 
-    # 调用 openclaw agent（让 AI 自己搜索并分析）
-    import subprocess
+
+def get_rss_headlines(limit=20):
+    """获取 RSS 头条"""
+    cache = REPO_DIR / ".cache" / "rss_items.json"
+    if not cache.exists():
+        return []
+
     try:
-        print("📊 Calling AI agent for analysis...", file=sys.stderr)
-        result = subprocess.run(
-            [
-                "openclaw", "agent",
-                "--session-id", "daynews-thesis-gen",
-                "--message", task,
-                "--timeout", "60"
-            ],
-            capture_output=True,
-            text=True,
-            timeout=65
-        )
+        data = json.loads(cache.read_text(encoding='utf-8'))
+        items = data.get('items', [])
+        headlines = []
+        for it in items:
+            h = it.get('headline', it.get('title', '')).strip()
+            src = it.get('source', '?')
+            url = it.get('url', '')
+            if h:
+                headlines.append({'headline': h, 'source': src, 'url': url})
+            if len(headlines) >= limit:
+                break
+        return headlines
+    except Exception:
+        return []
 
-        if result.returncode == 0:
-            output = result.stdout.strip()
 
-            # 移除可能的 markdown 代码块标记
-            output = output.replace("```markdown", "").replace("```", "").strip()
+def categorize_headlines(headlines):
+    """将头条按主题分类"""
+    fed, tech, geo, macro, earnings = [], [], [], [], []
 
-            # 验证输出格式
-            if "**市场走势**" in output and "**核心驱动**" in output:
-                # 提取纯净的主线结论（移除额外说明）
-                if "---" in output:
-                    parts = output.split("---")
-                    for part in parts:
-                        if "**市场走势**" in part:
-                            output = part.strip()
-                            break
+    fed_kw = ['fed ', 'federal reserve', 'powell', 'interest rate', 'fomc',
+               'treasury', 'bond yield', '10-year', '2-year', 'bessent']
+    tech_kw = ['nvidia', 'apple', 'microsoft', 'google', 'alphabet', 'meta ',
+                'amazon', 'tesla', 'amd', 'ai ', 'semiconductor', 'chip ',
+                'openai', 'gpt', 'claude', 'broadcom', 'qualcomm', 'arm']
+    geo_kw = ['iran', 'israel', 'china', 'russia', 'ukraine', 'tariff',
+               'trade war', 'ceasefire', 'sanction', 'opec', 'saudi']
+    earn_kw = ['earnings', 'revenue', 'profit', 'quarter', 'q1', 'q2',
+                'fiscal', ' eps ', 'guidance', 'beat', 'miss']
 
-                # 移除开头的说明文字
-                lines = output.split("\n")
-                filtered = []
-                started = False
-                for line in lines:
-                    if "**市场走势**" in line:
-                        started = True
-                    if started:
-                        filtered.append(line)
-
-                output = "\n".join(filtered).strip()
-
-                print(output)  # 输出到 stdout
-                print("\n✅ Thesis generated successfully", file=sys.stderr)
-                return 0
-            else:
-                print(f"❌ Invalid format: {output[:200]}", file=sys.stderr)
-                raise ValueError("Invalid output format")
+    for h in headlines:
+        txt = h['headline'].lower()
+        if any(k in txt for k in fed_kw):
+            fed.append(h['headline'])
+        elif any(k in txt for k in tech_kw):
+            tech.append(h['headline'])
+        elif any(k in txt for k in geo_kw):
+            geo.append(h['headline'])
+        elif any(k in txt for k in earn_kw):
+            earnings.append(h['headline'])
         else:
-            print(f"❌ AI call failed: {result.stderr}", file=sys.stderr)
-            raise RuntimeError("AI call failed")
+            macro.append(h['headline'])
 
-    except Exception as e:
-        print(f"❌ Error: {e}", file=sys.stderr)
-        # Fallback: 使用简单模板
-        print("**市场走势**：美股震荡，关注科技股表现\n\n**核心驱动**：\n• Fed 政策预期持稳\n• 科技板块结构分化\n• 地缘与能源风险抬头\n\n**政治人物表态**：\n• 无\n\n**风险提示**：短期波动率维持高位")
-        return 1
+    return {'fed': fed, 'tech': tech, 'geo': geo, 'macro': macro, 'earnings': earnings}
+
+
+def generate_thesis(mdata, headlines, cats):
+    """基于真实数据生成市场主线结论"""
+    lines = []
+
+    # ── 1. 市场走势 ───────────────────────────────────────
+    spy = mdata.get('SPY', {})
+    qqq = mdata.get('QQQ', {})
+    vix = mdata.get('VIX', {})
+    tnx = mdata.get('TNX', {})
+
+    spy_chg = spy.get('chg', 0)
+    qqq_chg = qqq.get('chg', 0)
+    vix_price = vix.get('price', 0)
+    vix_chg = vix.get('chg', 0)
+    tnx_price = tnx.get('price', 0)
+    tnx_chg = tnx.get('chg', 0)
+
+    # 市场方向判断
+    if spy_chg > 0.5 and qqq_chg > 0.5:
+        direction = f"美股强势上涨，标普{spy_chg:+.2f}% 纳指{qqq_chg:+.2f}%"
+    elif spy_chg > 0:
+        direction = f"美股小幅走强，标普{spy_chg:+.2f}% 纳指{qqq_chg:+.2f}%"
+    elif spy_chg < -0.5:
+        direction = f"美股承压下跌，标普{spy_chg:+.2f}% 纳指{qqq_chg:+.2f}%"
+    else:
+        direction = f"美股震荡整理，标普{spy_chg:+.2f}% 纳指{qqq_chg:+.2f}%"
+
+    # VIX 判断
+    if vix_price > 25:
+        vix_stmt = f"VIX {vix_price:.1f}({vix_chg:+.1f}%)偏高，市场紧张"
+    elif vix_price > 18:
+        vix_stmt = f"VIX {vix_price:.1f}({vix_chg:+.1f}%)中性"
+    else:
+        vix_stmt = f"VIX {vix_price:.1f}({vix_chg:+.1f}%)偏低，风险偏好升温"
+
+    lines.append(f"**市场走势**：{direction}，{vix_stmt}")
+
+    # ── 2. 核心驱动 ───────────────────────────────────────
+    drivers = []
+
+    if tnx_price > 0:
+        if tnx_chg > 0:
+            drivers.append(f"10Y美债收益率{tnx_price:.2f}%({tnx_chg:+.1f}%)回升，利率压力")
+        else:
+            drivers.append(f"10Y美债收益率{tnx_price:.2f}%({tnx_chg:+.1f}%)回落，宽松预期升温")
+
+    if cats['fed']:
+        drivers.append(f"美联储/宏观：{cats['fed'][0][:75]}")
+
+    if cats['geo']:
+        drivers.append(f"地缘/能源：{cats['geo'][0][:75]}")
+
+    if cats['tech']:
+        drivers.append(f"科技/AI：{cats['tech'][0][:75]}")
+
+    if cats['earnings']:
+        drivers.append(f"财报动态：{cats['earnings'][0][:75]}")
+
+    lines.append("")
+    lines.append("**核心驱动**：")
+    for d in drivers[:4]:
+        lines.append(f"• {d}")
+
+    # ── 3. 今日重大事件 ───────────────────────────────────
+    lines.append("")
+    lines.append("**今日重大事件**（来源 RSS）：")
+
+    key_events = []
+    for h in headlines:
+        txt = h['headline']
+        lower = txt.lower()
+        if any(k in lower for k in ['surge', 'plunge', 'soar', 'jump', 'break',
+                                      'record', 'deal', 'agreement', 'announcement',
+                                      'ban ', 'block', 'investigation', 'selloff']):
+            key_events.append(txt[:90])
+
+    for ev in key_events[:4]:
+        lines.append(f"• {ev}")
+
+    if not key_events:
+        for h in headlines[:3]:
+            lines.append(f"• {h['headline'][:90]}")
+
+    # ── 4. 风险提示 ───────────────────────────────────────
+    lines.append("")
+    lines.append("**风险提示**：")
+
+    risks = []
+    if vix_price > 20:
+        risks.append("VIX 仍偏高，波动率风险未完全消除")
+    if cats['geo']:
+        risks.append("地缘事件仍存不确定性，可能快速逆转市场情绪")
+    if cats['earnings']:
+        risks.append("财报密集期，个股分化显著，注意仓位风险")
+    if tnx_price > 4.5:
+        risks.append("10Y 利率高于 4.5%，成长股估值压力持续")
+    if not risks:
+        risks.append("市场情绪稳定，注意美债收益率和地缘动向")
+
+    for r in risks[:2]:
+        lines.append(f"• {r}")
+
+    return "\n".join(lines)
+
+
+def main():
+    print("📊 Generating market thesis (data-driven)...", file=sys.stderr)
+
+    mdata = get_market_data()
+    headlines = get_rss_headlines()
+    cats = categorize_headlines(headlines)
+
+    analysis = generate_thesis(mdata, headlines, cats)
+    print(analysis)
+    return 0
 
 
 if __name__ == "__main__":
