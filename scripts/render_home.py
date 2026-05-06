@@ -13,19 +13,45 @@ BRIEFS = DOCS / "briefs.json"
 OUT = DOCS / "index.html"
 MARKET_PULSE_CACHE = DOCS / ".market_pulse_cache.json"
 
-# ── 本周财报日历（每周一更新）────────────────────────────
-EARNINGS_CALENDAR = [
-    ("May  4 Mon", "SoFi Technologies (SOFI)",  "AMC",   "Q1 2026", ""),
-    ("May  5 Tue", "Palantir (PLTR)",            "AMC",   "Q1 2026", ""),
-    ("May  5 Tue", "Robinhood (HOOD)",           "AMC",   "Q1 2026", ""),
-    ("May  6 Wed", "ARM Holdings (ARM)",          "AMC",   "Q1 FY2026", ""),
-    ("May  6 Wed", "DoorDash (DASH)",            "AMC",   "Q1 2026", ""),
-    ("May  7 Thu", "The Trade Desk (TTD)",       "AMC",   "Q1 2026", ""),
-    ("May  7 Thu", "Roku (ROKU)",                "AMC",   "Q1 2026", ""),
-    ("May  8 Fri", "Western Digital (WDC)",      "AMC",   "Q3 FY2026", ""),
-    ("May 27 Wed", "Nvidia (NVDA)",              "AMC",   "Q1 FY2027", ""),
-    ("Jun  4 Thu", "Broadcom (AVGO)",            "AMC",   "Q2 FY2026", "AI基础设施密集"),
+# ── 财报日历（已发布 + 未来动态，自动获取）─────────────────
+# 已发布但值得展示的（yfinance 只显示未来，本周已发布的手动标注）
+PUBLISHED_THIS_WEEK = [
+    # ("公司名", "Q1 2026", "AMC/BMO", "备注"),
 ]
+
+def _fetch_earnings_calendar() -> list[dict]:
+    """从 yfinance 自动获取本周财报日历（未来7天内）"""
+    import datetime as dt
+    try:
+        from yfinance.calendars import Calendars
+        cal = Calendars()
+        df = cal.get_earnings_calendar(limit=100)
+        if df.empty:
+            return []
+        today = dt.date.today()
+        week_end = today + dt.timedelta(days=7)
+        dates = df["Event Start Date"].dt.tz_localize(None).dt.date
+        mask = (dates >= today) & (dates <= week_end)
+        this_week = df[mask].sort_values("Event Start Date")
+        rows = []
+        for sym, row in this_week.iterrows():
+            company = str(row.get("Company", sym))
+            event = str(row.get("Event Name", ""))
+            period = event.replace(" Earnings Announcement", "") if "Earnings Announcement" in event else event
+            ts = row["Event Start Date"].tz_localize(None)
+            date_str = ts.strftime("%m/%d").lstrip("0").replace("/0", "/")
+            timing = "AMC" if str(row.get("Timing", "")).upper() == "AMC" else "BMO"
+            rows.append({
+                "time": date_str,
+                "company": company,
+                "release": timing,
+                "period": period,
+                "note": ""
+            })
+        return rows
+    except Exception as e:
+        print(f"⚠️  yfinance earnings calendar unavailable: {e}", file=sys.stderr)
+        return []
 
 
 def _now_bjt() -> dt.datetime:
@@ -418,12 +444,12 @@ def main() -> int:
         if not today_events and not tomorrow_events:
             html_parts.append('<div class="note">（今明两日无⭐⭐⭐级数据发布）</div>')
         
-        # 本周财报提醒：直接遍历 EARNINGS_CALENDAR
-        unique_earnings = []
-        for row in EARNINGS_CALENDAR:
+        # 本周财报：动态获取 + 已发布手动补充
+        unique_earnings = list(PUBLISHED_THIS_WEEK)
+        for row in _fetch_earnings_calendar():
             unique_earnings.append({
-                "time": row[0], "company": row[1],
-                "release": row[2], "period": row[3], "note": row[4]
+                "time": row["time"], "company": row["company"],
+                "release": row["release"], "period": row["period"], "note": row["note"]
             })
 
         # 生成财报 HTML
