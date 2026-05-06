@@ -1,8 +1,20 @@
 {
-  "generatedAt": "2026-05-07 00:01",
+  "generatedAt": "2026-05-07 02:05",
   "timezone": "Asia/Shanghai",
   "total_scanned": 48,
-  "breakouts": [],
+  "breakouts": [
+    {
+      "ticker": "AMD",
+      "date": "2026-05-06",
+      "price": 417.08,
+      "high_20": 362.79,
+      "breakout_pct": 14.96,
+      "gain_pct": 17.4,
+      "vol_today": 65831057,
+      "vol_20_avg": 41929325,
+      "vol_ratio": 1.6
+    }
+  ],
   "errors": [
     "ATVI"
   ]
