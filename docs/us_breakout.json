@@ -1,18 +1,29 @@
 {
-  "generatedAt": "2026-05-08 02:49",
+  "generatedAt": "2026-05-08 04:52",
   "timezone": "Asia/Shanghai",
   "total_scanned": 48,
   "breakouts": [
     {
+      "ticker": "CRWD",
+      "date": "2026-05-07",
+      "price": 505.72,
+      "high_20": 480.66,
+      "breakout_pct": 5.21,
+      "gain_pct": 8.04,
+      "vol_today": 5069440,
+      "vol_20_avg": 3116065,
+      "vol_ratio": 1.6
+    },
+    {
       "ticker": "QCOM",
       "date": "2026-05-07",
-      "price": 201.24,
+      "price": 202.55,
       "high_20": 197.5,
-      "breakout_pct": 1.89,
-      "gain_pct": 4.5,
-      "vol_today": 41475872,
-      "vol_20_avg": 20119840,
-      "vol_ratio": 2.1
+      "breakout_pct": 2.56,
+      "gain_pct": 5.18,
+      "vol_today": 50166620,
+      "vol_20_avg": 20120990,
+      "vol_ratio": 2.5
     }
   ],
   "errors": [
