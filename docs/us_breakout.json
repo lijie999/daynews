@@ -1,8 +1,31 @@
 {
-  "generatedAt": "2026-05-12 02:58",
+  "generatedAt": "2026-05-12 05:02",
   "timezone": "Asia/Shanghai",
   "total_scanned": 48,
-  "breakouts": [],
+  "breakouts": [
+    {
+      "ticker": "MU",
+      "date": "2026-05-11",
+      "price": 795.33,
+      "high_20": 747.21,
+      "breakout_pct": 6.44,
+      "gain_pct": 6.5,
+      "vol_today": 69115976,
+      "vol_20_avg": 42669985,
+      "vol_ratio": 1.6
+    },
+    {
+      "ticker": "QCOM",
+      "date": "2026-05-11",
+      "price": 237.53,
+      "high_20": 228.05,
+      "breakout_pct": 4.16,
+      "gain_pct": 8.42,
+      "vol_today": 44023677,
+      "vol_20_avg": 23676090,
+      "vol_ratio": 1.9
+    }
+  ],
   "errors": [
     "ATVI"
   ]
