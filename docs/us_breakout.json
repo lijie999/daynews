@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12 11:16",
+  "generatedAt": "2026-05-12 13:18",
   "timezone": "Asia/Shanghai",
   "total_scanned": 48,
   "breakouts": [
@@ -10,9 +10,9 @@
       "high_20": 747.21,
       "breakout_pct": 6.44,
       "gain_pct": 6.5,
-      "vol_today": 69115976,
+      "vol_today": 70545100,
       "vol_20_avg": 42704275,
-      "vol_ratio": 1.6
+      "vol_ratio": 1.7
     },
     {
       "ticker": "QCOM",
@@ -21,9 +21,20 @@
       "high_20": 228.05,
       "breakout_pct": 4.16,
       "gain_pct": 8.42,
-      "vol_today": 44023677,
+      "vol_today": 45403100,
       "vol_20_avg": 23679095,
       "vol_ratio": 1.9
+    },
+    {
+      "ticker": "BIIB",
+      "date": "2026-05-11",
+      "price": 197.95,
+      "high_20": 195.98,
+      "breakout_pct": 1.01,
+      "gain_pct": 2.33,
+      "vol_today": 1772200,
+      "vol_20_avg": 1120060,
+      "vol_ratio": 1.6
     }
   ],
   "errors": [
