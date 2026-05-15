@@ -1,8 +1,20 @@
 {
-  "generatedAt": "2026-05-16 02:58",
+  "generatedAt": "2026-05-16 05:02",
   "timezone": "Asia/Shanghai",
   "total_scanned": 48,
-  "breakouts": [],
+  "breakouts": [
+    {
+      "ticker": "PANW",
+      "date": "2026-05-15",
+      "price": 242.83,
+      "high_20": 239.15,
+      "breakout_pct": 1.54,
+      "gain_pct": 1.94,
+      "vol_today": 11534005,
+      "vol_20_avg": 7048785,
+      "vol_ratio": 1.6
+    }
+  ],
   "errors": [
     "ATVI"
   ]
