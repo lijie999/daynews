@@ -1,8 +1,20 @@
 {
-  "generatedAt": "2026-05-20 10:44",
+  "generatedAt": "2026-05-20 12:47",
   "timezone": "Asia/Shanghai",
   "total_scanned": 48,
-  "breakouts": [],
+  "breakouts": [
+    {
+      "ticker": "COST",
+      "date": "2026-05-19",
+      "price": 1094.32,
+      "high_20": 1079.83,
+      "breakout_pct": 1.34,
+      "gain_pct": 1.66,
+      "vol_today": 2851900,
+      "vol_20_avg": 1770730,
+      "vol_ratio": 1.6
+    }
+  ],
   "errors": [
     "ATVI"
   ]
