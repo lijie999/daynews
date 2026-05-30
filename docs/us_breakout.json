@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30 13:21",
+  "generatedAt": "2026-05-30 15:24",
   "timezone": "Asia/Shanghai",
   "total_scanned": 48,
   "breakouts": [
@@ -37,17 +37,6 @@
       "vol_ratio": 2.3
     },
     {
-      "ticker": "AVGO",
-      "date": "2026-05-29",
-      "price": 446.77,
-      "high_20": 442.36,
-      "breakout_pct": 1.0,
-      "gain_pct": 4.73,
-      "vol_today": 41718900,
-      "vol_20_avg": 18569050,
-      "vol_ratio": 2.2
-    },
-    {
       "ticker": "CRM",
       "date": "2026-05-29",
       "price": 191.1,
@@ -60,6 +49,7 @@
     }
   ],
   "errors": [
+    "AVGO",
     "ATVI"
   ]
 }
