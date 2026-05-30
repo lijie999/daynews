@@ -2,10 +2,18 @@
 """
 生成主线结论：数据驱动的市场分析
 直接从 yfinance 获取实时行情 + RSS 头条 + 翻译
+
+新结构（三行速读）：
+  🟢 看多信号（≤3条）
+  🔴 看空信号（≤3条）
+  ⚡ 今日最大变量（1句话）
 """
+
 import json
+import re
 import sys
 from pathlib import Path
+from collections import Counter
 
 REPO_DIR = Path(__file__).resolve().parent.parent
 
@@ -49,7 +57,7 @@ def get_market_data():
     return result
 
 
-def get_rss_headlines(limit=20):
+def get_rss_headlines(limit=40):
     """获取 RSS 头条"""
     cache = REPO_DIR / ".cache" / "rss_items.json"
     if not cache.exists():
@@ -64,7 +72,12 @@ def get_rss_headlines(limit=20):
             src = it.get('source', '?')
             url = it.get('url', '')
             if h:
-                headlines.append({'headline': h, 'source': src, 'url': url})
+                headlines.append({
+                    'headline': h,
+                    'source': src,
+                    'url': url,
+                    'summary': it.get('summary', '')
+                })
             if len(headlines) >= limit:
                 break
         return headlines
@@ -72,41 +85,130 @@ def get_rss_headlines(limit=20):
         return []
 
 
-def categorize_headlines(headlines):
-    """将头条按主题分类"""
-    fed, tech, geo, macro, earnings = [], [], [], [], []
-
-    fed_kw = ['fed ', 'federal reserve', 'powell', 'interest rate', 'fomc',
-               'treasury', 'bond yield', '10-year', '2-year', 'bessent']
-    tech_kw = ['nvidia', 'apple', 'microsoft', 'google', 'alphabet', 'meta ',
-                'amazon', 'tesla', 'amd', 'ai ', 'semiconductor', 'chip ',
-                'openai', 'gpt', 'claude', 'broadcom', 'qualcomm', 'arm']
-    geo_kw = ['iran', 'israel', 'china', 'russia', 'ukraine', 'tariff',
-               'trade war', 'ceasefire', 'sanction', 'opec', 'saudi']
-    earn_kw = ['earnings', 'revenue', 'profit', 'quarter', 'q1', 'q2',
-                'fiscal', ' eps ', 'guidance', 'beat', 'miss']
-
-    for h in headlines:
-        txt = h['headline'].lower()
-        if any(k in txt for k in fed_kw):
-            fed.append(h['headline'])
-        elif any(k in txt for k in tech_kw):
-            tech.append(h['headline'])
-        elif any(k in txt for k in geo_kw):
-            geo.append(h['headline'])
-        elif any(k in txt for k in earn_kw):
-            earnings.append(h['headline'])
-        else:
-            macro.append(h['headline'])
-
-    return {'fed': fed, 'tech': tech, 'geo': geo, 'macro': macro, 'earnings': earnings}
+def _looks_english(s: str) -> bool:
+    s = (s or "").strip()
+    if not s:
+        return False
+    letters = sum(1 for ch in s if ("A" <= ch <= "Z") or ("a" <= ch <= "z"))
+    return letters >= 12
 
 
-def generate_thesis(mdata, headlines, cats):
-    """基于真实数据生成市场主线结论"""
-    lines = []
+def _tx(s: str) -> str:
+    """翻译（如果需要）"""
+    if not s or not _looks_english(s):
+        return s
+    try:
+        return translate_zh(s)
+    except Exception:
+        return s
 
-    # ── 1. 市场走势 ───────────────────────────────────────
+
+def _is_cramer(h: str) -> bool:
+    """过滤 Cramer 内容（节目评论，不是市场驱动）"""
+    l = h.lower()
+    return any(k in l for k in [
+        'jim cramer', 'cramer says', 'cramer on', 'cramer:',
+        'mad max', 'i think my nose', 'i was wrong',
+        'the kramma', 'cramer"'
+    ])
+
+
+def _is_routine(s: str) -> bool:
+    """过滤常规性内容（周报、回顾、推荐列表等非事件驱动）"""
+    l = s.lower()
+    return any(k in l for k in [
+        'week ahead', 'stock market week', 'what to watch',
+        'best stocks to', 'analyst favorites', 'rating: buy',
+        'retirement mistake', 'social security', 'credit card',
+        'dave ramsey', 'billionaire', 'portfolio', 'Alpha Check',
+    ]) or s.startswith('Is ') or s.startswith('Is ')
+
+
+def _is_question(s: str) -> bool:
+    """过滤问句格式（推荐类、列表类文章标题）"""
+    return '?' in s or s.startswith('Is ') or s.startswith('Should ') or s.startswith('Can ')
+
+
+# ── 信号识别规则 ────────────────────────────────────────────
+
+BULL_PATTERNS = [
+    (r'\b(surge|soar|jump|pop|rally)\b', "技术性上涨"),
+    (r'\b(gain [123]\d%|up [123]\d%)\b', "大幅走强"),
+    (r'\b(new high|record high|all.time high|ATH)\b', "价格创新高"),
+    (r'\b(beat|beats|exceed|blows out|in line)\b', "财报超预期"),
+    (r'\b(fed dovish|ease|easing|cut rates|cutting rates|rate cut|pivot)\b', "美联储宽松"),
+    (r'\b(ceasefire|peace deal|deal done|agreement signed|truce)\b', "地缘缓和"),
+    (r'\b(raises guidance|raises forecast|boosts outlook|upside)\b', "上调指引"),
+    (r'\b(acquisition|merger|buyout|deal)\b', "并购消息"),
+    (r'\b(ai deal|defense contract|government contract|pentagon|deal done)\b', "AI/国防订单"),
+    (r'\b(highs|hit highs|leads? [123])\b', "领涨"),
+    (r'\b(buy now|best to buy|strong buy|overweight)\b', "机构看多"),
+]
+
+BEAR_PATTERNS = [
+    (r'\b(plunge|drop [123]\d%|fall [123]\d%|tumble|retreat|slide)\b', "技术性下跌"),
+    (r'\b(new low|record low|all.time low|ATL)\b', "价格创新低"),
+    (r'\b(miss|misses|below estimate|warns|guidance cut|cuts outlook)\b', "财报低于预期"),
+    (r'\b(fed hawkish|tighten|rate hike|hiking rates)\b', "美联储紧缩"),
+    (r'\b(strike|attack|missile|blasts?|sanctions|retaliat|conflict)\b', "地缘冲突升级"),
+    (r'\b(vix spike|vix up|vix >|fear|panic|ticking time bomb)\b', "VIX飙升/恐慌"),
+    (r'\b(lawsuit|sec|doj|investigation|antitrust|ban|block|delisting)\b', "监管风险"),
+    (r'\b(inflation hotter|price pressure|wage pressure|cpi jump)\b', "通胀担忧"),
+    (r'\b(selloff|sell.off|breakdown|support fail)\b', "破位下行"),
+    (r'\b(warning|stark warning)\b', "警告信号"),
+]
+
+DRIVER_PATTERNS = [
+    (r'\b(tariff|trade war|trade deal)\b', "关税/贸易战"),
+    (r'\b(fed meeting|fomc|rate decision|powell)\b', "美联储政策"),
+    (r'\b(iran|israel|gaza|ukraine|russia|china|nato)\b', "地缘风险"),
+    (r'\b(oil|opec|saudi|energy|brent|wti crude)\b', "能源价格"),
+    (r'\b(nvidia|ai chip|gpu|semiconductor|arm|avgo|amd|qualcomm)\b', "AI/半导体"),
+    (r'\b(treasury|yield|10.year|2.year|bond auction)\b', "美债收益率"),
+    (r'\b(earnings|quarterly results|q[1234])\b', "财报季"),
+    (r'\b(robotaxi|tesla|optimus|fsd|autonomous)\b', "特斯拉/自动驾驶"),
+    (r'\b(inflation|cpi|pce|ppi|gdp|payroll|jobs)\b', "宏观数据"),
+    (r'\b(earnings growth|growth story|ai boom)\b', "AI/增长主题"),
+]
+
+
+def _match(s: str, patterns: list) -> tuple[bool, str]:
+    for pat, label in patterns:
+        if re.search(pat, s, re.I):
+            return True, label
+    return False, ""
+
+
+def _signal_label(item: dict) -> tuple[str, str]:
+    """给一条新闻打标签：(信号类型, 标签)"""
+    t = ((item.get('headline') or '') + ' ' + (item.get('summary', '')))
+    bull, blabel = _match(t, BULL_PATTERNS)
+    bear, belabel = _match(t, BEAR_PATTERNS)
+    if bull and not bear:
+        return "bull", blabel
+    if bear and not bull:
+        return "bear", belabel
+    if bull and bear:
+        return "mixed", f"{blabel}+{belabel}"
+    return "neutral", ""
+
+
+def _driver_label(item: dict) -> str:
+    """识别今日最大变量"""
+    t = ((item.get('headline') or '') + ' ' + (item.get('summary', '')))
+    for pat, label in DRIVER_PATTERNS:
+        if re.search(pat, t, re.I):
+            return label
+    return ""
+
+
+def generate_thesis(mdata: dict, headlines: list[dict]) -> str:
+    """
+    三行速读结构主线结论
+    """
+    lines: list[str] = []
+
+    # ── 市场技术面 ─────────────────────────────────────────
     spy = mdata.get('SPY', {})
     qqq = mdata.get('QQQ', {})
     vix = mdata.get('VIX', {})
@@ -119,6 +221,7 @@ def generate_thesis(mdata, headlines, cats):
     tnx_price = tnx.get('price', 0)
     tnx_chg = tnx.get('chg', 0)
 
+    # 描述市场走势（必须有 **市场走势** 供 render_thesis() 验证）
     if spy_chg > 0.5 and qqq_chg > 0.5:
         direction = f"美股强势上涨，标普{spy_chg:+.2f}% 纳指{qqq_chg:+.2f}%"
     elif spy_chg > 0:
@@ -128,89 +231,114 @@ def generate_thesis(mdata, headlines, cats):
     else:
         direction = f"美股震荡整理，标普{spy_chg:+.2f}% 纳指{qqq_chg:+.2f}%"
 
-    if vix_price > 25:
-        vix_stmt = f"VIX {vix_price:.1f}({vix_chg:+.1f}%)偏高，市场紧张"
-    elif vix_price > 18:
-        vix_stmt = f"VIX {vix_price:.1f}({vix_chg:+.1f}%)中性"
+    if vix_price > 20:
+        vix_stmt = f"VIX {vix_price:.1f} 偏高，波动风险升温"
+    elif vix_price < 15:
+        vix_stmt = f"VIX {vix_price:.1f} 偏低，风险偏好强"
     else:
-        vix_stmt = f"VIX {vix_price:.1f}({vix_chg:+.1f}%)偏低，风险偏好升温"
+        vix_stmt = f"VIX {vix_price:.1f} 中性"
 
     lines.append(f"**市场走势**：{direction}，{vix_stmt}")
 
-    # ── 2. 核心驱动 ───────────────────────────────────────
-    drivers = []
+    # ── 收集信号 ───────────────────────────────────────────
+    tech_bull, tech_bear = [], []
+    news_bull, news_bear = [], []
+    driver_candidates = []
 
-    if tnx_price > 0:
-        if tnx_chg > 0:
-            drivers.append(f"10Y美债收益率{tnx_price:.2f}%({tnx_chg:+.1f}%)回升，利率压力")
-        else:
-            drivers.append(f"10Y美债收益率{tnx_price:.2f}%({tnx_chg:+.1f}%)回落，宽松预期升温")
-
-    # 翻译标题后再展示
-    if cats['fed']:
-        drivers.append(f"美联储/宏观：{translate_zh(cats['fed'][0])[:75]}")
-    if cats['geo']:
-        drivers.append(f"地缘/能源：{translate_zh(cats['geo'][0])[:75]}")
-    if cats['tech']:
-        drivers.append(f"科技/AI：{translate_zh(cats['tech'][0])[:75]}")
-    if cats['earnings']:
-        drivers.append(f"财报动态：{translate_zh(cats['earnings'][0])[:75]}")
-
-    lines.append("")
-    lines.append("**核心驱动**：")
-    for d in drivers[:4]:
-        lines.append(f"• {d}")
-
-    # ── 3. 今日重大事件 ────────────────────────────────────
-    lines.append("")
-    lines.append("**今日重大事件**：")
-
-    key_events = []
-    for h in headlines:
-        txt = h['headline']
-        lower = txt.lower()
-        if any(k in lower for k in ['surge', 'plunge', 'soar', 'jump', 'break',
-                                      'record', 'deal', 'agreement', 'announcement',
-                                      'ban ', 'block', 'investigation', 'selloff']):
-            key_events.append(translate_zh(txt)[:90])
-
-    for ev in key_events[:4]:
-        lines.append(f"• {ev}")
-
-    if not key_events:
-        sample = [translate_zh(h['headline'])[:90] for h in headlines[:3]]
-        lines.extend([f"• {s}" for s in sample])
-
-    # ── 4. 风险提示 ────────────────────────────────────────
-    lines.append("")
-    lines.append("**风险提示**：")
-
-    risks = []
+    # 技术面信号（直接来自价格变化）
+    if spy_chg > 0.5:
+        tech_bull.append(f"标普+{spy_chg:+.2f}%（技术偏多）")
+    elif spy_chg < -0.5:
+        tech_bear.append(f"标普{spy_chg:+.2f}%（技术偏空）")
+    if qqq_chg > 0.5:
+        tech_bull.append(f"纳指+{qqq_chg:+.2f}%（科技偏多）")
+    elif qqq_chg < -0.5:
+        tech_bear.append(f"纳指{qqq_chg:+.2f}%（科技偏空）")
     if vix_price > 20:
-        risks.append("VIX 仍偏高，波动率风险未完全消除")
-    if cats['geo']:
-        risks.append("地缘事件仍存不确定性，可能快速逆转市场情绪")
-    if cats['earnings']:
-        risks.append("财报密集期，个股分化显著，注意仓位风险")
-    if tnx_price > 4.5:
-        risks.append("10Y 利率高于 4.5%，成长股估值压力持续")
-    if not risks:
-        risks.append("市场情绪稳定，注意美债收益率和地缘动向")
+        tech_bear.append(f"VIX {vix_price:.1f} 偏高（波动风险）")
+    elif vix_price < 15:
+        tech_bull.append(f"VIX {vix_price:.1f} 偏低（风险偏好强）")
+    if tnx_chg < -0.05:
+        tech_bull.append(f"10Y {tnx_price:.2f}% 回落（宽松预期升温）")
+    elif tnx_chg > 0.05:
+        tech_bear.append(f"10Y {tnx_price:.2f}% 攀升（利率压力）")
 
-    for r in risks[:2]:
-        lines.append(f"• {r}")
+    # 新闻信号（排除 Cramer 和常规内容）
+    for h in headlines:
+        headline = h.get('headline', '')
+        if _is_cramer(headline):
+            continue
+        if _is_routine(headline):
+            continue
+        if _is_question(headline):
+            continue
+        sig, label = _signal_label(h)
+        drv = _driver_label(h)
+        if drv:
+            driver_candidates.append(drv)
+        if sig == "bull":
+            news_bull.append(headline)
+        elif sig == "bear":
+            news_bear.append(headline)
+
+    all_bull = tech_bull[:]
+    all_bear = tech_bear[:]
+
+    for hl in news_bull[:4]:
+        short = _tx(hl)[:72].strip()
+        if short:
+            all_bull.append(short)
+    for hl in news_bear[:4]:
+        short = _tx(hl)[:72].strip()
+        if short:
+            all_bear.append(short)
+
+    # ── 今日最大变量 ────────────────────────────────────────
+    drv_counts = Counter(driver_candidates)
+    if drv_counts:
+        top_driver = drv_counts.most_common(1)[0][0]
+    else:
+        if tnx_price > 4.6:
+            top_driver = "美债收益率突破4.6%（利率压力）"
+        elif vix_price > 20:
+            top_driver = "VIX 飙升（波动率风险）"
+        elif tech_bull:
+            top_driver = "技术面支撑偏多（指数走强）"
+        elif tech_bear:
+            top_driver = "技术面压力偏空（指数承压）"
+        else:
+            top_driver = "宏观政策/地缘主导"
+
+    # ── 输出（3行结构）────────────────────────────────────
+    lines.append("")
+    lines.append("🟢 看多信号：")
+    if all_bull:
+        for sig in all_bull[:3]:
+            lines.append(f"• {sig}")
+    else:
+        lines.append("• 无明确信号（VIX 低位，市场偏稳）")
+
+    lines.append("")
+    lines.append("🔴 看空信号：")
+    if all_bear:
+        for sig in all_bear[:3]:
+            lines.append(f"• {sig}")
+    else:
+        lines.append("• 无明确信号（市场未出现明显恐慌）")
+
+    lines.append("")
+    lines.append(f"⚡ 今日最大变量：{top_driver}")
 
     return "\n".join(lines)
 
 
 def main():
-    print("📊 Generating market thesis (data-driven, Chinese)...", file=sys.stderr)
+    print("📊 Generating market thesis (3-row format)...", file=sys.stderr)
 
     mdata = get_market_data()
     headlines = get_rss_headlines()
-    cats = categorize_headlines(headlines)
 
-    analysis = generate_thesis(mdata, headlines, cats)
+    analysis = generate_thesis(mdata, headlines)
     print(analysis)
     return 0
 
