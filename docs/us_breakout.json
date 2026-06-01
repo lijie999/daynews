@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-06-02 04:11",
+  "generatedAt": "2026-06-02 06:14",
   "timezone": "Asia/Shanghai",
   "total_scanned": 48,
   "breakouts": [
     {
       "ticker": "CRM",
       "date": "2026-06-01",
-      "price": 209.56,
+      "price": 209.6,
       "high_20": 194.14,
-      "breakout_pct": 7.94,
-      "gain_pct": 9.66,
-      "vol_today": 24965661,
+      "breakout_pct": 7.96,
+      "gain_pct": 9.68,
+      "vol_today": 27371109,
       "vol_20_avg": 14091395,
-      "vol_ratio": 1.8
+      "vol_ratio": 1.9
     },
     {
       "ticker": "PANW",
@@ -32,13 +32,12 @@
       "high_20": 265.09,
       "breakout_pct": 3.37,
       "gain_pct": 5.72,
-      "vol_today": 8123401,
+      "vol_today": 8483077,
       "vol_20_avg": 4691765,
-      "vol_ratio": 1.7
+      "vol_ratio": 1.8
     }
   ],
   "errors": [
-    "NVDA",
     "ATVI"
   ]
 }
