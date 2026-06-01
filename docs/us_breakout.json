@@ -1,9 +1,44 @@
 {
-  "generatedAt": "2026-06-02 02:07",
+  "generatedAt": "2026-06-02 04:11",
   "timezone": "Asia/Shanghai",
   "total_scanned": 48,
-  "breakouts": [],
+  "breakouts": [
+    {
+      "ticker": "CRM",
+      "date": "2026-06-01",
+      "price": 209.56,
+      "high_20": 194.14,
+      "breakout_pct": 7.94,
+      "gain_pct": 9.66,
+      "vol_today": 24965661,
+      "vol_20_avg": 14091395,
+      "vol_ratio": 1.8
+    },
+    {
+      "ticker": "PANW",
+      "date": "2026-06-01",
+      "price": 300.48,
+      "high_20": 283.71,
+      "breakout_pct": 5.91,
+      "gain_pct": 6.67,
+      "vol_today": 13405338,
+      "vol_20_avg": 8464470,
+      "vol_ratio": 1.6
+    },
+    {
+      "ticker": "ADBE",
+      "date": "2026-06-01",
+      "price": 274.03,
+      "high_20": 265.09,
+      "breakout_pct": 3.37,
+      "gain_pct": 5.72,
+      "vol_today": 8123401,
+      "vol_20_avg": 4691765,
+      "vol_ratio": 1.7
+    }
+  ],
   "errors": [
+    "NVDA",
     "ATVI"
   ]
 }
