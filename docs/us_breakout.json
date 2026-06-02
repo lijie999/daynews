@@ -1,18 +1,29 @@
 {
-  "generatedAt": "2026-06-03 02:46",
+  "generatedAt": "2026-06-03 04:50",
   "timezone": "Asia/Shanghai",
   "total_scanned": 48,
   "breakouts": [
     {
       "ticker": "MRVL",
       "date": "2026-06-02",
-      "price": 282.33,
+      "price": 290.79,
       "high_20": 225.14,
-      "breakout_pct": 25.4,
-      "gain_pct": 28.67,
-      "vol_today": 80610773,
-      "vol_20_avg": 28735930,
-      "vol_ratio": 2.8
+      "breakout_pct": 29.16,
+      "gain_pct": 32.52,
+      "vol_today": 101985331,
+      "vol_20_avg": 28740930,
+      "vol_ratio": 3.5
+    },
+    {
+      "ticker": "AVGO",
+      "date": "2026-06-02",
+      "price": 481.57,
+      "high_20": 466.05,
+      "breakout_pct": 3.33,
+      "gain_pct": 4.7,
+      "vol_today": 34919080,
+      "vol_20_avg": 20503060,
+      "vol_ratio": 1.7
     }
   ],
   "errors": [
